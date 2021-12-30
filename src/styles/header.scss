@@ -1,0 +1,41 @@
+@import "./variables.scss";
+
+.header {
+  position: fixed;
+  top: 0;
+  @include flex-center(row, space-between, center);
+  width: 100%;
+  height: $header-height;
+  background-color: $white;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+  padding: 0 4 * $factor;
+  z-index: 100;
+  .title {
+    @include flex-center(row, flex-start, center);
+    width: 20%;
+    margin: 0;
+    .logo {
+      width: 6 * $factor;
+      height: 6 * $factor;
+      margin-right: 2 * $factor;
+    }
+    .link {
+      font-size: $font-large;
+      color: $brand;
+      text-decoration: none;
+    }
+  }
+  .navbar {
+    @include flex-center(row, space-around, center);
+    width: 50%;
+    .link {
+      font-size: $font-small;
+      color: $brand;
+      text-decoration: none;
+    }
+  }
+  .secondary {
+    width: 30%;
+    @include flex-center(row, flex-end, center);
+  }
+}

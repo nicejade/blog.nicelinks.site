@@ -1,0 +1,29 @@
+$brand: #20a0ff;
+
+$white: #ffffff;
+$silver: #eaeaea;
+$grey: #6b778d;
+$black: #000000;
+$red: #ff6768;
+$green: #ffff00;
+$jade: #34dfa5;
+
+$border: #f0f8ff;
+
+$factor: 0.5rem;
+
+$font-large: 2rem;
+$font-medium: 1.8rem;
+$font-small: 1.6rem;
+
+$header-height: 12 * $factor;
+$footer-height: 18 * $factor;
+$content-width: 160 * $factor;
+
+// scss mixin
+@mixin flex-center($direction: row, $justify: center, $align-items: center) {
+  display: flex;
+  flex-direction: $direction;
+  align-items: $align-items;
+  justify-content: $justify;
+}

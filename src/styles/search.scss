@@ -1,0 +1,30 @@
+@import "./variables.scss";
+
+.search-area {
+  .search-bar {
+    width: 40 * $factor;
+    position: relative;
+    background: $white;
+    color: $grey;
+    font-size: $font-small;
+    $font-large: 20px;
+    padding: 10px 15px;
+    box-shadow: rgb(0 0 0 / 10%) 0 0 0 1px inset;
+    font-size: 12px;
+    line-height: 16px;
+    padding: 6px 12px;
+    border-radius: 3em;
+    background: transparent;
+    appearance: none;
+    border: none;
+    box-sizing: border-box;
+    display: block;
+    outline: none;
+    margin: 0;
+    &:focus {
+      outline: none;
+      border: 1px solid $brand;
+      box-shadow: none;
+    }
+  }
+}

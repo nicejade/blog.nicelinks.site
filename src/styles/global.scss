@@ -1,0 +1,40 @@
+@import "./variables.scss";
+
+html,
+body {
+  font: normal 14px/1 "sans-serif;", "Open Sans", "SF Pro Text",
+    "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial",
+    sans-serif;
+}
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+.wrapper {
+  margin: auto 6 * $factor;
+  margin-top: $header-height;
+  .content {
+    max-width: $content-width;
+    margin: auto;
+    padding: 6 * $factor 0;
+  }
+}
+
+@media screen and (min-width: 72rem) and (max-width: 256rem) {
+  .header {
+    display: flex;
+  }
+  .mheader {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 72rem) {
+  .mheader {
+    display: flex;
+  }
+  .header {
+    display: none;
+  }
+}

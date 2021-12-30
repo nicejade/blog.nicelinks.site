@@ -1,0 +1,57 @@
+@import "./variables.scss";
+
+.container {
+  width: 100%;
+  @include flex-center(row, space-between, center);
+  flex-wrap: wrap;
+  .article-card {
+    position: relative;
+    display: inline-flex;
+    width: calc(33.3% - 3rem);
+    border-radius: $factor;
+    margin: 1rem 0;
+    box-shadow: 8px 8px 20px rgb(65 65 65 / 20%);
+    transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
+    &:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 0 0 transparent;
+    }
+    .link {
+      color: $brand;
+      .card-picture {
+        margin: 0;
+        padding: 0;
+      }
+      .title {
+        font-size: $font-small;
+        padding: 4 * $factor;
+        margin: 0;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 36rem) {
+  .container {
+    @include flex-center(row, center, center);
+    .article-card {
+      width: calc(100% - 2rem);
+    }
+  }
+}
+
+@media screen and (min-width: 36rem) and (max-width: 72rem) {
+  .container {
+    .article-card {
+      width: calc(50% - 2rem);
+    }
+  }
+}
+
+@media screen and (min-width: 72rem) and (max-width: 256rem) {
+  .container {
+    .article-card {
+      width: calc(33.3% - 3rem);
+    }
+  }
+}

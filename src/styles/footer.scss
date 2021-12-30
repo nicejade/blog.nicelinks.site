@@ -1,0 +1,13 @@
+@import "./variables.scss";
+
+.footer {
+  @include flex-center(row, center, center);
+  width: 100%;
+  height: $footer-height;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+  .link {
+    font-size: $font-small;
+    color: $brand;
+    text-decoration: none;
+  }
+}

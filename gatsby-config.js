@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: 'https://blog.nicelinks.site',
-    title: '倾城之链',
+    title: '倾城博客',
   },
   plugins: [
     'gatsby-plugin-sass',
@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        icon: 'src/images/icon.png',
+        icon: 'src/images/logo.png',
       },
     },
     {

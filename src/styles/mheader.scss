@@ -1,0 +1,30 @@
+@import "./variables.scss";
+
+.mheader {
+  position: fixed;
+  top: 0;
+  @include flex-center(row, space-between, center);
+  width: 100%;
+  height: $header-height;
+  background-color: $white;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+  padding: 0 4 * $factor;
+  z-index: 100;
+  .link {
+    @include flex-center(row, start, center);
+    width: 50%;
+    margin: 0;
+    .logo {
+      width: 6 * $factor;
+      height: 6 * $factor;
+      margin-right: 2 * $factor;
+    }
+    .title {
+      margin: 0;
+    }
+  }
+  .secondary {
+    width: 50%;
+    @include flex-center(row, flex-end, center);
+  }
+}

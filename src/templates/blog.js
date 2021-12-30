@@ -1,28 +1,19 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Seo from '../components/seo'
-// import Header from '../components/header'
-// import Layout from '../components/layout'
-// import Elevator from '../components/elevator'
-// import Footer from '../components/footer'
-// import { setBaseData } from '../helper/utils.js'
+import Layout from '../components/layout'
+
+import "./../styles/global.scss"
 
 const Post = ({ data, location }) => {
-  // setBaseData(data)
   const post = data.markdownRemark
-  console.log(`post`, post)
 
   return (
     <main>
-      <Seo />
-      {/* <Header pathname={location.pathname} />
+      <Seo title="Home" />
       <Layout updatetime={post.fields.gitAuthorTime} hash={decodeURI(location.hash)}>
-        <div className="wrapper">
-          <div className="content" dangerouslySetInnerHTML={{ __html: post.html }} />
-        </div>
-        <Footer />
+        <div className="content" dangerouslySetInnerHTML={{ __html: post.html }} />
       </Layout>
-      <Elevator /> */}
     </main>
   )
 }
