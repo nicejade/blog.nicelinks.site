@@ -14,6 +14,16 @@ module.exports = {
         trackingId: 'G-2VDXPGLQ4K',
       },
     },
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: [
+          "G-2VDXPGLQ4K", // Google Analytics / GA
+          "ca-pub-8586652723015758", // Google Ads / Adwords / AW
+          "",
+        ],
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap',
     {
