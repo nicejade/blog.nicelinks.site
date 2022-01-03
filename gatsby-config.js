@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: 'https://blog.nicelinks.site',
     title: '倾城博客',
-    description: '倾城之链作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界。此周刊，将汇聚过去一周倾城所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见关于倾城。'
+    description: '倾城之链作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界。倾城博客，将汇聚过去一周倾城所收录的内容，以飨同好者。'
   },
   plugins: [
     'gatsby-plugin-sass',
@@ -11,7 +11,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'G-XXXXYYYY',
+        trackingId: 'G-2VDXPGLQ4K',
       },
     },
     'gatsby-plugin-react-helmet',

@@ -8,15 +8,16 @@ import "./../styles/mheader.scss"
 
 const MHeader = ({ siteTitle }) => (
   <header className="mheader">
-    <Link className="link" to="/">
+    <Link className="header-link" to="/">
+      <StaticImage
+        src="../images/logo.png"
+        quality={95}
+        className="logo"
+        formats={["auto", "webp", "avif"]}
+        alt={siteTitle}
+      />
       <h1 className="title">
-        <StaticImage
-          src="../images/logo.png"
-          quality={95}
-          className="logo"
-          formats={["auto", "webp", "avif"]}
-          alt={siteTitle}
-        />
+        {siteTitle}
       </h1>
     </Link>
     <div className="secondary">

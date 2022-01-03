@@ -57,7 +57,7 @@ function Seo({ description, lang, meta, title }) {
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata?.author || ``,
+          content: site.siteMetadata?.author || `杨琼璞`,
         },
         {
           name: `twitter:title`,
@@ -73,7 +73,7 @@ function Seo({ description, lang, meta, title }) {
 }
 
 Seo.defaultProps = {
-  lang: `en`,
+  lang: `zh-hans`,
   meta: [],
   description: ``,
 }

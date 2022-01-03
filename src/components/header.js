@@ -8,7 +8,7 @@ import "./../styles/header.scss"
 
 const Header = ({ siteTitle }) => (
   <header className="header">
-    <h1 className="title">
+    <Link className="header-link" to="/">
       <StaticImage
         src="../images/logo.png"
         quality={95}
@@ -16,8 +16,10 @@ const Header = ({ siteTitle }) => (
         formats={["auto", "webp", "avif"]}
         alt={siteTitle}
       />
-      <Link className="link" to="/">{siteTitle}</Link>
-    </h1>
+      <h1 className="title">
+        {siteTitle}
+      </h1>
+    </Link>
     <nav className="navbar">
       <Link className="link" to="https://nicelinks.site/">倾城之链</Link>
       <Link className="link" to="https://www.jeffjade.com/">晚晴幽草轩</Link>

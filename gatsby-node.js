@@ -48,7 +48,7 @@ exports.createPages = async ({ graphql, actions }) => {
   `)
 
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-    const slug = node.fields.slug
+    const slug = node.fields.slug.replace('/blogs', '')
     createPage({
       path: slug,
       component: path.resolve(`./src/templates/blog.js`),

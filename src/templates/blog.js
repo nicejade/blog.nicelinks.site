@@ -7,11 +7,10 @@ import "./../styles/global.scss"
 
 const Post = ({ data, location }) => {
   const post = data.markdownRemark
-
   return (
     <main>
-      <Seo title="Home" />
-      <Layout updatetime={post.fields.gitAuthorTime} hash={decodeURI(location.hash)}>
+      <Seo title="倾城之链" />
+      <Layout hash={decodeURI(location.hash)}>
         <div className="content" dangerouslySetInnerHTML={{ __html: post.html }} />
       </Layout>
     </main>
@@ -21,13 +20,12 @@ const Post = ({ data, location }) => {
 export default Post
 
 export const query = graphql`
-  query ($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query {
+    markdownRemark {
       html
       fields {
         slug
       }
     }
-    LunrIndex
   }
 `

@@ -10,19 +10,19 @@
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
   padding: 0 4 * $factor;
   z-index: 100;
-  .title {
+  .header-link {
     @include flex-center(row, flex-start, center);
     width: 20%;
-    margin: 0;
+    text-decoration: none;
+    .title {
+      font-size: $font-medium;
+      color: $brand;
+      margin: 0;
+    }
     .logo {
       width: 6 * $factor;
       height: 6 * $factor;
       margin-right: 2 * $factor;
-    }
-    .link {
-      font-size: $font-large;
-      color: $brand;
-      text-decoration: none;
     }
   }
   .navbar {
@@ -37,5 +37,11 @@
   .secondary {
     width: 30%;
     @include flex-center(row, flex-end, center);
+  }
+}
+
+@media screen and (min-width: 72rem) and (max-width: 256rem) {
+  .header {
+    padding: 0 8 * $factor;
   }
 }

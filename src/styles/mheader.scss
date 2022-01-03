@@ -10,16 +10,19 @@
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
   padding: 0 4 * $factor;
   z-index: 100;
-  .link {
+  .header-link {
     @include flex-center(row, start, center);
     width: 50%;
     margin: 0;
+    text-decoration: none;
     .logo {
       width: 6 * $factor;
       height: 6 * $factor;
       margin-right: 2 * $factor;
     }
     .title {
+      font-size: $font-medium;
+      color: $brand;
       margin: 0;
     }
   }

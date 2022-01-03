@@ -12,7 +12,7 @@ html {
 }
 
 .wrapper {
-  margin: auto 6 * $factor;
+  margin: auto 8 * $factor;
   margin-top: $header-height;
   .content {
     max-width: $content-width;
@@ -36,5 +36,9 @@ html {
   }
   .header {
     display: none;
+  }
+  .wrapper {
+    margin: auto 4 * $factor;
+    margin-top: $header-height;
   }
 }

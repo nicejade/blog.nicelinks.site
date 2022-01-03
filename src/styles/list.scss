@@ -17,10 +17,20 @@
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 0 0 transparent;
     }
     .link {
+      display: inline-block;
       color: $brand;
+      width: 100%;
       .card-picture {
+        display: inline-block;
+        width: 100%;
         margin: 0;
         padding: 0;
+        aspect-ratio: 16 / 9;
+      }
+      .image-placeholder {
+        background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+        width: 100%;
+        aspect-ratio: 16 / 9;
       }
       .title {
         font-size: $font-small;
@@ -36,6 +46,15 @@
     @include flex-center(row, center, center);
     .article-card {
       width: calc(100% - 2rem);
+      .link {
+        .title {
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+          width: calc(100% - 6rem);
+          box-sizing: content-box;
+        }
+      }
     }
   }
 }
@@ -44,6 +63,15 @@
   .container {
     .article-card {
       width: calc(50% - 2rem);
+      .link {
+        .title {
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+          width: calc(100% - 6rem);
+          box-sizing: content-box;
+        }
+      }
     }
   }
 }

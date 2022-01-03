@@ -6,7 +6,7 @@
   "author": "nicejade",
   "scripts": {
     "start": "npm run clean && gatsby develop",
-    "build": "gatsby build",
+    "build": "gatsby clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "serve": "gatsby serve",
