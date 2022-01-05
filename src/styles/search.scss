@@ -1,9 +1,18 @@
 @import "./variables.scss";
 
+.markdown-body {
+  .mark-highlight {
+    color: $jade;
+    background-color: $yellow;
+    border-radius: 1px;
+  }
+}
+
 .search-area {
   .search-bar {
-    width: 40 * $factor;
     position: relative;
+    display: block;
+    width: $search-width;
     background: $white;
     color: $grey;
     font-size: $font-small;
@@ -13,18 +22,62 @@
     font-size: 12px;
     line-height: 16px;
     padding: 6px 12px;
-    border-radius: 3em;
+    border-radius: 4 * $factor;
     background: transparent;
     appearance: none;
     border: none;
     box-sizing: border-box;
-    display: block;
     outline: none;
     margin: 0;
     &:focus {
       outline: none;
       border: 1px solid $brand;
       box-shadow: none;
+    }
+  }
+  .search-panel {
+    position: absolute;
+    top: $header-height;
+    background-color: $white;
+    width: $search-width;
+    height: $search-area-height;
+    padding: 1 * $factor 2 * $factor;
+    box-shadow: 8px 8px 20px rgb(65 65 65 / 20%);
+    border-radius: $factor;
+    overflow-y: scroll;
+    .jump-link {
+      display: inline-block;
+      width: 100%;
+      text-decoration: none;
+      border-bottom: 1px dashed $border;
+      .item {
+        display: inline-flex;
+        @include flex-center(column, center, center);
+        height: 16 * $factor;
+        margin: 0;
+        list-style: none;
+        .title {
+          font-weight: 500;
+          color: $black;
+          width: 100%;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+        }
+        .desc {
+          width: 100%;
+          display: -webkit-box;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          color: $grey;
+          line-height: 2rem;
+          .mark-highlight {
+            color: $brand;
+          }
+        }
+      }
     }
   }
 }

@@ -3,7 +3,6 @@ import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 
-import { Search } from './search/index.js'
 import "./../styles/mheader.scss"
 
 const MHeader = ({ siteTitle }) => (
@@ -21,7 +20,6 @@ const MHeader = ({ siteTitle }) => (
       </h1>
     </Link>
     <div className="secondary">
-      <Search />
     </div>
   </header>
 )

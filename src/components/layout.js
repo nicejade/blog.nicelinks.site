@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <>
+    <div id="layout">
       <Header siteTitle={data.site.siteMetadata?.title || ``} />
       <MHeader siteTitle={data.site.siteMetadata?.title || ``} />
       <section className="wrapper">
@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
         </article>
       </section>
       <Footer />
-    </>
+    </div>
   )
 }
 

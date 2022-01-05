@@ -5,10 +5,10 @@ $silver: #eaeaea;
 $grey: #6b778d;
 $black: #000000;
 $red: #ff6768;
-$green: #ffff00;
+$yellow: #ffff00;
 $jade: #34dfa5;
 
-$border: #f0f8ff;
+$border: #d1d5da;
 
 $factor: 0.5rem;
 
@@ -18,6 +18,9 @@ $font-small: 1.6rem;
 
 $header-height: 12 * $factor;
 $footer-height: 18 * $factor;
+
+$search-area-height: 80 * $factor;
+$search-width: 50 * $factor;
 $content-width: 160 * $factor;
 
 // scss mixin
