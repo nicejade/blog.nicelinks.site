@@ -20,10 +20,11 @@ const Post = ({ data, location }) => {
 export default Post
 
 export const query = graphql`
-  query {
-    markdownRemark {
+  query ($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       fields {
+        gitAuthorTime
         slug
       }
     }
