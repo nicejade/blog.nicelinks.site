@@ -20,7 +20,7 @@
  * Export code from https://github.com/umdjs/umd/blob/master/returnExports.js
  */
 ;
-(function(root, factory) {
+(function (root, factory) {
   if (typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module.
     define(factory)
@@ -35,13 +35,13 @@
     // Browser globals (root is window)
     factory()(root.lunr);
   }
-}(this, function(nodejieba) {
+}(this, function (nodejieba) {
   /**
    * Just return a value to define the module export.
    * This example returns an object, but the module
    * can return a function as the exported value.
    */
-  return function(lunr, nodejiebaDictJson) {
+  return function (lunr, nodejiebaDictJson) {
     /* throw error if lunr is not yet included */
     if ('undefined' === typeof lunr) {
       throw new Error('Lunr is not present. Please include / require Lunr before this script.');
@@ -63,7 +63,7 @@
     var isLunr2 = lunr.version[0] == "2";
 
     /* register specific locale function */
-    lunr.zh = function() {
+    lunr.zh = function () {
       this.pipeline.reset();
       this.pipeline.add(
         lunr.zh.trimmer,
@@ -84,9 +84,9 @@
       }
     };
 
-    lunr.zh.tokenizer = function(obj) {
+    lunr.zh.tokenizer = function (obj) {
       if (!arguments.length || obj == null || obj == undefined) return []
-      if (Array.isArray(obj)) return obj.map(function(t) {
+      if (Array.isArray(obj)) return obj.map(function (t) {
         return isLunr2 ? new lunr.Token(t.toLowerCase()) : t.toLowerCase()
       })
 
@@ -95,17 +95,17 @@
       var str = obj.toString().trim().toLowerCase();
       var tokens = [];
 
-      nodejieba.cut(str, true).forEach(function(seg) {
+      nodejieba.cutForSearch(str, true).forEach(function (seg) {
         tokens = tokens.concat(seg.split(' '))
       })
 
-      tokens = tokens.filter(function(token) {
+      tokens = tokens.filter(function (token) {
         return !!token;
       });
 
       var fromIndex = 0
 
-      return tokens.map(function(token, index) {
+      return tokens.map(function (token, index) {
         if (isLunr2) {
           var start = str.indexOf(token, fromIndex)
 
@@ -128,10 +128,10 @@
     lunr.Pipeline.registerFunction(lunr.zh.trimmer, 'trimmer-zh');
 
     /* lunr stemmer function */
-    lunr.zh.stemmer = (function() {
+    lunr.zh.stemmer = (function () {
 
       /* TODO Chinese stemmer  */
-      return function(word) {
+      return function (word) {
         return word;
       }
     })();
