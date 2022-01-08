@@ -1,17 +1,21 @@
 @import "./variables.scss";
 
 .footer {
-  @include flex-center(row, center, center);
+  @include flex-center(column, space-evenly, center);
   width: 100%;
   height: $footer-height;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
-  .icp {
+  .friends {
     @include flex-center(row, center, center);
     .link {
-      font-size: $font-small;
-      color: $brand;
-      text-decoration: none;
+      margin: 0 $factor;
     }
+    .submenu-title {
+      font-size: $font-small;
+    }
+  }
+  .icp {
+    @include flex-center(row, center, center);
     .item {
       display: inline-block;
       margin: 0 $factor;
@@ -22,11 +26,19 @@
       margin-left: $factor;
     }
   }
+  .link {
+    font-size: $font-small;
+    color: $brand;
+    text-decoration: none;
+  }
 }
 
 @media screen and (max-width: 50rem) {
   .footer {
-    height: 1.2 * $footer-height;
+    height: $footer-height;
+    .friends {
+      display: none;
+    }
     .icp {
       height: 100%;
       @include flex-center(column, space-evenly, center);

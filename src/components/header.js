@@ -31,7 +31,7 @@ const Header = ({ siteTitle }) => {
       <Link className="link" to="https://nicelinks.site//explore/skill?sort=hottest">技术客栈</Link>
       <Link className="link" to="https://nicelinks.site/explore/resource?sort=hottest">资源之家</Link>
       <Link className="link" to="https://nicelinks.site/explore/life?sort=hottest">写意人生</Link>
-      <Link className="link" to="https://nicelinks.site/explore/info?sort=hottest">信息快讯</Link>
+      <Link className="link" to="https://nicelinks.site/explore/info?sort=hottest">悠然宜想亭</Link>
     </nav>
     <div className="secondary">
       <Search lunrData={lunrData} />

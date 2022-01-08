@@ -29,5 +29,104 @@
   .secondary {
     width: 50%;
     @include flex-center(row, flex-end, center);
+    .toggler-menu {
+      width: 6 * $factor;
+      height: 6 * $factor;
+      background-color: transparent;
+      outline: none;
+      border: none;
+      .gg-menu-right {
+        transform: scale(var(--ggs, 1));
+      }
+      .gg-menu-right,
+      .gg-menu-right::after,
+      .gg-menu-right::before {
+        box-sizing: border-box;
+        position: relative;
+        display: block;
+        width: 20px;
+        height: 2px;
+        border-radius: 3px;
+        background: currentColor;
+      }
+      .gg-menu-right::after,
+      .gg-menu-right::before {
+        content: "";
+        position: absolute;
+        top: -6px;
+        right: 0;
+        width: 10px;
+      }
+      .gg-menu-right::after {
+        top: 6px;
+        width: 14px;
+      }
+      // cloce icon
+      .gg-close {
+        box-sizing: border-box;
+        position: relative;
+        display: block;
+        transform: scale(var(--ggs, 1));
+        width: 22px;
+        height: 22px;
+        border: 2px solid transparent;
+        border-radius: 40px;
+      }
+      .gg-close::after,
+      .gg-close::before {
+        content: "";
+        display: block;
+        box-sizing: border-box;
+        position: absolute;
+        width: 20px;
+        height: 2px;
+        background: currentColor;
+        transform: rotate(45deg);
+        border-radius: 5px;
+        top: 8px;
+        left: 1px;
+      }
+      .gg-close::after {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+}
+
+.menu-expand .side-nav {
+  height: calc(100vh - $header-height);
+}
+
+.side-nav {
+  position: fixed;
+  top: $header-height;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background-color: $white;
+  padding: 0 4 * $factor;
+  border-top: 1px solid $border;
+  transition: all 0.5s ease;
+  .submenu-title {
+    display: inline-block;
+    font-size: $font-small;
+    margin-top: 4 * $factor;
+  }
+  .friends {
+    @include flex-center(column, space-between, flex-start);
+    margin: 2 * $factor 4 * $factor;
+    .link {
+      font-size: $font-small;
+      color: $brand;
+      text-decoration: none;
+      line-height: 4 * $factor;
+      margin: 2 * $factor 0;
+      &:hover {
+        background-color: $silver;
+      }
+    }
   }
 }

@@ -6,6 +6,14 @@ import './../styles/footer.scss'
 
 const Footer = ({ siteTitle }) => (
   <footer className="footer">
+    <div className="friends">
+      <strong className="submenu-title">友情链接：</strong>
+      <Link className="link" to="https://nicelinks.site/">倾城之链</Link>
+      <Link className="link" to="https://read.lovejade.cn/">曼妙句子</Link>
+      <Link className="link" to="https://www.jeffjade.com/">晚晴幽草轩</Link>
+      <Link className="link" to="https://quickapp.lovejade.cn/">静轩之别苑</Link>
+      <Link className="link" to="https://forum.lovejade.cn/">悠然宜想亭</Link>
+    </div>
     <div className="icp">
       <p className="item"> <Link className="link" to='/'>{siteTitle}</Link>{` `} Copyright © {new Date().getFullYear()}</p>
       <p className="item">基于{` `}
