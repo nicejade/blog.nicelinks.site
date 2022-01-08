@@ -1,7 +1,7 @@
-<h1 align="center">[倾城博客](https://blog.nicelinks.site/) - [倾城之链](https://nicelinks.site/)</h1>
+<h1 align="center"><a href="https://blog.nicelinks.site/">倾城博客 - <a href="https://nicelinks.site/">倾城之链</a></h1>
 
 <div align="center">
-  <strong>本站基于 [GatsbyJS](https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e) 搭建，其中内容，多是[基于 Deno 脚本一键生成](https://github.com/nicejade/nicelinks-weekly)。</strong>
+  <strong>本站基于 <a href="https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e">GatsbyJS</a> 搭建，其中内容，多是<a href="https://github.com/nicejade/nicelinks-weekly">基于 Deno 脚本一键生成</a>。</strong>
 </div>
 
 [倾城之链](https://nicelinks.site/?utm_source=github.com)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。优质网站同好者周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=github.com)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=github.com)。而本站，主要承载基于「倾城」衍生的相关内容。<br>
