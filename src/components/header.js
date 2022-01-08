@@ -28,10 +28,10 @@ const Header = ({ siteTitle }) => {
       </h1>
     </Link>
     <nav className="navbar">
-      <Link className="link" to="https://nicelinks.site/">倾城之链</Link>
-      <Link className="link" to="https://www.jeffjade.com/">晚晴幽草轩</Link>
-      <Link className="link" to="https://quickapp.lovejade.cn/">静轩之别苑</Link>
-      <Link className="link" to="https://forum.lovejade.cn/">悠然宜想亭</Link>
+      <Link className="link" to="https://nicelinks.site//explore/skill?sort=hottest">技术客栈</Link>
+      <Link className="link" to="https://nicelinks.site/explore/resource?sort=hottest">资源之家</Link>
+      <Link className="link" to="https://nicelinks.site/explore/life?sort=hottest">写意人生</Link>
+      <Link className="link" to="https://nicelinks.site/explore/info?sort=hottest">信息快讯</Link>
     </nav>
     <div className="secondary">
       <Search lunrData={lunrData} />

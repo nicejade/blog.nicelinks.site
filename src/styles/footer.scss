@@ -5,9 +5,36 @@
   width: 100%;
   height: $footer-height;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
-  .link {
-    font-size: $font-small;
-    color: $brand;
-    text-decoration: none;
+  .icp {
+    @include flex-center(row, center, center);
+    .link {
+      font-size: $font-small;
+      color: $brand;
+      text-decoration: none;
+    }
+    .item {
+      display: inline-block;
+      margin: 0 $factor;
+    }
+    .zero {
+      height: 2rem;
+      width: 1.5rem;
+      margin-left: $factor;
+    }
+  }
+}
+
+@media screen and (max-width: 50rem) {
+  .footer {
+    height: 1.2 * $footer-height;
+    .icp {
+      height: 100%;
+      @include flex-center(column, space-evenly, center);
+      .item {
+        display: block;
+        margin: 0 auto;
+        line-height: 4 * $factor;
+      }
+    }
   }
 }
