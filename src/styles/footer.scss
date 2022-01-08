@@ -5,6 +5,7 @@
   width: 100%;
   height: $footer-height;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+  padding: 4 * $factor 0;
   .friends {
     @include flex-center(row, center, center);
     .link {

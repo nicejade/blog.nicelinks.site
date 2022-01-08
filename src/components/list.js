@@ -17,7 +17,19 @@ const List = () => {
       }
      }
     `)
-  const allArticleArr = data.allMarkdownRemark.nodes
+  const getWeeklySlugAndNum = (slug) => {
+    slug = slug.replace('/blogs', '')
+    const num = slug.replace(/\//ig, '').split('-')[1]
+    return { slug, num }
+  }
+
+  const nodes = data.allMarkdownRemark.nodes
+  const allArticleArr = nodes.sort((a, b) => {
+    const { num: numA } = getWeeklySlugAndNum(a.fields.slug)
+    const { num: numB } = getWeeklySlugAndNum(b.fields.slug)
+    return numB - numA
+  })
+
   const getTitleBySlug = (slug) => {
     const num = slug.replace(/\//ig, '').split('-')[1]
     return `优质网站同好者周刊（第 ${num} 期）- 倾城之链`
@@ -27,8 +39,7 @@ const List = () => {
     <div className="container">
       {
         allArticleArr.map((item, idx) => {
-          const slug = item.fields.slug.replace('/blogs', '')
-          const num = slug.replace(/\//ig, '').split('-')[1]
+          const { slug, num } = getWeeklySlugAndNum(item.fields.slug)
           const imgPath = `https://image.nicelinks.site/jpg/nice-links-${num}.jpg?imageView2/1/w/640/h/360/interlace/1/ignore-error/1`
           return (<section className="article-card" key={slug}>
             <Link className="link" to={slug} key={slug} >

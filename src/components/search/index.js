@@ -34,16 +34,16 @@ export class Search extends React.Component {
   }
 
   highlightKeyword(keyword) {
-    const tagsArr = ['a', 'code', 'li', 'p', 'span', 'h2', 'h3', 'h4', 'h5', 'strong']
+    const tagsArr = ['a', 'code', 'li', 'p', 'strong']
     tagsArr.forEach((tag) => {
       let isFindTargets = false;
       if (isFindTargets) return
       const nodeDomObj = document.querySelectorAll(`#layout .wrapper ${tag}`)
       Object.values(nodeDomObj).forEach((dom) => {
-        const regex = new RegExp(keyword, 'ig')
+        const regex = new RegExp(keyword, 'i')
         if (regex.test(dom.innerText)) {
           isFindTargets = true
-          dom.innerHTML = this.transformContent(dom.innerHTML, keyword)
+          dom.innerHTML = this.transformContent(dom.innerText, keyword)
           return
         }
       })
