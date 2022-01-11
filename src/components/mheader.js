@@ -1,7 +1,6 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 
 import "./../styles/mheader.scss"
 
@@ -26,13 +25,7 @@ export class MHeader extends React.Component {
   render() {
     return (<header className="mheader">
       <Link className="header-link" to="/">
-        <StaticImage
-          src="../images/logo.png"
-          quality={95}
-          className="logo"
-          formats={["auto", "webp", "avif"]}
-          alt={this.props.siteTitle}
-        />
+        <img className="logo" src="https://nicelinks.site/static/img/favicons/favicon.png" alt={this.props.siteTitle} />
         <h1 className="title">
           {this.props.siteTitle}
         </h1>

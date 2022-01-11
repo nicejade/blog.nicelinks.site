@@ -69,6 +69,7 @@ function Seo({ description, lang, meta, title }) {
         },
       ].concat(meta)}
     >
+      <script data-ad-client="ca-pub-8586652723015758" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     </Helmet>
   )
 }

@@ -41,24 +41,6 @@
   }
 }
 
-@media screen and (max-width: 50rem) {
-  .container {
-    @include flex-center(row, center, center);
-    .article-card {
-      width: calc(100% - 2rem);
-      .link {
-        .title {
-          text-overflow: ellipsis;
-          overflow: hidden;
-          white-space: nowrap;
-          width: calc(100% - 6rem);
-          box-sizing: content-box;
-        }
-      }
-    }
-  }
-}
-
 @media screen and (min-width: 50rem) and (max-width: 80rem) {
   .container {
     .article-card {
@@ -80,6 +62,26 @@
   .container {
     .article-card {
       width: calc(33.3% - 3rem);
+    }
+  }
+}
+
+@media screen and (max-width: 50rem) {
+  .container {
+    @include flex-center(row, center, center);
+    .article-card {
+      width: calc(100% - 2rem);
+      .link {
+        .title {
+          width: calc(100% - 2rem);
+          margin: 0;
+          padding: 4 * $factor 2 * $factor;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+          box-sizing: content-box;
+        }
+      }
     }
   }
 }

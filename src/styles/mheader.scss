@@ -16,9 +16,10 @@
     margin: 0;
     text-decoration: none;
     .logo {
-      width: 6 * $factor;
-      height: 6 * $factor;
+      width: 8 * $factor;
+      height: 8 * $factor;
       margin-right: 2 * $factor;
+      margin-bottom: 0;
     }
     .title {
       font-size: $font-medium;
