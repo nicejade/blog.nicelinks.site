@@ -6,11 +6,11 @@
 
 **标签**：[`PDF`](https://nicelinks.site/tags/PDF) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
 
->PDF Online gives you free, secure & accurate tools to work with PDFs. Drop in your files to merge, convert, edit, compress PDFs & much more - completely free!
+> PDF Online gives you free, secure & accurate tools to work with PDFs. Drop in your files to merge, convert, edit, compress PDFs & much more - completely free!
 
 ![倾城之链 - PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://oss.nicelinks.site/pdf.online.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PDF Online](https://nicelinks.site/redirect?url=https://pdf.online/)，一款 PDF 在线工具，为您提供完全免费、安全和准确的服务，来处理 `PDF` 文件。上传您的文件，即快速完成来 PDF 的合并、转换（包含 PDF 转换为 `JPG`、`PNG`、`Word`、`HTML` 等文件；也支持由  `JPG`、`PNG`、`Excel`、`Word`、`PPT`、`DICOM` 等转换为 `PDF`）、编辑、压缩、剪裁及更多（如文本提取、删除页面等）。
+**推荐语**：[PDF Online](https://nicelinks.site/redirect?url=https://pdf.online/)，一款 PDF 在线工具，为您提供完全免费、安全和准确的服务，来处理 `PDF` 文件。上传您的文件，即快速完成来 PDF 的合并、转换（包含 PDF 转换为 `JPG`、`PNG`、`Word`、`HTML` 等文件；也支持由 `JPG`、`PNG`、`Excel`、`Word`、`PPT`、`DICOM` 等转换为 `PDF`）、编辑、压缩、剪裁及更多（如文本提取、删除页面等）。
 
 ── 出自[倾城之链 - PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://nicelinks.site/post/61683936265d8c6be879dd78)
 
@@ -18,7 +18,7 @@
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`个人主页`](https://nicelinks.site/tags/个人主页)
 
->Linkyy. A simple, yet cool place for all your links.
+> Linkyy. A simple, yet cool place for all your links.
 
 ![倾城之链 - Linkyy. A simple, yet cool place for all your links](https://oss.nicelinks.site/linkyy.co.png?x-oss-process=style/png2jpg)
 
@@ -26,17 +26,13 @@
 
 ── 出自[倾城之链 - Linkyy. A simple, yet cool place for all your links](https://nicelinks.site/post/61657a9e265d8c6be879dd74)
 
-## [
-Jenkins
-](https://nicelinks.site/post/61641ee477a8ce5e114ce55b)
+## [Jenkins](https://nicelinks.site/post/61641ee477a8ce5e114ce55b)
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`自动化`](https://nicelinks.site/tags/自动化) · [`开发者`](https://nicelinks.site/tags/开发者)
 
->Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software
+> Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software
 
-![倾城之链 - 
-Jenkins
-](https://oss.nicelinks.site/www.jenkins.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Jenkins ](https://oss.nicelinks.site/www.jenkins.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 一个开源的自动化服务器，一款开源 CI&CD 软件，用于自动化各种任务，使世界各地的开发者能够可靠地构建、测试和部署他们的软件。[Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 支持各种运行方式，可通过系统包、Docker 或者通过一个独立的 Java 程序。
 
@@ -50,8 +46,7 @@ Jenkins
 
 [Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 的主要功能是：**将项目中重复执行的工作自动化的执行**。如软件的建造（构建）和在配置文件下设置的 job。这对开发者尤其具有帮助，已是各互联网科技公司必备工具之一。
 
-
-── 出自[倾城之链 - 
+── 出自[倾城之链 -
 Jenkins
 ](https://nicelinks.site/post/61641ee477a8ce5e114ce55b)
 
@@ -61,7 +56,7 @@ Jenkins
 
 **关键字**：GIF search engine, GIF search engine, animated GIFs, best GIFs, GIF, GIFs, funny GIFs, movie GIFs, tv GIFs, reaction GIFs, cat GIFs, girl GIFs, happy GIFs, breaking bad GIFs, anime GIFs, sad GIFs, fail GIFs, star wars GIFs, memes, yes GIFs, no GIFs, create GIFs, GIF maker
 
->GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
+> GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more.
 
 ![倾城之链 - GIPHY - Be Animated](https://oss.nicelinks.site/giphy.com.png?x-oss-process=style/png2jpg)
 
@@ -91,7 +86,7 @@ Jenkins
 
 **标签**： [`社区`](https://nicelinks.site/theme/community) · [`科技`](https://nicelinks.site/tags/%E7%A7%91%E6%8A%80) · [`资讯`](https://nicelinks.site/tags/%E8%B5%84%E8%AE%AF) · [`平台`](https://nicelinks.site/tags/%E5%B9%B3%E5%8F%B0)
 
-**关键字：** 科技资讯, 学术资源, 会议交流, 视频活动, 学术会议, it交流, 站长交流, 论文编译, 论文翻译, 投稿支持, 版权服务
+**关键字：** 科技资讯, 学术资源, 会议交流, 视频活动, 学术会议, it 交流, 站长交流, 论文编译, 论文翻译, 投稿支持, 版权服务
 
 科技资讯、学术资源、会议交流、视频活动以及兴趣部落社交等信噪比最高的网站
 
@@ -129,7 +124,7 @@ Jenkins
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)
