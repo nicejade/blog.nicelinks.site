@@ -13,6 +13,7 @@ const Footer = ({ siteTitle }) => (
       <Link className="link" to="https://www.jeffjade.com/">晚晴幽草轩</Link>
       <Link className="link" to="https://quickapp.lovejade.cn/">静轩之别苑</Link>
       <Link className="link" to="https://forum.lovejade.cn/">悠然宜想亭</Link>
+      <Link className="link" to="https://wiki.lovejade.cn/">清风明月阁</Link>
     </div>
     <div className="icp">
       <p className="item"> <Link className="link" to='/'>{siteTitle}</Link>{` `} Copyright © {new Date().getFullYear()}</p>

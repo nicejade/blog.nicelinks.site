@@ -5,11 +5,9 @@ import List from "../components/list"
 import "./../styles/global.scss"
 
 const IndexPage = () => (
-  <main>
+  <main className="index-page">
     <Layout>
-      <div className="content" style={{ maxWidth: "120rem" }}>
-        <List />
-      </div>
+      <List />
     </Layout>
   </main>
 )
