@@ -4,11 +4,11 @@
 
 ## [Picmaker - Fast, Free and Easy Online Graphic Design Software](https://nicelinks.site/post/610be1120a95a5064dc05e44)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [` 图片编辑器 `](https://nicelinks.site/tags/ 图片编辑器 ) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`AI`](https://nicelinks.site/tags/AI)
 
 **关键字**：Graphic design, Online graphic design, free online graphic design software, free graphic, design software, free graphic design app, DIY graphic design, free graphic design templates, online graphic editor, design your own picture online for free, online design maker, graphic design online, software for logo design, online logo maker, online poster maker
 
->Picmaker is the easiest online graphic design software for your social media, blogs, ads, logos, and more. Use our professionally-created templates to get going in minutes.
+> Picmaker is the easiest online graphic design software for your social media, blogs, ads, logos, and more. Use our professionally-created templates to get going in minutes.
 
 ![倾城之链 - Picmaker - Fast, Free and Easy Online Graphic Design Software](https://oss.nicelinks.site/www.picmaker.com.png?x-oss-process=style/png2jpg)
 
@@ -40,7 +40,7 @@
 
 **关键字**：SVG backgrounds, ui backgrounds, svg waves, wave generator, svg generagtor, colorful waves
 
->Create beautiful SVG backgrounds for your UI designs.
+> Create beautiful SVG backgrounds for your UI designs.
 
 ![倾城之链 - Create beautiful SVG backgrounds for your UI designs.](https://oss.nicelinks.site/wickedbackgrounds.com.png?x-oss-process=style/png2jpg)
 
@@ -54,7 +54,7 @@
 
 **关键字**：百科, 知识, 头条百科, wiki, 百科全书, 维基
 
->快懂百科是一部准确、全面、易读、丰富的网络百科全书，助您轻松探秘世界，学习知识。
+> 快懂百科是一部准确、全面、易读、丰富的网络百科全书，助您轻松探秘世界，学习知识。
 
 ![倾城之链 - 快懂百科 - 来这里，认识世界！](https://oss.nicelinks.site/www.baike.com.png?x-oss-process=style/png2jpg)
 
@@ -68,7 +68,7 @@
 
 **关键字**：微信广告, 朋友圈广告, 朋友圈推广, 朋友圈视频广告, 公众号广告, 微信营销, 流量主, 朋友圈, 公众号, 微信, 信息流广告, 社交广告, 效果广告
 
->微信广告目前包括朋友圈广告和公众号广告，均基于微信公众号生态体系。微信朋友圈广告是以类似朋友的原创内容形式在用户朋友圈进行展示的原生广告。在基于微信用户画像进行精准定向的同时，通过社交关系进行互动传播，基于微信原生功能生态体验闭环，实现广告价值的最大化，打造国内独一无二的新型社交广告模式。微信公众号广告通过公众号文章进行传播，提供包括公众号关注、移动应用下载、卡券分发、品牌活动广告等多种官方推广形式，支持多层次、多维度的定向组合投放，实现高效率转化。
+> 微信广告目前包括朋友圈广告和公众号广告，均基于微信公众号生态体系。微信朋友圈广告是以类似朋友的原创内容形式在用户朋友圈进行展示的原生广告。在基于微信用户画像进行精准定向的同时，通过社交关系进行互动传播，基于微信原生功能生态体验闭环，实现广告价值的最大化，打造国内独一无二的新型社交广告模式。微信公众号广告通过公众号文章进行传播，提供包括公众号关注、移动应用下载、卡券分发、品牌活动广告等多种官方推广形式，支持多层次、多维度的定向组合投放，实现高效率转化。
 
 ![倾城之链 - 微信广告](https://oss.nicelinks.site/ad.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
@@ -101,7 +101,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)
