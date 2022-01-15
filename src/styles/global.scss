@@ -12,12 +12,18 @@ html {
 }
 
 .wrapper {
-  margin: auto 8 * $factor;
-  margin-top: $header-height;
-  .content {
-    max-width: $content-width;
+  position: absolute;
+  top: $header-height;
+  width: 100%;
+  height: calc(100% - $header-height);
+  overflow: scroll;
+  .container {
     margin: auto;
-    padding: 2 * $factor 0;
+    .content {
+      max-width: $content-width;
+      margin: auto;
+      padding: 2 * $factor 0;
+    }
   }
 }
 
@@ -36,9 +42,5 @@ html {
   }
   .header {
     display: none;
-  }
-  .wrapper {
-    margin: auto 4 * $factor;
-    margin-top: $header-height;
   }
 }

@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import { Index } from "lunr"
+import Mark from "mark.js"
 
 import "./../../styles/search.scss"
 
@@ -22,32 +23,25 @@ export class Search extends React.Component {
   componentDidMount() {
     const params = new URLSearchParams(window.location.search.slice(1)) || {}
     const keyword = params.get('q')
+    if (!keyword) return
+
     this.highlightKeyword(keyword)
     setTimeout(() => {
       const markNode = document.querySelector("#layout .mark-highlight");
-      markNode && markNode.scrollIntoView({ behavior: "smooth", block: "end" });
-      this.forceUpdate()
-    }, 100)
+      markNode && markNode.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 1000)
   }
 
   componentDidUpdate() {
   }
 
   highlightKeyword(keyword) {
-    const tagsArr = ['a', 'code', 'li', 'p', 'strong']
-    tagsArr.forEach((tag) => {
-      let isFindTargets = false;
-      if (isFindTargets) return
-      const nodeDomObj = document.querySelectorAll(`#layout .wrapper ${tag}`)
-      Object.values(nodeDomObj).forEach((dom) => {
-        const regex = new RegExp(keyword, 'i')
-        if (regex.test(dom.innerText)) {
-          isFindTargets = true
-          dom.innerHTML = this.transformContent(dom.innerText, keyword)
-          return
-        }
-      })
-    })
+    const contentDom = document.querySelector(`#layout .wrapper .content`)
+    const instance = new Mark(contentDom);
+    instance.mark(keyword, {
+      exclude: ["h1"],
+      className: "mark-highlight"
+    });
   }
 
   getQueryResult = (query) => {
@@ -85,7 +79,7 @@ export class Search extends React.Component {
   }
 
   wrapKeywordWithMark(keyword) {
-    return `<span class="mark-highlight">${keyword}</span>`
+    return `<mark class="mark-highlight">${keyword}</mark>`
   }
 
   getContentMainPart(content) {
@@ -119,7 +113,7 @@ export class Search extends React.Component {
         queryResultArr: [],
         isShowResults: false
       })
-    }, 100)
+    }, 300)
   }
 
   handleInputFocus() {

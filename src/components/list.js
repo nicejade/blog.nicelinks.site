@@ -36,7 +36,7 @@ const List = () => {
   }
 
   return (
-    <div className="container">
+    <div className="content">
       {
         allArticleArr.map((item, idx) => {
           const { slug, num } = getWeeklySlugAndNum(item.fields.slug)

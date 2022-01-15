@@ -1,0 +1,17 @@
+@import "./variables.scss";
+
+.article-page {
+  .wrapper {
+    @include flex-center(column, flex-start, center);
+  }
+}
+
+@media screen and (max-width: 72rem) {
+  .article-page {
+    .wrapper {
+      .container {
+        padding: 0 4 * $factor;
+      }
+    }
+  }
+}
