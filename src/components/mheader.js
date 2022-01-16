@@ -31,11 +31,12 @@ export class MHeader extends React.Component {
         </h1>
       </Link>
       <div className="secondary">
-        <span className="toggler-menu" onClick={this.handleToggleButton}>
+        <span role="button" tabIndex="0" className="toggler-menu" onClick={this.handleToggleButton}
+          onKeyDown={this.handleToggleButton}>
           {
             this.state.isExpandMenu ?
               <span className="gg-close"></span> :
-              <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-align-right" width="28" height="28" viewBox="0 0 24 24" stroke-width="1.5" stroke="#212121" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-align-right" width="28" height="28" viewBox="0 0 24 24" strokeWidth="1.5" stroke="#212121" fill="none" strokeLinecap="round" strokeLinejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                 <line x1="4" y1="6" x2="20" y2="6" />
                 <line x1="10" y1="12" x2="20" y2="12" />
