@@ -149,6 +149,11 @@
   -webkit-border-radius: 3px;
   border-radius: 3px;
 }
+@media screen and (max-width: 72rem) {
+  .markdown-body pre {
+    max-width: 320px !important;
+  }
+}
 .markdown-body pre code {
   display: inline;
   max-width: initial;
