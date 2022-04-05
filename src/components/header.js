@@ -3,16 +3,37 @@ import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import { useStaticQuery, graphql } from "gatsby"
+import marked from "marked"
 
 import { Search } from './search/index.js'
 import "./../styles/header.scss"
 
 const Header = ({ siteTitle }) => {
-  const lunrData = useStaticQuery(graphql`
+  const edgesArr = useStaticQuery(graphql`
     query {
-      LunrIndex
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+            }
+            rawMarkdownBody
+          }
+        }
+      }
     }
-  `)
+  `).allMarkdownRemark.edges
+  const lunrData = edgesArr.map(item => {
+    const content = marked(item.node.rawMarkdownBody)
+    return {
+      slug: item.node.fields.slug,
+      title: item.node.fields.title,
+      content: content.replace(/<[^>]*>/g, "")
+    }
+  })
 
   return (<header className="header">
     <Link className="header-link" to="/">

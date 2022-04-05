@@ -1,7 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
-import { Index } from "lunr"
 import Mark from "mark.js"
 
 import "./../../styles/search.scss"
@@ -46,24 +45,13 @@ export class Search extends React.Component {
 
   getQueryResult = (query) => {
     const lunrData = this.props.lunrData
-    const { store } = lunrData.LunrIndex
-    // Lunr in action here
-    const index = Index.load(lunrData.LunrIndex.index)
-    let results = []
-    try {
-      // Search is a lunr method
-      results = index.search(query).map(({ ref }) => {
-        // Map search results to an array of {slug, title, excerpt} objects
-        return {
-          slug: ref,
-          ...store[ref],
-        }
-      })
-      return results || []
-    } catch (error) {
-      console.error(`Something Error: ${error}`)
-      return results
-    }
+    const result = []
+    lunrData.map(item => {
+      if (item.content.includes(query)) {
+        result.push(item)
+      }
+    })
+    return result
   }
 
   sliceToAheadTarget(string = '', target = '', position = 15) {
