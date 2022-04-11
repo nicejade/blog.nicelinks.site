@@ -8,6 +8,7 @@
     max-width: $content-width * 1.5;
     @include flex-center(row, space-around, center);
     flex-wrap: wrap;
+    padding: 2 * $factor;
     .article-card {
       position: relative;
       display: inline-flex;
@@ -73,7 +74,6 @@
 
 @media screen and (max-width: 50rem) {
   .index-page .wrapper .container .content {
-    padding: 0 4 * $factor;
     @include flex-center(row, center, center);
     .article-card {
       width: calc(100% - 2rem);

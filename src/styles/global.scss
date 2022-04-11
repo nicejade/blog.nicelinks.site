@@ -11,10 +11,9 @@ html {
   height: 100%;
 }
 .wrapper {
-  position: absolute;
-  top: $header-height;
   width: 100%;
   height: calc(100% - $header-height);
+  margin-top: calc($header-height + $factor);
   overflow: scroll;
   .container {
     margin: auto;
