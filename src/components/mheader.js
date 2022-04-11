@@ -18,7 +18,7 @@ export class MHeader extends React.Component {
       isExpandMenu: !this.state.isExpandMenu
     })
 
-    let layout = document.getElementById('layout')
+    let layout = document.getElementById('main')
     layout.className = layout.className.includes('menu-expand') ? '' : 'menu-expand'
   }
 

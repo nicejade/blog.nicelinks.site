@@ -26,7 +26,7 @@ export class Search extends React.Component {
 
     this.highlightKeyword(keyword)
     setTimeout(() => {
-      const markNode = document.querySelector("#layout .mark-highlight");
+      const markNode = document.querySelector("#main .mark-highlight");
       markNode && markNode.scrollIntoView({ behavior: "smooth", block: "start" });
     }, 1000)
   }
@@ -35,7 +35,7 @@ export class Search extends React.Component {
   }
 
   highlightKeyword(keyword) {
-    const contentDom = document.querySelector(`#layout .wrapper .content`)
+    const contentDom = document.querySelector(`#main .wrapper .content`)
     const instance = new Mark(contentDom);
     instance.mark(keyword, {
       exclude: ["h1"],
