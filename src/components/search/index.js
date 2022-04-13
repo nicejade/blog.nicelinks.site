@@ -113,14 +113,12 @@ const Search = (props) => {
     <div className="search-panel" style={{ "display": isShowResults ? 'block' : 'none' }}>
       {
         isShowResults
-          ? queryResultArr.map((item, index) => {
+          ? queryResultArr.map(item => {
             const slug = item.slug.replace('/blogs', '')
-            const num = slug.replace(/\//ig, '').split('-')[1]
-            const title = `优质网站同好者周刊（第 ${num} 期）- 倾城之链`
             const content = getContentMainPart(item.content)
-            return (<Link className="jump-link" to={`${slug}?q=${keywords}`} key={item.slug}>
+            return (<Link className="jump-link" to={`${slug}?q=${keywords}`} key={slug}>
               <li className="item">
-                <p className="title">{title}</p>
+                <p className="title">{item.title}</p>
                 <p className="desc" dangerouslySetInnerHTML={{ __html: content }}></p>
               </li>
             </Link>)

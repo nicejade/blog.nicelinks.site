@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => {
     const content = marked(item.node.rawMarkdownBody)
     return {
       slug: item.node.fields.slug,
-      title: item.node.fields.title,
+      title: item.node.frontmatter.title,
       content: content.replace(/<[^>]*>/g, "")
     }
   })

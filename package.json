@@ -2,7 +2,7 @@
   "name": "blog.nicelinks.site",
   "private": true,
   "description": "基于 GatsbyJS 所搭建的网站，用来承载「倾城之链」周刊等内容。",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "author": "nicejade",
   "scripts": {
     "start": "npm run clean && gatsby develop",
