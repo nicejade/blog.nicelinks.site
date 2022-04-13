@@ -5,7 +5,7 @@ import { StaticImage } from "gatsby-plugin-image"
 import { useStaticQuery, graphql } from "gatsby"
 import marked from "marked"
 
-import { Search } from './search/index.js'
+import Search from './search/index.js'
 import "./../styles/header.scss"
 
 const Header = ({ siteTitle }) => {

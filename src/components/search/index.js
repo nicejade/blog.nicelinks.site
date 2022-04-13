@@ -1,40 +1,34 @@
-import * as React from "react"
+import React, { useState, useEffect } from 'react';
 import { Link } from "gatsby"
-import PropTypes from "prop-types"
 import Mark from "mark.js"
 
 import "./../../styles/search.scss"
 
-export class Search extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      queryResultArr: [],
-      isShowResults: false,
-    };
+const Search = (props) => {
+  const [queryResultArr, setQueryResultArr] = useState([]);
+  const [isShowResults, setIsShowResults] = useState(false);
+  const [keywords, setKeywords] = useState(false);
 
-    this.handleInputChange = this.handleInputChange.bind(this);
-    this.handleInputBlur = this.handleInputBlur.bind(this);
-    this.handleInputFocus = this.handleInputFocus.bind(this);
-    this.getQueryResult = this.getQueryResult.bind(this);
-  }
-
-  componentDidMount() {
+  useEffect(() => {
+    let cancel = false;
     const params = new URLSearchParams(window.location.search.slice(1)) || {}
     const keyword = params.get('q')
     if (!keyword) return
+    highlightKeyword(keyword)
+    if (cancel) return
 
-    this.highlightKeyword(keyword)
-    setTimeout(() => {
+    const timer = setTimeout(() => {
       const markNode = document.querySelector("#main .mark-highlight");
       markNode && markNode.scrollIntoView({ behavior: "smooth", block: "start" });
-    }, 1000)
-  }
+      clearTimeout(timer)
+    }, 800)
+    return () => {
+      cancel = true
+      clearTimeout(timer)
+    }
+  }, [])
 
-  componentDidUpdate() {
-  }
-
-  highlightKeyword(keyword) {
+  const highlightKeyword = (keyword) => {
     const contentDom = document.querySelector(`#main .wrapper .content`)
     const instance = new Mark(contentDom);
     instance.mark(keyword, {
@@ -43,8 +37,8 @@ export class Search extends React.Component {
     });
   }
 
-  getQueryResult = (query) => {
-    const lunrData = this.props.lunrData
+  const getQueryResult = (query) => {
+    const lunrData = props.lunrData
     const result = []
     lunrData.map(item => {
       if (item.content.includes(query)) {
@@ -54,7 +48,7 @@ export class Search extends React.Component {
     return result
   }
 
-  sliceToAheadTarget(string = '', target = '', position = 15) {
+  const sliceToAheadTarget = (string = '', target = '', position = 15) => {
     const index = string.indexOf(target)
     if (index <= position) return string
     const sliceIdx = index - position
@@ -62,88 +56,78 @@ export class Search extends React.Component {
     return '...' + string.substr(sliceIdx, length)
   }
 
-  transformContent(content, keyword) {
-    return content.replace(new RegExp(keyword, 'ig'), this.wrapKeywordWithMark(keyword))
+  const transformContent = (content, keyword) => {
+    return content.replace(new RegExp(keyword, 'ig'), wrapKeywordWithMark(keyword))
   }
 
-  wrapKeywordWithMark(keyword) {
+  const wrapKeywordWithMark = (keyword) => {
     return `<mark class="mark-highlight">${keyword}</mark>`
   }
 
-  getContentMainPart(content) {
-    const desc = this.sliceToAheadTarget(content, this.keywords)
-    return this.transformContent(desc, this.keywords)
+  const getContentMainPart = (content) => {
+    const desc = sliceToAheadTarget(content, keywords)
+    return transformContent(desc, keywords)
   }
 
-  handleSearch(keywords) {
+  const handleSearch = (_keywords) => {
     // NEED FIXED: 解决当 del 输入内容，至最后一项时，存在很大延时；
     let queryResultArr;
-    if (!keywords) {
+    if (!_keywords) {
       queryResultArr = []
     } else {
-      queryResultArr = this.getQueryResult(keywords)
+      queryResultArr = getQueryResult(_keywords)
     }
-    this.keywords = keywords
-    this.setState({
-      queryResultArr: queryResultArr,
-      isShowResults: queryResultArr.length > 0
-    })
+    setKeywords(_keywords)
+    setQueryResultArr(queryResultArr)
+    setIsShowResults(queryResultArr.length > 0)
   }
 
-  handleInputChange(event) {
+  const handleInputChange = (event) => {
     const value = event.target.value;
-    this.handleSearch(value)
+    handleSearch(value)
   }
 
-  handleInputBlur() {
-    setTimeout(() => {
-      this.setState({
-        queryResultArr: [],
-        isShowResults: false
-      })
-    }, 300)
+  const simulate = (time) => new Promise(
+    resolve => setTimeout(() => resolve("time out."), time)
+  )
+
+  const handleInputBlur = async (event) => {
+    await simulate(2000)
+    setQueryResultArr([])
+    setIsShowResults(false)
+    setKeywords('')
   }
 
-  handleInputFocus() {
-    this.handleSearch(this.keywords)
+  const handleInputFocus = () => {
+    handleSearch(keywords)
   }
 
-  render() {
-    return (<div className="search-area">
-      <input className="search-bar"
-        placeholder="搜索精彩内容"
-        value={this.keywords || ''}
-        onBlur={this.handleInputBlur}
-        onFocus={this.handleInputFocus}
-        onChange={this.handleInputChange}
-      />
-      <div className="search-panel" style={{ "display": this.state.isShowResults ? 'block' : 'none' }}>
-        {
-          this.state.isShowResults
-            ? this.state.queryResultArr.map((item, index) => {
-              const slug = item.slug.replace('/blogs', '')
-              const num = slug.replace(/\//ig, '').split('-')[1]
-              const title = `优质网站同好者周刊（第 ${num} 期）- 倾城之链`
-              const content = this.getContentMainPart(item.content)
-              return (<Link className="jump-link" to={`${slug}?q=${this.keywords}`} key={index}>
-                <li className="item">
-                  <p className="title">{title}</p>
-                  <p className="desc" dangerouslySetInnerHTML={{ __html: content }}></p>
-                </li>
-              </Link>)
-            }) : ''
-        }
-      </div>
-    </div >)
-  }
+  return (<div className="search-area">
+    <input className="search-bar"
+      placeholder="搜索精彩内容"
+      value={keywords || ''}
+      onBlur={handleInputBlur}
+      onFocus={handleInputFocus}
+      onChange={handleInputChange}
+    />
+    <div className="search-panel" style={{ "display": isShowResults ? 'block' : 'none' }}>
+      {
+        isShowResults
+          ? queryResultArr.map((item, index) => {
+            const slug = item.slug.replace('/blogs', '')
+            const num = slug.replace(/\//ig, '').split('-')[1]
+            const title = `优质网站同好者周刊（第 ${num} 期）- 倾城之链`
+            const content = getContentMainPart(item.content)
+            return (<Link className="jump-link" to={`${slug}?q=${keywords}`} key={item.slug}>
+              <li className="item">
+                <p className="title">{title}</p>
+                <p className="desc" dangerouslySetInnerHTML={{ __html: content }}></p>
+              </li>
+            </Link>)
+          }) : ''
+      }
+    </div>
+  </div >)
 }
 
-Search.propTypes = {
-  lunrData: PropTypes.object,
-}
-
-Search.defaultProps = {
-  lunrData: [],
-}
-
-
+export default Search
