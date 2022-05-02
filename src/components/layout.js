@@ -25,18 +25,16 @@ const Layout = ({ children, title, pathname }) => {
     <>
       <Header siteTitle={data.site.siteMetadata?.title || ``} />
       <MHeader siteTitle={data.site.siteMetadata?.title || ``} />
-      <div className="wrapper">
-        <section className="container">
-          {
-            title ? <Link className="article-link" to={pathname}>
-              <h1 className="article-title">{title}</h1>
-            </Link> : ''
-          }
-          <article className="markdown-body">
-            {children}
-          </article>
-        </section>
-      </div>
+      <section className="container">
+        {
+          title ? <Link className="article-link" to={pathname}>
+            <h1 className="article-title">{title}</h1>
+          </Link> : ''
+        }
+        <article className="markdown-body">
+          {children}
+        </article>
+      </section>
       <Footer siteTitle={data.site.siteMetadata?.title || ``} />
     </>
   )

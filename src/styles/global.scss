@@ -10,18 +10,16 @@ html {
   font-size: 62.5%;
   height: 100%;
 }
-.wrapper {
+.container {
   width: 100%;
   height: calc(100% - $header-height);
   margin-top: calc($header-height + $factor);
   overflow: scroll;
-  .container {
+  margin: auto;
+  .content {
+    max-width: $content-width;
     margin: auto;
-    .content {
-      max-width: $content-width;
-      margin: auto;
-      padding: 2 * $factor 0;
-    }
+    padding: 2 * $factor 0;
   }
 }
 
