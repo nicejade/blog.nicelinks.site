@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 public
+scripts/push2server.sh
 
 # Runtime data
 pids
