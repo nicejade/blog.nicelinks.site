@@ -19,6 +19,7 @@
   text-align: left;
   -webkit-border-radius: 0 0 3px 3px;
   border-radius: 0 0 3px 3px;
+  margin: 0 auto;
 }
 .markdown-body > *:first-child {
   margin-top: 0 !important;
@@ -46,11 +47,14 @@
   color: #ff6768;
   text-decoration: none;
   background: transparent;
+  text-align: left;
+  word-break: break-all;
 }
 .markdown-body h2 a,
 .markdown-body h3 a,
 .markdown-body h4 a,
 .markdown-body h4 a {
+  text-align: left;
   color: #20a0ff;
 }
 .markdown-body p,

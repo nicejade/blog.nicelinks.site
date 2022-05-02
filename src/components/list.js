@@ -38,9 +38,9 @@ const List = () => {
   return (
     <div className="content">
       {
-        allArticleArr.map((item, idx) => {
+        allArticleArr.map(item => {
           const { slug, num } = getWeeklySlugAndNum(item.fields.slug)
-          const imgPath = `https://image.nicelinks.site/jpg/nice-links-${num}.jpg?imageView2/1/w/640/h/360/interlace/1/ignore-error/1`
+          const imgPath = `https://image.nicelinks.site/jpg/nice-links-${num}.jpg?imageView2/1/w/512/h/288/interlace/1/ignore-error/1`
           return (<section className="article-card" key={slug}>
             <Link className="link" to={slug} key={slug} >
               <img className="card-picture image-placeholder" src={imgPath} alt={getTitleBySlug(slug)} />

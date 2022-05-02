@@ -29,7 +29,7 @@ const Search = (props) => {
   }, [])
 
   const highlightKeyword = (keyword) => {
-    const contentDom = document.querySelector(`#main .wrapper .content`)
+    const contentDom = document.querySelector(`#main .content`)
     const instance = new Mark(contentDom);
     instance.mark(keyword, {
       exclude: ["h1"],
@@ -70,6 +70,7 @@ const Search = (props) => {
   }
 
   const handleSearch = (_keywords) => {
+    console.log(_keywords)
     // NEED FIXED: 解决当 del 输入内容，至最后一项时，存在很大延时；
     let queryResultArr;
     if (!_keywords) {
@@ -77,14 +78,29 @@ const Search = (props) => {
     } else {
       queryResultArr = getQueryResult(_keywords)
     }
-    setKeywords(_keywords)
     setQueryResultArr(queryResultArr)
     setIsShowResults(queryResultArr.length > 0)
   }
 
+  const throttle = (fn, wait) => {
+    let pre = Date.now();
+    return function () {
+      const context = this;
+      const args = arguments;
+      const now = Date.now();
+      if (now - pre >= wait) {
+        fn.apply(context, args)
+        pre = Date.now()
+      }
+    }
+  }
+
+  const requestSearchFunc = throttle(handleSearch, 200)
+
   const handleInputChange = (event) => {
     const value = event.target.value;
-    handleSearch(value)
+    setKeywords(value)
+    requestSearchFunc(value)
   }
 
   const simulate = (time) => new Promise(
@@ -99,7 +115,7 @@ const Search = (props) => {
   }
 
   const handleInputFocus = () => {
-    handleSearch(keywords)
+    requestSearchFunc(keywords)
   }
 
   return (<div className="search-area">
@@ -116,9 +132,11 @@ const Search = (props) => {
           ? queryResultArr.map(item => {
             const slug = item.slug.replace('/blogs', '')
             const content = getContentMainPart(item.content)
+            const num = slug.replace(/\//g, '').split('-')[1]
+            const title = `优质网站同好者周刊（第 ${num} 期）`
             return (<Link className="jump-link" to={`${slug}?q=${keywords}`} key={slug}>
               <li className="item">
-                <p className="title">{item.title}</p>
+                <p className="title">{title}</p>
                 <p className="desc" dangerouslySetInnerHTML={{ __html: content }}></p>
               </li>
             </Link>)
