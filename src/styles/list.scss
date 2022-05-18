@@ -3,7 +3,6 @@
 .index-page .container {
   width: 100%;
   max-width: 200rem;
-  margin-top: $header-height;
   @include flex-center(row, space-around, center);
   .content {
     max-width: $content-width * 1.5;
