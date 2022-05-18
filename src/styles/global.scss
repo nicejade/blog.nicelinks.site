@@ -16,6 +16,7 @@ html {
   margin-top: calc($header-height + $factor);
   overflow: scroll;
   margin: auto;
+  margin-top: $header-height;
   .content {
     max-width: $content-width;
     margin: auto;
