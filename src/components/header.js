@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
 import { useStaticQuery, graphql } from "gatsby"
-import marked from "marked"
+import { marked } from 'marked';
 
 import Search from './search/index.js'
 import "./../styles/header.scss"
@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => {
     }
   `).allMarkdownRemark.edges
   const lunrData = edgesArr.map(item => {
-    const content = marked(item.node.rawMarkdownBody)
+    const content = marked.parse(item.node.rawMarkdownBody)
     return {
       slug: item.node.fields.slug,
       title: item.node.frontmatter.title,
