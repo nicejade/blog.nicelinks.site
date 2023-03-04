@@ -27,9 +27,10 @@ const Layout = ({ children, title, pathname }) => {
       <MHeader siteTitle={data.site.siteMetadata?.title || ``} />
       <section className="container">
         {
-          title ? <Link className="article-link" to={pathname}>
-            <h1 className="article-title">{title}</h1>
-          </Link> : ''
+          title ?
+            <h1 className="article-title">
+              <Link className="article-link" to={pathname}>{title}</Link>
+            </h1> : ''
         }
         <article className="markdown-body">
           {children}

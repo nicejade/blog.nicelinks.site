@@ -590,13 +590,16 @@ pre tt:before,
 pre tt:after {
   content: "";
 }
-.article-link {
+.article-title {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   width: 100%;
+  font-size: 2.2rem;
+  padding: 2rem 0;
+  margin: auto;
+}
+.article-link {
   color: #000000;
   text-decoration: none;
-}
-.article-link .article-title {
-  font-size: 2.2rem;
-  margin: 2rem auto;
 }

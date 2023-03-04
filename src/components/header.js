@@ -44,9 +44,9 @@ const Header = ({ siteTitle }) => {
         formats={["auto", "webp", "avif"]}
         alt={siteTitle}
       />
-      <h1 className="title">
+      <span className="title">
         {siteTitle}
-      </h1>
+      </span>
     </Link>
     <nav className="navbar">
       <Link className="link" to="https://nicelinks.site/explore/skill?sort=hottest">技术客栈</Link>
