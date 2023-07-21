@@ -230,6 +230,9 @@
   max-height: 100%;
   -webkit-border-radius: 4px;
   border-radius: 4px;
+}
+
+.markdown-body p > img {
   aspect-ratio: 16 / 9;
 }
 

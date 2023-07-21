@@ -4,11 +4,13 @@
   width: 100%;
   max-width: 200rem;
   @include flex-center(row, space-around, center);
+
   .content {
     max-width: $content-width * 1.5;
     @include flex-center(row, space-around, center);
     flex-wrap: wrap;
     padding: 2 * $factor;
+
     .article-card {
       position: relative;
       display: inline-flex;
@@ -17,14 +19,17 @@
       margin: 1rem 0;
       box-shadow: 8px 8px 20px rgb(65 65 65 / 20%);
       transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
+
       &:hover {
         transform: translateY(-8px);
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 0 0 transparent;
       }
+
       .link {
         display: inline-block;
         color: $brand;
         width: 100%;
+
         .card-picture {
           display: inline-block;
           width: 100%;
@@ -32,11 +37,13 @@
           padding: 0;
           aspect-ratio: 16 / 9;
         }
+
         .image-placeholder {
           background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
           width: 100%;
           aspect-ratio: 16 / 9;
         }
+
         .title {
           font-size: $font-small;
           padding: 4 * $factor;
@@ -51,6 +58,7 @@
   .index-page .container .content {
     .article-card {
       width: calc(50% - 2rem);
+
       .link {
         .title {
           text-overflow: ellipsis;
@@ -75,8 +83,10 @@
 @media screen and (max-width: 50rem) {
   .index-page .container .content {
     @include flex-center(row, center, center);
+
     .article-card {
       width: calc(100% - 2rem);
+
       .link {
         .title {
           width: calc(100% - 2rem);
