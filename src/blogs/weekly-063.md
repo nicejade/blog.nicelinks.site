@@ -2,13 +2,16 @@
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Bulma: Free, open source, and modern CSS framework based on Flexbox](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
+## [Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
 
 **标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
 > Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
 
-![倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox](https://oss.nicelinks.site/bulma.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox
+](https://oss.nicelinks.site/bulma.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Bulma](https://nicelinks.site/redirect?url=https://bulma.io/)  ，是一个免费的、现代化的开源框架，它提供了现成的前端组件，您可以轻松地组合这些组件来构建响应式 Web 界面。它主张「不需要 CSS 知识」，即可轻松使用。它主要有以下功能特征：
 
@@ -19,7 +22,8 @@
 
 除此之外，[Bulma](https://nicelinks.site/redirect?url=https://bulma.io/)  还有一个很棒的特色，无需 **JavaScript** 仅 CSS，因此它可以集成在**任何 JS** 环境中。Bulma 是一个 **CSS** 框架。因此，唯一的输出是一个 CSS 文件：[bulma.css](https://nicelinks.site/redirect?url=https://github.com/jgthms/bulma/blob/master/css/bulma.css) 可以使用该文件，“开箱即用”，或者下载 Sass 源文件来自定义变量。如果您想了解更多，可参见 [Github Bulma](https://github.com/jgthms/bulma) 源码。
 
-── 出自[倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
+── 出自[倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox
+](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
 
 ## [MongoDB: The Application Data Platform | MongoDB](https://nicelinks.site/post/62692add77f8270876fcb3dc)
 
@@ -180,7 +184,11 @@ Obsidian 被构建为可从头开始扩展。我们希望您构建自己的系�
 
 ## 本期文末寄语
 
-“当我看见一个危险信号的时候，我不跟它争执。我躲开！几天以后，如果一切看起来还不错，我就再回来。我是这么想的，如果我正沿着铁轨往前走，看见一辆火车以每小时 60 英里的速度向我冲来，我会跳下铁轨让火车开过去，而不会愚蠢地站在那里不动。它开过去之后，只要我愿意，我总能再回到铁轨上来。”── 美国股市投机客 · 杰西·利弗莫尔
+少时犹不忧生计，老后谁能惜酒钱？  
+共把十千沽一斗，相看七十欠三年。  
+闲征雅令穷经史，醉听清吟胜管弦。  
+**更待菊黄家酿熟，共君一醉一陶然**。  
+── 唐 · 白居易《与梦得沽酒闲饮且约后期》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
