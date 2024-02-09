@@ -1,12 +1,14 @@
 @import "./variables.scss";
 
 .index-page .container {
+  display: block;
   width: 100%;
   max-width: 200rem;
-  @include flex-center(row, space-around, center);
 
   .content {
-    max-width: $content-width * 1.5;
+    width: 100%;
+    max-width: $content-width * 1.2;
+    min-width: $content-width * 1;
     @include flex-center(row, space-around, center);
     flex-wrap: wrap;
     padding: 2 * $factor;
@@ -16,7 +18,7 @@
       display: inline-flex;
       width: calc(33.3% - 3rem);
       border-radius: $factor;
-      margin: 1rem 0;
+      margin: 2rem 0;
       box-shadow: 8px 8px 20px rgb(65 65 65 / 20%);
       transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
 
@@ -54,8 +56,34 @@
   }
 }
 
+@media screen and (max-width: 50rem) {
+  .index-page .container .content {
+    max-width: $content-width * 0.5;
+    min-width: $content-width * 0.4;
+    @include flex-center(row, center, center);
+
+    .article-card {
+      width: calc(100% - 2rem);
+
+      .link {
+        .title {
+          width: calc(100% - 2rem);
+          margin: 0;
+          padding: 4 * $factor 2 * $factor;
+          text-overflow: ellipsis;
+          overflow: hidden;
+          white-space: nowrap;
+          box-sizing: content-box;
+        }
+      }
+    }
+  }
+}
+
 @media screen and (min-width: 50rem) and (max-width: 80rem) {
   .index-page .container .content {
+    max-width: $content-width;
+    min-width: $content-width * 0.8;
     .article-card {
       width: calc(50% - 2rem);
 
@@ -76,28 +104,6 @@
   .index-page .container .content {
     .article-card {
       width: calc(33.3% - 3rem);
-    }
-  }
-}
-
-@media screen and (max-width: 50rem) {
-  .index-page .container .content {
-    @include flex-center(row, center, center);
-
-    .article-card {
-      width: calc(100% - 2rem);
-
-      .link {
-        .title {
-          width: calc(100% - 2rem);
-          margin: 0;
-          padding: 4 * $factor 2 * $factor;
-          text-overflow: ellipsis;
-          overflow: hidden;
-          white-space: nowrap;
-          box-sizing: content-box;
-        }
-      }
     }
   }
 }

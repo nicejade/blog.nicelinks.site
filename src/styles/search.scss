@@ -14,14 +14,14 @@
     display: block;
     width: $search-width;
     background: $white;
-    color: $grey;
+    color: $black;
     font-size: $font-small;
     $font-large: 20px;
     padding: 10px 15px;
-    box-shadow: rgb(0 0 0 / 10%) 0 0 0 1px inset;
+    box-shadow: rgb(0 0 0 / 50%) 0 0 0 1px inset;
     font-size: 12px;
     line-height: 16px;
-    padding: 6px 12px;
+    padding: 8px 12px;
     border-radius: 4 * $factor;
     background: transparent;
     appearance: none;
@@ -31,8 +31,7 @@
     margin: 0;
     &:focus {
       outline: none;
-      border: 1px solid $brand;
-      box-shadow: none;
+      box-shadow: $brand 0 0 0 1px inset;
     }
   }
   .search-panel {
