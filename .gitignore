@@ -5,7 +5,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+public
+
 scripts/push2server.sh
+deploy.sh
 
 # Runtime data
 pids
