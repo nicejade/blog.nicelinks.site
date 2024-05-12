@@ -68,10 +68,14 @@ function Seo({ description, lang = "zh-CN", meta, title, path }) {
         },
       ].concat(meta)}
     >
-      <link rel="home" href="https://blog.nicelinks.site/" />
+      <link rel="home" href="https://link.niceshare.site/" />
       <link rel="canonical" href={path} />
 
-      <script data-ad-client="ca-pub-8586652723015758" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <script
+        data-ad-client="ca-pub-8586652723015758"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+      ></script>
     </Helmet>
   )
 }
