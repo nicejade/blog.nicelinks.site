@@ -72,23 +72,20 @@ export class MHeader extends React.Component {
         <div className="side-nav">
           <strong className="submenu-title">友情链接</strong>
           <ul className="friends">
-            <Link className="link" to="https://nicelinks.site/">
-              倾城之链
-            </Link>
-            <Link className="link" to="https://read.lovejade.cn/">
-              曼妙句子
+            <Link className="link" to="https://niceshare.site/">
+              逍遥自在轩
             </Link>
             <Link className="link" to="https://www.jeffjade.com/">
               晚晴幽草轩
+            </Link>
+            <Link className="link" to="https://fine.niceshare.site/">
+              缘知随心庭
             </Link>
             <Link className="link" to="https://quickapp.lovejade.cn/">
               静轩之别苑
             </Link>
             <Link className="link" to="https://forum.lovejade.cn/">
               悠然宜想亭
-            </Link>
-            <Link className="link" to="https://wiki.lovejade.cn/">
-              清风明月阁
             </Link>
           </ul>
         </div>

@@ -3,12 +3,12 @@ const path = require("path")
 
 const sitemapTempStr = `<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://blog.nicelinks.site/</loc></url>
+  <url><loc>https://link.niceshare.site/</loc></url>
   #PLACEHOLDER#
 </urlset>`
 
 const generate = async () => {
-  const baseUrl = "https://blog.nicelinks.site"
+  const baseUrl = "https://link.niceshare.site"
   const linksUrlArr = []
   const files = fs.readdirSync(path.join(__dirname, "..", "src/blogs"))
   files.forEach(item => {

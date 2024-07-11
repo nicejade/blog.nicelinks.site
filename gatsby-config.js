@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://blog.nicelinks.site",
-    title: "倾城博客",
+    siteUrl: "https://link.niceshare.site/",
+    title: "倾城之链 | 优质网站周刊",
     description:
-      "倾城之链作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界。倾城博客，将汇聚过去一周倾城所收录的内容，以飨同好者。",
+      "倾城之链作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界。倾城之链周刊，将汇聚过去一周倾城所收录的内容，以飨同好者。",
   },
   plugins: [
     "gatsby-plugin-sass",

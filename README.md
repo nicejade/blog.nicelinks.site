@@ -18,7 +18,7 @@
 
 ## 如何反馈
 
-如果您对[倾城之链](https://nicelinks.site/?utm_source=github.com)感兴趣，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
+如果您对[倾城之链](https://nicelinks.site/?utm_source=github.com)感兴趣，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
 
 <div align="center">
   <img src="https://s3.ax1x.com/2021/02/19/yfCjOJ.jpg" width=200/>

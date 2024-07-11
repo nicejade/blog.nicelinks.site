@@ -181,7 +181,9 @@
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="min-width: 300px;" alt="小程序码 - 倾城之链"/>
+<div align="center">
+  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="min-width: 300px;" alt="微信公众号 - 晚晴幽草轩"/>
+</div>
 
 ### 您可能感兴趣的文章
 
