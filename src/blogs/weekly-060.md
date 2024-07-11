@@ -8,7 +8,7 @@
 
 > A cross-platform Text Expander written in Rust. A text expander is a program that detects when you type a specific keyword and replaces it with something else.
 
-![倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://oss.nicelinks.site/espanso.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/espanso.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[espanso](https://nicelinks.site/redirect?url=https://espanso.org/) 是一个用 `Rust` 编写的跨平台文本扩展器，它可以检测您何时键入特定的关键字，并用其他内容替换它。espanso 具有以下功能特征：
 
@@ -73,7 +73,7 @@ Espanso 适用于大多数应用程序，因此您可以在任何地方提高工
 
 > Warp is a modern Rust-based terminal that’s fast, easy to use, and built for teams.
 
-![倾城之链 - Warp: The terminal for the 21st century](https://oss.nicelinks.site/www.warp.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Warp: The terminal for the 21st century](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.warp.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WARP](https://nicelinks.site/redirect?url=https://www.warp.dev/) 是一个速度极快、基于 RUST 的终端，从头开始重新构想，可以像现代应用程序一样工作。它具有以下功能特征：
 
@@ -107,7 +107,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > OverAPI.com is a site collecting all the cheatsheets,all!
 
-![倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://oss.nicelinks.site/overapi.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/overapi.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[OverAPI.com](https://nicelinks.site/redirect?url=https://overapi.com/) 是一个在线服务，旨在：**收集所有编程语言备忘单**，被业界称为： 最全的开发人员在线速查手册。它将编程语言所涉及到的**方法**，进行分门别类，并且按顺序展示于一个界面中，且对该方法做了站外链接（到具体语言方法文档）；而且提供检索过滤功能，使得用户能方便检索到要查找的方法名。
 
@@ -123,7 +123,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > Handpicked collection of Web Design & UI Inspiration with Code Snippets. ✅ GIF preview ✅ HTML CSS copy paste code.
 
-![倾城之链 - CodeMyUI](https://oss.nicelinks.site/codemyui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - CodeMyUI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codemyui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[CodeMyUI](https://nicelinks.site/redirect?url=https://codemyui.com/)，一个网页设计和 UI 灵感与代码片段的网站；这里有精心挑选的网页设计和 UI 灵感与代码片段的集合。支持 GIF 预览、 HTML CSS 复制粘贴代码。如果您从事 Web 前端开发，可以从这汲取灵感，诸如：滚动图像以更改文本视差效果、带有滚动效果的凸窗样式图像滑块、悬停时带有解释的删除线文本、图像的纯 CSS 翻页动画等等。
 
@@ -135,7 +135,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > Everything，Windows 系统下，基于名称快速定位文件和文件夹的搜索工具。
 
-![倾城之链 - voidtools | Everything](https://oss.nicelinks.site/www.voidtools.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - voidtools | Everything](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.voidtools.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Everything](https://nicelinks.site/redirect?url=https://www.voidtools.com/)，此为 Windows 桌面搜索引擎："Everything" 的官方网站。Everything 是 voidtools 开发的一款**文件搜索**工具，官网描述为“基于名称实时定位文件和目录；它体积小巧，界面简洁易用，快速建立索引，快速搜索，同时占用极低的系统资源，实时跟踪文件变化，并且还可以通过 http 或 ftp 形式分享搜索。`Everything` 具有以下功能特色：
 
@@ -161,7 +161,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ultimate goal of enabling people to live on other planets.
 
-![倾城之链 - SpaceX](https://oss.nicelinks.site/www.spacex.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - SpaceX](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.spacex.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SpaceX](https://nicelinks.site/redirect?url=https://www.spacex.com/)（太空探索技术公司，即美国太空探索技术公司）：设计、制造和发射先进的火箭和航天器。该公司是一家由 PayPal 早期投资人埃隆·马斯克（Elon Musk）2002 年 6 月建立，旨在革新太空技术，最终目标是**让人们能够生活在其他星球上**。它开发了可部分重复使用的猎鹰 1 号和猎鹰 9 号运载火箭。SpaceX 同时开发 Dragon 系列的航天器以通过猎鹰 9 号发射到轨道。SpaceX 主要设计、测试和制造内部的部件，如 Merlin、Kestrel 和 Draco 火箭发动机。
 

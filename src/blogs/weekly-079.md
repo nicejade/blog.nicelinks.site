@@ -8,9 +8,9 @@
 
 **关键字**：WordPress alternative, Medium alternative, Fast blogging platform, Light-weight blogging platform, Simple blog platform, Ghost Alternative, Easy blogging platform, Minimal blogging platform
 
->The fast, light-weight, and SEO friendly WordPress blog alternative you have been searching for. Generate more traffic and leads with superblog's built-in best practices.
+> The fast, light-weight, and SEO friendly WordPress blog alternative you have been searching for. Generate more traffic and leads with superblog's built-in best practices.
 
-![倾城之链 - Superblog: Fast, light, and beautiful blogging platform](https://oss.nicelinks.site/superblog.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Superblog: Fast, light, and beautiful blogging platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/superblog.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：Superblog 一个速度极快的博客平台，内置了最佳实践；是 WordPress 和 Medium 博客的快速替代品。针对 [SEO](https://nicelinks.site/tags/SEO)、转换和速度进行了自动优化，无需设置、维护，以便您可以专注于编写内容。它具有以下功能特色：
 
@@ -51,16 +51,15 @@ Superblog 对您的博客进行智能优化。它预先构建您的整个博客�
 
 使用 Superblog，您无需担心最佳实践、SEO 审核和管理您的服务器。您可以完全专注于编写内容。其余全部由超级博客自动处理。您可以在不到 5 分钟的时间内，从 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、[Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff)、[Medium](https://nicelinks.site/post/5a7586d3ff655e7a265b8e93) 和 Blogger 迁移到 Superblog（超级博客）。值得说明的是 Superblog 仅支持 7 天免费可用，其针对个人和爱好项目所提供的基本（BASIC）版本，$9 每月。
 
-
 ── 出自[倾城之链 - Superblog: Fast, light, and beautiful blogging platform](https://nicelinks.site/post/62fe5b3828190628135d6764)
 
 ## [HTTPie – API testing client that flows with you](https://nicelinks.site/post/62fe257028190628135d6762)
 
 **标签**：[`HTTP`](https://nicelinks.site/tags/HTTP) · [`命令行`](https://nicelinks.site/tags/命令行) · [`API`](https://nicelinks.site/tags/API)
 
->Making APIs simple and intuitive for those building the tools of our time.
+> Making APIs simple and intuitive for those building the tools of our time.
 
-![倾城之链 - HTTPie – API testing client that flows with you](https://oss.nicelinks.site/httpie.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - HTTPie – API testing client that flows with you](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/httpie.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：HTTPie（发音为 `/aitch-tee-tee-pie/`）是一个命令行 HTTP 客户端。它的目标是：使 CLI 与 Web 服务的交互尽可能人性化。HTTPie 设计用于**测试**、**调试**以及通常与 API 和 HTTP 服务器交互。`http`&`https` 命令允许创建和发送任意 HTTP 请求。它们使用简单自然的语法，并提供格式化和彩色输出。它具有以下功能特征：
 
@@ -104,6 +103,7 @@ yum install httpie
 ### 如何使用？
 
 关于 HTTPie 如何使用，实在过于丰富，这里只是简单列举几个示例，详情请移步至 [HTTPie usage](https://httpie.io/docs/cli/usage)。
+
 ```bash
 # 发起简单 Get 请求
 https httpie.io/hello
@@ -116,7 +116,7 @@ http PUT pie.dev/put X-API-Token:123 name=John
 http pie.dev/image/png > image.png
 ```
 
-与 HTTPie 同类型的工具还有 [Curl](https://nicelinks.site/post/62556c92f3a35106466b76fe) 以及 [Hurl](https://nicelinks.site/post/619ce835465c2155e2d1587f)，只不过侧重点有所不同。HTTPie 更偏向于 API 测试；如果您的工作中较多涉及到 API 测试相关，相信 HTTPie 能够俘获您的心❤️。
+与 HTTPie 同类型的工具还有 [Curl](https://nicelinks.site/post/62556c92f3a35106466b76fe) 以及 [Hurl](https://nicelinks.site/post/619ce835465c2155e2d1587f)，只不过侧重点有所不同。HTTPie 更偏向于 API 测试；如果您的工作中较多涉及到 API 测试相关，相信 HTTPie 能够俘获您的心 ❤️。
 
 ── 出自[倾城之链 - HTTPie – API testing client that flows with you](https://nicelinks.site/post/62fe257028190628135d6762)
 
@@ -126,13 +126,13 @@ http pie.dev/image/png > image.png
 
 **关键字**：alternative, self-hosted, photo management, cloud, web3, decentralized, google photos, artificial intelligence, face recognition
 
->AI-Powered Photos App for the Decentralized Web.
+> AI-Powered Photos App for the Decentralized Web.
 
-![倾城之链 - Browse Your Life in Pictures – PhotoPrism](https://oss.nicelinks.site/photoprism.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Browse Your Life in Pictures – PhotoPrism](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/photoprism.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：PhotoPrism® 是用于**去中心化**网络的 [AI](https://nicelinks.site/tags/AI) 驱动的照片应用程序。它利用最新技术自动标记和查找图片，而不会妨碍您。您可以在家里、私人服务器或云端运行它。
 
->**去中心化**是与中心化相对的一个概念，简单的来说中心化的意思，是中心决定节点。节点必须依赖中心，节点离开了中心就无法生存。去中心化恰恰相反，在一个分布有众多节点的系统中，每个节点都具有高度自治的特征，每一个节点都是一个“小中心”。该想法提出重组互联网，以移除集中式数据托管服务，转而使用点对点基础设施。由于各种原因，对网络维护组织缺乏信任，人们对去中心化网络产生了兴趣。随着网络服务形态的多元化，去中心化网络模型越来越清晰，也越来越成为可能。
+> **去中心化**是与中心化相对的一个概念，简单的来说中心化的意思，是中心决定节点。节点必须依赖中心，节点离开了中心就无法生存。去中心化恰恰相反，在一个分布有众多节点的系统中，每个节点都具有高度自治的特征，每一个节点都是一个“小中心”。该想法提出重组互联网，以移除集中式数据托管服务，转而使用点对点基础设施。由于各种原因，对网络维护组织缺乏信任，人们对去中心化网络产生了兴趣。随着网络服务形态的多元化，去中心化网络模型越来越清晰，也越来越成为可能。
 
 PhotoPrism 的使命是：提供对用户和隐私最友好的解决方案，以使您的照片井井有条且易于访问。这就是为什么 PhotoPrism 从头开始构建，可以在您需要的任何地方运行，而不会影响自由、隐私或功能；它具有以下功能：
 
@@ -156,9 +156,9 @@ PhotoPrism 项目在 [Github](https://nicelinks.site/post/59ba80d93df6765c75b779
 
 **标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`高效`](https://nicelinks.site/tags/高效)
 
->Bring System-level Arrange Window features to Mac. 
+> Bring System-level Arrange Window features to Mac.
 
-![倾城之链 - Wins - Bring System-level Arrange Window features to Mac](https://oss.nicelinks.site/wins.cool.png?x-oss-process=style/png2jpg)
+![倾城之链 - Wins - Bring System-level Arrange Window features to Mac](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wins.cool.png?x-oss-process=style/png2jpg)
 
 **推荐语**：Wins，为 Mac 带来系统级的分屏功能，可让您的窗口和工作区井井有条，通过拖动和快捷键触发；Wins 致力于以 Apple 的方式，将拆分窗口功能带入 Mac。系统级集成，效率高，使用 Wins 像 Mac 系统功能。它具有以下功能特色：
 
@@ -186,7 +186,7 @@ Wins 没有独立窗口，不占用 Menu Bar、不占用 Dock 栏，设置面板
 
 Wins 非常在意功耗，内存占用低于 30M，CPU 使用低于 10%，大多数情况仅占用 0.1%。
 
-Mac 是我最喜欢的生产力工具，没有之一；如果您需要经常操纵图形化界面，推荐看下 Wins 所展示的功能效果视频，相信有这样的工具加持，会让您的操作更加得心应手，效率也将随之提升。需要说明的是，Wins 支持 7 天免费试用；支付 13.99 美元，便能得到永久授权。
+Mac 是我最喜欢的生产力工具，没有之一；如果您需要经常操纵图形化界面，推荐看下 Wins 所展示的功能效果视频，相信有这样的工具加持，会让您的操作更加得心应手，效率也将随之提升。需要说明的是，Wins 支持 7 天免费试用；支付  13.99 美元，便能得到永久授权。
 
 ── 出自[倾城之链 - Wins - Bring System-level Arrange Window features to Mac](https://nicelinks.site/post/62fcd16128190628135d675e)
 
@@ -194,9 +194,9 @@ Mac 是我最喜欢的生产力工具，没有之一；如果您需要经常操�
 
 **标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`机器学习`](https://nicelinks.site/tags/机器学习)
 
->Yandex is a search engine and web portal. Yandex offers internet search and other services like maps, navigator, public transport, taxi, weather, news, music, TV program, translation, online shopping, and more. Free email service and cloud storage.
+> Yandex is a search engine and web portal. Yandex offers internet search and other services like maps, navigator, public transport, taxi, weather, news, music, TV program, translation, online shopping, and more. Free email service and cloud storage.
 
-![倾城之链 - Yandex](https://oss.nicelinks.site/yandex.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Yandex](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/yandex.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：Yandex，是一家技术公司（俄罗斯重要网络服务门户之一），致力于构建由机器学习驱动的智能产品和服务。其目标是帮助消费者和企业更好地驾驭线上和线下世界。自 1997 年以来，提供了世界一流的本地相关搜索和信息服务，包括搜索、最新新闻、地图和百科、电子信箱、电子商务、互联网广告及其他服务。此外，还为全球数百万消费者开发了市场领先的按需交通服务、导航产品和其他移动应用程序。Yandex 在全球设有 30 个办事处。
 
@@ -212,9 +212,9 @@ Yandex 几乎一半的收入来自上下文广告，它根据网络用户的需�
 
 **标签**：[`构建`](https://nicelinks.site/tags/构建) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
->Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the standardized ES module format for code, instead of previous idiosyncratic solutions such as CommonJS and AMD.
+> Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the standardized ES module format for code, instead of previous idiosyncratic solutions such as CommonJS and AMD.
 
-![倾城之链 - Next-generation ES module bundler ｜ Rollup](https://oss.nicelinks.site/rollupjs.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Next-generation ES module bundler ｜ Rollup](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rollupjs.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：Rollup 是一个 JavaScript 的模块捆绑器，它将小块的代码编译成更大、更复杂的东西，如一个库或应用程序。它使用 JavaScript 的 ES6 修订版中包含的新的标准化的代码模块格式，而不是以前的特异性解决方案，如 CommonJS 和 AMD。ES 模块让你自由和无缝地结合你最喜欢的库中最有用的个别功能。这最终将在所有地方实现原生，但 Rollup 让你今天就能做到这一点。
 
@@ -224,7 +224,7 @@ Rollup 和 Webpack、Parcel、Vite 等工具很类似，但专注于 ES6 的模�
 - Rollup 生态链还不完善，体验不如 Webpack；
 - Rollup 功能不如 Webpack 完善，但其配置和使用更加简单；
 
-当然，Rollup 也存在一些不可忽视的缺点，诸如：开发服务器不能实现模块热更新，调试繁琐。Rollup 在用于打包 JavaScript 库时比 Webpack 更加有优势，因为其打包出来的代码更小更快。因此，如果需要构建一个类库，且只需要导入很少第三方库，推荐使用 Rollup；如果需要构建一个复杂的应用，需要集成很多第三方库，并且需要代码分拆、HMR（热更新） 等功能，推荐使用 Webpack；如果您对开发时构建速度有要求，那 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 值得尝试。
+当然，Rollup 也存在一些不可忽视的缺点，诸如：开发服务器不能实现模块热更新，调试繁琐。Rollup 在用于打包 JavaScript 库时比 Webpack 更加有优势，因为其打包出来的代码更小更快。因此，如果需要构建一个类库，且只需要导入很少第三方库，推荐使用 Rollup；如果需要构建一个复杂的应用，需要集成很多第三方库，并且需要代码分拆、HMR（热更新） 等功能，推荐使用 Webpack；如果您对开发时构建速度有要求，那  [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)  值得尝试。
 
 ── 出自[倾城之链 - Next-generation ES module bundler ｜ Rollup](https://nicelinks.site/post/62f8b9e030be9b2450762124)
 
@@ -234,7 +234,7 @@ Rollup 和 Webpack、Parcel、Vite 等工具很类似，但专注于 ES6 的模�
 
 ## 本期文末寄语
 
-太上，不知有之；其次，亲而誉之；其次，畏之；其次，侮之。信不足焉，有不信焉。犹兮其贵言。功成事遂，百姓皆谓“我自然”。──春秋末期人 · 老子李耳《道德经》第十七章
+太上，不知有之；其次，亲而誉之；其次，畏之；其次，侮之。信不足焉，有不信焉。犹兮其贵言。功成事遂，百姓皆谓“我自然”。── 春秋末期人 · 老子李耳《道德经》第十七章
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 

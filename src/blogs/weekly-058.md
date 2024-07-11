@@ -10,7 +10,7 @@
 
 > OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
-![倾城之链 - Open Broadcaster Software | OBS](https://oss.nicelinks.site/obsproject.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Open Broadcaster Software | OBS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/obsproject.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[OBS Studio](https://nicelinks.site/redirect?url=https://obsproject.com/) (Open Broadcaster Software) 是**免费的开源软件**，用于**视频录制**和**直播**。在 Windows、Mac 或 Linux 上，可快速轻松地下载，并开始流式传输。可流媒体到 Twitch、YouTube 和许多其他供应商，或用高质量的 H264 / AAC 编码录制你自己的视频。它具有以下功能特征：
 
@@ -33,7 +33,7 @@
 
 > 道德经网，老子《道德经》全文及译文。
 
-![倾城之链 - 道德经网--老子道德经全文及译文](https://oss.nicelinks.site/www.daodejing.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - 道德经网--老子道德经全文及译文](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.daodejing.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[道德经网](https://nicelinks.site/redirect?url=https://www.daodejing.org/)，一个基于古老 Web 框架 ── ASP.NET 所搭建的网站，用以承载老子《道德经》全文及译文，以及老子其人的相关信息、智慧和故事等。
 
@@ -53,7 +53,7 @@
 
 > Test drive AMP Emails without any code, and set up and send your first AMP email today. Get access to AMP Email industry updates, community, and more.
 
-![倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://oss.nicelinks.site/www.ampmails.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ampmails.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AMP mails](https://nicelinks.site/redirect?url=https://www.ampmails.com/)，可以帮助您在电子邮件中插入表单、日历、购物车、小部件等，以提高电子邮件参与度。立即在您的收件箱中收到这样一封 AMP 电子邮件。
 
@@ -87,7 +87,7 @@
 
 > Self-hosted and cloud-based application monitoring that helps software teams see clearer, solve quicker, & learn continuously.
 
-![倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://oss.nicelinks.site/sentry.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sentry.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/)，是一个基于 Django 构建的现代化的实时事件日志监控、记录和聚合平台，主要用于如何快速的发现故障。支持几乎所有主流开发语言和平台，并提供了现代化 UI；它专门用于：**监视错误**和提取执行适当的事后操作所需的所有信息，而无需使用标准用户反馈循环的任何麻烦。
 
@@ -113,7 +113,7 @@ Sentry 最初是一个开源项目。其创始人的目标很简单：用一种�
 
 > uu 导航-以最快的速度获取所求，为用户提供门户、新闻、视频、游戏、小说、彩票等各种分类的优秀内容和网站入口，提供简单便捷的上网导航服务。
 
-![倾城之链 - UU导航 - 学技术，找资源。一网打尽](https://oss.nicelinks.site/www.daohanguu.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - UU导航 - 学技术，找资源。一网打尽](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.daohanguu.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[UU 导航](https://nicelinks.site/redirect?url=https://www.daohanguu.com/)，创建于 2021 年 4 月，致力于：为用户提供更简单、更实用、更贴心的导航服务。通过 `UU导航`使您上网更轻松惬意、生活更便捷，是该团队努力的目标。UU 导航对收录内容做了以下分类：资源、活动、论坛、辅助、系统、社区、卡盟、发卡、支付、站长、游戏、CMS、博客、直播、IDC、下载、CDN、黑客、导航、其他。除了导航，该网站还提供了些其他内容，譬如 [UU 影视](https://nicelinks.site/redirect?url=https://cms.daohanguu.com/)，播放流畅、无广告，初步体验还可以。
 

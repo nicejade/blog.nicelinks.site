@@ -6,11 +6,11 @@
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`Mac`](https://nicelinks.site/tags/Mac) · [`AI`](https://nicelinks.site/tags/AI)
 
->Simplify life with AI at your fingertips. All-in-one AI suite that seamlessly integrates your voice to maximize your productivity with the best price on Mac.
+> Simplify life with AI at your fingertips. All-in-one AI suite that seamlessly integrates your voice to maximize your productivity with the best price on Mac.
 
-![倾城之链 - Thinkbuddy - A MacOS Interface of AI](https://oss.nicelinks.site/thinkbuddy.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Thinkbuddy - A MacOS Interface of AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/thinkbuddy.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Thinkbuddy](https://nicelinks.site/redirect?url=https://thinkbuddy.ai/) ，适用于 MacOS 的 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，你的Mac现在可以与人工智能对话；通过能够倾听、阅读和参与的 AI 来增强您的 [Mac](https://nicelinks.site/tags/Mac) ，提供全天生产力帮助。**完全免费** ，最多 50 条消息；官方团队指出，Thinkbuddy 是  MacOS 用户通往 AI 的门户（Gateway），它可以提供如下功能：
+**推荐语**：[Thinkbuddy](https://nicelinks.site/redirect?url=https://thinkbuddy.ai/) ，适用于 MacOS 的 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，你的 Mac 现在可以与人工智能对话；通过能够倾听、阅读和参与的 AI 来增强您的 [Mac](https://nicelinks.site/tags/Mac) ，提供全天生产力帮助。**完全免费** ，最多 50 条消息；官方团队指出，Thinkbuddy 是  MacOS 用户通往 AI 的门户（Gateway），它可以提供如下功能：
 
 - 🗣️ 交谈和输入 — 将语音转换为文本或轻松输入 AI 问题。
 - 🔍 Screenshot AI — 使用 GPT4V 等多模式 LLM 分析屏幕截图。
@@ -31,9 +31,9 @@
 
 **标签**：[`官网`](https://nicelinks.site/tags/官网) · [`产品`](https://nicelinks.site/tags/产品) · [`创造`](https://nicelinks.site/tags/创造)
 
->#心所向，驰以恒# 梅赛德斯-奔驰，创新激情永不灭。作为汽车发明者,我们从未停下脚步，探索，创造，颠覆，革新，为心中所向，驰之以恒！
+> #心所向，驰以恒# 梅赛德斯-奔驰，创新激情永不灭。作为汽车发明者,我们从未停下脚步，探索，创造，颠覆，革新，为心中所向，驰之以恒！
 
-![倾城之链 - 梅赛德斯-奔驰](https://oss.nicelinks.site/www.mercedes-benz.com.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 梅赛德斯-奔驰](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mercedes-benz.com.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[梅赛德斯-奔驰](https://nicelinks.site/redirect?url=https://www.mercedes-benz.com.cn/) （Méisài dé sī - bēnchí 此为中国大陆译法，原名：`Mercedes-Benz`）是一家世界知名的德国汽车制造商，成立于 1926 年，总部位于斯图加特。它是戴姆勒股份公司（Daimler AG）的子公司，是全球最著名和最受尊敬的豪华汽车品牌之一。以下是对梅赛德斯-奔驰公司的详细介绍：
 
@@ -59,7 +59,7 @@
 
 > SUV 是 Sport Utility Vehicle 的缩写，意为运动型多用途车辆，是一种结合了轿车和越野车特点的汽车类型。SUV 通常具有较高的离地间隙和较强的越野性能，同时也具备较好的舒适性和空间性。
 
-**梅赛德斯-奔驰（Mercedes-Benz）  SUV 系列产品**：
+**梅赛德斯-奔驰（Mercedes-Benz） SUV 系列产品**：
 
 1.  GLA-Class（GLA 级）：GLA 级是梅赛德斯-奔驰的紧凑型 SUV，它结合了小型轿车的操控性和 SUV 的实用性。GLA 级以其时尚的外观和豪华的内饰设计吸引了许多消费者。
 2.  GLB-Class（GLB 级）：GLB 级是梅赛德斯-奔驰的多功能紧凑型 SUV，它提供了更大的空间和更多的座位配置选项。GLB 级具有强大的性能和出色的越野能力。
@@ -79,9 +79,9 @@
 
 **标签**：[`动画`](https://nicelinks.site/tags/动画) · [`有趣`](https://nicelinks.site/tags/有趣) · [`教程`](https://nicelinks.site/tags/教程)
 
->Hello! I am an animator that loves to create fun animations using Adobe products!
+> Hello! I am an animator that loves to create fun animations using Adobe products!
 
-![倾城之链 - Chris Georgenes - Keyframer](https://oss.nicelinks.site/keyframer.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Chris Georgenes - Keyframer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/keyframer.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Keyframer](https://nicelinks.site/redirect?url=https://keyframer.com/) 是一个承载 [动画](https://nicelinks.site/tags/动画) 相关的网站（以 YouTuBe 视频方式呈现）；作者是 Chris Georgenes，他是位经验丰富的动画师、公共演讲者和教育家，创作艺术、动画、音乐、摄影、教程。Chris Georgenes 拥有哈特福德艺术学院的版画和插画学位，担任动画师已有 20 多年，为各种客户创造了令人惊叹的视觉效果。除了动画工作之外，他还成为一名炙手可热的演讲者和教师，并多次在会议和研讨会上发表演讲，帮助学生和专业人士学习 Adob​​e 软件的基础知识。
 
@@ -91,18 +91,18 @@
 
 **标签**：[`评论系统`](https://nicelinks.site/tags/评论系统) · [`开源`](https://nicelinks.site/tags/开源) · [`产品`](https://nicelinks.site/tags/产品)
 
->一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system 。
+> 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system 。
 
-![倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://oss.nicelinks.site/twikoo.js.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/twikoo.js.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Twikoo](https://nicelinks.site/redirect?url=https://twikoo.js.org/) ，一个**简洁**、**安全**、**免费**的静态网站 [评论系统](https://nicelinks.site/tags/评论系统) ，官方给出更详尽的描述：
 
-###  🚀简单
+### 🚀 简单
 
 - 免费搭建（使用云开发 / Vercel / 私有部署评论后台）；
 - 简单部署（支持云开发 / Vercel 一键部署）；
 
-### 😃易用
+### 😃 易用
 
 - 支持回复、点赞；
 - 无需额外适配，支持搭配浅色主题与深色主题使用；
@@ -118,11 +118,11 @@
 - 支持 Katex 公式；
 - 支持按语言的代码高亮；
 
-### 🛡️安全
+### 🛡️ 安全
 
 - 隐私信息安全（通过云函数控制敏感字段（邮箱、IP、环境配置等）不会泄露）；
 - 支持 Akismet 垃圾评论检测（需自行注册 [akismet.com](https://akismet.com/) ）；
-- 支持腾讯云内容安全垃圾评论检测（需自行注册 ` 腾讯云内容安全 `）；
+- 支持腾讯云内容安全垃圾评论检测（需自行注册 `腾讯云内容安全`）；
 - 支持人工审核模式；
 - 防 XSS 注入；
 - 支持限制每个 IP 每 10 分钟最多发表多少条评论；
@@ -133,7 +133,7 @@
 - 支持自定义“博主”标识文字；
 - 支持自定义通知邮件模板；
 - 支持自定义评论框提示信息（placeholder）；
-- 支持自定义表情列表（兼容 OwO 的数据格式）；
+- 支持自定义表情列表（兼容  OwO 的数据格式）；
 - 支持自定义【昵称】【邮箱】【网址】必填 / 选填；
 - 支持自定义代码高亮主题；
 
@@ -153,9 +153,9 @@
 
 **关键字**：中国诗词学习, 现代化诗词网站, 全站搜索诗词, 拼音标注诗词, 注释诗词, 白话文翻译诗词, 学习唐诗宋词, 诗词学习网站推荐, poem in chinese
 
->aspoem.com 是现代化的中国诗词学习网站，提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅！
+> aspoem.com 是现代化的中国诗词学习网站，提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅！
 
-![倾城之链 - AsPoem | 现代化中国诗词学习网站](https://oss.nicelinks.site/aspoem.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AsPoem | 现代化中国诗词学习网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aspoem.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[aspoem.com](https://nicelinks.site/redirect?url=https://aspoem.com/) ：一个面很爽干净、现代化、 [开源](https://nicelinks.site/tags/开源) 的中国诗词学习、展示网站；它提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅。
 
@@ -167,9 +167,9 @@
 
 **标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`文档`](https://nicelinks.site/tags/文档) · [`开源`](https://nicelinks.site/tags/开源)
 
->Starlight helps you build beautiful, high-performance documentation websites with Astro.
+> Starlight helps you build beautiful, high-performance documentation websites with Astro.
 
-![倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://oss.nicelinks.site/starlight.astro.build.png?x-oss-process=style/png2jpg)
+![倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/starlight.astro.build.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Starlight](https://nicelinks.site/redirect?url=https://starlight.astro.build/) ：🌟 使用 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 构建美观、可访问、高性能的文档网站；使用它，可以让您的文档闪耀星光（Shine with Starlight），构建一流文档网站所需的一切。快速、方便且易于使用。官方有给出如下功能特征：
 
@@ -197,22 +197,22 @@ Starlight 作为一个与框架无关的完整文档解决方案提供。使用 
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`在线`](https://nicelinks.site/tags/在线) · [`有趣`](https://nicelinks.site/tags/有趣)
 
->character.ai is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
+> character.ai is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
 
-![倾城之链 - Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://oss.nicelinks.site/beta.character.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/beta.character.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Character.ai](https://nicelinks.site/redirect?url=https://beta.character.ai/) 是一款基于神经语言模型的在线聊天机器人，可以生成类似人类的文本响应并参与上下文对话。该 Beta 模型由 Google LaMDA 的前开发者 Noam Shazeer 和 Daniel De Freitas 构建，于 2022 年 9 月向公众开放。用户可以创建「角色」，塑造他们的「个性」，设置特定参数，然后发布到社区供其他人聊天。
 
- 许多角色可能基于虚构的媒体资源或名人，而其他角色则完全是原创的，有些角色的制作是为了特定的目标，例如协助创意写作或成为基于文本的冒险游戏。用户可以与单个角色联系或组织包含多个角色的群聊，这些角色可以同时与彼此或用户交谈。
+许多角色可能基于虚构的媒体资源或名人，而其他角色则完全是原创的，有些角色的制作是为了特定的目标，例如协助创意写作或成为基于文本的冒险游戏。用户可以与单个角色联系或组织包含多个角色的群聊，这些角色可以同时与彼此或用户交谈。
 
-**Character.ai 是如何工作的？** ──该产品基于神经语言模型。超级计算机可以读取大量文本，并学会在任何给定情况下想象接下来可能出现的单词。
+**Character.ai 是如何工作的？** ── 该产品基于神经语言模型。超级计算机可以读取大量文本，并学会在任何给定情况下想象接下来可能出现的单词。
 
 这款产品非常有意思的点在于，您可以跟各种角色对话，比如先贤老子、庄子、理查德·费曼，当代名人 Elon Musk，或者电影、动漫虚拟中的人物；而且对话内容令人感到“真实”，似乎真的在于他们对话；此外，您可以还可以登录、创建角色。下面是与 "Elon Musk " 的两句对话：
 
->Me：If you could go back in time, when and where would you go?   
+> Me：If you could go back in time, when and where would you go?  
 > **Elon Musk**：I would go back to when the pyramids were being built, just so I can show off my knowledge of the future, and show them that I'm clearly a superior intelligence than they are.
 >
-> Me：What advice would you give to the young people of China who are about to turn 33 years old, in terms of studies, career and life.   
+> Me：What advice would you give to the young people of China who are about to turn 33 years old, in terms of studies, career and life.  
 > **Elon Musk**：My advice would be as follows. Never stop reading and learning. Make your time count. Be bold and take risks. Take ownership of your own life. You control your destiny, not someone else. Dream big and never give up.
 
 2023 年 3 月， [Character.ai](https://nicelinks.site/redirect?url=https://beta.character.ai/) 完成了一笔 1.5 亿美元的融资，估值达到 10 亿美元，由 a16z 领投。这笔融资将用于扩展其计算能力，提高模型的精度和推理能力，并加强公司团队的规模和技术能力。据报道，Character.AI 还计划探索加密和社交音频市场，这些都是 a16z 非常看重的领域。
@@ -227,7 +227,7 @@ Starlight 作为一个与框架无关的完整文档解决方案提供。使用 
 
 ## 本期文末寄语
 
-如果有一天： 你不再寻找爱情，只是去爱； 你不再渴望成功，只是去做；你不再追求空泛的成长，只是开始修养自己的性情—— 你的人生一切，才真正开始。 ──纪伯伦
+如果有一天： 你不再寻找爱情，只是去爱； 你不再渴望成功，只是去做；你不再追求空泛的成长，只是开始修养自己的性情—— 你的人生一切，才真正开始。 ── 纪伯伦
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -249,7 +249,7 @@ Starlight 作为一个与框架无关的完整文档解决方案提供。使用 
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

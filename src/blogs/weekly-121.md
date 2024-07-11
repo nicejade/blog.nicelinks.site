@@ -6,9 +6,9 @@
 
 **标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`效率`](https://nicelinks.site/tags/效率)
 
->tea is the next-generation, cross-platform package manager from the creator of brew.
+> tea is the next-generation, cross-platform package manager from the creator of brew.
 
-![倾城之链 - The next-generation, cross‐platform package manager](https://oss.nicelinks.site/tea.xyz.png?x-oss-process=style/png2jpg)
+![倾城之链 - The next-generation, cross‐platform package manager](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tea.xyz.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[tea](https://nicelinks.site/redirect?url=https://tea.xyz/) 下一代跨平台包管理器。它能自动化依赖关系并无缝浏览数百个包，告别缓慢和笨重，向快速和流畅问好。，来自 Brew 的创造者（ [Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 制造商的 Homebrew 替代品）。使用 `tea`，只需键入命令，剩下的就交给它了。获取最新版本的开源工具，支持不同项目的特定工具版本，用 tea 体验更好的包裹管理。它具有以下功能特征：
 
@@ -30,15 +30,15 @@
 
 **标签**：[`分享`](https://nicelinks.site/tags/分享)
 
->半缘修道观，基于 Memos 所搭建的个人微博、知识管理系统、备忘录；用以记载平时阅读、随笔、感悟，以及与 ChatGPT 对话等内容。该名取自元稹诗句：“取次花丛懒回顾，半缘修道半缘君”。
+> 半缘修道观，基于 Memos 所搭建的个人微博、知识管理系统、备忘录；用以记载平时阅读、随笔、感悟，以及与 ChatGPT 对话等内容。该名取自元稹诗句：“取次花丛懒回顾，半缘修道半缘君”。
 
-![倾城之链 - 半缘修道观](https://oss.nicelinks.site/memo.lovejade.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 半缘修道观](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/memo.lovejade.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[半缘修道观](https://memo.lovejade.cn/) ，基于 [Memos](https://nicelinks.site/post/637e1ebc984fb92197ab0f73) 所搭建的个人微博、知识管理系统、备忘录；用以记载平时阅读、随笔、感悟，以及与 ChatGPT 对话等内容。该名取自元稹诗句：“取次花丛懒回顾，半缘修道半缘君”。
 
- > [Memos](https://nicelinks.site/post/637e1ebc984fb92197ab0f73) ，具有 [知识管理](https://nicelinks.site/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86) 和 [协作](https://nicelinks.site/tags/%E5%8D%8F%E4%BD%9C) 功能的开源**自托管**备忘录中心；基于 [Go](https://nicelinks.site/post/606aa86a00d67605dca7de5c) 、 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、Less、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) HTML 等编写。Memos 除了开源外，还具有其他优点，诸如：设计简洁、打开即写（类推特）；支持使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) **自托管**，且操作方便；满足**个性化定制**设置；良好的内置搜索体验；可开启其他人注册®️；拥有类 Github Contribution 格子记录📝；支持创建快捷方式（Filter Shortcut，即根据标签、文本、展示时间等创建的过滤规则）......而且该项目还在快速迭代中；截止 2023 年 06 月 06 日，Memos 已更新至 v0.13.1 版本。
+> [Memos](https://nicelinks.site/post/637e1ebc984fb92197ab0f73) ，具有 [知识管理](https://nicelinks.site/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86) 和 [协作](https://nicelinks.site/tags/%E5%8D%8F%E4%BD%9C) 功能的开源**自托管**备忘录中心；基于 [Go](https://nicelinks.site/post/606aa86a00d67605dca7de5c) 、 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、Less、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) HTML  等编写。Memos  除了开源外，还具有其他优点，诸如：设计简洁、打开即写（类推特）；支持使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) **自托管**，且操作方便；满足**个性化定制**设置；良好的内置搜索体验；可开启其他人注册 ®️；拥有类  Github Contribution  格子记录 📝；支持创建快捷方式（Filter Shortcut，即根据标签、文本、展示时间等创建的过滤规则）......而且该项目还在快速迭代中；截止 2023 年 06 月 06 日，Memos 已更新至 v0.13.1 版本。
 
-多年以来，因为各种原因，折腾了十余个网站（可参见： [杨轩帅个人主页](https://nicejade.bio.link/) ）；其中就填充内容频率而言，以 [半缘修道观](https://memo.lovejade.cn/) 为最（远超过主站： [倾城之链](https://nicelinks.site) ）；由于 `memos` 的巧妙设计和操作的便捷性，使用它不仅不会给生产内容带来压力，反而能够激发更多的动力。如果您有意愿沉淀更多知识、灵感、学习心得，强烈建议自部署一套  [Memos](https://nicelinks.site/post/637e1ebc984fb92197ab0f73) 服务以获得协助。
+多年以来，因为各种原因，折腾了十余个网站（可参见： [杨轩帅个人主页](https://nicejade.bio.link/) ）；其中就填充内容频率而言，以 [半缘修道观](https://memo.lovejade.cn/) 为最（远超过主站： [倾城之链](https://nicelinks.site) ）；由于 `memos` 的巧妙设计和操作的便捷性，使用它不仅不会给生产内容带来压力，反而能够激发更多的动力。如果您有意愿沉淀更多知识、灵感、学习心得，强烈建议自部署一套 [Memos](https://nicelinks.site/post/637e1ebc984fb92197ab0f73) 服务以获得协助。
 
 ── 出自[倾城之链 - 半缘修道观](https://nicelinks.site/post/647f282d6cb99b599be0461a)
 
@@ -46,17 +46,16 @@
 
 **标签**：[`算法`](https://nicelinks.site/tags/算法) · [`教程`](https://nicelinks.site/tags/教程) · [`开源`](https://nicelinks.site/tags/开源)
 
->一本动画图解、能运行、可提问的数据结构与算法入门书。
+> 一本动画图解、能运行、可提问的数据结构与算法入门书。
 
-![倾城之链 - Hello 算法](https://oss.nicelinks.site/www.hello-algo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Hello 算法](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.hello-algo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：《[Hello 算法](https://nicelinks.site/redirect?url=https://www.hello-algo.com/) 》是一本动画图解、能运行、可提问的数据结构与 [算法](https://nicelinks.site/tags/算法) 入门书，支持 Java, C++, [Python](: tgagPython) , Go, JS, [TS](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) , C#, [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) , Zig 等语言。它通过**动画图解结构化**地讲解数据结构和算法知识，内容清晰易懂、学习曲线挺平滑，是很适合新手入门「数据结构与算法」的开源书籍📚。此外《Hello 算法》 还有两个优点：
+**推荐语**：《[Hello 算法](https://nicelinks.site/redirect?url=https://www.hello-algo.com/) 》是一本动画图解、能运行、可提问的数据结构与 [算法](https://nicelinks.site/tags/算法) 入门书，支持 Java, C++, [Python](: tgagPython) , Go, JS, [TS](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) , C#, [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) , Zig 等语言。它通过**动画图解结构化**地讲解数据结构和算法知识，内容清晰易懂、学习曲线挺平滑，是很适合新手入门「数据结构与算法」的开源书籍 📚。此外《Hello 算法》 还有两个优点：
 
 - 源代码可一键运行，帮助读者在实践练习中提升编程技能，了解算法工作原理和数据结构底层实现；
 - 鼓励读者互助学习，提问与评论通常可在两日内得到回复；
 
 《Hello 算法》 一书出自大厂高级算法工程师、上海交通大学硕士：靳宇栋 (Krahets)。值得一提的是，该项目在 [Github 仓库开源](https://github.com/krahets/hello-algo) ，截止 2023 年 06 月 06 日，已获得 13.4K+ Star；如果您对算法感兴趣，可以考虑关注。
-
 
 ── 出自[倾城之链 - Hello 算法](https://nicelinks.site/post/647f1fa76cb99b599be04485)
 
@@ -64,11 +63,11 @@
 
 **标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`Docker`](https://nicelinks.site/tags/Docker) · [`AI`](https://nicelinks.site/tags/AI)
 
-**关键字**：vector search engine, neural network, matching, SaaS, approximate nearest neighbor search, image search, recommender system, vectors, knn algorithm, hnsw, vector search, embeddings, similarity, simaes networks, BERT, transformer, word2vec, fasttext,  qdrant
+**关键字**：vector search engine, neural network, matching, SaaS, approximate nearest neighbor search, image search, recommender system, vectors, knn algorithm, hnsw, vector search, embeddings, similarity, simaes networks, BERT, transformer, word2vec, fasttext, qdrant
 
->Qdrant is an Open-Source Vector Database and Vector Search Engine written in Rust. It provides fast and scalable vector similarity search service with convenient API.
+> Qdrant is an Open-Source Vector Database and Vector Search Engine written in Rust. It provides fast and scalable vector similarity search service with convenient API.
 
-![倾城之链 - Qdrant - Vector Database](https://oss.nicelinks.site/qdrant.tech.png?x-oss-process=style/png2jpg)
+![倾城之链 - Qdrant - Vector Database](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qdrant.tech.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Qdrant](https://nicelinks.site/redirect?url=https://qdrant.tech/) ：用于下一代 [AI](https://nicelinks.site/tags/AI) 应用程序的矢量 [数据库](https://nicelinks.site/tags/数据库) ，也可在云中使用；它旨在使用先进的高性能矢量相似性 [搜索](https://nicelinks.site/tags/搜索) 技术，为下一代人工智能应用提供动力。`qdrant` 具有如下功能特征：
 
@@ -108,9 +107,9 @@ Vector payload 支持多种数据类型和查询条件，包括字符串匹配�
 
 **标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`Python`](https://nicelinks.site/tags/Python) · [`应用`](https://nicelinks.site/tags/应用)
 
->Build & Share Delightful Machine Learning Apps
+> Build & Share Delightful Machine Learning Apps
 
-![倾城之链 - Gradio | 在 3 分钟内用 Python 为您的机器学习模型创建 UI](https://oss.nicelinks.site/www.gradio.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Gradio | 在 3 分钟内用 Python 为您的机器学习模型创建 UI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gradio.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Gradio](https://nicelinks.site/redirect?url=https://www.gradio.app/) 是一个开源 [Python 库](https://nicelinks.site/tags/Python) ，用于构建 [机器学习](https://nicelinks.site/tags/机器学习) 、数据科学演示以及 Web 应用程序。它是通过友好的 Web 界面演示机器学习模型的快速方式，任何人都可以在任何地方使用它。Gradio 具有以下功能特征：
 
@@ -144,7 +143,7 @@ Gradio 可以嵌入到 Python 笔记本中或作为网页呈现。Gradio 界面�
 
 ## 本期文末寄语
 
-“一个人不该过分自省，这会使他变得软弱，理智的做法，只有在做很小的事情时才有效；**至于改变人生的事情，你必须冒险，意义非凡的事情，​总是碰巧发生的，​只有不重要的事，​才有周全的计划**”。──英国作家、记者、熟食店老板 珍妮特•温特森
+“一个人不该过分自省，这会使他变得软弱，理智的做法，只有在做很小的事情时才有效；**至于改变人生的事情，你必须冒险，意义非凡的事情，​ 总是碰巧发生的，​ 只有不重要的事，​ 才有周全的计划**”。── 英国作家、记者、熟食店老板 珍妮特•温特森
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -168,7 +167,7 @@ Gradio 可以嵌入到 Python 笔记本中或作为网页呈现。Gradio 界面�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

@@ -8,7 +8,7 @@
 
 > Create a free website or build a blog with ease on WordPress.com. Dozens of free, customizable, mobile-ready designs and themes. Free hosting and support.
 
-![倾城之链 - WordPress.com: Create a Free Website or Blog](https://oss.nicelinks.site/wordpress.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - WordPress.com: Create a Free Website or Blog](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wordpress.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WordPress](https://nicelinks.site/redirect?url=https://wordpress.com/) 是老牌的、全世界最热门的[网站生成器](https://nicelinks.site/tags/网站生成器)；据数据显示大约有 40% 网页，基于 [WordPress](https://nicelinks.site/redirect?url=https://wordpress.com/) 所构建，其数据超过其他各种方案总和；您可以基于 [WordPress](https://nicelinks.site/redirect?url=https://wordpress.com/) 构建站点、 销售产品/服务、 写博客等等等等。`WordPress` 具有非常多特色功能，下面简单列举一些：
 
@@ -26,7 +26,7 @@
 
 > Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
-![倾城之链 - Deno - A secure runtime for JavaScript and TypeScript](https://oss.nicelinks.site/deno.land.png?x-oss-process=style/png2jpg)
+![倾城之链 - Deno - A secure runtime for JavaScript and TypeScript](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/deno.land.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Deno](https://nicelinks.site/redirect?url=https://deno.land/)（发音："蒂诺"）是 Ryan Dahl 在 2017 年创立的编程语言。作为 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 的替代品，[Deno](https://nicelinks.site/redirect?url=https://deno.land/) 也是一个服务器运行时，但是支持多种语言，可以直接运行 JavaScript、TypeScript 和 WebAssembly 程序。`Deno` 内置了 V8 引擎，用来解释 JavaScript。同时，也内置了 tsc 引擎，解释 TypeScript。
 
@@ -52,7 +52,7 @@
 
 > 纯情博客致力于分享互联网各类最新精品源码、各类实用工具、网络安全攻防技术、黑客技术、以及各类全自动化工具的源码和使用教程，让小白也能自己动手使用本站的所有资源。
 
-![倾城之链 - 纯情博客 - 分享各类精品源码、实用工具](https://oss.nicelinks.site/blog.xiaohack.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - 纯情博客 - 分享各类精品源码、实用工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.xiaohack.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[纯情博客-分享各类精品源码 | 实用工具](https://nicelinks.site/redirect?url=https://blog.xiaohack.org/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所构建，部署于 [Nginx](https://nicelinks.site/post/5f464de803173c4c379397c9) 服务器；分享内容，涉及各类精品源码、实用工具、最新网络咨询、网络安全等方面；博主本人专注于高性能、容错、 分布式服务器的研究和实现；并提供服务器架构、诊断、优化咨询等服务。
 
@@ -66,7 +66,7 @@
 
 > 叽喳是一个简洁而又精致的全平台写作应用, 无论是撰写博客，日记记录，还是想法收集，它都将是你的得力帮手
 
-![倾城之链 - 叽喳・Giki](https://oss.nicelinks.site/giki.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - 叽喳・Giki](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/giki.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[叽喳・Giki](https://nicelinks.site/redirect?url=https://giki.app/)是一个简洁而又精致的**全平台写作应用**，您可以用它来撰写博客、日记记录、想法收集....，随时随地进行创作，在你思考的路上，她能伴你左右；[叽喳・Giki](https://nicelinks.site/redirect?url=https://giki.app/) 支持微博、Github、Google（App ID ）等多种登录方式，且各端数据同步；而且它还提供类似 [Gtihub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 的”贡献绿格“，比较直观展示记录日志。当然，还有[叽喳・Giki](https://nicelinks.site/redirect?url=https://giki.app/) 更多功能特征：
 
@@ -84,7 +84,7 @@
 
 > 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux。
 
-![倾城之链 - YesPlayMusic](https://oss.nicelinks.site/music.qier222.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - YesPlayMusic](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/music.qier222.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[YesPlayMusic](https://nicelinks.site/redirect?url=https://music.qier222.com/) 是采用 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 全家桶开发的、高颜值的、支持多端的第三方网易云播放器（桌面版基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 开发），它支持本地安装，也支持部署于服务器；它具体有以下特性：
 
@@ -112,7 +112,7 @@
 
 > VersMind 是一款多端纪念日提醒应用，支持邮件、短信等多种提醒方式。
 
-![倾城之链 - versmind - 致力于纪念日的记录和提醒](https://oss.nicelinks.site/www.versmind.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - versmind - 致力于纪念日的记录和提醒](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.versmind.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[VersMind](https://nicelinks.site/redirect?url=https://www.versmind.com/) 是一款致力于纪念日的记录和提醒的**跨平台**应用，支持 Web、Chrome 扩展、小程序、CLI、API 等使用方式；为确保用户能及时收到提醒，[VersMind](https://nicelinks.site/redirect?url=https://www.versmind.com/) 提供了邮件、短信和 Webhook 的提醒方式。在已经有手机日历情形下，为何还推荐这款应用呢，因为它具有以下功能特色：
 
@@ -135,7 +135,7 @@
 
 > Mathor 的个人博客
 
-![倾城之链 - Mathor's Blog](https://oss.nicelinks.site/wmathor.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mathor's Blog](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wmathor.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mathor's Blog](https://nicelinks.site/redirect?url=https://wmathor.com/) 是基于 [Typecho](https://nicelinks.site/post/5fe209779b4e656960bd8466) 所搭建的个人博客；博主目前致力于机器学习、数据挖掘、人工智能、深度学习等方向；博客勤于更新，内容丰富，涉及有 Python、数学、Java、算法、涉及模式、Deep Learn、LeetCode、数字图像等内容；如果您有从事相关领取，这是值得关注的博客。
 
@@ -149,7 +149,7 @@
 
 > 网页传无需数据线，只需要连接网络即可通过浏览器管理自己的安卓(android)手机数据和 iphone 手机数据，可以备份、还原、下载、上传安卓（android）数据和 iphone 手机数据。
 
-![倾城之链 - 互传网页版](https://oss.nicelinks.site/as.vivo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 互传网页版](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/as.vivo.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[互传网页版](https://nicelinks.site/redirect?url=https://as.vivo.com/)是 [vivo](https://nicelinks.site/post/5b3ce12a615bf842b609103f) 提供的在线工具，无需数据线，只需要连接网络，即可通过浏览器管理自己的安卓（Android」手机数据和 iPhone 手机数据，可以备份、还原、下载、上传安卓（Android）数据和 iPhone 手机数据。这在某些场景下非常有用（如无数据线；传输文件超过 5 M，微信不能传送 😳；再临时下载安装其他软件，也比较麻烦，[互传网页版](https://nicelinks.site/redirect?url=https://as.vivo.com/)值得惠存）。
 
@@ -163,7 +163,7 @@
 
 > 远航者应用分享网，一个有态度的应用软件评测及分享的网站。致力于分享 iOS、Android、pc 端的实用软件、必备软件、精品应用、绿色软件应用。专注收集分享优质软件，亲身使用并分享各软件的特色及功能介绍，让每一个人都能快速的找到适用于自己的软件。
 
-![倾城之链 - 远航者 | 发现更好的应用](https://oss.nicelinks.site/app.yhz610.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 远航者 | 发现更好的应用](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/app.yhz610.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[远航者](https://nicelinks.site/redirect?url=https://app.yhz610.com/)是一个有态度的**应用软件评测及分享**的网站；致力于分享 iOS、Android、pc 端的实用软件、必备软件、精品应用、绿色软件应用。专注收集分享优质软件，亲身使用并分享各软件的特色及功能介绍，让每一个人都能快速的找到适用于自己的软件。这与[倾城之链 | NICE LINKS](https://nicelinks.site/)极度相似（只不过后者，所针对的主体是 Web 应用）。
 

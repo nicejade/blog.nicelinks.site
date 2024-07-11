@@ -8,7 +8,7 @@
 
 > Generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
-![倾城之链 - metaSEO - Meta tags for best SEO](https://oss.nicelinks.site/metaseo.itsvg.in.png?x-oss-process=style/png2jpg)
+![倾城之链 - metaSEO - Meta tags for best SEO](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/metaseo.itsvg.in.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[metaSEO](https://nicelinks.site/redirect?url=https://metaseo.itsvg.in/)，一个 SEO 相关的工具网站；支持一键生成元标签（meta tags，会增加社交相关属性，如 `twitter:description` 等），为您的网站提供最佳的搜索引擎优化，使得在搜索结果中排名靠前；当有人在推特（twitter）等平台分享您的链接时，会显得很独特。实际使用，需要您自己输入网站名称、描述、关键字以及预览图片网址等信息（这一点，其实可以继续优化：先抓取，没有获取到再让用户自己填写）。
 
@@ -22,7 +22,7 @@
 
 > 社交网站内容自动导出成电子书、印刷书，微信书、博客做书、QQ 日志做书、QQ 说说做书、QQ 相册做书、途牛游记做书、微博做书、朋友圈印书、公众号文章印书等，自动排版，在线编辑
 
-![倾城之链 - 更点 - 自编书平台: 微信书 博客印书 QQ空间印书 微博印书](https://oss.nicelinks.site/www.upzao.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 更点 - 自编书平台: 微信书 博客印书 QQ空间印书 微博印书](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.upzao.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[更点](https://nicelinks.site/redirect?url=https://www.upzao.com/)，一个在线自编书平台；支持在线编辑书和相册，图文编排，实时预览；适合：微信书、博客书、QQ 说说日志书、微博书、纪念册、写作书。可导入各社交网站内容，制作旅游集、宝宝相册、博客日志书等。已经支持：微信书、新浪/网易/搜狐博客成书、QQ 日志/说说成书、公众号文章成书、微博成书、美篇文章成书、知乎专栏成书、豆瓣日记成书等。鲜有接触类似产品，有尝试导入公众号内容来编书，一番操作，与预期似乎不太相符。
 
@@ -34,7 +34,7 @@
 
 > A query language for your API — GraphQL provides a complete description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
-![倾城之链 - GraphQL | A query language for your API](https://oss.nicelinks.site/graphql.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - GraphQL | A query language for your API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphql.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GraphQL](https://nicelinks.site/redirect?url=https://graphql.org/) 是一种 API 查询语言和运行时，用于使用现有数据完成这些查询。GraphQL 为您的 API 中的数据提供了完整且易于理解的描述，让客户能够准确地询问他们需要什么，更容易随着时间的推移发展 API，并启用强大的开发人员工具。
 
@@ -56,7 +56,7 @@
 
 > Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.
 
-![倾城之链 - Next.js by Vercel - The React Framework](https://oss.nicelinks.site/nextjs.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Next.js by Vercel - The React Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nextjs.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Next.js](https://nicelinks.site/redirect?url=https://nextjs.org/)，一个用于 生产环境的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。它具有以下功能特征：
 

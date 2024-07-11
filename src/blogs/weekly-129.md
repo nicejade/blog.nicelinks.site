@@ -6,9 +6,9 @@
 
 **标签**：[`创作者`](https://nicelinks.site/tags/创作者) · [`平台`](https://nicelinks.site/tags/平台) · [`阅读`](https://nicelinks.site/tags/阅读)
 
->竹白：专为创作者设计的一站式工具，帮助创作者触达更多紧密且忠实的读者。
+> 竹白：专为创作者设计的一站式工具，帮助创作者触达更多紧密且忠实的读者。
 
-![倾城之链 - 竹白 - 专为创作者设计的一站式工具](https://oss.nicelinks.site/zhubai.love.png?x-oss-process=style/png2jpg)
+![倾城之链 - 竹白 - 专为创作者设计的一站式工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zhubai.love.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[竹白](https://nicelinks.site/redirect?url=https://zhubai.love/) ，专为 [创作者](https://nicelinks.site/tags/创作者) 设计的一站式工具，帮助创作者触达更多紧密且忠实的读者。竹白团队认为：“创作者应该拥有众多紧密且忠实的读者，而不是转瞬即逝的流量； 创作者应该可以专注于创作有价值的内容，无需适应各平台规则来争夺短暂的注意力； 创作者应该不仅能获取到足够的读者，还能到获取到足够的收益； 创作者应该有新的选择”。`竹白`具有如下功能特征：
 
@@ -40,16 +40,16 @@
 
 **标签**：[`分享`](https://nicelinks.site/tags/分享) · [`科技`](https://nicelinks.site/tags/科技) · [`新闻`](https://nicelinks.site/tags/新闻)
 
-**关键字**：ai, ai作图, bing, chatgpt, hackernews, 互联网, 前端, 小说, 科技, 科技周刊, 编程
+**关键字**：ai, ai 作图, bing, chatgpt, hackernews, 互联网, 前端, 小说, 科技, 科技周刊, 编程
 
->1link.fun, 一个分享有趣科技新闻, 实用工具网站，消磨时间利器的互联网杂志。
+> 1link.fun, 一个分享有趣科技新闻, 实用工具网站，消磨时间利器的互联网杂志。
 
-![倾城之链 - 1Link.Fun ｜ 科技周刊](https://oss.nicelinks.site/1link.fun.png?x-oss-process=style/png2jpg)
+![倾城之链 - 1Link.Fun ｜ 科技周刊](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1link.fun.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[1Link.Fun](https://nicelinks.site/redirect?url=https://1link.fun/) ， 一个分享有趣科技新闻、实用工具网站，消磨时间利器的互联网杂志（基于 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377)
 、[JSDeliver](https://nicelinks.site/post/62321d8373e9e03b84d59879) 等搭建）。站长会在该网站每周更新 10 条有趣的链接, 主要包含：科技新闻、网站推荐、工具推荐（截止 2023 年 07 月 27 日，已更新至第 60 期）。
 
-取名为 `1Link` 是想做成类似 **《意林》** 这样的杂志，让你在闲暇之余消磨一下时间。你可以通过 [RSS](https://1link.fun/index.xml) 订阅更新。也可以通过 [邮箱 / 微信订阅](https://happyfire.zhubai.love/) （竹白）。您可以关注我的小红书 `1link_fun` 和 [Mastodon ｜长毛象](https://mastodon.world/@1link) 关注站长。
+取名为  `1Link`  是想做成类似  **《意林》**  这样的杂志，让你在闲暇之余消磨一下时间。你可以通过 [RSS](https://1link.fun/index.xml) 订阅更新。也可以通过 [邮箱 / 微信订阅](https://happyfire.zhubai.love/) （竹白）。您可以关注我的小红书  `1link_fun`  和 [Mastodon ｜长毛象](https://mastodon.world/@1link) 关注站长。
 
 ── 出自[倾城之链 - 1Link.Fun ｜ 科技周刊](https://nicelinks.site/post/64ca7a09d2695f11974934e1)
 
@@ -57,9 +57,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`免费`](https://nicelinks.site/tags/免费)
 
->Talk to Claude, an AI assistant from Anthropic.
+> Talk to Claude, an AI assistant from Anthropic.
 
-![倾城之链 - Claude AI | AI chatbot launched by Anthropic](https://oss.nicelinks.site/claude.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Claude AI | AI chatbot launched by Anthropic](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/claude.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Claude AI](https://nicelinks.site/redirect?url=https://claude.ai/) 是 Anthropic 公司开发的 AI 助手，于 2022 年 4 月首次发布（其官方网址为： [anthropic.com](https://www.anthropic.com/) ）；它是一款基于自然语言处理技术和人工智能算法的聊天机器人，可以使用自然语言理解技术来理解人类语言，并使用自然语言生成技术来进行回答和梳理。
 
@@ -75,9 +75,9 @@ Claude 2，很容易交谈，清楚地解释其思维，不太可能产生有害
 
 **标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`组件`](https://nicelinks.site/tags/组件) · [`文档`](https://nicelinks.site/tags/文档)
 
->dumi，中文发音嘟米，是一款为组件开发场景而生的静态站点框架，与 father 一起为开发者提供一站式的组件开发体验，father 负责组件源码构建，而 dumi 负责组件开发及组件文档生成。
+> dumi，中文发音嘟米，是一款为组件开发场景而生的静态站点框架，与 father 一起为开发者提供一站式的组件开发体验，father 负责组件源码构建，而 dumi 负责组件开发及组件文档生成。
 
-![倾城之链 - dumi - 为组件研发而生的静态站点框架](https://oss.nicelinks.site/d.umijs.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - dumi - 为组件研发而生的静态站点框架](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/d.umijs.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[dumi](https://nicelinks.site/redirect?url=https://d.umijs.org/) （中文发音嘟米）是一款为 [组件](https://nicelinks.site/tags/组件) 开发场景而生的静态站点框架，与 [father](https://github.com/umijs/father) 一起为开发者提供一站式的组件开发体验，father 负责组件源码构建，而 `dumi` 负责组件开发及组件文档生成。它具有如下功能特征：
 
@@ -96,9 +96,9 @@ Claude 2，很容易交谈，清楚地解释其思维，不太可能产生有害
 
 **标签**：[`社区`](https://nicelinks.site/tags/社区) · [`分布式`](https://nicelinks.site/tags/分布式) · [`社交`](https://nicelinks.site/tags/社交)
 
->您的自托管、全球互连的微博社区。Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, and video.
+> 您的自托管、全球互连的微博社区。Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, and video.
 
-![倾城之链 - Mastodon | Mastodon hosted on mastodon.world](https://oss.nicelinks.site/mastodon.world.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mastodon | Mastodon hosted on mastodon.world](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mastodon.world.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mastodon](https://nicelinks.site/redirect?url=https://mastodon.world/) （又称乳齿象、长毛象或万象）是一个自由开源的去中心化的**分布式**微博客社交网络。它的用户界面和操作方式跟推特（Twitter）类似，但整个网络并非由单一机构运作，而是以多个由不同营运者独立运作的服务器以联邦方式交换资料而组成的去中心化社交网络。
 
@@ -108,7 +108,7 @@ Mastodon 是基于开放源代码和网络的分布式微博客软件，支持�
 
 有别于 Twitter，此服务定位成独立运作的小型社群和基于社群的（而不是由上而下的）审查和服务运营。这些社群可以合作互通但不互相依赖。如同 Twitter，能在 Mastodon 支持用户间发送私密消息，但与 Twitter 张贴的“推文”不同，Mastodon 的“嘟文”可以是：对用户私密、对用户的追踪者私密，对特定实例公开、或透过实例网络公开。联邦式的 Mastodon 实体组成联邦宇宙。
 
-Mastodon 社区，所有用户并不是都集中在一个服务器上。任何人都可以拥有自己的服务器，这些服务器相互连接，最终形成了一个庞大的网络。这庞大的网络就像是一个巨大宇宙，每一个服务器都是宇宙中的一个星系，用户就是每个星系里的行星。目前较为流行的实例有： [mastodon.world](https://mastodon.world/) 、 [mastodon.social](https://mastodon.social/) 、 [mstdn.jp](https://mstdn.jp/) 、 [m.cmx.im](https://m.cmx.im/) 等。2023 年 08 月 02 日，有基于 `mastodon.world` 实例注册®️账户 [@nicejade](https://mastodon.world/@nicejade)，感兴趣的朋友，可考虑互相关注，探讨、分享有趣事物。
+Mastodon 社区，所有用户并不是都集中在一个服务器上。任何人都可以拥有自己的服务器，这些服务器相互连接，最终形成了一个庞大的网络。这庞大的网络就像是一个巨大宇宙，每一个服务器都是宇宙中的一个星系，用户就是每个星系里的行星。目前较为流行的实例有： [mastodon.world](https://mastodon.world/) 、 [mastodon.social](https://mastodon.social/) 、 [mstdn.jp](https://mstdn.jp/) 、 [m.cmx.im](https://m.cmx.im/) 等。2023 年 08 月 02 日，有基于 `mastodon.world` 实例注册 ®️ 账户 [@nicejade](https://mastodon.world/@nicejade)，感兴趣的朋友，可考虑互相关注，探讨、分享有趣事物。
 
 微博、Twitter、Instagram 等由企业创办的社交软站，一旦运营商倒闭，那个社交软站就会完全消失。与此相比，即使在 Mastodon 的庞大网络中有一个服务器停止了运营，而这个网络依然存在。可以说，Mastodon 就是永远都不会消失的社交网络。
 
@@ -122,9 +122,9 @@ Mastodon 社区，所有用户并不是都集中在一个服务器上。任何�
 
 **关键字**：mindmap, thinkmap, 思维导图, 脑图, 流程图, 白板
 
->AmyMind 是一款打开即用的思维导图和画板在线工具。AmyMind is a mindmap & whiteboard online tool. You can use it as a mindmap maker, as an ER diagram tool, and more.
+> AmyMind 是一款打开即用的思维导图和画板在线工具。AmyMind is a mindmap & whiteboard online tool. You can use it as a mindmap maker, as an ER diagram tool, and more.
 
-![倾城之链 - AmyMind | 伴你思考的 AI 思维导图](https://oss.nicelinks.site/amymind.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AmyMind | 伴你思考的 AI 思维导图](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/amymind.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AmyMind](https://nicelinks.site/redirect?url=https://amymind.com/) 是一款打开即用的 [思维导图](https://nicelinks.site/tags/思维导图) 和 [画板](https://nicelinks.site/tags/白板) 在线工具。打开即用、无需注册、免费使用。跟其他产品不同的是，AmyMind 注入了 [AI](https://nicelinks.site/tags/AI) 加持，助你文思泉涌。作为伴你思考的 AI 思维导图，它具有如下功能特性：
 
@@ -172,9 +172,9 @@ AmyMind 目前暂支持 Web 网页版，将逐步覆盖全部主流平台；免�
 
 **标签**：[`可视化`](https://nicelinks.site/tags/可视化) · [`CMS`](https://nicelinks.site/tags/CMS) · [`自托管`](https://nicelinks.site/tags/自托管)
 
->Primo is a visual CMS that makes it a blast to build pages, manage content, and edit code - one block at a time.
+> Primo is a visual CMS that makes it a blast to build pages, manage content, and edit code - one block at a time.
 
-![倾城之链 - Primo | A visual CMS that makes it a blast to build pages, manage content, and edit code](https://oss.nicelinks.site/primocms.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Primo | A visual CMS that makes it a blast to build pages, manage content, and edit code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/primocms.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Primo](https://nicelinks.site/redirect?url=https://primocms.org/) 是一个可视化 CMS（内容管理系统 | Content Management System 的缩写），具有内置代码编辑器、Svelte 和静态站点生成器；它使构建**页面**、管理**内容**和编辑**代码**（一次一个块）成为一种乐趣。它具有如下功能特征：
 
@@ -190,7 +190,7 @@ AmyMind 目前暂支持 Web 网页版，将逐步覆盖全部主流平台；免�
 
 只需从浏览器中单击即可访问每个块的代码。由于每个块都是 Svelte 组件，因此您可以制作的内容没有限制。
 
-###  静态站点
+### 静态站点
 
 您的网站是安全的，可扩展至数百万，并且加载速度快 - 无需花哨的插件。
 
@@ -254,9 +254,9 @@ Primo 是一种现代的整体 CMS 方法，它建立在传统整体的快速设
 
 **关键字**：locust,load testing,load test,performance testing,testing,test,python,benchmark,locust.io,open source,framework,tool
 
->An open source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
+> An open source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 
-![倾城之链 - Locust - A modern load testing framework](https://oss.nicelinks.site/locust.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Locust - A modern load testing framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/locust.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Locust](https://nicelinks.site/redirect?url=https://locust.io/) 是一款易于使用、可编写脚本且可扩展的性能 [测试](https://nicelinks.site/tags/测试) 工具。您可以使用常规 Python 代码定义用户的行为，而不是受到仅假装是真实代码的 UI 或领域特定语言的限制。这使得 Locust 具有无限的可扩展性并且对开发人员非常友好。`locust` 具有如下功能特征：
 
@@ -286,9 +286,9 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`社区`](https://nicelinks.site/tags/社区) · [`平台`](https://nicelinks.site/tags/平台)
 
->Civitai is a platform for Stable Diffusion AI Art models. Browse a collection of thousands of models from a growing number of creators. Join an engaged community in reviewing models and sharing images with prompts to get you started.
+> Civitai is a platform for Stable Diffusion AI Art models. Browse a collection of thousands of models from a growing number of creators. Join an engaged community in reviewing models and sharing images with prompts to get you started.
 
-![倾城之链 - Civitai | Stable Diffusion models, embeddings, LoRAs and more](https://oss.nicelinks.site/civitai.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Civitai | Stable Diffusion models, embeddings, LoRAs and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/civitai.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[CivitAI](https://nicelinks.site/redirect?url=https://civitai.com/) 是一个让人们分享和发现 AI 艺术创作资源的平台。用户可以上传和分享他们用自己的数据训练的自定义模型，或者浏览和下载其他用户创建的模型。这些模型可以和 [AI](https://nicelinks.site/tags/AI) 艺术软件一起使用，生成独特的艺术作品。你可以在 [civitai.com](https://civitai.com/) 网站上注册免费使用，或者基于开源代码自部署。
 
@@ -302,13 +302,13 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 
 **标签**：[`代码`](https://nicelinks.site/tags/代码) · [`分析`](https://nicelinks.site/tags/分析) · [`聚合`](https://nicelinks.site/tags/聚合)
 
->Find static code analysis tools and linters for Java, JavaScript, PHP, Python, Ruby, C/C++, C#, Go, Swift, and more. All tools and linters are peer-reviewed by fellow developers to select the best tools available. Avoid bugs in production, outages on weekends, and angry customers.
+> Find static code analysis tools and linters for Java, JavaScript, PHP, Python, Ruby, C/C++, C#, Go, Swift, and more. All tools and linters are peer-reviewed by fellow developers to select the best tools available. Avoid bugs in production, outages on weekends, and angry customers.
 
-![倾城之链 - Analysis Tools and Linters to Improve Code Quality and Avoid Bugs](https://oss.nicelinks.site/analysis-tools.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Analysis Tools and Linters to Improve Code Quality and Avoid Bugs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/analysis-tools.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Analysis Tools](https://nicelinks.site/redirect?url=https://analysis-tools.dev/) ，代码静态分析工具聚合网站。Github 开源仓库 [static-analysis](https://github.com/analysis-tools-dev/static-analysis) 列出了所有编程语言的**静态分析工具**、构建工具、配置文件等。重点是提高代码质量的工具，例如 linter 和格式化程序。 [Analysis Tools](https://nicelinks.site/redirect?url=https://analysis-tools.dev/) 基于此存储库，并为每个工具添加了排名、用户评论和视频等附加资源。
 
-⚙️适用于所有编程语言（Java、JavaScript、PHP、Python、Ruby、C/C++、C#、Go、Swift 等）、配置文件、构建工具等的静态分析 (SAST) 工具和 linter 的精选列表。重点是提高代码质量的工具。
+⚙️ 适用于所有编程语言（Java、JavaScript、PHP、Python、Ruby、C/C++、C#、Go、Swift 等）、配置文件、构建工具等的静态分析 (SAST) 工具和 linter 的精选列表。重点是提高代码质量的工具。
 
 ── 出自[倾城之链 - Analysis Tools and Linters to Improve Code Quality and Avoid Bugs](https://nicelinks.site/post/64c79b44d95f4c06c37ffd6e)
 
@@ -318,11 +318,11 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 
 ## 本期文末寄语
 
-巴山楚水凄凉地，二十三年弃置身。   
-怀旧空吟闻笛赋，到乡翻似烂柯人。   
-**沉舟侧畔千帆过，病树前头万木春**。   
+巴山楚水凄凉地，二十三年弃置身。  
+怀旧空吟闻笛赋，到乡翻似烂柯人。  
+**沉舟侧畔千帆过，病树前头万木春**。  
 今日听君歌一曲，暂凭杯酒长精神。  
-── 唐 ·  刘禹锡《酬乐天扬州初逢席上见赠》
+── 唐 · 刘禹锡《酬乐天扬州初逢席上见赠》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -344,7 +344,7 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

@@ -6,9 +6,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`服务`](https://nicelinks.site/tags/服务)
 
->Poe 可让您提问、获得即时回答、并与 AI 机器人互动对话。提供 GPT-4、gpt-3.5-turbo、Anthropic Claude以及其他多种机器人的访问权限。
+> Poe 可让您提问、获得即时回答、并与 AI 机器人互动对话。提供 GPT-4、gpt-3.5-turbo、Anthropic Claude 以及其他多种机器人的访问权限。
 
-![倾城之链 - Poe | 一个提供快速且有用的人工智能聊天服务的网站](https://oss.nicelinks.site/poe.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Poe | 一个提供快速且有用的人工智能聊天服务的网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/poe.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Poe](https://nicelinks.site/redirect?url=https://poe.com/) 是一个可供人们提出问题、获得即时答复并与各种人工智能机器人进行对话的大型平台，适用于 iOS、Android、 MacOS、Windows、 和 Web 等系统。该网站旨在为用户提供一个由人工智能驱动的用于各种目的的交互式聊天机器人。该网站的主要功能和选项描述如下：
 
@@ -28,9 +28,9 @@ Poe 目前支持 OpenAI 的 [ChatGPT](https://poe.com/ChatGPT) 和 [GPT-4](https
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管)
 
->Get up and running with large language models, locally.
+> Get up and running with large language models, locally.
 
-![倾城之链 - Ollama | Get up and running with large language models, locally](https://oss.nicelinks.site/ollama.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Ollama | Get up and running with large language models, locally](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ollama.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Ollama](https://nicelinks.site/redirect?url=https://ollama.ai/) 旨在提供大型语言模型的使用和定制化。它为用户提供了几个重要功能和特性，如下所示：
 
@@ -52,9 +52,9 @@ Poe 目前支持 OpenAI 的 [ChatGPT](https://poe.com/ChatGPT) 和 [GPT-4](https
 
 **标签**：[`命令行`](https://nicelinks.site/tags/命令行) · [`Shell`](https://nicelinks.site/tags/Shell) · [`历史`](https://nicelinks.site/tags/历史)
 
->Sync, search and backup shell history with Atuin
+> Sync, search and backup shell history with Atuin
 
-![倾城之链 - Atuin - Magical Shell History](https://oss.nicelinks.site/atuin.sh.png?x-oss-process=style/png2jpg)
+![倾城之链 - Atuin - Magical Shell History](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/atuin.sh.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Atuin](https://nicelinks.site/redirect?url=https://atuin.sh/) ，一款命令行工具，将 Shell 操作历史写入 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 数据库，从而支持同步、搜索和备份 Shell 历史记录，方便统计和复用。Atuin 支持 zsh、bash、 [fish](https://nicelinks.site/post/63456d1abbfa9424bf721d6b) 这三种 Shell，同时还提供了 Shell 插件，用起来非常顺手。
 
@@ -112,7 +112,7 @@ Atuin 目前支持 Bash、ZSH、Fish 和 NuShell。
 
 如果您想同步您的 Shell 历史记录，则需要注册。否则，您可以在本地使用 Atuin 作为完全离线的增强型历史搜索工具。
 
-总之，Atuin 使用 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 数据库替换现有的 [Shell](https://nicelinks.site/tags/Shell) 历史记录，并记录命令的附加上下文。此外，它还通过 Atuin 服务器提供机器之间可选且 完全加密的历史记录同步。虽然 Mac、Linux 支持通过 `history` 命令查看 Shell 历史，通过 `grep` 来进行检索，但相比  Atuin 功能上仍要欠缺一些。值得一提的是， [Atuin 在 Github 仓库开源](https://github.com/atuinsh/atuin) （截止 2023 年 12 月 13 日，已收获 12K+ Star），如果您对其感兴趣，不妨移步从而了解更多。
+总之，Atuin 使用 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 数据库替换现有的 [Shell](https://nicelinks.site/tags/Shell) 历史记录，并记录命令的附加上下文。此外，它还通过 Atuin 服务器提供机器之间可选且 完全加密的历史记录同步。虽然 Mac、Linux 支持通过 `history` 命令查看 Shell 历史，通过 `grep` 来进行检索，但相比 Atuin 功能上仍要欠缺一些。值得一提的是， [Atuin 在 Github 仓库开源](https://github.com/atuinsh/atuin) （截止 2023 年 12 月 13 日，已收获 12K+ Star），如果您对其感兴趣，不妨移步从而了解更多。
 
 ── 出自[倾城之链 - Atuin - Magical Shell History](https://nicelinks.site/post/6579b2a90ab15b034b64cffb)
 
@@ -120,9 +120,9 @@ Atuin 目前支持 Bash、ZSH、Fish 和 NuShell。
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`创作`](https://nicelinks.site/tags/创作) · [`漫画`](https://nicelinks.site/tags/漫画)
 
->Create comics, manga, and webtoon with AI in minutes. Turn an idea, a unique character, or a specific mood into a comic page. Control and edit each panel. Create speech bubbles.
+> Create comics, manga, and webtoon with AI in minutes. Turn an idea, a unique character, or a specific mood into a comic page. Control and edit each panel. Create speech bubbles.
 
-![倾城之链 - Shortbread | Create comics with AI in minutes](https://oss.nicelinks.site/shortbread.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Shortbread | Create comics with AI in minutes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shortbread.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Shortbread](https://nicelinks.site/redirect?url=https://shortbread.ai/) 是一个能够在几分钟内使用 [人工智能](https://nicelinks.site/tags/AI) 创建漫画的网站。Shortbread 的主要作用是让用户能够快速且轻松地 [创作](https://nicelinks.site/tags/创作) 漫画。它利用强大的人工智能技术，为用户提供多种漫画场景和角色设计，并可根据用户的输入生成对应的漫画面板和对话框。用户可以根据自己的创意和喜好，通过简单的操作来定制漫画的内容和风格。Shortbread 具有以下特征：
 
@@ -146,9 +146,9 @@ Shortbread 还提供了免费和付费的套餐选择。免费套餐每月提供
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`OCR`](https://nicelinks.site/tags/OCR) · [`PWA`](https://nicelinks.site/tags/PWA)
 
->WeOCR, an easy offline tool for OCR. A simple PWA for OCR, based on Tesseract.
+> WeOCR, an easy offline tool for OCR. A simple PWA for OCR, based on Tesseract.
 
-![倾城之链 - WeOCR | 一个极简的 OCR 工具](https://oss.nicelinks.site/ocr.plantree.me.png?x-oss-process=style/png2jpg)
+![倾城之链 - WeOCR | 一个极简的 OCR 工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ocr.plantree.me.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WeOCR](https://nicelinks.site/redirect?url=https://ocr.plantree.me/) ，一个极简的 OCR 工具，无需安装，支持离线图片文字提取，它具有如下功能特征：
 
@@ -165,11 +165,12 @@ Shortbread 还提供了免费和付费的套餐选择。免费套餐每月提供
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`AI`](https://nicelinks.site/tags/AI) · [`开源`](https://nicelinks.site/tags/开源)
 
->AnythingLLM is the enterprise-ready "chat with your documents" solution that is safe, secure, and your whole company can use to chat with...anything! PDFs, .DOCx & more!
+> AnythingLLM is the enterprise-ready "chat with your documents" solution that is safe, secure, and your whole company can use to chat with...anything! PDFs, .DOCx & more!
 
-![倾城之链 - AnythingLLM | The last document chatbot you will need](https://oss.nicelinks.site/useanything.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AnythingLLM | The last document chatbot you will need](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/useanything.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AnythingLLM](https://nicelinks.site/redirect?url=https://useanything.com/) ，可以与任何内容聊天的私人 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ！高效、可定制、开源的企业级文档聊天机器人解决方案。它能够把各种文档、资料或者内容转换成一种格式，让 LLM（如 ChatGPT）在聊天时可以引用这些内容；然后你就可以用它来和各种文档、内容、资料聊天，支持多个用户同时使用，还可以设置谁能看或改哪些内容。
+
 ### AnythingLLM 主要特点
 
 1.  多用户支持和权限管理：允许多个用户同时使用，并可设置不同的权限。
@@ -206,6 +207,7 @@ AnythingLLM 项目包含三个主要部分：
 - **支持定制型号**：AnythingLLM 不会将您锁定在单一的法学硕士提供商。使用 GPT-4 等企业模型、自定义模型或 Llama、Mistral 等开源模型。
 - **不仅仅是 PDF**：PDF、Word 文档等等构成了您的业务 - 现在您可以全部使用它们。
 - **完全定制**：凭借外观定制和完整的开发者 API，一切皆有可能。
+
 ### 为什么使用 AnythingLLM 而不是 ChatGPT 以及 PDF 插件？
 
 使用 ChatGPT 时，您的对话和数据将由 [OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 收集。但是，当您使用 API 密钥构建自己的聊天机器人时，不会收集任何数据。对于通过插件上传的文档，您无法查看或控制文档的存储位置。但是，当您控制自己的数据库时，其他人都无法访问该数据，这使得 AnythingLLM 成为安全的选择。
@@ -218,9 +220,9 @@ AnythingLLM 项目包含三个主要部分：
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`转换`](https://nicelinks.site/tags/转换) · [`API`](https://nicelinks.site/tags/API)
 
->Power your apps with automatic speech recognition and language understanding capabilities with the world's most powerful speech-to-text API.
+> Power your apps with automatic speech recognition and language understanding capabilities with the world's most powerful speech-to-text API.
 
-![倾城之链 - Best speech-to-text API for apps | Deepgram](https://oss.nicelinks.site/deepgram.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Best speech-to-text API for apps | Deepgram](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/deepgram.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Deepgram](https://nicelinks.site/redirect?url=https://deepgram.com/) 是一家提供语音识别和语音智能解决方案的公司。Deepgram 旗下提供多种产品和服务，旨在帮助 [开发者](https://nicelinks.site/tags/开发者) 构建具有语音智能功能的应用程序。以下是 Deepgram 旗下的一些产品：
 
@@ -248,7 +250,7 @@ Deepgram 的产品被众多企业、初创公司以及 NASA 等机构所信任�
 
 ## 本期文末寄语
 
-我之所以写徐霞客，是想告诉你：所谓百年功名、千秋霸业、万古流芳，与一件事情相比，其实算不了什么。这件事情就是──用你喜欢的方式度过一生。──当年明月
+我之所以写徐霞客，是想告诉你：所谓百年功名、千秋霸业、万古流芳，与一件事情相比，其实算不了什么。这件事情就是 ── 用你喜欢的方式度过一生。── 当年明月
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -273,7 +275,7 @@ Deepgram 的产品被众多企业、初创公司以及 NASA 等机构所信任�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

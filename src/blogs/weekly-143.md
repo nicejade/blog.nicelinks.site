@@ -6,9 +6,9 @@
 
 **标签**：[`终端`](https://nicelinks.site/tags/终端) · [`SSH`](https://nicelinks.site/tags/SSH) · [`协作`](https://nicelinks.site/tags/协作)
 
->Fast, collaborative live terminals in the browser, with real-time chat, cursors, and activity tracking.
+> Fast, collaborative live terminals in the browser, with real-time chat, cursors, and activity tracking.
 
-![倾城之链 - sshx | A secure web-based, collaborative terminal](https://oss.nicelinks.site/sshx.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - sshx | A secure web-based, collaborative terminal](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sshx.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SSHX](https://nicelinks.site/redirect?url=https://sshx.io/) 基于网络的安全协作 [终端](https://nicelinks.site/tags/终端) ，让您可以在多人无限画布上通过链接与任何人共享您的终端 。它具有实时[协作](https://nicelinks.site/tags/协作)、远程光标和聊天功能。它还具有快速且端到端加密的特点，并具有用 Rust 编写的轻量级服务器。sshx 使用单个命令安装，可将其用于教学、调试或云访问。`sshx` 具有如下功能特征：
 
@@ -28,6 +28,7 @@
 ```bash
 curl -sSf https://sshx.io/get | sh
 ```
+
 ### 分享您的终端
 
 在您最喜欢的终端中运行此命令：`sshx`，这将启动实时加密会话。在网络浏览器中打开链接即可加入。
@@ -40,15 +41,15 @@ curl -sSf https://sshx.io/get | sh
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`AI`](https://nicelinks.site/tags/AI) · [`扩展`](https://nicelinks.site/tags/扩展)
 
->Sider, the most advanced AI assistant, helps you to chat, write, read, translate, explain, test to image with AI, including ChatGPT 3.5/4, Bard, New Bing and Claude, on any webpage.
+> Sider, the most advanced AI assistant, helps you to chat, write, read, translate, explain, test to image with AI, including ChatGPT 3.5/4, Bard, New Bing and Claude, on any webpage.
 
-![倾城之链 - Sider -- ChatGPT 侧边栏、GPT-4、绘图和 Web 访问](https://oss.nicelinks.site/sider.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Sider -- ChatGPT 侧边栏、GPT-4、绘图和 Web 访问](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sider.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Sider](https://nicelinks.site/redirect?url=https://sider.ai/) ：先进的 AI 助手（ [ChatGPT](https://nicelinks.site/tags/ChatGPT) 侧边栏）；它整合 ChatGPT、 [Claude](https://nicelinks.site/post/64ca4f3dd2695f11974932c4) 、Bard，优化您的工作流程，帮助您在任何网页上使用 [AI](https://nicelinks.site/tags/AI) 聊天、写作、阅读、翻译、解释、测试图像，包括 ChatGPT 3.5 / 4、Bard、New Bing 和 Claude。官方给出了如下功能特征说明：
 
 ### 多合一聊天机器人
 
- - 支持 GPT-3.5、GPT-4、Claude 和 Bard；
+- 支持 GPT-3.5、GPT-4、Claude 和 Bard；
 - 提出任何问题并立即获得解决方案；
 - 提出一个问题，从所有 @bot 获得所有答案；
 
@@ -104,7 +105,7 @@ curl -sSf https://sshx.io/get | sh
 - 5️⃣ **众多粉丝**：每周有超过 200 万活跃用户信赖我们，涵盖了 Chrome 和 Edge 浏览器。
 - 6️⃣ **跨平台**：无论你是在 Edge、Safari、iOS、Android、MacOS 还是 Windows 上，都让你得心应手。
 
-总之，Sider 是您的人工智能助手，可无缝集成到您的日常工作流程中。它最初是一个 [Chrome](https://nicelinks.site/tags/Chrome) / Edge 扩展，使浏览、阅读和写作比以往任何时候都更容易。毫不费力地提高工作效率。此外，Sider 还有适用于 iOS、Android、Windows 和 Mac 的应用，以及适用于 Edge 和 Safari 的扩展。一个账户，到处都能访问。初步体验，支持免费使用（ChatGPT、Bard 等，可用条数有限），感觉尚可，若要使用  `GPT-4` 、`Claude-2` 需要升级（或邀请朋友）；如果您对其感兴趣，不妨移步官网从而了解更多。
+总之，Sider 是您的人工智能助手，可无缝集成到您的日常工作流程中。它最初是一个 [Chrome](https://nicelinks.site/tags/Chrome) / Edge 扩展，使浏览、阅读和写作比以往任何时候都更容易。毫不费力地提高工作效率。此外，Sider 还有适用于 iOS、Android、Windows 和 Mac 的应用，以及适用于 Edge 和 Safari 的扩展。一个账户，到处都能访问。初步体验，支持免费使用（ChatGPT、Bard 等，可用条数有限），感觉尚可，若要使用 `GPT-4` 、`Claude-2` 需要升级（或邀请朋友）；如果您对其感兴趣，不妨移步官网从而了解更多。
 
 ── 出自[倾城之链 - Sider -- ChatGPT 侧边栏、GPT-4、绘图和 Web 访问](https://nicelinks.site/post/654baf513341b36b38b2ec8b)
 
@@ -112,17 +113,20 @@ curl -sSf https://sshx.io/get | sh
 
 **标签**：[`开源`](https://nicelinks.site/tags/开源) · [`框架`](https://nicelinks.site/tags/框架) · [`邮件`](https://nicelinks.site/tags/邮件)
 
->The only framework that makes responsive email easy. MJML is a markup language designed to reduce the pain of coding a responsive email.
+> The only framework that makes responsive email easy. MJML is a markup language designed to reduce the pain of coding a responsive email.
 
-![倾城之链 - MJML - The Responsive Email Framework](https://oss.nicelinks.site/mjml.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - MJML - The Responsive Email Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mjml.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MJML](https://nicelinks.site/redirect?url=https://mjml.io/) ：唯一使响应式 [电子邮件](https://nicelinks.site/tags/邮件) 变得简单的 [框架](https://nicelinks.site/tags/框架) ；它使得开发者更少编写，节省时间，更高效地编写代码；MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上进行响应。使用 MJML 的语义语法编写更少的代码、节省时间并更高效地编写代码。**为什么选择 MJML**？官方给出以下理由：
+
 ### 简单快捷
 
 使用 MJML 的语义语法编写更少的代码、节省时间并更高效地编写代码。
+
 ### 反应灵敏
 
 MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上进行响应。
+
 ### 基于组件
 
 借助可重用和可扩展的组件编写高级代码。
@@ -135,10 +139,10 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 **标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`构建`](https://nicelinks.site/tags/构建) · [`测试`](https://nicelinks.site/tags/测试)
 
->fastlane is an open source platform aimed at simplifying Android and iOS deployment.
-fastlane lets you automate every aspect of your development and release workflow.
+> fastlane is an open source platform aimed at simplifying Android and iOS deployment.
+> fastlane lets you automate every aspect of your development and release workflow.
 
-![倾城之链 - Fastlane - App automation done right](https://oss.nicelinks.site/fastlane.tools.png?x-oss-process=style/png2jpg)
+![倾城之链 - Fastlane - App automation done right](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fastlane.tools.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Fastlane](https://nicelinks.site/redirect?url=https://fastlane.tools/) 是一个用于 [自动化](https://nicelinks.site/tags/自动化) iOS 和 Android 应用程序发布过程的工具集，它可以帮助开发者自动完成应用程序 [构建](https://nicelinks.site/tags/构建) 、 [测试](https://nicelinks.site/tags/测试) 、打包、签名、上传到 App Store 和 Google Play 等过程。Fastlane 由 Ruby 语言编写，其核心理念是将应用程序发布过程中的繁琐和重复的任务自动化，以提高开发者的工作效率和发布质量。
 
@@ -149,7 +153,7 @@ fastlane lets you automate every aspect of your development and release workflow
 3.  **签名和部署**：Fastlane 可以自动化签名和部署 iOS 和 Android 应用程序，包括证书管理、Provisioning Profile 管理、代码签名等，以确保应用程序的安全性和正确性。
 4.  **发布和管理**：Fastlane 可以自动化发布应用程序到 App Store 和 Google Play，支持多种发布选项，包括版本控制、更新说明、应用截图等，以提高发布效率和质量。
 
-总之， [Fastlane](https://nicelinks.site/redirect?url=https://fastlane.tools/) 是一款功能强大、易于使用的自动化发布工具，可以大大提高开发者的工作效率和发布质量。同时，它也是一款开源工具，拥有庞大的社区和丰富的插件库，可以满足不同开发者的需求和场景。如果您对其感兴趣，可移步 [Fastlane 在 Github 开源仓库](https://github.com/fastlane/fastlane) （截止2023 年 11 月 08 日，已获得 37.7K+ Star） 或者 [Fastlane 开发者文档](https://docs.fastlane.tools/) ，从而了解更多。
+总之， [Fastlane](https://nicelinks.site/redirect?url=https://fastlane.tools/) 是一款功能强大、易于使用的自动化发布工具，可以大大提高开发者的工作效率和发布质量。同时，它也是一款开源工具，拥有庞大的社区和丰富的插件库，可以满足不同开发者的需求和场景。如果您对其感兴趣，可移步 [Fastlane 在 Github 开源仓库](https://github.com/fastlane/fastlane) （截止 2023 年 11 月 08 日，已获得 37.7K+ Star） 或者 [Fastlane 开发者文档](https://docs.fastlane.tools/) ，从而了解更多。
 
 ── 出自[倾城之链 - Fastlane - App automation done right](https://nicelinks.site/post/654b473a3341b36b38b2e996)
 
@@ -157,9 +161,9 @@ fastlane lets you automate every aspect of your development and release workflow
 
 **标签**：[`书籍`](https://nicelinks.site/tags/书籍) · [`读书`](https://nicelinks.site/tags/读书) · [`发现`](https://nicelinks.site/tags/发现)
 
->sobooks.net 是关于 sobooks 信息的第一个最佳来源。在此，您还会发现与普遍关心的问题有关的话题。我们希望您找到您正在寻找的内容！
+> sobooks.net 是关于 sobooks 信息的第一个最佳来源。在此，您还会发现与普遍关心的问题有关的话题。我们希望您找到您正在寻找的内容！
 
-![倾城之链 - sobooks.net - sobooks 资源和信息](https://oss.nicelinks.site/sobooks.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - sobooks.net - sobooks 资源和信息](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sobooks.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[sobooks.net](https://nicelinks.site/redirect?url=https://sobooks.net/) ：是一个优质免费电子书下载网站，网站书籍分类包含小说文学、历史传记、人文社科、励志成功、经济管理、学习教育、生活时尚、漫画绘本等 8 大板块，而且该网站很贴心地做了很多内容标签。
 
@@ -171,9 +175,9 @@ fastlane lets you automate every aspect of your development and release workflow
 
 **标签**：[`Electron`](https://nicelinks.site/tags/Electron) · [`开源`](https://nicelinks.site/tags/开源) · [`构建`](https://nicelinks.site/tags/构建)
 
->A complete solution to package and build a ready for distribution Electron app for macOS, Windows and Linux with “auto update” support out of the box.
+> A complete solution to package and build a ready for distribution Electron app for macOS, Windows and Linux with “auto update” support out of the box.
 
-![倾城之链 - Electron Builder | 打包和构建可立即分发的 Electron 应用程序的完整解决方案](https://oss.nicelinks.site/www.electron.build.png?x-oss-process=style/png2jpg)
+![倾城之链 - Electron Builder | 打包和构建可立即分发的 Electron 应用程序的完整解决方案](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.electron.build.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Electron Builder](https://nicelinks.site/redirect?url=https://www.electron.build/) ，打包和 [构建](https://nicelinks.site/tags/构建) 可立即分发的 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 应用程序的完整解决方案，适用于 macOS、Windows 和 Linux，并提供开箱即用的“自动更新”支持，这对于基于 Electron、开发桌面应用程序的开发人员，能够提供积极的帮助；该项目在 [Github 仓库开源](https://github.com/electron-userland/electron-builder) ，如果您对其感兴趣，不妨移步前往从而了解更多。
 
@@ -183,11 +187,12 @@ fastlane lets you automate every aspect of your development and release workflow
 
 **标签**：[`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`命令行`](https://nicelinks.site/tags/命令行) · [`框架`](https://nicelinks.site/tags/框架)
 
->A full-featured framework for building command line applications (CLI)
+> A full-featured framework for building command line applications (CLI)
 
-![倾城之链 - Caporal | Build Awesome CLI with Node.js](https://oss.nicelinks.site/caporal.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Caporal | Build Awesome CLI with Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/caporal.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Caporal](https://nicelinks.site/redirect?url=https://caporal.io/) ，用于使用 [Node.js](https://nicelinks.site/tags/NodeJS) 构建命令行应用程序的全功能框架；对于开发人员非常有用；它具有如下功能特征：
+
 ### 便于使用
 
 干净记录的 API，可以用 Javascript 或 Typescript 编写简单或复杂的程序。
@@ -232,9 +237,9 @@ fastlane lets you automate every aspect of your development and release workflow
 
 **标签**：[`笔记`](https://nicelinks.site/tags/笔记) · [`开源`](https://nicelinks.site/tags/开源) · [`应用`](https://nicelinks.site/tags/应用)
 
->Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
+> Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
 
-![倾城之链 - Joplin ｜ an open source note-taking app](https://oss.nicelinks.site/joplinapp.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Joplin ｜ an open source note-taking app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/joplinapp.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Joplin](https://nicelinks.site/redirect?url=https://joplinapp.org/)，是一款开源笔记应用程序，捕捉您的想法并从任何设备安全地访问它们；具有适用于 Windows、macOS、Linux、Android 和 iOS 的同步功能。它具有如下功能特征：
 
@@ -242,7 +247,7 @@ fastlane lets you automate every aspect of your development and release workflow
 
 支持图像、视频、PDF 和音频文件。直接从应用程序创建数学表达式和图表。使用移动应用程序拍照并将其保存到笔记中。
 
-### 一起 工作
+### 一起   工作
 
 借助 Joplin Cloud，与您的朋友、家人或同事分享您的笔记并进行协作。您还可以将注释发布到 Internet 并与其他人共享 URL。
 
@@ -276,7 +281,7 @@ Joplin 是“离线优先”，这意味着您始终将所有数据保存在手�
 
 ## 本期文末寄语
 
-走过岁月我才发现，世界多不完美，成功或失败都有一些错觉，沧海有多广江湖有多深，局中人才了解，生命开始情不情愿总要走完一生，交出一片心不怕被你误解，谁没受过伤谁没流过泪，何必要躲在黑暗里，自苦又自怜──陈乐融填词、刘德华演唱《今天》
+走过岁月我才发现，世界多不完美，成功或失败都有一些错觉，沧海有多广江湖有多深，局中人才了解，生命开始情不情愿总要走完一生，交出一片心不怕被你误解，谁没受过伤谁没流过泪，何必要躲在黑暗里，自苦又自怜 ── 陈乐融填词、刘德华演唱《今天》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -299,7 +304,7 @@ Joplin 是“离线优先”，这意味着您始终将所有数据保存在手�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

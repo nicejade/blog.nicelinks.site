@@ -8,7 +8,7 @@
 
 > Carbon helps you advertise to creators and developers through an exclusive network of websites, projects, and apps.
 
-![倾城之链 - Reach Creators and Developers at Scale | Carbon](https://oss.nicelinks.site/www.carbonads.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Reach Creators and Developers at Scale | Carbon](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.carbonads.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Carbon](https://nicelinks.site/redirect?url=https://www.carbonads.net/) 帮助您通过网站、项目和应用程序的专属网络，向创作者和开发者发布广告；做广告很难， Carbon 让您轻松找到受众；Carbon 官网称其是大规模接触创作者和开发者的最佳方式。在国内，与之类似的产品是[万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)。
 
@@ -28,7 +28,7 @@ Carbon 在设计、开发和技术领域的 600 多个精选网站和应用程�
 
 > Marko is a friendly (and fast!) UI library that makes building web apps fun.
 
-![倾城之链 - Marko - A declarative, HTML-based language that makes building web apps fun](https://oss.nicelinks.site/markojs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Marko - A declarative, HTML-based language that makes building web apps fun](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markojs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Marko](https://nicelinks.site/redirect?url=https://markojs.com/) ，一种声明性的、基于 HTML 的语言，使构建 Web 应用程序变得有趣。它是对 HTML 的重新想象，是一种用于构建动态和反应式用户界面的语言。几乎所有有效的 HTML 都是有效的 Marko，但 Marko 扩展了 HTML 语言，允许以声明的方式构建现代应用程序。Marko 具有以下功能特性：
 
@@ -93,7 +93,7 @@ Marko 扩展包括条件（`conditionals`）、列表（`lists`）、状态（`s
 
 > Create your own free avatar in 4 different styles. You can save it as a scalable SVG image or in the more common PNG format.
 
-![倾城之链 - Avatar Maker - Create your own avatar online](https://oss.nicelinks.site/avatarmaker.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Avatar Maker - Create your own avatar online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/avatarmaker.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Avatar Maker](https://nicelinks.site/redirect?url=https://avatarmaker.com/) ，一款在线创建头像工具；它支持以 4 种不同的风格，创建你自己的**免费头像**。你可以把它保存为可扩展的 SVG 图像或更常见的 PNG 格式。Avatar Maker 使用非常简单，无需注册或账户，选择性格即可开始，支持脸、眼睛、头发、衣服等部位进行编辑创造，也可以使用系统随机的；其同类型产品还有 [Ava Maker](https://nicelinks.site/post/631cb6d692583d0ec9c367bf)、[Peeps](https://nicelinks.site/post/633531873423870b914df533) 等；如果您有创建卡通虚拟头像的需求，可尝试这几款工具。
 
@@ -105,7 +105,7 @@ Marko 扩展包括条件（`conditionals`）、列表（`lists`）、状态（`s
 
 > ntfy is a simple HTTP-based pub-sub notification service. It allows you to send desktop notifications via scripts from any computer, entirely without signup or cost. Made with ❤ by Philipp C. Heckel, Apache License 2.0, source at https://heckel.io/ntfy.
 
-![倾城之链 - ntfy.sh | Send push notifications to your phone via PUT/POST](https://oss.nicelinks.site/ntfy.sh.png?x-oss-process=style/png2jpg)
+![倾城之链 - ntfy.sh | Send push notifications to your phone via PUT/POST](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ntfy.sh.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ntfy.sh](https://nicelinks.site/redirect?url=https://ntfy.sh/) ，（发音：notify）是一个简单的基于 HTTP 的发布-订阅通知服务。它允许您**从任何计算机通过脚本向您的手机或桌面发送通知**，完全**无需注册、费用或设置**。它是开源的，如果您想运行在自己的服务器，可以通过 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行部署。
 
@@ -147,7 +147,7 @@ curl \
 
 > LVGL is the most popular free and open source embedded graphics library targeting any MCU, MPU and display type to build beautiful UIs. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio. We also do services like UI design, implementation and consulting.
 
-![倾城之链 -  LVGL - Light and Versatile Embedded Graphics Library ](https://oss.nicelinks.site/lvgl.io.png?x-oss-process=style/png2jpg)
+![倾城之链 -  LVGL - Light and Versatile Embedded Graphics Library ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lvgl.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[LVGL](https://nicelinks.site/redirect?url=https://lvgl.io/) 是受欢迎的免费和开源**嵌入式**图形库，可为任何 MCU、MPU 和显示器类型创建漂亮的 UI。使用他们的拖放式 UI 编辑器 **SquareLine Studio 来简化开发**，或者只是雇用他们来设计和实现您的下一个 UI。LVGL 在官方描述了以下优势：
 
@@ -197,7 +197,7 @@ LVGL：嵌入式图形库可为任何 MCU、MPU 和显示类型创建漂亮的 U
 
 > Welcome to Dagger.io
 
-![倾城之链 - dagger.io](https://oss.nicelinks.site/dagger.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - dagger.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dagger.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dagger](https://nicelinks.site/redirect?url=https://dagger.io/) 是一个可编程的 CI/CD 引擎，可以在容器中运行您的管道。使用与应用程序相同的编程语言将 CI/CD 管道开发为代码。这样可以避免写 YAML 配置（ [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 、 [Gitlab](https://nicelinks.site/post/5f86fe3ccda9de27bd93a927) 等平台，做 CICD 主要方式）。
 
@@ -255,7 +255,7 @@ Dagger 在 [Github 开源](https://github.com/dagger/dagger)，如果您对 Dagg
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

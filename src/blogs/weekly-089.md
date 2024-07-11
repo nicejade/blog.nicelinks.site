@@ -8,7 +8,7 @@
 
 > Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
 
-![倾城之链 - Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://oss.nicelinks.site/turbo.build.png?x-oss-process=style/png2jpg)
+![倾城之链 - Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/turbo.build.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Turbo](https://nicelinks.site/redirect?url=https://turbo.build/) 为 JavaScript 和 TypeScript 优化的增量绑定器和 [构建](https://nicelinks.site/tags/构建) 系统，用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 编写。Turbo 提供 [Turborepo](https://nicelinks.site/redirect?url=https://turbo.build/repo) 和 [Turbopack](https://nicelinks.site/redirect?url=https://turbo.build/pack) 两款产品。
 
@@ -47,7 +47,7 @@ Turborepo 是一个用于 JavaScript 和 TypeScript 代码库的高性能构建�
 
 > An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, user Q&A, fans communication, and more.
 
-![倾城之链 - Answer - Build Q&A community](https://oss.nicelinks.site/answer.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Answer - Build Q&A community](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/answer.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Answer](https://nicelinks.site/redirect?url=https://answer.dev/) ，一个**基于开源知识**的社区软件。您可以使用它来快速建立您的**问答社区**，以获得产品技术支持、客户支持、用户交流等。Answer 具有**高度可扩展性**和**现代性**，你可以利用它有效地建立各种问答社区，从客户支持到用户交流。它具有以下功能特征：
 
@@ -79,7 +79,7 @@ Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采
 
 > 搜索感兴趣的知识，学习相关课程、电子书、听书。罗振宇·罗辑思维、薛兆丰·经济学、武志红·心理学、张明楷·刑法学等 100 多位专家学者的独家课程免费试读。多设备使用得到，提升你的学习效率。
 
-![倾城之链 - 得到 APP - 知识就是力量，知识就在得到](https://oss.nicelinks.site/www.dedao.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 得到 APP - 知识就是力量，知识就在得到](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dedao.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[得到](https://nicelinks.site/redirect?url=https://www.dedao.cn/) ，知识服务应用；旨在为用户提供“省时间的高效知识服务” ，2016 年 5 月上线，由罗辑思维团队出品，提倡碎片化学习方式，让用户短时间内获得有效的知识。内容包括人文、科学、艺术、 商业、方法技能、互联网、创业、心理学、文化、职场等等（个人从未曾使用「得到」，无法对其内容质量做评价）。
 
@@ -93,7 +93,7 @@ Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采
 
 > Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.
 
-![倾城之链 - Learn to Code with Interactive Tutorials - Scrimba.com](https://oss.nicelinks.site/scrimba.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Learn to Code with Interactive Tutorials - Scrimba.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/scrimba.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Scrimba.com](https://nicelinks.site/redirect?url=https://scrimba.com/) ，是一种有趣而快速的学习代码的方式 我们的互动课程和教程将教你 React、Vue、Angular、JavaScript、HTML、CSS，以及更多。他们的目标是：以健身房会员资格为代价，创建最好的编码学校。为实现目标，该团队为**代码截屏**创建了一种新的视频格式。我们称之为“稀松布”（scrims）。这种格式是他们学校的支柱。不仅因为它带来了卓越的学习体验。但也因为它使我他们够更快地迭代，吸引更好的教师，促进更好的同伴学习，保持较低的服务器成本等等。Scrimba 具有以下功能特色：
 
@@ -150,7 +150,7 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 > A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
-![倾城之链 - Practical Deep Learning for Coders - Practical Deep Learning](https://oss.nicelinks.site/course.fast.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Practical Deep Learning for Coders - Practical Deep Learning](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/course.fast.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Practical Deep Learning](https://nicelinks.site/redirect?url=https://course.fast.ai/) ，是一门**免费课程**，专为具有一定编程经验、希望学习如何将 [深度学习](https://nicelinks.site/tags/深度学习) 和 [机器学习](https://nicelinks.site/tags/机器学习) 应用于实际问题的人而设计。深度学习可以做各种各样令人惊奇的事情。例如，本网站中的所有插图都是通过深度学习制作的，使用 [DALL-E 2](https://nicelinks.site/redirect?url=https://openai.com/dall-e-2/) 。
 
@@ -177,7 +177,7 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 > Point Cloud Library (PCL) for browser, powered by WebAssembly.｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持。
 
-![倾城之链 - pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://oss.nicelinks.site/pcljs.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pcljs.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[pcl.js](https://nicelinks.site/redirect?url=https://pcljs.org/) 是在浏览器中运行的 点云库（PCL），由 Emscripten 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 提供支持。它具有以下功能特征：
 
@@ -197,7 +197,7 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 > Lyra is a fully-featured full-text search engine that runs wherever JavaScript runs, including browsers, servers, React Native, edge networks, and more.
 
-![倾城之链 - Lyra | The offline search experience](https://oss.nicelinks.site/lyrasearch.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Lyra | The offline search experience](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lyrasearch.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Lyra](https://nicelinks.site/redirect?url=https://lyrasearch.io/) 是一个全功能的 [全文搜索](https://nicelinks.site/tags/全文搜索) 引擎，可以在 JavaScript 运行的任何地方运行，包括浏览器、Bun、Deno、Node.js、服务器、React Native、边缘网络（edge networks）等。
 
@@ -244,7 +244,7 @@ Lyra 是一个用 TypeScript 编写的现代化、无依赖性的全文搜索引
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

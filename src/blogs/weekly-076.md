@@ -8,11 +8,11 @@
 
 **关键字**：减肥, 健康减肥, 减肥好方法, 减肥干货, 燃脂, 有氧运动, 无氧运动, 家庭健身, 徒手健身, 器械健身, 人鱼线, 马甲线, 蜜桃臀, 腹肌撕裂者, 冥想, 卡路里计算
 
->「Keep」是一款健身App，超过 2 亿运动爱好者的选择！无论是想减肥塑形或增肌，还是寻找健身跑步瑜伽计步等训练计划，你可以随时随地选择课程进行训练！权威教练视频教学，健身干货自由分享。在这里健身打卡，结识志同道合的运动好友，让运动不再是孤单的坚持！
+> 「Keep」是一款健身 App，超过 2 亿运动爱好者的选择！无论是想减肥塑形或增肌，还是寻找健身跑步瑜伽计步等训练计划，你可以随时随地选择课程进行训练！权威教练视频教学，健身干货自由分享。在这里健身打卡，结识志同道合的运动好友，让运动不再是孤单的坚持！
 
-![倾城之链 - Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://oss.nicelinks.site/www.gotokeep.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gotokeep.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [KEEP](https://nicelinks.site/redirect?url=https://www.gotokeep.com/) ，是一个应用程序，于2015 年 2 月 4 日上线 ，致力于提供健身教学、跑步、骑行、交友及健身饮食指导、装备购买等一站式运动解决方案 被 App Store 评为“2015 年度精选应用”。除了keep 应用程序外，Keep 还开设线下运动空间 Keepland，并发售 KeepKit 系列智能硬件产品。
+**推荐语**： [KEEP](https://nicelinks.site/redirect?url=https://www.gotokeep.com/) ，是一个应用程序，于 2015 年 2 月 4 日上线 ，致力于提供健身教学、跑步、骑行、交友及健身饮食指导、装备购买等一站式运动解决方案 被 App Store 评为“2015 年度精选应用”。除了 keep 应用程序外，Keep 还开设线下运动空间 Keepland，并发售 KeepKit 系列智能硬件产品。
 
 ### Keep App
 
@@ -42,9 +42,9 @@ Keep 官方主页有分享：“哪有什么天生如此，只是我们天天坚
 
 **标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`开源`](https://nicelinks.site/tags/开源) · [`WebAssembly`](https://nicelinks.site/tags/WebAssembly)
 
->Lightning-fast and Powerful Code Editor
+> Lightning-fast and Powerful Code Editor
 
-![倾城之链 - Lapce](https://oss.nicelinks.site/lapce.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Lapce](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lapce.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Lapce](https://nicelinks.site/redirect?url=https://lapce.dev/)，用 Rust 编写的、开源的、闪电般快速的、且功能强大的代码编辑器。通过利用原生 GUI 和 GPU 渲染，以及 Rust 提供的性能，Lapce 是目前最快的代码编辑器之一。目前支持 Linux、Windows 和 macOS。它具有以下功能特征：
 
@@ -84,10 +84,9 @@ Lapce 有一个命令调色板，其中包含 Lapce 提供的所有命令，并�
 
 **标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`开源`](https://nicelinks.site/tags/开源)
 
->A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
+> A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 
-
-![倾城之链 - Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://oss.nicelinks.site/eslint.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/eslint.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ESLint](https://nicelinks.site/redirect?url=https://eslint.org/)，是一个开源项目，用于 JavaScript 和 JSX 的可插拔 linting 实用程序，可帮助您查找和修复 JavaScript 代码中的问题。无论您是在浏览器中还是在服务器上编写 JavaScript，无论是否有框架，ESLint 都可以帮助您的代码过上最好的生活。它具有以下功能特性：
 
@@ -96,9 +95,11 @@ Lapce 有一个命令调色板，其中包含 Lapce 提供的所有命令，并�
 ESLint 静态分析您的代码以快速发现问题。ESLint 内置于大多数文本编辑器中，您可以将 ESLint 作为持续集成管道的一部分运行。
 
 ### 自动修复问题
+
 ESLint 发现的许多问题都可以自动修复。ESLint 修复是语法感知的，因此您不会遇到传统查找和替换算法引入的错误。
 
 ### 配置一切
+
 预处理代码，使用自定义解析器，并编写您自己的与 ESLint 的内置规则一起工作的规则。自定义 ESLint 以完全按照您的项目所需的方式工作。
 
 ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载量排名第一的 JavaScript linter（每周下载量超过两千万次），并被 Microsoft、Airbnb、Netflix 和 Facebook 等众多公司使用，目前已经更新到 `v8.20.0` 版本。
@@ -111,9 +112,9 @@ ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载
 
 **标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`教程`](https://nicelinks.site/tags/教程)
 
->《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
+> 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
-![倾城之链 - ES6 入门教程](https://oss.nicelinks.site/es6.ruanyifeng.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - ES6 入门教程](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/es6.ruanyifeng.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ES6 入门教程](https://nicelinks.site/redirect?url=https://es6.ruanyifeng.com/)，是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性（ECMAScript，它是由欧洲计算机协会(ECMA)，制定的一种脚本语言的标准化规范。ES6 发行于 2015 年 6 月，由于这个版本的语法规范，极大地提高了前端开发人员的**工作效率**，所以快速在前端圈子中流行开来，时至今日热度依旧不减）。作者是[阮一峰](https://nicelinks.site/post/59be8365f4aed63e37a280af)。该书对涉及的语法知识，给予详细介绍，并给出大量简洁易懂的示例代码。该书为「中级难度」，适合已经掌握 ES5 的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。如果你是 JavaScript 语言的初学者，建议先学完[《JavaScript 语言入门教程》](https://nicelinks.site/redirect?url=https://wangdoc.com/javascript/)，再来看本书。
 
@@ -123,12 +124,11 @@ ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载
 
 **标签**：[`灵感`](https://nicelinks.site/tags/灵感) · [`图片`](https://nicelinks.site/tags/图片) · [`免费`](https://nicelinks.site/tags/免费)
 
->Explore the most inspirational quotes of all time. Download free, high-quality (4K) wallpapers featuring inspirational quotes.
+> Explore the most inspirational quotes of all time. Download free, high-quality (4K) wallpapers featuring inspirational quotes.
 
-![倾城之链 - Quotefancy: Wallpapers With Inspirational Quotes](https://oss.nicelinks.site/quotefancy.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Quotefancy: Wallpapers With Inspirational Quotes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/quotefancy.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Quotefancy](https://nicelinks.site/redirect?url=https://quotefancy.com/) ，提供鼓舞人心语录的壁纸网站；该网站探索有史以来最鼓舞人心的名言，结合漂亮的图片背景，生成高质量、别致的图片，供用户访问，且支持下载免费的（4K）壁纸。该网站以「励志名言」为特色，以便用户**获得灵感**、**获得动力**。您如果感兴趣，不妨查阅下，如[老子语录（Lao Tzu Quotes）](https://quotefancy.com/lao-tzu-quotes)、[史蒂夫乔布斯语录（Steve Jobs Quotes）](https://quotefancy.com/steve-jobs-quotes)。
-
 
 此外，该网站还提供 QuoteFancy Studio 工具（即时网络访问。无需安装）。使得用户几秒钟内，生成带有您的报价的精美图像；为您的桌面背景、博客文章、演示文稿、社交媒体、视频、励志海报等创建高质量图像；但该工具并未免费（需要购买，价格 122 港元）。
 
@@ -140,7 +140,7 @@ ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载
 
 ## 本期文末寄语
 
-为善而欲自高胜人，施恩而欲要名结好，修业而欲惊世骇俗，植节而欲标异见奇，此皆是善念中戈矛，理路上荆棘，最易夹带，最难拔除者也。须是涤尽渣滓，斩绝萌芽，才见本来真体。──明 · 洪应明 《菜根谭》
+为善而欲自高胜人，施恩而欲要名结好，修业而欲惊世骇俗，植节而欲标异见奇，此皆是善念中戈矛，理路上荆棘，最易夹带，最难拔除者也。须是涤尽渣滓，斩绝萌芽，才见本来真体。── 明 · 洪应明 《菜根谭》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 

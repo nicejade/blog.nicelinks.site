@@ -6,9 +6,9 @@
 
 **标签**：[`框架`](https://nicelinks.site/tags/框架) · [`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
->Laravel is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+> Laravel is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
 
-![倾城之链 - Laravel - The PHP Framework For Web Artisans](https://oss.nicelinks.site/laravel.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Laravel - The PHP Framework For Web Artisans](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/laravel.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Laravel](https://nicelinks.site/redirect?url=https://laravel.com/) ，是一个基于 PHP 语言的 Web 应用程序框架（全栈），具有表达力强、高效简洁、语法优雅等特点。Laravel 采用 MVC 设计，崇尚开发效率，它已经奠定了基础——让你不用为小事操心就可以自由创作。Laravel 团队认为，发展必须是一种享受和创造性的体验，才能真正实现。Laravel 通过简化许多 Web 项目中使用的常见任务，从而减轻开发的痛苦，例如：
 
@@ -48,9 +48,9 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 **标签**：[`图片压缩`](https://nicelinks.site/tags/图片压缩) · [`工具`](https://nicelinks.site/tags/工具) · [`服务`](https://nicelinks.site/tags/服务)
 
->Repic App, 适合你的图片压缩工具。
+> Repic App, 适合你的图片压缩工具。
 
-![倾城之链 - Repic App | 图片压缩工具](https://oss.nicelinks.site/repic.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Repic App | 图片压缩工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/repic.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Repic App](https://nicelinks.site/redirect?url=https://repic.app/) ，一个完全免费的图片压缩工具，适用于 Web、macOS 和 Windows；支持压缩后缩放对比细节、一键还原等；界面优雅，交互简洁；它具有以下功能特色：
 
@@ -59,7 +59,7 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 - **应用窗口一键置顶**：任他窗口再多、桌面再乱，拖入文件不用再抓狂；
 - **两种出图模式**：可直接覆盖原图片文件，也可在指定位置生成新的图片文件；
 
-值得一提的是，Repic App 有提供多种插件，如：TinyPNG 插件、GifSicle 插件（基于Gifsicle，可压缩gif格式的图片）、SVGO 插件等，使得它得以融合业内优秀的开源方案。有粗略体验 repic，经压缩后，体积大幅下降，效果对比相差无几；有「图片压缩」需要的朋友，不妨一试。
+值得一提的是，Repic App 有提供多种插件，如：TinyPNG 插件、GifSicle 插件（基于 Gifsicle，可压缩 gif 格式的图片）、SVGO 插件等，使得它得以融合业内优秀的开源方案。有粗略体验 repic，经压缩后，体积大幅下降，效果对比相差无几；有「图片压缩」需要的朋友，不妨一试。
 
 ── 出自[倾城之链 - Repic App | 图片压缩工具](https://nicelinks.site/post/633e867472ba4a064e24e2ab)
 
@@ -69,11 +69,12 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 **关键字**：jobs, job seeker, job seeking, job wanted, resume, cv, hiring, work, life, balance
 
->Jobs for work-life balance
+> Jobs for work-life balance
 
-![倾城之链 - WLB Works | Find jobs for work-life balance](https://oss.nicelinks.site/wlb.works.png?x-oss-process=style/png2jpg)
+![倾城之链 - WLB Works | Find jobs for work-life balance](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wlb.works.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WLB Works](https://nicelinks.site/redirect?url=https://wlb.works/) ，找到工作以平衡工作与生活。这是一个专注于 WLB（即Work-life balance，工作生活平衡）的职位搜集网站,，会经常发布国内外的优质 WLB 工作机会，注册登录之后也可以免费发布自己的职位。
+**推荐语**：[WLB Works](https://nicelinks.site/redirect?url=https://wlb.works/) ，找到工作以平衡工作与生活。这是一个专注于 WLB（即 Work-life balance，工作生活平衡）的职位搜集网站,，会经常发布国内外的优质 WLB 工作机会，注册登录之后也可以免费发布自己的职位。
+
 ### 为什么要建立这个网站？
 
 创建这个网站的原因很简单，这是为了让世界各地的人更容易找到舒适和有意义的工作，在创建者看来，一份出色的工作应该与生活相平衡，也就是 WLB。
@@ -104,11 +105,11 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 **关键字**：文武科技社, 软件, 黑苹果, mac, win, 电影
 
->文武科技柜，文武科技社的后花园。
+> 文武科技柜，文武科技社的后花园。
 
-![倾城之链 - 文武科技柜 - 文武科技社的后花园](https://oss.nicelinks.site/www.wangdu.site.png?x-oss-process=style/png2jpg)
+![倾城之链 - 文武科技柜 - 文武科技社的后花园](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wangdu.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[文武科技柜](https://nicelinks.site/redirect?url=https://www.wangdu.site/)，是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)  搭建的博客网站（是[文武科技社](https://nicelinks.site/redirect?url=https://chengxuxiaohei.top/) 的附属产物）；主要用以分享一些**工具**，以及个人经验编写的**教程**；该网站是作者将 [WordPress 和公众号、小程序三者合一](https://www.wangdu.site/software/47.html) 的一种践行，对此感兴趣的朋友，或可参考下。
+**推荐语**：[文武科技柜](https://nicelinks.site/redirect?url=https://www.wangdu.site/)，是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)   搭建的博客网站（是[文武科技社](https://nicelinks.site/redirect?url=https://chengxuxiaohei.top/)  的附属产物）；主要用以分享一些**工具**，以及个人经验编写的**教程**；该网站是作者将  [WordPress 和公众号、小程序三者合一](https://www.wangdu.site/software/47.html) 的一种践行，对此感兴趣的朋友，或可参考下。
 
 ── 出自[倾城之链 - 文武科技柜 - 文武科技社的后花园](https://nicelinks.site/post/633db49272ba4a064e24da51)
 
@@ -116,13 +117,13 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 **标签**：[`HTTP`](https://nicelinks.site/tags/HTTP) · [`Nginx`](https://nicelinks.site/tags/Nginx) · [`服务`](https://nicelinks.site/tags/服务)
 
->nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev. For a long time, it has been running on many heavily loaded Russian sites including Yandex, Mail.Ru, VK, and Rambler. According to Netcraft, nginx served or proxied 21.62% busiest sites in August 2022.
+> nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev. For a long time, it has been running on many heavily loaded Russian sites including Yandex, Mail.Ru, VK, and Rambler. According to Netcraft, nginx served or proxied 21.62% busiest sites in August 2022.
 
-![倾城之链 - Nginx - An HTTP and reverse proxy server](https://oss.nicelinks.site/nginx.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Nginx - An HTTP and reverse proxy server](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nginx.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nginx](https://nicelinks.site/redirect?url=https://nginx.org/) ，Nginx (engine x) 是一个高性能的 HTTP 和反向代理 Web 服务器，同时也提供了IMAP/POP3/SMTP 服务。Nginx 是由 lgor Sysoev 为俄罗斯访问量第二的 Rambler.ru 站点（俄文：Рамблер）开发的；从2004年发布至今，凭借开源的力量，已经接近成熟与完善。其将源代码以类 BSD 许可证的形式发布，因它的稳定性、丰富的功能集、简单的配置文件和低系统资源的消耗而闻名。2022 年 01 月 25 日，nginx 1.21.6发布。
+**推荐语**：[Nginx](https://nicelinks.site/redirect?url=https://nginx.org/) ，Nginx (engine x) 是一个高性能的 HTTP 和反向代理 Web 服务器，同时也提供了 IMAP/POP3/SMTP 服务。Nginx 是由 lgor Sysoev 为俄罗斯访问量第二的 Rambler.ru 站点（俄文：Рамблер）开发的；从 2004 年发布至今，凭借开源的力量，已经接近成熟与完善。其将源代码以类 BSD 许可证的形式发布，因它的稳定性、丰富的功能集、简单的配置文件和低系统资源的消耗而闻名。2022 年 01 月 25 日，nginx 1.21.6 发布。
 
-Nginx 是开源、高性能、高可靠的 Web 和反向代理服务器，而且支持热部署，几乎可以做到 7 * 24 小时不间断运行，即使运行几个月，也不需要重新启动，还能在不间断服务的情况下，对软件版本进行热更新。性能是 Nginx 最重要的考量，其占用内存少、并发能力强、能支持高达 5w 个并发连接数，最重要的是，Nginx 是免费的并可以商业化，配置使用也比较简单。
+Nginx 是开源、高性能、高可靠的 Web 和反向代理服务器，而且支持热部署，几乎可以做到 7 \* 24 小时不间断运行，即使运行几个月，也不需要重新启动，还能在不间断服务的情况下，对软件版本进行热更新。性能是 Nginx 最重要的考量，其占用内存少、并发能力强、能支持高达 5w 个并发连接数，最重要的是，Nginx 是免费的并可以商业化，配置使用也比较简单。
 
 ### Nginx 重要的使用场景
 
@@ -160,19 +161,19 @@ Nginx 是互联网上最受欢迎的开源 Web 服务器之一，它不仅提供
 
 ── 出自[倾城之链 - Nginx - An HTTP and reverse proxy server](https://nicelinks.site/post/6339a6aa35a9c117dacf2363)
 
-## [YARN   | Search clips by quote](https://nicelinks.site/post/6339791035a9c117dacf21ad)
+## [YARN | Search clips by quote](https://nicelinks.site/post/6339791035a9c117dacf21ad)
 
 **标签**：[`电影`](https://nicelinks.site/tags/电影) · [`剪辑`](https://nicelinks.site/tags/剪辑) · [`搜索`](https://nicelinks.site/tags/搜索)
 
->YARN，Find Clips in Fave Movies, TV, & Music
+> YARN，Find Clips in Fave Movies, TV, & Music
 
-![倾城之链 - YARN   | Search clips by quote](https://oss.nicelinks.site/getyarn.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - YARN   | Search clips by quote](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getyarn.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[YARN](https://nicelinks.site/redirect?url=https://getyarn.io/) ，一个台词搜索网站（英文），它支持按`单词`或`短语`搜索电视、电影和音乐片段或剪辑。有尝试搜索：“Jon snow, you know nothing”，将会得到相关电视剧（Game of Thrones）片段（很短，仅台词相关部分，通常 2s 左右）；您知道实际台词为：“You know nothing, Jon Snow.”，可以看出 yarn 支持模糊搜索。此外，`yarn` 支持对搜索结果进行各种操作，诸如：评价、标记喜欢、分享、生成 GIF、MAKE MEME（迷因："派生视频"/"表情包"）。
 
 YARN 在其关于页面谈到：他们一直在研究许多搜索、提取和分析视频内容的技术。Yarn 是他们第一款使用娱乐内容的产品，目前正在重新调整输出的用途，以便快速交流。请继续关注更复杂的搜索技术。
 
-── 出自[倾城之链 - YARN   | Search clips by quote](https://nicelinks.site/post/6339791035a9c117dacf21ad)
+── 出自[倾城之链 - YARN | Search clips by quote](https://nicelinks.site/post/6339791035a9c117dacf21ad)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
@@ -180,7 +181,7 @@ YARN 在其关于页面谈到：他们一直在研究许多搜索、提取和分
 
 ## 本期文末寄语
 
-“一切公众话语日渐以娱乐的方式出现，并成为一种文化精神。我们的政治、宗教、新闻、体育、教育和商业都心甘情愿地成为娱乐的附庸，毫无怨言，甚至无声无息，其结果是我们成了一个娱乐至死的物种。”──尼尔・波兹曼（美国；媒体文化研究者、批评家）《娱乐至死》
+“一切公众话语日渐以娱乐的方式出现，并成为一种文化精神。我们的政治、宗教、新闻、体育、教育和商业都心甘情愿地成为娱乐的附庸，毫无怨言，甚至无声无息，其结果是我们成了一个娱乐至死的物种。”── 尼尔・波兹曼（美国；媒体文化研究者、批评家）《娱乐至死》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 

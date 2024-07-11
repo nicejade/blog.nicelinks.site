@@ -8,9 +8,9 @@
 
 > OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.
 
-![倾城之链 - OpenAI ｜ AI research and deployment company](https://oss.nicelinks.site/openai.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - OpenAI ｜ AI research and deployment company](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/openai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OpenAI](https://nicelinks.site/redirect?url=https://openai.com/) 是一个人工智慧（AI）研究实验室，由营利组织 OpenAI LP 与母公司非营利组织 OpenAI Inc 所组成，目的是**促进和发展友好的人工智慧，使人类整体受益**。OpenAI 成立于 2015 年底，总部位于旧金山，组织目标是通过与其他机构和研究者的「自由合作」，向公众开放专利和研究成果。创始人[伊隆·马斯克](https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B '伊隆·马斯克')以及[山姆·柯曼](https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%C2%B7%E6%9F%AF%E6%9B%BC '山姆·柯曼')的动机是出于对强人工智慧潜在风险的担忧。
+**推荐语**：[OpenAI](https://nicelinks.site/redirect?url=https://openai.com/) 是一个人工智慧（AI）研究实验室，由营利组织 OpenAI LP 与母公司非营利组织 OpenAI Inc 所组成，目的是**促进和发展友好的人工智慧，使人类整体受益**。OpenAI 成立于 2015 年底，总部位于旧金山，组织目标是通过与其他机构和研究者的「自由合作」，向公众开放专利和研究成果。创始人[伊隆·马斯克](https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B "伊隆·马斯克")以及[山姆·柯曼](https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%C2%B7%E6%9F%AF%E6%9B%BC "山姆·柯曼")的动机是出于对强人工智慧潜在风险的担忧。
 
 [ChatGPT](https://openai.com/blog/chatgpt/) 是由 OpenAI 开发的一个**人工智能聊天机器人程序**，于 2022 年 11 月推出（异常火爆）。该程序使用基于 GPT-3.5 架构的大型语言模型，并通过人类反馈的 [强化学习](https://nicelinks.site/tags/强化学习) 进行训练。这种通过人类参与干预以增强 [机器学习](https://nicelinks.site/tags/机器学习) 的效果，从而获得更为逼真的结果。在训练过程中，人类训练师扮演着用户与人工智能助手的角色。模型在 Microsoft Azure 的超级计算机上训练，并通过近端策略优化算法（proximal policy optimization）进行微调。这种策略优化算法比信任域策略优化（trust region policy optimization）算法更为高效。
 
@@ -26,16 +26,16 @@
 
 > Faster subsequent page-loads by prefetching in-viewport links during idle time.
 
-![倾城之链 - Quicklink ｜ ⚡️Faster subsequent page-loads](https://oss.nicelinks.site/getquick.link.png?x-oss-process=style/png2jpg)
+![倾城之链 - Quicklink ｜ ⚡️Faster subsequent page-loads](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getquick.link.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Quicklink](https://nicelinks.site/redirect?url=https://getquick.link/) ，Chrome 浏览器团队推出的一个开源 JS 库，可以加快打开链接的速度。⚡️ 它通过在空闲时间预取（Prefetching）或预渲染（prerendering）视口内链接来加快后续页面加载；该项目旨在成为站点的**嵌入式解决方案**，以根据用户视口中的内容预取链接。它所占用体积很好（压缩并开启 `gzip` 后，小于 1KB）。`quicklink` 的使用非常简单，只需将如下代码片段，您的 Head 或您的 body 标签之前：
 
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
 <script>
-	window.addEventListener('load', () => {
-		quicklink.listen()
-	})
+  window.addEventListener("load", () => {
+    quicklink.listen()
+  })
 </script>
 ```
 
@@ -69,7 +69,7 @@ Google 浏览器团队开发了一个 [Chrome 扩展程序](https://chrome.googl
 
 > dash. is a modern and responsive dashboard for your server
 
-![倾城之链 - Dash | a modern server dashboard](https://oss.nicelinks.site/getdashdot.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Dash | a modern server dashboard](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getdashdot.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dash](https://nicelinks.site/redirect?url=https://getdashdot.com/) （或 **dashdot**）是一个现代服务器仪表板，运行在最新的技术上，设计时考虑到了毛玻璃形态（查看 [演示效果](https://dash.mauz.io/) ）。它旨在用于较小的 VPS 和私人服务器。它具有丰富的功能：
 
@@ -89,7 +89,7 @@ Dash：代服务器仪表板；即支持通过浏览器查看服务器信息，�
 
 > Extism is the open source, universal plug-in system. Extend all the software everywhere! Powered by WebAssembly.
 
-![倾城之链 - Extism - make all software programmable. Extend from within.](https://oss.nicelinks.site/extism.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Extism - make all software programmable. Extend from within.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/extism.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Extism](https://nicelinks.site/redirect?url=https://extism.org/) ，基于 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 开源的、通用的插件系统，支持在任何地方扩展所有的软件。支持 JavaScript、C、C++、Python、PHP、Node.js、Ruby、Rust 等编程语言。它具有以下功能特性：
 
@@ -146,7 +146,7 @@ Extism 支持为您的项目添加一个灵活、安全的插件系统。服务�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

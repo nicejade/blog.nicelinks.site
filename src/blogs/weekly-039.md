@@ -10,7 +10,7 @@
 
 > 专业创作人激发创意灵感的创新平台。汇聚全球 500w+创意灵感观看搜索，覆盖 100 万创意人才，与众多会员品牌、广告代理、媒体、专业创作人探索创意未来。
 
-![倾城之链 - TVCBOOK - 你感兴趣的创意都在T站](https://oss.nicelinks.site/www.tvcbook.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - TVCBOOK - 你感兴趣的创意都在T站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tvcbook.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TVCBOOK](https://nicelinks.site/redirect?url=https://www.tvcbook.com/)，专业创作人激发创意灵感的创新平台。该网站主要有**灵感**，**创意圈**、**金狮奖**、**创作者必备**等几个模块儿。
 
@@ -29,7 +29,7 @@
 
 > 分享各种 ROM 资源，发布各种资源。
 
-![倾城之链 - SlmieのBlog - SlmieのBlog](https://oss.nicelinks.site/slmie.top.png?x-oss-process=style/png2jpg)
+![倾城之链 - SlmieのBlog - SlmieのBlog](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/slmie.top.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Slmie の Blog](https://nicelinks.site/redirect?url=https://slmie.top/)，一个基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、jsDelivr、PHP、NGINX 等工具所搭建的网站，旨在分享各种 ROM 资源，发布各种资源。
 
@@ -43,7 +43,7 @@
 
 > WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 
-![倾城之链 - WebAssembly](https://oss.nicelinks.site/webassembly.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/webassembly.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WebAssembly](https://nicelinks.site/redirect?url=https://webassembly.org/) 是一种新的编码方式，可以在现代的网络浏览器中运行 － 它是一种低级的类汇编语言，具有紧凑的二进制格式，可以接近原生的性能运行，并为诸如 C / C ++ 等语言提供一个编译目标，以便它们可以在 Web 上运行。它也被设计为可以与 JavaScript 共存，允许两者一起工作。
 
@@ -79,7 +79,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 > Discover the best tools, resources and inspiration in the world of design and tech.
 
-![倾城之链 - Panda — The homepage for your favorite websites](https://oss.nicelinks.site/usepanda.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Panda — The homepage for your favorite websites](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/usepanda.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Panda](https://nicelinks.site/redirect?url=https://usepanda.com/)，您最喜欢的网站的主页（The homepage for your favorite websites）；[Panda](https://nicelinks.site/redirect?url=https://usepanda.com/) 是简单的免费新闻阅读器。发现设计和技术领域的最佳工具、资源和灵感。[Panda](https://nicelinks.site/redirect?url=https://usepanda.com/) 目前有提供 Web 网站，以及 Chrome 扩展，可供用户使用。
 
@@ -97,7 +97,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 > 测速网（SpeedTest.cn）提供网速测试, 网络质量检测, 5G 测速, IPv6 测速, 带宽检测, Wi-Fi 测速, 宽带提速, 网络加速, 内网测速, 游戏测速, 直播测速, 物联网监测, 网站监测, API 监测, Ping 测试, 路由测试等专业服务, 拥有国内外大量高性能测试点, 覆盖电信, 移动, 联通, 网通, 广电, 长城宽带, 鹏博士等运营商。
 
-![倾城之链 - 测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G测速, 物联网监测](https://oss.nicelinks.site/www.speedtest.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G测速, 物联网监测](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.speedtest.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)是一个在线服务网站，2007 年正式上线，经过 10 多年的发展，每年为 1 亿+人次，提供 5 亿+次网络测速及其它测速服务。[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)拥有完善的产品体系，全面覆盖大、中、小型终端设备市场，为个人用户和企（事）业用户提供多种专业的网络测速及其他服务。[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)有以下产品特点：
 
@@ -123,7 +123,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 > GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
-![倾城之链 - GitHub Copilot · Your AI pair programmer](https://oss.nicelinks.site/copilot.github.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - GitHub Copilot · Your AI pair programmer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/copilot.github.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/)，你的人工智能配对程序员（一个基于 AI 的编程辅助工具），可帮助您以更少的工作更快地编写代码。使用 [GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/)，直接在编辑器中获取有关整行或整个函数的建议。目前已经集成在了 VsCode 中，后续可能集成到更多平台和工具，目前还是测试阶段（2021.11）。[GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/) 是利用网络中现有的公开数据，尤其是开源在 Github 上的代码， 然后基于机器学习算法训练出来的；因此 Copilot 理论上支持所有编程语言。
 

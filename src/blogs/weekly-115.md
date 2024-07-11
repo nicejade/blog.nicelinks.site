@@ -2,15 +2,15 @@
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Midjourney ｜  an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://nicelinks.site/post/644a5d6b5d123409e728a670)
+## [Midjourney ｜ an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://nicelinks.site/post/644a5d6b5d123409e728a670)
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片) · [`灵感`](https://nicelinks.site/tags/灵感)
 
->An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+> An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 
-![倾城之链 - Midjourney ｜  an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://oss.nicelinks.site/www.midjourney.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Midjourney ｜  an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.midjourney.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Midjourney](https://nicelinks.site/redirect?url=https://www.midjourney.com/) ，是一款 2022 年 3 月面世的AI绘画工具，创始人是 David Holz。只要输入想到的文字，就能通过人工智能产出相对应的图片，耗时只有大约一分钟。推出 beta 版后，这款搭载在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 社区上的工具迅速成为讨论焦点（用户可透过 Discord 的机器人指令进行操作）。
+**推荐语**：[Midjourney](https://nicelinks.site/redirect?url=https://www.midjourney.com/) ，是一款 2022 年 3 月面世的 AI 绘画工具，创始人是 David Holz。只要输入想到的文字，就能通过人工智能产出相对应的图片，耗时只有大约一分钟。推出 beta 版后，这款搭载在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 社区上的工具迅速成为讨论焦点（用户可透过 Discord 的机器人指令进行操作）。
 
 **详细说明**：Midjourney 是一款 AI 制图工具，只要关键字，就能透过 AI 算法生成相对应的图片，只需要不到一分钟。可以选择不同画家的艺术风格，例如安迪华荷、达芬奇、达利和毕加索等，还能识别特定镜头或摄影术语。
 
@@ -28,15 +28,15 @@
 
 在 2023 年上半年，除了 ChatGPT，Midjourney 同样获得巨大关注；其产品已然破圈，引发全球瞩目。同时，其创业经历，也堪称当今时代典范，在这次 AIGC 时代的浪潮中，生成式 AI、云计算等技术，逐渐抹平大企业与中小企业之间的技术、成差距后，他们依靠少数尖端人才组建的团队，具有大企业所没有的灵活性、创见和魄力，附以合理的策略（既服务所有人，又不忽视每一个特殊的人），最终获得巨大成功——这值得当今所有 [创业者](https://nicelinks.site/tags/创业者) 思考、学习、借鉴。
 
-── 出自[倾城之链 - Midjourney ｜  an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://nicelinks.site/post/644a5d6b5d123409e728a670)
+── 出自[倾城之链 - Midjourney ｜ an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://nicelinks.site/post/644a5d6b5d123409e728a670)
 
 ## [Open Source Guides | Learn how to launch and grow your project.](https://nicelinks.site/post/644a33aa5d123409e728a51a)
 
 **标签**：[`开源`](https://nicelinks.site/tags/开源) · [`Github`](https://nicelinks.site/tags/Github) · [`指导手册`](https://nicelinks.site/tags/指导手册)
 
->Learn how to launch and grow your project.
+> Learn how to launch and grow your project.
 
-![倾城之链 - Open Source Guides | Learn how to launch and grow your project.](https://oss.nicelinks.site/opensource.guide.png?x-oss-process=style/png2jpg)
+![倾城之链 - Open Source Guides | Learn how to launch and grow your project.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/opensource.guide.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Open Source Guides](https://nicelinks.site/redirect?url=https://opensource.guide/) 是由 [Github](https://nicelinks.site/tags/Github) 出品的 [开源](https://nicelinks.site/tags/开源) 指南，提供了有关开源 [软件](https://nicelinks.site/tags/软件) 的详细信息、最佳实践和资源，以帮助开发者如何启动和发展他们的项目。该网站主要讲解了以下内容：
 
@@ -58,9 +58,9 @@
 
 **标签**：[`图床`](https://nicelinks.site/tags/图床) · [`GitHub`](https://nicelinks.site/tags/GitHub) · [`工具`](https://nicelinks.site/tags/工具)
 
->🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+> 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
-![倾城之链 - PicX 图床神器](https://oss.nicelinks.site/picx.xpoet.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - PicX 图床神器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picx.xpoet.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[PicX](https://nicelinks.site/redirect?url=https://picx.xpoet.cn/) 是一款基于 [GitHub](https://nicelinks.site/tags/GitHub) API 开发的图床工具，提供图片上传托管、生成图片链接和常用 [图片](https://nicelinks.site/tags/图片) 工具箱服务。只需 [创建一个 GitHub Token](https://github.com/settings/tokens/new) ，在 [PicX](https://nicelinks.site/redirect?url=https://picx.xpoet.cn/) 官网使用 Token 完成图床配置即可；它具有以下功能亮点：
 
@@ -70,16 +70,16 @@
 
 PicX 基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [jsDelivr](https://nicelinks.site/post/62321d8373e9e03b84d59879) 等工具所搭建；它具备以下功能：
 
-- 支持 **拖拽**、**复制粘贴**、**选择文件** 等方式进行选择图片；
-- 支持图片 **重命名**、**哈希化**（确保图片名唯一）和 **设置命名前缀**；
-- 支持 **批量上传图片**、**批量删除图片** 和 **批量复制图片链接**；
-- 支持图床 **多级目录** 管理 （创建多级目录 / 查看多级目录下图片）；
-- 支持 **一键复制** 图片链接和 **自由转换 Markdown / HTML 格式**；
-- 内置 **多种图片链接规则**（Staticaly、jsDelivr、ChinaJsDelivr 等）；
-- 支持 **配置自定义图片链接规则**；
-- 支持 **图片压缩** (内置高效压缩算法，可配置在上传前自动压缩)；
-- 支持 **暗夜模式** (自由切换 / 自动切换)；
-- 支持 **PWA**、配置 **图片水印**等；
+- 支持  **拖拽**、**复制粘贴**、**选择文件**  等方式进行选择图片；
+- 支持图片  **重命名**、**哈希化**（确保图片名唯一）和  **设置命名前缀**；
+- 支持  **批量上传图片**、**批量删除图片**  和  **批量复制图片链接**；
+- 支持图床  **多级目录**  管理 （创建多级目录 / 查看多级目录下图片）；
+- 支持  **一键复制**  图片链接和  **自由转换 Markdown / HTML 格式**；
+- 内置  **多种图片链接规则**（Staticaly、jsDelivr、ChinaJsDelivr 等）；
+- 支持  **配置自定义图片链接规则**；
+- 支持  **图片压缩** (内置高效压缩算法，可配置在上传前自动压缩)；
+- 支持  **暗夜模式** (自由切换 / 自动切换)；
+- 支持  **PWA**、配置  **图片水印**等；
 
 此外值得一提的是，[PicX 在 Github 开源](https://github.com/XPoet/picx)，如果您对这款工具感兴趣，可移步以了解更多。
 
@@ -89,16 +89,16 @@ PicX 基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [jsD
 
 **标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`CSS`](https://nicelinks.site/tags/CSS)
 
->Get started with 150+ Tailwind CSS components, built your website quickly with Sailboat UI.
+> Get started with 150+ Tailwind CSS components, built your website quickly with Sailboat UI.
 
-![倾城之链 - Sailboat UI - Modern UI component library for Tailwind CSS](https://oss.nicelinks.site/sailboatui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Sailboat UI - Modern UI component library for Tailwind CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sailboatui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Sailboat UI](https://nicelinks.site/redirect?url=https://sailboatui.com/)，是一个用于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 的现代 UI 组件库；使用它提供的 150 多个开源 Tailwind CSS 组件，轻松构建您的产品。您只需要安装 Tailwind CSS 并进行配置即可，无需关注使用的框架是 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 还是 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)，具体配置示例如下：
 
 ```js
 // tailwind.config.js
-const defaultTheme = require("tailwindcss/defaultTheme");
-const colors = require("tailwindcss/colors");
+const defaultTheme = require("tailwindcss/defaultTheme")
+const colors = require("tailwindcss/colors")
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
@@ -116,7 +116,7 @@ module.exports = {
   },
   // Add plugins
   plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
-};
+}
 ```
 
 前端开发领域，随着原子化 CSS 的蓬勃发展，远优于 CSS in JS 等方案；基于 Tailwind CSS 的组件库，更是如雨后春笋，诸如：[Meraki UI](https://nicelinks.site/post/642d56bc778bb32004fabfb3)、[Konsta UI](https://nicelinks.site/post/6427bbfd2d6c9c63445ca095)、[Flowbite](https://nicelinks.site/post/617138035e35cd063077cefc)、[DaisyUI](https://nicelinks.site/post/60aceac3219b1d7d88219d55)、[Headless UI](https://nicelinks.site/post/6304b2d3d3028e784afedaeb)、[shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 等等，不仅功能完善，使用简单，而且设计优美，可直接作用于生成环境，无需修改更多；如果您是即将开启新的业务，基于 Tailwind CSS 及选取衍生组件库，或是当前最佳选择；假如您对 Sailboat UI 感兴趣，可移步至[其 Github 开源仓库](https://github.com/sailboatui/sailboatui)，从而了解更多。
@@ -127,9 +127,9 @@ module.exports = {
 
 **标签**：[`社区`](https://nicelinks.site/tags/社区) · [`产品`](https://nicelinks.site/tags/产品) · [`沟通`](https://nicelinks.site/tags/沟通)
 
->Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.
+> Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities.
 
-![倾城之链 - Discord | Your Place to Talk and Hang Out](https://oss.nicelinks.site/discord.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Discord | Your Place to Talk and Hang Out](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/discord.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Discord](https://nicelinks.site/redirect?url=https://discord.com/) ，是一款多功能的聊天和语音通信应用程序，它可以用于个人、团队和[社区](https://nicelinks.site/tags/社区)之间的交流。它是**玩耍聊天的地方**，在这里，您可以加入校园俱乐部、游戏群组，或是世界级艺术社区。在这里，您也能邀三五好友一起共度欢乐时光。在这里，您可以轻而易举地每日谈天说地，时常消遣[娱乐](https://nicelinks.site/tags/娱乐)。Discord 主要功能包括：
 
@@ -158,9 +158,9 @@ module.exports = {
 
 **标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`AI`](https://nicelinks.site/tags/AI) · [`代码`](https://nicelinks.site/tags/代码)
 
->bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.
+> bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.
 
-![倾城之链 - bloop | Find Code. Fast.](https://oss.nicelinks.site/bloop.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - bloop | Find Code. Fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bloop.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[bloop](https://nicelinks.site/redirect?url=https://bloop.ai/) 是一个用 [Rust](https://nicelinks.site/tags/Rust) 编写的快速代码搜索引擎。它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库。bloop 具有如下功能特征：
 
@@ -171,7 +171,7 @@ module.exports = {
 - 使用符号搜索查找函数、变量或特征‘
 - [使用 Tree-sitter](https://nicelinks.site/redirect?url=https://tree-sitter.github.io/tree-sitter/) 构建的 10 多种最流行语言的精确代码导航；
 
- Tree-sitter，是一个解析器生成器工具和一个增量解析库。它可以为源文件构建一个具体的语法树，并在源文件被编辑时有效地更新语法树。树保姆的目标是：
+Tree-sitter，是一个解析器生成器工具和一个增量解析库。它可以为源文件构建一个具体的语法树，并在源文件被编辑时有效地更新语法树。树保姆的目标是：
 
 - **通用性**足以解析任何编程语言；
 - **足够快**以解析文本编辑器中的每个击键；
@@ -186,9 +186,9 @@ bloop 站在 Rust 生态系统的肩膀上。 其搜索功能引由 [Tantivy](ht
 
 **标签**：[`文档`](https://nicelinks.site/tags/文档) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`利器`](https://nicelinks.site/tags/利器)
 
->AsciiDoc is a human-readable, text editor-friendly document format evolved from plain text markup conventions and semantically analogous to XML schemas like DocBook.
+> AsciiDoc is a human-readable, text editor-friendly document format evolved from plain text markup conventions and semantically analogous to XML schemas like DocBook.
 
-![倾城之链 - AsciiDoc ｜ Publish presentation-rich content from a concise and comprehensive authoring format](https://oss.nicelinks.site/asciidoc.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - AsciiDoc ｜ Publish presentation-rich content from a concise and comprehensive authoring format](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/asciidoc.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AsciiDoc](https://nicelinks.site/redirect?url=https://asciidoc.org/) 是一种用于编写技术内容的纯文本标记语言。它充满了语义元素，并配备了模块化和重用内容的功能。AsciiDoc 内容可以使用文本编辑器编写，在版本控制系统中管理，并发布为多种输出格式。它允许用户创建具有结构的文档，包括技术文档、书籍、 [幻灯片](https://nicelinks.site/tags/PPT) 等等。
 
@@ -213,11 +213,11 @@ AsciiDoc 旨在在系统的、面向机器的语法和自然语言之间取得�
 
 **关键字**：泛娱乐, 明星, 字画, 名画, 书法, 古董, 游戏, 视频, 音乐, 知识, 伟人, 帝王, 圣人, 大全, 合集
 
->泛娱乐, 明星, 字画, 名画, 书法, 古董, 游戏, 视频, 音乐, 知识, 伟人, 帝王, 圣人, 大全, 合集
+> 泛娱乐, 明星, 字画, 名画, 书法, 古董, 游戏, 视频, 音乐, 知识, 伟人, 帝王, 圣人, 大全, 合集
 
-![倾城之链 - 全球珍藏 – collection.global](https://oss.nicelinks.site/collection.global.png?x-oss-process=style/png2jpg)
+![倾城之链 - 全球珍藏 – collection.global](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/collection.global.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[全球珍藏 – Collection Global](https://nicelinks.site/redirect?url=https://collection.global/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)  所搭建的娱乐网站；提供诸如黄历测算、在线游戏、短视频、音乐电台、COMIC 动漫等内容。
+**推荐语**：[全球珍藏 – Collection Global](https://nicelinks.site/redirect?url=https://collection.global/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的娱乐网站；提供诸如黄历测算、在线游戏、短视频、音乐电台、COMIC 动漫等内容。
 
 ── 出自[倾城之链 - 全球珍藏 – collection.global](https://nicelinks.site/post/6444b9945d123409e7287fb5)
 
@@ -227,7 +227,7 @@ AsciiDoc 旨在在系统的、面向机器的语法和自然语言之间取得�
 
 ## 本期文末寄语
 
-将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲取之，必固与之。是谓微明。柔弱胜刚强。鱼不可脱于渊，国之利器不可以示人。──春秋末期人 · 老子李耳《道德经》第三十六章
+将欲歙之，必固张之；将欲弱之，必固强之；将欲废之，必固兴之；将欲取之，必固与之。是谓微明。柔弱胜刚强。鱼不可脱于渊，国之利器不可以示人。── 春秋末期人 · 老子李耳《道德经》第三十六章
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -249,7 +249,7 @@ AsciiDoc 旨在在系统的、面向机器的语法和自然语言之间取得�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

@@ -8,7 +8,7 @@
 
 > Bundle, transpile, install, and run JavaScript & TypeScript — all in Bun. Bun is a new JavaScript runtime with a native bundler, transpiler, task runner, and npm client built-in.
 
-![倾城之链 - Bun — fast all-in-one JavaScript runtime](https://oss.nicelinks.site/bun.sh.png?x-oss-process=style/png2jpg)
+![倾城之链 - Bun — fast all-in-one JavaScript runtime](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bun.sh.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Bun](https://nicelinks.site/redirect?url=https://bun.sh/) （馒头）是一个快速的一体化 [JavaScript](https://nicelinks.site/tags/JavaScript) 运行时；捆绑、转译、安装和运行 JavaScript 和 TypeScript 项目——全部在 Bun 中。Bun 是一个新的 JavaScript 运行时，内置了原生的打包器、转译器、任务运行器和 [npm](https://nicelinks.site/tags/npm) 客户端。
 
@@ -42,7 +42,7 @@ Bun 是  Jarred Sumner 在 2022 年 3 月开启的 [开源项目](https://githu
 
 > WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
-![倾城之链 - WasmEdge ｜ A lightweight, high-performance, and extensible WebAssembly runtime](https://oss.nicelinks.site/wasmedge.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - WasmEdge ｜ A lightweight, high-performance, and extensible WebAssembly runtime](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wasmedge.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WasmEdge](https://nicelinks.site/redirect?url=https://wasmedge.org/) ：**是一种轻量级、高性能且可扩展的 WebAssembly 运行时**，适用于云原生、边缘和去中心化应用程序。它为无服务器应用程序、嵌入式功能、微服务、智能合约和物联网设备提供支持。它具有如下功能特征：
 
@@ -84,7 +84,7 @@ WasmEdge 支持所有标准的 WebAssembly 功能和许多建议的扩展。它�
 
 > Make slick, interactive data visualisations with our free chart-maker tool — no log-in required. Easily embed into Notion or wherever you like!
 
-![倾城之链 - Graphy | Slick, interactive charts that make you stand out](https://oss.nicelinks.site/graphy.new.png?x-oss-process=style/png2jpg)
+![倾城之链 - Graphy | Slick, interactive charts that make you stand out](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphy.new.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Graphy](https://nicelinks.site/redirect?url=https://graphy.new/) ，一款免费图表制作工具，可用来制作光滑的、互动的数据 [可视化](https://nicelinks.site/tags/可视化) ，打开即可使用，不需要登录。支持下载、拷贝图片，也可以轻松地嵌入 Notion 或任何你喜欢的地方。而且支持各种定制，如图表类型、图标配色、配色横纵比（Aspect Ratio）、详情及主题。
 
@@ -98,7 +98,7 @@ WasmEdge 支持所有标准的 WebAssembly 功能和许多建议的扩展。它�
 
 > Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more. Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.
 
-![倾城之链 - Retool | Build internal tools, remarkably fast.](https://oss.nicelinks.site/retool.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Retool | Build internal tools, remarkably fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/retool.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Retool](https://nicelinks.site/redirect?url=https://retool.com/) ，是一个面向企业的 [低代码](https://nicelinks.site/tags/低代码) 开发平台，它于 2017 年在美国著名创业孵化器 Y Combinator 中诞生，旨在为企业提供一个工具开发平台，让企业能够使用有限的编程语言，构建自定义业务工具。
 
@@ -138,7 +138,7 @@ Retool 具有内置的安全性、可靠性和权限。您可以在本地、在�
 
 > An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
 
-![倾城之链 - Build optimized websites quickly, focus on your content | Docusaurus](https://oss.nicelinks.site/docusaurus.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Build optimized websites quickly, focus on your content | Docusaurus](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/docusaurus.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Docusaurus](https://nicelinks.site/redirect?url=https://docusaurus.io/) ，基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 的一个优化的、易于维护的 [网站生成器](https://nicelinks.site/tags/网站生成器) 。Docusaurus 帮助你快速移动和编写内容：建立文档网站、博客、营销页面等，使您可以专注于内容。它具有如下功能特征：
 
@@ -172,7 +172,7 @@ Retool 具有内置的安全性、可靠性和权限。您可以在本地、在�
 
 > TinyMCE is the most advanced WYSIWYG HTML editor designed to simplify website content creation. The rich text editing platform that helped launched Atlassian, Medium, Evernote and more.
 
-![倾城之链 - The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://oss.nicelinks.site/www.tiny.cloud.png?x-oss-process=style/png2jpg)
+![倾城之链 - The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tiny.cloud.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TinyMCE](https://nicelinks.site/redirect?url=https://www.tiny.cloud/) 是先进的 [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) （**What You See Is What You Get**，所见即所得） HTML 编辑器，适用于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf) ；它旨在简化网站内容创建，让它们能够为用户创造卓越的内容和体验；TinyMCE 帮助推出 Atlassian、Medium、Evernote 等的富文本编辑平台，并受到数百万开发人员的使用和信赖，是世界上最可定制、可扩展和灵活的富文本编辑器。它具有如下功能特征：
 
@@ -225,7 +225,7 @@ TinyMCE 富文本编辑器的入门非常简单，简单的配置可以在不到
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

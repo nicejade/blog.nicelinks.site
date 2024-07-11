@@ -6,9 +6,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`视频`](https://nicelinks.site/tags/视频) · [`字幕`](https://nicelinks.site/tags/字幕)
 
->Memo, Video to translated text, subtitles and notes made easy. Whether it's YouTube, Podcast or local audio and video files, convert text and concentrate the essence.
+> Memo, Video to translated text, subtitles and notes made easy. Whether it's YouTube, Podcast or local audio and video files, convert text and concentrate the essence.
 
-![倾城之链 - Memo | Audio and video to text, very simple. Power By AI](https://oss.nicelinks.site/memo.ac.png?x-oss-process=style/png2jpg)
+![倾城之链 - Memo | Audio and video to text, very simple. Power By AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/memo.ac.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Memo](https://nicelinks.site/redirect?url=https://memo.ac/) 是一款 [AI](https://nicelinks.site/tags/AI) 驱动的视频、播客转文字工具。无论是 YouTube、Podcast 还是本地音视频文件，转换文本，浓缩精华。它具有如下功能特征：
 
@@ -28,7 +28,7 @@
 - 🆓 **测试人员免费**：加入测试版计划，免费试用 Memo。
 - 🚀 **尖端人工智能**：利用人工智能的最新进展实现一流的转录。
 
-总之，Memo  是 AI 驱动的视频、播客转文字、字幕工具，支持多平台，利用 Whisper 技术识别语音到到字幕，然后可以对识别的字幕进行简单的编辑。 另外可以对识别的字幕[翻译](https://nicelinks.site/tags/翻译)，支持 Google 翻译和 OpenAI（需要自己的 API Key）；界面操作友好，语音识别效果不错；截止 2023 年 08 月 17 日，Memo 尚在内测，如果您对其感兴趣，可移步前往从而了解更多。
+总之，Memo 是 AI 驱动的视频、播客转文字、字幕工具，支持多平台，利用 Whisper 技术识别语音到到字幕，然后可以对识别的字幕进行简单的编辑。 另外可以对识别的字幕[翻译](https://nicelinks.site/tags/翻译)，支持 Google 翻译和 OpenAI（需要自己的 API Key）；界面操作友好，语音识别效果不错；截止 2023 年 08 月 17 日，Memo 尚在内测，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - Memo | Audio and video to text, very simple. Power By AI](https://nicelinks.site/post/64de3a09effa89333db70252)
 
@@ -36,9 +36,9 @@
 
 **标签**：[`任务管理器`](https://nicelinks.site/tags/任务管理器) · [`命令行`](https://nicelinks.site/tags/命令行) · [`开源`](https://nicelinks.site/tags/开源)
 
->Taskwarrior is a command line task list management utility with a multitude of features, developed as a portable open source project with an active and quite vast ecosystem of tools, hooks and extensions.
+> Taskwarrior is a command line task list management utility with a multitude of features, developed as a portable open source project with an active and quite vast ecosystem of tools, hooks and extensions.
 
-![倾城之链 - Taskwarrior - Command line Task Management](https://oss.nicelinks.site/taskwarrior.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Taskwarrior - Command line Task Management](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/taskwarrior.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Taskwarrior](https://nicelinks.site/redirect?url=https://taskwarrior.org/) 是款免费开源软件，可从命令行管理您的 TODO 列表（命令行[任务管理器](https://nicelinks.site/tags/任务管理器)）。它灵活、快速且不引人注目。它完成它的工作然后就不再妨碍你了。作为一个可移植的开源项目开发，具有活跃且相当庞大的 [工具、挂钩和扩展生态系统](https://taskwarrior.org/tools/) 。为什么选择任务战士（Taskwarrior）？官方给出使用 Taskwarrior 的几个好理由：
 
@@ -66,20 +66,22 @@ Taskwarrior 可扩展以适应您的工作流程。将其用作一个简单的�
 
 **标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
 
->Shiki uses TextMate grammars to tokenize strings, and colors the tokens via VS Code themes. In short, Shiki generates HTML that looks exactly like your code in VS Code, and it works great in your static website generator .
+> Shiki uses TextMate grammars to tokenize strings, and colors the tokens via VS Code themes. In short, Shiki generates HTML that looks exactly like your code in VS Code, and it works great in your static website generator .
 
-![倾城之链 - Shiki | A beautiful Syntax Highlighter](https://oss.nicelinks.site/shiki.matsu.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Shiki | A beautiful Syntax Highlighter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shiki.matsu.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Shiki](https://nicelinks.site/redirect?url=https://shiki.matsu.io/) 是一款漂亮的语法荧光笔（Syntax Highlighter）。它使用 TextMate 语法来标记字符串，并使用 VS Code 主题为标记着色。简而言之，Shiki 生成的 HTML 看起来与 VS Code 中的代码完全相同，并且它在静态网站生成器（或动态网站）中运行良好。它的使用起来非常简单：
 
 ```js
-const shiki = require('shiki')
+const shiki = require("shiki")
 
-shiki.getHighlighter({
-  theme: 'nord'
-}).then(highlighter => {
-  console.log(highlighter.codeToHtml(`console.log('shiki');`, { lang: 'js' }))
-})
+shiki
+  .getHighlighter({
+    theme: "nord",
+  })
+  .then(highlighter => {
+    console.log(highlighter.codeToHtml(`console.log('shiki');`, { lang: "js" }))
+  })
 ```
 
 无需维护自定义 [RegEx](https://nicelinks.site/tags/正则)，无需维护自定义 CSS，无需维护自定义 HTML。随着 VS Code 中您最喜欢的语言和主题的发展，您的语法突出显示也会随之发展。该程序库在 [Github 仓库开源](https://github.com/shikijs/shiki) ，如果您对其感兴趣，可前往了解更多。
@@ -92,11 +94,11 @@ shiki.getHighlighter({
 
 **关键字**：文案, 文案门, 情感短句, 情感语录, 沙雕, 优美的句子, 唯美的句子, 句子, 笑话, 教父台词, hitokoto, 诗句, 台词, 文字, 二次元, 摘录, 感悟, 正能量, 早安, 晚安
 
->文案门，一个专注收录情感文案的网站，在我的文字里，总有你的故事。闹文案荒了，就来「文案门」找灵感吧！
+> 文案门，一个专注收录情感文案的网站，在我的文字里，总有你的故事。闹文案荒了，就来「文案门」找灵感吧！
 
-![倾城之链 - 文案门 · 在我的文字里，总有你的故事](https://oss.nicelinks.site/www.wenanmen.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 文案门 · 在我的文字里，总有你的故事](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wenanmen.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[文案门](https://nicelinks.site/redirect?url=https://www.wenanmen.com/) ，这是一个专注于收录情感文案的网站，它包括探索文案、文案圈子、近期文章、GPT等板块，不仅可以让您欣赏到优美的文案，还可以通过AI生成激发灵感。特别值得一提的是，GPT 是免费可用的，并且具备高效、多样、创意、准确等特点。除了网站，还提供**文案门**浏览器插件和公众号等服务。
+**推荐语**：[文案门](https://nicelinks.site/redirect?url=https://www.wenanmen.com/) ，这是一个专注于收录情感文案的网站，它包括探索文案、文案圈子、近期文章、GPT 等板块，不仅可以让您欣赏到优美的文案，还可以通过 AI 生成激发灵感。特别值得一提的是，GPT 是免费可用的，并且具备高效、多样、创意、准确等特点。除了网站，还提供**文案门**浏览器插件和公众号等服务。
 
 ── 出自[倾城之链 - 文案门 · 在我的文字里，总有你的故事](https://nicelinks.site/post/64de11beeffa89333db6fe33)
 
@@ -104,9 +106,9 @@ shiki.getHighlighter({
 
 **标签**：[`问答`](https://nicelinks.site/tags/问答) · [`知识付费`](https://nicelinks.site/tags/知识付费) · [`平台`](https://nicelinks.site/tags/平台)
 
->Ask anything you are curious about, learn from creator's insights, and earn from your questions.
+> Ask anything you are curious about, learn from creator's insights, and earn from your questions.
 
-![倾城之链 - OpenAsk | Ask away, influencers are here to answer your questions as Senseis](https://oss.nicelinks.site/openask.me.png?x-oss-process=style/png2jpg)
+![倾城之链 - OpenAsk | Ask away, influencers are here to answer your questions as Senseis](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/openask.me.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[OpenAsk](https://nicelinks.site/redirect?url=https://openask.me/) 是一个基于语音的 [问答](https://nicelinks.site/tags/问答) 平台，将提问者与创作者、影响者和专家(或“老师”)联系起来，他们可以帮助他们找到答案。它引入了一种创作者经济的新模式，使创作者和追随者双方都受益——每个人都可以直接向老师提交问题，老师会用真实的声音回答。随着时间的推移，任何有见地或有帮助的问题都会产生“兴趣”。在 OpenAsk 上提问可以为你赚钱：
 
@@ -120,7 +122,7 @@ shiki.getHighlighter({
 - ✅ 探索很酷的话题，偷听老师在说什么。
 - ✅ 成为一名老师，与他人分享你所知道的，当你在做的时候赚一些钱。
 
-[OpenAsk](https://nicelinks.site/redirect?url=https://openask.me/) 是 2023 年 7 月份上线的新平台，其设计的赚钱逻辑、语音作答等，并不算很新颖；但发布之后，有在 `X` 上获得一些声音，因此知晓该平台，但尚未亲身体验，无法分享更多。官方对其定位是：“通过 OpenAsk提问、学习并赚钱，一个人人都能得到回报的双赢社区”，如果您想通过 [知识付费](https://nicelinks.site/tags/知识付费) 获得些额外收入，或可考虑入驻。
+[OpenAsk](https://nicelinks.site/redirect?url=https://openask.me/) 是 2023 年 7 月份上线的新平台，其设计的赚钱逻辑、语音作答等，并不算很新颖；但发布之后，有在 `X` 上获得一些声音，因此知晓该平台，但尚未亲身体验，无法分享更多。官方对其定位是：“通过 OpenAsk 提问、学习并赚钱，一个人人都能得到回报的双赢社区”，如果您想通过 [知识付费](https://nicelinks.site/tags/知识付费) 获得些额外收入，或可考虑入驻。
 
 ── 出自[倾城之链 - OpenAsk | Ask away, influencers are here to answer your questions as Senseis](https://nicelinks.site/post/64dcf018effa89333db6f5a6)
 
@@ -130,7 +132,7 @@ shiki.getHighlighter({
 
 ## 本期文末寄语
 
-挥洒以怡情，与其应酬，何如兀坐；书礼以达情，与其工巧，何若直陈；棋局以适情，与其竞胜，何若促膝；笑谈以怡情，与其谑浪，何若狂歌。── 明代 ·  陈继儒《小窗幽记·集醒篇》
+挥洒以怡情，与其应酬，何如兀坐；书礼以达情，与其工巧，何若直陈；棋局以适情，与其竞胜，何若促膝；笑谈以怡情，与其谑浪，何若狂歌。── 明代 · 陈继儒《小窗幽记·集醒篇》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -154,7 +156,7 @@ shiki.getHighlighter({
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

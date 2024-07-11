@@ -10,7 +10,7 @@
 
 > SVG Viewer is an online tool to view and optimize SVGs.
 
-![倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://oss.nicelinks.site/www.svgviewer.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.svgviewer.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SVG Viewer](https://nicelinks.site/redirect?url=https://www.svgviewer.dev/)，是一个在线工具，用于查看（预览）和优化 [SVG](https://nicelinks.site/tags/SVG)，这对 **Web 开发**相关从业人员，颇为有用。在介绍该网站功能之前，有必要对 `SVG` 做一个大致科普：
 
@@ -32,7 +32,7 @@
 
 > Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects.
 
-![倾城之链 - VueUse](https://oss.nicelinks.site/vueuse.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - VueUse](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vueuse.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[VueUse](https://nicelinks.site/redirect?url=https://vueuse.org/)，是一组基于 Vue Composition API 的实用函数（常用工具集）；支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 2 和 3。它的初衷是：将一切原本并不支持响应式的 JS API，变得支持响应式，省去程序员自己写相关代码。目前 [VueUse](https://nicelinks.site/redirect?url=https://vueuse.org/) 已提供几十个解决方案，适用于常见的开发者用例，如跟踪 Ref 变化、检测元素可见性、简化常见的 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 模式、键盘/鼠标输入等。使用 `VueUse` 是一个节省开发时间的好方法，因为您不必自己添加所有这些标准功能。它具有以下功能特征：
 
@@ -98,7 +98,7 @@ export default {
 
 > A web-app framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
 
-![倾城之链 - Ruby on Rails — A web-app Framework ](https://oss.nicelinks.site/rubyonrails.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Ruby on Rails — A web-app Framework ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rubyonrails.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Ruby on Rails](https://nicelinks.site/redirect?url=https://rubyonrails.org/)（官方简称为 Rails，亦被简称为 RoR），是一个基于 Ruby 语言写的开源 Web 应用程序框架，包括根据**模型-视图-控制器**（MVC）模式创建数据库支持的 Web 应用程序所需的一切。它努力使自身保持简单，来使实际的应用开发时的代码更少，使用最少的配置。Rails 的设计原则包括 “不做重复的事”（Don't Repeat Yourself）和 “惯例优于设置”（Convention Over Configuration）。
 
@@ -116,7 +116,7 @@ Ruby on Rails 的数千个程序已经在线上得到应用。包括 Twitter、A
 
 > npm is the package manager for Node.js. It was created in 2009 as an open source project to help JavaScript developers easily share packaged modules of code.
 
-![倾城之链 - npm ｜ the package manager for Node.js](https://oss.nicelinks.site/www.npmjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - npm ｜ the package manager for Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.npmjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[NPM](https://nicelinks.site/redirect?url=https://www.npmjs.com/)（**Node Package Manager**) 是 JavaScript 运行时环境 Node.js 的默认包管理器，由 npm, Inc. 维护（一家成立于 2014 年的公司，于 2020 年 3 月 17 日被 GitHub 收购）。[npm](https://nicelinks.site/redirect?url=https://www.npmjs.com/) 是 JavaScript 社区的重要组成部分，有助于支持世界上最大的开发者生态系统之一。npm 有非常多东西：
 
@@ -138,7 +138,7 @@ GitHub 现在已经保证 npm 将永远免费。截至 2020 年 3 月 17 日，n
 
 > Search term highlighting intended for every use case. Can be used with plain JavaScript or as jQuery plugin.
 
-![倾城之链 - mark.js – JavaScript keyword highlight](https://oss.nicelinks.site/markjs.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - mark.js – JavaScript keyword highlight](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markjs.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[mark.js](https://nicelinks.site/redirect?url=https://markjs.io/)，是一个用 JavaScript 编写的文本荧光笔（高亮工具库），可以与纯 JavaScript 或作为 jQuery 插件一起使用。它可以用来动态标记搜索词或自定义正则表达式，并为您提供内置选项，如支持标点符号、单独的单词搜索、自定义同义词、支持 iframes、自定义过滤器、准确性定义、自定义元素、自定义类名等。它不仅功能强大，而且使用非常简单，如下示例：
 

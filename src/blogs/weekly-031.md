@@ -8,9 +8,9 @@
 
 **关键字**：曼妙, 句子, 情感, 文字, 娱乐, 哲学, 励志, 修身, 唯美, 摇曳生姿, 历久弥新, 时世流转, 风华变迁, 曼妙句子
 
->人生最曼妙的风景，是内心的淡定与从容。曼妙句子，旨在云集世间摇曳生姿的文字，或情感、或唯美、或修身、或励志、或哲学、或娱乐，拳拳真情，精心择选，总有荡漾你心的那一言。
+> 人生最曼妙的风景，是内心的淡定与从容。曼妙句子，旨在云集世间摇曳生姿的文字，或情感、或唯美、或修身、或励志、或哲学、或娱乐，拳拳真情，精心择选，总有荡漾你心的那一言。
 
-![倾城之链 - 曼妙句子](https://oss.nicelinks.site/read.lovejade.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 曼妙句子](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/read.lovejade.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：情不知所起，一往而深。那些与旁人说来脸红的绰号暱称、轻灵的诗意，和深刻的激动，像筛子一般，将文字抖出松弛微醺的质感，历久弥新。任时世流转，风华变迁，在这美妙的质感前，循迹而去，仍能感观：那些在文字中留鲜的岁月，一段段永不衰老的情缘；隔著时空漫漫，跨越千山万水，蹁跹而来，带给我们不曾褪色的悸动。
 
@@ -24,9 +24,9 @@
 
 **关键字**：website builder, no-code, React, Next.js
 
->Makeswift is an easy-to-learn no-code website builder. Collaborate in real time with your team to visually design high-performing and durable Next.js websites.
+> Makeswift is an easy-to-learn no-code website builder. Collaborate in real time with your team to visually design high-performing and durable Next.js websites.
 
-![倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://oss.nicelinks.site/www.makeswift.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.makeswift.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/)，一个优雅的无代码、基于 Next.js 的网站构建器；您不需要学习 HTML 和 CSS 即可使用，[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/) 适合那些厌倦了权衡取舍，并准备快速行动并制作东西的建筑商。[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/)，具有**设计工具**的功能和细节。现在，您可以停止尝试将您的想法融入僵化模板的约束中，让您的创造力变为现实。值得一提的是，您的实时网站是一个 Next.js 应用程序，使用熟悉的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件构建，在 Vercel 的极速边缘网络上运行。在每个屏幕上都很完美。在每台设备上轻松完全控制您的设计。单击即可重构布局，并在不同的屏幕尺寸上快速预览您的设计（官方描述）。除此之外，[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/) 还具有以下特色：
 
@@ -49,29 +49,29 @@
 
 **标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
->JS NICE | Software Reliability Lab in ETH
+> JS NICE | Software Reliability Lab in ETH
 
-![倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://oss.nicelinks.site/jsnice.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jsnice.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[JS NICE](https://nicelinks.site/redirect?url=http://jsnice.org/)，一款在线 JavaScript 代码美化服务工具（该服务由苏黎世联邦理工学院计算机科学系的安全、可靠和智能系统实验室提供，并且是免费的），它支持**变量重命名**、**类型推断**和**反混淆**；比目前 [Pretttier](https://nicelinks.site/post/5c16083e819ae45de1453caa)、及常见的 Beautify JavaScript 工具都要强大。
 
 ### [JSNice](https://nicelinks.site/redirect?url=http://jsnice.org/) 有什么新东西？
 
-* 支持 ECMASCRIPT 6。
-* 内置封隔器检测器。
-* 可以转译尚不支持的代码。
-* 提高预测精度。
-* 能够提供有关 JSNice 预测的直接反馈。
+- 支持 ECMASCRIPT 6。
+- 内置封隔器检测器。
+- 可以转译尚不支持的代码。
+- 提高预测精度。
+- 能够提供有关 JSNice 预测的直接反馈。
 
 ### [JSNice](https://nicelinks.site/redirect?url=http://jsnice.org/) 可为您做什么？
 
-* 使混淆的 JavaScript 代码有更高可读性。
-* 将变量和参数重命名，从数千个开源项目中学到的名称。
-* 推断类型注释。
-* 覆盖 JSNice 建议的名称（通过在设置中启用“交互式重命名”）。
-* 单击[此处](https://nicelinks.site/redirect?url=http://plml.ethz.ch/)了解有关苏黎世联邦理工学院 SRI 实验室所做研究的更多信息，该实验室产生了 JSNice 和其他基于机器学习的系统。
+- 使混淆的 JavaScript 代码有更高可读性。
+- 将变量和参数重命名，从数千个开源项目中学到的名称。
+- 推断类型注释。
+- 覆盖 JSNice 建议的名称（通过在设置中启用“交互式重命名”）。
+- 单击[此处](https://nicelinks.site/redirect?url=http://plml.ethz.ch/)了解有关苏黎世联邦理工学院 SRI 实验室所做研究的更多信息，该实验室产生了 JSNice 和其他基于机器学习的系统。
 
-如果您想分析一段经过混淆过的 JavaScript 代码，或者优化一些糟糕写法的  JavaScript 代码片段，[JS NICE](https://nicelinks.site/redirect?url=http://jsnice.org/) 是值得您首选的工具。
+如果您想分析一段经过混淆过的 JavaScript 代码，或者优化一些糟糕写法的 JavaScript 代码片段，[JS NICE](https://nicelinks.site/redirect?url=http://jsnice.org/) 是值得您首选的工具。
 
 ── 出自[倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.site/post/6141f77f48b293062990b34d)
 
@@ -79,11 +79,11 @@
 
 **标签**：[`微信`](https://nicelinks.site/tags/微信) · [`小程序`](https://nicelinks.site/tags/小程序) · [`平台`](https://nicelinks.site/tags/平台)
 
-**关键字**：微信服务平台, 微信小程序SAAS服务商, 微信小程序定制化服务, 小程序MCN直播, 小程序API服务
+**关键字**：微信服务平台, 微信小程序 SAAS 服务商, 微信小程序定制化服务, 小程序 MCN 直播, 小程序 API 服务
 
->微信服务平台是最权威的微信小程序相关服务、服务商的推荐及撮合平台，集优质小程序saas模板、定制化行业解决方案，持接口能力（API）、插件等开发服务以及MCN直播整合营销代运营服务于一体的综合平台。支持快速创建小程序，开通直播服务、商品上下架、订单管理、物流配送、运营策划等专业服务。
+> 微信服务平台是最权威的微信小程序相关服务、服务商的推荐及撮合平台，集优质小程序 saas 模板、定制化行业解决方案，持接口能力（API）、插件等开发服务以及 MCN 直播整合营销代运营服务于一体的综合平台。支持快速创建小程序，开通直播服务、商品上下架、订单管理、物流配送、运营策划等专业服务。
 
-![倾城之链 - 微信服务平台](https://oss.nicelinks.site/fuwu.weixin.qq.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 微信服务平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fuwu.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[微信服务平台](https://nicelinks.site/redirect?url=https://fuwu.weixin.qq.com/)是微信出品的`小程序`相关服务、服务商的推荐及撮合平台（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建）；用户可以在这里搜索行业、服务、服务商等；主要涉及的服务有以下内容：
 
@@ -96,15 +96,15 @@
 
 ── 出自[倾城之链 - 微信服务平台](https://nicelinks.site/post/61417ef9fb71863f906415a7)
 
-## [腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
+## [腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
 
 **标签**：[`产品`](https://nicelinks.site/tags/产品) · [`工具`](https://nicelinks.site/tags/工具) · [`文档`](https://nicelinks.site/tags/文档)
 
 **关键字**：腾讯文档, 在线编辑, 办公文档, 协同编辑, 多人协作
 
->腾讯文档是一款可多人协作的在线文档，可同时编辑 Word、Excel 和 PPT 文档，云端实时保存。可针对 QQ、微信好友设置文档访问、编辑权限，支持多种版本 Word、Excel 和 PPT 文档模板。
+> 腾讯文档是一款可多人协作的在线文档，可同时编辑 Word、Excel 和 PPT 文档，云端实时保存。可针对 QQ、微信好友设置文档访问、编辑权限，支持多种版本 Word、Excel 和 PPT 文档模板。
 
-![倾城之链 - 腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档](https://oss.nicelinks.site/docs.qq.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/docs.qq.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[腾讯文档](https://nicelinks.site/redirect?url=https://docs.qq.com/)，是一款可多人协作的在线文档（支持多人同时在线编辑。内容实时同步，随时随地高效协作，轻松创作）。支持在线 Word / Excel / PPT / PDF 和收集表类型。打开网页就能查看和编辑，云端实时保存，权限安全可控。提供打卡签到、考勤、远程办公、在线教育、简历等海量免费模板资源。根据官方更详细的介绍，[腾讯文档](https://nicelinks.site/redirect?url=https://docs.qq.com/)有以下功能特色：
 
@@ -129,8 +129,7 @@
 
 [腾讯文档](https://nicelinks.site/redirect?url=https://docs.qq.com/)，从模板开始，即可立即开始使用，诸如工作周报、班级通讯录、分析报告、考勤打卡等等；同类型的产品，还有[「语雀」](https://nicelinks.site/redirect?url=https://yuque.com/)、[石墨文档](https://nicelinks.site/redirect?url=https://shimo.im/)等产品，您可以比对，择优使用。
 
-
-── 出自[倾城之链 - 腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
+── 出自[倾城之链 - 腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
@@ -160,7 +159,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)
