@@ -18,6 +18,10 @@
       font-size: $font-medium;
       color: $brand;
       margin: 0;
+      font-weight: 600;
+      background: linear-gradient(to top left, #232526, #414345);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
     .logo {
       width: 6 * $factor;

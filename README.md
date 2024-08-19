@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://blog.nicelinks.site/">倾城博客 - <a href="https://nicelinks.site/">倾城之链</a></h1>
+<h1 align="center"><a href="https://link.niceshare.site/">倾城博客 - <a href="https://nicelinks.site/">倾城之链</a></h1>
 
 <div align="center">
   <strong>本站基于 <a href="https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e">GatsbyJS</a> 搭建，其中内容，多是<a href="https://github.com/nicejade/nicelinks-weekly">基于 Deno 脚本一键生成</a>。</strong>
@@ -8,7 +8,7 @@
 
 ## 如何访问
 
-在线地址： [倾城博客](https://blog.nicelinks.site/)。
+在线地址： [倾城博客](https://link.niceshare.site/)。
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/ee342d1ddc239e45175acf2871abc0a24dc890bccebb1ee7a78820a3b023263f/68747470733a2f2f696d6167652e6e6963656c696e6b732e736974652f7172636f64655f6a71782e6a7067" width=200 alt="倾城之链 - 小程序码">
