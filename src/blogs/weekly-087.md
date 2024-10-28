@@ -8,7 +8,7 @@
 
 > A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more. Start with your idea and create something unique for you.
 
-![倾城之链 - Microsoft Designer - Stunning designs in a flash](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/designer.microsoft.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Microsoft Designer - Stunning designs in a flash](https://oss.nicelinks.site/designer.microsoft.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Microsoft Designer](https://nicelinks.site/redirect?url=https://designer.microsoft.com/)，一个图形设计应用程序（微软将要「相对于 2022/10/13」推出的设计工具），帮助您创建专业质量的社交媒体帖子、邀请函、数字明信片、图形和更多。从你的想法开始，为您创造独特的东西。只需要输入一个描述或者简单的想法，然后看着你的内容转变（Content Transform）及选择最爱的设计即可，官网称整个过程在瞬间完成（期待）。除此之外，Microsoft Designer 还提及以下功能特征：
 
@@ -36,7 +36,7 @@ Microsoft Designer 目前尚未发布，您可以加入候补名单以提前使�
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-![倾城之链 - Git | 分布式版本控制软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/git-scm.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Git | 分布式版本控制软件](https://oss.nicelinks.site/git-scm.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Git](https://nicelinks.site/redirect?url=https://git-scm.com/) 是一个免费和开源的分布式版本控制系统，旨在以速度和效率处理从小型到大型项目的所有内容。它最初由 Linus Torvalds（林纳斯·托瓦兹） 创作，于 2005 年以 GPL 授权条款释出；最初目的是为了更好地管理 Linux 核心开发而设计。
 
@@ -60,7 +60,7 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 > 六个周的博客
 
-![倾城之链 - 六个周 | enjoy day](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.liugezhou.online.png?x-oss-process=style/png2jpg)
+![倾城之链 - 六个周 | enjoy day](https://oss.nicelinks.site/blog.liugezhou.online.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[六个周](https://nicelinks.site/redirect?url=https://blog.liugezhou.online/)，基于 [Hexo](https://nicelinks.site/post/5c4c56d5a5957e07a40b3116) 搭建的个人博客（2018 年 07 月 11）；用以承载作者技术总结、所读之书、看过的电影等等。作者在个人主页介绍到：
 
@@ -78,7 +78,7 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 > 「w2solo.com」独立开发者社区，始于 2018.10，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
 
-![倾城之链 - w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/w2solo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://oss.nicelinks.site/w2solo.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[w2solo - 独立开发者社区](https://nicelinks.site/redirect?url=https://w2solo.com/)， 基于 [Homeland](https://nicelinks.site/redirect?url=https://w2solo.com/) 搭建（2018 年 10 月），由众多[独立开发者](https://nicelinks.site/tags/https://w2solo.com/topics/1)参与维护，致力于搭建和维护好国内独立开发者圈子和氛围（社群官网域名：`w2solo.com` 意思是：way to solo，独立开发之路）。`w2solo` 欢迎讨论技术、想法创意、产品和成功故事以及失败经验，并倡导遵守以下要求：
 
@@ -99,7 +99,7 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 > A smart and user-friendly command line shell
 
-![倾城之链 - fish shell](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fishshell.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - fish shell](https://oss.nicelinks.site/fishshell.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[fish shell](https://nicelinks.site/redirect?url=https://fishshell.com/) ，一个智能和用户友好的命令行外壳（Cli Shell），适用于 Linux、macOS、Windows 和其他系统。它具有以下功能特征：
 
@@ -140,7 +140,7 @@ Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非
 
 > 广告可以更简单，优雅，且有效 ~ 万维广告致力于帮助中国的 to B 企业轻松投放更精准且友好的广告。
 
-![倾城之链 - 万维广告](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wwads.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 万维广告](https://oss.nicelinks.site/wwads.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：万维广告，旨在帮助中国的 to B 企业轻松投放更精准 & 友好的广告平台。**让您的广告简单优雅且有效**，从创业团队到财富 500 强，都在使用万维广告触达专业受众，建立品牌并获取销售线索。它具有以下功能特色：
 
@@ -203,11 +203,9 @@ Google AdSense 是很多流量网站的收入来源之一；但，互联网用�
 
 ── 出自[倾城之链 - 万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -215,26 +213,24 @@ Google AdSense 是很多流量网站的收入来源之一；但，互联网用�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
-- [优质网站同好者周刊（第 85 期）- 倾城之链](https://link.niceshare.site/weekly-085/)
-- [优质网站同好者周刊（第 84 期）- 倾城之链](https://link.niceshare.site/weekly-084/)
-- [优质网站同好者周刊（第 83 期）- 倾城之链](https://link.niceshare.site/weekly-083/)
-- [优质网站同好者周刊（第 82 期）- 倾城之链](https://link.niceshare.site/weekly-082/)
-- [优质网站同好者周刊（第 81 期）- 倾城之链](https://link.niceshare.site/weekly-081/)
-- [优质网站同好者周刊（第 80 期）- 倾城之链](https://link.niceshare.site/weekly-080/)
-- [优质网站同好者周刊（第 79 期）- 倾城之链](https://link.niceshare.site/weekly-079/)
-- [优质网站同好者周刊（第 78 期）- 倾城之链](https://link.niceshare.site/weekly-078/)
-- [优质网站同好者周刊（第 77 期）- 倾城之链](https://link.niceshare.site/weekly-077/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
+- [优质网站同好者周刊（第 85 期）- 倾城之链](https://blog.nicelinks.site/weekly-085/)
+- [优质网站同好者周刊（第 84 期）- 倾城之链](https://blog.nicelinks.site/weekly-084/)
+- [优质网站同好者周刊（第 83 期）- 倾城之链](https://blog.nicelinks.site/weekly-083/)
+- [优质网站同好者周刊（第 82 期）- 倾城之链](https://blog.nicelinks.site/weekly-082/)
+- [优质网站同好者周刊（第 81 期）- 倾城之链](https://blog.nicelinks.site/weekly-081/)
+- [优质网站同好者周刊（第 80 期）- 倾城之链](https://blog.nicelinks.site/weekly-080/)
+- [优质网站同好者周刊（第 79 期）- 倾城之链](https://blog.nicelinks.site/weekly-079/)
+- [优质网站同好者周刊（第 78 期）- 倾城之链](https://blog.nicelinks.site/weekly-078/)
+- [优质网站同好者周刊（第 77 期）- 倾城之链](https://blog.nicelinks.site/weekly-077/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

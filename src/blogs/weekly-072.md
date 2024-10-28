@@ -10,7 +10,7 @@
 
 > Simple, fast, free portfolios. No login required, just upload images and go.
 
-![倾城之链 - Folio.ink, free fast and easy portfolios.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/folio.ink.png?x-oss-process=style/png2jpg)
+![倾城之链 - Folio.ink, free fast and easy portfolios.](https://oss.nicelinks.site/folio.ink.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Folio.ink](https://nicelinks.site/redirect?url=https://folio.ink/) 为广告素材提供免费图片托管，它的创建是一种快速、有效的方式，可以在精美的演示文稿中共享一组图像。它是为完成这项工作而设计的，无需登录，只需上传即可，并且**完全免费**。
 
@@ -30,7 +30,7 @@ Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意�
 
 > 一款帮助你快速搭建本地和云端 IDE 的框架。
 
-![倾城之链 - OpenSumi | OpenSumi 框架](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/opensumi.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - OpenSumi | OpenSumi 框架](https://oss.nicelinks.site/opensumi.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：
 [OpenSumi](https://nicelinks.site/redirect?url=https://opensumi.com/)，一款帮助你快速搭建本地和云端 IDE 的框架。OpenSumi 框架，早期由阿里集团淘系工程团队及蚂蚁集团体验技术部、研发效能团队联合发起，共同研发的 IDE 标准化研发框架。它基于 TypeScript + React 进行编码，实现了包含资源管理器、编辑器、调试、Git 面板、搜索面板等核心功能模块，开发者只要基于起步项目进行简单配置，便可以快速地搭建属于自己的本地或云端 IDE 产品。的框架。OpenSumi 自身兼容 VS Code 插件生态（思考），主流 VS Code 插件，均可无缝在基于 OpenSumi 研发的产品中运行，同时，框架也为开发者提供多种低成本，高定制的视图定制能力，能满足 IDE 场景下绝大多数的视图定制场景。它具有以下能力特性：
@@ -63,7 +63,7 @@ Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意�
 
 > Theia is an open-source cloud &nbsp; desktop IDE framework implemented in TypeScript.
 
-![倾城之链 - Theia - Cloud and Desktop IDE Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/theia-ide.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Theia - Cloud and Desktop IDE Platform](https://oss.nicelinks.site/theia-ide.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Theia](https://nicelinks.site/redirect?url=https://theia-ide.org/)，开放、灵活、可扩展的云和桌面 IDE 平台。它是由 Eclipse 基金会，基于现代 Web 技术，打造的云端及桌面 IDE 框架，该产品完全开源的，由多元化开发者社区进行开发。Theia 具有以下功能特征：
 
@@ -99,7 +99,7 @@ Theia 是一个可扩展的平台，用于使用最先进的 Web 技术，开发
 
 > Build Battle-Hardened Node.js Applications.
 
-![倾城之链 - PM2 - Home](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pm2.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - PM2 - Home](https://oss.nicelinks.site/pm2.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [pm2](https://nicelinks.site/redirect?url=https://pm2.io/) ，是具有内置**负载均衡器**的 Node.js 应用程序的生产流程管理器。您可以基于它，来部署、管理、维护您的 Node.js 应用程序，并提高其性能。它允许您使应用程序永远保持活动状态，在不停机的情况下重新加载它们，并促进常见的系统管理任务。pm2 适用于 Linux（稳定）和 macOS（稳定）和 Windows（稳定）。从 Node.js 12.X 开始支持所有 Node.js 版本。在生产模式下，安启动应用程序非常简单：
 
@@ -163,7 +163,7 @@ PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，�
 
 > View and compare GitHub star history of open source projects
 
-![倾城之链 - GitHub Star History](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/star-history.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - GitHub Star History](https://oss.nicelinks.site/star-history.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GitHub Star History](https://nicelinks.site/redirect?url=https://star-history.com)，用来可视化查看 [GitHub](https://nicelinks.site/tags/Github) 仓库 Star 历史图。您可以基于此工具，将生成的 **LIVE 图表**，以非常便捷的方式，添加到您的 GitHub README，从而展示给访问者。它具有以下功能特征：
 
@@ -187,7 +187,7 @@ PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，�
 
 > Darling — macOS translation layer for Linux
 
-![倾城之链 - Darling |   run macOS software on Linux](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.darlinghq.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Darling |   run macOS software on Linux](https://oss.nicelinks.site/www.darlinghq.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Darling](https://nicelinks.site/redirect?url=https://www.darlinghq.org/) 是一个翻译层，可让您在 [Linux](https://nicelinks.site/tags/Linux) 上运行 macOS 软件。它具有以下功能特征：
 
@@ -216,11 +216,9 @@ Darling，适用于 Linux 的 Darwin/macOS 仿真层；这个名字是“Darwin�
 
 ── 出自[倾城之链 - Darling | run macOS software on Linux](https://nicelinks.site/post/62b849413cc95e702564e0d5)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -228,22 +226,20 @@ Darling，适用于 Linux 的 Darwin/macOS 仿真层；这个名字是“Darwin�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 71 期）- 倾城之链](https://link.niceshare.site/weekly-071/)
-- [优质网站同好者周刊（第 70 期）- 倾城之链](https://link.niceshare.site/weekly-070/)
-- [优质网站同好者周刊（第 69 期）- 倾城之链](https://link.niceshare.site/weekly-069/)
-- [优质网站同好者周刊（第 68 期）- 倾城之链](https://link.niceshare.site/weekly-068/)
-- [优质网站同好者周刊（第 67 期）- 倾城之链](https://link.niceshare.site/weekly-067/)
-- [优质网站同好者周刊（第 66 期）- 倾城之链](https://link.niceshare.site/weekly-066/)
-- [优质网站同好者周刊（第 65 期）- 倾城之链](https://link.niceshare.site/weekly-065/)
-- [优质网站同好者周刊（第 64 期）- 倾城之链](https://link.niceshare.site/weekly-064/)
-- [优质网站同好者周刊（第 63 期）- 倾城之链](https://link.niceshare.site/weekly-063/)
-- [优质网站同好者周刊（第 62 期）- 倾城之链](https://link.niceshare.site/weekly-062/)
+- [优质网站同好者周刊（第 71 期）- 倾城之链](https://blog.nicelinks.site/weekly-071/)
+- [优质网站同好者周刊（第 70 期）- 倾城之链](https://blog.nicelinks.site/weekly-070/)
+- [优质网站同好者周刊（第 69 期）- 倾城之链](https://blog.nicelinks.site/weekly-069/)
+- [优质网站同好者周刊（第 68 期）- 倾城之链](https://blog.nicelinks.site/weekly-068/)
+- [优质网站同好者周刊（第 67 期）- 倾城之链](https://blog.nicelinks.site/weekly-067/)
+- [优质网站同好者周刊（第 66 期）- 倾城之链](https://blog.nicelinks.site/weekly-066/)
+- [优质网站同好者周刊（第 65 期）- 倾城之链](https://blog.nicelinks.site/weekly-065/)
+- [优质网站同好者周刊（第 64 期）- 倾城之链](https://blog.nicelinks.site/weekly-064/)
+- [优质网站同好者周刊（第 63 期）- 倾城之链](https://blog.nicelinks.site/weekly-063/)
+- [优质网站同好者周刊（第 62 期）- 倾城之链](https://blog.nicelinks.site/weekly-062/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

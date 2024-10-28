@@ -10,7 +10,7 @@
 
 > 图鱼全站素材无需注册一键免费下载。专注提供高质量无缝平铺的 PPT 背景图片、网页纹理背景素材、PS 设计底纹素材，可按照颜色、标签、合辑、相似度等搜索，广受大家种草安利。
 
-![倾城之链 - PPT背景图片_网页背景素材_平铺底纹纹理背景素材 - 图鱼官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.hituyu.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - PPT背景图片_网页背景素材_平铺底纹纹理背景素材 - 图鱼官网](https://oss.nicelinks.site/www.hituyu.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[图鱼](https://nicelinks.site/redirect?url=https://www.hituyu.com/)：一个专注提供高质量无缝平铺的 PPT 背景图片、网页纹理背景素材的网站；该网站建立于 2015 年 10 月。最初是方便自己做网页设计，查看平铺素材是否可以完美平铺，检测图片的连续性。在解决自己的问题之余，分享可用、好用、可完美平铺素材。该站素材来源为：站长原创、互联网搜集、购买等汇集而成。分类比较齐全，免受大家查找之苦，节省宝贵的时间。
 
@@ -22,7 +22,7 @@
 
 > Giters is where people build software. More than 50 million people use Giters to discover, fork, and contribute to over 100 million projects.
 
-![倾城之链 - Giters](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/giters.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Giters](https://oss.nicelinks.site/giters.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Giters](https://nicelinks.site/redirect?url=https://giters.com/)，是人们构建软件的地方。超过 5000 万人使用 Giters 来发现、fork 和贡献超过 1 亿个项目。[Giters](https://nicelinks.site/redirect?url=https://giters.com/) 它其实是对 [Github](https://nicelinks.site/tags/Github) 上的内容做了汇总和划分，有推出 `推荐存储库`（变化缓慢）、`推荐主题`、`热门存储库`、`热门用户`等模块儿，并提供检索功能，您可以快速找到需要的内容。对于作为**开发者**的朋友们来说，[Giters](https://nicelinks.site/redirect?url=https://giters.com/) 这个网站值得关注：闲来摸鱼放松、焦虑寻求提升、工作检索工具，网络不佳替代 Github 等不同场景，都是非常不错的选择。
 
@@ -36,7 +36,7 @@
 
 > 正规网站导航分类目录大全，免费收录各行业优秀网站，提供网站分类目录检索，关键字搜索，提交网站即可免费推广，增加外链，提升网站流量。
 
-![倾城之链 - 19站目录库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.19zh.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 19站目录库](https://oss.nicelinks.site/www.19zh.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[19 站目录库](https://nicelinks.site/redirect?url=https://www.19zh.com/)，是一个导航相关的网站（基于 PHP、jQuery 所搭建，看起来颇为古老）；旨在免费收录各行业优秀网站，提供网站分类目录检索，关键字搜索，提交网站即可免费推广，增加外链，提升网站流量。此外，该网站还提供`站长资讯`、`链接交换`等服务。
 
@@ -48,7 +48,7 @@
 
 > Transform your pictures into cartoons or custom styled arts.
 
-![倾城之链 - AI Image Transformer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/transformerapp.aifinancials.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - AI Image Transformer](https://oss.nicelinks.site/transformerapp.aifinancials.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AI Image Transformer](https://nicelinks.site/redirect?url=https://transformerapp.aifinancials.net/)，旨在为每个人提供一个简单的工具：使用预先训练的 AI 模型，对图像进行**卡通化**和**风格化**，并以近乎实时的方式生成结果。只需上传您的图像并下载结果，绝对没有麻烦。
 
@@ -62,7 +62,7 @@
 
 > 高颜值功能丰富的 SSH 工具，让 SSH 为人类服务。
 
-![倾城之链 - NextSSH | SSH工具，不只是命令终端](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/xzhshch.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - NextSSH | SSH工具，不只是命令终端](https://oss.nicelinks.site/xzhshch.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[NextSSH](https://nicelinks.site/redirect?url=https://xzhshch.com/)，是一个远程连接管理工具，希望能将繁杂的 SSH 操作变得简洁且直观。它具有以下功能特性：
 
@@ -106,9 +106,9 @@ NextSSH 拥有直观的基于 SFTP 的文件管理界面。支持双击打开文
 
 ── 出自[倾城之链 - NextSSH | SSH 工具，不只是命令终端](https://nicelinks.site/post/6208d4af3b89bf76633cb702)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -124,19 +124,17 @@ NextSSH 拥有直观的基于 SFTP 的文件管理界面。支持双击打开文
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
-- [优质网站同好者周刊（第 46 期）- 倾城之链](https://link.niceshare.site/weekly-046/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046/)
 - [优质网站同好者周刊（第 45 期）- 倾城之链](https://forum.lovejade.cn/d/132-45)
 - [优质网站同好者周刊（第 44 期）- 倾城之链](https://forum.lovejade.cn/d/130-44)
 - [优质网站同好者周刊（第 43 期）- 倾城之链](https://forum.lovejade.cn/d/127-43)

@@ -6,9 +6,9 @@
 
 **标签**：[`文档`](https://nicelinks.site/tags/文档) · [`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管)
 
-> Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
+>Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
 
-![倾城之链 - Paperless-ngx | 社区支持的开源文档管理系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/docs.paperless-ngx.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Paperless-ngx | 社区支持的开源文档管理系统](https://oss.nicelinks.site/docs.paperless-ngx.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Paperless-ngx](https://nicelinks.site/redirect?url=https://docs.paperless-ngx.com/) 是一个社区支持的开源文档管理系统，可将您的物理文档转换为可搜索的在线档案，这样您就可以减少纸张的使用。它具有如下功能特征：
 
@@ -20,21 +20,21 @@
 - 支持 PDF 文档、图像、纯文本文件、Office 文档（Word、Excel、Powerpoint 和 LibreOffice 等效项）及更多。
 - 无纸化将您的文档直接存储在磁盘上。文件名和文件夹采用无纸化管理，其格式可以自由配置，不同的文档分配不同的配置。
 - **美观、现代的 Web 应用程序**，具有以下特点：
-  - 带有统计信息的可定制仪表板。
-  - 按标签、通讯员、类型等进行过滤。
-  - 批量编辑标签、通讯员、类型等。
-  - 在整个应用程序中拖放上传文档。
-  - 可自定义的视图可以保存并显示在仪表板和/或侧边栏上。
-  - 支持各种数据类型的自定义字段。
-  - 可共享的公共链接，可选择过期时间。
+    - 带有统计信息的可定制仪表板。
+    - 按标签、通讯员、类型等进行过滤。
+    - 批量编辑标签、通讯员、类型等。
+    - 在整个应用程序中拖放上传文档。
+    - 可自定义的视图可以保存并显示在仪表板和/或侧边栏上。
+    - 支持各种数据类型的自定义字段。
+    - 可共享的公共链接，可选择过期时间。
 - **全文搜索**可帮助您找到所需内容：
-  - 自动完成会建议文档中的相关单词。
-  - 结果按与您的搜索查询的相关性排序。
-  - 突出显示可以显示文档的哪些部分与查询匹配。
-  - 搜索类似文档（“更多类似内容”）
+    - 自动完成会建议文档中的相关单词。
+    - 结果按与您的搜索查询的相关性排序。
+    - 突出显示可以显示文档的哪些部分与查询匹配。
+    - 搜索类似文档（“更多类似内容”）
 - **电子邮件处理**：从您的电子邮件帐户导入文档：
-  - 配置多个帐户并为每个帐户配置规则。
-  - 处理后，无纸化可以对消息执行标记为已读、删除等操作。
+    - 配置多个帐户并为每个帐户配置规则。
+    - 处理后，无纸化可以对消息执行标记为已读、删除等操作。
 - 内置强大的**多用户权限**系统，支持“全局”权限以及每个文档或对象的权限。
 - 强大的模板系统，使您可以更好地控制消费管道。
 - **针对多核系统进行了优化**：Paperless-ngx 并行使用多个文档。
@@ -48,9 +48,9 @@
 
 **标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
 
-> Build modern websites using build time and type-safe CSS-in-JS
+>Build modern websites using build time and type-safe CSS-in-JS
 
-![倾城之链 - Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/panda-css.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://oss.nicelinks.site/panda-css.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Panda CSS](https://nicelinks.site/redirect?url=https://panda-css.com/) ，🐼 适合产品团队的通用、类型安全、CSS-in-JS 框架 ⚡️。它提供了一种使用构建时和类型安全的 `CSS-in-JS`构建现代网站的创新方法。官方描述它具有构建时生成的样式、RSC 兼容、多变体支持和一流的开发人员体验； [Panda CSS](https://nicelinks.site/redirect?url=https://panda-css.com/) 具有如下特点：
 
@@ -78,9 +78,9 @@
 
 **关键字**：Panda,Tailwind,CSS,Ark UI,Components,Library,React,Solid,Vue
 
-> Beautifully designed components built for your choice of JS and CSS frameworks.
+>Beautifully designed components built for your choice of JS and CSS frameworks.
 
-![倾城之链 - Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/park-ui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://oss.nicelinks.site/park-ui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Park UI](https://nicelinks.site/redirect?url=https://park-ui.com/) ，专为您选择的 JS 和 CSS 框架而构建。 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Solid、 [Panda CSS](https://panda-css.com/) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 等流行框架的兼容性。用户可以通过选择自己喜欢的框架并对其进行自定义来满足自己的需求来开始使用。如果您对其感兴趣，可移步至 [Github 仓库开源](https://github.com/cschroeter/park-ui) ，从而了解更多。
 
@@ -94,9 +94,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`分析`](https://nicelinks.site/tags/分析) · [`平台`](https://nicelinks.site/tags/平台)
 
-> FinChat.io is the all-in-one investment research platform combining institutional-grade financial data, analytics, and conversational AI.
+>FinChat.io is the all-in-one investment research platform combining institutional-grade financial data, analytics, and conversational AI.
 
-![倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/finchat.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://oss.nicelinks.site/finchat.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[FinChat.io](https://nicelinks.site/redirect?url=https://finchat.io/) 是集机构级金融数据、分析和对话式 [人工智能](https://nicelinks.site/tags/AI) 于一身的投资研究平台。 它强调其人工智能驱动的研究能力，并将自己定位为全球股票平台。并强调准确数据的重要性，并提供经过人力资本分析师验证的机构质量信息。该平台提供标准普尔市场情报的财务和估计以及 FinChat 验证数据的细分和关键绩效指标。
 
@@ -116,9 +116,9 @@ FinChat.io 提供时事通讯订阅服务，让用户了解每周的收益、见
 
 **标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`开源`](https://nicelinks.site/tags/开源)
 
-> A simple distributed task scheduler and runner.
+>A simple distributed task scheduler and runner.
 
-![倾城之链 - Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cronicle.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://oss.nicelinks.site/cronicle.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Cronicle](https://nicelinks.site/redirect?url=https://cronicle.net/) 是一个多服务器任务调度程序和运行程序，具有基于 Web 的前端 UI。它可以处理计划的、重复的和按需的作业，针对任意数量的从属服务器，并具有实时统计数据和实时日志查看器。它基于 Node.js 编写，开源并获得 MIT 许可。Cronicle 具有如下功能特征：
 
@@ -152,15 +152,13 @@ curl -s https://raw.githubusercontent.com/jhuckaby/Cronicle/master/bin/install.j
 - 参数系统允许您为插件定义一组 UI 控件（文本字段、文本框、复选框、下拉菜单等），然后在编辑事件时将其呈现给用户。如果您的插件具有要向用户公开的可配置行为，这可能会很有用。
 - 跟踪所有已完成的作业，以及哪些作业成功或失败。Cronicle 拥有所有作业的主列表，还按每个事件对列表进行分类，因此您可以深入了解并准确查看运行的内容和时间。单击作业 ID 可查看有关每个作业的完整详细信息，并查看或下载日志存档。
 
-基于 Node.js 的作业调度程度较多，诸如： [node-schedule](https://www.npmjs.com/package/node-schedule) （一个灵活的 Node.js 类 cron 和非 cron 作业调度程序）、 [node-cron](https://www.npmjs.com/package/node-cron) （基于 GNU crontab 的 Node.js 纯 JavaScript 微型任务调度程序），但 **Cronicle** 的功能更为丰富。如果您对这款程序库感兴趣，可 [移步至 Cronicle 在 Github 开源仓库](https://github.com/jhuckaby/Cronicle) 从而了解更多。
+基于 Node.js 的作业调度程度较多，诸如： [node-schedule](https://www.npmjs.com/package/node-schedule) （一个灵活的 Node.js 类 cron 和非 cron 作业调度程序）、 [node-cron](https://www.npmjs.com/package/node-cron) （基于GNU crontab的 Node.js 纯 JavaScript 微型任务调度程序），但 **Cronicle** 的功能更为丰富。如果您对这款程序库感兴趣，可 [移步至 Cronicle 在 Github 开源仓库](https://github.com/jhuckaby/Cronicle) 从而了解更多。
 
 ── 出自[倾城之链 - Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://nicelinks.site/post/65900c63b3eaf05e8b515c0a)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -168,30 +166,28 @@ curl -s https://raw.githubusercontent.com/jhuckaby/Cronicle/master/bin/install.j
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 146 期）- 倾城之链](https://link.niceshare.site/weekly-146/)
-- [优质网站同好者周刊（第 145 期）- 倾城之链](https://link.niceshare.site/weekly-145/)
-- [优质网站同好者周刊（第 144 期）- 倾城之链](https://link.niceshare.site/weekly-144/)
-- [优质网站同好者周刊（第 143 期）- 倾城之链](https://link.niceshare.site/weekly-143/)
-- [优质网站同好者周刊（第 142 期）- 倾城之链](https://link.niceshare.site/weekly-142/)
-- [优质网站同好者周刊（第 141 期）- 倾城之链](https://link.niceshare.site/weekly-141/)
-- [优质网站同好者周刊（第 140 期）- 倾城之链](https://link.niceshare.site/weekly-140/)
-- [优质网站同好者周刊（第 139 期）- 倾城之链](https://link.niceshare.site/weekly-139/)
-- [优质网站同好者周刊（第 138 期）- 倾城之链](https://link.niceshare.site/weekly-138/)
-- [优质网站同好者周刊（第 137 期）- 倾城之链](https://link.niceshare.site/weekly-137/)
-- [优质网站同好者周刊（第 136 期）- 倾城之链](https://link.niceshare.site/weekly-136/)
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
+- [优质网站同好者周刊（第 146 期）- 倾城之链](https://blog.nicelinks.site/weekly-146/)
+- [优质网站同好者周刊（第 145 期）- 倾城之链](https://blog.nicelinks.site/weekly-145/)
+- [优质网站同好者周刊（第 144 期）- 倾城之链](https://blog.nicelinks.site/weekly-144/)
+- [优质网站同好者周刊（第 143 期）- 倾城之链](https://blog.nicelinks.site/weekly-143/)
+- [优质网站同好者周刊（第 142 期）- 倾城之链](https://blog.nicelinks.site/weekly-142/)
+- [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
+- [优质网站同好者周刊（第 140 期）- 倾城之链](https://blog.nicelinks.site/weekly-140/)
+- [优质网站同好者周刊（第 139 期）- 倾城之链](https://blog.nicelinks.site/weekly-139/)
+- [优质网站同好者周刊（第 138 期）- 倾城之链](https://blog.nicelinks.site/weekly-138/)
+- [优质网站同好者周刊（第 137 期）- 倾城之链](https://blog.nicelinks.site/weekly-137/)
+- [优质网站同好者周刊（第 136 期）- 倾城之链](https://blog.nicelinks.site/weekly-136/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

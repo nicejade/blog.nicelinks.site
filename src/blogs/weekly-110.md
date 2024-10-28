@@ -6,9 +6,9 @@
 
 **标签**：[`软件`](https://nicelinks.site/tags/软件) · [`产品`](https://nicelinks.site/tags/产品) · [`免费`](https://nicelinks.site/tags/免费)
 
-> Jami - the distributed and open source communication platform
+>Jami - the distributed and open source communication platform
 
-![倾城之链 - Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jami.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://oss.nicelinks.site/jami.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Jami](https://nicelinks.site/redirect?url=https://jami.net/) 是一款由 Savoir-faire Linux 开发的开源通讯软件，它提供了一种去中心化的通讯方式，支持实时语音通话、视频、文件传输、消息等功能，用户可以在不泄露个人数据的情况下，安全、私密地进行通讯。它具有以下功能特征：
 
@@ -34,9 +34,9 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 
 **标签**：[`算法`](https://nicelinks.site/tags/算法) · [`平台`](https://nicelinks.site/tags/平台) · [`量子`](https://nicelinks.site/tags/量子)
 
-> BlueQubit app is the simplest way to interact with Quantum. Run quantum programs on CPU/GPU simulators as well as connect to actual quantum devices with a 1-click.
+>BlueQubit app is the simplest way to interact with Quantum. Run quantum programs on CPU/GPU simulators as well as connect to actual quantum devices with a 1-click.
 
-![倾城之链 - BlueQubit App](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/app.bluequbit.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - BlueQubit App](https://oss.nicelinks.site/app.bluequbit.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[BlueQubit App](https://nicelinks.site/redirect?url=https://app.bluequbit.io/) 是一个基于云的量子计算平台，提供云端的量子计算服务和智能算法工具，旨在帮助用户进行量子计算模拟和开发。该平台使用了最先进的量子计算技术，包括量子门模拟、量子纠缠和量子误差校正等，使得用户可以在云端进行量子计算的实验和研究。
 
@@ -45,7 +45,7 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 - ✅ 叠加允许量子比特同时为 0 和 1；
 - ✅ 纠缠允许量子比特以“神奇”的方式相互作用，从而进行计算；
 
-其余部分非常相似：量子计算机就像普通计算机一样使用算法来解决问题，除了有时它们可 ​​ 以做得更快 💡 在经典计算机上，我们使用 AND、OR、NOT 等逻辑门——类似地，可使用 H、NOT、CNOT 等量子门来创建量子算法。
+其余部分非常相似：量子计算机就像普通计算机一样使用算法来解决问题，除了有时它们可​​以做得更快💡在经典计算机上，我们使用 AND、OR、NOT 等逻辑门——类似地，可使用 H、NOT、CNOT 等量子门来创建量子算法。
 
 该网站可以帮助用户在云端快速开发和运行自己的量子算法，目前支持多种编程语言和开发环境，如 Qiskit、Cirq 和 Python 等等，用户可以选择自己擅长的编程语言进行量子编程。
 
@@ -63,9 +63,9 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`资源`](https://nicelinks.site/tags/资源) · [`聚合`](https://nicelinks.site/tags/聚合)
 
-> Handpicked Free Tools, Resources and Products Curated for Developers, Designers, Marketers and More. Explore, submit and support - Products, resources and tools created for tech enthusiasts and professionals.
+>Handpicked Free Tools, Resources and Products Curated for Developers, Designers, Marketers and More. Explore, submit and support - Products, resources and tools created for tech enthusiasts and professionals.
 
-![倾城之链 - Products, Tools and Resources for Developers & Designers | Resource.fyi](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/resource.fyi.png?x-oss-process=style/png2jpg)
+![倾城之链 - Products, Tools and Resources for Developers & Designers | Resource.fyi](https://oss.nicelinks.site/resource.fyi.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Resource.fyi](https://nicelinks.site/redirect?url=https://resource.fyi/) ，是一个互动 [平台](https://nicelinks.site/tags/平台) ，为开发人员、设计师、营销人员和技术专业人士策划的资源、产品和工具。该网站提供了大量的技能学习资源，包括编程语言、设计工具、数据科学、自我提高、工具和资源等，它们都是经过筛选和认可的高质量资源。
 
@@ -79,9 +79,9 @@ Resource.fyi 还提供了许多有用的工具，例如自动化和人工智能�
 
 **标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
-> Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅🏾
+>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅🏾
 
-![倾城之链 - Style Component | Visual primitives for the component age](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/styled-components.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Style Component | Visual primitives for the component age](https://oss.nicelinks.site/styled-components.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Styled Components](https://nicelinks.site/redirect?url=https://styled-components.com/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 库的 CSS in JS 库，提供了一种在 React 组件中编写 CSS 样式的全新方式。在传统的 React 组件中，我们通常使用外部样式表或者内联样式来定义样式，但是这种方式会导致样式表分散在不同文件或者组件中，造成管理难度和维护困难的问题。而使用 Styled Components，所有的样式都定义在组件内部，使得代码更加简洁、易于维护。
 
@@ -109,9 +109,10 @@ Styled Components 和 Tailwind CSS 都是一些流行的前端工具，但是它
 
 Styled Components 是一个 CSS in JS 库，它提供了一种在 React 组件中编写 CSS 样式的全新方式。Styled Components 让所有的样式都定义在组件内部，减少了样式冲突和维护的难度。它还提供了一些特殊的样式组件，如 GlobalStyle 组件用于定义全局样式，以及 ThemeProvider 组件用于管理主题，为开发人员提供了更加便利的开发体验。Styled Components 适用于需要灵活和动态控制样式的应用场景。
 
-[Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 是一个实用的 CSS 框架，为开发人员提供了一系列预定义的 CSS 类。Tailwind CSS 类的名称通常是根据它们所编写的样式来命名的，如： `text-center`, `bg-green-500`, `w-1/2`  等。开发人员可以直接使用这些类名来快速编写页面样式，而无需手动编写任何 CSS。Tailwind CSS 并没有使用任何预定义的颜色或样式，而是提供了一组原子级别的 CSS 类来帮助使用者精细控制样式。Tailwind CSS 适用于需要快速开发样式或者需要与设计师紧密合作的应用场景。
+ [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 是一个实用的 CSS 框架，为开发人员提供了一系列预定义的 CSS 类。Tailwind CSS 类的名称通常是根据它们所编写的样式来命名的，如： `text-center`, `bg-green-500`, `w-1/2` 等。开发人员可以直接使用这些类名来快速编写页面样式，而无需手动编写任何 CSS。Tailwind CSS 并没有使用任何预定义的颜色或样式，而是提供了一组原子级别的 CSS 类来帮助使用者精细控制样式。Tailwind CSS 适用于需要快速开发样式或者需要与设计师紧密合作的应用场景。
 
 综上所述，Styled Components 是一种注重灵活性和可定制性的 CSS in JS 库，适用于需要动态控制样式的应用场景，而 Tailwind CSS 则是为了帮助开发人员更快速而准确地编写样式，适用于需要快速开发样式或与设计师紧密合作的应用场景。推荐的应用方式是，以 Tailwind CSS 为主，在需要动态修改样式等场景，利用 Styled Components 的灵活性做配合。如果您对它感兴趣，可移步 [Github 仓库](https://github.com/styled-components/styled-components) 从而了解更多。
+
 
 ── 出自[倾城之链 - Style Component | Visual primitives for the component age](https://nicelinks.site/post/641996e1faf6ad624e27a117)
 
@@ -119,9 +120,9 @@ Styled Components 是一个 CSS in JS 库，它提供了一种在 React 组件�
 
 **标签**：[`社区`](https://nicelinks.site/tags/社区) · [`技术`](https://nicelinks.site/tags/技术) · [`教程`](https://nicelinks.site/tags/教程)
 
-> Social network for developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide.
+>Social network for developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide.
 
-![倾城之链 - Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/morioh.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://oss.nicelinks.site/morioh.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Morioh](https://nicelinks.site/redirect?url=https://morioh.com/) 是一个技术社区网站，提供各种 IT 技术和开发教程、资源和文章。它包括了开发者感兴趣的领域，如前端、后端、人工智能、机器学习、数据科学、区块链等等，涵盖面非常广。Morioh 的目标是为开发人员提供最新、最实用、最有价值的技术内容，并帮助技术人员更好地应对日益复杂的技术挑战。
 
@@ -133,46 +134,42 @@ Morioh 的特点在于它使用非常简洁、直观的界面设计，用户可�
 
 ── 出自[倾城之链 - Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://nicelinks.site/post/64199660faf6ad624e27a0b3)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-人生无根蒂，飘如陌上尘。  
+人生无根蒂，飘如陌上尘。   
 分散逐风转，此已非常身。  
-落地为兄弟，何必骨肉亲！  
-得欢当作乐，斗酒聚比邻。  
-盛年不重来，一日难再晨。  
-及时当勉励，岁月不待人。  
+落地为兄弟，何必骨肉亲！   
+得欢当作乐，斗酒聚比邻。   
+盛年不重来，一日难再晨。   
+及时当勉励，岁月不待人。   
 ── 魏晋 · 陶渊明 《杂诗十二首·其一》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 109 期）- 倾城之链](https://link.niceshare.site/weekly-109/)
-- [优质网站同好者周刊（第 108 期）- 倾城之链](https://link.niceshare.site/weekly-108/)
-- [优质网站同好者周刊（第 107 期）- 倾城之链](https://link.niceshare.site/weekly-107/)
-- [优质网站同好者周刊（第 106 期）- 倾城之链](https://link.niceshare.site/weekly-106/)
-- [优质网站同好者周刊（第 105 期）- 倾城之链](https://link.niceshare.site/weekly-105/)
-- [优质网站同好者周刊（第 104 期）- 倾城之链](https://link.niceshare.site/weekly-104/)
-- [优质网站同好者周刊（第 103 期）- 倾城之链](https://link.niceshare.site/weekly-103/)
-- [优质网站同好者周刊（第 102 期）- 倾城之链](https://link.niceshare.site/weekly-102/)
-- [优质网站同好者周刊（第 101 期）- 倾城之链](https://link.niceshare.site/weekly-101/)
-- [优质网站同好者周刊（第 100 期）- 倾城之链](https://link.niceshare.site/weekly-100/)
-- [优质网站同好者周刊（第 99 期）- 倾城之链](https://link.niceshare.site/weekly-099/)
-- [优质网站同好者周刊（第 98 期）- 倾城之链](https://link.niceshare.site/weekly-098/)
+- [优质网站同好者周刊（第 109 期）- 倾城之链](https://blog.nicelinks.site/weekly-109/)
+- [优质网站同好者周刊（第 108 期）- 倾城之链](https://blog.nicelinks.site/weekly-108/)
+- [优质网站同好者周刊（第 107 期）- 倾城之链](https://blog.nicelinks.site/weekly-107/)
+- [优质网站同好者周刊（第 106 期）- 倾城之链](https://blog.nicelinks.site/weekly-106/)
+- [优质网站同好者周刊（第 105 期）- 倾城之链](https://blog.nicelinks.site/weekly-105/)
+- [优质网站同好者周刊（第 104 期）- 倾城之链](https://blog.nicelinks.site/weekly-104/)
+- [优质网站同好者周刊（第 103 期）- 倾城之链](https://blog.nicelinks.site/weekly-103/)
+- [优质网站同好者周刊（第 102 期）- 倾城之链](https://blog.nicelinks.site/weekly-102/)
+- [优质网站同好者周刊（第 101 期）- 倾城之链](https://blog.nicelinks.site/weekly-101/)
+- [优质网站同好者周刊（第 100 期）- 倾城之链](https://blog.nicelinks.site/weekly-100/)
+- [优质网站同好者周刊（第 99 期）- 倾城之链](https://blog.nicelinks.site/weekly-099/)
+- [优质网站同好者周刊（第 98 期）- 倾城之链](https://blog.nicelinks.site/weekly-098/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

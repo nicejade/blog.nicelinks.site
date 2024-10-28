@@ -6,11 +6,11 @@
 
 **标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`工具`](https://nicelinks.site/tags/工具) · [`设计`](https://nicelinks.site/tags/设计)
 
-> Build a Website
+>Build a Website
 
-![倾城之链 - Relate - The open platform to create for the web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/relate.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Relate - The open platform to create for the web](https://oss.nicelinks.site/relate.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Relate](https://nicelinks.site/redirect?url=https://relate.app/) 是一个用来创建网站的开放平台；她足够**简单**，直观的“按代码设计”环境，可以像编辑文档一样创建和编辑网站；在设计时，在后台生成漂亮，干净，简单的 HTML 和 CSS 。基于 [Relate](https://nicelinks.site/redirect?url=https://relate.app/) 系统，你的业务蓬勃发展，依然无需切换平台。具有以下功能特征：
+**推荐语**：[Relate](https://nicelinks.site/redirect?url=https://relate.app/)  是一个用来创建网站的开放平台；她足够**简单**，直观的“按代码设计”环境，可以像编辑文档一样创建和编辑网站；在设计时，在后台生成漂亮，干净，简单的 HTML 和 CSS 。基于 [Relate](https://nicelinks.site/redirect?url=https://relate.app/) 系统，你的业务蓬勃发展，依然无需切换平台。具有以下功能特征：
 
 - 您可以导入现有代码，复制整个网站或其中的一部分，或基于已经存在的网站构建新页面；
 - 友好支持第三方，你可以使用 Bootstrap，[Tailwind](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 和任何其他框架；
@@ -26,9 +26,9 @@
 
 **标签**：[`图片`](https://nicelinks.site/tags/图片) · [`工具`](https://nicelinks.site/tags/工具) · [`设计`](https://nicelinks.site/tags/设计)
 
-> Create matching cover images for the social media platforms you love without the need of any complex design tools or templates.
+>Create matching cover images for the social media platforms you love without the need of any complex design tools or templates.
 
-![倾城之链 - Headers.me | Cover images that get you followers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.headers.me.png?x-oss-process=style/png2jpg)
+![倾城之链 - Headers.me | Cover images that get you followers](https://oss.nicelinks.site/www.headers.me.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Headers.me](https://nicelinks.site/redirect?url=https://www.headers.me/)，是一个工具型网站，它可以为您喜欢的社交媒体平台，创建与之匹配的**封面图像**，而无需任何复杂的设计工具或模板；您可以免费开始设计，而无需信用卡（当然，也提供高级收费功能）。
 
@@ -38,11 +38,12 @@
 
 **标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
-> full stack JavaScript developer. I’m very interested in web Technologies & cloud computing & problem solving.
+>full stack JavaScript developer. I’m very interested in web Technologies & cloud computing & problem solving.
 
-![倾城之链 - All posts | Soubai's stories](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.soubai.me.png?x-oss-process=style/png2jpg)
+![倾城之链 - All posts | Soubai's stories](https://oss.nicelinks.site/www.soubai.me.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Soubai's stories](https://nicelinks.site/redirect?url=https://www.soubai.me/) 是基于 Next.js、Node.js 所搭建的网站，全栈 JavaScript 开发人员（Abderrahim Soubai-Elidrisi）撰写；作为作为 Web 开发人员，Abderrahim 的主要爱好是创建令人难忘的项目，以解决现实世界中的问题并满足业务需求。其中内容涵 [Tensorflow.js](https://nicelinks.site/post/60631f14bffb5e532f3be248)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、JavaScript、TypeScript 等内容。
+
 
 ── 出自[倾城之链 - All posts | Soubai's stories](https://nicelinks.site/post/6081087d9947e6213fe43a82)
 
@@ -52,9 +53,9 @@
 
 **关键字**：sourcery, refactoring, developer tools, python, ai
 
-> Sourcery instantly refactors your Python code. Try Sourcery for free to improve the quality of your code and speed up your team's development.
+>Sourcery instantly refactors your Python code. Try Sourcery for free to improve the quality of your code and speed up your team's development.
 
-![倾城之链 - Sourcery | Automatically Improve Python Code Quality](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sourcery.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Sourcery | Automatically Improve Python Code Quality](https://oss.nicelinks.site/sourcery.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Sourcery](https://nicelinks.site/redirect?url=https://sourcery.ai/)，一款自动提高 Python 代码质量的 AI 工具；它使用 [Sourcery](https://nicelinks.site/redirect?url=https://sourcery.ai/) 的编码助手，即时重构 Python 代码，使您的代码更清晰，更简洁，更 `Pythonic`；您可以在想要的地方使用，如将其添加到 PyCharm，添加到 VsCode 或者 Github。以下几个特征值得一提：
 
@@ -68,33 +69,33 @@
 
 **标签**：[`简历`](https://nicelinks.site/tags/简历) · [`工作`](https://nicelinks.site/tags/工作)
 
-**关键字**：简历模板, 个人简历模板, 免费简历模板, 简历模板下载 word 格式, 电子简历, 在线简历制作, 简历模板下载
+**关键字**：简历模板, 个人简历模板, 免费简历模板, 简历模板下载word格式, 电子简历, 在线简历制作, 简历模板下载
 
-> 极简简历是一个专业免费的个人简历制作平台，拥有专业简历模板，为求职者提供专业极致简约的简历模板，三分钟制作一份简历，可随时随地将在线制作的简历下载为图片、PDF、Word 格式文件。拥有优质海量简历模板、简历封面、英文简历、简历表格。
+>极简简历是一个专业免费的个人简历制作平台，拥有专业简历模板，为求职者提供专业极致简约的简历模板，三分钟制作一份简历，可随时随地将在线制作的简历下载为图片、PDF、Word 格式文件。拥有优质海量简历模板、简历封面、英文简历、简历表格。
 
-![倾城之链 - 极简简历模板 PoleBrief](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.polebrief.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 极简简历模板 PoleBrief](https://oss.nicelinks.site/www.polebrief.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[极简简历模板 PoleBrief](https://nicelinks.site/redirect?url=https://www.polebrief.com/)，一款优质的简历制作平台；它具有**优质模板**、 **快速制作**、**智能分析**等特征，详细描述为：
 
 ### 极致、简约、专业、优质
 
-- 非常 Nice 的简历模板。
-- 简约的风格，求职信息一目了然，告别花哨的外表。
-- HR 都喜欢的简历风格。
-- 优质的海量模板。
+* 非常Nice的简历模板。
+* 简约的风格，求职信息一目了然，告别花哨的外表。
+* HR都喜欢的简历风格。
+* 优质的海量模板。
 
 ### 优于 Word 写简历，告别复杂化
 
-- 你只需专注于简历内容的填写。
-- 简单的增加、删除、拖拽操作即可完成简历的制作。
-- PoleBrief 实现 Office 的大多数功能，支持富文本编辑等。
+* 你只需专注于简历内容的填写。
+* 简单的增加、删除、拖拽操作即可完成简历的制作。
+* PoleBrief实现 Office 的大多数功能，支持富文本编辑等。
 
 ### 更多的智能化功能
 
-- 目录的拖拽似乎更加方便快捷。
-- 提供海量的“内容模板”作为参考。
-- 边写、边看高分技巧。
-- 用智能的简历分析来高简历质量。
+* 目录的拖拽似乎更加方便快捷。
+* 提供海量的“内容模板”作为参考。
+* 边写、边看高分技巧。
+* 用智能的简历分析来高简历质量。
 
 只需用三个简单的步骤，即可创建你的求职简历：
 
@@ -110,26 +111,26 @@
 
 **关键字**：微信, 公众号, 服务器, 运维, 小工具, 消息推送
 
-> 正如「信达」所称，这是个在用户和服务器之间“送信”的应用。通过在公众号发送简短信令，服务器轮询到后即可执行特定指令完成工作。
+>正如「信达」所称，这是个在用户和服务器之间“送信”的应用。通过在公众号发送简短信令，服务器轮询到后即可执行特定指令完成工作。
 
-![倾城之链 - 「信达」将微信作为服务器的控制台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sender.xzhsh.ch.png?x-oss-process=style/png2jpg)
+![倾城之链 - 「信达」将微信作为服务器的控制台](https://oss.nicelinks.site/sender.xzhsh.ch.png?x-oss-process=style/png2jpg)
 
 **推荐语**：就像名字[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)一样，这是个在用户和服务器之间“送信”的应用。这个需求源自于调试时频繁的 docker pull、NAS 上按需触发的打卡脚本等待。于是需要一个从用户手机到服务器的消息发送工具。（不给脚本暴露 API 是因为懒而且 NAS 没公网）
 
-[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)的工作是这样的：微信公众号上发送信令（就是长得像指令的消息）；服务器保存这一个消息等到 Agent 轮询获取；Agent 根据信令匹配对应的 Shell 指令或者脚本（Hit: 关注公众号之后也需要到网站完成 Agent 创建）；[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)具有以下功能特征：
+[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)的工作是这样的：微信公众号上发送信令（就是长得像指令的消息）；服务器保存这一个消息等到 Agent轮询获取；Agent根据信令匹配对应的 Shell 指令或者脚本（Hit: 关注公众号之后也需要到网站完成 Agent 创建）；[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)具有以下功能特征：
 
-- 不发送 shell 命令，而是信令；
-- 保存执行日志；
-- 执行结果微信回复；
-- Agent 支持转发信令（HTTP Forward）；
-- 相当于内网穿透；
-- Agent 开源；
-- API 公开；
+* 不发送 shell 命令，而是信令；
+* 保存执行日志；
+* 执行结果微信回复；
+* Agent支持转发信令（HTTP Forward）；
+* 相当于内网穿透；
+* Agent开源；
+* API 公开；
 
 ── 出自[倾城之链 - 「信达」将微信作为服务器的控制台](https://nicelinks.site/post/607b831700d67605dca7de85)
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -137,9 +138,7 @@
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
@@ -150,7 +149,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

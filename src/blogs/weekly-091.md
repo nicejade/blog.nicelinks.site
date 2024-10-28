@@ -8,7 +8,7 @@
 
 > The Freedom to Create
 
-![倾城之链 - blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.blender.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://oss.nicelinks.site/www.blender.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Blender](https://nicelinks.site/redirect?url=https://www.blender.org/) 是一款**免费开源**三维图形图像软件，提供从建模、动画、材质、渲染、到音频处理、**视频剪辑**，甚至游戏创建等一系列动画短片制作解决方案（最早可追溯至 1988 年）。高级用户使用 Blender 的 Python 脚本 API 来定制应用程序并编写专门的工具；通常这些都包含在 Blender 的未来版本中。Blender 非常适合受益于其统一管道和响应式开发过程的个人和小型工作室。
 
@@ -32,7 +32,7 @@ Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏
 
 > PicSo is an AI-powered digital art generator that creates artistically styled images from input text. Enter any text prompt to create pictures in your chosen art style and turn your ideas/text into an AI-generated painting in seconds. Website and APP available.
 
-![倾城之链 - PicSo-Text To AI Art Maker](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picso.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - PicSo-Text To AI Art Maker](https://oss.nicelinks.site/picso.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[PicSo](https://nicelinks.site/redirect?url=https://picso.ai/) 是一个人工智能（[AI](https://nicelinks.site/tags/AI)）驱动的数字艺术生成器，可以从输入文本中创建具有艺术风格的图像。输入任何文本提示，以您选择的艺术风格创建图片，并在几秒钟内将您的想法/文本变成 AI 生成的绘画。网站和 APP 可用。
 
@@ -50,7 +50,7 @@ Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏
 
 > Generate or update existing images with our AI image editing tool.
 
-![倾城之链 - SceneryAI - AI-powered image editing](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sceneryai.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - SceneryAI - AI-powered image editing](https://oss.nicelinks.site/sceneryai.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SceneryAI](https://nicelinks.site/redirect?url=https://sceneryai.com/) ，人工智能驱动（[AI](https://nicelinks.site/tags/AI)）的图像编辑，可以快速生成或更新图像；使用 SceneryAI，您可以在 30 秒内更改照片的**主题**或**风景**。只需上传您的照片并删除您要更新的部分。SceneryAI 是内容营销人员、创作者和数字艺术家在几秒钟内更新他们的照片和创作的完美解决方案。
 
@@ -72,7 +72,7 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 > 大盘云图颠覆了以往看盘软件一成不变的红涨绿跌，它将所有股票按所属行业进行了板块划分，并以方块形式展示，用红色和绿色的深浅代表涨跌幅度，实现直观的展现大盘的全景图，适合股票爱好者和专业投资人使用盯盘使用，还可从不同的周期、资金流向、涨跌幅及量比等维度实时查看大盘最新数据
 
-![倾城之链 - 大盘云图 -大盘走势，尽在掌握!【官网】](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dapanyuntu.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 大盘云图 -大盘走势，尽在掌握!【官网】](https://oss.nicelinks.site/dapanyuntu.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[大盘云图](https://nicelinks.site/redirect?url=https://dapanyuntu.com) ，是一款智能股票盯盘工具网站（基于 React 等框架搭建），颠覆了以往看盘软件一成不变的红涨绿跌，它将所有股票按所属行业进行了板块划分，并以方块形式展示，用红色和绿色的深浅代表涨跌幅度，用颜色的深浅标注个股的异动情况，实现直观的展现，能够使投资者更清晰的感知市场的脉搏，更加贴近市场动向。
 
@@ -88,7 +88,7 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 > Qi Reader - The Modern RSS Feed Reader Web App .
 
-![倾城之链 - QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.qireader.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://oss.nicelinks.site/www.qireader.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[QiReader](https://nicelinks.site/redirect?url=https://www.qireader.com/)，优雅的全平台在线 RSS 阅读器，基于 PWA 解决方案搭建；它具有以下功能：
 
@@ -104,11 +104,9 @@ QiReader 基础版本免费可用，支持  50 订阅源；Pro 版本支持 300
 
 ── 出自[倾城之链 - QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://nicelinks.site/post/63665214e4cec4128ba68f15)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -116,27 +114,25 @@ QiReader 基础版本免费可用，支持  50 订阅源；Pro 版本支持 300
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 90 期）- 倾城之链](https://link.niceshare.site/weekly-090/)
-- [优质网站同好者周刊（第 89 期）- 倾城之链](https://link.niceshare.site/weekly-089/)
-- [优质网站同好者周刊（第 88 期）- 倾城之链](https://link.niceshare.site/weekly-088/)
-- [优质网站同好者周刊（第 87 期）- 倾城之链](https://link.niceshare.site/weekly-087/)
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
-- [优质网站同好者周刊（第 85 期）- 倾城之链](https://link.niceshare.site/weekly-085/)
-- [优质网站同好者周刊（第 84 期）- 倾城之链](https://link.niceshare.site/weekly-084/)
-- [优质网站同好者周刊（第 83 期）- 倾城之链](https://link.niceshare.site/weekly-083/)
-- [优质网站同好者周刊（第 82 期）- 倾城之链](https://link.niceshare.site/weekly-082/)
-- [优质网站同好者周刊（第 81 期）- 倾城之链](https://link.niceshare.site/weekly-081/)
-- [优质网站同好者周刊（第 80 期）- 倾城之链](https://link.niceshare.site/weekly-080/)
+- [优质网站同好者周刊（第 90 期）- 倾城之链](https://blog.nicelinks.site/weekly-090/)
+- [优质网站同好者周刊（第 89 期）- 倾城之链](https://blog.nicelinks.site/weekly-089/)
+- [优质网站同好者周刊（第 88 期）- 倾城之链](https://blog.nicelinks.site/weekly-088/)
+- [优质网站同好者周刊（第 87 期）- 倾城之链](https://blog.nicelinks.site/weekly-087/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
+- [优质网站同好者周刊（第 85 期）- 倾城之链](https://blog.nicelinks.site/weekly-085/)
+- [优质网站同好者周刊（第 84 期）- 倾城之链](https://blog.nicelinks.site/weekly-084/)
+- [优质网站同好者周刊（第 83 期）- 倾城之链](https://blog.nicelinks.site/weekly-083/)
+- [优质网站同好者周刊（第 82 期）- 倾城之链](https://blog.nicelinks.site/weekly-082/)
+- [优质网站同好者周刊（第 81 期）- 倾城之链](https://blog.nicelinks.site/weekly-081/)
+- [优质网站同好者周刊（第 80 期）- 倾城之链](https://blog.nicelinks.site/weekly-080/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

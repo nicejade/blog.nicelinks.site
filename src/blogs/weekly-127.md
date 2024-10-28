@@ -6,13 +6,13 @@
 
 **标签**：[`自托管`](https://nicelinks.site/tags/自托管) · [`开源`](https://nicelinks.site/tags/开源) · [`备份`](https://nicelinks.site/tags/备份)
 
-> immich Self-hosted photo and video backup solution directly from your mobile phone
+>immich Self-hosted photo and video backup solution directly from your mobile phone 
 
-![倾城之链 - Immich - High performance self-hosted photo and video backup solution](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/immich.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Immich - High performance self-hosted photo and video backup solution](https://oss.nicelinks.site/immich.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Immich](https://nicelinks.site/redirect?url=https://immich.app/) 高性能自托管照片和视频备份解决方案，直接从您的手机上进行。如果你想部署私有的照片或视频的托管服务，不想使用 iCloud 或者 Google photos 等云厂商的产品，不妨试试这个开源项目 Immich。
 
-Immich，它是高性能自托管的照片和视频备份解决方案，使用 Dart 编写，支持多端的 APP 和 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 快速部署功能；它重视隐私、记忆，以及在易于使用和友好的界面中回顾那些时刻的乐趣。值得说明的是：该项目正在**非常积极的**开发中（`WIP`）。预计会出现错误和更改。不要将其用作存储照片和视频的**唯一方式**。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/immich-app/immich)，从而了解更多。
+ Immich，它是高性能自托管的照片和视频备份解决方案，使用 Dart 编写，支持多端的 APP 和 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 快速部署功能；它重视隐私、记忆，以及在易于使用和友好的界面中回顾那些时刻的乐趣。值得说明的是：该项目正在**非常积极的**开发中（`WIP`）。预计会出现错误和更改。不要将其用作存储照片和视频的**唯一方式**。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/immich-app/immich)，从而了解更多。
 
 ── 出自[倾城之链 - Immich - High performance self-hosted photo and video backup solution](https://nicelinks.site/post/64b92824ba9d8868a2a4eddc)
 
@@ -22,15 +22,15 @@ Immich，它是高性能自托管的照片和视频备份解决方案，使用 D
 
 **关键字**：sniffnet, network, internet, monitor, rust
 
-> Whether you want to gather statistics, or you need to inspect more in depth what's going on in your network, Sniffnet will get you covered.
+>Whether you want to gather statistics, or you need to inspect more in depth what's going on in your network, Sniffnet will get you covered.
 
-![倾城之链 - Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.sniffnet.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://oss.nicelinks.site/www.sniffnet.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Sniffnet](https://nicelinks.site/redirect?url=https://www.sniffnet.net/) 是一款**网络监控工具**，用 Rust 编写的跨平台应用程序，可帮助您轻松跟踪互联网流量，**快速**且**简单**。无论您是想**收集统计数据**，还是需要**更深入地检查**网络中发生的情况，此应用程序都能满足您的要求。
 
 ### 您可以用 Sniffnet 做什么？
 
-- 🏷️ 选择一组**过滤器**应用于观察到的流量；
+- 🏷️选择一组**过滤器**应用于观察到的流量；
 - 📖 查看有关您的互联网流量的总体**统计数据**；
 - 📈 查看有关交通强度的**实时图表**；
 - 🌐 获取与您交换流量的主机的**域名**和**网络提供商**的详细信息；
@@ -38,8 +38,8 @@ Immich，它是高性能自托管的照片和视频备份解决方案，使用 D
 - 🌍 发现远程主机的**地理位置**；
 - ⭐ 保存您**最喜爱的**网络主机；
 - 🔉 设置自定义**通知**以在发生定义的网络事件时通知您；
-- 🎨 从 4 种不同的可用主题中选择最适合您的**风格**；
-- 🕵️‍♂️ 实时**检查您的每个网络连接**；
+- 🎨从 4 种不同的可用主题中选择最适合您的**风格**；
+- 🕵️‍♂️实时**检查您的每个网络连接**；
 - 📁 保存完整的**文本报告**，其中包含每个网络连接的详细信息：
   - 源 IP 地址和目的 IP 地址；
   - 源港和目的港；
@@ -61,15 +61,15 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 **标签**：[`社区`](https://nicelinks.site/tags/社区) · [`发现`](https://nicelinks.site/tags/发现) · [`产品`](https://nicelinks.site/tags/产品)
 
-**关键字**：科技产品, 智能硬件, iOS 限免, 订阅限免, Android 应用, 优秀网站, 免费发布应用, APP, 网站
+**关键字**：科技产品, 智能硬件, iOS限免, 订阅限免, Android应用, 优秀网站, 免费发布应用, APP, 网站
 
-> Mergeek.com 是一个产品爱好者社区。我们发现并介绍全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。发现全球最优质的限免产品，订阅限免，第一时间获取不错过；第一时间发现优秀科技产品，包括应用和智能硬件；开发者上线商品的第一站，在 Mergeek 免费发布的你产品，APP，软件，网站，硬件！
+>Mergeek.com 是一个产品爱好者社区。我们发现并介绍全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。发现全球最优质的限免产品，订阅限免，第一时间获取不错过；第一时间发现优秀科技产品，包括应用和智能硬件；开发者上线商品的第一站，在 Mergeek 免费发布的你产品，APP，软件，网站，硬件！
 
-![倾城之链 - Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mergeek.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://oss.nicelinks.site/mergeek.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mergeek.com](https://nicelinks.site/redirect?url=https://mergeek.com/) ：科技产品爱好者 [社区](https://nicelinks.site/tags/社区) ，旨在**发现并介绍**全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。如果你有很棒的产品（APP，软件，网站，硬件），该平台欢迎推荐。在 Mergeek，你可以为你的新产品找到对他们感兴趣的产品爱好者。
 
-[Mergeek.com](https://nicelinks.site/redirect?url=https://mergeek.com/) 致力于为仍在初创期的个人或团队提供产品发布及展示机会； 当你的产品还“不为人知”的时候，选择在 Mergeek 上发布你的产品，并拥有自己的产品**公共主页**，会为你带来很多种子用户，帮助你的产品成长。
+ [Mergeek.com](https://nicelinks.site/redirect?url=https://mergeek.com/) 致力于为仍在初创期的个人或团队提供产品发布及展示机会； 当你的产品还“不为人知”的时候，选择在 Mergeek 上发布你的产品，并拥有自己的产品**公共主页**，会为你带来很多种子用户，帮助你的产品成长。
 
 你也可以不断在此发布你的产品动态信息，让用户更加了解你以及你的产品； 同时，你还可以和社区用户进行交流，从而不断做出更优秀的产品。
 
@@ -83,9 +83,9 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`开源`](https://nicelinks.site/tags/开源) · [`免费`](https://nicelinks.site/tags/免费)
 
-> Free, local and privacy-aware chatbots
+>Free, local and privacy-aware chatbots
 
-![倾城之链 - GPT4All | various collection of powerful language models](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gpt4all.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - GPT4All | various collection of powerful language models](https://oss.nicelinks.site/gpt4all.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GPT4All](https://nicelinks.site/redirect?url=https://gpt4all.io/) ：一个免费使用、本地运行、具有隐私意识的聊天机器人。**无需 GPU 或互联网**。所提供的桌面程序客户端，支持 Windows、Mac、Ubuntu 等平台，您可以下载以探索 GPT4All 的功能，在您自己的硬件上，诸如：
 
@@ -96,7 +96,7 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 ### GPT4All 的工作原理
 
-GPT4All 是一个生态系统，用于训练和部署在消费级 CPU 上**本地运行的\*\***强大**且**定制的\*\*大型语言模型。
+GPT4All 是一个生态系统，用于训练和部署在消费级 CPU 上**本地运行的****强大**且**定制的**大型语言模型。
 
 目标很简单——成为任何个人或企业都可以自由使用、分发和构建的最佳指令调整助理式语言模型。
 
@@ -118,9 +118,9 @@ GPT4All 模型是一个 3GB - 8GB 文件，您可以下载该文件并将其插�
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`开源`](https://nicelinks.site/tags/开源) · [`AI`](https://nicelinks.site/tags/AI)
 
-> Train ChatGPT on Your Website Data and Build an AI Chatbot that can instantly answer your customers queries.
+>Train ChatGPT on Your Website Data and Build an AI Chatbot that can instantly answer your customers queries.
 
-![倾城之链 - WebWhiz - ChatGPT for your website](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.webwhiz.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - WebWhiz - ChatGPT for your website](https://oss.nicelinks.site/www.webwhiz.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WebWhiz](https://nicelinks.site/redirect?url=https://www.webwhiz.ai/) ，为您的网站定制 [ChatGPT](https://nicelinks.site/tags/ChatGPT)，在您的网站数据上训练 ChatGPT 并构建可以立即回答客户查询的 AI 聊天机器人。让 AI 处理支持问题，只需几分钟即可将 chatGPT 的功能添加到您的网站。无需编码。WebWhiz 具有如下功能特征：
 
@@ -164,9 +164,9 @@ WebWhiz 是免费且开源的，支持基于 [Docker](https://nicelinks.site/pos
 
 **标签**：[`数字游民`](https://nicelinks.site/tags/数字游民) · [`分享`](https://nicelinks.site/tags/分享) · [`生活指南`](https://nicelinks.site/tags/生活指南)
 
-> 明日故乡 ，中国版数字游民指南，找到你的下一个定居点。
+>明日故乡 ，中国版数字游民指南，找到你的下一个定居点。
 
-![倾城之链 - 明日故乡 - 中国版数字游民指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/guxiang.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - 明日故乡 - 中国版数字游民指南](https://oss.nicelinks.site/guxiang.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[明日故乡](https://nicelinks.site/redirect?url=https://guxiang.app/) 中国版 [数字游民](https://nicelinks.site/tags/数字游民) 指南（一个中国城市数据查询器），帮您找到你的下一个定居点；它旨在通过建立一个中国版的 Nomad List（数字游民数据库），来为想要逃离北上广深等超大型城市的中国青年做出决策参考。该项目于 2023 年 6 月开始公测。
 
@@ -182,15 +182,15 @@ WebWhiz 是免费且开源的，支持基于 [Docker](https://nicelinks.site/pos
 
 **标签**：[`学习`](https://nicelinks.site/tags/学习) · [`AI`](https://nicelinks.site/tags/AI) · [`翻译器`](https://nicelinks.site/tags/翻译器)
 
-> Trancy is a browser extension plugin that can help you learn a new language by watching YouTube and Netflix. You can turn your favorite content into learning material, which can improve your speaking and listening skills in a more realistic scenario. We have also integrated features from ChatGPT and Open AI to help you understand the meaning of words and analyze sentence grammar more deeply. Trancy is the most popular language learning Chrome extension plugin in 2023.
+>Trancy is a browser extension plugin that can help you learn a new language by watching YouTube and Netflix. You can turn your favorite content into learning material, which can improve your speaking and listening skills in a more realistic scenario. We have also integrated features from ChatGPT and Open AI to help you understand the meaning of words and analyze sentence grammar more deeply. Trancy is the most popular language learning Chrome extension plugin in 2023.
 
-![倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.trancy.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://oss.nicelinks.site/www.trancy.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Trancy Chrome](https://nicelinks.site/redirect?url=https://www.trancy.org/) ，一个专为语言学习者设计的全能工具，除了支 YouTube / Netflix 双语字幕，Trancy 还提供了网页 [AI](https://nicelinks.site/tags/AI) 划词翻译和全文翻译等功能，你可以巧妙地将内容转化为自己的语言学习资料。借助 Trancy，你可以体验高效且有趣的沉浸式语言学习。它具有如下功能特征：
+**推荐语**：[Trancy Chrome](https://nicelinks.site/redirect?url=https://www.trancy.org/) ，一个专为语言学习者设计的全能工具，除了支 YouTube / Netflix双语字幕，Trancy 还提供了网页 [AI](https://nicelinks.site/tags/AI) 划词翻译和全文翻译等功能，你可以巧妙地将内容转化为自己的语言学习资料。借助Trancy，你可以体验高效且有趣的沉浸式语言学习。它具有如下功能特征：
 
 ### 视频双语字幕
 
-精准的双语字幕翻译，剧场和阅读两种观景模式全方位助力口语和听力练习。在 YouTube / Netflix 找你自己感兴趣的视频，借助于 trancy 提供的双语字幕功能，快速的理解视频内容，在看懂的基础上练习听力和口语，一举两得。
+精准的双语字幕翻译，剧场和阅读两种观景模式全方位助力口语和听力练习。在 YouTube  / Netflix 找你自己感兴趣的视频，借助于 trancy 提供的双语字幕功能，快速的理解视频内容，在看懂的基础上练习听力和口语，一举两得。
 
 **字幕阅读模式**：Trancy 提供了创新的阅读模式，将视频缩小至一侧，字幕以文章的方式展现，在此模式下你可以将注意力集中在字幕上，更好的理解句子的上下文关系，快速了解视频概要。除此之外在各种辅助和快捷工具的帮助下，你可以调整字幕字体及大小，快速收藏单词和例句。
 
@@ -232,39 +232,35 @@ Trancy 沉浸式上下文对照翻译，打破信息壁垒，遨游更广的知�
 
 ── 出自[倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://nicelinks.site/post/64b3b161ba9d8868a2a4c66a)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-好丑心太明，则物不契；贤愚心太明，则人不亲。须是内精明，而外浑厚，使好丑两得其平，贤愚共受其益，才是生成的德量。── 明代 · 陈继儒《小窗幽记·集醒篇》
+好丑心太明，则物不契；贤愚心太明，则人不亲。须是内精明，而外浑厚，使好丑两得其平，贤愚共受其益，才是生成的德量。── 明代 ·  陈继儒《小窗幽记·集醒篇》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 126 期）- 倾城之链](https://link.niceshare.site/weekly-126/)
-- [优质网站同好者周刊（第 125 期）- 倾城之链](https://link.niceshare.site/weekly-125/)
-- [优质网站同好者周刊（第 124 期）- 倾城之链](https://link.niceshare.site/weekly-124/)
-- [优质网站同好者周刊（第 123 期）- 倾城之链](https://link.niceshare.site/weekly-123/)
-- [优质网站同好者周刊（第 122 期）- 倾城之链](https://link.niceshare.site/weekly-122/)
-- [优质网站同好者周刊（第 121 期）- 倾城之链](https://link.niceshare.site/weekly-121/)
-- [优质网站同好者周刊（第 120 期）- 倾城之链](https://link.niceshare.site/weekly-120/)
-- [优质网站同好者周刊（第 119 期）- 倾城之链](https://link.niceshare.site/weekly-119/)
-- [优质网站同好者周刊（第 118 期）- 倾城之链](https://link.niceshare.site/weekly-118/)
-- [优质网站同好者周刊（第 117 期）- 倾城之链](https://link.niceshare.site/weekly-117/)
-- [优质网站同好者周刊（第 116 期）- 倾城之链](https://link.niceshare.site/weekly-116/)
+- [优质网站同好者周刊（第 126 期）- 倾城之链](https://blog.nicelinks.site/weekly-126/)
+- [优质网站同好者周刊（第 125 期）- 倾城之链](https://blog.nicelinks.site/weekly-125/)
+- [优质网站同好者周刊（第 124 期）- 倾城之链](https://blog.nicelinks.site/weekly-124/)
+- [优质网站同好者周刊（第 123 期）- 倾城之链](https://blog.nicelinks.site/weekly-123/)
+- [优质网站同好者周刊（第 122 期）- 倾城之链](https://blog.nicelinks.site/weekly-122/)
+- [优质网站同好者周刊（第 121 期）- 倾城之链](https://blog.nicelinks.site/weekly-121/)
+- [优质网站同好者周刊（第 120 期）- 倾城之链](https://blog.nicelinks.site/weekly-120/)
+- [优质网站同好者周刊（第 119 期）- 倾城之链](https://blog.nicelinks.site/weekly-119/)
+- [优质网站同好者周刊（第 118 期）- 倾城之链](https://blog.nicelinks.site/weekly-118/)
+- [优质网站同好者周刊（第 117 期）- 倾城之链](https://blog.nicelinks.site/weekly-117/)
+- [优质网站同好者周刊（第 116 期）- 倾城之链](https://blog.nicelinks.site/weekly-116/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

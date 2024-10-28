@@ -8,7 +8,7 @@
 
 > An open-source, self-hosted memo hub with knowledge management and collaboration.
 
-![倾城之链 - Memos - 具有知识管理和协作功能的开源自托管备忘录中心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/usememos.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Memos - 具有知识管理和协作功能的开源自托管备忘录中心](https://oss.nicelinks.site/usememos.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Memos](https://nicelinks.site/redirect?url=https://usememos.com/) ，具有 [知识管理](https://nicelinks.site/tags/知识管理) 和 [协作](https://nicelinks.site/tags/协作) 功能的开源**自托管**备忘录中心；基于 [Go](https://nicelinks.site/post/606aa86a00d67605dca7de5c) 、TypeScript、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、Less、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) HTML 等编写；该团队在 Github 上有介绍到它具备以下功能：
 
@@ -28,7 +28,7 @@
 
 > CS 自学指南（计算机自学指南），Everyone should enjoy CS if you have a good teacher to teach you a good course.
 
-![倾城之链 - CS 自学指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/csdiy.wiki.png?x-oss-process=style/png2jpg)
+![倾城之链 - CS 自学指南](https://oss.nicelinks.site/csdiy.wiki.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[CS 自学指南](https://nicelinks.site/redirect?url=https://csdiy.wiki/) ，一本计算机科学自学指南（`CS`：Computer Science 的缩写），主要由北京大学一名同学编写（贡献者颇多），也是作者对自己大学三年自学生涯的一个纪念。该课程支持**免费在线**阅读，并在 Github 开源，截止 2022 年 11 月，已有 14K Star。作者认为：如果你有一位好老师教你一门好课程，每个人都应该喜欢 CS（计算机科学），深有同感。
 
@@ -58,7 +58,7 @@
 
 > Limitless productivity in a productivity-less world.
 
-![倾城之链 - Raycast - Supercharged productivity](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.raycast.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Raycast - Supercharged productivity](https://oss.nicelinks.site/www.raycast.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Raycast](https://nicelinks.site/redirect?url=https://www.raycast.com/) 是一款速度极快、完全可扩展的发射器。它可以让您完成任务、计算、共享常用链接等。与其功能类似的产品有：macOS 的「聚焦（Spotlight）」、[Alfred](https://nicelinks.site/post/5ae926e67b44827edbc5c69a) 等；Raycast 堪称是为开发人员定制的生产力工具，它具有以下功能特性：
 
@@ -125,7 +125,7 @@ Raycast 不仅仅是个人的工具。它也是一种工具，**专为共享而�
 
 > Wasmer - The Universal WebAssembly Runtime
 
-![倾城之链 - Wasmer - The Universal WebAssembly Runtime](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wasmer.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Wasmer - The Universal WebAssembly Runtime](https://oss.nicelinks.site/wasmer.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：
 [Wasmer](https://nicelinks.site/redirect?url=https://wasmer.io/) 🚀 支持 WASI 和 Emscripten 的领先 WebAssembly 运行时。它提供基于 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 的超轻量级容器，使得可以在任何地方运行：从桌面到云、以及 IoT 设备，并且也能嵌入到 [任何编程语言](https://github.com/wasmerio/wasmer#language-integrations) 中。它具有以下功能特性：
@@ -178,7 +178,7 @@ wapm run cowsay '倾城之链'
 
 > Deep Learning for humans. Keras documentation.
 
-![倾城之链 - Keras: the Python deep learning API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/keras.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Keras: the Python deep learning API](https://oss.nicelinks.site/keras.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Keras](https://nicelinks.site/redirect?url=http://keras.io/) 是一个用 Python 编写的开源神经网路库，从 2021 年 8 月的版本 2.6 开始，它是在 [TensorFlow 2](https://nicelinks.site/tags/TensorFlow) 上建立的高层 API；在版本 2.4 及以前能够在 TensorFlow、Microsoft Cognitive Toolkit、Theano 或 PlaidML 多个后端之上执行。Keras 旨在**快速实现深度神经网路，专注于使用者友好、模组化和可延伸性**，是 ONEIROS（开放式神经电子智慧机器人作业系统）专案研究工作的部分产物，主要作者和维护者是 Google 工程师 François Chollet (弗朗索瓦·肖莱，也是 XCeption 深度神经网路模型的作者)。Keras 主要特征是：**简单**、**灵活**、**强大**。除此之外，它还具有以下特色：
 
@@ -216,7 +216,7 @@ Keras，**人类的深度学习**。由于其易用性和对用户体验的关�
 
 > Pull content from anywhere and serve it fast with Astro's next-gen island architecture. Astro is the web framework that you'll enjoy using.
 
-![倾城之链 - Astro | Build faster websites](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/astro.build.png?x-oss-process=style/png2jpg)
+![倾城之链 - Astro | Build faster websites](https://oss.nicelinks.site/astro.build.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Astro](https://nicelinks.site/redirect?url=https://astro.build/) ，是现代网络的网站构建工具：强大的开发者体验满足轻量级输出。从任何地方提取内容并使用 Astro 的下一代岛式架构快速提供内容，受到超过 30,000 名开发人员和世界级团队的信赖。它具有以下功能特征：
 
@@ -260,11 +260,9 @@ Astro 在 Github 开源，通过 [npm](https://nicelinks.site/post/6216392f2d17f
 
 ── 出自[倾城之链 - Astro | Build faster websites](https://nicelinks.site/post/63788ad1049fa51046c4a5bd)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -272,27 +270,25 @@ Astro 在 Github 开源，通过 [npm](https://nicelinks.site/post/6216392f2d17f
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 92 期）- 倾城之链](https://link.niceshare.site/weekly-092/)
-- [优质网站同好者周刊（第 91 期）- 倾城之链](https://link.niceshare.site/weekly-091/)
-- [优质网站同好者周刊（第 90 期）- 倾城之链](https://link.niceshare.site/weekly-090/)
-- [优质网站同好者周刊（第 89 期）- 倾城之链](https://link.niceshare.site/weekly-089/)
-- [优质网站同好者周刊（第 88 期）- 倾城之链](https://link.niceshare.site/weekly-088/)
-- [优质网站同好者周刊（第 87 期）- 倾城之链](https://link.niceshare.site/weekly-087/)
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
-- [优质网站同好者周刊（第 85 期）- 倾城之链](https://link.niceshare.site/weekly-085/)
-- [优质网站同好者周刊（第 84 期）- 倾城之链](https://link.niceshare.site/weekly-084/)
-- [优质网站同好者周刊（第 83 期）- 倾城之链](https://link.niceshare.site/weekly-083/)
-- [优质网站同好者周刊（第 82 期）- 倾城之链](https://link.niceshare.site/weekly-082/)
+- [优质网站同好者周刊（第 92 期）- 倾城之链](https://blog.nicelinks.site/weekly-092/)
+- [优质网站同好者周刊（第 91 期）- 倾城之链](https://blog.nicelinks.site/weekly-091/)
+- [优质网站同好者周刊（第 90 期）- 倾城之链](https://blog.nicelinks.site/weekly-090/)
+- [优质网站同好者周刊（第 89 期）- 倾城之链](https://blog.nicelinks.site/weekly-089/)
+- [优质网站同好者周刊（第 88 期）- 倾城之链](https://blog.nicelinks.site/weekly-088/)
+- [优质网站同好者周刊（第 87 期）- 倾城之链](https://blog.nicelinks.site/weekly-087/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
+- [优质网站同好者周刊（第 85 期）- 倾城之链](https://blog.nicelinks.site/weekly-085/)
+- [优质网站同好者周刊（第 84 期）- 倾城之链](https://blog.nicelinks.site/weekly-084/)
+- [优质网站同好者周刊（第 83 期）- 倾城之链](https://blog.nicelinks.site/weekly-083/)
+- [优质网站同好者周刊（第 82 期）- 倾城之链](https://blog.nicelinks.site/weekly-082/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

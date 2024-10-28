@@ -8,7 +8,7 @@
 
 > do what you love and master it! 做你喜欢做的事并掌握它！
 
-![倾城之链 - doyoudo | 学习可以很有趣](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.doyoudo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - doyoudo | 学习可以很有趣](https://oss.nicelinks.site/www.doyoudo.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 一个设计领域的在线学习平台。在线教育产品中，这是一个另类的存在；确切来讲，[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 像是几个有共同爱好的伙伴，共同维护的团队博客，时不时地分享些原创的、有价值视频教程，给到想有所提升的朋友们。他们以「**学习可以很有趣**」为核心，视频教程以幽默、有趣为主调；其教程涉及不同的领域，包括平面设计、视频剪辑、动画包装、音乐制作等等；每个教程都是一个实例，看完就能跟着做出效果。值得一提的是，[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 虽然也提供付费教程，更多则是**免费**，业界良心。除了网站外，[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 还维护微信公众号，哔哩哔哩、YouTube 等平台账号。
 
@@ -22,7 +22,7 @@
 
 > TickTick，一个帮你高效完成任务和规划时间的应用，是一款拥有跨设备云同步、周期提醒、清单管理、清晰分类、协作和集成日历的应用，你可以在 Web、Android、iPhone 等设备上使用它。
 
-![倾城之链 - TickTick: 一个帮你高效完成任务和规划时间的应用](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ticktick.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - TickTick: 一个帮你高效完成任务和规划时间的应用](https://oss.nicelinks.site/ticktick.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TickTick](https://nicelinks.site/redirect?url=https://ticktick.com/) 一个帮你高效完成任务和规划时间的应用，一款易于使用的一体化生产力应用程序；它通过管理待办事项、在日历上安排日程、记笔记以及将注意力集中在一个地方，帮助人们充分利用他们的生活。具体来讲，使用 [TickTick](https://nicelinks.site/redirect?url=https://ticktick.com/) 可以帮您的工作和生活，带来如下效率提升：
 
@@ -39,7 +39,7 @@
 
 > 突字幕是一个极简的自动加字幕工具，它能够自动识别视频内的对话，并转化为字幕文件（.srt），为视频自动添加字幕的工具，1 小时视频，只需要 3 分钟的处理时间，还能直接将字幕压制在视频上，适合于视频自媒体、短视频、vlog，非常节省时间。
 
-![倾城之链 - 突字幕](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/2zimu.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 突字幕](https://oss.nicelinks.site/2zimu.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[突字幕](https://nicelinks.site/redirect?url=https://2zimu.com/)是一款极简的自动加字幕工具，由[北京毛线球科技有限公司](https://nicelinks.site/redirect?url=https://www.niucodata.com/)出品（[倾城](https://nicelinks.site/)所收录的[面包多](https://nicelinks.site/post/601165ca0c71de1fb957b650)（为创作者创收）也是该公司所生产）；用户上传视频，在几分钟内即可得到字幕；它具有以下功能特征：
 
@@ -58,7 +58,7 @@
 
 > Fuchsia 中文社区主要关注 Google 全新操作系统 Fuchsia OS 及生态、Zircon 内核、基于 Fuchsia/Flutter/Dart 的学习、开发、交流，同时提供 Fuchsia 论坛与国内镜像。
 
-![倾城之链 - Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fuchsia-china.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://oss.nicelinks.site/fuchsia-china.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Fuchsia OS 中文社区](https://nicelinks.site/redirect?url=https://fuchsia-china.com/)是关注 Google 全新物联网操作系统 Fuchsia OS 的中文社区，提供一个完全非营利、旨在帮助学习、了解 Fuchsia OS 的开发和使用、关注最新开发进度、汇整学习教程、分享资料的一个交流社区。同时关注的内容包括 Fuchsia 系统开发、Zircon 内核、基于 Fuchsia/Flutter/Dart 的 App 开发、学习、生态搭建等等，并且负责维护 [Fuchsia 中文论坛](https://nicelinks.site/redirect?url=https://forum.fuchsia-china.com/)与 [Fuchsia 国内镜像](https://nicelinks.site/redirect?url=https://mirrors.hexang.com/)。
 
@@ -74,7 +74,7 @@
 
 > dowebok 意为做好网站，为用户提供代码、素材、特效、教程、模板等建站服务。
 
-![倾城之链 - dowebok - 做好网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dowebok.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - dowebok - 做好网站](https://oss.nicelinks.site/www.dowebok.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dowebok](https://nicelinks.site/redirect?url=https://www.dowebok.com/) 是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，旨在为用户提供代码、素材、特效、教程、模板等建站服务。从粗略体验上看，所提供的代码，主要是前端相关，如小程序、Vue、Html5 等。对于该网站所提供的「**素材**」，表示挺不错；一来是因为制作精良；二来，[Dowebok](https://nicelinks.site/redirect?url=https://www.dowebok.com/) 提供多种不同下载方式（百度网盘、本地下载、借助城通网盘会员下载等）；三，对于资源并没有做严格限制（如添加水印等），直接保存亦能使用，可以说在这个物欲横流的时代，十分良心了。
 
@@ -88,7 +88,7 @@
 
 > 西瓜视频是一个开眼界、涨知识的视频 App，作为国内领先的中视频平台，它源源不断地为不同人群提供优质内容，让人们看到更丰富和有深度的世界，收获轻松的获得感，点亮对生活的好奇心。
 
-![倾城之链 - 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ixigua.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://oss.nicelinks.site/www.ixigua.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[西瓜视频](https://nicelinks.site/redirect?url=https://www.ixigua.com/)是字节跳动旗下的中视频平台 ，2016 年 5 月正式上线；它以“点亮对生活的好奇心”为 Slogan。西瓜视频通过人工智能个性化推荐，源源不断地为不同人群提供优质内容，同时鼓励多样化创作，帮助每个人发现自己喜欢的视频，并帮助视频创作人们轻松地向全世界分享自己的视频作品。其视频分为：音乐、财经、影视、VLOG、农人、游戏、美食、儿童、生活、体育、文化、时尚、科技等品类。
 
@@ -100,7 +100,7 @@
 
 > 持续追踪热点新闻事件
 
-![倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/houxu.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://oss.nicelinks.site/houxu.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[后续](https://nicelinks.site/redirect?url=https://houxu.app/)旨在塑造有记忆的新闻。这是一个能够帮助你持续关注，并实时追踪热点事件的新闻工具。在「[后续](https://nicelinks.site/redirect?url=https://houxu.app/)」里，你可以看到当下引起广泛讨论的热点新闻，点击相关的标题可以看到具体事件的描述、相关人物和时间线。「后续」的特色就是将同一新闻事件的持续进展作为事件的推进依据，按照时间线顺序进行了整理和展示，让你能够更快、更直观地了解事件的历史和当前的状态。
 
@@ -114,9 +114,9 @@
 
 ── 出自[倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://nicelinks.site/post/60b3a63e219b1d7d88219d63)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -124,9 +124,7 @@
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 

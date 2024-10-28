@@ -2,13 +2,13 @@
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF 翻译, 字幕翻译](https://nicelinks.site/post/64f0b1833fed3e7c9588878c)
+## [沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译](https://nicelinks.site/post/64f0b1833fed3e7c9588878c)
 
 **标签**：[`翻译器`](https://nicelinks.site/tags/翻译器) · [`插件`](https://nicelinks.site/tags/插件) · [`效率`](https://nicelinks.site/tags/效率)
 
-> 沉浸式翻译是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF 文件翻译，EPUB 电子书双语翻译、制作、导出，字幕文件翻译等功能。
+>沉浸式翻译是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF文件翻译，EPUB电子书双语翻译、制作、导出，字幕文件翻译等功能。
 
-![倾城之链 - 沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/immersivetranslate.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译](https://oss.nicelinks.site/immersivetranslate.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[沉浸式翻译](https://nicelinks.site/redirect?url=https://immersivetranslate.com/) 是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF 文件翻译，EPUB 电子书双语翻译、制作、导出，字幕文件翻译等功能。免费使用，支持 Deepl、Google、 [有道](https://nicelinks.site/post/5b3753d1187e143b63cf01ee) 、腾讯翻译等多个翻译服务，支持 Firefox、Chrome、油猴脚本，亦可在 iOS Safari 上使用。主要有以下功能特性：
 
@@ -29,7 +29,7 @@
 
 一款免费的，好用的，没有废话的，革命性的，饱受赞誉的， [AI](https://nicelinks.site/tags/AI) 驱动的双语网页翻译扩展，帮助你有效地打破信息差；值得一提的是，它在手机上也可以用。如果您对其感兴趣，可前往 [About 沉浸式翻译](https://immersivetranslate.com/docs/usage/) 了解**如何使用**。
 
-── 出自[倾城之链 - 沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF 翻译, 字幕翻译](https://nicelinks.site/post/64f0b1833fed3e7c9588878c)
+── 出自[倾城之链 - 沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译](https://nicelinks.site/post/64f0b1833fed3e7c9588878c)
 
 ## [Skeleton — UI Toolkit for Svelte + Tailwind](https://nicelinks.site/post/64f0a31f3fed3e7c95888411)
 
@@ -37,9 +37,9 @@
 
 **关键字**：svelte, sveltekit, web, ui, components, reactive, accessibility, typescript, css, open source
 
-> Skeleton is a fully featured UI Toolkit for building reactive interfaces quickly using Svelte and Tailwind.
+>Skeleton is a fully featured UI Toolkit for building reactive interfaces quickly using Svelte and Tailwind.
 
-![倾城之链 - Skeleton — UI Toolkit for Svelte + Tailwind](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.skeleton.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Skeleton — UI Toolkit for Svelte + Tailwind](https://oss.nicelinks.site/www.skeleton.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Skeleton](https://nicelinks.site/redirect?url=https://www.skeleton.dev/) 是一个使用 [Svelte](https://nicelinks.site/tags/Svelte) + [Tailwind](https://nicelinks.site/tags/Tailwind) 构建的开源 UI 工具包，允许您使用 Svelte + Tailwind CSS 创建反应式 Web 界面。它具有如下功能特征：
 
@@ -47,7 +47,7 @@
 
 Skeleton 直接与 Svelte 和 SvelteKit 的最佳功能集成，包括组件、存储、操作等。提供交互式组件、图像过滤器等等。
 
-### 通过 Tailwind CSS 进行了增强。
+###  通过 Tailwind CSS 进行了增强。
 
 Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法，使您能够创建或扩展自己的个人设计系统。
 
@@ -89,9 +89,9 @@ Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法�
 
 **关键字**：Markdown, MDX, Markdown editor, MDX editor, Markdown preview, MDX preview, AI Markdown, AI MDX, AI Markdown editor, AI MDX editor, MarkDX editor, MarkDX
 
-> MarkDX is an open source AI markdown editor, which can help you write markdown documents more efficiently.
+>MarkDX is an open source AI markdown editor, which can help you write markdown documents more efficiently.
 
-![倾城之链 - MarkDX - AI Markdown Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.markdx.site.png?x-oss-process=style/png2jpg)
+![倾城之链 - MarkDX - AI Markdown Editor](https://oss.nicelinks.site/www.markdx.site.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MarkDX](https://nicelinks.site/redirect?url=https://www.markdx.site/) ，是一个 Markdown 编辑器，它利用 [AI](https://nicelinks.site/tags/AI) 让标准 [Markdown](https://nicelinks.site/tags/Markdown) 变得更加强大。以下是 MarkDX 的一些功能特征：
 
@@ -127,9 +127,9 @@ Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法�
 
 **标签**：[`动画`](https://nicelinks.site/tags/动画) · [`程序库`](https://nicelinks.site/tags/程序库) · [`开源`](https://nicelinks.site/tags/开源)
 
-> A zero-config, drop-in animation utility that automatically adds smooth transitions to your web app. Use it with React, Solid, Vue, Svelte, or any other JavaScript application.
+>A zero-config, drop-in animation utility that automatically adds smooth transitions to your web app. Use it with React, Solid, Vue, Svelte, or any other JavaScript application.
 
-![倾城之链 - AutoAnimate - Add motion to your apps with a single line of code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/auto-animate.formkit.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AutoAnimate - Add motion to your apps with a single line of code](https://oss.nicelinks.site/auto-animate.formkit.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AutoAnimate](https://nicelinks.site/redirect?url=https://auto-animate.formkit.com/) 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、[Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf) 或任何其他 JavaScript 应用程序一起使用。
 
@@ -153,9 +153,9 @@ AutoAnimate 的目标是消除对 DOM 的更改，否则最终用户会感到困
 
 **标签**：[`组件`](https://nicelinks.site/tags/组件) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
 
-> A JavaScript library to position floating elements and create interactions for them.
+>A JavaScript library to position floating elements and create interactions for them.
 
-![倾城之链 - Floating UI - Create tooltips, popovers, dropdowns, and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/floating-ui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Floating UI - Create tooltips, popovers, dropdowns, and more](https://oss.nicelinks.site/floating-ui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Floating UI](https://nicelinks.site/redirect?url=https://floating-ui.com/) 是一个小型 [JavaScript](https://nicelinks.site/tags/JavaScript) 工具库，可帮助您创建“浮动”元素，例如工具提示、弹出窗口、下拉菜单等。它提供两个主要功能：
 
@@ -172,48 +172,45 @@ AutoAnimate 的目标是消除对 DOM 的更改，否则最终用户会感到困
 
 除了 Web、 [React DOM](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、React Native 和 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 的官方绑定之外，Floating UI 还支持，并且每个模块都可以由您的打包程序完全进行树摇动（ Fully Tree-Shakeable），因此您不用担心造成应用体积增大。浮动 UI 是免费且开源的，如果您对其感兴趣，不妨移步 [Github 开源仓库](https://github.com/floating-ui/floating-ui) 从而了解更多。
 
+
 ── 出自[倾城之链 - Floating UI - Create tooltips, popovers, dropdowns, and more](https://nicelinks.site/post/64ede03a3fed3e7c95886f4a)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-**未曾走到绝境路彼岸花不开，  
-辛酸只为长安远倒卧在琼台**，  
-小心那流射的海市售卖开花杖，  
-辽遥的天河啊纷纷流淌的挽歌郎，  
-**蓝采和啊 醉酒当歌，  
-红颜易老转眼桑田泛清波**。  
-── 著名歌手 词曲创作人 音乐制作人 · 刀郎《翩翩》
+**未曾走到绝境路彼岸花不开，   
+辛酸只为长安远倒卧在琼台**，   
+小心那流射的海市售卖开花杖，   
+辽遥的天河啊纷纷流淌的挽歌郎，   
+**蓝采和啊 醉酒当歌，   
+红颜易老转眼桑田泛清波**。   
+──著名歌手 词曲创作人 音乐制作人 · 刀郎《翩翩》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 132 期）- 倾城之链](https://link.niceshare.site/weekly-132/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
-- [优质网站同好者周刊（第 129 期）- 倾城之链](https://link.niceshare.site/weekly-129/)
-- [优质网站同好者周刊（第 128 期）- 倾城之链](https://link.niceshare.site/weekly-128/)
-- [优质网站同好者周刊（第 127 期）- 倾城之链](https://link.niceshare.site/weekly-127/)
-- [优质网站同好者周刊（第 126 期）- 倾城之链](https://link.niceshare.site/weekly-126/)
-- [优质网站同好者周刊（第 125 期）- 倾城之链](https://link.niceshare.site/weekly-125/)
-- [优质网站同好者周刊（第 124 期）- 倾城之链](https://link.niceshare.site/weekly-124/)
-- [优质网站同好者周刊（第 123 期）- 倾城之链](https://link.niceshare.site/weekly-123/)
-- [优质网站同好者周刊（第 122 期）- 倾城之链](https://link.niceshare.site/weekly-122/)
-- [优质网站同好者周刊（第 121 期）- 倾城之链](https://link.niceshare.site/weekly-121/)
+- [优质网站同好者周刊（第 132 期）- 倾城之链](https://blog.nicelinks.site/weekly-132/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
+- [优质网站同好者周刊（第 129 期）- 倾城之链](https://blog.nicelinks.site/weekly-129/)
+- [优质网站同好者周刊（第 128 期）- 倾城之链](https://blog.nicelinks.site/weekly-128/)
+- [优质网站同好者周刊（第 127 期）- 倾城之链](https://blog.nicelinks.site/weekly-127/)
+- [优质网站同好者周刊（第 126 期）- 倾城之链](https://blog.nicelinks.site/weekly-126/)
+- [优质网站同好者周刊（第 125 期）- 倾城之链](https://blog.nicelinks.site/weekly-125/)
+- [优质网站同好者周刊（第 124 期）- 倾城之链](https://blog.nicelinks.site/weekly-124/)
+- [优质网站同好者周刊（第 123 期）- 倾城之链](https://blog.nicelinks.site/weekly-123/)
+- [优质网站同好者周刊（第 122 期）- 倾城之链](https://blog.nicelinks.site/weekly-122/)
+- [优质网站同好者周刊（第 121 期）- 倾城之链](https://blog.nicelinks.site/weekly-121/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

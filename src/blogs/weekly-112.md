@@ -6,9 +6,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`平台`](https://nicelinks.site/tags/平台) · [`深度学习`](https://nicelinks.site/tags/深度学习)
 
-> Making big AI models cheaper, easier, and scalable
+>Making big AI models cheaper, easier, and scalable
 
-![倾城之链 - Colossal-AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/colossalai.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Colossal-AI](https://oss.nicelinks.site/colossalai.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Colossal-AI](https://nicelinks.site/redirect?url=https://colossalai.org/) 是一个 [开源](https://nicelinks.site/tags/开源) 服务，旨在提供一个可扩展、高度灵活且易于使用的 AI 执行框架，以帮助 AI 研究人员和数据科学家快速，高效地实现他们的项目。Colossal-AI 是一个开源的 AI 模型训练平台，主要功能特征如下：
 
@@ -33,9 +33,9 @@
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`网站`](https://nicelinks.site/tags/网站) · [`开源`](https://nicelinks.site/tags/开源)
 
-> SpeechGPT: SpeechGPT is a web application that enables you to converse with ChatGPT
+>SpeechGPT: SpeechGPT is a web application that enables you to converse with ChatGPT
 
-![倾城之链 - SpeechGPT ｜ 一个网络应用程序，可让您与 ChatGPT 交谈](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/speechgpt.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - SpeechGPT ｜ 一个网络应用程序，可让您与 ChatGPT 交谈](https://oss.nicelinks.site/speechgpt.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SpeechGPT](https://nicelinks.site/redirect?url=https://speechgpt.app/) 是一个让你与 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 聊天的网站（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 等技术栈搭建）。你可以使用 SpeechGPT 来练习你的口语，或者你只是和 ChatGPT 聊天。它主要有以下几个功能特点：
 
@@ -54,11 +54,11 @@
 
 **标签**：[`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`CSS`](https://nicelinks.site/tags/CSS) · [`组件库`](https://nicelinks.site/tags/组件库)
 
-> Free Tailwind CSS Components That Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid with elegant Dark Mode.
+>Free Tailwind CSS Components That Support RTL Languages & Fully Responsive Based On Flexbox & CSS Grid with elegant Dark Mode.
 
-![倾城之链 - Meraki UI Free Tailwind CSS Components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/merakiui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Meraki UI Free Tailwind CSS Components](https://oss.nicelinks.site/merakiui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Meraki UI Free Tailwind CSS Components](https://merakiui.com/) 是一个提供免费 UI 组件、模板和代码片段的网站，用以支持开发者使用**优雅**、**现代**和**可自定义**的 UI 组件构建您的网站。其主要特点包括：
+**推荐语**：[Meraki UI Free Tailwind CSS Components](https://merakiui.com/) 是一个提供免费 UI 组件、模板和代码片段的网站，用以支持开发者使用**优雅**、**现代**和**可自定义**的UI 组件构建您的网站。其主要特点包括：
 
 1.  **提供丰富的 UI 组件**：Meraki UI 提供了各种类型的 UI 组件，包括按钮、表单、卡片、导航栏、列表等常用组件，以及一些特殊组件如进度条、时间轴等。这些组件设计简洁、美观，容易定制和使用。
 
@@ -82,9 +82,9 @@ Meraki UI 是响应式 [Tailwind](https://nicelinks.site/tags/Tailwind) CSS 组�
 
 **关键字**：Host Site, Host Website, Free Web Hosting, Static Hosting, JAMstack, Simple Web Hosting, Easy Web Hosting, Upload Presentation
 
-> Tiiny Host is the simplest way to share your web project. Get feedback faster.
+>Tiiny Host is the simplest way to share your web project. Get feedback faster.
 
-![倾城之链 - tiiny.host - The simplest way to share your web project](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tiiny.host.png?x-oss-process=style/png2jpg)
+![倾城之链 - tiiny.host - The simplest way to share your web project](https://oss.nicelinks.site/tiiny.host.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tiiny Host](https://nicelinks.site/redirect?url=https://tiiny.host/) ，是一个简单易用的静态网站托管服务。该服务允许用户将他们的静态网站、 [PDF](https://nicelinks.site/tags/PDF) 上传到 Tiiny Host 的服务器，并在几秒钟内将其发布到互联网上。Tiiny Host 支持多种网站类型，包括 [HTML](https://nicelinks.site/tags/HTML) 、 [CSS](https://nicelinks.site/tags/CSS) 、JavaScript、React 和 Vue.js 等。它的使用非常简单，只需要以下三步：
 
@@ -104,9 +104,9 @@ Tiiny Host 的付费计划提供了更多的功能和灵活性，例如自定义
 
 **标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`HTML`](https://nicelinks.site/tags/HTML) · [`交互设计`](https://nicelinks.site/tags/交互设计)
 
-> Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet.
+>Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet.
 
-![倾城之链 - AwA UI | Fall in love with CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.handsome-css.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AwA UI | Fall in love with CSS](https://oss.nicelinks.site/www.handsome-css.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AwA UI](https://nicelinks.site/redirect?url=https://www.handsome-css.com/) ，在网上收集各种帅气的 CSS3 特效和动画，按钮标题等各种好玩酷炫的特效组件；该网站旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效 UI，目的的是为了提高开发者的审美和技术。截止 2023 年 04 月，已收集 99+ 的超帅 UI 组件。该项目在 [Github 开源](https://github.com/ZiYi0414/handsome-css3-lib) ，感兴趣的朋友可移步前往以了解更多。
 
@@ -116,9 +116,9 @@ Tiiny Host 的付费计划提供了更多的功能和灵活性，例如自定义
 
 **标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`编程语言`](https://nicelinks.site/tags/编程语言) · [`开源`](https://nicelinks.site/tags/开源)
 
-> MySQL，is an open-source relational database management system (RDBMS)，A relational database organizes data into one or more data tables in which data may be related to each other; these relations help structure the data.
+>MySQL，is an open-source relational database management system (RDBMS)，A relational database organizes data into one or more data tables in which data may be related to each other; these relations help structure the data. 
 
-![倾城之链 - MySQL | an open-source relational database management system](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mysql.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - MySQL | an open-source relational database management system](https://oss.nicelinks.site/www.mysql.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MySQL](https://nicelinks.site/redirect?url=https://www.mysql.com/) 是一个广泛使用的开源关系型 [数据库](https://nicelinks.site/tags/数据库) 管理系统，其代码透明且可定制，可以在各种操作系统上运行。MySQL 的主要价值在于它提供了可靠的数据管理和存储能力，为应用程序开发者提供了稳定、高效的数据存储服务。具体而言有以下几个主要功能特征：
 
@@ -142,9 +142,9 @@ MySQL 的竞争产品包括 Oracle、Microsoft SQL Server、 [PostgreSQL](https:
 
 **标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`React`](https://nicelinks.site/tags/React) · [`可视化`](https://nicelinks.site/tags/可视化)
 
-> React components for interactive math
+>React components for interactive math
 
-![倾城之链 - Mafs: React components for interactive math](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mafs.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mafs: React components for interactive math](https://oss.nicelinks.site/mafs.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mafs](https://nicelinks.site/redirect?url=https://mafs.dev/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 的交互数学 [组件库](https://nicelinks.site/tags/组件库) ，致力于为开发者提供易于使用和自定义的数学组件，帮助开发人员快速构建具有交互性和 [可视化](https://nicelinks.site/tags/可视化) 的数学网站和应用程序。Mafs 组件库包含多种常用数学图像和工具，如二维平面图、三维图形、向量、函数和表格等，还提供了用于创建动画效果和交互操作的 API。
 
@@ -158,9 +158,9 @@ MySQL 的竞争产品包括 Oracle、Microsoft SQL Server、 [PostgreSQL](https:
 
 **标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`编程语言`](https://nicelinks.site/tags/编程语言) · [`开源`](https://nicelinks.site/tags/开源)
 
-> The official site for PostgreSQL, the world's most advanced open source database.
+>The official site for PostgreSQL, the world's most advanced open source database.
 
-![倾城之链 - PostgreSQL: The world's most advanced open source database](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.postgresql.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - PostgreSQL: The world's most advanced open source database](https://oss.nicelinks.site/www.postgresql.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[PostgreSQL](https://nicelinks.site/redirect?url=https://www.postgresql.org/) 是一种开源的关系型数据库管理系统（RDBMS），它是由 PostgreSQL 全球开发组织开发和维护的，经过超过 35 年的积极开发，在可靠性、功能稳健性和性能方面赢得了良好的声誉。它支持多种操作系统，包括 Windows，Linux，Unix 和 OS X 等，是一种功能强大的数据库系统，被广泛应用于企业和互联网应用程序。
 
@@ -195,11 +195,11 @@ PostgreSQL 是一种功能强大的关系型数据库管理系统，但它的使
 
 **标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`Svelte`](https://nicelinks.site/tags/Svelte)
 
-> Mobile UI components built with Tailwind CSS
+>Mobile UI components built with Tailwind CSS
 
-![倾城之链 - Konsta UI - Mobile UI components built with Tailwind CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/konstaui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Konsta UI - Mobile UI components built with Tailwind CSS](https://oss.nicelinks.site/konstaui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Konsta UI](https://nicelinks.site/redirect?url=https://konstaui.com/) 是一个基于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 构建的移动端 UI 组件库，适用于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，有 iOS 和 Material Design 两种不同主题风格；它提供了大量高质量的 UI 组件，包括按钮、表单、卡片、导航、模态框、滑块等等。这些组件都是经过精心设计和优化的，可以帮助开发者快速构建出现代化的移动应用程序。Konsta UI 具有以下功能特征：
+**推荐语**：[Konsta UI](https://nicelinks.site/redirect?url=https://konstaui.com/) 是一个基于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 构建的移动端 UI 组件库，适用于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，有 iOS 和 Material Design 两种不同主题风格；它提供了大量高质量的 UI 组件，包括按钮、表单、卡片、导航、模态框、滑块等等。这些组件都是经过精心设计和优化的，可以帮助开发者快速构建出现代化的移动应用程序。Konsta UI  具有以下功能特征：
 
 ### iOS 和 Material Design 主题
 
@@ -221,40 +221,36 @@ Konsta UI 主要设计用于与 [Ionic](https://ionicframework.com/) 或 [Framew
 
 ── 出自[倾城之链 - Konsta UI - Mobile UI components built with Tailwind CSS](https://nicelinks.site/post/6427bbfd2d6c9c63445ca095)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-人不能太贪心了，得了千钱想万钱，当了皇上又想成仙，人就长了两只手，你就是进了金山银山，也只能拿两样东西，拿了金银镯就拿不了玉如意，哪能要什么有什么 ──《去有风的地方》谢阿奶台词
+人不能太贪心了，得了千钱想万钱，当了皇上又想成仙，人就长了两只手，你就是进了金山银山，也只能拿两样东西，拿了金银镯就拿不了玉如意，哪能要什么有什么──《去有风的地方》谢阿奶台词
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 111 期）- 倾城之链](https://link.niceshare.site/weekly-111/)
-- [优质网站同好者周刊（第 110 期）- 倾城之链](https://link.niceshare.site/weekly-110/)
-- [优质网站同好者周刊（第 109 期）- 倾城之链](https://link.niceshare.site/weekly-109/)
-- [优质网站同好者周刊（第 108 期）- 倾城之链](https://link.niceshare.site/weekly-108/)
-- [优质网站同好者周刊（第 107 期）- 倾城之链](https://link.niceshare.site/weekly-107/)
-- [优质网站同好者周刊（第 106 期）- 倾城之链](https://link.niceshare.site/weekly-106/)
-- [优质网站同好者周刊（第 105 期）- 倾城之链](https://link.niceshare.site/weekly-105/)
-- [优质网站同好者周刊（第 104 期）- 倾城之链](https://link.niceshare.site/weekly-104/)
-- [优质网站同好者周刊（第 103 期）- 倾城之链](https://link.niceshare.site/weekly-103/)
-- [优质网站同好者周刊（第 102 期）- 倾城之链](https://link.niceshare.site/weekly-102/)
-- [优质网站同好者周刊（第 101 期）- 倾城之链](https://link.niceshare.site/weekly-101/)
-- [优质网站同好者周刊（第 100 期）- 倾城之链](https://link.niceshare.site/weekly-100/)
+- [优质网站同好者周刊（第 111 期）- 倾城之链](https://blog.nicelinks.site/weekly-111/)
+- [优质网站同好者周刊（第 110 期）- 倾城之链](https://blog.nicelinks.site/weekly-110/)
+- [优质网站同好者周刊（第 109 期）- 倾城之链](https://blog.nicelinks.site/weekly-109/)
+- [优质网站同好者周刊（第 108 期）- 倾城之链](https://blog.nicelinks.site/weekly-108/)
+- [优质网站同好者周刊（第 107 期）- 倾城之链](https://blog.nicelinks.site/weekly-107/)
+- [优质网站同好者周刊（第 106 期）- 倾城之链](https://blog.nicelinks.site/weekly-106/)
+- [优质网站同好者周刊（第 105 期）- 倾城之链](https://blog.nicelinks.site/weekly-105/)
+- [优质网站同好者周刊（第 104 期）- 倾城之链](https://blog.nicelinks.site/weekly-104/)
+- [优质网站同好者周刊（第 103 期）- 倾城之链](https://blog.nicelinks.site/weekly-103/)
+- [优质网站同好者周刊（第 102 期）- 倾城之链](https://blog.nicelinks.site/weekly-102/)
+- [优质网站同好者周刊（第 101 期）- 倾城之链](https://blog.nicelinks.site/weekly-101/)
+- [优质网站同好者周刊（第 100 期）- 倾城之链](https://blog.nicelinks.site/weekly-100/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

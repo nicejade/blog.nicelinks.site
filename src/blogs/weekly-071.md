@@ -8,7 +8,7 @@
 
 > 现代 JavaScript 教程：有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。
 
-![倾城之链 - 现代 JavaScript 教程](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zh.javascript.info.png?x-oss-process=style/png2jpg)
+![倾城之链 - 现代 JavaScript 教程](https://oss.nicelinks.site/zh.javascript.info.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[现代 JavaScript 教程](https://nicelinks.site/redirect?url=https://zh.javascript.info/)，以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。该课程的核心内容，包含 2 部分，涵盖了 JavaScript 编程语言相关知识，以及浏览器行为。此外还有一系列的专题文章。其内容广泛，诸如：JavaScript 基础知识、代码质量、数据类型、函数进阶内容、原型，继承、错误处理、Promise，async/await、网络请求、动画、浏览器中存储数据、Web components、正则表达式等等，读了几篇，如 [柯里化（Currying）](https://nicelinks.site/redirect?url=https://zh.javascript.info/currying-partials)，讲解深入浅出，通俗易懂，令人受益良多。无论您是前端入门初学者，还是资深开发，相信这份教程，都会产生积极作用。
 
@@ -22,7 +22,7 @@
 
 > 树莓派（Raspberry Pi）中文资讯站，提供丰富的树莓派教程和 DIY 资讯。
 
-![倾城之链 - 树莓派实验室 | Raspberry Pi 中文资讯站，提供丰富的树莓派使用教程和DIY资讯](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shumeipai.nxez.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 树莓派实验室 | Raspberry Pi 中文资讯站，提供丰富的树莓派使用教程和DIY资讯](https://oss.nicelinks.site/shumeipai.nxez.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[树莓派实验室](https://nicelinks.site/redirect?url=https://shumeipai.nxez.com/)，树莓派（Raspberry Pi）中文资讯站，旨在提供丰富的`树莓派`教程和 DIY 资讯。您可以在这里看到关于树莓派相关的分享（如相关导航、教程、资源下载等）；当然，您也可以在此分享内容，给予相当数量的树莓派玩家（该站每月有数万的树莓派爱好者访问），对于优质内容，他们会在微信公众号和姊妹站（[趣小组](https://nicelinks.site/post/614836c548b293062990b35f) 等）同步推送。
 
@@ -34,7 +34,7 @@
 
 > Grow from side project to startup with RedwoodJS. Combines React, GraphQL, and Prisma for a full-stack app framework.
 
-![倾城之链 - RedwoodJS: The App Framework for Startups](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/redwoodjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - RedwoodJS: The App Framework for Startups](https://oss.nicelinks.site/redwoodjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [RedwoodJS](https://nicelinks.site/redirect?url=https://redwoodjs.com/) ，是一个开源的全栈 Web 框架，旨在帮助您从业余项目成长为初创公司。其使命是：帮助更多的初创公司，更快地探索更多的领域。RedwoodJS 制作一个更集成的框架，Redwood 具有端到端的开发工作流程， [将 React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [GraphQL](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148) 、Prisma、 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 、Jest 和 Storybook 的最佳部分结合在一起。有关完整的灵感和愿景，请参阅 Redwood 的 [README.md 文件](https://nicelinks.site/redirect?url=https://github.com/redwoodjs/redwood/blob/main/README.md) 。
 
@@ -74,7 +74,7 @@ Redwood 应用程序，是一个 React 前端，与一个定制的 GraphQL API �
 
 > A practical functional library for JavaScript programmers. 一款实用的 JavaScript 函数式编程库。
 
-![倾城之链 - Ramda Documentation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ramda.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - Ramda Documentation](https://oss.nicelinks.site/ramda.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Ramda](https://nicelinks.site/redirect?url=https://ramda.cn/)，一款实用的 JavaScript 函数式编程库。它具备以下特性：
 
@@ -102,7 +102,7 @@ Ramda 还保留了许多其他原生 JavaScript 特性，例如，函数是具�
 
 > Just in time edge rendering, island based interactivity, and no configuration TypeScript support using Deno.
 
-![倾城之链 - fresh - The next-gen web framework.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fresh.deno.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - fresh - The next-gen web framework.](https://oss.nicelinks.site/fresh.deno.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Fresh](https://nicelinks.site/redirect?url=https://fresh.deno.dev/) ，是下一代 Web 框架，基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) ，专为速度、可靠性和简单性而构建（在 [Github 开源](https://nicelinks.site/redirect?url=https://github.com/lucacasonato/fresh)）。它具备一些突出的特点：
 
@@ -129,7 +129,7 @@ Fresh 也没有构建步骤。你写的代码也直接是在服务器上运行�
 
 > 轻灵的 Markdown 笔记本伴你写出妙言~
 
-![倾城之链 - 妙言 - 轻灵的 Markdown 笔记本](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/miaoyan.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - 妙言 - 轻灵的 Markdown 笔记本](https://oss.nicelinks.site/miaoyan.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：
 [妙言](https://nicelinks.site/redirect?url=https://miaoyan.app/),⛷ 轻灵的 [Markdown](https://nicelinks.site/tags/Markdown) 笔记本伴你写出妙言；根据其主页文档介绍，妙言具有以下功能特征：
@@ -170,11 +170,9 @@ Fresh 也没有构建步骤。你写的代码也直接是在服务器上运行�
 
 ── 出自[倾城之链 - 妙言 - 轻灵的 Markdown 笔记本](https://nicelinks.site/post/62b070a3a00b101b220aa7ea)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -182,25 +180,23 @@ Fresh 也没有构建步骤。你写的代码也直接是在服务器上运行�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 70 期）- 倾城之链](https://link.niceshare.site/weekly-070/)
-- [优质网站同好者周刊（第 69 期）- 倾城之链](https://link.niceshare.site/weekly-069/)
-- [优质网站同好者周刊（第 68 期）- 倾城之链](https://link.niceshare.site/weekly-068/)
-- [优质网站同好者周刊（第 67 期）- 倾城之链](https://link.niceshare.site/weekly-067/)
-- [优质网站同好者周刊（第 66 期）- 倾城之链](https://link.niceshare.site/weekly-066/)
-- [优质网站同好者周刊（第 65 期）- 倾城之链](https://link.niceshare.site/weekly-065/)
-- [优质网站同好者周刊（第 64 期）- 倾城之链](https://link.niceshare.site/weekly-064/)
-- [优质网站同好者周刊（第 63 期）- 倾城之链](https://link.niceshare.site/weekly-063/)
-- [优质网站同好者周刊（第 62 期）- 倾城之链](https://link.niceshare.site/weekly-062/)
-- [优质网站同好者周刊（第 61 期）- 倾城之链](https://link.niceshare.site/weekly-061/)
-- [优质网站同好者周刊（第 60 期）- 倾城之链](https://link.niceshare.site/weekly-060/)
-- [优质网站同好者周刊（第 59 期）- 倾城之链](https://link.niceshare.site/weekly-059/)
-- [优质网站同好者周刊（第 58 期）- 倾城之链](https://link.niceshare.site/weekly-058/)
+- [优质网站同好者周刊（第 70 期）- 倾城之链](https://blog.nicelinks.site/weekly-070/)
+- [优质网站同好者周刊（第 69 期）- 倾城之链](https://blog.nicelinks.site/weekly-069/)
+- [优质网站同好者周刊（第 68 期）- 倾城之链](https://blog.nicelinks.site/weekly-068/)
+- [优质网站同好者周刊（第 67 期）- 倾城之链](https://blog.nicelinks.site/weekly-067/)
+- [优质网站同好者周刊（第 66 期）- 倾城之链](https://blog.nicelinks.site/weekly-066/)
+- [优质网站同好者周刊（第 65 期）- 倾城之链](https://blog.nicelinks.site/weekly-065/)
+- [优质网站同好者周刊（第 64 期）- 倾城之链](https://blog.nicelinks.site/weekly-064/)
+- [优质网站同好者周刊（第 63 期）- 倾城之链](https://blog.nicelinks.site/weekly-063/)
+- [优质网站同好者周刊（第 62 期）- 倾城之链](https://blog.nicelinks.site/weekly-062/)
+- [优质网站同好者周刊（第 61 期）- 倾城之链](https://blog.nicelinks.site/weekly-061/)
+- [优质网站同好者周刊（第 60 期）- 倾城之链](https://blog.nicelinks.site/weekly-060/)
+- [优质网站同好者周刊（第 59 期）- 倾城之链](https://blog.nicelinks.site/weekly-059/)
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

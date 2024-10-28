@@ -10,7 +10,7 @@
 
 > Apifox = Postman + Swagger + Mock + JMeter。集接口文档工具、接口 Mock 工具、接口自动化测试工具、接口调试工具于一体，提升 10 倍研发效率。是最好用的 API 文档工具，API 自动化测试工具，API Mock 工具，接口文档管理工具，接口文档生成工具。
 
-![倾城之链 - Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.apifox.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://oss.nicelinks.site/www.apifox.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Apifox](https://nicelinks.site/redirect?url=https://www.apifox.cn/)，集 API 文档、API 调试、API Mock、API 自动化测试等一体化的协作平台；官方表示：Apifox = Postman + Swagger + Mock + JMeter ；它具有以下功能特色：
 
@@ -85,7 +85,7 @@
 
 > Get the top application for archives on Mac. It’s a RAR extractor, it allows you to unzip files, and works with dozens of other formats.
 
-![倾城之链 - The Unarchiver | Top Free Unarchiving Software for macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/theunarchiver.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - The Unarchiver | Top Free Unarchiving Software for macOS](https://oss.nicelinks.site/theunarchiver.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Unarchiver](https://nicelinks.site/redirect?url=https://theunarchiver.com/)，一个 RAR 解压器，它允许你解压缩文件；它比原生 macOS 实用程序强大数倍，并支持无限多的存档格式。它具有以下功能特色：
 
@@ -115,7 +115,7 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 > Free and open self hostable workflow automation tool
 
-![倾城之链 - n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/n8n.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://oss.nicelinks.site/n8n.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[n8n](https://nicelinks.site/redirect?url=https://n8n.io/)，免费和开放的自托管工作流自动化工具；使用 n8n，每个人都可以拥有自己的免费的基于节点的工作流自动化工具。n8n 是可自托管的，因此数据会随身携带。它可以轻松扩展，因此也可以与内部工具一起使用，并允许自动化复杂的任务。它具有以下功能特色：
 
@@ -155,7 +155,7 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 > A free browser extension that helps you identify technologies used on any website at the click of a button.
 
-![倾城之链 - WhatRuns — Discover What Runs a Website](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.whatruns.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - WhatRuns — Discover What Runs a Website](https://oss.nicelinks.site/www.whatruns.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WhatRuns](https://nicelinks.site/redirect?url=https://www.whatruns.com/) 是一个新的但先进的浏览器扩展，可帮助您识别任何网站上使用的网络技术。他们专有的模式识别算法，甚至可以有效检测网站上使用的最新网络技术和插件。它具有以下功能特征：
 
@@ -177,7 +177,7 @@ WhatRuns 向您展示了为网站提供动力的几乎所有内容。他们支�
 
 > Tampermonkey is a free browser extension and the most popular userscript manager. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. Even though some of the supported browsers have native userscript support, Tampermonkey will give you much more convenience in managing your userscripts. It provides features like easy script installation, automatic update checks, a simple overview what scripts are running at a tab, a built-in editor and there is a good chance that incompatible scripts run fine with Tampermonkey. So give it a try!
 
-![倾城之链 - Tampermonkey • Home](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tampermonkey.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Tampermonkey • Home](https://oss.nicelinks.site/www.tampermonkey.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tampermonkey](https://nicelinks.site/redirect?url=https://www.tampermonkey.net/)， 是一款免费的浏览器扩展和最为流行的用户脚本管理器；可以为自动您执行很多任务，诸如[知乎屏蔽登录弹窗](https://forum.lovejade.cn/d/158-pc)，自动领取网站登录奖励等等；它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。它具有以下几个功能特色：
 
@@ -233,7 +233,7 @@ Tampermonkey 的编辑器是很棒的，然而您拥有自己的编辑器，它�
 
 > 美篇是中老年人表达自我、结交同好、学习提升的内容社区，同时也是火爆朋友圈的图文创作分享工具。目前，已经成为一亿中老年人的精神家园。
 
-![倾城之链 - 美篇，中老年兴趣社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meipian.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 美篇，中老年兴趣社区](https://oss.nicelinks.site/www.meipian.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[美篇](https://nicelinks.site/redirect?url=https://www.meipian.cn/)，中老年兴趣社区。其官网介绍道：定位不惑后表达自我、结交同好、学习提升的内容社区，同时也是火爆朋友圈的图文创作分享应用。自 2015 年 7 月正式上线以来，`美篇`累计注册用户 2 亿、创作用户 4000 万；成立至今获得腾讯双百计划、经纬创投、真格基金、芒果文创基金等一线投资机构多轮累计 1.8 亿元融资，估计 10 亿元。
 
@@ -250,9 +250,9 @@ Tampermonkey 的编辑器是很棒的，然而您拥有自己的编辑器，它�
 
 ── 出自[倾城之链 - 美篇，中老年兴趣社区](https://nicelinks.site/post/623f165d006c7408774a7c17)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -260,24 +260,22 @@ Tampermonkey 的编辑器是很棒的，然而您拥有自己的编辑器，它�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 58 期）- 倾城之链](https://link.niceshare.site/weekly-058/)
-- [优质网站同好者周刊（第 57 期）- 倾城之链](https://link.niceshare.site/weekly-057/)
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
-- [优质网站同好者周刊（第 55 期）- 倾城之链](https://link.niceshare.site/weekly-055/)
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

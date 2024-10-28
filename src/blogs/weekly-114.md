@@ -8,9 +8,9 @@
 
 **关键字**：css, web components
 
-> A web component for drawing patterns with CSS
+>A web component for drawing patterns with CSS
 
-![倾城之链 -  CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css-doodle.com.png?x-oss-process=style/png2jpg)
+![倾城之链 -  CSS Doodle：一个基于 CSS 的绘图库](https://oss.nicelinks.site/css-doodle.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[<css-doodle\/>](https://nicelinks.site/redirect?url=https://css-doodle.com/) ，是一个基于 [CSS](https://nicelinks.site/tags/CSS) 的绘图库，它允许用户使用 CSS 规则来创建复杂的图形和动画效果。CSS Doodle 基于 Shadow DOM v1 和 Custom Elements v1。您现在可以在所有主要浏览器上使用它而无需 polyfill。该组件将根据其内部的规则（纯 CSS）生成一个 div 网格。您可以使用 CSS 轻松操作这些单元格，以生成图形模式或动画图形。
 
@@ -19,28 +19,22 @@ CSS Doodle 的主要作用是帮助用户轻松地创建独特的图形和动画
 CSS Doodle 的语法非常简单易懂，它允许用户使用一系列的 CSS 规则和变量来定义图形和动画效果。例如，要创建一个由随机线条组成的背景，可以使用以下代码：
 
 ```html
-background: url("data:image/svg+xml;utf8,<svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 200 200"
->
-  <path stroke="%23{%f0b}%25" d="M0,0 L200,200" />
-  <path stroke="%23{%0fb}%25" d="M0,200 L200,0" /></svg
->") #fff;
+background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'><path stroke='%23{%f0b}%25' d='M0,0 L200,200'/><path stroke='%23{%0fb}%25' d='M0,200 L200,0'/></svg>") #fff;
 ```
 
 该代码使用 [SVG](https://nicelinks.site/tags/CSS) 路径来创建两条随机的线条，并将其作为背景图片应用到元素中。
 
 总之，CSS Doodle 是一个非常有趣和有用的库，它可以帮助用户创建各种复杂的图形和动画效果，而不需要编写任何 JavaScript 代码。
 
-── 出自[倾城之链 - CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.site/post/644120787e6ef733181b7faf)
+── 出自[倾城之链 -  CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.site/post/644120787e6ef733181b7faf)
 
 ## [Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.site/post/64411c727e6ef733181b7ef1)
 
 **标签**：[`个人博客`](https://nicelinks.site/tags/个人博客) · [`分享`](https://nicelinks.site/tags/分享) · [`前端开发`](https://nicelinks.site/tags/前端开发)
 
-> Be curious. Read widely. Try new things. 保持好奇心。广泛阅读。尝试新事物。
+>Be curious. Read widely. Try new things. 保持好奇心。广泛阅读。尝试新事物。
 
-![倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/limboy.me.png?x-oss-process=style/png2jpg)
+![倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://oss.nicelinks.site/limboy.me.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Limboy](https://nicelinks.site/redirect?url=https://limboy.me/) ，技术大咖李忠（后端、前端）的个人博客，基于 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、[Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 所搭建（详情参见作者博文：[我的博客系统演变之路](https://nicelinks.site/redirect?url=https://limboy.me/posts/my-blog-system/)）；该博客内容，分为：Books、Essays（随笔）、Practical、Research（研究）、Review、Translation、Projects、Photos、Movies 等模块儿；作者在推特主页写到：“保持好奇心。广泛阅读。尝试新事物”；从作者的分享内容，可以深刻感受到作者对这 Slogan，有非常好实践；如果您也希望有所改变，推荐关注。除了该博客，作者为方便整理更多杂记、减少对 Twitter 的依赖，有开辟新的写作空间： [避风塘](https://before.town/) （精挑细选的信息，带来灵感和启发）。
 
@@ -50,9 +44,9 @@ background: url("data:image/svg+xml;utf8,<svg
 
 **标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`教程`](https://nicelinks.site/tags/教程) · [`开源`](https://nicelinks.site/tags/开源)
 
-> Learn how to responsibly develop, deploy & maintain ML.
+>Learn how to responsibly develop, deploy & maintain ML.
 
-![倾城之链 - Home - Made With ML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/madewithml.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Home - Made With ML](https://oss.nicelinks.site/madewithml.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Made With ML](https://nicelinks.site/redirect?url=https://madewithml.com/) ，是一个致力于为人工智能和[机器学习](https://nicelinks.site/tags/机器学习)从业者提供资源和指导的网站。该网站提供了各种**机器学习**项目和教程，包括[深度学习](https://nicelinks.site/tags/深度学习)、神经网络、逻辑回归等领域。该网站还提供了一些有用的工具和资源，如数据集、算法实现和代码库。
 
@@ -64,9 +58,9 @@ background: url("data:image/svg+xml;utf8,<svg
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`灵感`](https://nicelinks.site/tags/灵感) · [`图片`](https://nicelinks.site/tags/图片)
 
-> Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces.
+>Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces.
 
-![倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pictorial.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://oss.nicelinks.site/www.pictorial.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Pictorial](https://nicelinks.site/redirect?url=https://www.pictorial.ai/) ，基于 [AI](https://nicelinks.site/tags/AI) 的图形创造工具，轻松为您的**Web（网络）应用**程序创建图形；利用能够生成可靠、随时可用的视觉杰作的生成式 AI，轻松传达您的信息。输入网站地址，即可为您的站点创建令人惊叹的图形；它具有以下功能特征：
 
@@ -96,21 +90,21 @@ background: url("data:image/svg+xml;utf8,<svg
 
 ── 出自[倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://nicelinks.site/post/6440fdcc7e6ef733181b7ced)
 
-## [Routify | Routes for Svelte, automated by your file structure.](https://nicelinks.site/post/643e626b7e6ef733181b6bf0)
+## [Routify  | Routes for Svelte, automated by your file structure.](https://nicelinks.site/post/643e626b7e6ef733181b6bf0)
 
 **标签**：[`Svelte`](https://nicelinks.site/tags/Svelte) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
 
 **关键字**：router, svelte, development, javascript
 
-> Routes for Svelte, automated by your file structure.
+>Routes for Svelte, automated by your file structure.
 
-![倾城之链 - Routify  | Routes for Svelte, automated by your file structure.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.routify.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Routify  | Routes for Svelte, automated by your file structure.](https://oss.nicelinks.site/www.routify.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Routify](https://nicelinks.site/redirect?url=https://www.routify.dev/) ，是一个基于 Svelte 的前端路由工具，它可以帮助我们快速构建单页应用程序（SPA）和多页应用程序（MPA），支持静态生成（SSG）和服务端渲染（SSR）。它主要功能特征包括：
 
 1.  **声明式路由配置**：Routify 支持通过声明式的方式来定义路由，可以方便地配置路由和页面组件之间的关系。
 
-2.  **动态路由**：Routify 支持动态路由，可以通过  `: `  符号来定义动态路由参数，例如  `/users/: id`。
+2.  **动态路由**：Routify 支持动态路由，可以通过 `: ` 符号来定义动态路由参数，例如 `/users/: id`。
 
 3.  **嵌套路由**：Routify 支持嵌套路由，可以在路由配置中使用子路由来定义嵌套路由，从而实现更复杂的路由结构。
 
@@ -146,15 +140,15 @@ Routify 所提供的功能非常丰富，以上是常用使用示例；相比于
 
 总之，Routify 是一个非常功能强大的前端路由工具，具有声明式路由配置、动态路由、嵌套路由、路由参数解析、路由守卫、静态生成、服务端渲染和灵活的插件系统等特点，可以满足各种不同的前端开发需求。Routify 项目在 [Github 开源](https://github.com/roxiness/routify) ，感兴趣朋友可移步以了解更多。
 
-── 出自[倾城之链 - Routify | Routes for Svelte, automated by your file structure.](https://nicelinks.site/post/643e626b7e6ef733181b6bf0)
+── 出自[倾城之链 - Routify  | Routes for Svelte, automated by your file structure.](https://nicelinks.site/post/643e626b7e6ef733181b6bf0)
 
 ## [unblob - extract everything!](https://nicelinks.site/post/643e5a297e6ef733181b6b92)
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`Python`](https://nicelinks.site/tags/Python) · [`开源`](https://nicelinks.site/tags/开源)
 
-> unblob is an accurate, fast, and easy-to-use extraction suite. unblob parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for. This turns unblob into the perfect companion for extracting, analyzing, and reverse engineering firmware images.
+>unblob is an accurate, fast, and easy-to-use extraction suite. unblob parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for. This turns unblob into the perfect companion for extracting, analyzing, and reverse engineering firmware images.
 
-![倾城之链 - unblob - extract everything!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/unblob.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - unblob - extract everything!](https://oss.nicelinks.site/unblob.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[unblob - extract everything](https://nicelinks.site/redirect?url=https://unblob.org/) ， 是一个**准确、快速**且易于使用的**提取套件**。它为 30 多种不同的存档、压缩和文件系统格式解析未知二进制 blob ，递归地**提取**它们的**内容**，并**分割**出尚未考虑的**未知块**。
 
@@ -187,51 +181,48 @@ unblob 的开发考虑了以下目标：
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`聚合`](https://nicelinks.site/tags/聚合) · [`导航`](https://nicelinks.site/tags/导航)
 
-> No-Signup Tools, Free web apps that don`t require registration or login.
+>No-Signup Tools, Free web apps that don`t require registration or login.
 
-![倾城之链 - No-Signup Tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nosignup.tools.png?x-oss-process=style/png2jpg)
+![倾城之链 - No-Signup Tools](https://oss.nicelinks.site/www.nosignup.tools.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[nosignup.tools](https://nicelinks.site/redirect?url=https://nosignup.tools/) ，一个精选的基于网络的产品集合，不需要帐户或注册，您可以在 10 秒内使用。加入其他产品爱好者的行列，免费获得他们的每月更新；该网站所涵盖内容涉及：营销、写作、生产率、其他、教学、设计、远程工作、公用事业、调查与民意调查、加密货币、文件托管和共享、沟通、开发者工具、福利、金融、招聘、旅行、培训班、社交媒体、隐私、视频、商业、密码学、网页设计、人工智能、生产率、设计、图像转换工具等各个方面。如果您有维护效率工具，也可以提交到该网站，无需登录，只需填写网站名称、分类、地址，以及描述即可。
 
+
 ── 出自[倾城之链 - No-Signup Tools](https://nicelinks.site/post/643e52a37e6ef733181b6b2a)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-兰陵美酒郁金香，  
-玉椀盛来琥珀光。  
-**但使主人能醉客，  
-不知何处是他乡**。  
+兰陵美酒郁金香，   
+玉椀盛来琥珀光。   
+**但使主人能醉客，   
+不知何处是他乡**。   
 ── 唐 · 李白 《客中行》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 113 期）- 倾城之链](https://link.niceshare.site/weekly-113/)
-- [优质网站同好者周刊（第 112 期）- 倾城之链](https://link.niceshare.site/weekly-112/)
-- [优质网站同好者周刊（第 111 期）- 倾城之链](https://link.niceshare.site/weekly-111/)
-- [优质网站同好者周刊（第 110 期）- 倾城之链](https://link.niceshare.site/weekly-110/)
-- [优质网站同好者周刊（第 109 期）- 倾城之链](https://link.niceshare.site/weekly-109/)
-- [优质网站同好者周刊（第 108 期）- 倾城之链](https://link.niceshare.site/weekly-108/)
-- [优质网站同好者周刊（第 107 期）- 倾城之链](https://link.niceshare.site/weekly-107/)
-- [优质网站同好者周刊（第 106 期）- 倾城之链](https://link.niceshare.site/weekly-106/)
-- [优质网站同好者周刊（第 105 期）- 倾城之链](https://link.niceshare.site/weekly-105/)
-- [优质网站同好者周刊（第 104 期）- 倾城之链](https://link.niceshare.site/weekly-104/)
-- [优质网站同好者周刊（第 103 期）- 倾城之链](https://link.niceshare.site/weekly-103/)
+- [优质网站同好者周刊（第 113 期）- 倾城之链](https://blog.nicelinks.site/weekly-113/)
+- [优质网站同好者周刊（第 112 期）- 倾城之链](https://blog.nicelinks.site/weekly-112/)
+- [优质网站同好者周刊（第 111 期）- 倾城之链](https://blog.nicelinks.site/weekly-111/)
+- [优质网站同好者周刊（第 110 期）- 倾城之链](https://blog.nicelinks.site/weekly-110/)
+- [优质网站同好者周刊（第 109 期）- 倾城之链](https://blog.nicelinks.site/weekly-109/)
+- [优质网站同好者周刊（第 108 期）- 倾城之链](https://blog.nicelinks.site/weekly-108/)
+- [优质网站同好者周刊（第 107 期）- 倾城之链](https://blog.nicelinks.site/weekly-107/)
+- [优质网站同好者周刊（第 106 期）- 倾城之链](https://blog.nicelinks.site/weekly-106/)
+- [优质网站同好者周刊（第 105 期）- 倾城之链](https://blog.nicelinks.site/weekly-105/)
+- [优质网站同好者周刊（第 104 期）- 倾城之链](https://blog.nicelinks.site/weekly-104/)
+- [优质网站同好者周刊（第 103 期）- 倾城之链](https://blog.nicelinks.site/weekly-103/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

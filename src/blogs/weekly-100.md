@@ -8,7 +8,7 @@
 
 > It's not low-code, it's full code made easy. Build business-ready software, apps, integrations, and more with the Crowdbotics App Builder. Hire certified PMs and developers to help build your project at any time.
 
-![倾城之链 - Crowdbotics | Build Apps Fast, No Coding Required](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.crowdbotics.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Crowdbotics | Build Apps Fast, No Coding Required](https://oss.nicelinks.site/www.crowdbotics.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Crowdbotics](https://nicelinks.site/redirect?url=https://www.crowdbotics.com/) ，一款快速构建**应用程序**的在线平台；包括 Web、iOS 和 Android，使用内置的 DevOps 和云托管导出完整的 React Native + Django 代码。Crowdbotics 不是低代码，而是完整的代码变得简单。通过 Crowdbotics 应用程序生成器，构建可用于业务的软件、应用程序、集成以及更多。雇佣经过认证的 PM 和开发人员，随时帮助建立你的项目。它具备一下功能特征：
 
@@ -42,7 +42,7 @@ Crowdbotics 引用了数百万个生产级软件包的库，以确定给定项�
 
 > Real-world proficiency projects designed for experienced engineers. Develop software craftsmanship by recreating popular devtools from scratch.
 
-![倾城之链 - CodeCrafters | Advanced programming challenges](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codecrafters.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - CodeCrafters | Advanced programming challenges](https://oss.nicelinks.site/codecrafters.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[CodeCrafters](https://nicelinks.site/redirect?url=https://codecrafters.io/)，面向经验丰富的工程师的编程课程，帮助工程师真正精通他们的手艺，重新创建 Redis、Git、Docker——用你自己的双手。通过采取行动和深入研究，向世界上最好的人学习，获得专家级的信心。
 
@@ -58,7 +58,7 @@ CodeCrafters，在 Github 所创建仓库：[build-your-own-x](https://github.co
 
 > EarlyBird is the brand-new landing page builder for startups. Start pitching and validating business ideas in minutes.
 
-![倾城之链 - EarlyBird: Landing Page Builder for Startups](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/earlybird.im.png?x-oss-process=style/png2jpg)
+![倾城之链 - EarlyBird: Landing Page Builder for Startups](https://oss.nicelinks.site/earlybird.im.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[EarlyBird](https://nicelinks.site/redirect?url=https://earlybird.im/) 是为初创企业提供的全新登陆页面构建工具，在几分钟内，就可以开始投递和验证商业想法。Early Bird 提供 [无代码](https://nicelinks.site/tags/无代码) 登录页面构建器，轻松创建、宣传和验证您的早期业务。Early Bird 具有以下功能特征：
 
@@ -106,7 +106,7 @@ Early Bird 其作用是避免在早期阶段浪费时间和金钱，确保您的
 
 > World's Largest Resource Of Artificial Intelligence Tools & Services
 
-![倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/allthingsai.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://oss.nicelinks.site/allthingsai.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[All Things AI](https://nicelinks.site/redirect?url=https://allthingsai.com/)，人工智能（AI）工具和服务的完整资源（[AI](https://nicelinks.site/tags/AI) 资源导航网站），在这里可以发现最新的人工智能工具、服务和资源。近几年，随着 AI 的快速发展迭代，衍生出各种服务；尤其是 2022 年 11 月，OpenAI 旗下的 ChatGPT 大火之后，进一步加剧 AI 的繁荣。在该网站，可以发现：聊天机器人、编码、设计、图像生成、照片编辑、个人资料图片、写作、生物、日历、数据、电子邮件、游戏开发、合法的、楷模、电话应用程序、播客、简报、搜索、演讲、电子表格、视频等相关服务。您如果遇到过创新的人工智能产品，或者您正在开发自己的产品？也可以在 [All Things AI](https://nicelinks.site/redirect?url=https://allthingsai.com/) 分享提交，他们可能会将其列入产品的列表。
 
@@ -118,7 +118,7 @@ Early Bird 其作用是避免在早期阶段浪费时间和金钱，确保您的
 
 > Airplane is a developer-centric approach to building internal UIs and workflows.
 
-![倾城之链 - Airplane | Developer infrastructure for internal tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.airplane.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Airplane | Developer infrastructure for internal tools](https://oss.nicelinks.site/www.airplane.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Airplane](https://nicelinks.site/redirect?url=https://www.airplane.dev/) 是一种以开发人员为中心的方法来构建内部 UI 和工作流程。它成立于 2021 年七月，愿景是通过一系列自动化工具，把公司内部系统和繁琐工作流程自动化。成立不到半年就宣布了由 Benchmark 领投的 850 万美元 A 轮融资；2022 年九月宣布了 3200 万美元的 B 轮。现今已经有 100+ 个付费客户和几千名开发人员。Airplane 具有如下功能特征：
 
@@ -152,7 +152,7 @@ Airplane 现在的客户主要还是中小企业，其规划目标是：旨在�
 
 > SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.
 
-![倾城之链 - SQLite Home Page](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.sqlite.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - SQLite Home Page](https://oss.nicelinks.site/www.sqlite.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SQLite](https://nicelinks.site/redirect?url=https://www.sqlite.org/) 是一个 C 语言库，实现了一个小型、快速、独立、高可靠性、全功能的 SQL 数据库引擎。SQLite 是世界上使用最多的数据库引擎。所有手机和大多数电脑都内置了 SQLite，并捆绑在人们每天使用的无数其他应用程序中。
 
@@ -184,11 +184,9 @@ Airplane 现在的客户主要还是中小企业，其规划目标是：旨在�
 
 ── 出自[倾城之链 - SQLite Home Page](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -196,29 +194,27 @@ Airplane 现在的客户主要还是中小企业，其规划目标是：旨在�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 99 期）- 倾城之链](https://link.niceshare.site/weekly-099/)
-- [优质网站同好者周刊（第 98 期）- 倾城之链](https://link.niceshare.site/weekly-098/)
-- [优质网站同好者周刊（第 96 期）- 倾城之链](https://link.niceshare.site/weekly-096/)
-- [优质网站同好者周刊（第 95 期）- 倾城之链](https://link.niceshare.site/weekly-095/)
-- [优质网站同好者周刊（第 94 期）- 倾城之链](https://link.niceshare.site/weekly-094/)
-- [优质网站同好者周刊（第 93 期）- 倾城之链](https://link.niceshare.site/weekly-093/)
-- [优质网站同好者周刊（第 92 期）- 倾城之链](https://link.niceshare.site/weekly-092/)
-- [优质网站同好者周刊（第 91 期）- 倾城之链](https://link.niceshare.site/weekly-091/)
-- [优质网站同好者周刊（第 90 期）- 倾城之链](https://link.niceshare.site/weekly-090/)
-- [优质网站同好者周刊（第 89 期）- 倾城之链](https://link.niceshare.site/weekly-089/)
-- [优质网站同好者周刊（第 88 期）- 倾城之链](https://link.niceshare.site/weekly-088/)
-- [优质网站同好者周刊（第 87 期）- 倾城之链](https://link.niceshare.site/weekly-087/)
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
+- [优质网站同好者周刊（第 99 期）- 倾城之链](https://blog.nicelinks.site/weekly-099/)
+- [优质网站同好者周刊（第 98 期）- 倾城之链](https://blog.nicelinks.site/weekly-098/)
+- [优质网站同好者周刊（第 96 期）- 倾城之链](https://blog.nicelinks.site/weekly-096/)
+- [优质网站同好者周刊（第 95 期）- 倾城之链](https://blog.nicelinks.site/weekly-095/)
+- [优质网站同好者周刊（第 94 期）- 倾城之链](https://blog.nicelinks.site/weekly-094/)
+- [优质网站同好者周刊（第 93 期）- 倾城之链](https://blog.nicelinks.site/weekly-093/)
+- [优质网站同好者周刊（第 92 期）- 倾城之链](https://blog.nicelinks.site/weekly-092/)
+- [优质网站同好者周刊（第 91 期）- 倾城之链](https://blog.nicelinks.site/weekly-091/)
+- [优质网站同好者周刊（第 90 期）- 倾城之链](https://blog.nicelinks.site/weekly-090/)
+- [优质网站同好者周刊（第 89 期）- 倾城之链](https://blog.nicelinks.site/weekly-089/)
+- [优质网站同好者周刊（第 88 期）- 倾城之链](https://blog.nicelinks.site/weekly-088/)
+- [优质网站同好者周刊（第 87 期）- 倾城之链](https://blog.nicelinks.site/weekly-087/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

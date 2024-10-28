@@ -10,7 +10,7 @@
 
 > Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns.
 
-![倾城之链 - Swift.org - Welcome to Swift.org](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.swift.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Swift.org - Welcome to Swift.org](https://oss.nicelinks.site/www.swift.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Swift.org](https://nicelinks.site/redirect?url=https://www.swift.org/)，是一种通用的编程语言，使用现代的安全、性能和软件设计模式的方法构建。Swift 由 Apple 创建，专门用于开发原生 iOS 应用程序。它虽然于 2014 年发布，但已经在移动应用程序开发中获得了很大的吸引力。以前使用 Objective-C 进行应用程序开发的公司转而使用 Swift，以利用其灵活性、简洁性和简单性。
 
@@ -58,7 +58,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 > Supports npm, GitHub, WordPress, Deno, and more. Largest network and best performance among all CDNs. Serving more than 80 billion requests per month.
 
-![倾城之链 - jsDelivr - A free, fast, and reliable CDN for open source](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.jsdelivr.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - jsDelivr - A free, fast, and reliable CDN for open source](https://oss.nicelinks.site/www.jsdelivr.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[JSDeliver](https://nicelinks.site/redirect?url=https://www.jsdelivr.com/) 是一个用于开源项目的免费公共 CDN，专注于性能、可靠性和安全性。每个人都可以免费使用，没有带宽限制。它可以直接从 npm 注册表和 GitHub 存储库提供 Web 文件，而无需任何配置。除此之外，JSDeliver 还具有以下特征：
 
@@ -100,7 +100,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 > 视中心影院是专门为网友提供 2022 最新高清电影，热播电视剧高清资源的免费网站,无广告急速播放观看体验极佳，每天第一时间给大家更新最新优质电影、连续剧、综艺、动漫，看热门电影就来视中心影院。
 
-![倾城之链 - 最新电影-热播电视剧免费在线观看-视中心影院](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mhz8.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 最新电影-热播电视剧免费在线观看-视中心影院](https://oss.nicelinks.site/www.mhz8.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[视中心影院](https://nicelinks.site/redirect?url=https://www.mhz8.com/)，是为网友提供音影相关的娱乐网站，涵盖有电影、电视剧、综艺、动漫等内容，此外还提供有影视资讯。值得一提的是，该网站所涉及的内容，时值当下，不仅提供了详细介绍，而且在线可播放（除去优酷视频外，还有诸多其他节点）；更值得称赞的是，视频质量不错，且没有广告。初次体验，网站稳定性、访问速度这块儿，似乎有待提升。
 
@@ -112,7 +112,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 > The reason you joined the Internet. Forem provides open-source tools to help you host a thriving, focused, and adaptable community.
 
-![倾城之链 - [Forem] Community for Everyone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.forem.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - [Forem] Community for Everyone](https://oss.nicelinks.site/www.forem.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Forem](https://nicelinks.site/redirect?url=https://www.forem.com/)，是一个**开源**社区平台，用于培养现代、安全、独立的社区。您可以自定义和扩展 Forem 以满足您的确切需求，通过可调整的品牌、自定义页面、社区徽章等设计您的最佳用户体验；Forem 具有以下功能特色：
 
@@ -152,15 +152,15 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 > 完美导航（www.9eip.com） 给您最好的互联网搜索功能和网址收集体验，拥有超强的聚合搜索引擎，精选大量实用的网址，（生活、休闲、办公、影视、工具、资源网址）超贴心的服务，某个网址失效了？找不到？完美导航会第一时间给您找出相关并且发布在失效网址页内和回复您的反馈。
 
-![倾城之链 - 完美网址导航 - 好看实用的上网主页](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.9eip.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 完美网址导航 - 好看实用的上网主页](https://oss.nicelinks.site/www.9eip.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[完美导航](https://nicelinks.site/redirect?url=https://www.9eip.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 等搭建的网站；该站原名：9e 导航，上线于 2021 年 1 月，旨在为广大朋友搜寻收集全网最新、实用、有趣的网站平台，以及软件/工具。它有着简洁清爽的风格界面，也非常适合用做于浏览器主页；当然，该导航也支持「网址提交」。除了网站导航外，[完美导航](https://nicelinks.site/redirect?url=https://www.9eip.com/)还提供了些其他版本内容，如：实时·疫情数据、小游戏、壁纸等。
 
 ── 出自[倾城之链 - 完美网址导航 - 好看实用的上网主页](https://nicelinks.site/post/622c8846a2eb9379e4c960ab)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -172,23 +172,21 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
-- [优质网站同好者周刊（第 55 期）- 倾城之链](https://link.niceshare.site/weekly-055/)
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
-- [优质网站同好者周刊（第 46 期）- 倾城之链](https://link.niceshare.site/weekly-046/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

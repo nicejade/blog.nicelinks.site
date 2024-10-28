@@ -6,11 +6,11 @@
 
 **标签**：[`个人主页`](https://nicelinks.site/tags/个人主页) · [`社交`](https://nicelinks.site/tags/社交) · [`营销`](https://nicelinks.site/tags/营销)
 
-> Seemless is a bio link that detects where a click comes from to automatically switch to the style of any platform. This creates a consistent look that guides your followers from social to site with zero disruption for 2X clicks compared to Linktree & Bento.
+>Seemless is a bio link that detects where a click comes from to automatically switch to the style of any platform. This creates a consistent look that guides your followers from social to site with zero disruption for 2X clicks compared to Linktree & Bento.
 
-![倾城之链 - Seemless | From social to site with zero disruption](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/seemless.link.png?x-oss-process=style/png2jpg)
+![倾城之链 - Seemless | From social to site with zero disruption](https://oss.nicelinks.site/seemless.link.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Seemless](https://nicelinks.site/redirect?url=https://seemless.link/) 是一个生物链接（快速创建 [个人主页](https://nicelinks.site/tags/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5) 的 Web 应用），可以检测点击的来源并自动切换到任何平台的风格。与 Linktree 和 [Bento](https://nicelinks.site/post/64a97be5b95cf7176299b2da) 相比，这创建了一致的外观，引导您的关注者从社交网站到网站，并且 2 倍点击次数零中断。有基于   Seemless   创建新的个人主页： [杨轩帅](https://seemless.link/@nicejade) ；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，十分方便；而且便于分享、统计访问、点击量。如果您有创建个人主页的诉求，不妨一试。
+**推荐语**：[Seemless](https://nicelinks.site/redirect?url=https://seemless.link/) 是一个生物链接（快速创建 [个人主页](https://nicelinks.site/tags/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5) 的 Web 应用），可以检测点击的来源并自动切换到任何平台的风格。与 Linktree 和 [Bento](https://nicelinks.site/post/64a97be5b95cf7176299b2da) 相比，这创建了一致的外观，引导您的关注者从社交网站到网站，并且 2 倍点击次数零中断。有基于  Seemless  创建新的个人主页： [杨轩帅](https://seemless.link/@nicejade) ；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，十分方便；而且便于分享、统计访问、点击量。如果您有创建个人主页的诉求，不妨一试。
 
 ── 出自[倾城之链 - Seemless | From social to site with zero disruption](https://nicelinks.site/post/65a010d6ae8b2b2d0a974e36)
 
@@ -18,9 +18,9 @@
 
 **标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`AI`](https://nicelinks.site/tags/AI) · [`矢量数据库`](https://nicelinks.site/tags/矢量数据库)
 
-> Search through billions of items for similar matches to any object, in milliseconds. It’s the next generation of search, an API call away.
+>Search through billions of items for similar matches to any object, in milliseconds. It’s the next generation of search, an API call away.
 
-![倾城之链 - Vector Database for Vector Search | Pinecone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pinecone.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Vector Database for Vector Search | Pinecone](https://oss.nicelinks.site/www.pinecone.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Pinecone](https://nicelinks.site/redirect?url=https://www.pinecone.io/) 是专为矢量搜索设计的矢量数据库，为多家公司的人工智能计划提供支持。它为执行超快的矢量搜索提供了可靠、可扩展的解决方案，是搜索、推荐系统、异常检测等应用的理想之选。Pinecone 主要具有如下功能：
 
@@ -42,7 +42,7 @@
 
 9.  **云原生和全面管理**： Pinecone 在云中进行全面管理，让您可以灵活选择自己喜欢的云提供商。它可在 AWS、Azure 和 GCP 等流行的云市场上使用。
 
-有必要提下： [Canopy](https://github.com/pinecone-io/canopy) ，它是一个开源检索增强生成 (`RAG`) 框架和上下文引擎，构建在 Pinecone 矢量数据库之上（也是因 Canopy 才更加关注 Pinecone）。Canopy 使您能够使用 RAG 快速轻松地试验和构建应用程序。通过几个简单的命令即可开始与文档或文本数据聊天。Canopy 承担了构建 RAG 应用程序的繁重工作：从分块和嵌入文本数据到聊天历史记录管理、查询优化、上下文检索（包括提示工程）和增强生成。
+ 有必要提下： [Canopy](https://github.com/pinecone-io/canopy) ，它是一个开源检索增强生成 (`RAG`) 框架和上下文引擎，构建在 Pinecone 矢量数据库之上（也是因 Canopy 才更加关注 Pinecone）。Canopy 使您能够使用 RAG 快速轻松地试验和构建应用程序。通过几个简单的命令即可开始与文档或文本数据聊天。Canopy 承担了构建 RAG 应用程序的繁重工作：从分块和嵌入文本数据到聊天历史记录管理、查询优化、上下文检索（包括提示工程）和增强生成。
 
 Canopy 提供可配置的内置服务器，因此您可以轻松地将 RAG 支持的聊天应用程序部署到现有的聊天 UI 或界面。或者，您可以使用 Canopy 库构建您自己的自定义 RAG 应用程序。
 
@@ -56,46 +56,45 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 **标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`AI`](https://nicelinks.site/tags/AI) · [`扩展`](https://nicelinks.site/tags/扩展)
 
-> Chat about anything with Monica, your ChatGPT API powered AI assistant. Get started for free and effortlessly create copywriting with over 80 templates. Let Monica help you compose and insert text into any web page. Plus, select text on any web page and let Monica explain, translate, and rephrase for you.
+>Chat about anything with Monica, your ChatGPT API powered AI assistant. Get started for free and effortlessly create copywriting with over 80 templates. Let Monica help you compose and insert text into any web page. Plus, select text on any web page and let Monica explain, translate, and rephrase for you.
 
-![倾城之链 - Monica - Your ChatGPT AI Assistant Chrome Extension](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/monica.im.png?x-oss-process=style/png2jpg)
+![倾城之链 - Monica - Your ChatGPT AI Assistant Chrome Extension](https://oss.nicelinks.site/monica.im.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Monica](https://nicelinks.site/redirect?url=https://monica.im/) 是一个使用最先进的 AI 模型（GPT-4、Claude、Bard 等）帮助你**对话**、**搜索**、**写作**、**翻译**的一站式 [AI](https://nicelinks.site/tags/AI) 助手，并且提供多种图片、视频、 [PDF](https://nicelinks.site/tags/PDF) 处理的工具。按下 `Cmd/Ctrl + M`，即可启动，随处可用，可以帮您回答复杂问题，撰写邮件，智能阅读，智能搜索等等。Monica 具有如下功能特征：
 
-### 👉 与 AI 聊天
+### 👉与 AI 聊天
 
-- ✔️ 多聊天机器人：在一个平台上与 GPT-3.5、GPT-4、Bard 和 Claude 等多种 LLM 模型进行交流。
-- ✔️ 提示图书馆：在提示库中用'/'快速访问保存的历史提示。
-- ✔️ 实时信息：获取当前实时网络信息。
-- ✔️ 语音支持：使用麦克风按钮无需打字即可聊天。
+- ✔️多聊天机器人：在一个平台上与 GPT-3.5、GPT-4、Bard 和 Claude 等多种 LLM 模型进行交流。
+- ✔️提示图书馆：在提示库中用'/'快速访问保存的历史提示。
+- ✔️实时信息：获取当前实时网络信息。
+- ✔️语音支持：使用麦克风按钮无需打字即可聊天。
 
-### 👉 聊天与摘要
+### 👉聊天与摘要
 
 - ✔️ChatPDF：上传并与 PDF 聊天，更好地理解内容。
-- ✔️ 与图片聊天：上传图片，借助 GPT-4V 进行内容提问。
-- ✔️ 网页摘要：无需阅读整个网页即可获取摘要。
+- ✔️与图片聊天：上传图片，借助 GPT-4V 进行内容提问。
+- ✔️网页摘要：无需阅读整个网页即可获取摘要。
 - ✔️YouTube 摘要：无需观看整个视频即可获取摘要。
 
-### 👉 搜索
+### 👉搜索
 
-- ✔️ 搜索代理：提问后我们会使用多个关键字搜索、审查并找到答案。
-- ✔️ 搜索增强：在 Google 和 New Bing 等搜索引擎旁边加载 ChatGPT 的回答。
+- ✔️搜索代理：提问后我们会使用多个关键字搜索、审查并找到答案。
+- ✔️搜索增强：在 Google 和 New Bing 等搜索引擎旁边加载 ChatGPT 的回答。
 
-### 👉 写作
+### 👉写作
+- ✔️撰写：使用 'compose' 快速定制撰写论文或报告，并控制篇幅、风格和语调。
+- ✔️写作代理：只需提供一个主题，我们就会自动起草带有延伸内容和参考资料的大纲。
+- ✔️电子邮件回复：在 Gmail 中，我们根据邮件内容提供回复选项，允许您点击选择回复，无需打字。
 
-- ✔️ 撰写：使用 'compose' 快速定制撰写论文或报告，并控制篇幅、风格和语调。
-- ✔️ 写作代理：只需提供一个主题，我们就会自动起草带有延伸内容和参考资料的大纲。
-- ✔️ 电子邮件回复：在 Gmail 中，我们根据邮件内容提供回复选项，允许您点击选择回复，无需打字。
-
-### 👉 翻译
+### 👉翻译
 
 - ✔️PDF 翻译：翻译 PDF，并将左侧原文和右侧译文进行比较。
-- ✔️ 平行翻译：翻译网页时不遮盖原文，以便进行语言对比和获取准确答案。
-- ✔️ 文本翻译：即时翻译网页上选定的文本。
+- ✔️平行翻译：翻译网页时不遮盖原文，以便进行语言对比和获取准确答案。
+- ✔️文本翻译：即时翻译网页上选定的文本。
 
-### 👉 创作艺术
+### 👉创作艺术
 
-- ✔️ 将您的文字转换为视觉图像。只需输入简短的文本，您就可以成为画家。
+- ✔️将您的文字转换为视觉图像。只需输入简短的文本，您就可以成为画家。
 
 ### 👉 AI Memo
 
@@ -103,7 +102,7 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 您可以免费使用 Monica。免费用户有每日使用限制。但是，对于高级功能，您可能需要升级到付费版本。**Monica 是如何工作的**？Monica 使用由 ChatGPT API 提供支持的先进人工智能技术，理解并回应您的聊天消息，以及根据提供的模板生成文案。此外，Monica 还可以翻译、改写和解释任何网页上的文本。
 
-总之，Monica 是一个由 [ChatGPT](https://nicelinks.site/tags/ChatGPT) API 提供支持的 Chrome 扩展，旨在成为您轻松聊天和撰写文案的个人 AI 助手。💻 **如何使用 Monica**？：🔸 点击“**添加到 Chrome**”按钮并将其固定到工具栏。🔸 登录您的账户。🔸 按 Cmd/Ctrl+M 唤醒 Monica，然后开始与她聊天。或者让 Monica 帮助您在任何网页上组织和插入文本。选择超过 80 个模板中的一个，快速生成营销文案。选择网页上的文本，让 Monica 为您解释、翻译、改写。
+总之，Monica 是一个由 [ChatGPT](https://nicelinks.site/tags/ChatGPT) API 提供支持的 Chrome 扩展，旨在成为您轻松聊天和撰写文案的个人 AI 助手。💻 **如何使用 Monica**？：🔸点击“**添加到 Chrome**”按钮并将其固定到工具栏。🔸登录您的账户。🔸按 Cmd/Ctrl+M 唤醒 Monica，然后开始与她聊天。或者让Monica帮助您在任何网页上组织和插入文本。选择超过80个模板中的一个，快速生成营销文案。选择网页上的文本，让Monica为您解释、翻译、改写。
 
 ── 出自[倾城之链 - Monica - Your ChatGPT AI Assistant Chrome Extension](https://nicelinks.site/post/659f7e92ae8b2b2d0a97491d)
 
@@ -111,9 +110,9 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 **标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`Rust`](https://nicelinks.site/tags/Rust) · [`React`](https://nicelinks.site/tags/React)
 
-> Rspack based static site generator
+>Rspack based static site generator
 
-![倾城之链 - Rspress | 基于 Rspack 的静态站点生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rspress.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Rspress | 基于 Rspack 的静态站点生成器](https://oss.nicelinks.site/rspress.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Rspress](https://nicelinks.site/redirect?url=https://rspress.dev/) ：基于 [Rspack](https://nicelinks.site/post/6411b081401101258a14cb06) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架进行渲染、支持 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) 、SSG、全文检索等）；它简单、高性能、易于扩展，主要具有如下功能特征：
 
@@ -134,14 +133,14 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 1.  Rspress 的构建性能更好。Rspress 基于 Rust 前端工具链，项目启动/构建速度快于 Docusaurus 5 ~ 10 倍，详情可以参考 [构建性能](https://rspress.dev/zh/guide/start/introduction.html) 。
 2.  Rspress 的配置更简单，上手成本更低。Rspress 的配置更加简单，不引入过多的概念，尽可能降低心智负担，比如提供开箱即用的搜索功能、符合直觉的多版本文档管理方式等等。
-3.  Rspress 架构上对 Bundler 提供了更上层的抽象。对于 webpack、Rspack 这类底层的 Bundler，其配置项繁琐且不易上手。Docusaurus 选择直接暴露底层 Bundler 的配置项，而 Rspress 则对 Bundler 进行了更上层的抽象，提供了更加简单易用的配置项，比如你可以通过  `builderConfig.html.tags`  轻松添加  `<head>`  中的标签，而不用通过 Bundler 来注册  `html-webpack-plugin`  相关插件。
+3.  Rspress 架构上对 Bundler 提供了更上层的抽象。对于 webpack、Rspack 这类底层的 Bundler，其配置项繁琐且不易上手。Docusaurus 选择直接暴露底层 Bundler 的配置项，而 Rspress 则对 Bundler 进行了更上层的抽象，提供了更加简单易用的配置项，比如你可以通过 `builderConfig.html.tags` 轻松添加 `<head>` 中的标签，而不用通过 Bundler 来注册 `html-webpack-plugin` 相关插件。
 
 #### 与 Nextra 的区别
 
 [Nextra](https://nicelinks.site/post/63e4db7ee63ccd089dee6599) 是 Vercel 开源的一款 SSG 框架，它也和 Rspress 一样使用 React 作为渲染框架，且支持 MDX。Rspress 与 Nextra 的区别主要在于：
 
 1.  Rspress 的构建性能更好。这一点可参考「与 Docusaurus 的区别」。
-2.  Rspress 整体更加轻量。Nextra 需要依赖 Next.js，其 SSG 流程也是基于 Next.js 的，因此 SSG 产物中并非纯粹的 HTML 文件，而是额外包含了一些 Next.js 的运行时代码，一方面导致了 Nextra 的产物体积更大，另一方面需要在部署时以应用的方式部署(使用  `next start`  命令)，而不能以纯静态站点的方式部署。但 Rspress 没有和任何应用框架绑定，因此产物更加轻量，可以很方便地以纯静态站点的方式部署。
+2.  Rspress 整体更加轻量。Nextra 需要依赖 Next.js，其 SSG 流程也是基于 Next.js 的，因此 SSG 产物中并非纯粹的 HTML 文件，而是额外包含了一些 Next.js 的运行时代码，一方面导致了 Nextra 的产物体积更大，另一方面需要在部署时以应用的方式部署(使用 `next start` 命令)，而不能以纯静态站点的方式部署。但 Rspress 没有和任何应用框架绑定，因此产物更加轻量，可以很方便地以纯静态站点的方式部署。
 
 #### 与 VitePress 的区别
 
@@ -159,9 +158,9 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 **标签**：[`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
-> Ultrafast web framework for Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, Lagon, Node.js, and others. Fast, but not only fast.
+>Ultrafast web framework for Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, Lagon, Node.js, and others. Fast, but not only fast.
 
-![倾城之链 - Hono - Ultrafast web framework for the Edges](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hono.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Hono - Ultrafast web framework for the Edges](https://oss.nicelinks.site/hono.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Hono](https://nicelinks.site/redirect?url=https://hono.dev/) 是专为边缘计算环境设计的超快 Web [框架](https://nicelinks.site/tags/)。它是轻量级的，遵循 Web 标准，并且可以在各种 JavaScript 运行时上运行。该框架提供了一系列功能和工具来增强开发体验，并使边缘应用程序的构建变得高效而简单。Hono 主要具有如下功能特征：
 
@@ -181,18 +180,17 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 **标签**：[`程序`](https://nicelinks.site/tags/程序) · [`LLM`](https://nicelinks.site/tags/LLM) · [`AI`](https://nicelinks.site/tags/AI)
 
-> LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs). The LM Studio cross platform desktop app allows you to download and run any ggml-compatible model from Hugging Face, and provides a simple yet powerful model configuration and inferencing UI. The app leverages your GPU when possible.
+>LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs). The LM Studio cross platform desktop app allows you to download and run any ggml-compatible model from Hugging Face, and provides a simple yet powerful model configuration and inferencing UI. The app leverages your GPU when possible.
 
-![倾城之链 - LM Studio - Discover, download, and run local LLMs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lmstudio.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - LM Studio - Discover, download, and run local LLMs](https://oss.nicelinks.site/lmstudio.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[LM Studio](https://nicelinks.site/redirect?url=https://lmstudio.ai/) 是一个易于使用的桌面应用程序，用于试验本地和开源的大型语言模型( [LLM](https://nicelinks.site/tags/LLM) )。LM Studio 跨平台桌面应用程序允许您从 [Hugging Face](https://nicelinks.site/post/64748dbdd10b0244940df838) 下载并运行任何与 ggml 兼容的模型，并提供简单而强大的模型配置和推理 UI。该应用程序在可能的情况下利用你的 GPU。通过 [LM Studio](https://nicelinks.site/redirect?url=https://lmstudio.ai/) 您可以：
-
 - 🤖 在您的笔记本电脑上运行法学硕士，完全离线;
 - 👾 通过应用内聊天 UI 或 OpenAI 兼容的本地服务器使用模型
 - 📂 从 HuggingFace 🤗 存储库下载任何兼容的模型文件；
 - 🔭 在应用程序主页中发现新的、值得注意的 LLM；
 
-LM Studio 支持 Hugging Face 上的任何 ggml Llama、MPT 和 StarCoder 模型（Llama 2、Orca、Vicuna、Nous Hermes、WizardCoder、MPT 等）；LM Studio 最低硬件/软件要求是：
+LM Studio 支持 Hugging Face 上的任何 ggml Llama、MPT 和 StarCoder 模型（Llama 2、Orca、Vicuna、Nous Hermes、WizardCoder、MPT 等）；LM Studio  最低硬件/软件要求是：
 
 - **配备 macOS 13.6 或更高版本的** Apple Silicon Mac (M1/M2/M3)；
 - 具有支持 AVX2 处理器的 Windows/Linux PC （通常是较新的 PC）；
@@ -203,11 +201,9 @@ LM Studio 支持 Hugging Face 上的任何 ggml Llama、MPT 和 StarCoder 模型
 
 ── 出自[倾城之链 - LM Studio - Discover, download, and run local LLMs](https://nicelinks.site/post/659d528aae8b2b2d0a973d0d)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -215,30 +211,28 @@ LM Studio 支持 Hugging Face 上的任何 ggml Llama、MPT 和 StarCoder 模型
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 146 期）- 倾城之链](https://link.niceshare.site/weekly-146/)
-- [优质网站同好者周刊（第 145 期）- 倾城之链](https://link.niceshare.site/weekly-145/)
-- [优质网站同好者周刊（第 144 期）- 倾城之链](https://link.niceshare.site/weekly-144/)
-- [优质网站同好者周刊（第 143 期）- 倾城之链](https://link.niceshare.site/weekly-143/)
-- [优质网站同好者周刊（第 142 期）- 倾城之链](https://link.niceshare.site/weekly-142/)
-- [优质网站同好者周刊（第 141 期）- 倾城之链](https://link.niceshare.site/weekly-141/)
-- [优质网站同好者周刊（第 140 期）- 倾城之链](https://link.niceshare.site/weekly-140/)
-- [优质网站同好者周刊（第 139 期）- 倾城之链](https://link.niceshare.site/weekly-139/)
-- [优质网站同好者周刊（第 138 期）- 倾城之链](https://link.niceshare.site/weekly-138/)
-- [优质网站同好者周刊（第 137 期）- 倾城之链](https://link.niceshare.site/weekly-137/)
-- [优质网站同好者周刊（第 136 期）- 倾城之链](https://link.niceshare.site/weekly-136/)
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
+- [优质网站同好者周刊（第 146 期）- 倾城之链](https://blog.nicelinks.site/weekly-146/)
+- [优质网站同好者周刊（第 145 期）- 倾城之链](https://blog.nicelinks.site/weekly-145/)
+- [优质网站同好者周刊（第 144 期）- 倾城之链](https://blog.nicelinks.site/weekly-144/)
+- [优质网站同好者周刊（第 143 期）- 倾城之链](https://blog.nicelinks.site/weekly-143/)
+- [优质网站同好者周刊（第 142 期）- 倾城之链](https://blog.nicelinks.site/weekly-142/)
+- [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
+- [优质网站同好者周刊（第 140 期）- 倾城之链](https://blog.nicelinks.site/weekly-140/)
+- [优质网站同好者周刊（第 139 期）- 倾城之链](https://blog.nicelinks.site/weekly-139/)
+- [优质网站同好者周刊（第 138 期）- 倾城之链](https://blog.nicelinks.site/weekly-138/)
+- [优质网站同好者周刊（第 137 期）- 倾城之链](https://blog.nicelinks.site/weekly-137/)
+- [优质网站同好者周刊（第 136 期）- 倾城之链](https://blog.nicelinks.site/weekly-136/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

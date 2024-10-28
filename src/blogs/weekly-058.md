@@ -10,7 +10,7 @@
 
 > OBS (Open Broadcaster Software) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
-![倾城之链 - Open Broadcaster Software | OBS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/obsproject.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Open Broadcaster Software | OBS](https://oss.nicelinks.site/obsproject.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[OBS Studio](https://nicelinks.site/redirect?url=https://obsproject.com/) (Open Broadcaster Software) 是**免费的开源软件**，用于**视频录制**和**直播**。在 Windows、Mac 或 Linux 上，可快速轻松地下载，并开始流式传输。可流媒体到 Twitch、YouTube 和许多其他供应商，或用高质量的 H264 / AAC 编码录制你自己的视频。它具有以下功能特征：
 
@@ -33,7 +33,7 @@
 
 > 道德经网，老子《道德经》全文及译文。
 
-![倾城之链 - 道德经网--老子道德经全文及译文](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.daodejing.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - 道德经网--老子道德经全文及译文](https://oss.nicelinks.site/www.daodejing.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[道德经网](https://nicelinks.site/redirect?url=https://www.daodejing.org/)，一个基于古老 Web 框架 ── ASP.NET 所搭建的网站，用以承载老子《道德经》全文及译文，以及老子其人的相关信息、智慧和故事等。
 
@@ -53,7 +53,7 @@
 
 > Test drive AMP Emails without any code, and set up and send your first AMP email today. Get access to AMP Email industry updates, community, and more.
 
-![倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ampmails.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://oss.nicelinks.site/www.ampmails.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AMP mails](https://nicelinks.site/redirect?url=https://www.ampmails.com/)，可以帮助您在电子邮件中插入表单、日历、购物车、小部件等，以提高电子邮件参与度。立即在您的收件箱中收到这样一封 AMP 电子邮件。
 
@@ -87,7 +87,7 @@
 
 > Self-hosted and cloud-based application monitoring that helps software teams see clearer, solve quicker, & learn continuously.
 
-![倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sentry.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://oss.nicelinks.site/sentry.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/)，是一个基于 Django 构建的现代化的实时事件日志监控、记录和聚合平台，主要用于如何快速的发现故障。支持几乎所有主流开发语言和平台，并提供了现代化 UI；它专门用于：**监视错误**和提取执行适当的事后操作所需的所有信息，而无需使用标准用户反馈循环的任何麻烦。
 
@@ -113,15 +113,15 @@ Sentry 最初是一个开源项目。其创始人的目标很简单：用一种�
 
 > uu 导航-以最快的速度获取所求，为用户提供门户、新闻、视频、游戏、小说、彩票等各种分类的优秀内容和网站入口，提供简单便捷的上网导航服务。
 
-![倾城之链 - UU导航 - 学技术，找资源。一网打尽](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.daohanguu.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - UU导航 - 学技术，找资源。一网打尽](https://oss.nicelinks.site/www.daohanguu.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[UU 导航](https://nicelinks.site/redirect?url=https://www.daohanguu.com/)，创建于 2021 年 4 月，致力于：为用户提供更简单、更实用、更贴心的导航服务。通过 `UU导航`使您上网更轻松惬意、生活更便捷，是该团队努力的目标。UU 导航对收录内容做了以下分类：资源、活动、论坛、辅助、系统、社区、卡盟、发卡、支付、站长、游戏、CMS、博客、直播、IDC、下载、CDN、黑客、导航、其他。除了导航，该网站还提供了些其他内容，譬如 [UU 影视](https://nicelinks.site/redirect?url=https://cms.daohanguu.com/)，播放流畅、无广告，初步体验还可以。
 
 ── 出自[倾城之链 - UU 导航 - 学技术，找资源。一网打尽](https://nicelinks.site/post/62372ede006c7408774a7c04)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -129,23 +129,21 @@ Sentry 最初是一个开源项目。其创始人的目标很简单：用一种�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 57 期）- 倾城之链](https://link.niceshare.site/weekly-057/)
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
-- [优质网站同好者周刊（第 55 期）- 倾城之链](https://link.niceshare.site/weekly-055/)
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

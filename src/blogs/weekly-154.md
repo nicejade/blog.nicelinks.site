@@ -6,9 +6,10 @@
 
 **标签**：[`编程`](https://nicelinks.site/tags/编程) · [`笔记`](https://nicelinks.site/tags/笔记) · [`可视化`](https://nicelinks.site/tags/可视化)
 
-> The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations, interactive dashboards and other media.
+>The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations, interactive dashboards and other media.
 
-![倾城之链 - Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jupyter.org.png?x-oss-process=style/png2jpg)
+
+![倾城之链 - Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://oss.nicelinks.site/jupyter.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Jupyter Notebook](https://nicelinks.site/redirect?url=https://jupyter.org/) 是一个 [开源](https://nicelinks.site/tags/开源) 的 Web 应用程序，它允许你创建和分享包含实时代码、方程、可视化以及叙述性文本的文档；它提供了简单、精简、以 [文档](https://nicelinks.site/tags/文档) 为中心的体验。这个工具非常适合数据清洗和转换、数值模拟、统计建模、数据可视化、机器学习等领域的探索性数据分析和科学计算。
 
@@ -48,9 +49,9 @@
 
 **关键字**：text-to-svg, text prompt to SVG, prompt to svg, AI SVG generator, text-to-vector, AI for SVG, SVG
 
-> Use text-to-svg to create unique SVG cut files with our AI Generator tool. 100% FREE, no signup.
+>Use text-to-svg to create unique SVG cut files with our AI Generator tool. 100% FREE, no signup.
 
-![倾城之链 - AI text prompt to SVG | SVG.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/svg.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - AI text prompt to SVG | SVG.io](https://oss.nicelinks.site/svg.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SVG.io](https://nicelinks.site/redirect?url=https://svg.io/) ，免费在线的 [AI](https://nicelinks.site/tags/AI) 工具，轻松将文本提示转换为令人惊叹的 [SVG](https://nicelinks.site/tags/SVG) 插图；输入文本提示，例如 “wolf”，然后看到它神奇地变成 SVG 图像，这一切发生在在 20 秒内。即将推出的功能： - 新模型 - 类别 - 所有类别的多个结果。
 
@@ -64,11 +65,11 @@
 
 **关键字**：SVG, icon, generator, editor, gif, Platform, SVG generator, SVG animation, SVG synthesizer, png, svg to png, icon editor, svg editor
 
-> Generate SVG icons in seconds | SVG 图标编辑生成工具
+>Generate SVG icons in seconds | SVG 图标编辑生成工具
 
-![倾城之链 - ICONCE - Generate SVG icons in seconds](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iconce.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - ICONCE - Generate SVG icons in seconds](https://oss.nicelinks.site/iconce.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ICONCE](https://nicelinks.site/redirect?url=https://iconce.com/) ，一款在线 SVG [图标](https://nicelinks.site/tags/图标) 编辑生成工具，可以让用户在几秒钟内生成 [SVG](https://nicelinks.site/tags/SVG) 图标；对于内容，支持填充文本、内置图标、 [Emoji](https://nicelinks.site/tags/Emoji) 以及用户上传的图片；对于 Fill 风格、背景色、ICON、Border、尺寸等等可以修改。制作完成，能够很方便的导出至本地、或一键拷贝 SVG 或 PNG（须付费）。整个体验十分顺畅，如果您有生成 SVG 图标相关诉求，推荐试用 [ICONCE](https://nicelinks.site/redirect?url=https://iconce.com/) 。
+**推荐语**：[ICONCE](https://nicelinks.site/redirect?url=https://iconce.com/) ，一款在线 SVG [图标](https://nicelinks.site/tags/图标) 编辑生成工具，可以让用户在几秒钟内生成 [SVG](https://nicelinks.site/tags/SVG) 图标；对于内容，支持填充文本、内置图标、 [Emoji](https://nicelinks.site/tags/Emoji) 以及用户上传的图片；对于 Fill 风格、背景色、ICON、Border、尺寸等等可以修改。制作完成，能够很方便的导出至本地、或一键拷贝SVG 或 PNG（须付费）。整个体验十分顺畅，如果您有生成 SVG 图标相关诉求，推荐试用 [ICONCE](https://nicelinks.site/redirect?url=https://iconce.com/) 。
 
 ── 出自[倾城之链 - ICONCE - Generate SVG icons in seconds](https://nicelinks.site/post/65b2139b90c58e1dcf67500d)
 
@@ -76,11 +77,11 @@
 
 **标签**：[`编码`](https://nicelinks.site/tags/编码) · [`程序员`](https://nicelinks.site/tags/程序员) · [`开源`](https://nicelinks.site/tags/开源)
 
-> Format, lint, and more in a fraction of a second.
+>Format, lint, and more in a fraction of a second.
 
-![倾城之链 - Biome, toolchain of the web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/biomejs.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Biome, toolchain of the web](https://oss.nicelinks.site/biomejs.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Biome](https://nicelinks.site/redirect?url=https://biomejs.dev/) 是一款用于 Web 项目的工具链，可在瞬间进行代码格式化、代码检查等操作。您可以像使用 [Prettier](https://nicelinks.site/post/5c16083e819ae45de1453caa) 一样，使用 Biome 快速格式化 [JavaScript](https://nicelinks.site/tags/JavaScript) 、TypeScript、JSX 和 JSON 代码，它与 Prettier 有 97% 的兼容性，可节省 CI 和开发人员的时间。**Biome**  从一开始就设计为 [在编辑器中交互式使用](https://biomejs.dev/zh-cn/guides/integrate-in-editor/) ，即使**在您喜欢的编辑器中编写格式错误的代码**，它可以在你编写代码时格式化并检查出不规范的代码。
+**推荐语**：[Biome](https://nicelinks.site/redirect?url=https://biomejs.dev/) 是一款用于 Web 项目的工具链，可在瞬间进行代码格式化、代码检查等操作。您可以像使用 [Prettier](https://nicelinks.site/post/5c16083e819ae45de1453caa) 一样，使用 Biome 快速格式化 [JavaScript](https://nicelinks.site/tags/JavaScript) 、TypeScript、JSX 和 JSON 代码，它与 Prettier 有 97% 的兼容性，可节省 CI 和开发人员的时间。**Biome** 从一开始就设计为 [在编辑器中交互式使用](https://biomejs.dev/zh-cn/guides/integrate-in-editor/) ，即使**在您喜欢的编辑器中编写格式错误的代码**，它可以在你编写代码时格式化并检查出不规范的代码。
 
 Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，在格式化 2,104 个文件中的 171,127 行代码时，Biome 比 Prettier 快了约 35 倍。它是一个高效的代码检查工具，支持 JavaScript、TypeScript 和 JSX，并整合了来自 ESLint、TypeScript ESLint 等多个来源的 190 多个规则。Biome 提供详细的上下文诊断信息，帮助您改善代码质量，成为更好的程序员。
 
@@ -101,9 +102,9 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 **标签**：[`图像优化`](https://nicelinks.site/tags/图像优化) · [`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片)
 
-> Upscaler & Enhance images to extreme detail with MewX AI Upscaler. Transform landscapes, portraits, animations, foods, and nature into stunning high-definition visuals also includes upsclaer midjourney images
+>Upscaler & Enhance images to extreme detail with MewX AI Upscaler. Transform landscapes, portraits, animations, foods, and nature into stunning high-definition visuals also  includes upsclaer midjourney images
 
-![倾城之链 - MewXAI Upscaler - Extreme detail image enhancer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mewxai.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - MewXAI Upscaler - Extreme detail image enhancer](https://oss.nicelinks.site/www.mewxai.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MewXAI Upscaler](https://nicelinks.site/redirect?url=https://www.mewxai.com/) 是一款提供极致细节的 [图像增强](https://nicelinks.site/tags/图像优化) 器。它是一个基于先进 [人工智能](https://nicelinks.site/tags/AI) 技术的在线工具，旨在将照片转化为令人惊叹的高清图像，并可以提升中等分辨率图像的细节。MewXAI Upscaler 提供了多项强大的功能：
 
@@ -115,38 +116,39 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 [MewXAI Upscaler](https://nicelinks.site/redirect?url=https://www.mewxai.com/) 提供了免费试用，让您可以开始体验其功能。无论您是想提升个人照片的质量，还是将艺术作品带上一个新的水平，MewXAI Upscaler 都能够为您提供具有创造力和专业水准的图像增强解决方案。
 
+
 ── 出自[倾城之链 - MewXAI Upscaler - Extreme detail image enhancer](https://nicelinks.site/post/65b1128690c58e1dcf67495a)
 
-## [MD Video | 将 Markdown 文档快速转为视频的编辑器](https://nicelinks.site/post/65b10d6e90c58e1dcf6748dd)
+## [MD Video | 将 Markdown文档快速转为视频的编辑器](https://nicelinks.site/post/65b10d6e90c58e1dcf6748dd)
 
 **标签**：[`视频`](https://nicelinks.site/tags/视频) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`软件`](https://nicelinks.site/tags/软件)
 
-**关键字**：MD Video, MD+ Video, mdvideo, MDvideo, Markdown To Video, 文档转视频, 视频处理工具 , Markdown 转视频
+**关键字**：MD Video, MD+ Video, mdvideo, MDvideo, Markdown To Video, 文档转视频, 视频处理工具 , Markdown转视频
 
-> MD Video, MD+ Video, MD Video, mdvideo, 一个将 Markdown 文档转为视频的便捷工具，文档里面的视频、音频、图片网址，都会抓取后插入视频，还可以根据文字生成 AI 语音的旁白朗读
+>MD Video, MD+ Video, MD Video, mdvideo, 一个将 Markdown 文档转为视频的便捷工具，文档里面的视频、音频、图片网址，都会抓取后插入视频，还可以根据文字生成AI语音的旁白朗读
 
-![倾城之链 - MD Video | 将 Markdown文档快速转为视频的编辑器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wvovw.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - MD Video | 将 Markdown文档快速转为视频的编辑器](https://oss.nicelinks.site/www.wvovw.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MD Video](https://nicelinks.site/redirect?url=https://www.wvovw.com/) ，是一个桌面软件，自动将 [Markdown](https://nicelinks.site/tags/Markdown) 文档转成一段视频的短视频编辑器，支持在编写文档时实时预览视频. 会自动提取文档里面的视频、音频、图片网址、标题、代码块、图表、列表等元素，抓取后插入生成视频，可以根据文字生成人工语音的旁白朗读... 具体而言， [MD Video](https://nicelinks.site/redirect?url=https://www.wvovw.com/) 具有如下功能特征：
 
-- 💦 文档转为视频：解析 Markdown 文档中的图片、标题、文本等元素一键转为视频，实时渲染更新视频，并生成相应的 AI 语音、字幕等。
+- 💦文档转为视频：解析 Markdown 文档中的图片、标题、文本等元素一键转为视频，实时渲染更新视频，并生成相应的 AI 语音、字幕等。
 - 🧑AI 语音/字幕旁白：支持 AI 语音自动生成字幕旁边，效果更接近人声；
-- 🦯 动画/过渡：支持几十种动画效果和场景过渡动效；
+- 🦯动画/过渡：支持几十种动画效果和场景过渡动效；
 - 🗃️120GB 超大素材库：包括 120GB 的超大素材库，找资源不烦恼；
-- 🚀 人物角色：多种人物角色，支持走路、移动、交谈、下蹲、打气、伤心、思考等等动作；
+- 🚀人物角色：多种人物角色，支持走路、移动、交谈、下蹲、打气、伤心、思考等等动作；
 - 📹 二次创作：短视频二次创作，短视频解析，包括抖音、快手等平台。可以一键解析并导入视频资源进行编辑；
 
 总之， [MD Video](https://nicelinks.site/redirect?url=https://www.wvovw.com/) 是一款将 Markdown 文档快速转为视频的编辑器工具，如果您对其感兴趣，可移步官网或者 [MD Video 在 Github 开源仓库](https://github.com/lqomg/wvovw) ，从而了解更多。
 
-── 出自[倾城之链 - MD Video | 将 Markdown 文档快速转为视频的编辑器](https://nicelinks.site/post/65b10d6e90c58e1dcf6748dd)
+── 出自[倾城之链 - MD Video | 将 Markdown文档快速转为视频的编辑器](https://nicelinks.site/post/65b10d6e90c58e1dcf6748dd)
 
 ## [FreeTube - The Private YouTube Client](https://nicelinks.site/post/65b1042290c58e1dcf67486d)
 
 **标签**：[`视频`](https://nicelinks.site/tags/视频) · [`开源`](https://nicelinks.site/tags/开源) · [`免费`](https://nicelinks.site/tags/免费)
 
-> FreeTube is a feature-rich and user-friendly YouTube client with a focus on privacy.
+>FreeTube is a feature-rich and user-friendly YouTube client with a focus on privacy.
 
-![倾城之链 - FreeTube - The Private YouTube Client](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/freetubeapp.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - FreeTube - The Private YouTube Client](https://oss.nicelinks.site/freetubeapp.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[FreeTube](https://nicelinks.site/redirect?url=https://freetubeapp.io/) 是一款基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 构建、面向 Windows、Mac 和 Linux 的 YouTube 客户端，旨在提供更私密的 YouTube 使用体验。您可以享受您喜爱的内容和创作者，而无需担心您的习惯被跟踪。所有用户数据都存储在本地，不会被发送或发布到互联网上。与 YouTube 类似，FreeTube 具有许多相似的功能，已成为在桌面上私密观看 YouTube 的最佳方法之一。FreeTube 当前功能包括：
 
@@ -160,7 +162,7 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 8.  多平台支持：支持 Windows、Mac 和多个 Linux 发行版。
 9.  多语言支持：已翻译成多种语言。
 
-FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地方法或可选择使用 Invidious API）来获取数据。FreeTube 不使用任何官方 API 来获取数据。虽然 YouTube 仍然可以看到您的视频请求，但它无法再使用 cookie 或 JavaScript 跟踪您。您的订阅和历史记录都存储在您的计算机本地，并且永远不会发送出去。强烈建议在使用 FreeTube 时使用 VPN 或 Tor 来隐藏您的 IP。
+ FreeTube 是如何工作的？FreeTube  通过抓取所需信息（使用本地方法或可选择使用 Invidious API）来获取数据。FreeTube 不使用任何官方 API 来获取数据。虽然 YouTube 仍然可以看到您的视频请求，但它无法再使用 cookie 或 JavaScript 跟踪您。您的订阅和历史记录都存储在您的计算机本地，并且永远不会发送出去。强烈建议在使用 FreeTube 时使用 VPN 或 Tor 来隐藏您的 IP。
 
 总之， [FreeTube](https://nicelinks.site/redirect?url=https://freetubeapp.io/) 是一款保护隐私的 [开源](https://nicelinks.site/tags/开源) YouTube 客户端应用，您可以享受自己喜欢的内容和 [创作者](https://nicelinks.site/tags/创作者) ，而无需跟踪您的习惯。您的所有用户数据都存储在本地，永远不会发送或发布到互联网。如果您对其感兴趣，可移步 [Github 开源仓库](https://github.com/FreeTubeApp/FreeTube) 从而了解更多。
 
@@ -170,9 +172,9 @@ FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地�
 
 **标签**：[`Python`](https://nicelinks.site/tags/Python) · [`开源`](https://nicelinks.site/tags/开源) · [`Embedding`](https://nicelinks.site/tags/Embedding)
 
-> SentenceTransformers Documentation. SentenceTransformers is a Python framework for state-of-the-art sentence, text and image embeddings.
+>SentenceTransformers Documentation. SentenceTransformers is a Python framework for state-of-the-art sentence, text and image embeddings. 
 
-![倾城之链 - SentenceTransformers Documentation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.sbert.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - SentenceTransformers Documentation](https://oss.nicelinks.site/www.sbert.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SentenceTransformers](https://nicelinks.site/redirect?url=https://www.sbert.net/) 是一个用于最先进的句子、文本和图像嵌入的 [Python](https://nicelinks.site/tags/Python) 框架；**该框架提供了一种简单的方法来计算句子**、**段落**和**图像**的密集向量表示。这些模型基于 BERT / RoBERTa / XLM-RoBERTa 等变压器网络，并在各种任务中实现了最先进的性能。文本嵌入到向量空间中，使得相似的文本更接近，并且可以使用余弦相似度（cosine-similarity）有效地找到。
 
@@ -188,13 +190,13 @@ FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地�
 
 **标签**：[`招聘`](https://nicelinks.site/tags/招聘) · [`AI`](https://nicelinks.site/tags/AI) · [`简历`](https://nicelinks.site/tags/简历)
 
-> Discover Brainner's advanced AI-driven resume screener. Automate resume comparisons, intuitively search candidates with natural language, and seamlessly integrate with top HR software. Elevate your recruitment process today
+>Discover Brainner's advanced AI-driven resume screener. Automate resume comparisons, intuitively search candidates with natural language, and seamlessly integrate with top HR software. Elevate your recruitment process today
 
-![倾城之链 - Brainner AI-Powered HR Copilot | Brainner](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.brainner.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Brainner AI-Powered HR Copilot | Brainner](https://oss.nicelinks.site/www.brainner.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Brainner AI](https://nicelinks.site/redirect?url=https://www.brainner.ai/) 一款利用 [人工智能](https://nicelinks.site/tags/AI) 自动筛选简历的产品，具有节省时间、加快招聘速度并提高准确性等优势：该人工智能驱动的简历筛选工具会根据您的个性化标准对候选人进行分类，从而在招聘过程中每月为招聘人员和初创公司创始人节省多达 40 小时的手动工作时间。Brainner 使用也非常简单，只需要如下三个步骤即可：
 
-### 上传您的职位描述
+###  上传您的职位描述
 
 - 只需上传职位描述并获取人工智能建议,使其对潜 在候选人更具吸引力。
 - 人工智能分析并提取筛选候选人的关键标准,并将 其分类为工作经验、教育、技能等领域。
@@ -221,9 +223,9 @@ FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地�
 
 **标签**：[`产品`](https://nicelinks.site/tags/产品) · [`API`](https://nicelinks.site/tags/API) · [`开发者`](https://nicelinks.site/tags/开发者)
 
-> Developer APIs / SDKs for enterprise-ready features like Single Sign-On (SSO/SAML), Passwordless Authentication, Directory Sync (SCIM), Audit Trail (SIEM), and more. Get started for free.
+>Developer APIs / SDKs for enterprise-ready features like Single Sign-On (SSO/SAML), Passwordless Authentication, Directory Sync (SCIM), Audit Trail (SIEM), and more. Get started for free.
 
-![倾城之链 - WorkOS — Your app, Enterprise Ready.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/workos.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - WorkOS — Your app, Enterprise Ready.](https://oss.nicelinks.site/workos.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WorkOS](https://nicelinks.site/redirect?url=https://workos.com/) 是一个为应用程序开发人员提供一系列企业级解决方案的平台。通过将 WorkOS 集成到您的 [应用](https://nicelinks.site/tags/应用) 程序中，您可以快速添加用户管理、企业单点登录 (SSO) 集成、IT 管理员管理门户、目录同步、可自定义身份验证 UI、高级事件日志记录等功能。以下是 WorkOS 网站上提供的一些主要产品：
 
@@ -248,41 +250,37 @@ WorkOS 由 Michael Grinich 于 2019 年创立，他认识到满足企业的复�
 
 ── 出自[倾城之链 - WorkOS — Your app, Enterprise Ready.](https://nicelinks.site/post/65afe7222c315d2784ce8e37)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-吾言甚易知，甚易行。天下莫能知，莫能行。言有宗，事有君，夫唯无知，是以不我知。知我者希，则我者贵。是以圣人被褐而怀玉。── 春秋末期 · 老子李耳《道德经》第七十章
+吾言甚易知，甚易行。天下莫能知，莫能行。言有宗，事有君，夫唯无知，是以不我知。知我者希，则我者贵。是以圣人被褐而怀玉。──春秋末期 · 老子李耳《道德经》第七十章
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 153 期）- 倾城之链](https://link.niceshare.site/weekly-153/)
-- [优质网站同好者周刊（第 152 期）- 倾城之链](https://link.niceshare.site/weekly-152/)
-- [优质网站同好者周刊（第 151 期）- 倾城之链](https://link.niceshare.site/weekly-151/)
-- [优质网站同好者周刊（第 150 期）- 倾城之链](https://link.niceshare.site/weekly-150/)
-- [优质网站同好者周刊（第 149 期）- 倾城之链](https://link.niceshare.site/weekly-149/)
-- [优质网站同好者周刊（第 148 期）- 倾城之链](https://link.niceshare.site/weekly-148/)
-- [优质网站同好者周刊（第 147 期）- 倾城之链](https://link.niceshare.site/weekly-147/)
-- [优质网站同好者周刊（第 146 期）- 倾城之链](https://link.niceshare.site/weekly-146/)
-- [优质网站同好者周刊（第 145 期）- 倾城之链](https://link.niceshare.site/weekly-145/)
-- [优质网站同好者周刊（第 144 期）- 倾城之链](https://link.niceshare.site/weekly-144/)
-- [优质网站同好者周刊（第 143 期）- 倾城之链](https://link.niceshare.site/weekly-143/)
-- [优质网站同好者周刊（第 142 期）- 倾城之链](https://link.niceshare.site/weekly-142/)
-- [优质网站同好者周刊（第 141 期）- 倾城之链](https://link.niceshare.site/weekly-141/)
+- [优质网站同好者周刊（第 153 期）- 倾城之链](https://blog.nicelinks.site/weekly-153/)
+- [优质网站同好者周刊（第 152 期）- 倾城之链](https://blog.nicelinks.site/weekly-152/)
+- [优质网站同好者周刊（第 151 期）- 倾城之链](https://blog.nicelinks.site/weekly-151/)
+- [优质网站同好者周刊（第 150 期）- 倾城之链](https://blog.nicelinks.site/weekly-150/)
+- [优质网站同好者周刊（第 149 期）- 倾城之链](https://blog.nicelinks.site/weekly-149/)
+- [优质网站同好者周刊（第 148 期）- 倾城之链](https://blog.nicelinks.site/weekly-148/)
+- [优质网站同好者周刊（第 147 期）- 倾城之链](https://blog.nicelinks.site/weekly-147/)
+- [优质网站同好者周刊（第 146 期）- 倾城之链](https://blog.nicelinks.site/weekly-146/)
+- [优质网站同好者周刊（第 145 期）- 倾城之链](https://blog.nicelinks.site/weekly-145/)
+- [优质网站同好者周刊（第 144 期）- 倾城之链](https://blog.nicelinks.site/weekly-144/)
+- [优质网站同好者周刊（第 143 期）- 倾城之链](https://blog.nicelinks.site/weekly-143/)
+- [优质网站同好者周刊（第 142 期）- 倾城之链](https://blog.nicelinks.site/weekly-142/)
+- [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

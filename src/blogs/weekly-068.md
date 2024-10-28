@@ -8,7 +8,7 @@
 
 > From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
 
-![倾城之链 - Markdoc | A powerful, flexible, Markdown-based authoring framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markdoc.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Markdoc | A powerful, flexible, Markdown-based authoring framework](https://oss.nicelinks.site/markdoc.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Markdoc](https://nicelinks.site/redirect?url=https://markdoc.io/) 一个强大、灵活、基于 Markdown 的创作框架。它是基于 [Markdown](https://nicelinks.site/tags/Markdown) 的语法和工具链，用于创建自定义文档站点和体验。它具有以下功能特征：
 
@@ -38,7 +38,7 @@ Markdoc 允许您自定义系统的所有方面，从 [自定义标签](https://
 
 > Fast, disk space efficient package manager
 
-![倾城之链 - Fast, disk space efficient package manager | pnpm](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pnpm.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Fast, disk space efficient package manager | pnpm](https://oss.nicelinks.site/pnpm.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [PNPM](https://nicelinks.site/redirect?url=https://pnpm.io/) ，快速的，节省磁盘空间的包管理工具；相比于 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 或 [yarn](https://nicelinks.site/post/62962d4bf6811e06619d2773) ，pnpm 具有以下功能特色：
 
@@ -67,7 +67,7 @@ Markdoc 允许您自定义系统的所有方面，从 [自定义标签](https://
 
 > ZincSearch is the simplest and easiest search system to get up and running. It's an open source easy-to-use search engine to solves your observability needs.
 
-![倾城之链 - ZincSearch - A modern search engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zincsearch.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - ZincSearch - A modern search engine](https://oss.nicelinks.site/zincsearch.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [ZincSearch](https://nicelinks.site/redirect?url=https://zincsearch.com/) ，一个现代化的、简单的、**易用的**、[开源的](https://nicelinks.site/redirect?url=https://github.com/zinclabs/zinc)搜索引擎。可以基于 Zinc 进行全文索引的搜索引擎。它是 Elasticsearch 的轻量级替代品，并且使用一小部分资源运行。它使用 [bluge](https://nicelinks.site/redirect?url=https://github.com/blugelabs/bluge) 作为底层索引库。它提供了许多功能，帮助您在几分钟内启动并运行，可以很好地解决您的搜索诉求。您可以从以下几个特征，来领略 ZincSearch 的强大功能：
 
@@ -109,7 +109,7 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 > 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 
-![倾城之链 - 泡泡](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.paopao.info.png?x-oss-process=style/png2jpg)
+![倾城之链 - 泡泡](https://oss.nicelinks.site/www.paopao.info.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [PaoPao](https://nicelinks.site/redirect?url=https://www.paopao.info/) ，🔥 一个清新文艺的微社区（类似 Twitter）。基于账号密码注册，即可使用（实际体验，需要绑定`手机号`，才能正常发帖——正常操作流程）。主要由以下优秀的开源项目/工具构建：
 
@@ -137,7 +137,7 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 > Fast, reliable, and secure dependency management.
 
-![倾城之链 - Home | Yarn - Package Manager](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/yarnpkg.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Home | Yarn - Package Manager](https://oss.nicelinks.site/yarnpkg.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Yarn](https://nicelinks.site/redirect?url=https://yarnpkg.com/)，对你的代码来说是一个包管理器， 你可以通过它使用全世界开发者的代码，或者分享自己的代码。 Yarn 做这些快捷、安全、可靠，所以你不用担心什么。通过  `Yarn`，你可以使用其他开发者针对不同问题的解决方案，使自己的开发过程更简单。 使用过程中遇到问题，你可以将其上报或者贡献解决方案。一旦问题被修复，Yarn 会更新保持同步。
 
@@ -155,7 +155,7 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 > ColorFu is where people can use words, colors, patterns and images to make unique wallpapers to express their feelings or ideas.
 
-![倾城之链 - Colorfu | Make beautiful but also meaningful wallpapers.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/colorfu.art.png?x-oss-process=style/png2jpg)
+![倾城之链 - Colorfu | Make beautiful but also meaningful wallpapers.](https://oss.nicelinks.site/colorfu.art.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Colorfu](https://nicelinks.site/redirect?url=https://colorfu.art/) 用来制作美丽、但也有意义的壁纸的网站；在 Colorfu，您可以使用文字、颜色、图案和图像，制作独特的壁纸，来表达您的感受或想法。Colorfu 使用极其简单，打开网站，即可开启制作。它具有以下功能特色：
 
@@ -168,11 +168,9 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 ── 出自[倾城之链 - Colorfu | Make beautiful but also meaningful wallpapers.](https://nicelinks.site/post/6295f213eefd9b0665f43d72)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -182,23 +180,21 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 66 期）- 倾城之链](https://link.niceshare.site/weekly-066/)
-- [优质网站同好者周刊（第 65 期）- 倾城之链](https://link.niceshare.site/weekly-065/)
-- [优质网站同好者周刊（第 64 期）- 倾城之链](https://link.niceshare.site/weekly-064/)
-- [优质网站同好者周刊（第 63 期）- 倾城之链](https://link.niceshare.site/weekly-063/)
-- [优质网站同好者周刊（第 62 期）- 倾城之链](https://link.niceshare.site/weekly-062/)
-- [优质网站同好者周刊（第 61 期）- 倾城之链](https://link.niceshare.site/weekly-061/)
-- [优质网站同好者周刊（第 60 期）- 倾城之链](https://link.niceshare.site/weekly-060/)
-- [优质网站同好者周刊（第 59 期）- 倾城之链](https://link.niceshare.site/weekly-059/)
-- [优质网站同好者周刊（第 58 期）- 倾城之链](https://link.niceshare.site/weekly-058/)
-- [优质网站同好者周刊（第 57 期）- 倾城之链](https://link.niceshare.site/weekly-057/)
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
+- [优质网站同好者周刊（第 66 期）- 倾城之链](https://blog.nicelinks.site/weekly-066/)
+- [优质网站同好者周刊（第 65 期）- 倾城之链](https://blog.nicelinks.site/weekly-065/)
+- [优质网站同好者周刊（第 64 期）- 倾城之链](https://blog.nicelinks.site/weekly-064/)
+- [优质网站同好者周刊（第 63 期）- 倾城之链](https://blog.nicelinks.site/weekly-063/)
+- [优质网站同好者周刊（第 62 期）- 倾城之链](https://blog.nicelinks.site/weekly-062/)
+- [优质网站同好者周刊（第 61 期）- 倾城之链](https://blog.nicelinks.site/weekly-061/)
+- [优质网站同好者周刊（第 60 期）- 倾城之链](https://blog.nicelinks.site/weekly-060/)
+- [优质网站同好者周刊（第 59 期）- 倾城之链](https://blog.nicelinks.site/weekly-059/)
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

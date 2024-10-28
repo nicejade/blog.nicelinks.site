@@ -6,11 +6,12 @@
 
 **标签**：[`分享`](https://nicelinks.site/tags/分享) · [`创业者`](https://nicelinks.site/tags/创业者) · [`学习`](https://nicelinks.site/tags/学习)
 
-> Starter Story interviews successful entrepreneurs and shares the stories behind their businesses. In each interview, we ask how they got started, how they grew, and how they run their business today.
+>Starter Story interviews successful entrepreneurs and shares the stories behind their businesses. In each interview, we ask how they got started, how they grew, and how they run their business today.
 
-![倾城之链 - Starter Story: Learn How People Are Starting Successful Businesses](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.starterstory.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Starter Story: Learn How People Are Starting Successful Businesses](https://oss.nicelinks.site/www.starterstory.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Starter Story](https://nicelinks.site/redirect?url=https://www.starterstory.com/)，是一个分享创业故事的网站，以便了解人们**如何开始成功的企业**（Pat Walls 于 2017 年 11 月创立）；该团队会采访成功的企业家，并分享了他们企业背后的故事。在每次采访中，都会问他们是**如何开始的**，**如何成长的**，以及他们今天是如何经营他们的企业的。这些故事鼓舞人心，还为创业提供了具体的**建议**和**见解**。通过分享这些故事，Starter Story 团队希望帮助其他人入门（截止 2022 年 9 月，Starter Story 整理了很多创业新项目，有 3800+ 个案例研究，涉及为数千名建立业务的创始人）。如今，比以往任何时候，都更容易开展业务、或副业并在网上赚钱（似乎）。如果您对该内容感兴趣，可选择订阅（邮箱），以在您的收件箱中获取我们的新内容。您也有创业旅程，当然也可以考虑在 [Starter Story](https://nicelinks.site/redirect?url=https://www.starterstory.com/) 分享，以便更多朋友了解。
+
 
 ── 出自[倾城之链 - Starter Story: Learn How People Are Starting Successful Businesses](https://nicelinks.site/post/633582e73423870b914df97c)
 
@@ -18,9 +19,9 @@
 
 **标签**：[`头像`](https://nicelinks.site/tags/头像) · [`3D`](https://nicelinks.site/tags/3D) · [`卡通`](https://nicelinks.site/tags/卡通)
 
-> Peeps Avatar Builder by UI8.net
+>Peeps Avatar Builder by UI8.net
 
-![倾城之链 - Peeps Avatar Builder by UI8.net](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/peeps.ui8.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Peeps Avatar Builder by UI8.net](https://oss.nicelinks.site/peeps.ui8.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Peeps](https://nicelinks.site/redirect?url=https://peeps.ui8.net/) 是 UI8 团队为您带来的交互式 [3D](https://nicelinks.site/tags/) 虚拟化身构建器（卡通化）。此构建器的初始版本， 100% 免费用于个人和商业项目。你可以在社交档案、社交媒体帖子、设计项目或任何你可以使用友好面孔的地方使用 Peeps。你唯一不能做的事就是转售或再分配它们。
 
@@ -32,9 +33,9 @@
 
 **标签**：[`远程`](https://nicelinks.site/tags/远程) · [`工作`](https://nicelinks.site/tags/工作) · [`社区`](https://nicelinks.site/tags/社区)
 
-> RemotelyHQ.com - Immersive & Fun Virtual Activities for Remote Workers. Build a Strong Foundation through Exploration, Play & Collaboration.
+>RemotelyHQ.com - Immersive & Fun Virtual Activities for Remote Workers. Build a Strong Foundation through Exploration, Play & Collaboration.
 
-![倾城之链 - Virtual Team Building Activities | Bring Together Your Virtual Team](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/remotelyhq.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Virtual Team Building Activities | Bring Together Your Virtual Team](https://oss.nicelinks.site/remotelyhq.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[RemotelyHQ.com](https://nicelinks.site/redirect?url=https://remotelyhq.com/)，一个基于 Avatar（头像） 的社交中心，提供会议、社交游戏和活动（免费可用）；为**远程工作者**提供沉浸式和有趣的虚拟活动；详细了解您的同事，让每个人都感觉自己是团队的一员。提供存在感和数字饮水机来连接您的团队。通过探索、游戏和协作，以有趣方式，来建立更牢固的社会关系。RemotelyHQ 活动旨在提高团队绩效、生产力和“感觉良好的氛围”。其官原话描述为：Remotely 存在是为了帮助分布式团队成员更多地了解彼此，并让他们感觉自己是一个有凝聚力的团队。
 
@@ -58,7 +59,7 @@
 
 员工报告说，有意义的团队活动，可能会让他们在工作中保持更长时间。强烈的社区意识，可以培养忠诚度和更高的工作满意度。感觉有社会联系的员工不太可能经历倦怠（似乎如此）。Remotely 官方网站讲到：一起玩游戏 30 分钟可以提高团队绩效。它甚至胜过传统的团队建设活动！（目前鲜有这方面经历，不好评判）。
 
-值得一提的是，Remotely 在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 已拥有 1200+ 点赞（居当天产品第二名），可见网友对它的喜爱。值此非常时期，内有新能源人按时充电，外有元宇宙、Web3 如火如荼（含 VR、AR、XR），更有灵活就业、远程工作“蓬勃发展”，各类因素相互促进，在未来类似虚拟应用，似乎颇有大行其道之势，感兴趣朋友/团队不妨尝试体验下。
+值得一提的是，Remotely 在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f)  已拥有 1200+ 点赞（居当天产品第二名），可见网友对它的喜爱。值此非常时期，内有新能源人按时充电，外有元宇宙、Web3 如火如荼（含 VR、AR、XR），更有灵活就业、远程工作“蓬勃发展”，各类因素相互促进，在未来类似虚拟应用，似乎颇有大行其道之势，感兴趣朋友/团队不妨尝试体验下。
 
 ── 出自[倾城之链 - Virtual Team Building Activities | Bring Together Your Virtual Team](https://nicelinks.site/post/6334464a3423870b914dedb0)
 
@@ -68,9 +69,9 @@
 
 **关键字**：字幕说, 自媒体语音合成, 字幕生成工具, 带字幕的语音合成工具, 在线语音合成, 在线配音, 音文对齐, 免费在线配音, 免费生成字幕, 免费语音合成, 视频合成, 自动生成视频
 
-> 字幕说是自媒体人都在用的在线语音合成、字幕及视频生成工具，制作视频无需出镜，免费在线配音且提供同步字幕。免费获得如同真人一般的配音，语音及字幕视频在线合成。适合自媒体人快速试错，快速试验自己的想法。逼真的语音合成与匹配的字幕，大大缩短了视频制作的时间。
+>字幕说是自媒体人都在用的在线语音合成、字幕及视频生成工具，制作视频无需出镜，免费在线配音且提供同步字幕。免费获得如同真人一般的配音，语音及字幕视频在线合成。适合自媒体人快速试错，快速试验自己的想法。逼真的语音合成与匹配的字幕，大大缩短了视频制作的时间。
 
-![倾城之链 - 字幕说 | 免费在线文字转语音|视频合成|音文对齐工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/subspeak.top.png?x-oss-process=style/png2jpg)
+![倾城之链 - 字幕说 | 免费在线文字转语音|视频合成|音文对齐工具](https://oss.nicelinks.site/subspeak.top.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[字幕说](https://nicelinks.site/redirect?url=https://subspeak.top/) 是一款在线语音合成、字幕及视频生成工具；支持免费在线合成如同真人一般的配音，语音及字幕视频；自媒体人还可免费在线配音获取同步字幕，制作视频无需出镜。强大的功能，适合自媒体人快速试错，快速试验自己的想法。逼真的语音合成与匹配的字幕，大大缩短了视频制作的时间。
 
@@ -90,11 +91,9 @@
 
 ── 出自[倾城之链 - 字幕说 | 免费在线文字转语音|视频合成|音文对齐工具](https://nicelinks.site/post/63333118a4b42b03c5d6d92a)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -102,23 +101,21 @@
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 84 期）- 倾城之链](https://link.niceshare.site/weekly-084/)
-- [优质网站同好者周刊（第 83 期）- 倾城之链](https://link.niceshare.site/weekly-083/)
-- [优质网站同好者周刊（第 82 期）- 倾城之链](https://link.niceshare.site/weekly-082/)
-- [优质网站同好者周刊（第 81 期）- 倾城之链](https://link.niceshare.site/weekly-081/)
-- [优质网站同好者周刊（第 80 期）- 倾城之链](https://link.niceshare.site/weekly-080/)
-- [优质网站同好者周刊（第 79 期）- 倾城之链](https://link.niceshare.site/weekly-079/)
-- [优质网站同好者周刊（第 78 期）- 倾城之链](https://link.niceshare.site/weekly-078/)
-- [优质网站同好者周刊（第 77 期）- 倾城之链](https://link.niceshare.site/weekly-077/)
-- [优质网站同好者周刊（第 76 期）- 倾城之链](https://link.niceshare.site/weekly-076/)
-- [优质网站同好者周刊（第 75 期）- 倾城之链](https://link.niceshare.site/weekly-075/)
-- [优质网站同好者周刊（第 74 期）- 倾城之链](https://link.niceshare.site/weekly-074/)
+- [优质网站同好者周刊（第 84 期）- 倾城之链](https://blog.nicelinks.site/weekly-084/)
+- [优质网站同好者周刊（第 83 期）- 倾城之链](https://blog.nicelinks.site/weekly-083/)
+- [优质网站同好者周刊（第 82 期）- 倾城之链](https://blog.nicelinks.site/weekly-082/)
+- [优质网站同好者周刊（第 81 期）- 倾城之链](https://blog.nicelinks.site/weekly-081/)
+- [优质网站同好者周刊（第 80 期）- 倾城之链](https://blog.nicelinks.site/weekly-080/)
+- [优质网站同好者周刊（第 79 期）- 倾城之链](https://blog.nicelinks.site/weekly-079/)
+- [优质网站同好者周刊（第 78 期）- 倾城之链](https://blog.nicelinks.site/weekly-078/)
+- [优质网站同好者周刊（第 77 期）- 倾城之链](https://blog.nicelinks.site/weekly-077/)
+- [优质网站同好者周刊（第 76 期）- 倾城之链](https://blog.nicelinks.site/weekly-076/)
+- [优质网站同好者周刊（第 75 期）- 倾城之链](https://blog.nicelinks.site/weekly-075/)
+- [优质网站同好者周刊（第 74 期）- 倾城之链](https://blog.nicelinks.site/weekly-074/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

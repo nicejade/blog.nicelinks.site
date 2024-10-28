@@ -6,9 +6,9 @@
 
 **标签**：[`Github`](https://nicelinks.site/tags/Github) · [`可视化`](https://nicelinks.site/tags/可视化) · [`云服务`](https://nicelinks.site/tags/云服务)
 
-> GitHub Blocks: Reimagine repositories. Extend your codebase with custom, interactive blocks. Build rich documentation, enhance your workflows, and bring your repository to life.
+>GitHub Blocks: Reimagine repositories. Extend your codebase with custom, interactive blocks. Build rich documentation, enhance your workflows, and bring your repository to life.
 
-![倾城之链 - GitHub Blocks | Reimagine repositories](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blocks.githubnext.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - GitHub Blocks | Reimagine repositories](https://oss.nicelinks.site/blocks.githubnext.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GitHub Blocks](https://nicelinks.site/redirect?url=https://blocks.githubnext.com/) ，重新构想存储库，使用自定义的交互式块扩展您的代码库。构建丰富的文档，增强您的工作流程，并使您的存储库变得栩栩如生。以后仓库里面能展示什么内容，**取决于你的想象力和构建 block 的能力**。
 
@@ -22,25 +22,23 @@ Blocks 的目标是**让代码仓库变得生动起来**，除了代码和 READM
 
 **标签**：[`跨平台`](https://nicelinks.site/tags/跨平台) · [`分布式`](https://nicelinks.site/tags/分布式) · [`Rust`](https://nicelinks.site/tags/Rust)
 
-**关键字**：files, file manager, spacedrive, file explorer, vdfs, distributed filesystem, cas, content addressable storage, virtual filesystem, photos app, video organizer, video encoder, tags, tag based filesystem
+**关键字**：files, file manager, spacedrive, file explorer, vdfs, distributed filesystem, cas, content addressable storage, virtual filesystem, photos app,  video organizer, video encoder, tags, tag based filesystem
 
-> Combine your drives and clouds into one database that you can organize and explore from any device. Designed for creators, hoarders and the painfully disorganized.
+>Combine your drives and clouds into one database that you can organize and explore from any device. Designed for creators, hoarders and the painfully disorganized.
 
-![倾城之链 - Spacedrive — A file manager from the future.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.spacedrive.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Spacedrive — A file manager from the future.](https://oss.nicelinks.site/www.spacedrive.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Spacedrive](https://nicelinks.site/redirect?url=https://www.spacedrive.com/) 是一个开源（[Github Spacedrive](https://github.com/spacedriveapp/spacedrive)）跨平台文件浏览器，由 Rust 编写的虚拟分布式文件系统 ( [VDFS](https://github.com/spacedriveapp/spacedrive#what-is-a-vdfs) )提供支持。它将多个设备上的文件集中在一处。从云服务到离线硬盘，Spacedrive 将您设备的存储容量和处理能力整合到一个个人分布式云中，使用起来既安全又直观。
-
 ### 什么是虚拟分布式文件系统？
 
 VDFS（虚拟分布式文件系统）是一种设计用于跨各种存储层工作的文件系统。凭借统一的 API 来跨多个设备操作和访问内容，VDFS 不再局限于单台机器。它通过维护所有存储位置的虚拟索引、实时同步客户端之间的数据库来实现这一点。此实现还使用 [CAS](https://en.wikipedia.org/wiki/Content-addressable_storage) （内容可寻址存储）来唯一标识文件，同时记录相对于存储位置的逻辑文件路径。
 
 VDFS 的第一个实现可以在加州大学伯克利分校李浩源的 [论文中找到。](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-29.pdf) 本文描述了它在云计算中的用途，但基本概念可以转化为开放的消费者软件。
-
 ### 创造 Spacedrive 的动机
 
 许多人都有多个云帐户、未备份的驱动器以及存在丢失风险的数据。它们依赖 Google Photos 和 iCloud 等云服务，但容量有限，服务和操作系统之间的互操作性几乎为零。相册不应该被困在设备生态系统中，也不应该被收集来获取广告数据。它们应该与操作系统无关、永久且为个人所有。人们所创建的数据是自己的遗产，它将比我们更长久地存在——开源技术是确保 Spacedrive 对定义我们生活的数据保持绝对控制的唯一方法，且规模不受限制。
 
-对于**独立创意人士、囤积者和那些想要拥有自己数字足迹的人**来说，Spacedrive 提供了无与伦比的免费文件管理体验。截止 2023 年 10 月 12 日，Spacedrive 已放开下载，您可以下载适用于  macOS · Windows · Linux · iOS · watchOS · Android 的应用程序。
+对于**独立创意人士、囤积者和那些想要拥有自己数字足迹的人**来说，Spacedrive 提供了无与伦比的免费文件管理体验。截止 2023 年 10 月 12 日，Spacedrive 已放开下载，您可以下载适用于 macOS · Windows · Linux · iOS · watchOS · Android 的应用程序。
 
 ── 出自[倾城之链 - Spacedrive — A file manager from the future.](https://nicelinks.site/post/6527f449e24c3d6dece15df7)
 
@@ -48,9 +46,9 @@ VDFS 的第一个实现可以在加州大学伯克利分校李浩源的 [论文�
 
 **标签**：[`动画`](https://nicelinks.site/tags/动画) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`程序库`](https://nicelinks.site/tags/程序库)
 
-> GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.
+>GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.
 
-![倾城之链 - GSAP | Professional-grade animation for the modern web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gsap.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - GSAP | Professional-grade animation for the modern web](https://oss.nicelinks.site/gsap.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GSAP](https://nicelinks.site/redirect?url=https://gsap.com/) ，现代网络的专业级、高性能[动画](https://nicelinks.site/tags/动画)库；它是一个强大的 [JavaScript](https://nicelinks.site/tags/JavaScript) 工具集，可将开发人员变成动画超级英雄。构建适用于所有主要浏览器的高性能动画。动画 CSS、 [SVG](https://nicelinks.site/tags/SVG) 、canvas、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、WebGL、颜色、字符串、运动路径、通用对象...任何 JavaScript 可以触及的内容！GSAP 的 [ScrollTrigger](https://gsap.com/scroll/) 插件可让您使用最少的代码创建令人惊叹的基于滚动的动画。 [gsap.matchMedia()](<https://gsap.com/docs/v3/GSAP/gsap.matchMedia()/>) 使构建响应式、易于访问的动画变得轻而易举。GSAP 完全灵活，零依赖，您可以把它用在你想要的地方，诸如：
 
@@ -63,15 +61,16 @@ VDFS 的第一个实现可以在加州大学伯克利分校李浩源的 [论文�
 
 GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂的动画效果，支持大多数主流浏览器和移动设备。GSAP 提供了多种动画类型和选项，例如 Timeline、EasePack 和 CSSPlugin 等，可以通过简单的 API 轻松实现复杂的动画效果。值得一提的是，该项目 [在 Github 仓库开源](https://github.com/greensock/GSAP#professional-grade-animation-for-the-modern-web) （截止 2023 年 10 月 12 日，已获得 17.2K+ Star），如果您对其感兴趣，可移步前往从而了解更多。
 
+
 ── 出自[倾城之链 - GSAP | Professional-grade animation for the modern web](https://nicelinks.site/post/6527ea9be24c3d6dece15d38)
 
 ## [gulp.js | A toolkit to automate & enhance your workflow](https://nicelinks.site/post/6526c267e24c3d6dece1570d)
 
 **标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`自动化`](https://nicelinks.site/tags/自动化)
 
-> Leverage gulp and the flexibility of JavaScript to automate slow, repetitive workflows and compose them into efficient build pipelines.
+>Leverage gulp and the flexibility of JavaScript to automate slow, repetitive workflows and compose them into efficient build pipelines.
 
-![倾城之链 - gulp.js | A toolkit to automate & enhance your workflow](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gulpjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - gulp.js | A toolkit to automate & enhance your workflow](https://oss.nicelinks.site/gulpjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Gulp.js](https://nicelinks.site/redirect?url=https://gulpjs.com/) ，用于 [自动化](https://nicelinks.site/tags/自动化) 和增强您的工作流程的工具包；利用 `gulp` 和 [JavaScript](https://nicelinks.site/tags/JavaScript) 的灵活性来自动执行缓慢、重复的工作流程，并将其组合成高效的构建管道。它具有如下功能特征：
 
@@ -91,9 +90,9 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 使用社区构建的插件是开始使用 gulp 的快速方法。每个插件都会执行少量工作，因此您可以像构建块一样将它们连接起来。将各种技术的插件链接在一起以达到您想要的结果。
 
-早些年（2015）才接触前端时，Gulp 为工作效率带来了很大提升；在个人博客写了蛮多使用心得，诸如： [Gulp 探究折腾之路（I）](https://www.jeffjade.com/2015/11/25/2015-11-25-toss-gulp/) 、 [Gulp 折腾之路（II）](https://www.jeffjade.com/2016/01/19/2016-01-19-toss-gulp/) 、 [Gulp 折腾之路（III）](https://www.jeffjade.com/2016/08/08/113-toss-gulp/) ；虽然自动 Webpack 流行之后，Gulp 使用很少在用；但，如果要做些复杂的自动化操作，Gulp 依然是首选工具 🔧；著名开源编码工具 [Visual Studio Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 在程序构建时，也大量使用了 Gulp。
+早些年（2015）才接触前端时，Gulp 为工作效率带来了很大提升；在个人博客写了蛮多使用心得，诸如： [Gulp 探究折腾之路（I）](https://www.jeffjade.com/2015/11/25/2015-11-25-toss-gulp/) 、 [Gulp折腾之路（II）](https://www.jeffjade.com/2016/01/19/2016-01-19-toss-gulp/) 、 [Gulp折腾之路（III）](https://www.jeffjade.com/2016/08/08/113-toss-gulp/) ；虽然自动 Webpack 流行之后，Gulp 使用很少在用；但，如果要做些复杂的自动化操作，Gulp 依然是首选工具🔧；著名开源编码工具 [Visual Studio Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 在程序构建时，也大量使用了 Gulp。
 
-总之 `gulp` 是前端开发过程中对代码进行构建的工具，是自动化项目的构建利器；她不仅能对网站资源进行优化，而且在开发过程中很多重复的任务能够使用正确的工具自动完成；使用她，我们不仅可以很愉快的编写代码，而且大大提高我们的工作效率。相比于 `grunt` 的频繁 IO 操作，gulp 的流操作，能更快地更便捷地完成构建工作。
+总之  `gulp` 是前端开发过程中对代码进行构建的工具，是自动化项目的构建利器；她不仅能对网站资源进行优化，而且在开发过程中很多重复的任务能够使用正确的工具自动完成；使用她，我们不仅可以很愉快的编写代码，而且大大提高我们的工作效率。相比于 `grunt` 的频繁 IO 操作，gulp 的流操作，能更快地更便捷地完成构建工作。
 
 ── 出自[倾城之链 - gulp.js | A toolkit to automate & enhance your workflow](https://nicelinks.site/post/6526c267e24c3d6dece1570d)
 
@@ -101,9 +100,9 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 **标签**：[`服务`](https://nicelinks.site/tags/服务) · [`在线`](https://nicelinks.site/tags/在线) · [`免费`](https://nicelinks.site/tags/免费)
 
-> Show me a 10ft paywall, I’ll show you a 12ft ladder.
+>Show me a 10ft paywall, I’ll show you a 12ft ladder.
 
-![倾城之链 - 12ft Ladder | Bypass any paywall](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/12ft.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - 12ft Ladder | Bypass any paywall](https://oss.nicelinks.site/12ft.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[12ft Ladder](https://nicelinks.site/redirect?url=https://12ft.io/) ，一款绕过任何「付费墙」的在线[服务](https://nicelinks.site/tags/服务)，适用于您最喜爱的网站；将 `12ft.io` 添加到任何付费专区页面的 URL 前面，该服务将尽力删除付费专区并让您访问该文章。
 
@@ -121,9 +120,9 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`音频`](https://nicelinks.site/tags/音频) · [`工具`](https://nicelinks.site/tags/工具)
 
-> Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
+>Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
 
-![倾城之链 - Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.lalal.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://oss.nicelinks.site/www.lalal.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[lalal.ai](https://nicelinks.site/redirect?url=https://www.lalal.ai/) ：下一代人声去除器和音乐源分离服务，可实现**快速、轻松和精确的主干提取**。删除人声、器乐、鼓、贝斯、钢琴、电吉他、原声吉他和合成器音轨，而不会造成质量损失。有网友亲测，表示效果非常好。
 
@@ -143,12 +142,11 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 **关键字**：exping, exploring, map marking, 地图标记, 地图标注, 地图标记工具, 地图创作, 创作者工具, 地图标注工具, 地图标注软件, 标注地图, 地图打点, 多个位置标记, 业务地图, 租房地图, 销售地图, 客户分布地图, 旅游地图, 商户地图, 多点标记, 多点标注, 家访地图, 业务管理, 业务员, 业务分布, 探店地图, 美食地图, 咖啡地图, 徒步地图, 自驾地图, 地图生成工具, 网红地图, 小红书, 路线规划, 多点路线规划, 地图签到, 配送地图, 品味地图, 如何标注地图, 如何标记地图
 
-> exping 是一款为创作者而生的地图标记工具，支持探店、旅游、户外等各类主题的多种地图模版分享，满足创作者的各种地图创作需求，帮助创作者创作出更有价值的地图。
+>exping 是一款为创作者而生的地图标记工具，支持探店、旅游、户外等各类主题的多种地图模版分享，满足创作者的各种地图创作需求，帮助创作者创作出更有价值的地图。
 
-![倾城之链 - Exping | 一款为创作者而生的地图标记工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/exping.world.png?x-oss-process=style/png2jpg)
+![倾城之链 - Exping | 一款为创作者而生的地图标记工具](https://oss.nicelinks.site/exping.world.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[exping](https://nicelinks.site/redirect?url=https://exping.world/) 是一款为 [创作者](https://nicelinks.site/tags/创作者) 设计的 [地图](https://nicelinks.site/tags/地图) 标记工具，与地点相关的事物都可以标记在地图上，满足创作者的各种地图创作需求，帮助创作者创作出更有价值的地图。它主要具有如下功能：
-
 ### 地点标记
 
 支持搜索或长按地图标记任意地点，可用各样 emoji 或上传图片作为地点图标，也可为地点添加个性化备注；自定义地点标签，让地点印象更立体；可视化点评，雷达图展示多维度体验，让地点评价更直观。
@@ -183,40 +181,36 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 ── 出自[倾城之链 - Exping | 一款为创作者而生的地图标记工具](https://nicelinks.site/post/65227b7b9bdacb5ca44f7da0)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-已矣乎！寓形宇内复几时？曷不委心任去留？胡为乎遑遑欲何之？富贵非吾愿，帝乡不可期。怀良辰以孤往，或植杖而耘耔。登东皋以舒啸，临清流而赋诗。聊乘化以归尽，乐夫天命复奚疑！── 东晋 · 陶渊明《归去来兮辞》
+已矣乎！寓形宇内复几时？曷不委心任去留？胡为乎遑遑欲何之？富贵非吾愿，帝乡不可期。怀良辰以孤往，或植杖而耘耔。登东皋以舒啸，临清流而赋诗。聊乘化以归尽，乐夫天命复奚疑！──东晋 · 陶渊明《归去来兮辞》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 138 期）- 倾城之链](https://link.niceshare.site/weekly-138/)
-- [优质网站同好者周刊（第 137 期）- 倾城之链](https://link.niceshare.site/weekly-137/)
-- [优质网站同好者周刊（第 136 期）- 倾城之链](https://link.niceshare.site/weekly-136/)
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 134 期）- 倾城之链](https://link.niceshare.site/weekly-134/)
-- [优质网站同好者周刊（第 133 期）- 倾城之链](https://link.niceshare.site/weekly-133/)
-- [优质网站同好者周刊（第 132 期）- 倾城之链](https://link.niceshare.site/weekly-132/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
-- [优质网站同好者周刊（第 129 期）- 倾城之链](https://link.niceshare.site/weekly-129/)
-- [优质网站同好者周刊（第 128 期）- 倾城之链](https://link.niceshare.site/weekly-128/)
-- [优质网站同好者周刊（第 127 期）- 倾城之链](https://link.niceshare.site/weekly-127/)
+- [优质网站同好者周刊（第 138 期）- 倾城之链](https://blog.nicelinks.site/weekly-138/)
+- [优质网站同好者周刊（第 137 期）- 倾城之链](https://blog.nicelinks.site/weekly-137/)
+- [优质网站同好者周刊（第 136 期）- 倾城之链](https://blog.nicelinks.site/weekly-136/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 134 期）- 倾城之链](https://blog.nicelinks.site/weekly-134/)
+- [优质网站同好者周刊（第 133 期）- 倾城之链](https://blog.nicelinks.site/weekly-133/)
+- [优质网站同好者周刊（第 132 期）- 倾城之链](https://blog.nicelinks.site/weekly-132/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
+- [优质网站同好者周刊（第 129 期）- 倾城之链](https://blog.nicelinks.site/weekly-129/)
+- [优质网站同好者周刊（第 128 期）- 倾城之链](https://blog.nicelinks.site/weekly-128/)
+- [优质网站同好者周刊（第 127 期）- 倾城之链](https://blog.nicelinks.site/weekly-127/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

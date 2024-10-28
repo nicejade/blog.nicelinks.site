@@ -6,11 +6,11 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`代码`](https://nicelinks.site/tags/代码) · [`开发者`](https://nicelinks.site/tags/开发者)
 
-> Sweep is an AI code assistant that turns GitHub issues into GitHub pull requests.
+>Sweep is an AI code assistant that turns GitHub issues into GitHub pull requests.
 
-![倾城之链 - Sweep: turn bugs and feature requests into code changes.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sweep.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Sweep: turn bugs and feature requests into code changes.](https://oss.nicelinks.site/sweep.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sweep](https://nicelinks.site/redirect?url=https://sweep.dev/) 是一款 [人工智能](https://nicelinks.site/tags/AI) 代码助手，负责将错误报告和功能请求转化为代码更改。🤖 像向初级开发人员一样描述错误、小功能和重构，然后进行清理：
+**推荐语**：[Sweep](https://nicelinks.site/redirect?url=https://sweep.dev/) 是一款 [人工智能](https://nicelinks.site/tags/AI) 代码助手，负责将错误报告和功能请求转化为代码更改。🤖像向初级开发人员一样描述错误、小功能和重构，然后进行清理：
 
 1.  读取您的代码库；
 2.  计划改变；
@@ -31,11 +31,11 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 **标签**：[`Python`](https://nicelinks.site/tags/Python) · [`教程`](https://nicelinks.site/tags/教程) · [`免费`](https://nicelinks.site/tags/免费)
 
-> PyFlo, The beginners guide to becoming a Python programmer .
+>PyFlo, The beginners guide to becoming a Python programmer .
 
-![倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pyflo.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://oss.nicelinks.site/pyflo.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PyFlo](https://nicelinks.site/redirect?url=https://pyflo.net/) ， [Python](https://nicelinks.site/tags/Python) 程序员的初学者免费 [教程](https://nicelinks.site/tags/教程) （英文）；有趣的是该教程目录是一张流程图，每个节点是一个章节，相比传统目录，这种更具流程化、可视化、人性化；每个章节，您可以标注是否学习完毕、设置书签 🔖、跳转下一章节等等。值得一提的是，作者对每节课程有做`颜色`标记，其分别代表含义如下：
+**推荐语**：[PyFlo](https://nicelinks.site/redirect?url=https://pyflo.net/) ， [Python](https://nicelinks.site/tags/Python) 程序员的初学者免费 [教程](https://nicelinks.site/tags/教程) （英文）；有趣的是该教程目录是一张流程图，每个节点是一个章节，相比传统目录，这种更具流程化、可视化、人性化；每个章节，您可以标注是否学习完毕、设置书签🔖、跳转下一章节等等。值得一提的是，作者对每节课程有做`颜色`标记，其分别代表含义如下：
 
 - 蓝色课程（Blue Lessons）是“常规”课程。您应该按照课程流程规定的顺序完成这些内容。
 - 紫色课程（Purple Lessons）是学习分支的一部分。这些内容非常丰富，但如果需要的话可以跳过。奖励内容。
@@ -45,17 +45,17 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 ── 出自[倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.site/post/65426f6f0f5a6713f81108e0)
 
-## [vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
+## [vivo 办公套件 - vivo手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
 
 **标签**：[`vivo`](https://nicelinks.site/tags/vivo) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`工作效率`](https://nicelinks.site/tags/工作效率)
 
-**关键字**：量子套件电脑版, 量子套件客户端, vivo 电脑互传, 原子笔记, vivo 办公套件, vivo 办公套件电脑版, vivo 远控 PC, 键鼠协同, 超级剪贴板, 办公套件, 量子套件, vivo 助手, vivo 手机连电脑, 互传 vivo 电脑版, 互传 vivo 电脑
+**关键字**：量子套件电脑版, 量子套件客户端, vivo电脑互传, 原子笔记, vivo 办公套件, vivo 办公套件电脑版, vivo 远控 PC, 键鼠协同, 超级剪贴板, 办公套件, 量子套件, vivo 助手, vivo 手机连电脑, 互传 vivo 电脑版, 互传 vivo 电脑
 
-> vivo 办公套件是集合 OriginOS 生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。
+>vivo 办公套件是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。
 
-![倾城之链 - vivo 办公套件 - vivo手机平板与电脑互联 | 官方下载](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pc.vivo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - vivo 办公套件 - vivo手机平板与电脑互联 | 官方下载](https://oss.nicelinks.site/pc.vivo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[vivo 办公套件](https://nicelinks.site/redirect?url=https://pc.vivo.com/) 是集合 OriginOS 生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。
+**推荐语**：[vivo 办公套件](https://nicelinks.site/redirect?url=https://pc.vivo.com/) 是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。
 
 **全新的跨设备协同体系，满足办公多场景需求**，诸如：笔记连续互通、超级剪贴板、vivo 远控 PC、镜像投屏、任务接力、图片视频备份、键鼠协同、数据多端同步、文件互传、专业办公软件。详细功能特征如下：
 
@@ -76,18 +76,17 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 [vivo 办公套件](https://nicelinks.site/redirect?url=https://pc.vivo.com/) （“量子套件”）焕新升级，探索办公无限可能，旨在让**办公、学习、创作**更省心。如果您对其感兴趣，不妨移步其官网从而了解更多。
 
-── 出自[倾城之链 - vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
+── 出自[倾城之链 - vivo 办公套件 - vivo手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
 
 ## [蓝河操作系统 BlueOS](https://nicelinks.site/post/6541cf0d7448ba21e9b1b688)
 
 **标签**：[`vivo`](https://nicelinks.site/tags/vivo) · [`OS`](https://nicelinks.site/tags/OS) · [`AI`](https://nicelinks.site/tags/AI)
 
-> BlueOS，vivo 面向通用人工智能时代自主研发的智慧操作系统。
+>BlueOS，vivo 面向通用人工智能时代自主研发的智慧操作系统。
 
-![倾城之链 - 蓝河操作系统 BlueOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.blueos.com.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 蓝河操作系统 BlueOS](https://oss.nicelinks.site/www.blueos.com.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[蓝河操作系统 BlueOS](https://nicelinks.site/redirect?url=https://www.blueos.com.cn/) ， [vivo](https://nicelinks.site/tags/vivo) 面向通用人工智能时代自主研发的智慧操作系统。于 2023 年 11 月 01 日 主题为「同心 · 同行」的 vivo 开发者大会正式对外推出。官方称 BlueOS 具有完备的开放能力，支持在健康、运动、出行、娱乐等全场景的应用的高效开发。关于 BlueOS（蓝河操作系统）更多详情如下：
-
 ### 功能特征
 
 #### 天生更智慧
@@ -97,7 +96,6 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 #### 天生更流畅
 
 蓝河操作系统从全栈技术视角出发，对多个技术方向进行探索，例如编程语言、运行时 Runtime、系统调度、显示和内存。充分发挥软硬件资源的利用效率，高性能系统架构实现了一系列关键技术，虚拟显卡框架、超级协程机制、Runtime 等，提升了计算、存储、显示的资源效率。
-
 #### 天生更安全
 
 蓝河操作系统从性能和安全两个维度选择了 Rust 语言作为系统开发语言，Rust 语言的所有权模型、生命周期等一系列安全特性，保障了在编译阶段就可以发现内存使用不当导致的安全漏洞。蓝河操作系统是行业首个系统框架由 Rust 语言编写的操作系统，从源头保障了内存安全和并发安全。
@@ -143,7 +141,6 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 #### 蓝河生态
 
 蓝河生态致力于打造一个让用户和开发者共赢的生态，为用户提供丰富的服务和智慧、流畅、安全的体验，为开发者提供能力支持。蓝河操作系统还兼容了快应用技术标准，助力开发者高效开发。
-
 #### 蓝河 Studio
 
 蓝河 Studio 是蓝河集成开发环境，它是一种软件应用程序，为软件开发人员提供了一种集成的开发环境，包括代码编辑器、编译器、调试器、版本控制工具、图形用户界面设计工具等。
@@ -158,9 +155,9 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 **标签**：[`文件传输`](https://nicelinks.site/tags/文件传输) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`开源`](https://nicelinks.site/tags/开源)
 
-> LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.
+>LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.
 
-![倾城之链 - LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/localsend.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://oss.nicelinks.site/localsend.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[LocalSend](https://nicelinks.site/redirect?url=https://localsend.org/) 是一款 [免费](https://nicelinks.site/tags/免费) 、 [开源](https://nicelinks.site/tags/开源) 、 [跨平台](https://nicelinks.site/tags/跨平台) 的应用程序，`AirDrop` 的开源跨平台替代方案；具体来说，LocalSend 可让您通过本地网络与**附近的设备安全地共享文件和消息，而无需互联网连接**。它可以使用 REST API 和 HTTPS 加密实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为本地通信的快速可靠解决方案。
 
@@ -172,9 +169,9 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 **标签**：[`动画`](https://nicelinks.site/tags/动画) · [`CSS`](https://nicelinks.site/tags/CSS) · [`前端开发`](https://nicelinks.site/tags/前端开发)
 
-> The biggest collection of CSS-only loaders. More than 500 loading animations made by Temani Afif using a single element.
+>The biggest collection of CSS-only loaders. More than 500 loading animations made by Temani Afif using a single element.
 
-![倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css-loaders.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://oss.nicelinks.site/css-loaders.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[CSS Loaders](https://nicelinks.site/redirect?url=https://css-loaders.com/) ，收集各种 [CSS](https://nicelinks.site/tags/CSS) 的页面加载特效，号称最大的加载动画集合；截止 2023 年 10 月 31 日，已收录超过 500 个使用单个元素制作的纯 CSS 加载器（CSS Loaders）；它的使用非常简单，点击即可获取 CSS 代码，这对于前端开发者非常有帮助。
 
@@ -184,19 +181,17 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 **标签**：[`灵感`](https://nicelinks.site/tags/灵感) · [`应用`](https://nicelinks.site/tags/应用) · [`动画`](https://nicelinks.site/tags/动画)
 
-> Explore the best, hand-picked mobile app motion design
+>Explore the best, hand-picked mobile app motion design
 
-![倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/appmotion.design.png?x-oss-process=style/png2jpg)
+![倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://oss.nicelinks.site/appmotion.design.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[App Motion](https://nicelinks.site/redirect?url=https://appmotion.design/) ，探索最好的、精心挑选的应用程序动作设计；您可以在这里查看、检索、甚至提交应用程序动画效果（如果后续能贴出对应代码实现，那就更棒了），从而汲取灵感；作者创建这个网站，是因为他正在寻找专门针对运动/动画的应用程序[灵感](https://nicelinks.site/tags/灵感)，但找不到任何好的资源。所以作者应该创建自己的网站； 💪 **100% 免费，无需注册**。对于想要创建引人入胜且信息丰富的用户体验的应用程序设计人员来说，这是宝贵的资源。
 
 ── 出自[倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.site/post/653e59ca5889f74c2dbc5860)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -204,28 +199,26 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 141 期）- 倾城之链](https://link.niceshare.site/weekly-141/)
-- [优质网站同好者周刊（第 140 期）- 倾城之链](https://link.niceshare.site/weekly-140/)
-- [优质网站同好者周刊（第 139 期）- 倾城之链](https://link.niceshare.site/weekly-139/)
-- [优质网站同好者周刊（第 138 期）- 倾城之链](https://link.niceshare.site/weekly-138/)
-- [优质网站同好者周刊（第 137 期）- 倾城之链](https://link.niceshare.site/weekly-137/)
-- [优质网站同好者周刊（第 136 期）- 倾城之链](https://link.niceshare.site/weekly-136/)
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 134 期）- 倾城之链](https://link.niceshare.site/weekly-134/)
-- [优质网站同好者周刊（第 133 期）- 倾城之链](https://link.niceshare.site/weekly-133/)
-- [优质网站同好者周刊（第 132 期）- 倾城之链](https://link.niceshare.site/weekly-132/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
+- [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
+- [优质网站同好者周刊（第 140 期）- 倾城之链](https://blog.nicelinks.site/weekly-140/)
+- [优质网站同好者周刊（第 139 期）- 倾城之链](https://blog.nicelinks.site/weekly-139/)
+- [优质网站同好者周刊（第 138 期）- 倾城之链](https://blog.nicelinks.site/weekly-138/)
+- [优质网站同好者周刊（第 137 期）- 倾城之链](https://blog.nicelinks.site/weekly-137/)
+- [优质网站同好者周刊（第 136 期）- 倾城之链](https://blog.nicelinks.site/weekly-136/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 134 期）- 倾城之链](https://blog.nicelinks.site/weekly-134/)
+- [优质网站同好者周刊（第 133 期）- 倾城之链](https://blog.nicelinks.site/weekly-133/)
+- [优质网站同好者周刊（第 132 期）- 倾城之链](https://blog.nicelinks.site/weekly-132/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

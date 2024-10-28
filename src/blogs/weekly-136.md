@@ -6,13 +6,13 @@
 
 **标签**：[`组件`](https://nicelinks.site/tags/组件) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`开源`](https://nicelinks.site/tags/开源)
 
-> Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+>Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
-![倾城之链 - Swiper - The Most Modern Mobile Touch Slider](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/swiperjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Swiper - The Most Modern Mobile Touch Slider](https://oss.nicelinks.site/swiperjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Swiper](https://nicelinks.site/redirect?url=https://swiperjs.com/) 是免费且最现代的移动触摸滑块，具有硬件加速转换和令人惊叹的本机行为。它旨在用于移动网站、移动网络应用程序和移动本机、混合应用程序。Swiper 以及其他出色的组件是 [Framework7](https://framework7.io/) 和 [Ionic Framework](https://ionicframework.com/) 的一部分，后者是用于构建 iOS 和 Android 应用程序的功能齐全的框架。它具有如下功能特征：
 
-- **图书馆不可知论者**：Swiper 不需要任何像 jQuery 这样的 JavaScript 库，这使得 Swiper 更小 ​​ 更快；
+- **图书馆不可知论者**：Swiper 不需要任何像 jQuery 这样的 JavaScript 库，这使得 Swiper 更小​​更快；
 - **模块化结构**：Swiper 具有模块化结构，允许您仅使用必要的模块，使其尺寸更小；
 - **丰富的 API**：Swiper 附带了非常丰富的 API。您甚至可以创建自己的插件；
 - **全面的 RTL 支持**：Swiper 提供 100% RTL 支持和正确的布局；
@@ -33,9 +33,9 @@
 
 **标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`网站`](https://nicelinks.site/tags/网站)
 
-> Unlock your design potential with our Template Builder. Create modern website and dashboard templates effortlessly and elevate your projects.
+>Unlock your design potential with our Template Builder. Create modern website and dashboard templates effortlessly and elevate your projects.
 
-![倾城之链 - Loopple: Template Builder for Modern Websites & Dashboards](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.loopple.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Loopple: Template Builder for Modern Websites & Dashboards](https://oss.nicelinks.site/www.loopple.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Loopple](https://nicelinks.site/redirect?url=https://www.loopple.com/) 是一个拖放仪表板构建器，可帮助您在几分钟内为您的初创公司和企业创建漂亮且动态的管理面板。更少代码，构建更多：选择您喜欢的设计，并使用低代码和拖放功能在几分钟内创建令人惊叹的模板。具体来讲，Loopple 提供以下内容：
 
@@ -51,9 +51,9 @@
 
 **标签**：[`时间管理`](https://nicelinks.site/tags/时间管理) · [`工作效率`](https://nicelinks.site/tags/工作效率) · [`生活`](https://nicelinks.site/tags/生活)
 
-> It’s time to reinvent the calendar. Take control of your day with ease. Kyugo guards your work-life balance that always seemed just outside of your grasp, until now. It automatically solves your schedule for work, meetings, and your free time.
+>It’s time to reinvent the calendar. Take control of your day with ease. Kyugo guards your work-life balance that always seemed just outside of your grasp, until now. It automatically solves your schedule for work, meetings, and your free time.
 
-![倾城之链 - Kyugo | Your personal time-assistant](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/app.kyugo.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Kyugo | Your personal time-assistant](https://oss.nicelinks.site/app.kyugo.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Kyugo](https://nicelinks.site/redirect?url=https://app.kyugo.app/) （源自日语“Kyūgo”，意思是**救济或援助**）您的私人时间助理；旨在守护您的工作与生活平衡，自动解决您的工作、会议和空闲时间安排。与其他产品不同的是，Kyugo 采用圆形日历设计，相比于电子表格，这种更显直观，也便于在手机这种小型设备上使用。
 
@@ -78,9 +78,9 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 **标签**：[`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
-> Build the future of web based coding experiences, from interactive tutorials to instant production-ready dev environments.
+>Build the future of web based coding experiences, from interactive tutorials to instant production-ready dev environments.
 
-![倾城之链 - WebContainers - Dev environments. In your web app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/webcontainers.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - WebContainers - Dev environments. In your web app](https://oss.nicelinks.site/webcontainers.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WebContainers](https://nicelinks.site/redirect?url=https://webcontainers.io/) ，打造未来基于网络的编码体验，从交互式教程到即时生产就绪的开发环境。**使用 WebContainer API 为您的 Web 应用程序提供支持**；它通过将 Node.js 直接集成到您的 Web 应用程序中，创造无与伦比的用户体验。构建全品牌产品，无需连接到外部服务器或引导用户使用第三方应用程序。它具有如下功能特征：
 
@@ -110,15 +110,16 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 [StackBlitz](https://nicelinks.site/post/5bc182876d02e84b14b5e4c9) 对外发布的 WebContainer API，使得开发环境 在您的网络应用程序中；它使用 [WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae) 将 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 编译成一个 `.wasm` 文件，直接跑在了浏览器上。从而达成**不依赖后端环境，在浏览器直接起一个 Node.js 应用程序**。如果您对其感兴趣，不妨移步官网从而了解更多。
 
+
 ── 出自[倾城之链 - WebContainers - Dev environments. In your web app](https://nicelinks.site/post/650837b4ec1421174455af59)
 
 ## [Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.site/post/65058172ec1421174455a3ec)
 
 **标签**：[`GraphQL`](https://nicelinks.site/tags/GraphQL) · [`数据库`](https://nicelinks.site/tags/数据库) · [`API`](https://nicelinks.site/tags/API)
 
-> Hasura gives you instant GraphQL and REST APIs on new and existing data sources. Connect Hasura to your data & get APIs in under a minute.
+>Hasura gives you instant GraphQL and REST APIs on new and existing data sources. Connect Hasura to your data & get APIs in under a minute.
 
-![倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hasura.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://oss.nicelinks.site/hasura.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Hasura](https://nicelinks.site/redirect?url=https://hasura.io/) 是一款开源产品，可立即为您提供带有内置数据授权的 [GraphQL](https://nicelinks.site/tags/GraphQL) 或 REST API，从而将 API 开发速度加快 10 倍。它提供数据库上的超快速、即时实时 GraphQL API 具有细粒度的访问控制，还可触发数据库事件的 Webhooks。Hasura 具有如下功能特征：
 
@@ -138,7 +139,6 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 **适用于 100 多个数据源的即时 API**：使开发人员能够通过连接到现有数据库、GraphQL 和 REST API 轻松生成 API，从而无需手动创建 API，同时实现快速、可扩展的应用程序开发。
 
 **从根本上改变数据访问和 API 开发**：更快的 API 开发意味着成本、复杂性和上市时间的大幅降低。
-
 - **更快地构建新应用程序**：利用 GraphQL 和自助数据访问的强大功能，在几天而不是几周内构建新应用程序或向现有应用程序添加新功能。
 - **加速现代化建设**：通过自动化 80% 的 API 开发工作，快速跟踪云迁移、前端和后端现代化以及应用程序重新架构项目。
 - **标准化组织范围内的数据访问**：用可扩展、高性能且安全的数据 API 取代直接数据库访问，以创建统一且联合的“核心数据服务”。
@@ -147,47 +147,43 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 ── 出自[倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.site/post/65058172ec1421174455a3ec)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-滕王高阁临江渚，  
-佩玉鸣鸾罢歌舞。  
-画栋朝飞南浦云，  
-珠帘暮卷西山雨。  
-**闲云潭影日悠悠，  
-物换星移几度秋。  
-阁中帝子今何在？  
-槛外长江空自流**。  
-── 唐代 · 王勃《滕王阁序》
+滕王高阁临江渚，   
+佩玉鸣鸾罢歌舞。   
+画栋朝飞南浦云，   
+珠帘暮卷西山雨。      
+**闲云潭影日悠悠，   
+物换星移几度秋。   
+阁中帝子今何在？   
+槛外长江空自流**。    
+──唐代 · 王勃《滕王阁序》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 134 期）- 倾城之链](https://link.niceshare.site/weekly-134/)
-- [优质网站同好者周刊（第 133 期）- 倾城之链](https://link.niceshare.site/weekly-133/)
-- [优质网站同好者周刊（第 132 期）- 倾城之链](https://link.niceshare.site/weekly-132/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
-- [优质网站同好者周刊（第 129 期）- 倾城之链](https://link.niceshare.site/weekly-129/)
-- [优质网站同好者周刊（第 128 期）- 倾城之链](https://link.niceshare.site/weekly-128/)
-- [优质网站同好者周刊（第 127 期）- 倾城之链](https://link.niceshare.site/weekly-127/)
-- [优质网站同好者周刊（第 126 期）- 倾城之链](https://link.niceshare.site/weekly-126/)
-- [优质网站同好者周刊（第 125 期）- 倾城之链](https://link.niceshare.site/weekly-125/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 134 期）- 倾城之链](https://blog.nicelinks.site/weekly-134/)
+- [优质网站同好者周刊（第 133 期）- 倾城之链](https://blog.nicelinks.site/weekly-133/)
+- [优质网站同好者周刊（第 132 期）- 倾城之链](https://blog.nicelinks.site/weekly-132/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
+- [优质网站同好者周刊（第 129 期）- 倾城之链](https://blog.nicelinks.site/weekly-129/)
+- [优质网站同好者周刊（第 128 期）- 倾城之链](https://blog.nicelinks.site/weekly-128/)
+- [优质网站同好者周刊（第 127 期）- 倾城之链](https://blog.nicelinks.site/weekly-127/)
+- [优质网站同好者周刊（第 126 期）- 倾城之链](https://blog.nicelinks.site/weekly-126/)
+- [优质网站同好者周刊（第 125 期）- 倾城之链](https://blog.nicelinks.site/weekly-125/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

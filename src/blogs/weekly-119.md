@@ -6,27 +6,27 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`代码`](https://nicelinks.site/tags/代码) · [`vim`](https://nicelinks.site/tags/vim)
 
-> Codeium offers best in class AI code completion & search — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
+>Codeium offers best in class AI code completion & search — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
 
-![倾城之链 - Codeium · Free AI Code Completion & Chat](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codeium.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Codeium · Free AI Code Completion & Chat](https://oss.nicelinks.site/codeium.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Codeium](https://nicelinks.site/redirect?url=https://codeium.com/) 提供一流的人工智能代码完成和搜索，全部免费；Vim 和 Neovim 的免费、超快 Copilot 替代品。它支持 70 多种语言，并与您最喜爱的 IDE 集成，具有闪电般的速度和最先进的建议质量。
 
 面向开发人员的免费 AI 驱动工具包。 内置模型和基础设施，而不是另一个 API 包装器。所有 IDE 中的扩展。自动完成和搜索，还有更多。[Codeium Chat](https://nicelinks.site/redirect?url=https://codeium.com/chat) 您的全新 AI 编码助手可以为您编写代码、回答您的问题并提高您的工作效率。目前他们在 VS Code 扩展中免费提供。
 
-### 生成 🪄
+### 生成🪄
 
 Codeium Chat 可以为您生成完整的功能和应用程序。它简单、快速且免费。
 
-### 解释 📖
+### 解释📖
 
 潜入外国代码库？只需按一下按钮，我们的助手就会解释您需要知道的一切。
 
-### 重构 🛠️
+### 重构🛠️
 
 想要重写现有代码以添加新功能？修复错误？让它更漂亮？单击一个按钮并告诉我们的助手您想要什么。
 
-### 翻译 🌐
+### 翻译🌐
 
 利用人工智能的力量在几秒钟内将整个功能从一种语言翻译成另一种语言。
 
@@ -34,13 +34,13 @@ Codeium Chat 可以为您生成完整的功能和应用程序。它简单、快�
 
 ── 出自[倾城之链 - Codeium · Free AI Code Completion & Chat](https://nicelinks.site/post/646f559bd10b0244940dd191)
 
-## [Magical - AI-powered time partner ](https://nicelinks.site/post/646f4a82d10b0244940dd14e)
+## [Magical - AI-powered time partner    ](https://nicelinks.site/post/646f4a82d10b0244940dd14e)
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`Chrome`](https://nicelinks.site/tags/Chrome) · [`扩展`](https://nicelinks.site/tags/扩展)
 
-> Magical turns every calendar invitation into a collaborative workspace whereyou can schedule, coordinate and automate your meetings.
+>Magical turns every calendar invitation into a collaborative workspace whereyou can schedule, coordinate and automate your meetings.
 
-![倾城之链 - Magical - AI-powered time partner    ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/magical.so.png?x-oss-process=style/png2jpg)
+![倾城之链 - Magical - AI-powered time partner    ](https://oss.nicelinks.site/magical.so.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Magical](https://nicelinks.site/redirect?url=https://magical.so/) 是世界上第一个使用 AI 帮助您和您的团队减少无意义的会议并专注于重要事情的时间操作系统。直接从您的浏览器选项卡控制日程安排过程，并使用高级 AI 来建议首选会议时间、议程草案等。Magical 与 Zoom、Google Meet 和 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 方便地集成，是忙碌的专业人士的完美解决方案。
 
@@ -50,7 +50,7 @@ Codeium Chat 可以为您生成完整的功能和应用程序。它简单、快�
 
 Magical 使用来自 OpenAI 的 ChatGPT-4 和 Whisper 来生成会议记录、推荐行动项目，并充当您的会议助手；通过自动将您的会议记录同步到 Notion 并与他人共享，体验最佳的可访问性。Magical 免费可用，普通会员需要支付 15 美金/月；它不仅提供 Web 应用程序，而且拥有 Chrome 扩展，您可以根据自己的喜欢进行选择。
 
-── 出自[倾城之链 - Magical - AI-powered time partner ](https://nicelinks.site/post/646f4a82d10b0244940dd14e)
+── 出自[倾城之链 - Magical - AI-powered time partner    ](https://nicelinks.site/post/646f4a82d10b0244940dd14e)
 
 ## [Chatbox App - Your AI Copilot on the Desktop](https://nicelinks.site/post/646f44e1d10b0244940dd0e1)
 
@@ -58,9 +58,9 @@ Magical 使用来自 OpenAI 的 ChatGPT-4 和 Whisper 来生成会议记录、�
 
 **关键字**：AI, Copilot, ChatGPT, GPT4, GPT5, GPT3.5, OpenAI
 
-> Your AI Copilot on the Desktop
+>Your AI Copilot on the Desktop
 
-![倾城之链 - Chatbox App - Your AI Copilot on the Desktop](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/chatboxapp.xyz.png?x-oss-process=style/png2jpg)
+![倾城之链 - Chatbox App - Your AI Copilot on the Desktop](https://oss.nicelinks.site/chatboxapp.xyz.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Chatbox App](https://nicelinks.site/redirect?url=https://chatboxapp.xyz/) 是 GPT-4 / GPT-3.5 (OpenAI API) 的开源桌面[应用](https://nicelinks.site/tags/应用)程序，支持 Windows、Mac 和 Linux。它具有以下功能特征：
 
@@ -74,7 +74,7 @@ Magical 使用来自 OpenAI 的 ChatGPT-4 和 Whisper 来生成会议记录、�
 - 提供安装包，无需部署；
 - 免费和开源；
 
-需要说明的是 Chatbox 类似应用，并不能直接提供 ChatGPT、GPT 访问服务，需要使用者提供账号或 OpenAI Key，同时也要自行解决网络 🪜 问题；其价值在于提供桌面应用程序，随着 OpenAI 官方提供的客户端做的愈来愈好，这类应用需要进一步挖掘价值点。如果您想对该程序感性，可移步 [Github 开源仓库](https://github.com/Bin-Huang/chatbox) 以了解更多。
+需要说明的是 Chatbox 类似应用，并不能直接提供 ChatGPT、GPT 访问服务，需要使用者提供账号或 OpenAI Key，同时也要自行解决网络🪜问题；其价值在于提供桌面应用程序，随着 OpenAI 官方提供的客户端做的愈来愈好，这类应用需要进一步挖掘价值点。如果您想对该程序感性，可移步 [Github 开源仓库](https://github.com/Bin-Huang/chatbox) 以了解更多。
 
 ── 出自[倾城之链 - Chatbox App - Your AI Copilot on the Desktop](https://nicelinks.site/post/646f44e1d10b0244940dd0e1)
 
@@ -84,11 +84,11 @@ Magical 使用来自 OpenAI 的 ChatGPT-4 和 Whisper 来生成会议记录、�
 
 **关键字**：搜星, 华视搜星, 明星, 娱乐, 最新电影, 美妆, 护肤品, 自媒体, SNS, 短视频, 微电影, 古风, 国风, 动漫, 游戏, 电影, 电视剧, 音乐, 舞蹈, 武术, 时尚, 戏曲, 种草, 化妆品, OEM, 堂小生
 
-> 搜星网是一家专注影视、娱乐、时尚、生活为主题，基于用户关系的社交网络平台，用户可以通过文字、图片、音频、视频等多种形式进行即时分享，传播互动，交友娱乐。
+>搜星网是一家专注影视、娱乐、时尚、生活为主题，基于用户关系的社交网络平台，用户可以通过文字、图片、音频、视频等多种形式进行即时分享，传播互动，交友娱乐。
 
-![倾城之链 - 搜星网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.msostar.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 搜星网](https://oss.nicelinks.site/www.msostar.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[搜星网](https://nicelinks.site/redirect?url=https://www.msostar.com/) 是一家专注影视、娱乐、时尚、生活为主题，基于用户关系的社交网络平台，用户可以通过文字、图片、音频、视频等多种形式进行即时分享，传播互动，交友娱乐。该网站分为：头条（封面、娱乐、时尚、国风、动漫、游戏、文化、生活）、话题、视频、星库、直播、商城、排行榜、联盟、社区等板块。此外，该网站提供内置搜索 🔍，你可以搜寻自己感兴趣的内容。
+**推荐语**：[搜星网](https://nicelinks.site/redirect?url=https://www.msostar.com/) 是一家专注影视、娱乐、时尚、生活为主题，基于用户关系的社交网络平台，用户可以通过文字、图片、音频、视频等多种形式进行即时分享，传播互动，交友娱乐。该网站分为：头条（封面、娱乐、时尚、国风、动漫、游戏、文化、生活）、话题、视频、星库、直播、商城、排行榜、联盟、社区等板块。此外，该网站提供内置搜索🔍，你可以搜寻自己感兴趣的内容。
 
 ── 出自[倾城之链 - 搜星网](https://nicelinks.site/post/646eaaded10b0244940dc9ed)
 
@@ -96,9 +96,9 @@ Magical 使用来自 OpenAI 的 ChatGPT-4 和 Whisper 来生成会议记录、�
 
 **标签**：[`分析`](https://nicelinks.site/tags/分析) · [`免费`](https://nicelinks.site/tags/免费) · [`流量统计`](https://nicelinks.site/tags/流量统计)
 
-> Accurate hit counter with the most appropriate visualization
+>Accurate hit counter with the most appropriate visualization
 
-![倾城之链 - Free Website Counter Showing Visitor Location on Map](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/clustrmaps.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Free Website Counter Showing Visitor Location on Map](https://oss.nicelinks.site/clustrmaps.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ClustrMaps](https://nicelinks.site/redirect?url=https://clustrmaps.com/) 是一个提供网站访问者地理位置统计的在线服务。它可以为网站管理员提供一个小部件，用于显示网站访问者的地理位置，以及访问者的数量和来源。以下是 ClustrMaps 的主要功能：
 
@@ -120,9 +120,9 @@ Magical 使用来自 OpenAI 的 ChatGPT-4 和 Whisper 来生成会议记录、�
 
 **标签**：[`短链接`](https://nicelinks.site/tags/短链接) · [`自托管`](https://nicelinks.site/tags/自托管) · [`开源`](https://nicelinks.site/tags/开源)
 
-> Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
+>Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 
-![倾城之链 - Dub - Link Management for Modern Marketing Teams](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dub.sh.png?x-oss-process=style/png2jpg)
+![倾城之链 - Dub - Link Management for Modern Marketing Teams](https://oss.nicelinks.site/dub.sh.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dub](https://nicelinks.site/redirect?url=https://dub.sh/) 是一种 [开源](https://nicelinks.site/tags/开源) 链接管理工具，供现代营销团队创建、共享和跟踪 [短链接](https://nicelinks.site/tags/短链接) 。Dub 不仅仅是一个链接缩短器。我们构建了一套强大的功能，让您拥有强大的营销能力。以下是 Dub 提供的一些开箱即用的功能：
 
@@ -150,9 +150,9 @@ Dub 为您的链接提供了一个强大的[分析](https://nicelinks.site/tags/
 
 **标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`服务`](https://nicelinks.site/tags/服务) · [`AI`](https://nicelinks.site/tags/AI)
 
-> Logspace is a software company specialized in providing customized Machine Learning services.
+>Logspace is a software company specialized in providing customized Machine Learning services.
 
-![倾城之链 - Logspace — Machine Learning, Custom Built](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/logspace.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Logspace — Machine Learning, Custom Built](https://oss.nicelinks.site/logspace.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Logspace](https://nicelinks.site/redirect?url=https://logspace.ai/) 是一家专门提供定制 [机器学习](https://nicelinks.site/tags/机器学习) 服务的软件公司。由最先进的技术提供支持的自定义数据解决方案，其管道从实验开始一直到部署。Logspace 主要发光的地方有以下领域：
 
@@ -191,13 +191,13 @@ Logspace 旗下有开源产品：⛓️ [LangFlow](https://github.com/logspace-a
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`发现`](https://nicelinks.site/tags/发现) · [`AI`](https://nicelinks.site/tags/AI)
 
-**关键字**：未来百科, AI 导航, AI 工具箱, AI 工具导航, ChatGPT 工具, AI 工具, 未来百科官网, AI 绘画, AIGC, 视频 AI, 语音 AI, 图像 AI, 未来百科 ai 工具
+**关键字**：未来百科, AI 导航, AI 工具箱, AI工具导航, ChatGPT 工具, AI 工具, 未来百科官网, AI 绘画, AIGC, 视频 AI, 语音AI, 图像AI, 未来百科 ai 工具
 
-> 未来百科，为发现全球优质 AI 工具产品而诞生。我们提供全面的 AI 工具资源，帮助您更高效地解决问题，提高工作效率。无论您是数据科学家、开发人员还是业务人员，我们都有适合您的 AI 工具。探索我们的 AI 工具资源库，发现新的技术和工具，并开始提升您的工作表现！
+>未来百科，为发现全球优质 AI 工具产品而诞生。我们提供全面的AI工具资源，帮助您更高效地解决问题，提高工作效率。无论您是数据科学家、开发人员还是业务人员，我们都有适合您的AI工具。探索我们的 AI 工具资源库，发现新的技术和工具，并开始提升您的工作表现！
 
-![倾城之链 - 未来百科 | 为发现全球优质 AI 工具产品而生](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nav.6aiq.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 未来百科 | 为发现全球优质 AI 工具产品而生](https://oss.nicelinks.site/nav.6aiq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[未来百科](https://nicelinks.site/redirect?url=https://nav.6aiq.com/) ，是一款 [AI](https://nicelinks.site/tags/AI) 产品 [导航](https://nicelinks.site/tags/导航) 网站，**为发现全球优质 AI 工具而生**。目前已  **聚集全球 2500+ 优质 AI 工具产品** ，旨在帮助用户发现全球最好的 AI 工具，同时为研发 AI 垂直应用的创业公司提供展示窗口，迎接未来的 AI 时代。
+**推荐语**：[未来百科](https://nicelinks.site/redirect?url=https://nav.6aiq.com/) ，是一款 [AI](https://nicelinks.site/tags/AI) 产品 [导航](https://nicelinks.site/tags/导航) 网站，**为发现全球优质 AI 工具而生**。目前已 **聚集全球 2500+ 优质 AI 工具产品** ，旨在帮助用户发现全球最好的 AI 工具，同时为研发 AI 垂直应用的创业公司提供展示窗口，迎接未来的 AI 时代。
 
 [未来百科](https://nicelinks.site/redirect?url=https://nav.6aiq.com/) 通过工作人员对 AI 产品、AI 教程等资源的辛勤整理，借助于 AI 算法和大数据能力实现 **AI 优质资源的聚集并进行高效的流量分发** 。未来百科提供 **网页版、小程序两种终端类型** ，功能上包括：
 
@@ -217,9 +217,9 @@ Logspace 旗下有开源产品：⛓️ [LangFlow](https://github.com/logspace-a
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`免费`](https://nicelinks.site/tags/免费) · [`照片`](https://nicelinks.site/tags/照片)
 
-> Generate stunning Anime, Art or Images with our easy to use AI Image Generator - No need to do complicated prompts anymore. Get started for free today!
+>Generate stunning Anime, Art or Images with our easy to use AI Image Generator - No need to do complicated prompts anymore. Get started for free today!
 
-![倾城之链 - Create Ultra Realistic AI Art Generator For Free](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.zmo.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Create Ultra Realistic AI Art Generator For Free](https://oss.nicelinks.site/www.zmo.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ZMO.AI](https://nicelinks.site/redirect?url=https://www.zmo.ai/) ，为创作者推出终极 [AI](https://nicelinks.site/tags/AI) 艺术生成器；它由 Magic AI 驱动，只需要上传你的照片，只需单击一个按钮，即可从文本或图像生成令人惊叹的 AI 艺术、图像、动漫、逼真的 [照片](https://nicelinks.site/tags/照片) ；它具有如下功能特征：
 
@@ -239,39 +239,35 @@ Remover.app 可以在几秒钟内免费删除照片中不需要的任何内容�
 
 ── 出自[倾城之链 - Create Ultra Realistic AI Art Generator For Free](https://nicelinks.site/post/646a21ffd10b0244940daa3a)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-**道生一，一生二，二生三，三生万物**。万物负阴而抱阳，冲气以为和。人之所恶，唯孤、寡、不谷，而王公以为称。故物或损之而益，或益之而损。人之所教，我亦教之。强梁者不得其死，吾将以为教父。── 春秋末期人 · 老子李耳《道德经》第四十二章
+**道生一，一生二，二生三，三生万物**。万物负阴而抱阳，冲气以为和。人之所恶，唯孤、寡、不谷，而王公以为称。故物或损之而益，或益之而损。人之所教，我亦教之。强梁者不得其死，吾将以为教父。──春秋末期人 · 老子李耳《道德经》第四十二章
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 118 期）- 倾城之链](https://link.niceshare.site/weekly-118/)
-- [优质网站同好者周刊（第 117 期）- 倾城之链](https://link.niceshare.site/weekly-117/)
-- [优质网站同好者周刊（第 116 期）- 倾城之链](https://link.niceshare.site/weekly-116/)
-- [优质网站同好者周刊（第 115 期）- 倾城之链](https://link.niceshare.site/weekly-115/)
-- [优质网站同好者周刊（第 114 期）- 倾城之链](https://link.niceshare.site/weekly-114/)
-- [优质网站同好者周刊（第 113 期）- 倾城之链](https://link.niceshare.site/weekly-113/)
-- [优质网站同好者周刊（第 112 期）- 倾城之链](https://link.niceshare.site/weekly-112/)
-- [优质网站同好者周刊（第 111 期）- 倾城之链](https://link.niceshare.site/weekly-111/)
-- [优质网站同好者周刊（第 110 期）- 倾城之链](https://link.niceshare.site/weekly-110/)
-- [优质网站同好者周刊（第 109 期）- 倾城之链](https://link.niceshare.site/weekly-109/)
-- [优质网站同好者周刊（第 108 期）- 倾城之链](https://link.niceshare.site/weekly-108/)
+- [优质网站同好者周刊（第 118 期）- 倾城之链](https://blog.nicelinks.site/weekly-118/)
+- [优质网站同好者周刊（第 117 期）- 倾城之链](https://blog.nicelinks.site/weekly-117/)
+- [优质网站同好者周刊（第 116 期）- 倾城之链](https://blog.nicelinks.site/weekly-116/)
+- [优质网站同好者周刊（第 115 期）- 倾城之链](https://blog.nicelinks.site/weekly-115/)
+- [优质网站同好者周刊（第 114 期）- 倾城之链](https://blog.nicelinks.site/weekly-114/)
+- [优质网站同好者周刊（第 113 期）- 倾城之链](https://blog.nicelinks.site/weekly-113/)
+- [优质网站同好者周刊（第 112 期）- 倾城之链](https://blog.nicelinks.site/weekly-112/)
+- [优质网站同好者周刊（第 111 期）- 倾城之链](https://blog.nicelinks.site/weekly-111/)
+- [优质网站同好者周刊（第 110 期）- 倾城之链](https://blog.nicelinks.site/weekly-110/)
+- [优质网站同好者周刊（第 109 期）- 倾城之链](https://blog.nicelinks.site/weekly-109/)
+- [优质网站同好者周刊（第 108 期）- 倾城之链](https://blog.nicelinks.site/weekly-108/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

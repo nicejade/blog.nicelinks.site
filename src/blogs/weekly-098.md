@@ -8,7 +8,7 @@
 
 > Blitz picks up where Next.js leaves off, providing battle-tested libraries and conventions for shipping and scaling world wide applications.
 
-![倾城之链 - Blitz.js - The Missing Fullstack Toolkit for Next.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blitzjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Blitz.js - The Missing Fullstack Toolkit for Next.js](https://oss.nicelinks.site/blitzjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Blitz](https://nicelinks.site/redirect?url=https://blitzjs.com/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、功能齐备，并提供一个能消除 REST/[GraphQL](https://nicelinks.site/tags/GraphQL) 依赖的零 API 数据抽象层的框架，受到了 Ruby on Rails 的启发。它接续了 Next.js 的不足，提供了经过实战检验的库和约定，用于交付和扩展全球应用程序。它具有如下功能特征：
 
@@ -46,7 +46,7 @@ Blitz 为你处理了所有繁琐的设置和配置。通用的项目结构和�
 
 > Expose your services easily and securely
 
-![倾城之链 - Nginx Proxy Manager](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nginxproxymanager.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Nginx Proxy Manager](https://oss.nicelinks.site/nginxproxymanager.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Nginx Proxy Manager](https://nicelinks.site/redirect?url=https://nginxproxymanager.com/) ，用于管理 Nginx 代理主机的 Docker 容器，具有简单、强大的界面，可轻松安全地公开您的服务。该项目作为预构建的 docker 镜像提供，使您能够轻松转发到您在家中或其他地方运行的网站，包括免费 SSL，而无需了解太多有关 Nginx 或 Letsencrypt 的信息。
 
@@ -84,7 +84,7 @@ Blitz 为你处理了所有繁琐的设置和配置。通用的项目结构和�
 
 > Screen Studio makes it easy to create beautiful, professional screen recordings. No video editing skills required.
 
-![倾城之链 - Screen Studio — Beautiful screen recordings in minutes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.screen.studio.png?x-oss-process=style/png2jpg)
+![倾城之链 - Screen Studio — Beautiful screen recordings in minutes](https://oss.nicelinks.site/www.screen.studio.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Screen Studio](https://nicelinks.site/redirect?url=https://www.screen.studio/) 一款屏幕录制软件，使创建漂亮、专业的屏幕录像变得容易，不需要视频编辑技能。它使您的鼠标移动流畅，**点击时自动放大**，对所有动画应用电影运动模糊，并为您的录制添加漂亮的背景。在一分钟内，您的录音将成为高质量的宣传视频。更详细介绍，Screen Studio 具有如下功能特征：
 
@@ -132,7 +132,7 @@ Screen Studio，专为 macOS 设计（作者并没有添加 Windows 支持的计
 
 > 知识麦田旨在收集网络上最新最全的各类别课程资源，美好已经播种，等待你来收获。在这里，你期待的可能是对知识的收获，而我们期待的是你收获后喜悦满足的笑容。
 
-![倾城之链 - 知识麦田-美好已经播种，等待你来收获](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zhishimt.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 知识麦田-美好已经播种，等待你来收获](https://oss.nicelinks.site/zhishimt.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[知识麦田](https://nicelinks.site/redirect?url=https://zhishimt.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、[Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 所搭建的网站，旨在收集网络上最新最全的各类别课程资源，不乏包括创意设计、影视与摄影、产品与运营、职场提升、编程开发、资源样机、设计插件等等。
 
@@ -144,7 +144,7 @@ Screen Studio，专为 macOS 设计（作者并没有添加 Windows 支持的计
 
 有据是中国首个独立的事实核查计划，专注于核查中文世界的国际资讯。
 
-![有据 | 国际新闻事实核查 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/chinafactcheck.com.png?x-oss-process=style/png2jpg)
+![有据 | 国际新闻事实核查 倾城之链](https://oss.nicelinks.site/chinafactcheck.com.png?x-oss-process=style/png2jpg)
 
 **推荐语：**[有据 China Fact Check](https://nicelinks.site/redirect?url=https://chinafactcheck.com/) ，是中国首个独立的事实核查计划，专注于核查中文世界的国际资讯。该团队认为：一个崛起大国的国民，应有与之相匹配的世界观；而要形成理性、开放、包容的世界观，不能没有准确的国际新闻报道和国际资讯。
 
@@ -154,11 +154,9 @@ Screen Studio，专为 macOS 设计（作者并没有添加 Windows 支持的计
 
 **有据**，遵守国际事实核查网络（IFCN）的基本运作原则，即致力于公正性、透明度和准确性。他们不核查观点，只核查事实。您如果有意核查国际新闻事实， [有据](https://nicelinks.site/redirect?url=https://chinafactcheck.com/)  是非常值得关注的网站。详情可参见  [关于有据](https://chinafactcheck.com/about-us/) 。 ── 出自[倾城之链 | 有据 | 国际新闻事实核查](https://nicelinks.site/post/63a42de0e524a8432ed21654)。
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -166,27 +164,25 @@ Screen Studio，专为 macOS 设计（作者并没有添加 Windows 支持的计
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 96 期）- 倾城之链](https://link.niceshare.site/weekly-096/)
-- [优质网站同好者周刊（第 95 期）- 倾城之链](https://link.niceshare.site/weekly-095/)
-- [优质网站同好者周刊（第 94 期）- 倾城之链](https://link.niceshare.site/weekly-094/)
-- [优质网站同好者周刊（第 93 期）- 倾城之链](https://link.niceshare.site/weekly-093/)
-- [优质网站同好者周刊（第 92 期）- 倾城之链](https://link.niceshare.site/weekly-092/)
-- [优质网站同好者周刊（第 91 期）- 倾城之链](https://link.niceshare.site/weekly-091/)
-- [优质网站同好者周刊（第 90 期）- 倾城之链](https://link.niceshare.site/weekly-090/)
-- [优质网站同好者周刊（第 89 期）- 倾城之链](https://link.niceshare.site/weekly-089/)
-- [优质网站同好者周刊（第 88 期）- 倾城之链](https://link.niceshare.site/weekly-088/)
-- [优质网站同好者周刊（第 87 期）- 倾城之链](https://link.niceshare.site/weekly-087/)
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
+- [优质网站同好者周刊（第 96 期）- 倾城之链](https://blog.nicelinks.site/weekly-096/)
+- [优质网站同好者周刊（第 95 期）- 倾城之链](https://blog.nicelinks.site/weekly-095/)
+- [优质网站同好者周刊（第 94 期）- 倾城之链](https://blog.nicelinks.site/weekly-094/)
+- [优质网站同好者周刊（第 93 期）- 倾城之链](https://blog.nicelinks.site/weekly-093/)
+- [优质网站同好者周刊（第 92 期）- 倾城之链](https://blog.nicelinks.site/weekly-092/)
+- [优质网站同好者周刊（第 91 期）- 倾城之链](https://blog.nicelinks.site/weekly-091/)
+- [优质网站同好者周刊（第 90 期）- 倾城之链](https://blog.nicelinks.site/weekly-090/)
+- [优质网站同好者周刊（第 89 期）- 倾城之链](https://blog.nicelinks.site/weekly-089/)
+- [优质网站同好者周刊（第 88 期）- 倾城之链](https://blog.nicelinks.site/weekly-088/)
+- [优质网站同好者周刊（第 87 期）- 倾城之链](https://blog.nicelinks.site/weekly-087/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

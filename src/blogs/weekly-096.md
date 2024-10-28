@@ -8,7 +8,7 @@
 
 > The #1 Choice for AI Video Creation Platform
 
-![倾城之链 - D-ID | The #1 Choice for AI Generated Video Creation Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.d-id.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - D-ID | The #1 Choice for AI Generated Video Creation Platform](https://oss.nicelinks.site/www.d-id.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[D-ID](https://nicelinks.site/redirect?url=https://www.d-id.com/) ，**面向未来的生成人工智能平台**，只需按一下按钮，即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。它具有以下功能特征：
 
@@ -32,7 +32,7 @@ D-ID 的 Generative AI 使用户能够将任何图片或视频转化为非凡的
 
 > Umami is an open source, privacy-focused alternative to Google Analytics.
 
-![倾城之链 - Umami | Own your website analytics](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/umami.is.png?x-oss-process=style/png2jpg)
+![倾城之链 - Umami | Own your website analytics](https://oss.nicelinks.site/umami.is.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Umami](https://nicelinks.site/redirect?url=https://umami.is/) 是一个开源、注重隐私的平台，谷歌分析（Google Analytics）的替代方案（尤其是在 2023 年 7 月，谷歌全面切换至 `GA4`——目前来看其体验颇为欠佳）。其创立理念是，用户应该通过他们使用的软件获得授权，而不应该为了交换而放弃隐私和数据所有权等基本权利。`umami` 具有以下功能特征：
 
@@ -64,7 +64,7 @@ Umami 是一个自行托管的网络分析解决方案。有许多不同的方�
 
 > vivo 官方招聘平台，诚邀精英共创智能未来！未来，在世界所有充满渴望极致的角落，vivo 与你共同创造令人震撼的奇迹！
 
-![倾城之链 - vivo 招聘](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hr.vivo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - vivo 招聘](https://oss.nicelinks.site/hr.vivo.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[vivo](https://nicelinks.site/post/5b3ce12a615bf842b609103f) 是一家以设计驱动创造伟大产品，以智能终端和智慧服务为核心的科技公司。其愿景是：成为更健康、更长久的世界一流企业；“本分、用户导向、设计驱动、学习、团队”是其核心价值观。 [vivo 招聘](https://nicelinks.site/redirect?url=https://hr.vivo.com/) 是 vivo 官方招聘平台（含社会招聘、校园招聘），旨在诚邀精英共创智能未来。
 
@@ -86,7 +86,7 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 > A framework for creating reliable and efficient web applications.
 
-![倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/yew.rs.png?x-oss-process=style/png2jpg)
+![倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://oss.nicelinks.site/yew.rs.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Yew](https://nicelinks.site/redirect?url=https://yew.rs/) 是一个现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端 Web 应用程序；能够达成前后端都使用 Rust 开发；它使用类似 React JSX 的语法开发页面，同时支持 class 和函数式两种组件编写方式（据悉，性能尚不如 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、[SolidJS](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 这些）。它具有以下功能特性：
 
@@ -120,7 +120,7 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 > V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++.
 
-![倾城之链 - V8 JavaScript engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/v8.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - V8 JavaScript engine](https://oss.nicelinks.site/v8.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[V8](https://nicelinks.site/redirect?url=https://v8.dev/) 是 Google 的开源高性能 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 引擎，用 C++ 编写。它用于 Chrome、Node.js、和 [快应用](https://nicelinks.site/tags/快应用) 等。它实现了 ECMAScript 和 WebAssembly，并运行在 Windows 7 或更高版本、macOS 10.12+ 和使用 x64、IA-32、ARM 或 MIPS 处理器的 Linux 系统上。V8 可以独立运行，也可以嵌入到任何 C++ 应用程序中。
 
@@ -134,11 +134,9 @@ V8 使任何 C++ 应用程序能够将自己的对象和函数暴露给 JavaScri
 
 ── 出自[倾城之链 - V8 JavaScript engine](https://nicelinks.site/post/63986e3ce524a8432ed1d256)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -148,29 +146,27 @@ V8 使任何 C++ 应用程序能够将自己的对象和函数暴露给 JavaScri
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 95 期）- 倾城之链](https://link.niceshare.site/weekly-095/)
-- [优质网站同好者周刊（第 94 期）- 倾城之链](https://link.niceshare.site/weekly-094/)
-- [优质网站同好者周刊（第 93 期）- 倾城之链](https://link.niceshare.site/weekly-093/)
-- [优质网站同好者周刊（第 92 期）- 倾城之链](https://link.niceshare.site/weekly-092/)
-- [优质网站同好者周刊（第 91 期）- 倾城之链](https://link.niceshare.site/weekly-091/)
-- [优质网站同好者周刊（第 90 期）- 倾城之链](https://link.niceshare.site/weekly-090/)
-- [优质网站同好者周刊（第 89 期）- 倾城之链](https://link.niceshare.site/weekly-089/)
-- [优质网站同好者周刊（第 88 期）- 倾城之链](https://link.niceshare.site/weekly-088/)
-- [优质网站同好者周刊（第 87 期）- 倾城之链](https://link.niceshare.site/weekly-087/)
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
-- [优质网站同好者周刊（第 85 期）- 倾城之链](https://link.niceshare.site/weekly-085/)
-- [优质网站同好者周刊（第 84 期）- 倾城之链](https://link.niceshare.site/weekly-084/)
-- [优质网站同好者周刊（第 83 期）- 倾城之链](https://link.niceshare.site/weekly-083/)
+- [优质网站同好者周刊（第 95 期）- 倾城之链](https://blog.nicelinks.site/weekly-095/)
+- [优质网站同好者周刊（第 94 期）- 倾城之链](https://blog.nicelinks.site/weekly-094/)
+- [优质网站同好者周刊（第 93 期）- 倾城之链](https://blog.nicelinks.site/weekly-093/)
+- [优质网站同好者周刊（第 92 期）- 倾城之链](https://blog.nicelinks.site/weekly-092/)
+- [优质网站同好者周刊（第 91 期）- 倾城之链](https://blog.nicelinks.site/weekly-091/)
+- [优质网站同好者周刊（第 90 期）- 倾城之链](https://blog.nicelinks.site/weekly-090/)
+- [优质网站同好者周刊（第 89 期）- 倾城之链](https://blog.nicelinks.site/weekly-089/)
+- [优质网站同好者周刊（第 88 期）- 倾城之链](https://blog.nicelinks.site/weekly-088/)
+- [优质网站同好者周刊（第 87 期）- 倾城之链](https://blog.nicelinks.site/weekly-087/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
+- [优质网站同好者周刊（第 85 期）- 倾城之链](https://blog.nicelinks.site/weekly-085/)
+- [优质网站同好者周刊（第 84 期）- 倾城之链](https://blog.nicelinks.site/weekly-084/)
+- [优质网站同好者周刊（第 83 期）- 倾城之链](https://blog.nicelinks.site/weekly-083/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

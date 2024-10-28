@@ -6,9 +6,9 @@
 
 **标签**：[`构建`](https://nicelinks.site/tags/构建) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
-> Next generation build system with first class monorepo support and powerful integrations.
+>Next generation build system with first class monorepo support and powerful integrations.
 
-![倾城之链 - Nx: Smart, Fast and Extensible Build System](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nx.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Nx: Smart, Fast and Extensible Build System](https://oss.nicelinks.site/nx.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[NX](https://nicelinks.site/redirect?url=https://nx.dev/) 是一个面向大型应用程序的快速、智能和可扩展的 [构建](https://nicelinks.site/tags/构建) 系统。它最初由 Narwhal Technologies 开发，后来由 Nrwl 公司维护，是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的构建工具，用于管理和编译大型的前端项目。它具有以下功能特征：
 
@@ -42,11 +42,11 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 **标签**：[`人文`](https://nicelinks.site/tags/人文) · [`有趣`](https://nicelinks.site/tags/有趣) · [`学习`](https://nicelinks.site/tags/学习)
 
-> BJ Fogg, PhD. Behavior Scientist at Stanford University. I teach good people how behavior works so they can create products & services that benefit everyday people around the world.
+>BJ Fogg, PhD. Behavior Scientist at Stanford University. I teach good people how behavior works so they can create products & services that benefit everyday people around the world. 
 
-![倾城之链 - Hello! | bjfogg - Behavior Scientist at Stanford University](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bjfogg.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Hello! | bjfogg - Behavior Scientist at Stanford University](https://oss.nicelinks.site/www.bjfogg.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hello! | bjfogg](https://nicelinks.site/redirect?url=https://www.bjfogg.com/) ，是 B.J. Fogg 博士的个人网站。B.J. Fogg 是一名行为科学家，在创新和教学方面拥有丰富的经验。在斯坦福大学，他领导了一个研究实验室 20 多年。每年我还在斯坦福大学的特殊课程中教授我的模型和方法。
+**推荐语**：[Hello! | bjfogg](https://nicelinks.site/redirect?url=https://www.bjfogg.com/) ，是 B.J. Fogg 博士的个人网站。B.J. Fogg  是一名行为科学家，在创新和教学方面拥有丰富的经验。在斯坦福大学，他领导了一个研究实验室 20 多年。每年我还在斯坦福大学的特殊课程中教授我的模型和方法。
 
 在行业方面，B.J. Fogg 培训创新者使用他的作品，这样他们就可以创造出能够永久影响行为的解决方案。重点领域包括健康、可持续性、财务状况、学习、生产力等。他最为人说熟知的成就是所提出的**福格行为模型**（Fogg Behavior Model）。
 
@@ -72,7 +72,7 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 例如，在组建团队时，可以根据福格行为模型来挑选成员，以确保团队的行为分布均衡，**增强团队的协作能力**。在任务分配中，可以将任务分配给适合该任务的成员，以便他们更好地完成任务。在团队会议中，可以采用不同的沟通方式来满足不同成员的需求，以提高会议效率。
 
-### 福格行为模型在销售中的应用
+###  福格行为模型在销售中的应用
 
 福格行为模型还可以应用于销售和客户关系管理中。了解客户的行为偏好，可以更好地了解他们的需求和期望，并相应地进行销售和客户服务。例如，了解客户的沟通风格，可以采用适当的沟通方式来与他们进行沟通，以满足客户需求，提高销售效率。
 
@@ -84,10 +84,10 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 **标签**：[`Github`](https://nicelinks.site/tags/Github) · [`监控`](https://nicelinks.site/tags/监控) · [`自动化`](https://nicelinks.site/tags/自动化)
 
-> ⬆️ Free uptime monitor and status page powered by GitHub. Upptime
-> is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages.
+>⬆️ Free uptime monitor and status page powered by GitHub. Upptime 
+ is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages. 
 
-![倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/upptime.js.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://oss.nicelinks.site/upptime.js.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Upptime](https://nicelinks.site/redirect?url=https://upptime.js.org/) 是一个开源的 [监控](https://nicelinks.site/tags/监控) 工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知。Upptime 使用 [GitHub](https://nicelinks.site/tags/GitHub) Actions 和 GitHub Pages 进行运行和托管，这使得使用 Upptime 非常容易，而且可以免费使用 GitHub 提供的服务器资源。Upptime 的主要特点包括：
 
@@ -95,23 +95,23 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 2.  **实时监控**：Upptime 可以持续监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知，使用户能够快速识别并解决故障。
 3.  **可扩展性**：Upptime 是一个开源项目，可以通过编写自定义脚本或添加第三方插件来扩展其功能。
 4.  **易于部署和使用**：Upptime 使用 GitHub Actions 和 GitHub Pages 进行运行和托管，这意味着用户只需要将其配置文件和监控脚本推送到 GitHub 仓库，即可快速轻松地部署和使用。
-5.  每 5 分钟监控一次正常运行时间：使用 GitHub Actions，每 5 分钟监控一次无限制的网页，并存储版本控制的响应时间统计信息。
-6.  现代状态页面网站：获得由现代 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 静态站点提供支持的时尚美观的状态页面，其中包含中断历史记录和长期趋势图。
-7.  在你工作的地方得到通知：借助对 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、Telegram、自定义 webhook 等的内置通知支持，了解任何网站出现故障的时刻。
+5. 每 5 分钟监控一次正常运行时间：使用 GitHub Actions，每 5 分钟监控一次无限制的网页，并存储版本控制的响应时间统计信息。
+6. 现代状态页面网站：获得由现代 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 静态站点提供支持的时尚美观的状态页面，其中包含中断历史记录和长期趋势图。
+7. 在你工作的地方得到通知：借助对 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、Telegram、自定义 webhook 等的内置通知支持，了解任何网站出现故障的时刻。
 
 总之，Upptime 是一个功能强大且易于使用的开源监控工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知，以帮助用户快速识别和解决故障。该项目在 [Github 开源](https://github.com/upptime/upptime)，如果您对它感兴趣，可移步以了解更多。
 
 ── 出自[倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://nicelinks.site/post/6411c2c8401101258a14cccc)
 
-## [Baklib 官网-在线知识库及在线帮助中心制作软件](https://nicelinks.site/post/6411b306401101258a14cba3)
+## [Baklib官网-在线知识库及在线帮助中心制作软件](https://nicelinks.site/post/6411b306401101258a14cba3)
 
 **标签**：[`在线`](https://nicelinks.site/tags/在线) · [`知识库`](https://nicelinks.site/tags/知识库) · [`文档`](https://nicelinks.site/tags/文档)
 
 **关键字**：baklib, 帮助中心, 在线手册, 帮助文档, 产品手册, 产品展示, 知识管理软件, 企业知识库, 网络客服
 
-> Baklib 是一款优雅的云端知识库建设平台，企业“帮助中心”全场景解决方案提供商。致力于企业帮助中心设计、产品说明书、常见问题手册、在线知识库、企业文档制作。
+>Baklib是一款优雅的云端知识库建设平台，企业“帮助中心”全场景解决方案提供商。致力于企业帮助中心设计、产品说明书、常见问题手册、在线知识库、企业文档制作。
 
-![倾城之链 - Baklib官网-在线知识库及在线帮助中心制作软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.baklib.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Baklib官网-在线知识库及在线帮助中心制作软件](https://oss.nicelinks.site/www.baklib.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Baklib](https://nicelinks.site/redirect?url=https://www.baklib.com/) ，一款在线 [知识库](https://nicelinks.site/tags/知识库) 及在线帮助中心制作软件；支持在线制作产品手册、帮助中心、FAQ、Guide、知识库、产品介绍、开发文档、在线手册，并发布到网站上。其官网介绍它具有以下应用场景：
 
@@ -139,17 +139,17 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 总之，知识库工具是一种有助于组织和管理知识的工具，它可以提高生产力、促进协作、简化培训和学习，并支持决策制定。
 
-Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体验管理   的系统，探码科技是一家从事“数据驱动软件智能”的软件研发公司，成立于 2015 年。它支持 KnowledgeBase、FAQ、Guide 应用场景；易于设置，易于使用。与其功能类似的产品有： [语雀](https://nicelinks.site/post/5b40437e615bf842b6091043) 、 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 、 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 等等。值此信息化、智能化时代，利用知识库工具，以帮助组织或个人收集、整理、存储和共享知识，以便随时查找和使用，善也。
+Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体验管理 的系统，探码科技是一家从事“数据驱动软件智能”的软件研发公司，成立于 2015 年。它支持 KnowledgeBase、FAQ、Guide 应用场景；易于设置，易于使用。与其功能类似的产品有： [语雀](https://nicelinks.site/post/5b40437e615bf842b6091043) 、 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 、 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 等等。值此信息化、智能化时代，利用知识库工具，以帮助组织或个人收集、整理、存储和共享知识，以便随时查找和使用，善也。
 
-── 出自[倾城之链 - Baklib 官网-在线知识库及在线帮助中心制作软件](https://nicelinks.site/post/6411b306401101258a14cba3)
+── 出自[倾城之链 - Baklib官网-在线知识库及在线帮助中心制作软件](https://nicelinks.site/post/6411b306401101258a14cba3)
 
 ## [Rspack | A fast Rust-based web bundler](https://nicelinks.site/post/6411b081401101258a14cb06)
 
 **标签**：[`构建`](https://nicelinks.site/tags/构建) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`Rust`](https://nicelinks.site/tags/Rust)
 
-> A fast Rust-based web bundler
+>A fast Rust-based web bundler
 
-![倾城之链 - Rspack | A fast Rust-based web bundler](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.rspack.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Rspack | A fast Rust-based web bundler](https://oss.nicelinks.site/www.rspack.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Rspack](https://nicelinks.site/redirect?url=https://www.rspack.dev/) ，一个快速的基于 [Rust](https://nicelinks.site/tags/Rust) 的 Web 构建工具（Web Bundler），旨在成为构建高性能前端工具链（这是一个新项目，目前仍在积极开发中）；它具有以下功能特征：
 
@@ -160,7 +160,7 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 - 🛠️ **生产优化** : 默认内置了各种优化策略，比如 tree shaking, minification 等。
 - 🎯 **框架无关**：（Framework Agnostic）不绑定任何前端框架，确保足够的灵活性。
 
-与 [Rspack](https://nicelinks.site/redirect?url=https://www.rspack.dev/) 功能相同的产品有：Webpack、[Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)、及同样基于 Rust 开发的 [Turbopack](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)，它们有各自优势，您可以根据自身需要，选择合适的构建工具。值得一提的是，在 Web 开发领域，将 TypeScript 和 Rust 与并行化架构相结合，为开发者带来极致的开发体验，已成为明显趋势之一。
+与 [Rspack](https://nicelinks.site/redirect?url=https://www.rspack.dev/)  功能相同的产品有：Webpack、[Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)、及同样基于 Rust 开发的 [Turbopack](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)，它们有各自优势，您可以根据自身需要，选择合适的构建工具。值得一提的是，在 Web 开发领域，将 TypeScript 和 Rust 与并行化架构相结合，为开发者带来极致的开发体验，已成为明显趋势之一。
 
 ── 出自[倾城之链 - Rspack | A fast Rust-based web bundler](https://nicelinks.site/post/6411b081401101258a14cb06)
 
@@ -168,9 +168,9 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 
 **标签**：[`平台`](https://nicelinks.site/tags/平台) · [`组件`](https://nicelinks.site/tags/组件) · [`协作`](https://nicelinks.site/tags/协作)
 
-> Bit is the leading toolchain for component-driven development. Forget monolithic apps and distribute to component-driven software. Build like the world’s best teams.
+>Bit is the leading toolchain for component-driven development. Forget monolithic apps and distribute to component-driven software. Build like the world’s best teams.
 
-![倾城之链 - Bit - Component driven development](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bit.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Bit - Component driven development](https://oss.nicelinks.site/bit.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Bit](https://nicelinks.site/redirect?url=https://bit.dev/) 是一个用于组件管理和版本控制的平台，旨在帮助开发者更轻松地创建、维护和分享独立的代码组件。使用 Bit，您可以在组件中构建任何东西。它旨在**结束单体应用程序**并解锁一种更具可扩展性、协作性和一致性的分布式开发形式。Bit 可以与多种语言和框架一起使用，例如 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Angular、Node.js 等。
 
@@ -195,9 +195,9 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`平台`](https://nicelinks.site/tags/平台) · [`Python`](https://nicelinks.site/tags/Python)
 
-> Leon is an open-source personal assistant who can live on your server. He is built on the top of Node.js, Python and artificial intelligence concepts.
+>Leon is an open-source personal assistant who can live on your server. He is built on the top of Node.js, Python and artificial intelligence concepts.
 
-![倾城之链 - Leon - Your Open-Source Personal Assistant](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getleon.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Leon - Your Open-Source Personal Assistant](https://oss.nicelinks.site/getleon.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Leon](https://nicelinks.site/redirect?url=https://getleon.ai/) 是一个开源的 [AI](https://nicelinks.site/tags/AI) 助手平台，它允许你创建自定义语音助手来满足你的个人或商业需求。Leon 是一个由 Python 编写的本地应用程序，可以在桌面和树莓派等设备上运行，而不需要连接到互联网。
 
@@ -209,11 +209,9 @@ Leon 的设计理念是注重隐私和安全。所有的语音识别和自然语
 
 ── 出自[倾城之链 - Leon - Your Open-Source Personal Assistant](https://nicelinks.site/post/640f26202584e71ee75d3a79)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -225,27 +223,25 @@ Leon 的设计理念是注重隐私和安全。所有的语音识别和自然语
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 108 期）- 倾城之链](https://link.niceshare.site/weekly-108/)
-- [优质网站同好者周刊（第 107 期）- 倾城之链](https://link.niceshare.site/weekly-107/)
-- [优质网站同好者周刊（第 106 期）- 倾城之链](https://link.niceshare.site/weekly-106/)
-- [优质网站同好者周刊（第 105 期）- 倾城之链](https://link.niceshare.site/weekly-105/)
-- [优质网站同好者周刊（第 104 期）- 倾城之链](https://link.niceshare.site/weekly-104/)
-- [优质网站同好者周刊（第 103 期）- 倾城之链](https://link.niceshare.site/weekly-103/)
-- [优质网站同好者周刊（第 102 期）- 倾城之链](https://link.niceshare.site/weekly-102/)
-- [优质网站同好者周刊（第 101 期）- 倾城之链](https://link.niceshare.site/weekly-101/)
-- [优质网站同好者周刊（第 100 期）- 倾城之链](https://link.niceshare.site/weekly-100/)
-- [优质网站同好者周刊（第 99 期）- 倾城之链](https://link.niceshare.site/weekly-099/)
-- [优质网站同好者周刊（第 98 期）- 倾城之链](https://link.niceshare.site/weekly-098/)
+- [优质网站同好者周刊（第 108 期）- 倾城之链](https://blog.nicelinks.site/weekly-108/)
+- [优质网站同好者周刊（第 107 期）- 倾城之链](https://blog.nicelinks.site/weekly-107/)
+- [优质网站同好者周刊（第 106 期）- 倾城之链](https://blog.nicelinks.site/weekly-106/)
+- [优质网站同好者周刊（第 105 期）- 倾城之链](https://blog.nicelinks.site/weekly-105/)
+- [优质网站同好者周刊（第 104 期）- 倾城之链](https://blog.nicelinks.site/weekly-104/)
+- [优质网站同好者周刊（第 103 期）- 倾城之链](https://blog.nicelinks.site/weekly-103/)
+- [优质网站同好者周刊（第 102 期）- 倾城之链](https://blog.nicelinks.site/weekly-102/)
+- [优质网站同好者周刊（第 101 期）- 倾城之链](https://blog.nicelinks.site/weekly-101/)
+- [优质网站同好者周刊（第 100 期）- 倾城之链](https://blog.nicelinks.site/weekly-100/)
+- [优质网站同好者周刊（第 99 期）- 倾城之链](https://blog.nicelinks.site/weekly-099/)
+- [优质网站同好者周刊（第 98 期）- 倾城之链](https://blog.nicelinks.site/weekly-098/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

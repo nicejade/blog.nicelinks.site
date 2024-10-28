@@ -8,7 +8,7 @@
 
 > Qwik is Framework reimagined for the edge
 
-![倾城之链 - Qwik | The HTML-first framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qwik.builder.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Qwik | The HTML-first framework](https://oss.nicelinks.site/qwik.builder.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Qwik](https://nicelinks.site/redirect?url=https://qwik.builder.io/) ，一个 HTML 优先框架；它的设计是为了实现最快的页面加载时间，通过提供纯 HTML 和接近 0 的 JavaScript，使你的页面成为互动的，无论你的网站或应用程序有多复杂。它通过 HTML 的可恢复性和超细粒度的代码加载，来实现这一目标。它具有以下功能特征：
 
@@ -52,7 +52,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 > 麻花视频（www.mhyyy.com）为您提供全能影视，麻花视频，平民影院，热门电影，热门电视剧，综艺，动漫等免费观看，最新电影，最新电视剧高清播放，无广告急速播放观看体验极佳,,用过都说好！
 
-![倾城之链 - 麻花视频-2022全网免费热门电影大全高分电视剧全集在线观看](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mhyyy.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 麻花视频-2022全网免费热门电影大全高分电视剧全集在线观看](https://oss.nicelinks.site/www.mhyyy.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [麻花视频](https://nicelinks.site/redirect?url=https://www.mhyyy.com/) ，支持在线观看高清、正版、免费大片的网站；据其官网介绍，包含：热门电影、热门电视剧、综艺动漫等内容；最新电影，最新电视剧高清播放，无广告、急速播放、观看体验极佳（实际体验，片头有点广告，访问体验还可以）。它具有以下优势和特色：
 
@@ -91,7 +91,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 > 综合影视搜索引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站。
 
-![倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aisobb.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://oss.nicelinks.site/www.aisobb.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[茶杯虎](https://nicelinks.site/redirect?url=https://www.aisobb.com/) ，是目前使用影视搜索第二代引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，与影视搜索届大哥[茶杯狐](https://nicelinks.site/post/60311ec06eaf2a7660805af4)不同的是，增加了**影视评论**，以及剧情详细介绍，未来会增加影视「分集剧情」，让电影搜索类更高效、更便捷、更精准！
 
@@ -103,7 +103,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 > Vecta is a real time, collaborative SVG editor with a powerful Javascript based plugin system, for teams. Easily extend and automate, or create flowcharts, UML, network, isometric and web diagrams with thousands of included symbols. Export to multiple formats and resolution, including PNG, JPG and minified SVG that is very small in size and renders beautifully on all devices.
 
-![倾城之链 - Powerful, online SVG editor for teams](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vecta.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Powerful, online SVG editor for teams](https://oss.nicelinks.site/vecta.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Vecta](https://nicelinks.site/redirect?url=https://vecta.io/) ，是一款功能强大的矢量图形编辑器，使得创建、使用和共享矢量图形变得非常简单；它具有内置协作、CAD 功能、基于 JavaScript 的插件和 SVG 优化器，让每个人都可以比以往更快地创建图形。Vecta 具有以下功能特征：
 
@@ -145,7 +145,7 @@ Vecta 具有多种单位、缩放和测量工具，可让您以像素、毫米�
 
 > 分享 GitHub 入门级、有趣的开源项目。推广自己的开源项目、编程实践项目、适合练手的开源项目、HelloGitHub 月刊
 
-![倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hellogithub.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://oss.nicelinks.site/hellogithub.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [HelloGitHub](https://nicelinks.site/redirect?url=https://hellogithub.com/) ，旨在分享 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 入门级、有趣的开源项目。您可以在这里，推广自己的**开源**项目、编程实践项目、适合练手的开源项目，作者会将汇聚其中部分，融汇为 HelloGitHub 月刊，每月 28 号发布最新一期。
 
@@ -167,11 +167,9 @@ Vecta 具有多种单位、缩放和测量工具，可让您以像素、毫米�
 
 ── 出自[倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://nicelinks.site/post/62c3096390375e5be8bc9d46)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -179,23 +177,21 @@ Vecta 具有多种单位、缩放和测量工具，可让您以像素、毫米�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 72 期）- 倾城之链](https://link.niceshare.site/weekly-072/)
-- [优质网站同好者周刊（第 71 期）- 倾城之链](https://link.niceshare.site/weekly-071/)
-- [优质网站同好者周刊（第 70 期）- 倾城之链](https://link.niceshare.site/weekly-070/)
-- [优质网站同好者周刊（第 69 期）- 倾城之链](https://link.niceshare.site/weekly-069/)
-- [优质网站同好者周刊（第 68 期）- 倾城之链](https://link.niceshare.site/weekly-068/)
-- [优质网站同好者周刊（第 67 期）- 倾城之链](https://link.niceshare.site/weekly-067/)
-- [优质网站同好者周刊（第 66 期）- 倾城之链](https://link.niceshare.site/weekly-066/)
-- [优质网站同好者周刊（第 65 期）- 倾城之链](https://link.niceshare.site/weekly-065/)
-- [优质网站同好者周刊（第 64 期）- 倾城之链](https://link.niceshare.site/weekly-064/)
-- [优质网站同好者周刊（第 63 期）- 倾城之链](https://link.niceshare.site/weekly-063/)
-- [优质网站同好者周刊（第 62 期）- 倾城之链](https://link.niceshare.site/weekly-062/)
+- [优质网站同好者周刊（第 72 期）- 倾城之链](https://blog.nicelinks.site/weekly-072/)
+- [优质网站同好者周刊（第 71 期）- 倾城之链](https://blog.nicelinks.site/weekly-071/)
+- [优质网站同好者周刊（第 70 期）- 倾城之链](https://blog.nicelinks.site/weekly-070/)
+- [优质网站同好者周刊（第 69 期）- 倾城之链](https://blog.nicelinks.site/weekly-069/)
+- [优质网站同好者周刊（第 68 期）- 倾城之链](https://blog.nicelinks.site/weekly-068/)
+- [优质网站同好者周刊（第 67 期）- 倾城之链](https://blog.nicelinks.site/weekly-067/)
+- [优质网站同好者周刊（第 66 期）- 倾城之链](https://blog.nicelinks.site/weekly-066/)
+- [优质网站同好者周刊（第 65 期）- 倾城之链](https://blog.nicelinks.site/weekly-065/)
+- [优质网站同好者周刊（第 64 期）- 倾城之链](https://blog.nicelinks.site/weekly-064/)
+- [优质网站同好者周刊（第 63 期）- 倾城之链](https://blog.nicelinks.site/weekly-063/)
+- [优质网站同好者周刊（第 62 期）- 倾城之链](https://blog.nicelinks.site/weekly-062/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

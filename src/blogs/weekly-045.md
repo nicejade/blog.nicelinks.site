@@ -10,7 +10,7 @@
 
 > NASA Image and Video Library.
 
-![倾城之链 - 美国宇航局（NASA）图像和视频库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/images.nasa.gov.png?x-oss-process=style/png2jpg)
+![倾城之链 - 美国宇航局（NASA）图像和视频库](https://oss.nicelinks.site/images.nasa.gov.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[NASA 图像和视频库](https://nicelinks.site/redirect?url=https://images.nasa.gov/)，带你看宇宙太空相关图片、视频、及声音；支持检索。它用于再现 3 维模型的图像、音频、视频和计算机文件，例如任何格式的纹理贴图和多边形数据；您可以将此材料用于教育或信息目的，包括照片集、教科书、公共展览、计算机图形模拟和 Internet 网页。此一般权限扩展到个人网页。NASA 拥有大量 在线图像 和 视频库，包括 历史图像、 当前任务、 天文图片、 地球图像 以及 搜索 NASA 图像的方法。
 
@@ -24,7 +24,7 @@
 
 > Next generation utility-first CSS framework.
 
-![倾城之链 - Windi CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/windicss.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Windi CSS](https://oss.nicelinks.site/windicss.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Windi CSS](https://nicelinks.site/redirect?url=https://windicss.org/) 下一代实用优先的 CSS 框架；如果您已经熟悉 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)，可以将 Windi CSS 视为 Tailwind 的按需替代品，它提供更快的加载时间，与 Tailwind v2.0 完全兼容，并具有许多额外的酷炫功能。
 
@@ -42,7 +42,7 @@
 
 > 可道云 KodExplorer（原芒果云）提供私有云存储/企业网盘/企业云盘和在线文档管理解决方案，助力企业实现办公协作、Office 在线编辑、安全存储访问和组织权限控制。
 
-![倾城之链 - 可道云-私有云存储&协同办公平台_企业网盘_企业云盘_网盘_云盘](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kodcloud.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 可道云-私有云存储&协同办公平台_企业网盘_企业云盘_网盘_云盘](https://oss.nicelinks.site/kodcloud.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[KodExplorer 可道云](https://nicelinks.site/redirect?url=https://kodcloud.com/) ，原名芒果云，是基于 Web 技术的私有云在线文档管理解决方案。Kod，读音通 code，意为“代码，编码”，中文名为“可道”。Kod 取义于著名计算机科学家 Linus Torvalds 的名言：“Talk is cheap. Show me the code.“。[KodExplorer 可道云](https://nicelinks.site/redirect?url=https://kodcloud.com/)具有以下功能特征：
 
@@ -80,7 +80,7 @@
 
 > 来苏之望。本是浪蝶游蜂，自留半亩石池，但求直抒胸臆，挥墨九云之中。
 
-![倾城之链 - Surmon.me - 来苏之望](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/surmon.me.png?x-oss-process=style/png2jpg)
+![倾城之链 - Surmon.me - 来苏之望](https://oss.nicelinks.site/surmon.me.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[surmon.me](https://nicelinks.site/redirect?url=https://surmon.me/)，使用 [Vue（3）](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 构建的个人博客网站，承载了作者对技术、编码、人生等思考；作者将网站划分为明殿、宁静寺、无色庵、丹青阁、茫涯、狂浪生、伯乐、善巧堂、四方馆等模块，来分别承载技术、Github、Vlog、内推、Freelancer、评论、旅行、主页等内容。站在个人角度看，对于技术、或者生活思考，都蛮有深度，感兴趣同学，不妨关注下。
 
@@ -92,15 +92,15 @@
 
 > Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API
 
-![倾城之链 - 700+ CSS Icons, Customizable, Retina Ready & API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css.gg.png?x-oss-process=style/png2jpg)
+![倾城之链 - 700+ CSS Icons, Customizable, Retina Ready & API](https://oss.nicelinks.site/css.gg.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[css.gg](https://nicelinks.site/redirect?url=https://css.gg/)，一个非常棒的`图标`相关资源网站；是拥有 700+ 开源 CSS、SVG 和 Figma UI 的图标库，可用于 SVG Sprite、样式组件、NPM 和 API；这对 Web 开发非常有用；其每个图表，有纯 CSS、SVG、TSX（[react](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)）等多种实现，另外提供了修改颜色、一键拷贝等功能，不仅拿来就能使用，而且还可以学到相关技巧。
 
 ── 出自[倾城之链 - 700+ CSS Icons, Customizable, Retina Ready & API](https://nicelinks.site/post/61bdd22970b0de20e2d01b27)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -108,9 +108,7 @@
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 

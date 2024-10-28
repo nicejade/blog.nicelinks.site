@@ -8,9 +8,9 @@
 
 **关键字**：CSS, animation, library, web, front-end, frontend, development, design, motion, keyframe
 
-> Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
+>Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
 
-![倾城之链 - Animista - CSS Animations on Demand](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/animista.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Animista - CSS Animations on Demand](https://oss.nicelinks.site/animista.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Animista](https://nicelinks.site/redirect?url=https://animista.net/) 是一个 CSS 动画库（工具），在这里你可以玩到一系列现成的 CSS 动画，并且只下载那些你会用到的动画。它的使用方式非常简单，您可以根据自己需要，找到喜欢的动画样式，用提供的丰富选项，做下微调，满意之后，即可生成代码，一键拷贝加以使用。值得一提的是，[Animista](https://nicelinks.site/redirect?url=https://animista.net/) 所涉及的动画类型有：基础、入口、退出、文本、注意力、背景等，而动画方式，更是丰富多彩；这对前端开发工程师，具有非常高使用价值。
 
@@ -22,9 +22,9 @@
 
 **关键字**：Mimo, Micro-Learning, Swift, iPhone, Code, Programming, Learn, Course, Tutorial, Lesson, Web Developer, Online Learning, Kotlin, Android, Javascript
 
-> Join more than 4 million learners. Learn to code, build apps, and much more in a fun and interactive way – no matter how much experience and time you have.
+>Join more than 4 million learners. Learn to code, build apps, and much more in a fun and interactive way – no matter how much experience and time you have.
 
-![倾城之链 - Mimo: Learn how to code on your phone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getmimo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mimo: Learn how to code on your phone](https://oss.nicelinks.site/getmimo.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/)，一款可以在手机端学习编码的应用程序；让编码既简单又有趣，且能**随时随地**进行；您可以在 [Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 学习多种不同编码语言，另外，她那简洁而漂亮的界面，会让您的学习过程轻松而愉悦（因为是英文，还能借此机会，增强英语阅读能力）。试用之下，还发现 [Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 还对编码能力不同程度的人，做了定制化课程设计。有媒体评价道：“通过这种方式，只要有几分钟的碎片化时间，您就可以学习将编码融入您的日常生活“。除了以上这些，[Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 还有以下几个特征：
 
@@ -41,13 +41,13 @@
 
 **标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`利器`](https://nicelinks.site/tags/利器)
 
-> Inspect files on macOS with a single click.
+>Inspect files on macOS with a single click.
 
-![倾城之链 - Informant for macOSInformant for macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/informant-app.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Informant for macOSInformant for macOS](https://oss.nicelinks.site/informant-app.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/)，是针对 MacOS 的免费应用程序，只需单击一下即可检查 MacOS 上的文件；如果您需要有关文件的更多详细信息，只需单击菜单栏中的 Informant 即可打开详细信息面板。作者开发 [Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 的初衷，是因为厌倦了一直按 `⌘ + i`；[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 它监视点击次数和箭头键，以跟踪当前选定的文件。您可以在菜单栏或面板检查器中，找到的所有元数据。
 
-对个人而言，[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 蛮有价值的应用程序，MacOS 上的 Finder（访达），固然已经对文件的元数据，做了清晰的展示；但，所展示内容毕竟有限；另外，它并未对文件夹 📁 起作用；对于习惯用命令行的用户，可以使用 `du`、`ls` 等命令，来获取文件信息，但这在 Finder 上并不方便；这就使得 [Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 在某些场景下发挥作用。值得一提的是，您可以自定义菜单栏和面板，以显示对您很重要的信息。
+对个人而言，[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 蛮有价值的应用程序，MacOS 上的 Finder（访达），固然已经对文件的元数据，做了清晰的展示；但，所展示内容毕竟有限；另外，它并未对文件夹📁起作用；对于习惯用命令行的用户，可以使用 `du`、`ls` 等命令，来获取文件信息，但这在 Finder 上并不方便；这就使得 [Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 在某些场景下发挥作用。值得一提的是，您可以自定义菜单栏和面板，以显示对您很重要的信息。
 
 ── 出自[倾城之链 - Informant for macOSInformant for macOS](https://nicelinks.site/post/61263d91b050450642590696)
 
@@ -55,9 +55,9 @@
 
 **标签**：[`PPT`](https://nicelinks.site/tags/PPT) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`工具`](https://nicelinks.site/tags/工具)
 
-> Marp (also known as the Markdown Presentation Ecosystem) provides an intuitive experience for creating beautiful slide decks. You only have to focus on writing your story in a Markdown document.
+>Marp (also known as the Markdown Presentation Ecosystem) provides an intuitive experience for creating beautiful slide decks. You only have to focus on writing your story in a Markdown document.
 
-![倾城之链 - Marp: Markdown Presentation Ecosystem](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/marp.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Marp: Markdown Presentation Ecosystem](https://oss.nicelinks.site/marp.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Marp](https://nicelinks.site/redirect?url=https://marp.app/)，基于 Markdown 构建幻灯片（PPT、演示文稿）的工具（Markdown Presentation Ecosystem 缩写）；您可以基于它，直观而轻松地创建漂亮的幻灯片；您只需专注于内容的创作，而无须操心排版。[Marp](https://nicelinks.site/redirect?url=https://marp.app/) ，有非常多特色，但以下几点，是推荐它给您使用的主要因素：
 
@@ -67,13 +67,14 @@
 - 丰富的生态系统，不仅提供了命令行工具，还提供了 VsCode 编辑器扩展；
 - Marp 可以直接将 Markdown 转换为可用于演示的 HTML、PDF 和 PowerPoint 文件；
 
-除此之外，[Marp](https://nicelinks.site/redirect?url=https://marp.app/) 还有蛮多其他特质，需要进一步探索。倘若说，您已经厌倦基于 Microsoft PowerPoint、Keynote 这些操作性很强的工具，来创建 PPT，那么类似 [Marp](https://nicelinks.site/redirect?url=https://marp.app/) 这样通过 Markdown 来构建 PPT 工具，值得选择。
+除此之外，[Marp](https://nicelinks.site/redirect?url=https://marp.app/) 还有蛮多其他特质，需要进一步探索。倘若说，您已经厌倦基于 Microsoft PowerPoint、Keynote 这些操作性很强的工具，来创建 PPT，那么类似 [Marp](https://nicelinks.site/redirect?url=https://marp.app/) 这样通过 Markdown  来构建 PPT 工具，值得选择。
+
 
 ── 出自[倾城之链 - Marp: Markdown Presentation Ecosystem](https://nicelinks.site/post/61262d33b050450642590694)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -81,9 +82,7 @@
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
@@ -100,7 +99,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

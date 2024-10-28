@@ -6,11 +6,11 @@
 
 **标签**：[`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管) · [`项目管理`](https://nicelinks.site/tags/项目管理)
 
-**关键字**：open source, plane, project management, jira alternative, plane.so,
+**关键字**：open source, plane, project management, jira alternative, plane.so, 
 
-> Open-source project management tool to manage issues, sprints, and product roadmaps with peace of mind.
+>Open-source project management tool to manage issues, sprints, and product roadmaps with peace of mind.
 
-![倾城之链 - Plane - The open source project management tool](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/plane.so.png?x-oss-process=style/png2jpg)
+![倾城之链 - Plane - The open source project management tool](https://oss.nicelinks.site/plane.so.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Plane](https://nicelinks.site/redirect?url=https://plane.so/) ，JIRA 的开源替代品，来自未来项目管理工具；这是一款开源软件开发工具，可让您高枕无忧地管理项目、跟踪问题、冲刺和产品路线图。它具有如下功能特征：
 
@@ -28,27 +28,27 @@
 
 ── 出自[倾城之链 - Plane - The open source project management tool](https://nicelinks.site/post/64787f516cb99b599be011f8)
 
-## [MingCute Icon \_ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
+## [MingCute Icon _ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
 
 **标签**：[`图标`](https://nicelinks.site/tags/图标) · [`SVG`](https://nicelinks.site/tags/SVG) · [`开源`](https://nicelinks.site/tags/开源)
 
 **关键字**：MingCuteIcon, svg, icons, icon-pack, icon-font
 
-> MingCute Icon is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
+>MingCute Icon is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
 
-![倾城之链 - MingCute Icon _ Carefully Designed Icon Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mingcute.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - MingCute Icon _ Carefully Designed Icon Library](https://oss.nicelinks.site/www.mingcute.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MingCute](https://nicelinks.site/redirect?url=https://www.mingcute.com/) 是一套简洁精致的开源 [图标](https://nicelinks.site/tags/图标) 库。无论您是设计师还是开发人员，它都非常适合用于 Web 和移动设备。它内置 2.3K 图标，每个图标都设计在 24 x 24 网格内，但支持修改颜色和**尺寸**，并且提供 SVG、PNG   和网络字体；用不除了下载、拷贝直接使用之外，也可以通过 npm 安装对应依赖这种方式。该项目在 [Github 仓库开源](https://github.com/Richard9394/MingCute) ，如果您感兴趣可移步以了解更多。
+**推荐语**：[MingCute](https://nicelinks.site/redirect?url=https://www.mingcute.com/) 是一套简洁精致的开源 [图标](https://nicelinks.site/tags/图标) 库。无论您是设计师还是开发人员，它都非常适合用于 Web 和移动设备。它内置 2.3K 图标，每个图标都设计在 24 x 24 网格内，但支持修改颜色和**尺寸**，并且提供 SVG、PNG  和网络字体；用不除了下载、拷贝直接使用之外，也可以通过 npm 安装对应依赖这种方式。该项目在 [Github 仓库开源](https://github.com/Richard9394/MingCute) ，如果您感兴趣可移步以了解更多。
 
-── 出自[倾城之链 - MingCute Icon \_ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
+── 出自[倾城之链 - MingCute Icon _ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
 
 ## [Shottr – Screenshot Annotation App For Mac](https://nicelinks.site/post/6475e599d10b0244940e01c3)
 
 **标签**：[`截图`](https://nicelinks.site/tags/截图) · [`Mac`](https://nicelinks.site/tags/Mac) · [`软件`](https://nicelinks.site/tags/软件)
 
-> Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.
+>Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.
 
-![倾城之链 - Shottr – Screenshot Annotation App For Mac](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shottr.cc.png?x-oss-process=style/png2jpg)
+![倾城之链 - Shottr – Screenshot Annotation App For Mac](https://oss.nicelinks.site/shottr.cc.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Shottr](https://nicelinks.site/redirect?url=https://shottr.cc/) 是一个 [免费](https://nicelinks.site/tags/免费) 的 [MacOS](https://nicelinks.site/tags/Mac) 屏幕截图应用程序，具有滚动屏幕截图、OCR、注释和测量工具；具有小巧、快速、人性化等特点，专为那些关心像素的人打造。它是用 [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) 制作的，针对 M1 进行了优化；它具有如下功能特征：
 
@@ -86,7 +86,7 @@ Shottr 是一款针对 M1 优化的微型（1.6mb dmg，3.6mb 解压）本机应
 
 ### 整理桌面
 
-在 `⌘ S` 上选择一个专用文件夹以保存屏幕截图。非常适合购买收据、提醒、存档项目、随机图像等。
+在 `⌘ S` 上选择一个专用文件夹以保存屏幕截图。非常适合购买收据、提醒、存档项目、随机图像等。
 
 ### 放大你的像素
 
@@ -106,11 +106,11 @@ Shottr 精致小巧，有良好的快捷键支持，更提供了许多付费工�
 
 **关键字**：Product Analytics, Funnels, Conversions, Improve
 
-> Track and optimize your online business with Splitbee. Analytics, Funnels, Automations, A/B Testing and more.
+>Track and optimize your online business with Splitbee. Analytics, Funnels, Automations, A/B Testing and more.
 
-![倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/splitbee.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://oss.nicelinks.site/splitbee.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Splitbee](https://nicelinks.site/redirect?url=https://splitbee.io/) ， 你友好的一体式分析和转换平台；使用 Splitbee **跟踪**和**优化**你的在线业务。分析、漏斗、自动化、A/B 测试以及更多。一行代码即可添加到您的网站。无需信用卡。它具有如下功能特征：
+**推荐语**：[Splitbee](https://nicelinks.site/redirect?url=https://splitbee.io/) ， 你友好的一体式分析和转换平台；使用 Splitbee **跟踪**和**优化**你的在线业务。分析、漏斗、自动化、A/B测试以及更多。一行代码即可添加到您的网站。无需信用卡。它具有如下功能特征：
 
 ### 了解您的流量
 
@@ -151,13 +151,13 @@ Shottr 精致小巧，有良好的快捷键支持，更提供了许多付费工�
 
 ### 点亮您的页面
 
-Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全球网络上运行。
+Splitbee 保证您的网站保持快速。Splitbee 体积小 (<4kb)并在全球网络上运行。
 
 ### 实时洞察
 
 实时查看您的仪表板更新。了解用户来来去去。
 
-从 [offsec.tools](https://nicelinks.site/post/647490d0d10b0244940df859) 这款产品中，了解到 Splitbee 这款产品；看了下介绍，因为其漂亮界面、强大功能，以及使用简单等原因，颇为中意；考虑将其注入到所维护的产品中，如 [素问智聊斋](https://chatgpt.nicelinks.site/) ；当然，也有因为 Google Analytics（特指 `GA4`） 所附加的额外动力（Splitbee 有提供 [Splitbee 与谷歌分析](https://splitbee.io/compare/splitbee-vs-google-analytics) 对比 🆚 分析）。遗憾的是，Splitbee 将加入 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)，并已关闭注册；它推荐使用 [Vercel Analytics](https://nicelinks.site/redirect?url=https://vercel.com/analytics) —— 他们旅程延续的地方。
+从 [offsec.tools](https://nicelinks.site/post/647490d0d10b0244940df859) 这款产品中，了解到 Splitbee 这款产品；看了下介绍，因为其漂亮界面、强大功能，以及使用简单等原因，颇为中意；考虑将其注入到所维护的产品中，如 [素问智聊斋](https://chatgpt.nicelinks.site/) ；当然，也有因为 Google Analytics（特指 `GA4`） 所附加的额外动力（Splitbee 有提供 [Splitbee 与谷歌分析](https://splitbee.io/compare/splitbee-vs-google-analytics) 对比🆚分析）。遗憾的是，Splitbee 将加入 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)，并已关闭注册；它推荐使用 [Vercel Analytics](https://nicelinks.site/redirect?url=https://vercel.com/analytics) —— 他们旅程延续的地方。
 
 ── 出自[倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://nicelinks.site/post/647494a7d10b0244940df877)
 
@@ -167,9 +167,9 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 **关键字**：offsec, cybersec, security, bug bounty, tools, pentest, redteam
 
-> A vast collection of security tools for bug bounty, pentest and red teaming
+>A vast collection of security tools for bug bounty, pentest and red teaming
 
-![倾城之链 - offsec.tools - A vast collection of security tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/offsec.tools.png?x-oss-process=style/png2jpg)
+![倾城之链 - offsec.tools - A vast collection of security tools](https://oss.nicelinks.site/offsec.tools.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[offsec.tools](https://nicelinks.site/redirect?url=https://offsec.tools/) 是一个庞大的 [安全](https://nicelinks.site/tags/安全) 工具列表，旨在帮助渗透测试人员和漏洞猎人完成日常任务。该列表按`标签`组织并提供快速搜索引擎；该列表由作者和社区提供。它具有以下功能特征：
 
@@ -189,9 +189,9 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 **标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`AI`](https://nicelinks.site/tags/AI) · [`社区`](https://nicelinks.site/tags/社区)
 
-> We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+>We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
-![倾城之链 - Hugging Face – The AI community building the future.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/huggingface.co.png?x-oss-process=style/png2jpg)
+![倾城之链 - Hugging Face – The AI community building the future.](https://oss.nicelinks.site/huggingface.co.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Hugging Face](https://nicelinks.site/redirect?url=https://huggingface.co/) ，是一个面向自然语言处理（NLP）和[机器学习](https://nicelinks.site/tags/机器学习)社区的开源平台，旨在为用户提供各种预训练模型、数据集和工具，以帮助他们更轻松地开发和部署自己的 NLP 应用程序。该网站的主要内容包括：
 
@@ -215,11 +215,9 @@ Hugging Face 之所以能够获得如此巨大的成功，主要归结于以下�
 
 ── 出自[倾城之链 - Hugging Face – The AI community building the future.](https://nicelinks.site/post/64748dbdd10b0244940df838)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -227,28 +225,26 @@ Hugging Face 之所以能够获得如此巨大的成功，主要归结于以下�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 119 期）- 倾城之链](https://link.niceshare.site/weekly-119/)
-- [优质网站同好者周刊（第 118 期）- 倾城之链](https://link.niceshare.site/weekly-118/)
-- [优质网站同好者周刊（第 117 期）- 倾城之链](https://link.niceshare.site/weekly-117/)
-- [优质网站同好者周刊（第 116 期）- 倾城之链](https://link.niceshare.site/weekly-116/)
-- [优质网站同好者周刊（第 115 期）- 倾城之链](https://link.niceshare.site/weekly-115/)
-- [优质网站同好者周刊（第 114 期）- 倾城之链](https://link.niceshare.site/weekly-114/)
-- [优质网站同好者周刊（第 113 期）- 倾城之链](https://link.niceshare.site/weekly-113/)
-- [优质网站同好者周刊（第 112 期）- 倾城之链](https://link.niceshare.site/weekly-112/)
-- [优质网站同好者周刊（第 111 期）- 倾城之链](https://link.niceshare.site/weekly-111/)
-- [优质网站同好者周刊（第 110 期）- 倾城之链](https://link.niceshare.site/weekly-110/)
-- [优质网站同好者周刊（第 109 期）- 倾城之链](https://link.niceshare.site/weekly-109/)
-- [优质网站同好者周刊（第 108 期）- 倾城之链](https://link.niceshare.site/weekly-108/)
+- [优质网站同好者周刊（第 119 期）- 倾城之链](https://blog.nicelinks.site/weekly-119/)
+- [优质网站同好者周刊（第 118 期）- 倾城之链](https://blog.nicelinks.site/weekly-118/)
+- [优质网站同好者周刊（第 117 期）- 倾城之链](https://blog.nicelinks.site/weekly-117/)
+- [优质网站同好者周刊（第 116 期）- 倾城之链](https://blog.nicelinks.site/weekly-116/)
+- [优质网站同好者周刊（第 115 期）- 倾城之链](https://blog.nicelinks.site/weekly-115/)
+- [优质网站同好者周刊（第 114 期）- 倾城之链](https://blog.nicelinks.site/weekly-114/)
+- [优质网站同好者周刊（第 113 期）- 倾城之链](https://blog.nicelinks.site/weekly-113/)
+- [优质网站同好者周刊（第 112 期）- 倾城之链](https://blog.nicelinks.site/weekly-112/)
+- [优质网站同好者周刊（第 111 期）- 倾城之链](https://blog.nicelinks.site/weekly-111/)
+- [优质网站同好者周刊（第 110 期）- 倾城之链](https://blog.nicelinks.site/weekly-110/)
+- [优质网站同好者周刊（第 109 期）- 倾城之链](https://blog.nicelinks.site/weekly-109/)
+- [优质网站同好者周刊（第 108 期）- 倾城之链](https://blog.nicelinks.site/weekly-108/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

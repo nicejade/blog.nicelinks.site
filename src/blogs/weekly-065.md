@@ -8,7 +8,7 @@
 
 > Bio Link is a free and elegant link in bio for your Instagram, TikTok, Twitter, and other socials. Claim your name in seconds!
 
-![倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bio.link.png?x-oss-process=style/png2jpg)
+![倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://oss.nicelinks.site/bio.link.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Bio Link](https://nicelinks.site/redirect?url=https://bio.link/)，一个快速创建个人主页的网站（您所有「链接」的一个集中链接）；它具有**闪电 ⚡️ 般速度**，可在几百毫秒内启动您的页面；此外还具有**永久免费**、支持**访客统计**、拥有 15+ 主题、方便快速分享。它的使用非常简单，只需要以下几步：
 
@@ -36,7 +36,7 @@
 
 > Acapela lets you take control of your notifications. Capture, filter and action them all from one place. Unblock your team twice as fast.
 
-![倾城之链 - Acapela | All work notifications in one inbox](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/acapela.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Acapela | All work notifications in one inbox](https://oss.nicelinks.site/acapela.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Acapela](https://nicelinks.site/redirect?url=https://acapela.com/)，常用工作工具的中央收件箱；从一个工具中捕获、过滤和操作您的所有工作交流。想象一下收件箱零不仅适用于电子邮件......而且适用于 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、[Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab)、[GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)、[Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c)、Jira、Linear 等。更少的干扰、更少的 FOMO（社群恐慌症）、更多的深度工作时间。更详细来说，它具有以下功能特征：
 
@@ -64,7 +64,7 @@ Acapela 可让您控制通知。从一个地方捕获、过滤和操作它们；
 
 > Guide your users through a tour of your app.
 
-![倾城之链 - Shepherd — Guide your users through a tour of your app.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shepherdjs.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Shepherd — Guide your users through a tour of your app.](https://oss.nicelinks.site/shepherdjs.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Shepherd](https://nicelinks.site/redirect?url=https://shepherdjs.dev/) 是一个 JavaScript 库，用于引导用户通过您的应用程序。它使用另一个开源库 Popper.js 来为每个游览“步骤”呈现对话框。在许多事情中，Popper 确保您的步骤永远不会离开屏幕或被溢出裁剪。它具有以下功能特性：
 
@@ -90,7 +90,7 @@ Shepherd 已准备好使用 React、Ember、Angular、Vue.js、ES 模块或纯 J
 
 > TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.
 
-![倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.typescriptlang.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://oss.nicelinks.site/www.typescriptlang.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [TypeScript](https://nicelinks.site/redirect?url=https://www.typescriptlang.org/) ，是一种开源的程式语言，该语言专案由微软进行维护和管理；TypeScript 是 JavaScript 类型的超集，它可以编译成纯的 JavaScript；TypeScript 可以在任何浏览器、任何计算机和任何操作系统上运行，并且它是开源的。除了在浏览器，也可以运行在 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 、 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 或在您的应用程序中。它具有以下功能特性：
 
@@ -124,11 +124,9 @@ TypeScript 提供最新的和不断发展的 JavaScript 特性，包括那些来
 
 ── 出自[倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -136,24 +134,22 @@ TypeScript 提供最新的和不断发展的 JavaScript 特性，包括那些来
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 64 期）- 倾城之链](https://link.niceshare.site/weekly-064/)
-- [优质网站同好者周刊（第 63 期）- 倾城之链](https://link.niceshare.site/weekly-063/)
-- [优质网站同好者周刊（第 62 期）- 倾城之链](https://link.niceshare.site/weekly-062/)
-- [优质网站同好者周刊（第 61 期）- 倾城之链](https://link.niceshare.site/weekly-061/)
-- [优质网站同好者周刊（第 60 期）- 倾城之链](https://link.niceshare.site/weekly-060/)
-- [优质网站同好者周刊（第 59 期）- 倾城之链](https://link.niceshare.site/weekly-059/)
-- [优质网站同好者周刊（第 58 期）- 倾城之链](https://link.niceshare.site/weekly-058/)
-- [优质网站同好者周刊（第 57 期）- 倾城之链](https://link.niceshare.site/weekly-057/)
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
-- [优质网站同好者周刊（第 55 期）- 倾城之链](https://link.niceshare.site/weekly-055/)
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
+- [优质网站同好者周刊（第 64 期）- 倾城之链](https://blog.nicelinks.site/weekly-064/)
+- [优质网站同好者周刊（第 63 期）- 倾城之链](https://blog.nicelinks.site/weekly-063/)
+- [优质网站同好者周刊（第 62 期）- 倾城之链](https://blog.nicelinks.site/weekly-062/)
+- [优质网站同好者周刊（第 61 期）- 倾城之链](https://blog.nicelinks.site/weekly-061/)
+- [优质网站同好者周刊（第 60 期）- 倾城之链](https://blog.nicelinks.site/weekly-060/)
+- [优质网站同好者周刊（第 59 期）- 倾城之链](https://blog.nicelinks.site/weekly-059/)
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

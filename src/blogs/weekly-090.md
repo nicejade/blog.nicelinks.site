@@ -8,7 +8,7 @@
 
 > Babylon.js is one of the world's leading WebGL-based graphics engines. From a new visual scene inspector, best-in-class physically-based rendering, countless performance optimizations, and much more, Babylon.js brings powerful, beautiful, simple, and open 3D to everyone on the web.
 
-![倾城之链 - Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.babylonjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://oss.nicelinks.site/www.babylonjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Babylon.js](https://nicelinks.site/redirect?url=https://www.babylonjs.com/) 是一个强大、美观、简单、开放的游戏和渲染引擎，封装在一个友好的 JavaScript 框架中。它是世界领先的基于 WebGL 的图形引擎之一。从一个新的可视化场景检查器，一流的基于物理的渲染，无数的性能优化，以及更多，Babylon.js 给网络上的每个人带来了强大、美丽、简单和开放的 3D。它具有以下功能特色：
 
@@ -52,7 +52,7 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 > 逗比联萌是一个表情包搜索网站，这里有成千上万的表情，帮助你聊天的时候所向披靡，无表情不聊天，这里有海量的聊天表情，微信表情包，QQ 表情包，颜文字等。
 
-![倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ表情包 - 颜文字吐个槽](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.doubilm.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ表情包 - 颜文字吐个槽](https://oss.nicelinks.site/www.doubilm.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[逗比联萌](https://nicelinks.site/redirect?url=https://www.doubilm.com/)，一个表情包搜索网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Nuxt.js 框架所搭建）；该网站有海量的聊天表情，微信表情包，QQ 表情包，颜文字等，而且内置「搜索」🔍 功能，支持检索想要的表情（多以搞笑为主）；此外，它还提供「图片做旧」等功能。在聊天中喜欢夹在表情的朋友，可以考虑关注下；值得说明的是，`逗比联萌`也有提供`小程序`版本。
 
@@ -64,7 +64,7 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 > Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.
 
-![倾城之链 - Dracula — Dark theme for 280+ apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/draculatheme.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Dracula — Dark theme for 280+ apps](https://oss.nicelinks.site/draculatheme.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dracula](https://nicelinks.site/redirect?url=https://draculatheme.com/) ，是一种用于代码编辑器和终端模拟器（Terminal emulators）的颜色方案，如 Vim、Notepad++、iTerm、VSCode、Terminal.app、ZSH 等等。Dracula 是适用于多大 280 余个应用的**深色主题**，其中 220+ 适配 Mac
 & Linux 平台、有 210 款适配于 Windows。除了常见的编辑器、终端模拟器之外，还作用于很多应用程序或平台，如：Telegram、Wallpaper、Slack、Chrome、Firefox、BetterDiscord、Steam、Github Pages、Wox、DuckDuckGo、Gitk、[Obsidian](https://nicelinks.site/redirect?url=https://draculatheme.com/obsidian)、Figma、Typora、Vimium、XChat、Github、WordPress、Plank...... 您可以在该平台检索您想作用的应用。
@@ -79,7 +79,7 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 > Data.ai（前身为 App Annie）为应用程序分析数据提供易用的平台和工具。与我们一起更高效地运行您应用业务的每个阶段。
 
-![倾城之链 - App Analytics | Mobile Data Analytics Tools | data.ai](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.data.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - App Analytics | Mobile Data Analytics Tools | data.ai](https://oss.nicelinks.site/www.data.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Data.ai](https://nicelinks.site/redirect?url=https://www.data.ai/) （其前身是 `App Annie` ），首家聚合数据 AI 公司，将消费者和市场数据与人工智能的力量相结合，以提高洞察力。该公司使命是提供制定基于优质洞察、规范化以及可执行性的策略，帮助品牌、发行商以及投资者在移动和数字生态系统中脱颖而出。该平台汇聚了蛮多产品，诸如：
 
@@ -127,11 +127,9 @@ Data.ai 的产品支持 7 种语言，我们的员工分布在 15 个国家和�
 
 ── 出自[倾城之链 - App Analytics | Mobile Data Analytics Tools | data.ai](https://nicelinks.site/post/635fbc02a04a541a8bbb0230)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -141,27 +139,25 @@ Data.ai 的产品支持 7 种语言，我们的员工分布在 15 个国家和�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 89 期）- 倾城之链](https://link.niceshare.site/weekly-089/)
-- [优质网站同好者周刊（第 88 期）- 倾城之链](https://link.niceshare.site/weekly-088/)
-- [优质网站同好者周刊（第 87 期）- 倾城之链](https://link.niceshare.site/weekly-087/)
-- [优质网站同好者周刊（第 86 期）- 倾城之链](https://link.niceshare.site/weekly-086/)
-- [优质网站同好者周刊（第 85 期）- 倾城之链](https://link.niceshare.site/weekly-085/)
-- [优质网站同好者周刊（第 84 期）- 倾城之链](https://link.niceshare.site/weekly-084/)
-- [优质网站同好者周刊（第 83 期）- 倾城之链](https://link.niceshare.site/weekly-083/)
-- [优质网站同好者周刊（第 82 期）- 倾城之链](https://link.niceshare.site/weekly-082/)
-- [优质网站同好者周刊（第 81 期）- 倾城之链](https://link.niceshare.site/weekly-081/)
-- [优质网站同好者周刊（第 80 期）- 倾城之链](https://link.niceshare.site/weekly-080/)
-- [优质网站同好者周刊（第 79 期）- 倾城之链](https://link.niceshare.site/weekly-079/)
+- [优质网站同好者周刊（第 89 期）- 倾城之链](https://blog.nicelinks.site/weekly-089/)
+- [优质网站同好者周刊（第 88 期）- 倾城之链](https://blog.nicelinks.site/weekly-088/)
+- [优质网站同好者周刊（第 87 期）- 倾城之链](https://blog.nicelinks.site/weekly-087/)
+- [优质网站同好者周刊（第 86 期）- 倾城之链](https://blog.nicelinks.site/weekly-086/)
+- [优质网站同好者周刊（第 85 期）- 倾城之链](https://blog.nicelinks.site/weekly-085/)
+- [优质网站同好者周刊（第 84 期）- 倾城之链](https://blog.nicelinks.site/weekly-084/)
+- [优质网站同好者周刊（第 83 期）- 倾城之链](https://blog.nicelinks.site/weekly-083/)
+- [优质网站同好者周刊（第 82 期）- 倾城之链](https://blog.nicelinks.site/weekly-082/)
+- [优质网站同好者周刊（第 81 期）- 倾城之链](https://blog.nicelinks.site/weekly-081/)
+- [优质网站同好者周刊（第 80 期）- 倾城之链](https://blog.nicelinks.site/weekly-080/)
+- [优质网站同好者周刊（第 79 期）- 倾城之链](https://blog.nicelinks.site/weekly-079/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

@@ -10,7 +10,7 @@
 
 > A directory of tools organized by category for frontend developers
 
-![倾城之链 - Frontend developer tools, all-in-one place!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/devtooly.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Frontend developer tools, all-in-one place!](https://oss.nicelinks.site/devtooly.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[devtooly.com](https://nicelinks.site/redirect?url=https://devtooly.com/)（为开发者而生），一个面向**前端开发人员**的工具目录，按**类别**组织以方便使用。其中聚合类别（方向）很多，诸如：CSS 效果生成器、渐变调色板 🎨、图标、插图、动画库、产品模型、学习资源、设计理念、无代码（No Code）、Chrome 扩展等等；每个方向，也都收录了很多业界较好的产品（看起来都是以英文为主）；对网站地址、描述，收录日期，推荐人等信息，也做了说明。如果您从事 Web 前端开发，或收藏下，在相关方向工具选取上，以做参考。
 
@@ -22,7 +22,7 @@
 
 > A self-hosted monitoring tool.
 
-![倾城之链 - Uptime Kuma](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/uptime.kuma.pet.png?x-oss-process=style/png2jpg)
+![倾城之链 - Uptime Kuma](https://oss.nicelinks.site/uptime.kuma.pet.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Uptime Kuma](https://nicelinks.site/redirect?url=https://uptime.kuma.pet/)，是一个类似于“Uptime Robot”的自托管监控工具（开源项目）。它支持灵活配置，拥有漂亮的界面，支持任何人托管部署，针对监控 Web 网站或者后台接口，有非常高的价值。它具有以下功能特征：
 
@@ -57,7 +57,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 > Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
 
-![倾城之链 - Puppeteer | Headless Chrome Node.js API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pptr.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Puppeteer | Headless Chrome Node.js API](https://oss.nicelinks.site/pptr.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Puppeteer](https://nicelinks.site/redirect?url=https://pptr.dev/)，是 Google Chrome 团队官方的无界面（Headless）Chrome **开源工具**，它是一个 `Node` 库，提供了一个高级的 API 来控制 DevTools 协议上的无头版 Chrome 。也可以配置为使用完整（非无头）的 Chrome。`Chrome` 素来在浏览器界稳执牛耳，因此，Chrome Headless 必将成为 Web 应用**自动化测试**的行业标杆。使用 `Puppeteer`，相当于同时具有 Linux 和 Chrome 双端的操作能力，应用场景可谓非常之多。
 
@@ -88,7 +88,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 > 作为你的第二大脑，记录就用印象笔记。印象笔记可以帮助你高效工作、学习与生活。支持无缝多端同步，快速保存微信、微博、网页等内容，一站式完成信息的收集备份、高效记录、分享和永久保存。
 
-![倾城之链 - 印象笔记 | 工作必备效率应用](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.yinxiang.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 印象笔记 | 工作必备效率应用](https://oss.nicelinks.site/www.yinxiang.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[印象笔记](https://nicelinks.site/redirect?url=https://www.yinxiang.com/)，由北京印象笔记科技有限公司出品，从建立之初就致力于做用户的“第二大脑”。在信息快速增长更迭的时代，印象笔记帮助用户聚焦高价值信息，是对高价值信息进行获取、收藏、梳理、分享和协作的平台， 帮用户保存记忆，激发灵感，创想未来。它具有以下功能特征：
 
@@ -119,9 +119,9 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 ── 出自[倾城之链 - 印象笔记 | 工作必备效率应用](https://nicelinks.site/post/625be4cbac29ce06470af875)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -129,24 +129,22 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 60 期）- 倾城之链](https://link.niceshare.site/weekly-060/)
-- [优质网站同好者周刊（第 59 期）- 倾城之链](https://link.niceshare.site/weekly-059/)
-- [优质网站同好者周刊（第 58 期）- 倾城之链](https://link.niceshare.site/weekly-058/)
-- [优质网站同好者周刊（第 57 期）- 倾城之链](https://link.niceshare.site/weekly-057/)
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
-- [优质网站同好者周刊（第 55 期）- 倾城之链](https://link.niceshare.site/weekly-055/)
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
+- [优质网站同好者周刊（第 60 期）- 倾城之链](https://blog.nicelinks.site/weekly-060/)
+- [优质网站同好者周刊（第 59 期）- 倾城之链](https://blog.nicelinks.site/weekly-059/)
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

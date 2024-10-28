@@ -10,7 +10,7 @@
 
 > MDX allows you to use JSX in your markdown content. You can import components, such as interactive charts or alerts, and embed them within your content. This makes writing long-form content with components a blast.
 
-![倾城之链 - Markdown for the component era | MDX](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mdxjs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Markdown for the component era | MDX](https://oss.nicelinks.site/mdxjs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MDX](https://nicelinks.site/redirect?url=https://mdxjs.com/) ，**组件时代**的 [Markdown](https://nicelinks.site/tags/Markdown)，允许你在 markdown 内容中使用 JSX。您可以导入组件，例如交互式图表或警报，并将它们嵌入到您的内容中。这使得使用组件编写长篇内容成为一种乐趣。经过多年的努力，MDX 的第 2 版发布了，并且有很多改进。以下是亮点：
 
@@ -37,7 +37,7 @@ Markdown 是一种轻量级标记语言（该文件后缀为 `.md`），可用�
 
 > Make beautiful websites with Next.js & MDX.
 
-![倾城之链 - Nextra – Next.js Static Site Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nextra.site.png?x-oss-process=style/png2jpg)
+![倾城之链 - Nextra – Next.js Static Site Generator](https://oss.nicelinks.site/nextra.site.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Nextra](https://nicelinks.site/redirect?url=https://nextra.site/) ，基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) （ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) ） 和 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) 的静态网站生成器，可制作漂亮的网站；它简单、强大和灵活的站点生成框架，包含您喜欢的 Next.js 的一切。Next.js，一个用于 生产环境的 React 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。
 
@@ -51,7 +51,7 @@ Markdown 是一种轻量级标记语言（该文件后缀为 `.md`），可用�
 
 > Moby is an open-source project created by Docker to enable and accelerate software containerization.
 
-![倾城之链 - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mobyproject.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://oss.nicelinks.site/mobyproject.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Moby](https://nicelinks.site/redirect?url=https://mobyproject.org/) ，是 [Docker](https://nicelinks.site/tags/Docker) 创建的一个开放框架，用于组装专门的容器系统，而无需重新发明轮子。它提供了一个由数十个标准组件组成的“乐高集”，以及一个将它们组装到定制平台的框架。Moby 的核心是一个用于组装专用容器系统的框架，它提供：
 
@@ -96,7 +96,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 > Move and resize windows in macOS using keyboard shortcuts or snap areas. The official page for Rectangle.
 
-![倾城之链 - Rectangle Mac](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rectangleapp.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Rectangle Mac](https://oss.nicelinks.site/rectangleapp.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Rectangle](https://nicelinks.site/redirect?url=https://rectangleapp.com/) 一款免费开源的 Mac 分屏软件；使用键盘快捷键或捕捉区域在 macOS 中移动和调整窗口大小。在安装和配置好 Rectangle 后，你会在菜单栏上看到它的图标，该按钮提供了常用的分屏功能，比如左右分屏、上下分屏、四角分屏、左中右分屏以及窗口大小设置等，只需要选中需要分屏的窗口，再点击相关选项就可以快速分屏。
 
@@ -110,7 +110,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 > Building new spaces for communities that can't share a place.
 
-![倾城之链 - Frond - A better way to build community online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/frond.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Frond - A better way to build community online](https://oss.nicelinks.site/frond.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Frond](https://nicelinks.site/redirect?url=https://frond.com/) 是一个新的在线社区平台。因为它是从线程而不是聊天构建的，所以对话更深入、更容易跟进并自动扩展。Frond 团队相信社区是一种超级力量。无论您的目标是什么，一个有意义的社区都会让您更快地到达那里，并让旅程充满乐趣。这就是为什么他们要重新设想如何**建立在线社区**。在 Frond 中设置需要几秒钟，任何人都可以通过一个简单的链接被邀请。 [Frond](https://nicelinks.site/redirect?url=https://frond.com/) 具备以下功能特征：
 
@@ -144,7 +144,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 > Library of free and customizable HTML and CSS UI elements. It`s all open-source, and it`s all free. Try it out to save you many hours spent on building; customizing UI components for your next project.
 
-![倾城之链 - Open-Source UI elements - made with CSS and HTML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/uiverse.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Open-Source UI elements - made with CSS and HTML](https://oss.nicelinks.site/uiverse.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[uiverse.io](https://nicelinks.site/redirect?url=https://uiverse.io/) ，免费和可定制的 [HTML](https://nicelinks.site/tags/HTML) 和 [CSS](https://nicelinks.site/tags/CSS) UI 元素库，让您的网站更独特。涉及元素颇为丰富，涵盖卡片、开关、输入框、复选框 ☑️、加载动画、按钮（Button）等，使用非常简单，复制粘贴即可。它完全是开源的，免费供给个人和商业使用，可以给你的项目增加一些有趣的元素，为你的下一个项目节省许多花在构建和定制 UI 组件上的时间。
 
@@ -156,7 +156,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 > Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
 
-![倾城之链 - Godot Engine - Free and open source 2D and 3D game engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/godotengine.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Godot Engine - Free and open source 2D and 3D game engine](https://oss.nicelinks.site/godotengine.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Godot](https://nicelinks.site/redirect?url=https://godotengine.org/) 引擎是一款免费的一体化跨平台游戏引擎，可让您轻松创建 2D 和 3D 游戏；可运行于 Windows、macOS、Linux 等多种操作系统。而其创建的游戏可运行于 PC、Android、iOS、HTML5 等平台。Godot 旨在提供另一种制作游戏的方式，
 
@@ -198,7 +198,7 @@ Godot 最初于 2007 年开始开发，2014 年 12 月 15 日，Godot 迎来了�
 
 > The world's top lightweight, efficient, cross-platform digital content development platform can meet different development needs for 3D, 2D, AR&VR and other unique content creation, and can provide complete solutions in frontier fields such as smart cockpit, digital twin, virtual character, and smart education industry solutions.
 
-![倾城之链 - Cocos - The world's top 2D&3D engine, game / smart cockpit /AR/VR/ virtual character / education](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cocos.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Cocos - The world's top 2D&3D engine, game / smart cockpit /AR/VR/ virtual character / education](https://oss.nicelinks.site/www.cocos.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Cocos](https://nicelinks.site/redirect?url=https://www.cocos.com/) 是由厦门雅基软件有限公司推出的数字内容开发一站式解决方案，具备开源、免费、轻量、高性能等特点，服务了 2D 和 3D 游戏开发、智能座舱、在线教育、XR、数字人、数字孪生、数字文创等领域开发者。Cocos 在全球 203 个国家和地区，拥有 150 万开发者，覆盖全球超过 16 亿终端用户。
 
@@ -230,11 +230,9 @@ Cocos Creator 支持 2D、3D 方面的游戏开发，基于华为提供的延迟
 
 ── 出自[倾城之链 - Cocos - The world's top 2D&3D engine, game / smart cockpit /AR/VR/ virtual character / education](https://nicelinks.site/post/63e0f4695769b373841a54aa)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
@@ -242,27 +240,25 @@ Cocos Creator 支持 2D、3D 方面的游戏开发，基于华为提供的延迟
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 103 期）- 倾城之链](https://link.niceshare.site/weekly-103/)
-- [优质网站同好者周刊（第 102 期）- 倾城之链](https://link.niceshare.site/weekly-102/)
-- [优质网站同好者周刊（第 101 期）- 倾城之链](https://link.niceshare.site/weekly-101/)
-- [优质网站同好者周刊（第 100 期）- 倾城之链](https://link.niceshare.site/weekly-100/)
-- [优质网站同好者周刊（第 99 期）- 倾城之链](https://link.niceshare.site/weekly-099/)
-- [优质网站同好者周刊（第 98 期）- 倾城之链](https://link.niceshare.site/weekly-098/)
-- [优质网站同好者周刊（第 96 期）- 倾城之链](https://link.niceshare.site/weekly-096/)
-- [优质网站同好者周刊（第 95 期）- 倾城之链](https://link.niceshare.site/weekly-095/)
-- [优质网站同好者周刊（第 94 期）- 倾城之链](https://link.niceshare.site/weekly-094/)
-- [优质网站同好者周刊（第 93 期）- 倾城之链](https://link.niceshare.site/weekly-093/)
-- [优质网站同好者周刊（第 92 期）- 倾城之链](https://link.niceshare.site/weekly-092/)
+- [优质网站同好者周刊（第 103 期）- 倾城之链](https://blog.nicelinks.site/weekly-103/)
+- [优质网站同好者周刊（第 102 期）- 倾城之链](https://blog.nicelinks.site/weekly-102/)
+- [优质网站同好者周刊（第 101 期）- 倾城之链](https://blog.nicelinks.site/weekly-101/)
+- [优质网站同好者周刊（第 100 期）- 倾城之链](https://blog.nicelinks.site/weekly-100/)
+- [优质网站同好者周刊（第 99 期）- 倾城之链](https://blog.nicelinks.site/weekly-099/)
+- [优质网站同好者周刊（第 98 期）- 倾城之链](https://blog.nicelinks.site/weekly-098/)
+- [优质网站同好者周刊（第 96 期）- 倾城之链](https://blog.nicelinks.site/weekly-096/)
+- [优质网站同好者周刊（第 95 期）- 倾城之链](https://blog.nicelinks.site/weekly-095/)
+- [优质网站同好者周刊（第 94 期）- 倾城之链](https://blog.nicelinks.site/weekly-094/)
+- [优质网站同好者周刊（第 93 期）- 倾城之链](https://blog.nicelinks.site/weekly-093/)
+- [优质网站同好者周刊（第 92 期）- 倾城之链](https://blog.nicelinks.site/weekly-092/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

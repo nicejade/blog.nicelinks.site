@@ -8,7 +8,7 @@
 
 > It's time to get backlinks that make a difference. Backlinko is the place for next-level SEO training and link building strategies.
 
-![倾城之链 - SEO Training and Link Building Strategies – Backlinko](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/backlinko.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - SEO Training and Link Building Strategies – Backlinko](https://oss.nicelinks.site/backlinko.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/)，SEO 培训和链接建设策略相关网站，想要您的网站有更高的排名和更多的流量？[Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/) 是进行下一级 SEO 培训和链接构建策略的地方。
 
@@ -32,7 +32,7 @@
 
 > Generate audio-reactive video on browser.
 
-![倾城之链 - Reaktr | Generate audio-reactive video on browser.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/reaktr.vercel.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Reaktr | Generate audio-reactive video on browser.](https://oss.nicelinks.site/reaktr.vercel.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Reaktr](https://nicelinks.site/redirect?url=https://reaktr.vercel.app/)，是一种创建精美音频、可视化视频的简单方法。只需选择您的音乐和背景图像/视频，Reaktr 就会将它们与音频反应可视化混合在一起。您可以自主调整一些设置：叠加颜色，叠加透明度，文本内容、颜色、位置、阴影，以及渲染效果等等。其具体使用步骤如下：
 
@@ -52,7 +52,7 @@
 
 > Morflax is the most accessible 3D design platform that creates high-quality illustrations, device mockups & marketing assets. Create stunning 3D images for your website, landing page and other content.
 
-![倾城之链 - Morflax - The Easiest 3D design platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/morflax.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Morflax - The Easiest 3D design platform](https://oss.nicelinks.site/morflax.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Morflax](https://nicelinks.site/redirect?url=https://morflax.com/)，最简单的 3D 设计平台，打造高质量的品牌和营销资产，**创造和探索的自由**；它以快速且引人入胜的方式创建高质量的 3D 插图、设备模型和其他 3D 内容；使用 200 多个图标和预制模板，创建您的视觉内容。直接在浏览器中拖放元素、转换、自定义和下载您的图像（其操作全部在您的浏览器中进行）。值得一提的是，[Morflax](https://nicelinks.site/redirect?url=https://morflax.com/) 可以免费使用（专业版功能更强，需要收费）。
 
@@ -68,7 +68,7 @@ Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术�
 
 > 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展
 
-![倾城之链 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/simpread.pro.png?x-oss-process=style/png2jpg)
+![倾城之链 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://oss.nicelinks.site/simpread.pro.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[简悦 SimpRead](https://simpread.pro/?utm_source=nicelinks.site)，为你提供「如杂志般沉浸式阅读体验」的 Chrome 扩展，支持免费使用；它具有以下功能特色：
 
@@ -92,9 +92,9 @@ Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术�
 
 ── 出自[倾城之链 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://nicelinks.site/post/620370783b89bf76633cb6f8)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -104,18 +104,16 @@ Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
-- [优质网站同好者周刊（第 46 期）- 倾城之链](https://link.niceshare.site/weekly-046/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046/)
 - [优质网站同好者周刊（第 45 期）- 倾城之链](https://forum.lovejade.cn/d/132-45)
 - [优质网站同好者周刊（第 44 期）- 倾城之链](https://forum.lovejade.cn/d/130-44)
 - [优质网站同好者周刊（第 43 期）- 倾城之链](https://forum.lovejade.cn/d/127-43)

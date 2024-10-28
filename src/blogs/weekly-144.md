@@ -2,13 +2,13 @@
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Rust Course ｜ Rust 语言圣经](https://nicelinks.site/post/65562efe9ee2a35ce709ccb8)
+## [Rust Course｜Rust 语言圣经](https://nicelinks.site/post/65562efe9ee2a35ce709ccb8)
 
 **标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`教程`](https://nicelinks.site/tags/教程) · [`编程`](https://nicelinks.site/tags/编程)
 
-> Rust 语言圣经涵盖从入门到精通所需的 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
+>Rust 语言圣经涵盖从入门到精通所需的 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
 
-![倾城之链 - Rust Course｜Rust 语言圣经](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/course.rs.png?x-oss-process=style/png2jpg)
+![倾城之链 - Rust Course｜Rust 语言圣经](https://oss.nicelinks.site/course.rs.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Rust 语言圣经](https://nicelinks.site/redirect?url=https://course.rs/) ，Rust 编程语言 [教程](https://nicelinks.site/tags/教程) ；**涵盖从入门到精通**所需的 [Rust](https://nicelinks.site/tags/Rust) 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。作者在 Github 罗列了该教程如下特性：
 
@@ -17,21 +17,21 @@
 - **内容索引**，作为一本工具书，优秀的索引能力非常重要，遗忘不可怕，找不到才可怕；
 - **规避陷阱和对抗编译器**，只有真的上手写过一长段时间 Rust 项目，才知道该如何规避常见的陷阱以及解决一些难搞的编译器错误，而本书将帮助你大大缩短这个过程，提前规避这些问题；
 - [Cookbook](https://nicelinks.site/redirect?url=https://rusty.course.rs/) ，涵盖多个应用场景的实战代码片段，程序员上网查询文件操作、正则解析、数据库操作是常事，没有人能记住所有代码，而 Cookbook 可解君忧，Ctrl + C/V 走天下；
-- [配套练习题](https://github.com/sunface/rust-by-practice) ，像学习一门大学课程一样学习 Rust 是一种什么感觉？Rust 语言圣经 + Rust 语言实战\_双剑合璧，给你最极致的学习体验；
+- [配套练习题](https://github.com/sunface/rust-by-practice) ，像学习一门大学课程一样学习 Rust 是一种什么感觉？Rust 语言圣经 + Rust 语言实战_双剑合璧，给你最极致的学习体验；
 
 作者在 `Github` 写道：“总之在写作过程中我们始终铭记初心：为中国用户打造一门**全面的、深入的、持续更新的** Rust 教程。 新手用来入门，老手用来提高，高手用来提升生产力”。
 
-[Rust](https://nicelinks.site/tags/Rust) 连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石.... 随着时间推移，越来越多项目采用 Rust 来编写，是当前炙手可热的编码语言。如果您对该教程感兴趣，可移步 [Rust Course ｜ Github 开源仓库](https://github.com/sunface/rust-course) 从而了解更多。
+[Rust](https://nicelinks.site/tags/Rust) 连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石.... 随着时间推移，越来越多项目采用 Rust 来编写，是当前炙手可热的编码语言。如果您对该教程感兴趣，可移步 [Rust Course｜Github 开源仓库](https://github.com/sunface/rust-course) 从而了解更多。
 
-── 出自[倾城之链 - Rust Course ｜ Rust 语言圣经](https://nicelinks.site/post/65562efe9ee2a35ce709ccb8)
+── 出自[倾城之链 - Rust Course｜Rust 语言圣经](https://nicelinks.site/post/65562efe9ee2a35ce709ccb8)
 
 ## [Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.site/post/655602b49ee2a35ce709cb76)
 
 **标签**：[`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`组件库`](https://nicelinks.site/tags/组件库) · [`CSS`](https://nicelinks.site/tags/CSS)
 
-> Beautiful UI components and templates by the creators of Tailwind CSS.
+>Beautiful UI components and templates by the creators of Tailwind CSS.
 
-![倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tailwindui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://oss.nicelinks.site/tailwindui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tailwind UI](https://nicelinks.site/redirect?url=https://tailwindui.com/) ，由 [Tailwind](https://nicelinks.site/tags/Tailwind) 官方出品的 [CSS](https://nicelinks.site/tags/CSS) 组件和模板，设计精美、制作精良；能帮您更快地构建您的下一个想法。超过 500 个经过专业设计、完全响应、精心制作的组件示例，您可以将其放入 Tailwind 项目中，并根据您的喜好进行定制（使用需要付费）。值得一提的是，该项目 [从副业副产品到价值数百万美元的企业](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/) ，只用了不到 5 个月时间。
 
@@ -41,25 +41,25 @@
 
 **标签**：[`创业者`](https://nicelinks.site/tags/创业者) · [`独立开发者`](https://nicelinks.site/tags/独立开发者) · [`分享`](https://nicelinks.site/tags/分享)
 
-> Learn how successful founders are building profitable online businesses and making money online with their side-projects.
+>Learn how successful founders are building profitable online businesses and making money online with their side-projects.
 
-![倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.startups.fyi.png?x-oss-process=style/png2jpg)
+![倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://oss.nicelinks.site/www.startups.fyi.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) ，一个很棒的独立开发、创业公司的展示网站；配有应用标题、描述、截图、推出时间、更新时间、地点、创始人信息、盈利、跳转链接等信息；其特点是较为全，各种类型的项目都有，而且盈利很直观，非常适合大家去看看，了解成功的创始人如何建立盈利的在线业务，寻找一些独立开发的灵感。
 
-[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) 表示：将定期采访盈利初创公司和副项目背后的创始人和制造者 💸，您可以通过订阅他们的免费每周通讯 🤗，从而及时了解独立开发行当最新产品。另外值得一提的是，您可以在该网站分享您的项目，或者 [在 Startups.fyi 做广告](https://www.startups.fyi/sponsor) ，从而使得您的产品触达到更多人。
+[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) 表示：将定期采访盈利初创公司和副项目背后的创始人和制造者💸，您可以通过订阅他们的免费每周通讯🤗，从而及时了解独立开发行当最新产品。另外值得一提的是，您可以在该网站分享您的项目，或者 [在 Startups.fyi 做广告](https://www.startups.fyi/sponsor) ，从而使得您的产品触达到更多人。
 
 ── 出自[倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://nicelinks.site/post/6554bd909ee2a35ce709c4bc)
 
-## [Ark UI | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
+## [Ark UI  | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
 
 **标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`开源`](https://nicelinks.site/tags/开源) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
 
 **关键字**：Headless, Components, Library, React, Solid, Vue
 
-> A headless component library for building reusable, scalable design systems that works for a wide range of JS frameworks.
+>A headless component library for building reusable, scalable design systems that works for a wide range of JS frameworks.
 
-![倾城之链 - Ark UI  | Fully customizable and accessible UI components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ark-ui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Ark UI  | Fully customizable and accessible UI components](https://oss.nicelinks.site/ark-ui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Ark UI](https://nicelinks.site/redirect?url=https://ark-ui.com/) 是一个无头、开源的用户界面库，包含 30 多个组件，专为构建可重用、可扩展的设计系统而设计。它支持多种 JavaScript 框架（ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a) ），为每个支持的框架提供专用包。可组合的 API 设计带来愉悦的体验：
 
@@ -81,15 +81,15 @@ Ark UI 遵循可访问性标准和指南，确保所有用户都可以访问和�
 
 总之， [Ark UI](https://nicelinks.site/redirect?url=https://ark-ui.com/) 是一个无头库，用于构建可重用、可扩展的设计系统，适用于各种 JS 框架。利用状态机，Ark UI 大大减少了错误，同时确保每个组件的行为可预测，充满信心地发展。如果您对组件库感兴趣，可移步至 [Github 开源仓库](https://github.com/chakra-ui/ark) ，从而了解更多。
 
-── 出自[倾城之链 - Ark UI | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
+── 出自[倾城之链 - Ark UI  | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
 
 ## [MediaTek | 联发科科技官网](https://nicelinks.site/post/65521b4e9ee2a35ce709b63f)
 
 **标签**：[`官网`](https://nicelinks.site/tags/官网) · [`高科技`](https://nicelinks.site/tags/高科技) · [`AI`](https://nicelinks.site/tags/AI)
 
-> 联发科技是多媒体、AI 人工智能、运算、无线通信等多项技术领域的专家，不仅有优异性能，更具备高能效，每颗芯片都蕴含我们的核心技术，赋能你使用的各种产品。
+>联发科技是多媒体、AI 人工智能、运算、无线通信等多项技术领域的专家，不仅有优异性能，更具备高能效，每颗芯片都蕴含我们的核心技术，赋能你使用的各种产品。
 
-![倾城之链 - MediaTek | 联发科科技官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mediatek.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - MediaTek | 联发科科技官网](https://oss.nicelinks.site/www.mediatek.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[联发科技](https://nicelinks.site/redirect?url=https://www.mediatek.cn/)股份有限公司（MediaTek Inc.）是全球第四大无晶圆厂半导体公司，在移动终端、智能家居应用、无线连接技术及物联网产品等市场位居领先地位，一年约有 20 亿台内建 MediaTek 芯片的终端产品在全球各地上市。
 
@@ -121,9 +121,9 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 **标签**：[`截图`](https://nicelinks.site/tags/截图) · [`开源`](https://nicelinks.site/tags/开源) · [`Windows`](https://nicelinks.site/tags/Windows)
 
-> ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+>ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
-![倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getsharex.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://oss.nicelinks.site/getsharex.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ShareX](https://nicelinks.site/redirect?url=https://getsharex.com/) 是一款 [免费](https://nicelinks.site/tags/免费) 的开放源代码程序，它能让你捕捉或录制屏幕的任何区域，并通过按一个键就能共享。它还可以将图像、文本或其他类型的文件上传到许多受支持的目的地。**为什么选择 ShareX**？官方给出以下理由：
 
@@ -142,9 +142,9 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 **关键字**：阿里, 网盘, 相册, office, 备份, 智能
 
-> 阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。
+>阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。
 
-![倾城之链 - 阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aliyundrive.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://oss.nicelinks.site/www.aliyundrive.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[阿里云盘](https://nicelinks.site/redirect?url=https://www.aliyundrive.com/) ：是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。官方列出如下功能特征：
 
@@ -170,11 +170,11 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 **关键字**：Vidhub 视频库, 电影, 电视剧, 动漫, 综艺, 高清, 视频, 在线观看, 全网搜, 搜全网
 
-> Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的电影、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。
+>Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的电影、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。
 
-![倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vidhub.tv.png?x-oss-process=style/png2jpg)
+![倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://oss.nicelinks.site/vidhub.tv.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) ：私人本地网盘影视播放器，支持 macOS💻 & iOS 📱 & tvOS 📺；Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的 [电影](https://nicelinks.site/tags/电影) 、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。它具有如下功能特征：
+**推荐语**：[Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) ：私人本地网盘影视播放器，支持  macOS💻 & iOS 📱 & tvOS 📺；Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的 [电影](https://nicelinks.site/tags/电影) 、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。它具有如下功能特征：
 
 - 优雅管理本地或者网盘视频资源；
 - 自动抓取影视信息、自动分类；
@@ -186,47 +186,43 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 - 方便快速全局搜索；
 - iCloud 云端同步；
 
-[Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) 在功能设计上参考： [infuse](https://nicelinks.site/redirect?url=https://firecore.com/) ，已开发一年，目前仍在积极更新、迭代中。提供 Web、Android、iOS 等平台应用，AppStore 搜索 VidHub 直接能下载；目前支持免费 🆓 使用，有拿热依扎、王阳最新电视剧《无所畏惧》测试，体验良好。对于偶尔追剧的朋友来讲， [Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) 将成为较好选择之一（国内爱奇艺、优酷、腾讯等视频娱乐平台账号不能互通 😶）。
+ [Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) 在功能设计上参考： [infuse](https://nicelinks.site/redirect?url=https://firecore.com/) ，已开发一年，目前仍在积极更新、迭代中。提供 Web、Android、iOS 等平台应用，AppStore 搜索 VidHub 直接能下载；目前支持免费🆓使用，有拿热依扎、王阳最新电视剧《无所畏惧》测试，体验良好。对于偶尔追剧的朋友来讲， [Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) 将成为较好选择之一（国内爱奇艺、优酷、腾讯等视频娱乐平台账号不能互通😶）。
 
 ── 出自[倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.site/post/654f45ba7387ed6b24df21a7)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-大部分人都是过于匆忙地普遍化，但是人性本身或者人生本身就很复杂，所以为什么魏征曾经在临死之前给太宗皇帝一个奏疏， “**爱者惟见其善，恨者惟见其恶**”。意思是你喜欢一个人你就老是看到他的优点，你讨厌一个人，就老是看到他的缺点。── 罗翔
+大部分人都是过于匆忙地普遍化，但是人性本身或者人生本身就很复杂，所以为什么魏征曾经在临死之前给太宗皇帝一个奏疏， “**爱者惟见其善，恨者惟见其恶**”。意思是你喜欢一个人你就老是看到他的优点，你讨厌一个人，就老是看到他的缺点。──罗翔
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 144 期）- 倾城之链](https://link.niceshare.site/weekly-144/)
-- [优质网站同好者周刊（第 143 期）- 倾城之链](https://link.niceshare.site/weekly-143/)
-- [优质网站同好者周刊（第 142 期）- 倾城之链](https://link.niceshare.site/weekly-142/)
-- [优质网站同好者周刊（第 141 期）- 倾城之链](https://link.niceshare.site/weekly-141/)
-- [优质网站同好者周刊（第 140 期）- 倾城之链](https://link.niceshare.site/weekly-140/)
-- [优质网站同好者周刊（第 139 期）- 倾城之链](https://link.niceshare.site/weekly-139/)
-- [优质网站同好者周刊（第 138 期）- 倾城之链](https://link.niceshare.site/weekly-138/)
-- [优质网站同好者周刊（第 137 期）- 倾城之链](https://link.niceshare.site/weekly-137/)
-- [优质网站同好者周刊（第 136 期）- 倾城之链](https://link.niceshare.site/weekly-136/)
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 134 期）- 倾城之链](https://link.niceshare.site/weekly-134/)
-- [优质网站同好者周刊（第 133 期）- 倾城之链](https://link.niceshare.site/weekly-133/)
-- [优质网站同好者周刊（第 132 期）- 倾城之链](https://link.niceshare.site/weekly-132/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
+- [优质网站同好者周刊（第 144 期）- 倾城之链](https://blog.nicelinks.site/weekly-144/)
+- [优质网站同好者周刊（第 143 期）- 倾城之链](https://blog.nicelinks.site/weekly-143/)
+- [优质网站同好者周刊（第 142 期）- 倾城之链](https://blog.nicelinks.site/weekly-142/)
+- [优质网站同好者周刊（第 141 期）- 倾城之链](https://blog.nicelinks.site/weekly-141/)
+- [优质网站同好者周刊（第 140 期）- 倾城之链](https://blog.nicelinks.site/weekly-140/)
+- [优质网站同好者周刊（第 139 期）- 倾城之链](https://blog.nicelinks.site/weekly-139/)
+- [优质网站同好者周刊（第 138 期）- 倾城之链](https://blog.nicelinks.site/weekly-138/)
+- [优质网站同好者周刊（第 137 期）- 倾城之链](https://blog.nicelinks.site/weekly-137/)
+- [优质网站同好者周刊（第 136 期）- 倾城之链](https://blog.nicelinks.site/weekly-136/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 134 期）- 倾城之链](https://blog.nicelinks.site/weekly-134/)
+- [优质网站同好者周刊（第 133 期）- 倾城之链](https://blog.nicelinks.site/weekly-133/)
+- [优质网站同好者周刊（第 132 期）- 倾城之链](https://blog.nicelinks.site/weekly-132/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

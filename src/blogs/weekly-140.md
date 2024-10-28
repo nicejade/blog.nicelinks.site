@@ -6,9 +6,9 @@
 
 **标签**：[`设计`](https://nicelinks.site/tags/设计) · [`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管)
 
-> Penpot is a free open-source design and prototyping tool. Create and collaborate on visuals, prototypes, UX and more. Click here to get started for free!
+>Penpot is a free open-source design and prototyping tool. Create and collaborate on visuals, prototypes, UX and more. Click here to get started for free!
 
-![倾城之链 - Penpot | Free Open-Source Design & Prototyping For Teams](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/penpot.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Penpot | Free Open-Source Design & Prototyping For Teams](https://oss.nicelinks.site/penpot.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Penpot](https://nicelinks.site/redirect?url=https://penpot.app/) ：开源设计和原型平台，旨在为您的产品团队带来设计自由，其使命是提供一个 [开源](https://nicelinks.site/tags/开源) 和开放标准平台，将设计师和开发人员之间的协作提升到一个新的水平。Penpot 不依赖于操作系统，基于 Web 并采用开放标准 (SVG)。Penpot 使世界上每个团队都可以进行设计和原型制作。为什么选择 Penpot？官方给出以下几点理由：
 
@@ -36,9 +36,9 @@ Penpot 是 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 替代�
 
 **关键字**：资源熊, 资源网, 资源共享, 绿色软件, 免费游戏, 活动线报, 网站源码, 网络课程, 油猴脚本, 浏览器插件
 
-> 资源熊是一家综合科技网站，致力分享绿色软件、免费游戏、活动线报、网站源码、网络课程、油猴脚本、浏览器插件等免费资源，专注于分享网络技术资源，努力为各位网友呈现最好的资源！
+>资源熊是一家综合科技网站，致力分享绿色软件、免费游戏、活动线报、网站源码、网络课程、油猴脚本、浏览器插件等免费资源，专注于分享网络技术资源，努力为各位网友呈现最好的资源！
 
-![倾城之链 - 资源熊 - 专注互联网免费优质资源分享](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ziyuanxiong.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 资源熊 - 专注互联网免费优质资源分享](https://oss.nicelinks.site/ziyuanxiong.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[资源熊](https://nicelinks.site/redirect?url=https://ziyuanxiong.cn/) ，专注互联网免费优质资源分享的网站（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建），致力分享绿色软件、 [免费](https://nicelinks.site/tags/免费) 游戏、活动线报、网站源码、网络课程、油猴脚本、浏览器插件、影视资源、破解软件、网站搭建、SEO 优化、IT 资讯新闻、Windows 工具等免费资源，专注于分享网络技术资源，努力为各位网友呈现最好的资源。您也可以注册帐号、登录发布您想要分享的内容。
 
@@ -48,9 +48,9 @@ Penpot 是 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 替代�
 
 **标签**：[`Git`](https://nicelinks.site/tags/Git) · [`CICD`](https://nicelinks.site/tags/CICD) · [`工作流`](https://nicelinks.site/tags/工作流)
 
-> Unlock superior Git workflows with Gitness. Experience seamless code reviews, robust CI/CD solutions, and up to 4x faster pipeline execution. Begin your journey in just 30 seconds.
+>Unlock superior Git workflows with Gitness. Experience seamless code reviews, robust CI/CD solutions, and up to 4x faster pipeline execution. Begin your journey in just 30 seconds.
 
-![倾城之链 - Gitness: Open-Source Code Hosting & CI/CD Pipeline Engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gitness.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Gitness: Open-Source Code Hosting & CI/CD Pipeline Engine](https://oss.nicelinks.site/gitness.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Gitness](https://nicelinks.site/redirect?url=https://gitness.com/) 是一个开源开发者平台，具有源代码控制管理、持续集成和持续交付功能；它是最新出现的 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源替代品，您可以用于自己架设服务，托管代码。Gitness 具有如下功能特征：
 
@@ -62,7 +62,7 @@ Penpot 是 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 替代�
 
 Gitness 提供了一个完全集成的 [CI/CD](https://nicelinks.site/tags/CICD) 引擎，该引擎功能强大且学习曲线轻松。只需单击一下， Gitness 就可以自动从 GitHub、GitLab、Bitbucket、Circle 等**迁移代码存储库和管道**。
 
-### 您的代码 您的语言 您的平台
+### 您的代码  您的语言  您的平台
 
 集强大的代码托管、通过代码审查无缝协作以及适用于任何语言的灵活管道的强大功能于一身。所有这些都具有开发人员充满信心地编写和交付代码所需的安全和治理策略。为任何语言或平台构建管道。适用于 Linux、Windows 和 Mac。
 
@@ -78,11 +78,11 @@ Gitness 的目标是最终在管道功能方面与 Drone 完全同等，允许�
 
 **标签**：[`营销`](https://nicelinks.site/tags/营销) · [`工作流`](https://nicelinks.site/tags/工作流) · [`创造者`](https://nicelinks.site/tags/创造者)
 
-> Creatosaurus helps marketing teams streamline their workflow and run a scalable marketing strategy—from your curation and collaboration to creation and distribution to analytics and apps.
+>Creatosaurus helps marketing teams streamline their workflow and run a scalable marketing strategy—from your curation and collaboration to creation and distribution to analytics and apps.
 
-![倾城之链 - Creatosaurus - All in One Creative & Marketing Platform | Storytelling at Scale](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.creatosaurus.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Creatosaurus - All in One Creative & Marketing Platform | Storytelling at Scale](https://oss.nicelinks.site/www.creatosaurus.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Creatosaurus](https://nicelinks.site/redirect?url=https://www.creatosaurus.io/) ，可让您在一个地方轻松策划创意、设计图形、编写 AI 内容、编辑视频、安排帖子、搜索主题标签、制作文章、管理分析、生成报告、应用程序等。人们正处于一个新的创造者时代。想象一个世界，混乱被空闲时间、 创造性工作和故事所取代。Creatosaurus 是一个讲故事的平台。专为拥有分布式团队和全球创意人员的公司而打造。它把您喜爱的功能集中到一处：
+**推荐语**：[Creatosaurus](https://nicelinks.site/redirect?url=https://www.creatosaurus.io/) ，可让您在一个地方轻松策划创意、设计图形、编写 AI 内容、编辑视频、安排帖子、搜索主题标签、制作文章、管理分析、生成报告、应用程序等。人们正处于一个新的创造者时代。想象一个世界，混乱被空闲时间、  创造性工作和故事所取代。Creatosaurus 是一个讲故事的平台。专为拥有分布式团队和全球创意人员的公司而打造。它把您喜爱的功能集中到一处：
 
 - ✍🏻**人工智能内容作家**：使用 Creatosaurus 提供的人工智能文案生成器在几分钟内创建营销文案。
 - 🖼**创建漂亮的图形**：Creatosaurus 易于使用的综合设计编辑器可让您创建令人惊叹的设计。
@@ -98,41 +98,37 @@ Creatosaurus 目标是简化和优化您的整个社交媒体[营销](https://ni
 
 ── 出自[倾城之链 - Creatosaurus - All in One Creative & Marketing Platform | Storytelling at Scale](https://nicelinks.site/post/652e9d1463e89a59719a81e4)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg"  width="200px" alt="倾城之链 - 倾情打赏">
-</div>
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg)
 
 ## 本期文末寄语
 
-其政闷闷，其民淳淳；其政察察，其民缺缺。祸兮，福之所倚；福兮，祸之所伏。孰知其极：其无正也。正复为奇，善复为妖。人之迷，其日固久。是以圣人方而不割，廉而不刿，直而不肆，光而不耀。── 春秋末期 · 老子李耳《道德经》第五十八章
+其政闷闷，其民淳淳；其政察察，其民缺缺。祸兮，福之所倚；福兮，祸之所伏。孰知其极：其无正也。正复为奇，善复为妖。人之迷，其日固久。是以圣人方而不割，廉而不刿，直而不肆，光而不耀。──春秋末期 · 老子李耳《道德经》第五十八章
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 139 期）- 倾城之链](https://link.niceshare.site/weekly-139/)
-- [优质网站同好者周刊（第 138 期）- 倾城之链](https://link.niceshare.site/weekly-138/)
-- [优质网站同好者周刊（第 137 期）- 倾城之链](https://link.niceshare.site/weekly-137/)
-- [优质网站同好者周刊（第 136 期）- 倾城之链](https://link.niceshare.site/weekly-136/)
-- [优质网站同好者周刊（第 135 期）- 倾城之链](https://link.niceshare.site/weekly-135/)
-- [优质网站同好者周刊（第 134 期）- 倾城之链](https://link.niceshare.site/weekly-134/)
-- [优质网站同好者周刊（第 133 期）- 倾城之链](https://link.niceshare.site/weekly-133/)
-- [优质网站同好者周刊（第 132 期）- 倾城之链](https://link.niceshare.site/weekly-132/)
-- [优质网站同好者周刊（第 131 期）- 倾城之链](https://link.niceshare.site/weekly-131/)
-- [优质网站同好者周刊（第 130 期）- 倾城之链](https://link.niceshare.site/weekly-130/)
-- [优质网站同好者周刊（第 129 期）- 倾城之链](https://link.niceshare.site/weekly-129/)
-- [优质网站同好者周刊（第 128 期）- 倾城之链](https://link.niceshare.site/weekly-128/)
-- [优质网站同好者周刊（第 127 期）- 倾城之链](https://link.niceshare.site/weekly-127/)
+- [优质网站同好者周刊（第 139 期）- 倾城之链](https://blog.nicelinks.site/weekly-139/)
+- [优质网站同好者周刊（第 138 期）- 倾城之链](https://blog.nicelinks.site/weekly-138/)
+- [优质网站同好者周刊（第 137 期）- 倾城之链](https://blog.nicelinks.site/weekly-137/)
+- [优质网站同好者周刊（第 136 期）- 倾城之链](https://blog.nicelinks.site/weekly-136/)
+- [优质网站同好者周刊（第 135 期）- 倾城之链](https://blog.nicelinks.site/weekly-135/)
+- [优质网站同好者周刊（第 134 期）- 倾城之链](https://blog.nicelinks.site/weekly-134/)
+- [优质网站同好者周刊（第 133 期）- 倾城之链](https://blog.nicelinks.site/weekly-133/)
+- [优质网站同好者周刊（第 132 期）- 倾城之链](https://blog.nicelinks.site/weekly-132/)
+- [优质网站同好者周刊（第 131 期）- 倾城之链](https://blog.nicelinks.site/weekly-131/)
+- [优质网站同好者周刊（第 130 期）- 倾城之链](https://blog.nicelinks.site/weekly-130/)
+- [优质网站同好者周刊（第 129 期）- 倾城之链](https://blog.nicelinks.site/weekly-129/)
+- [优质网站同好者周刊（第 128 期）- 倾城之链](https://blog.nicelinks.site/weekly-128/)
+- [优质网站同好者周刊（第 127 期）- 倾城之链](https://blog.nicelinks.site/weekly-127/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

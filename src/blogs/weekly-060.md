@@ -8,7 +8,7 @@
 
 > A cross-platform Text Expander written in Rust. A text expander is a program that detects when you type a specific keyword and replaces it with something else.
 
-![倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/espanso.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://oss.nicelinks.site/espanso.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[espanso](https://nicelinks.site/redirect?url=https://espanso.org/) 是一个用 `Rust` 编写的跨平台文本扩展器，它可以检测您何时键入特定的关键字，并用其他内容替换它。espanso 具有以下功能特征：
 
@@ -73,7 +73,7 @@ Espanso 适用于大多数应用程序，因此您可以在任何地方提高工
 
 > Warp is a modern Rust-based terminal that’s fast, easy to use, and built for teams.
 
-![倾城之链 - Warp: The terminal for the 21st century](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.warp.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Warp: The terminal for the 21st century](https://oss.nicelinks.site/www.warp.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[WARP](https://nicelinks.site/redirect?url=https://www.warp.dev/) 是一个速度极快、基于 RUST 的终端，从头开始重新构想，可以像现代应用程序一样工作。它具有以下功能特征：
 
@@ -107,7 +107,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > OverAPI.com is a site collecting all the cheatsheets,all!
 
-![倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/overapi.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://oss.nicelinks.site/overapi.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[OverAPI.com](https://nicelinks.site/redirect?url=https://overapi.com/) 是一个在线服务，旨在：**收集所有编程语言备忘单**，被业界称为： 最全的开发人员在线速查手册。它将编程语言所涉及到的**方法**，进行分门别类，并且按顺序展示于一个界面中，且对该方法做了站外链接（到具体语言方法文档）；而且提供检索过滤功能，使得用户能方便检索到要查找的方法名。
 
@@ -123,7 +123,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > Handpicked collection of Web Design & UI Inspiration with Code Snippets. ✅ GIF preview ✅ HTML CSS copy paste code.
 
-![倾城之链 - CodeMyUI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codemyui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - CodeMyUI](https://oss.nicelinks.site/codemyui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[CodeMyUI](https://nicelinks.site/redirect?url=https://codemyui.com/)，一个网页设计和 UI 灵感与代码片段的网站；这里有精心挑选的网页设计和 UI 灵感与代码片段的集合。支持 GIF 预览、 HTML CSS 复制粘贴代码。如果您从事 Web 前端开发，可以从这汲取灵感，诸如：滚动图像以更改文本视差效果、带有滚动效果的凸窗样式图像滑块、悬停时带有解释的删除线文本、图像的纯 CSS 翻页动画等等。
 
@@ -135,7 +135,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > Everything，Windows 系统下，基于名称快速定位文件和文件夹的搜索工具。
 
-![倾城之链 - voidtools | Everything](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.voidtools.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - voidtools | Everything](https://oss.nicelinks.site/www.voidtools.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Everything](https://nicelinks.site/redirect?url=https://www.voidtools.com/)，此为 Windows 桌面搜索引擎："Everything" 的官方网站。Everything 是 voidtools 开发的一款**文件搜索**工具，官网描述为“基于名称实时定位文件和目录；它体积小巧，界面简洁易用，快速建立索引，快速搜索，同时占用极低的系统资源，实时跟踪文件变化，并且还可以通过 http 或 ftp 形式分享搜索。`Everything` 具有以下功能特色：
 
@@ -161,7 +161,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 > SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ultimate goal of enabling people to live on other planets.
 
-![倾城之链 - SpaceX](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.spacex.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - SpaceX](https://oss.nicelinks.site/www.spacex.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[SpaceX](https://nicelinks.site/redirect?url=https://www.spacex.com/)（太空探索技术公司，即美国太空探索技术公司）：设计、制造和发射先进的火箭和航天器。该公司是一家由 PayPal 早期投资人埃隆·马斯克（Elon Musk）2002 年 6 月建立，旨在革新太空技术，最终目标是**让人们能够生活在其他星球上**。它开发了可部分重复使用的猎鹰 1 号和猎鹰 9 号运载火箭。SpaceX 同时开发 Dragon 系列的航天器以通过猎鹰 9 号发射到轨道。SpaceX 主要设计、测试和制造内部的部件，如 Merlin、Kestrel 和 Draco 火箭发动机。
 
@@ -193,9 +193,9 @@ SpaceX 的猎鹰运载火箭系列是第一个也是唯一一个能够重新发�
 
 ── 出自[倾城之链 - SpaceX](https://nicelinks.site/post/6249978fb7bf120669dbd3ff)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-![倾城之链 - 倾情打赏](https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
+![倾城之链 - 客服微信](https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ## 本期文末寄语
 
@@ -203,23 +203,21 @@ SpaceX 的猎鹰运载火箭系列是第一个也是唯一一个能够重新发�
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+![小程序码 - 倾城之链](https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/250/h/250/interlace/1/ignore-error/1)
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 59 期）- 倾城之链](https://link.niceshare.site/weekly-059/)
-- [优质网站同好者周刊（第 58 期）- 倾城之链](https://link.niceshare.site/weekly-058/)
-- [优质网站同好者周刊（第 57 期）- 倾城之链](https://link.niceshare.site/weekly-057/)
-- [优质网站同好者周刊（第 56 期）- 倾城之链](https://link.niceshare.site/weekly-056/)
-- [优质网站同好者周刊（第 55 期）- 倾城之链](https://link.niceshare.site/weekly-055/)
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
+- [优质网站同好者周刊（第 59 期）- 倾城之链](https://blog.nicelinks.site/weekly-059/)
+- [优质网站同好者周刊（第 58 期）- 倾城之链](https://blog.nicelinks.site/weekly-058/)
+- [优质网站同好者周刊（第 57 期）- 倾城之链](https://blog.nicelinks.site/weekly-057/)
+- [优质网站同好者周刊（第 56 期）- 倾城之链](https://blog.nicelinks.site/weekly-056/)
+- [优质网站同好者周刊（第 55 期）- 倾城之链](https://blog.nicelinks.site/weekly-055/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)

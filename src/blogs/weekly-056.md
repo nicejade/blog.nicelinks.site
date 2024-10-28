@@ -10,7 +10,7 @@
 
 > 万兴喵影（原名万兴神剪手/喵影工厂），是一款风靡全球的视频剪辑神器，可用于 Windows、macOS、Android 以及 iOS 系统。
 
-![倾城之链 - 万兴喵影 - 视频剪辑软件_视频制作/编辑工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/miao.wondershare.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 万兴喵影 - 视频剪辑软件_视频制作/编辑工具](https://oss.nicelinks.site/miao.wondershare.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[万兴喵影](https://nicelinks.site/redirect?url=https://miao.wondershare.cn/)，是万兴科技推出的一款多平台的`视频剪辑`软件；其口号是：“**简单 智能 让剪辑更 FREE**”；它简洁易上手的同时，还支持了非常多的功能，比如：语音转字幕、智能修复、节拍检测、颜色匹配、音乐闪避等智能工具，让你无需掌握专业软件的使用，也无需花费大量时间就能制作出优秀的视频，快速向他人展示自己的创意。
 
@@ -28,7 +28,7 @@
 
 > 通过学习（GTD、时间管理、知识管理、写作、财务管理）、技术创造（前端、后端、移动端、DevOps）、投资（指数投资、基金、股票、债券）、网赚项目（SEO、Affiliate、Media Buy、Niche、社交媒体）来建立被动收入
 
-![倾城之链 - 构建我的被动收入](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bmpi.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - 构建我的被动收入](https://oss.nicelinks.site/www.bmpi.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[构建我的被动收入](https://nicelinks.site/redirect?url=https://www.bmpi.dev/)，是基于 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 等工具搭建的个人博客，作者`马大伟`，长期关注**学习、技术与投资**三个领域，所分享内容涉及：学习（GTD、时间管理、知识管理、写作、财务管理）、技术创造（前端、后端、移动端、DevOps）、投资（指数投资、基金、股票、债券）、网赚项目（SEO、Affiliate、Media Buy、Niche、社交媒体）等方面。该站命名参见如下：
 
@@ -46,7 +46,7 @@
 
 > 必剪-让创作更有趣
 
-![倾城之链 - 必剪-让创作更有趣](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bcut.drawyoo.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 必剪-让创作更有趣](https://oss.nicelinks.site/bcut.drawyoo.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[必剪](https://nicelinks.site/redirect?url=https://bcut.drawyoo.com/)，是 [bilibili ](https://nicelinks.site/post/5a5cccc8e05887175ee08523) 官方出品的视频剪辑应用程序，它专为 B 站 `UP 主`制作，它具有以下特色功能：
 
@@ -67,7 +67,7 @@
 
 > v1tx 专注于发现新应用，推荐各种效率工具、软件和 APP，包括 Windows、Mac、Android、iOS、网页等多平台应用，让每个人找到适合的软件并掌握使用技巧。
 
-![倾城之链 - v1tx - 发现实用工具与软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.v1tx.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - v1tx - 发现实用工具与软件](https://oss.nicelinks.site/www.v1tx.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[v1tx](https://nicelinks.site/redirect?url=https://www.v1tx.com/) 一个推荐实用工具和软件的网站。它专注于发现新应用，推荐各种效率工具、软件和 APP，包括 Windows、Mac、Android、iOS、网页等多平台应用，让每个人找到适合的软件并掌握使用技巧。其所涉及的内容非常广泛，如设计、视频剪辑、笔记软件、以及各种应用软件使用教程等；其讲解也十分详尽，而且整个界面极为干净纯粹，在当今国内互联网大环境中，可谓「稀有存在」。除了网站外，您还可以关注公众号（v1tx）、或通过邮件订阅，从而获取最新分享。
 
@@ -79,7 +79,7 @@
 
 > A high-quality & reliable React Hooks library.
 
-![倾城之链 - ahooks - React Hooks Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ahooks.js.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - ahooks - React Hooks Library](https://oss.nicelinks.site/ahooks.js.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ahooks](https://nicelinks.site/redirect?url=https://ahooks.js.org/)，发音 [eɪ hʊks]，一套高质量可靠的 React Hooks 库。（_Hook_ 是 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性）。
 
@@ -118,9 +118,9 @@ function Welcome(props) {
 
 ── 出自[倾城之链 - ahooks - React Hooks Library](https://nicelinks.site/post/6225fad4083a7f3765fd8f9e)
 
-对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下倾情打赏），🤲 。
+对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-<div align="center"><img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/reward-code.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 倾情打赏"></div>
+<div align="center"><img src="https://image.nicelinks.site/%E5%80%BE%E5%9F%8E%E4%B9%8B%E9%93%BE-%E5%BE%AE%E4%BF%A1-mini.jpeg" style="width: 200px;min-width: 200px;" alt="倾城之链 - 客服微信"></div>
 
 ## 本期文末寄语
 
@@ -128,21 +128,19 @@ function Welcome(props) {
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
-<div align="center">
-  <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/wechat-article-qrcode.jpg" style="width: 200px;min-width: 200px;" alt="微信公众号 - 晚晴幽草轩"/>
-</div>
+<img src="https://image.nicelinks.site/nicelinks-miniprogram-code.jpeg?imageView2/1/w/300/h/300/interlace/1/ignore-error/1" style="width: 200px;min-width: 200px;" alt="小程序码 - 倾城之链"/>
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 54 期）- 倾城之链](https://link.niceshare.site/weekly-054/)
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
-- [优质网站同好者周刊（第 46 期）- 倾城之链](https://link.niceshare.site/weekly-046/)
+- [优质网站同好者周刊（第 54 期）- 倾城之链](https://blog.nicelinks.site/weekly-054/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046/)
 - [优质网站同好者周刊（第 45 期）- 倾城之链](https://forum.lovejade.cn/d/132-45)
 - [优质网站同好者周刊（第 44 期）- 倾城之链](https://forum.lovejade.cn/d/130-44)
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
