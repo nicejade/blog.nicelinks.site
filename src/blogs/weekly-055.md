@@ -8,7 +8,7 @@
 
 > Make stunning videos with a single click. Cut, trim, crop, add subtitles and more. Online, no account needed. Try it now, free. VEED
 
-![倾城之链 - VEED - Online Video Editor - Video Editing Made Simple](https://oss.nicelinks.site/www.veed.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - VEED - Online Video Editor - Video Editing Made Simple](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.veed.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[VEED](https://nicelinks.site/redirect?url=https://www.veed.io/)，在线视频编辑器，让视频编辑变得简单。告别笨重的视频软件，迎接**在线**一键编辑。只需单击一下即可制作令人惊叹的视频，无需培训，无需账户，立即免费试用。您可以进行，剪切、修剪、裁剪、添加字幕等，这是其众多功能的冰山一角。下面再列举些，以领略 `VEED` 功能的强大：
 
@@ -26,7 +26,7 @@
 
 > DAC 导航是专为在校大学生创建的导航网站，涵盖资源搜索、学术科研、高效工具、软件资源、影音娱乐、趣味网站、热门导航、免费素材、在线学习、公益实践、升学就业、科学上网、博客组建等 13 大门类，共计 1000 余个优质站点。
 
-![倾城之链 - DAC 导航-让校园生活更加精彩！](https://oss.nicelinks.site/nwuzmed.ga.png?x-oss-process=style/png2jpg)
+![倾城之链 - DAC 导航-让校园生活更加精彩！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nwuzmed.ga.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[DAC 导航](https://nicelinks.site/redirect?url=https://nwuzmed.ga/)，是专为在校大学生创建的导航网站；它属于个人小站，多数站点是在站长在学习、工作的实际经历中收集整理的；搭建网站除了花费时间精力外，没有任何成本，因此也永远不会开启打赏、付费、广告等盈利模式。
 
@@ -54,7 +54,7 @@ DAC 在提供网站指引和导航的同时，也免费提供资源搜索、下�
 
 > TDesign 是腾讯开源的企业级设计体系，提供了统一设计价值观，一致的设计语言和视觉风格，和开箱即用的 UI 组件库。
 
-![倾城之链 - TDesign - 开源的企业级设计体系](https://oss.nicelinks.site/tdesign.tencent.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - TDesign - 开源的企业级设计体系](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tdesign.tencent.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TDesign](https://nicelinks.site/redirect?url=https://tdesign.tencent.com/)，是腾讯**开源**的企业级设计体系，提供一致的设计语言和视觉风格，帮助用户形成连续、统一的体验认知。在此基础上，TDesign 提供了开箱即用的 UI 组件库（涉及桌面端、移动端、小程序等；包括 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) / [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) / 小程序等技术栈；就目前（2022.03）而言，部分仍处于 Beta、Alpha、待上线状态），设计指南和相关设计资产，以高效的方式，将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。用于构建 设计统一 / 跨端多技术栈 的前端应用时，TDesign 颇有优势。它具有以下特征：
 
@@ -101,7 +101,7 @@ TDesign 同步上线了一款开箱即用的中后台框架 TDesign Starter Kit�
 
 > Create a professional website with the Wix website builder. Choose a customizable designer-made template and add the features you need. Get started today.
 
-![倾城之链 - Free Website Builder | Create a Free Website | Wix.com](https://oss.nicelinks.site/www.wix.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Free Website Builder | Create a Free Website | Wix.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wix.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Wix.com](https://nicelinks.site/redirect?url=https://www.wix.com/)，一个知名的**网站建设**平台，让你自由地创建、设计、管理和发展你的网站，完全按照你想要的方式。无论您是在推广您的业务、展示您的作品、开设商店还是创建博客，您都可以使用 Wix 网站构建器来完成这一切。
 

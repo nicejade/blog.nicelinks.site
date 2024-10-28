@@ -6,9 +6,9 @@
 
 **标签**：[`Docker`](https://nicelinks.site/tags/Docker) · [`Mac`](https://nicelinks.site/tags/Mac) · [`Linux`](https://nicelinks.site/tags/Linux)
 
->Say goodbye to slow, clunky containers and VMs. Run Docker and Linux on your Mac seamlessly and efficiently.
+> Say goodbye to slow, clunky containers and VMs. Run Docker and Linux on your Mac seamlessly and efficiently.
 
-![倾城之链 - OrbStack · Fast, light, simple Docker &amp; Linux on macOS](https://oss.nicelinks.site/orbstack.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - OrbStack · Fast, light, simple Docker & Linux on macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/orbstack.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[OrbStack](https://nicelinks.site/redirect?url=https://orbstack.dev/) ，在你的 [Mac](https://nicelinks.site/tags/Mac) 上无缝、高效地运行 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 和 [Linux](https://nicelinks.site/tags/Linux)。Docker Desktop 替代品，可帮助您更快地工作。它具有以下功能特征：
 
@@ -44,13 +44,13 @@ Docker Desktop 的直接替代品。借助简单但功能强大的应用程序�
 
 使用您最喜欢的发行版运行成熟的 Linux 机器。与 Visual Studio Code（或您最喜欢的编辑器）和 SSH 代理转发无缝协作。使用 Rosetta 在 Apple Silicon 上运行英特尔机器。
 
- [OrbStack](https://nicelinks.site/redirect?url=https://orbstack.dev/) **它是如何工作的？为什么快**？OrbStack 使用一个轻量级的 Linux 虚拟机，它具有紧密集成的、专门构建的服务和网络，这些服务和网络是用 Swift、Go、Rust 和 C 混合编写的。
+[OrbStack](https://nicelinks.site/redirect?url=https://orbstack.dev/) **它是如何工作的？为什么快**？OrbStack 使用一个轻量级的 Linux 虚拟机，它具有紧密集成的、专门构建的服务和网络，这些服务和网络是用 Swift、Go、Rust 和 C 混合编写的。
 
 **OrbStack 是免费的吗**？OrbStack 在测试期间完全免费使用，但之后将成为付费产品。他们仍在制定细节（个人与企业用途、订阅与永久许可、定价、OSS 和学生折扣等）。
 
 **OrbStack 与 Docker Desktop 有何不同**？`OrbStack` 是 Docker Desktop 的直接替代品，它更快、更轻、更简单且更易于使用（在启动速度、CPU 使用率、网络、内存等方面都更具优势）。有关详细比较，请参阅 [OrbStack 与 Docker Desktop](https://nicelinks.site/redirect?url=https://docs.orbstack.dev/compare/docker-desktop) 。
 
-总之，OrbStack 是 Docker Desktop 非常棒的替代品，得到广大 Mac 用户的认可；如果您用的是 Mac 系统，并且在工作、生活中较高频率使用 Docker，那么 `OrbStack`  将是您下一款酷爱应用软件。
+总之，OrbStack 是 Docker Desktop 非常棒的替代品，得到广大 Mac 用户的认可；如果您用的是 Mac 系统，并且在工作、生活中较高频率使用 Docker，那么 `OrbStack` 将是您下一款酷爱应用软件。
 
 ── 出自[倾城之链 - OrbStack · Fast, light, simple Docker &amp; Linux on macOS](https://nicelinks.site/post/6437e9a4bde7286cc29e0ac0)
 
@@ -58,9 +58,9 @@ Docker Desktop 的直接替代品。借助简单但功能强大的应用程序�
 
 **标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`AI`](https://nicelinks.site/tags/AI)
 
->The AI search engine for developers. Get instant answers, explanations, and examples for all of your technical questions.
+> The AI search engine for developers. Get instant answers, explanations, and examples for all of your technical questions.
 
-![倾城之链 - Phind: AI search engine | The AI search engine for developers](https://oss.nicelinks.site/www.phind.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Phind: AI search engine | The AI search engine for developers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.phind.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Phind](https://nicelinks.site/redirect?url=https://www.phind.com/) 是一个为开发人员而生的 AI [搜索](https://nicelinks.site/tags/搜索) 引擎，由大型专有的生成式 [AI](https://nicelinks.site/tags/AI) 语言模型提供支持。它通过简单的解释和来自网络的相关代码片段即时回答问题，**为开发人员提供了快速高质量的技术问题解答服务**。并且支持多种搜索方式，如智能搜索、语音搜索、图像搜索等。Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。此外，Phind 还提供了翻译、计算器、单位换算、股票等实用功能。
 
@@ -74,16 +74,15 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 总之，Phind 是一款为开发人员而生的 AI 搜索引擎，具有快速高质量的技术问题解答服务，支持多种搜索方式和实用功能，可以提供更加个性化的搜索体验。Phind 的使用方法简单，可以帮助开发人员更快地解决技术问题，提高开发 [效率](https://nicelinks.site/tags/效率) 。初步使用，Phind 产生的结果，让人很满意；需要说明的是，在国内使用需要自备科|學的网络环境。
 
-
 ── 出自[倾城之链 - Phind: AI search engine | The AI search engine for developers](https://nicelinks.site/post/64369a3ebde7286cc29dfef6)
 
 ## [Hello from Learning Prompt | Learning Prompt](https://nicelinks.site/post/64355094bde7286cc29df3d2)
 
 **标签**：[`教程`](https://nicelinks.site/tags/教程) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`prompt`](https://nicelinks.site/tags/prompt)
 
->免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程。
+> 免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程。
 
-![倾城之链 - Hello from Learning Prompt | Learning Prompt](https://oss.nicelinks.site/learningprompt.wiki.png?x-oss-process=style/png2jpg)
+![倾城之链 - Hello from Learning Prompt | Learning Prompt](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/learningprompt.wiki.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Learning Prompt](https://nicelinks.site/redirect?url=https://learningprompt.wiki/) ，**免费 Prompt Engineering 教程**；目前包含 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 和 Midjourney 两部分教程，是作者在学习 Prompt Engineering 过程中，总结出来的一些经验和方法。下面是关于 Learning Prompt 网站更详细的介绍：
 
@@ -108,9 +107,9 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 作者建议你在阅读这份教程的时候（以下内容，作者叙述时以第一人称）：
 
-1.  **降低预期：** 作者不是专家，作者也在学习，作者只是比你多走了几步而已。教程里的内容难免会有遗漏或错误。另外，作者这份教程，目标读者是初学者，所以在教程中，为了让大家更容易理解，难免会用到不太准确的类比，或者用词，请各位见谅。
-2.  **不要吝啬你的反馈：** 如果你遇到无法看懂的地方，亦或者作者写错了的地方，不妨给作者提个 Issue 或者填写这个表单。作者们共同进步，并为 PE 的科普出一份力。
-3.  **通过输出倒逼输入：** 最好的学习方法就是实操，教程里会提供不少案例，你边阅读，边尝试。甚至如果可以的话，不妨将你写的 prompt 通过 Issue 或表单的方式，分享给作者，作者会将不错的案例加到文档内。
+1.  **降低预期：**  作者不是专家，作者也在学习，作者只是比你多走了几步而已。教程里的内容难免会有遗漏或错误。另外，作者这份教程，目标读者是初学者，所以在教程中，为了让大家更容易理解，难免会用到不太准确的类比，或者用词，请各位见谅。
+2.  **不要吝啬你的反馈：**  如果你遇到无法看懂的地方，亦或者作者写错了的地方，不妨给作者提个 Issue 或者填写这个表单。作者们共同进步，并为 PE 的科普出一份力。
+3.  **通过输出倒逼输入：**  最好的学习方法就是实操，教程里会提供不少案例，你边阅读，边尝试。甚至如果可以的话，不妨将你写的 prompt 通过 Issue 或表单的方式，分享给作者，作者会将不错的案例加到文档内。
 
 另外，作者一直认为最好的学习方法，就是实践，所以作者建议你使用 ChatGPT 或者 Midjourney 上 运行一下教程里的案例。这样能够记得更牢靠一些。该内容在 [Github 仓库开源](https://github.com/thinkingjimmy/Learning-Prompt) ，如果您对其感兴趣，可前往以了解更多。
 
@@ -120,9 +119,9 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 **标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`CSS`](https://nicelinks.site/tags/CSS) · [`HTML`](https://nicelinks.site/tags/HTML)
 
->Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.
+> Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.
 
-![倾城之链 - Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://oss.nicelinks.site/getbootstrap.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getbootstrap.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Bootstrap](https://nicelinks.site/redirect?url=https://getbootstrap.com/) 是一个流行的前端框架，为网站和应用提供了一整套现成的 UI 组件和样式表，使得开发者能够**快速地开发赏心悦目、响应式的网站或应用**。Bootstrap 最初是由 Twitter 开发的，现在已经成为了一个繁荣的开源社区。作为 Bootstrap 官方文档网站，主要提供以下内容：
 
@@ -150,7 +149,6 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 总之，Bootstrap 官方网站提供了一站式服务，包括积极地更新文档、提供有用的模板和示例和方便的下载和集成选项。这样，新用户可以快速的上手 Bootstrap，并立即获取关于网站设计和样式的灵感。如果您对 Bootstrap 感兴趣，可移步至 [Github 开源仓库](https://github.com/twbs/bootstrap) ，以了解更多。
 
-
 ── 出自[倾城之链 - Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://nicelinks.site/post/64354a42bde7286cc29df2b7)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
@@ -159,10 +157,10 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 ## 本期文末寄语
 
-**读书不觉已春深，   
-一寸光阴一寸金**。   
-不是道人来引笑，   
-周情孔思正追寻。   
+**读书不觉已春深，  
+一寸光阴一寸金**。  
+不是道人来引笑，  
+周情孔思正追寻。  
 ── 唐朝 · 王贞白《白鹿洞二首》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
@@ -187,7 +185,7 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

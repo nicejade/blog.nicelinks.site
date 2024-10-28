@@ -8,7 +8,7 @@
 
 > 倾城之链作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界。倾城博客，旨在汇聚倾城之链所收录的内容，以博文的形式承载，提供检索功能，且具备极致丝滑访问体验，以飨同好者。
 
-![倾城之链 - 倾城博客](https://oss.nicelinks.site/blog.nicelinks.site.png?x-oss-process=style/png2jpg)
+![倾城之链 - 倾城博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.nicelinks.site.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[倾城博客](https://nicelinks.site/redirect?url=https://blog.nicelinks.site/)，基于 [GatsbyJS](https://nicelinks.site/redirect?url=https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://nicelinks.site/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://nicelinks.site/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://nicelinks.site/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
 
@@ -22,7 +22,7 @@
 
 > Upscale your image to 2x or 4x without losing any textures or details with our AI tool. Use our super-resolution tool and bring new life to your images.
 
-![倾城之链 - AI Image Upscaler - Enlarge & Enhance your Images for Free](https://oss.nicelinks.site/www.upscale.media.png?x-oss-process=style/png2jpg)
+![倾城之链 - AI Image Upscaler - Enlarge & Enhance your Images for Free](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.upscale.media.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AI Image Upscaler](https://nicelinks.site/redirect?url=https://www.upscale.media/)，**免费的**（永久） AI 工具，可将图像分辨率提高 4 倍（big），而不会降低质量，并为您的所有个人和业务需求做好准备。其使用非常方便，上传、拖放图像或粘贴 URL，即可开始；需点击几下，就能基于强大的 AI 技术升级和增强您的图像；它支持 png、jpeg、jpg、webp 等格式。值得一提的是，它有以下独特的功能：
 
@@ -54,7 +54,7 @@
 
 > 分享各種行動工作技巧、雲端生活應用，善用數位工具改變你我的工作效率與生活品質。
 
-![倾城之链 - 電腦玩物](https://oss.nicelinks.site/www.playpcesor.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 電腦玩物](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.playpcesor.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[電腦玩物](https://nicelinks.site/redirect?url=https://www.playpcesor.com/)，是作者 Esor Huang（异尘行者）的个人部落格；Esor，是本站唯一的作者与站长；主要涉及云端办公室、数位笔记、**时间管理**等让人生更美好工作方法；在[電腦玩物](https://nicelinks.site/redirect?url=https://www.playpcesor.com/)上可以读到 Esor 的这些文章：
 
@@ -75,7 +75,7 @@
 
 > 简单强大实用的艺术二维码生成器。
 
-![倾城之链 - 二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://oss.nicelinks.site/www.qrdream.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.qrdream.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[二维码梦工厂](https://nicelinks.site/redirect?url=https://www.qrdream.com/)，是一款简单、强大、实用、在线的二维码生成器，可以为文本、网址、微信公众号生成二维码；其目标是使得用户：“不会 PS、AI 也可以做出精美的艺术二维码”。
 

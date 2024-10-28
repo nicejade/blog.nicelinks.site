@@ -6,9 +6,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`框架`](https://nicelinks.site/tags/框架) · [`LLM`](https://nicelinks.site/tags/LLM)
 
->LangChain’s flexible abstractions and extensive toolkit unlocks developers to build context-aware, reasoning LLM applications.
+> LangChain’s flexible abstractions and extensive toolkit unlocks developers to build context-aware, reasoning LLM applications.
 
-![倾城之链 - LangChain | Get your LLM application from prototype to production](https://oss.nicelinks.site/www.langchain.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - LangChain | Get your LLM application from prototype to production](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.langchain.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[LangChain](https://nicelinks.site/redirect?url=https://www.langchain.com/) 是一个专注于大型语言模型（ [LLM](https://nicelinks.site/tags/LLM) ）的开发者平台，它提供了一套工具和框架，帮助开发者将 LLM 应用从原型阶段推进到生产环境。以下是关于 LangChain 的详细介绍：
 
@@ -81,9 +81,9 @@ LangChain 的这些特性使得它成为一个强大的平台，可以帮助开�
 
 **标签**：[`思维导图`](https://nicelinks.site/tags/思维导图) · [`协作`](https://nicelinks.site/tags/协作) · [`流程图`](https://nicelinks.site/tags/流程图)
 
->Whimsical combines whiteboards and docs in an all-in-one collaboration hub.
+> Whimsical combines whiteboards and docs in an all-in-one collaboration hub.
 
-![倾城之链 - Whimsical - Where great ideas take shape](https://oss.nicelinks.site/whimsical.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Whimsical - Where great ideas take shape](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/whimsical.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Whimsical](https://nicelinks.site/redirect?url=https://whimsical.com/) 是一个在线 [协作](https://nicelinks.site/tags/协作) 工具，它提供了一系列的功能来帮助团队进行有效的项目管理、 [思维导图](https://nicelinks.site/tags/思维导图) 制作、流程图绘制以及文档协作（视觉协作中心，将图表、 [白板](https://nicelinks.site/tags/白板) 等与 Whimsical 结合起来）。以下是 Whimsical 的一些主要产品和功能：
 
@@ -93,36 +93,43 @@ LangChain 的这些特性使得它成为一个强大的平台，可以帮助开�
     - 支持实时协作，团队成员可以一起创建和编辑思维导图。
     - 提供多种预设模板，方便快速开始。
     - 可以导出为多种格式，如 PNG、PDF 等。
+
 2.  **流程图（Flowcharts）**：
 
     - 用于创建和共享流程图，帮助理解业务流程和决策路径。
     - 提供多种形状和连接器，以适应不同的流程图需求。
     - 支持拖放式编辑，易于使用。
     - 可以与团队成员共享和协作。
+
 3.  **文档（Documents）**：
 
     - 提供了一个在线的文档编辑器，支持多人协作。
     - 可以创建和编辑文本文档，如会议记录、项目计划等。
     - 支持实时协作和版本控制，可以看到文档的编辑历史。
     - 可以与思维导图和流程图集成，方便在文档中引用和链接。
+
 4.  **项目（Projects）**：
 
     - 用于管理和跟踪项目进度。
     - 提供任务管理功能，可以分配任务、设置截止日期和优先级。
     - 支持看板视图，方便团队成员查看任务状态。
     - 可以与思维导图、流程图和文档集成，形成完整的项目视图。
+
 5.  **团队协作**：
 
     - Whimsical 支持团队账户，可以邀请团队成员加入项目。
     - 提供权限管理，可以控制团队成员对项目的访问和编辑权限。
     - 支持实时通知，确保团队成员能够及时了解项目更新。
+
 6.  **跨平台支持**：
 
     - Whimsical 可以在多种设备上使用，包括桌面和移动设备。
     - 提供 Web 应用程序，无需安装额外软件。
+
 7.  **集成**：
 
     - Whimsical 可以与其他工具集成，如 Slack、Trello 等，方便在不同工作流中使用。
+
 8.  **安全性和隐私**：
 
     - Whimsical 承诺保护用户数据的安全和隐私，遵循相关的数据保护法规。
@@ -135,9 +142,9 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 **标签**：[`笔记`](https://nicelinks.site/tags/笔记) · [`工作`](https://nicelinks.site/tags/工作) · [`平台`](https://nicelinks.site/tags/平台)
 
->Create documents, which will make an impact. Try Craft for free both for personal and business/teams use cases.
+> Create documents, which will make an impact. Try Craft for free both for personal and business/teams use cases.
 
-![倾城之链 - Craft – The Future of Documents](https://oss.nicelinks.site/www.craft.do.png?x-oss-process=style/png2jpg)
+![倾城之链 - Craft – The Future of Documents](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.craft.do.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Craft](https://nicelinks.site/redirect?url=https://www.craft.do/) 是一个提供一系列用于构思、组织和共享工作的功能和工具的平台（ [笔记](https://nicelinks.site/tags/笔记) 应用）。它旨在帮助个人和团队有效协作并保持井井有条。根据 Craft 网站上提供的内容，以下是有关 Craft 的一些要点：
 
@@ -159,7 +166,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 9.  公司信息：Craft 由 Craft Docs Limited, Inc. 开发。该公司强调对细节的关注，旨在将其平台的形式和功能结合起来。
 
-总之， [Craft](https://nicelinks.site/redirect?url=https://www.craft.do/) 是一款助力于工作、生活的笔记应用，它集成了很多您可能需要的工具，诸如图片和视频（为您的更新添加上下文和视觉趣味，使其更易于理解）、内置AI助手（让 AI 总结您的更新、检查拼写和语法或产生想法）、评论与反馈、代码块、结构化文件（将相关想法分组到卡片和页面中，以便为需要的人添加更多详细信息）、丰富的链接预览,,,,。如果您对其感兴趣，可移步至官网了解更多。
+总之， [Craft](https://nicelinks.site/redirect?url=https://www.craft.do/) 是一款助力于工作、生活的笔记应用，它集成了很多您可能需要的工具，诸如图片和视频（为您的更新添加上下文和视觉趣味，使其更易于理解）、内置 AI 助手（让 AI 总结您的更新、检查拼写和语法或产生想法）、评论与反馈、代码块、结构化文件（将相关想法分组到卡片和页面中，以便为需要的人添加更多详细信息）、丰富的链接预览,,,,。如果您对其感兴趣，可移步至官网了解更多。
 
 ── 出自[倾城之链 - Craft – The Future of Documents](https://nicelinks.site/post/65a802112c315d2784ce5e08)
 
@@ -167,9 +174,9 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 **标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`教程`](https://nicelinks.site/tags/教程) · [`开源`](https://nicelinks.site/tags/开源)
 
->Small exercises to get you used to reading and writing Rust code!
+> Small exercises to get you used to reading and writing Rust code!
 
-![倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://oss.nicelinks.site/rustlings.cool.png?x-oss-process=style/png2jpg)
+![倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rustlings.cool.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Rustlings](https://nicelinks.site/redirect?url=https://rustlings.cool/) 是一个旨在帮助个人学习和练习 [Rust](https://nicelinks.site/tags/Rust) 编程的项目。它由一些小练习组成，帮助用户熟悉阅读和编写 Rust 代码，包括理解和响应编译器消息。关于 Rustlings 的主要特点和信息：
 
@@ -193,13 +200,13 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ── 出自[倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.site/post/65a66b462c315d2784ce5446)
 
-## [Dona |  A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
+## [Dona | A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
 
 **标签**：[`任务管理器`](https://nicelinks.site/tags/任务管理器) · [`产品`](https://nicelinks.site/tags/产品) · [`工作效率`](https://nicelinks.site/tags/工作效率)
 
->Dona is a back to basic to-do list focused on fast and delightful user experience. A more humane to-do list.
+> Dona is a back to basic to-do list focused on fast and delightful user experience. A more humane to-do list.
 
-![倾城之链 - Dona |  A back to basic to-do list focused on fast and delightful user experience](https://oss.nicelinks.site/dona.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Dona |  A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dona.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dona](https://nicelinks.site/redirect?url=https://dona.ai/) 是一款回归本源 [待办事项](https://nicelinks.site/tags/任务管理器) 应用程序，致力于**提供快速、愉悦的用户体验**。它旨在简化任务管理，帮助用户以直观、愉快的方式实现目标。Dona 主要具有如下功能：
 
@@ -209,7 +216,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 此外，Dona 还为用户提供时事通讯，让他们随时了解最新消息和发展动态。用户还可以在 [Twitter 上关注 Dona](https://nicelinks.site/redirect?url=https://twitter.com/getdona) ，并加入他们的 Discord 社区，与其他用户交流并提供反馈。请注意，此处提供的信息以 Dona 网站上的内容为基础，可能随时更改。如需了解最准确的最新信息，建议 [访问 Dona 官方网站](https://nicelinks.site/redirect?url=https://dona.ai/) 。
 
-── 出自[倾城之链 - Dona |  A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
+── 出自[倾城之链 - Dona | A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
 
 ## [影刀 RPA - 影刀官网](https://nicelinks.site/post/65a3fd102c315d2784ce47ef)
 
@@ -217,15 +224,15 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 **关键字**：影刀，影刀 RPA
 
->影刀是杭州分叉智能科技有限公司研发的 RPA 自动化软件，影刀 RPA 致力于为各行业客户提供 RPA 自动化机器人产品与解决方案。影刀 RPA 能实现 PC、手机上的任何软件自动化操作。积木式流程搭建，0 编程基础快速入门，人人都能轻松上手，是上万家企业信赖之选。
+> 影刀是杭州分叉智能科技有限公司研发的 RPA 自动化软件，影刀 RPA 致力于为各行业客户提供 RPA 自动化机器人产品与解决方案。影刀 RPA 能实现 PC、手机上的任何软件自动化操作。积木式流程搭建，0 编程基础快速入门，人人都能轻松上手，是上万家企业信赖之选。
 
-![倾城之链 - 影刀 RPA - 影刀官网](https://oss.nicelinks.site/www.yingdao.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 影刀 RPA - 影刀官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.yingdao.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[影刀 RPA](https://nicelinks.site/redirect?url=https://www.yingdao.com/) 是一款软件机器人，能模拟人的各种操作，能在任何应用程式上进行鼠标点击、键盘输入、读取信息等 [自动化](https://nicelinks.site/tags/自动化) 操作，释放人非主观决策、逻辑性高、规则性强的工作（RPAl，Robotic Process Automation 的缩写，即机器人流程自动化）。它由杭州分叉智能科技有限公司研发。
 
 2022 年 4 月，杭州分叉智能科技有限公司（简称：影刀 RPA）**完成 1 亿美元 C 轮融资**，本轮融资由高盛、某产业 CVC 机构领投，老股东 GGV 纪源资本、高瓴创投等跟投。在此之前，2021 年 7 月，影刀 RPA 完成由 Coatue Management 领投的 5000 万美元，再加上之前高瓴创投、GGV 纪**源**资本、红点中国、金沙江创投、初心资本、盈动资本、曦域资本、聚水潭等数轮数千万美元融资，影刀 RPA 在**2 年时间总共完成了近 2 亿美金融资**。
 
-关于 [影刀 RPA](https://nicelinks.site/redirect?url=https://www.yingdao.com/) ， 您可以把它理解为：**“虚拟机器人”替代人工的一种方式**。它不仅可以模拟人类，而且可以利用和融合现有各项技术，实现其流程自动化的目标。简单叙述，就是**一切重复、有规则的工作，都可以用影刀完成。你只需要设置好固定的流程，影刀就会在电脑/手机上模仿人工，一步步完成操作，而且影刀的完成速度是人的速度的 5 倍左右。
+关于 [影刀 RPA](https://nicelinks.site/redirect?url=https://www.yingdao.com/) ， 您可以把它理解为：**“虚拟机器人”替代人工的一种方式**。它不仅可以模拟人类，而且可以利用和融合现有各项技术，实现其流程自动化的目标。简单叙述，就是\*\*一切重复、有规则的工作，都可以用影刀完成。你只需要设置好固定的流程，影刀就会在电脑/手机上模仿人工，一步步完成操作，而且影刀的完成速度是人的速度的 5 倍左右。
 
 ### 影刀 RPA 业务介绍
 
@@ -247,10 +254,10 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ## 本期文末寄语
 
-泽国江山入战图，生民何计乐樵苏。   
-凭君莫话封侯事，一将功成万骨枯。    
-传闻一战百神愁，两岸强兵过未休。   
-谁道沧江总无事，近来长共血争流。   
+泽国江山入战图，生民何计乐樵苏。  
+凭君莫话封侯事，一将功成万骨枯。  
+传闻一战百神愁，两岸强兵过未休。  
+谁道沧江总无事，近来长共血争流。  
 ──〔唐〕· 曹松《己亥岁二首·僖宗广明元年》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
@@ -274,7 +281,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

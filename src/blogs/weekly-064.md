@@ -8,7 +8,7 @@
 
 > Learn UX/UI design skills in practice with bite-sized tasks. Master UI/UX design skills through practice on real-life cases and get instant automated feedback on your results with a brand-new AI based Figma plugin Befront.
 
-![倾城之链 - Befront ｜ Learn design skills through practice](https://oss.nicelinks.site/befront.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Befront ｜ Learn design skills through practice](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/befront.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Befront.io](https://nicelinks.site/redirect?url=https://befront.io/)，一个在线**学习**网站，旨在通过小任务，在**实践中**学习 UX/UI 设计技能；更详细地说，`Befront.io` 通过对真实案例的实践，从而掌握 UI/UX 设计技能，并使用全新的、基于 AI 的 Figma 插件 Befront，获得对结果的即时自动反馈。在你面前，使用的步骤和体验如下：
 
@@ -35,7 +35,7 @@
 
 > 致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF 工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！
 
-![倾城之链 - 即时工具-致力打造即用即走型在线工具箱](https://oss.nicelinks.site/www.67tool.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 即时工具-致力打造即用即走型在线工具箱](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.67tool.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[即时工具](https://nicelinks.site/redirect?url=https://www.67tool.com/)，致力打造安全、快捷、好用的在线工具箱（即时工具，顾名思义即用即走无需下载以及注册，直接在线使用）；该网站上线于 2020 年 9 月 10 日，已经深耕在线办公工具 600 多个日夜；主要用以解决**自媒体**、设计师、运营、产品、文员、人事、律师、医生、教师、学生等等用户，在工作或学习上一些繁琐的文件处理，无需到处寻找软件，在线处理即用即走提升生产力。
 
@@ -51,7 +51,7 @@
 
 > Optimize your images with blazing speed using powerful API and online web interface
 
-![倾城之链 - Kraken.io Image Optimizer · Kraken.io](https://oss.nicelinks.site/kraken.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Kraken.io Image Optimizer · Kraken.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kraken.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Kraken.io](https://nicelinks.site/redirect?url=https://kraken.io/)，是一款强大、超快速的图像优化器和压缩器，具有一流的算法。他们将为您节省带宽和存储空间，并将显著改善您网站的加载时间。Kraken 所服务的用户非常广泛，不仅仅针对设计师、开发人员、WordPress 和 Magento 用户，更多如自媒体工作者、图像爱好者等等，都可以使用；因为图像优化，可以给您的产品（作品）带来非常高的价值：
 
@@ -93,7 +93,7 @@
 
 > QRBTF 参数化二维码生成器 Parametric QR Code Generator
 
-![倾城之链 - QRBTF 参数化二维码生成器](https://oss.nicelinks.site/qrbtf.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - QRBTF 参数化二维码生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qrbtf.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[QRBTF.com](https://nicelinks.site/redirect?url=https://qrbtf.com/)，一款参数化`二维码`生成器，目前有 10 多种二维码样式可选；在二维码样式下方，可以对二维码进行微调，可供调整的参数有「容错率」、「图标」（图标源）、「信息点样式」、「信息点不透明度」、「信息点颜色」、「定位点颜色」和「定位点样式」等。下载二维码时，根据自己的需要，可选  **SVG 或 JPG**，SVG 格式的二维码有更大的自由度，当然也可以导出透明背景的 `PNG` 图片。
 
@@ -111,7 +111,7 @@
 
 > 各类网络课程，自学教程，知识付费课程，珍品资料，百度云网盘资源，阿里云网盘资源，就上赤道 365 论坛。现在百度云怎么找资源？我看到网上很多人问网盘资源哪里找？课程资源哪里找？这类的问题，其实像教程资源哪里找？网盘资源下载，找百度网盘资源、找阿里云盘资源，找课程、找资源、找资料，你要找到对的资源论坛其实就容易得多了，只是你还不知道而已。那么，究竟哪里找网盘资源？哪里有百度网盘资源链接分享群？以及哪里有阿里云盘资源链接分享群？百度网盘资源搜索怎么才能高效呢？网盘下载资源搜索中心究竟有没有，网盘资源网站论坛的网址是什么？怎么才能方便、顺利的找到百度云盘、阿里网盘资源？ 赤道 365 资源论坛就是百度网盘资源论坛，也是阿里云盘资源论坛，同时还是迅雷云盘资源论坛、天翼云盘资源论坛，分秒帧云盘资源论坛、蓝奏云资源论坛等。想要的资源在论坛【求资源区】发帖求助即可。这个论坛网站，站长花钱、网友共助给你找资源哈。每个求助帖必回，很多课程、资源、资料都在这里找到了。这个论坛给你找到的资源一般都是以百度网盘链接+提取码，迅雷云盘链接+提取码，阿里云盘链接分享等等方式分享给你，你只要保存到自己的网盘就可以了。
 
-![倾城之链 - 赤道365论坛-帮找课程的资源论坛 -  Powered by Discuz!](https://oss.nicelinks.site/www.chidao365.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 赤道365论坛-帮找课程的资源论坛 -  Powered by Discuz!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.chidao365.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[赤道 365 论坛](https://nicelinks.site/redirect?url=https://www.chidao365.com/)，一个基于 [Discuz! Q ](https://nicelinks.site/post/5fe33ded9b4e656960bd8468) 所搭建的社区，旨在**帮助寻找课程资源**。该网站有划分为论坛、资源广场、积分获取、进资源群、问答等板块，初步体验，所涉猎内容颇为丰富，诸如：阿里云网盘资源（全网首家），百度云网盘资源，各类网络课程、自学教程、大学考研课程、知识付费课程、电子书、精品软件、珍品收藏资料等等；当然，用户可以登录、发帖向站长和坛友求助，从而获取想要的资源。该网站有接入 Google AdSense，以此获得收益。此外，对于游客，24 小时内，所能浏览帖子数被限制 🚫 为 3 个，颇不友好，值得改进。
 
@@ -123,7 +123,7 @@
 
 > A free tool to visualize the output of array operations
 
-![倾城之链 - [Array Builder]](https://oss.nicelinks.site/www.arraybuilder.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - [Array Builder]](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.arraybuilder.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Array Builder](https://nicelinks.site/redirect?url=https://www.arraybuilder.com/)，一个**可视化**数组操作输出的免费工具；它提供一个数组，在 `map` / `reduce` / `filter` 块中编写代码并在相邻列中查看结果。它简化了代码块的编写和调试链式操作，对于开发者而言，有一定价值。其使用非常简单，大致如下步骤：
 
@@ -146,7 +146,7 @@
 
 > LOGO 神器是一款智能 LOGO 在线设计生成器。只需输入品牌名称就能免费在线生成公司 logo 设计，商标设计，以及配套企业 VI 助您打造个性品牌。
 
-![倾城之链 - LOGO设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://oss.nicelinks.site/www.logosc.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - LOGO设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.logosc.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[LOGO 设计神器](https://nicelinks.site/redirect?url=https://www.logosc.cn/)  是一款智能 LOGO 在线设计生成器。只需输入品牌名称就能免费在线生成公司 logo 设计，商标设计，以及配套企业 VI 助您打造个性品牌。它具有以下功能特性：
 

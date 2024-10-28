@@ -8,7 +8,7 @@
 
 > Autocomplete for your terminal.
 
-![倾城之链 - Fig](https://oss.nicelinks.site/fig.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Fig](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fig.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Fig](https://nicelinks.site/redirect?url=https://fig.io/) 将 VSCode 样式的**可视化自动完成**添加到您的终端，无需任何配置，可以让您的操作更加快捷。支持数百个 CLI 工具，当您键入时，Fig 会在您现有的 macOS 终端中弹出子命令、选项和上下文相关的参数；有下载安装初步尝试了下，实在是丝滑，提示也非常贴合所想。[Fig](https://nicelinks.site/redirect?url=https://fig.io/) 适用于 iTerm、Hyper、VSCode 和 macOS 终端，具有以下功能特性：
 
@@ -31,7 +31,7 @@
 
 > 美叶，为设计师，创意人提供有价值的设计参考。灵感采集，优质素材获取，时刻 Follow 最新流行设计趋势。
 
-![倾城之链 - 美叶](https://oss.nicelinks.site/www.meiye.art.png?x-oss-process=style/png2jpg)
+![倾城之链 - 美叶](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meiye.art.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[美叶](https://nicelinks.site/redirect?url=https://www.meiye.art/)，为设计师，创意人提供有价值的设计参考，让灵感获取变轻松。[美叶](https://nicelinks.site/redirect?url=https://www.meiye.art/)目前有上线**应用墙**（精美应用截屏推荐）、**读课学堂**（设计师入门进阶课堂）、**标志库**（优秀标志分类展示）、**插画师**（优秀插画师及作品推荐）等版块儿。
 
@@ -43,7 +43,7 @@
 
 > Discover trending open-source projects and their alternatives.
 
-![倾城之链 - LibHunt - Trending open-source projects and their alternatives](https://oss.nicelinks.site/www.libhunt.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - LibHunt - Trending open-source projects and their alternatives](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.libhunt.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[LibHunt](https://nicelinks.site/redirect?url=https://www.libhunt.com/)，发现流行的开源项目和它们的替代品。其目标是成为开发者寻找库和开源项目以完成其工作的首选网站。它监测 Reddit、HackerNews 和 [Dev.to](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41) 上发布的所有信息（几乎是实时的）。然后，如果一个开源资源库被提及，我们就会记录下来，并利用它来编制流行和类似项目的清单。
 
@@ -59,7 +59,7 @@
 
 > The Simple and Definitive hand-crafted SVG Icons Library.
 
-![倾城之链 - Iconoir | Free Icons](https://oss.nicelinks.site/iconoir.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Iconoir | Free Icons](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iconoir.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Iconoir](https://nicelinks.site/redirect?url=https://iconoir.com/)，简单而权威的手工制作的 SVG 图标库；它是最大的开源库之一，目前拥有 1000 多个 SVG 图标，设计在 24x24 像素的网格上。您可以检索想要的图标，下载即可直接使用，当然也可以通过安装 npm 包来使用；没有高级图标，没有新闻通讯，不需要电子邮件注册。
 

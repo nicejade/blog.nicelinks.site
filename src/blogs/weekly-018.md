@@ -6,11 +6,11 @@
 
 **标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`Notion`](https://nicelinks.site/tags/Notion) · [`工具`](https://nicelinks.site/tags/工具)
 
->Create custom websites in minutes. All on Notion. Potion adds the magic, generating a speedy site with custom domains, styles and great SEO.
+> Create custom websites in minutes. All on Notion. Potion adds the magic, generating a speedy site with custom domains, styles and great SEO.
 
-![倾城之链 - Potion](https://oss.nicelinks.site/www.potion.so.png?x-oss-process=style/png2jpg)
+![倾城之链 - Potion](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.potion.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Potion](https://nicelinks.site/redirect?url=https://www.potion.so/)  是一款工具，支持在几分钟内创建自定义网站，如果您的内容已在 Notion 中。[Potion](https://nicelinks.site/redirect?url=https://www.potion.so/) 通过自定义域、快速站点、自定义样式和出色的 SEO 使这成为可能。官方描述，`Potion` 具有以下优势：
+**推荐语**：[Potion](https://nicelinks.site/redirect?url=https://www.potion.so/) 是一款工具，支持在几分钟内创建自定义网站，如果您的内容已在 Notion 中。[Potion](https://nicelinks.site/redirect?url=https://www.potion.so/) 通过自定义域、快速站点、自定义样式和出色的 SEO 使这成为可能。官方描述，`Potion` 具有以下优势：
 
 - **自定义域**：将您的网页变成真正属于您的可公开访问的网站；
 - **更新并上线**：所有内容更改和编辑都会立即显示在您的网站上；
@@ -27,11 +27,11 @@
 
 **标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`平台`](https://nicelinks.site/tags/平台) · [`远程`](https://nicelinks.site/tags/远程)
 
-**关键字**：软件开发, 网站系统, APP小程序, UI设计, web前端, 原型产品经理, 程序员兼职, 程序员招聘
+**关键字**：软件开发, 网站系统, APP 小程序, UI 设计, web 前端, 原型产品经理, 程序员兼职, 程序员招聘
 
->程序员客栈是领先的程序员自由远程工作平台，未来互联网企业用人方式。提供优秀程序员为您进行网站建设制作、测试运维服务、人工智能AI、大数据区块链、软件开发等优质服务。
+> 程序员客栈是领先的程序员自由远程工作平台，未来互联网企业用人方式。提供优秀程序员为您进行网站建设制作、测试运维服务、人工智能 AI、大数据区块链、软件开发等优质服务。
 
-![倾城之链 - 程序员客栈-领先的程序员自由远程工作平台](https://oss.nicelinks.site/www.proginn.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 程序员客栈-领先的程序员自由远程工作平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.proginn.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[程序员客栈](https://nicelinks.site/redirect?url=https://www.proginn.com/)，领先的程序员自由远程工作平台；它是互联网远程工作中心，程序员的经纪人。其主旨是：“找到靠谱的程序员”，是一个可供程序员发布项目，充分展示自己能力和创意，吸引融资的平台，同时也是用人方一目了然找到靠谱程序员，甚至技术合伙人的可靠平台。
 
@@ -45,9 +45,9 @@
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`效率`](https://nicelinks.site/tags/效率)
 
->uTools 自由集成丰富插件，快速匹配「场景功能」，用完即走。
+> uTools 自由集成丰富插件，快速匹配「场景功能」，用完即走。
 
-![倾城之链 - uTools - 你的生产力工具集](https://oss.nicelinks.site/u.tools.png?x-oss-process=style/png2jpg)
+![倾城之链 - uTools - 你的生产力工具集](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/u.tools.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[uTools](https://nicelinks.site/redirect?url=https://u.tools/) 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。通过快捷键（默认 `alt + space` ）就可以快速呼出这个搜索框。你可以往输入框内粘贴文本、图片、截图、文件、文件夹等等，能够处理此内容的插件也早已准备就绪，统一的设计风格和操作方式，助你高效的得到结果。一旦你熟悉它后，能够为你节约大量时间，即用即走、不中断、无干扰，让你可以更加专注地改变世界。
 
@@ -61,9 +61,9 @@
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`开发者`](https://nicelinks.site/tags/开发者) · [`工具`](https://nicelinks.site/tags/工具)
 
->Discover and Share Your Indie Tool Kits! Curated list of tools indie game developers and artists use.
+> Discover and Share Your Indie Tool Kits! Curated list of tools indie game developers and artists use.
 
-![倾城之链 - Indie Kit Space](https://oss.nicelinks.site/www.indiekit.space.png?x-oss-process=style/png2jpg)
+![倾城之链 - Indie Kit Space](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.indiekit.space.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Indie Kit Space](https://nicelinks.site/redirect?url=https://www.indiekit.space/) 独立游戏开发者和艺术家使用的工具精选列表；如果你对游戏开发者常用的工具感到好奇，在这里，您可以发现并分享您的独立工具包。该网站对所收录的内容，打了不同标签，如艺术、引擎、框架、声音等等；当然，您也可以通过检索，来查找您需要的工具。另外，值得一提的是，该站点是使用 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 和 Fruitionsite 创建的，没有代码。
 
@@ -75,9 +75,9 @@
 
 **关键字**：头脑风暴, 会议, 白板, 在线白板, 团队协作, 团队管理, 便签, 便利贴, 在线教育, 线上教育, 远程团队协作, 文档共享
 
->比幕鱼是一款团队协作在线白板工具。团队可以使用比幕鱼团队协作在线白板工具进行头脑风暴、远程会议、文档管理、资料共享、产品评审、设计评审等团队协作。无需下载，打开浏览器即可使用，快速高效地提供团队协作服务。
+> 比幕鱼是一款团队协作在线白板工具。团队可以使用比幕鱼团队协作在线白板工具进行头脑风暴、远程会议、文档管理、资料共享、产品评审、设计评审等团队协作。无需下载，打开浏览器即可使用，快速高效地提供团队协作服务。
 
-![倾城之链 - 比幕鱼-团队协作在线白板](https://oss.nicelinks.site/bimuyu.tech.png?x-oss-process=style/png2jpg)
+![倾城之链 - 比幕鱼-团队协作在线白板](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bimuyu.tech.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)可以理解为一个在线白板，让你可以随时随地组织你、或者你们团队的想法；可以进行头脑风暴、远程会议、文档管理、资料共享、产品评审、设计评审等团队**协作**。创意是不应该受到限制的。因此[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)尽可能地减少了规则对于自由的束缚，仅仅提供工具和元素，让您可以最大限度地去发散自己的创意。相比于生活中的白板，[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)官方称，有以下优势：
 
@@ -95,16 +95,15 @@
 
 值得一提的是，相较于其他白板工具（如 [Excalidraw](https://nicelinks.site/post/5f819f32cda9de27bd93a922)），[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)有些其他优势，如：内置各种类型模版；支持创建「文件夹」；可以添加**便签**和**批注**；整个页面可以有多个模版，可随意拖动调整等等。
 
-
 ── 出自[倾城之链 - 比幕鱼-团队协作在线白板](https://nicelinks.site/post/60c8953e125d9905c97b410a)
 
 ## [⚡ Marketer Crew — Subscribe for Free ✅](https://nicelinks.site/post/60c82768125d9905c97b4108)
 
 **标签**：[`营销`](https://nicelinks.site/tags/营销) · [`增长黑客`](https://nicelinks.site/tags/增长黑客) · [`新闻`](https://nicelinks.site/tags/新闻)
 
->Bite-sized growth marketing lessons in your inbox. Get the weekly email that makes marketing actually enjoyable. Stay informed on the latest news, tools, and insights, for free.
+> Bite-sized growth marketing lessons in your inbox. Get the weekly email that makes marketing actually enjoyable. Stay informed on the latest news, tools, and insights, for free.
 
-![倾城之链 - ⚡ Marketer Crew — Subscribe for Free ✅](https://oss.nicelinks.site/marketercrew.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - ⚡ Marketer Crew — Subscribe for Free ✅](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/marketercrew.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[**Marketer Crew**](https://nicelinks.site/redirect?url=https://marketercrew.com/)是面向营销人员和独立制作人的每周时事通讯。每个星期一和星期四，您都会收到一封电子邮件，让营销变得真正有趣。还可以免费了解最新的新闻、工具和见解。关注它，您可以收获什么呢，大致有以下内容：
 
@@ -139,7 +138,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

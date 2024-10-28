@@ -8,7 +8,7 @@
 
 > An open source machine learning framework that accelerates the path from research prototyping to production deployment.
 
-![倾城之链 - PyTorch | From Research To Production](https://oss.nicelinks.site/pytorch.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - PyTorch | From Research To Production](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pytorch.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[PyTorch](https://nicelinks.site/redirect?url=https://pytorch.org/) ，一种开源[机器学习](https://nicelinks.site/tags/机器学习)框架，可加速从研究原型设计到生产部署的过程（类似框架有：[TensorFlow](https://nicelinks.site/post/60631f14bffb5e532f3be248) 等）。PyTorch 是一个 Python 包，提供两个高级功能：1）具有强大 GPU 加速功能的 Python 中的张量和动态神经网络；2）建立在基于磁带的 autograd 系统上的深度神经网络；其主要特性和功能有：
 
@@ -38,7 +38,7 @@ PyTorch 在主要的云平台上得到很好的支持，提供无摩擦的开发
 
 > Meteor is an open-source platform for web, mobile, and desktop used by over half a million developers around the globe. Meteor makes shipping Javascript applications efficient and scalable. Sign up for your free Meteor Cloud account today!
 
-![倾城之链 - Meteor Software: A Platform to Build, Host, Deploy and Scale Full-Stack Javascript Applications](https://oss.nicelinks.site/www.meteor.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Meteor Software: A Platform to Build, Host, Deploy and Scale Full-Stack Javascript Applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meteor.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Meteor](https://nicelinks.site/redirect?url=https://www.meteor.com/) 是一个开源平台，用于在 Javascript 或 TypeScript 中无缝构建和部署 Web、移动和桌面应用程序；它是一个用于构建**现代**Web 应用程序的**超简单环境**。**为什么选择 Meteor.js**？官方给出以下理由：
 
@@ -64,7 +64,7 @@ Meteor.js 可与 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)�
 
 > 独立开发变现人物志、产品周刊、工具集。
 
-![倾城之链 - 让小产品的变现更简单 - ezindie.com](https://oss.nicelinks.site/www.ezindie.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 让小产品的变现更简单 - ezindie.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ezindie.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ezindie.com](https://nicelinks.site/redirect?url=https://www.ezindie.com/) ，收录独立开发变现人物志、产品周刊、工具集的网站；旨在为感兴趣朋友带来关于独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利。
 
@@ -80,7 +80,7 @@ Easy Indie，让小产品的独立变现更简单，如果对**副业收入**或
 
 > A rugged, minimal framework for composing behavior directly in your markup.
 
-![倾城之链 - Alpine.js | Your new, lightweight, JavaScript framework.](https://oss.nicelinks.site/alpinejs.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Alpine.js | Your new, lightweight, JavaScript framework.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/alpinejs.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Alpine.js](https://nicelinks.site/redirect?url=https://alpinejs.dev/) 一款新的、轻量级的、强大的 JavaScript 框架；它是一个坚固的、最小的工具，用于直接在您的标记中组合行为。你可以把它想象成现代网络的 jQuery，放入脚本标签即可开始。
 
@@ -94,7 +94,7 @@ Alpine 是**15 个属性**、**6 个属性**和**2 个方法**的集合，通过
 
 > 诗词汇是一个中国传统文化数字平台，收集并整理了历史上各朝代的诗词名句和典籍名著.详细的注释翻译，诗词古文一读就懂.诗词汇致力于让更多的人爱上诗词古文，传承国学经典."
 
-![倾城之链 - 诗词汇-收集诗词名句-经典名著-传承国学经典](https://oss.nicelinks.site/www.shicihui.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 诗词汇-收集诗词名句-经典名著-传承国学经典](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.shicihui.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[诗词汇](https://nicelinks.site/redirect?url=https://www.shicihui.com/) 是一个中国传统文化数字平台，收集并整理了历史上各朝代的诗词名句、典籍名著、详细的注释、翻译、鉴赏、创作背景；此外还会根据诗文，提供有**猜你喜欢**模块儿。[诗词汇](https://nicelinks.site/redirect?url=https://www.shicihui.com/) 有分为：`推荐`、`名句`、`诗词`、`诗人`、`古籍` 等，除了网站之外，提供有 APP（Android、iOS），助您发现诗词之美。
 
@@ -133,7 +133,7 @@ Alpine 是**15 个属性**、**6 个属性**和**2 个方法**的集合，通过
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

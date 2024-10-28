@@ -8,7 +8,7 @@
 
 > PS 在线图片编辑器是一个专业精简的在线 ps 图片照片制作处理软件工具，绿色免安装，免下载，直接在浏览器打开就可用它修正，调整和美化图像。
 
-![倾城之链 - 【在线PS软件】在线PS图片（照片）处理工具_在线制作编辑图片ps精简版](https://oss.nicelinks.site/www.uupoop.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 【在线PS软件】在线PS图片（照片）处理工具_在线制作编辑图片ps精简版](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.uupoop.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[稿定 UUPOOP](https://nicelinks.site/redirect?url=https://www.uupoop.com/)，是一款在线图片编辑器，是专业精简的在线 PS 图片照片制作处理软件工具，旨在让设计更简单。UUPOOP 隶属稿定（厦门）科技有限公司（创建于 2010 年）。稿定设计，具备以下四大核心能力：
 
@@ -40,7 +40,7 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 
 > Cusdis is an open-source, lightweight (~5kb gzipped), privacy-first alternative to Disqus. It's super easy to use and integrate with your existed website
 
-![倾城之链 - Cusdis - Lightweight, privacy-first, open-source comment system](https://oss.nicelinks.site/cusdis.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Cusdis - Lightweight, privacy-first, open-source comment system](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cusdis.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Cusdis](https://nicelinks.site/redirect?url=https://cusdis.com/) ，是一款开源评论系统；它 Disqus 的开源、轻量级（约 5kb gzipped）、隐私优先的**替代品**。它非常易于使用并与您现有的网站集成，而且不会跟踪您和您的用户。除了免费使用外，还具有以下功能特色：
 
@@ -75,7 +75,7 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 > A complete, cross-platform solution to record, convert and stream audio and video.
 
 ![倾城之链 - 
-FFmpeg](https://oss.nicelinks.site/ffmpeg.org.png?x-oss-process=style/png2jpg)
+FFmpeg](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ffmpeg.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [FFmpeg](https://nicelinks.site/redirect?url=https://ffmpeg.org/)，一个完整的跨平台解决方案（一个库和工具的集合），用于录制、转换和流式传输音频、视频、字幕等多媒体内容。它是领先的多媒体框架，能够解码、编码、 转码、复用、解复用、流、过滤，以及播放几乎所有人类和机器创建的东西。它支持最模糊的古老格式，直到最前沿。无论它们是由某个标准委员会、社区还是公司设计的。它还具有高度的可移植性：FFmpeg 可以 在各种构建环境、机器架构和配置，横跨 Linux、Mac OS X、Microsoft Windows、BSD、Solaris 等编译、运行。它包含可供应用程序使用的 libavcodec、libavutil、libavformat、libavfilter、libavdevice、libswscale 和 libswresample。还有 ffmpeg、ffplay 和 ffprobe 可供最终用户**转码**和**播放**。
 
@@ -100,7 +100,7 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 > NOWNESS 是一个横跨时尚与美容，美食与旅行，艺术与设计，音乐，文化五大栏目的全球创意生活短片平台。
 
-![倾城之链 - NOWNESS 现在](https://oss.nicelinks.site/www.nowness.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - NOWNESS 现在](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nowness.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[NOWNESS](https://nicelinks.site/redirect?url=https://www.nowness.cn/) 是一个分享创意生活短片的平台，涉及时尚与美容，美食与旅行，艺术与设计，音乐，文化等五大栏目。NOWNESS 创立于 2010 年，它注重发掘叙事中的独特创意和体验，拥抱日常点滴中的新奇与不凡。凭借其独树一帜的栏目策划，成为灵感与影响力的汇集地，内容囊括艺术、设计、时尚、美容、音乐、美食和旅行各个方面。他们与全球杰出的艺术家和电影人合作，以独特的审美情趣和呈现方式，为你提供极富新意的叙事体验，激发日常生活中的灵感与思考。
 
@@ -116,7 +116,7 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 > 图灵社区成立于 2005 年 6 月，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、电子电气、数学统计、科普等，通过引进国际高水平的教材、专著，以及发掘国内优秀原创作品等途径，为目标读者提供一流的内容。
 
-![倾城之链 - 图灵社区](https://oss.nicelinks.site/www.ituring.com.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 图灵社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ituring.com.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[图灵社区](https://nicelinks.site/redirect?url=https://www.ituring.com.cn/) 基于 [Vue](<[https://nicelinks.site/post/5b1a221c0526c920d6dfaada](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)>) 等框架搭建而成；它隶属北京图灵文化发展有限公——成立于 2005 年 6 月，由人民邮电出版社投资控股，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、数学统计、科普等，公司以促进科技发展为己任，通过引进国际高水平的图书，以及发掘国内优秀原创作品等手段，为目标读者提供一流的内容。您可以在这里找到计算机、科普、设计、经营管理、专业数学、个人技能、心理学、电子通信等类型的图书，不过，暂不支持在线阅读（需要登录解锁 🔓）。如果，您从事 IT 或即将从事 IT 行业，`图灵社区`，可以考虑关注下。
 
@@ -128,7 +128,7 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 > iTerm2 is a replacement for Terminal and the successor to iTerm
 
-![倾城之链 - iTerm2 - macOS Terminal Replacement](https://oss.nicelinks.site/iterm2.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - iTerm2 - macOS Terminal Replacement](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iterm2.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[iTerm2](https://nicelinks.site/redirect?url=https://iterm2.com/)，是 Terminal 的替代品，也是 iTerm 的继任者。它适用于装有 macOS 10.14 或更高版本的 Mac。iTerm2 将终端带入现代时代，具有您从未知道您一直想要的功能。
 

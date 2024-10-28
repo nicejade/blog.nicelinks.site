@@ -6,30 +6,30 @@
 
 **标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`开源`](https://nicelinks.site/tags/开源)
 
->Auto-GPT：The official news & updates site for Auto-GPT. Explore the new frontier of autonomous AI and try the fastest growing open source project in the history of GitHub for yourself. Download from GitHub Join us on Discord.
+> Auto-GPT：The official news & updates site for Auto-GPT. Explore the new frontier of autonomous AI and try the fastest growing open source project in the history of GitHub for yourself. Download from GitHub Join us on Discord.
 
-![倾城之链 - Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous](https://oss.nicelinks.site/agpt.co.png?x-oss-process=style/png2jpg)
+![倾城之链 - Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/agpt.co.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 是一个实验性 [开源](https://nicelinks.site/tags/开源) 应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM（Large Language Model：大语言模型） 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 [AI](https://nicelinks.site/tags/AI) 的可能性界限。官方描述它具有以下特征：
 
-- 🌐用于搜索和信息收集的 Internet 访问；
-- 💾长期和短期记忆管理；
-- 🧠用于文本生成的 GPT-4 实例；
-- 🔗访问流行的网站和平台；
-- 🗃️使用 GPT-3.5 进行文件存储和汇总；
-- 🔌插件的可扩展性；
+- 🌐 用于搜索和信息收集的 Internet 访问；
+- 💾 长期和短期记忆管理；
+- 🧠 用于文本生成的 GPT-4 实例；
+- 🔗 访问流行的网站和平台；
+- 🗃️ 使用 GPT-3.5 进行文件存储和汇总；
+- 🔌 插件的可扩展性；
 
 关于 [Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 更详尽的介绍：它利用 GPT4 作为大脑，利用 langchain 的链接思想，把 Google 等工具链接起来，以完成人类给予的任务。人类只需要给它设置一个目标，它就会自主规划出任务，并一步步地执行任务。如果在执行任务中遇到问题，会自主地拆解子任务，并一步步地执行。
 
-短短一月时间， [Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 在 Github 获得的 Star 就从三位数，飙升至六位数──123K（2023/05/04）而且在持续上涨中；业界人员更是争相推荐，其火热程度可见一斑；尽管大家认为这只是个开始。
+短短一月时间， [Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 在 Github 获得的 Star 就从三位数，飙升至六位数 ──123K（2023/05/04）而且在持续上涨中；业界人员更是争相推荐，其火热程度可见一斑；尽管大家认为这只是个开始。
 
 ### 如何快速开始
 
 1.  注册并获取 OpenAI [API 密钥](https://platform.openai.com/account/api-keys) ；
 2.  下载 [Auto-GPT 最新版本](https://github.com/Significant-Gravitas/Auto-GPT/releases/latest) 代码；
 3.  按照 [Auto-GPT 安装说明进行操作](https://docs.agpt.co/setup/) ；
-5.  配置您想要的任何附加功能，或安装一些 [插件](https://docs.agpt.co/plugins/) ；
-6.  [按照 Auto GPT 文档运行](https://docs.agpt.co/usage/) 应用；
+4.  配置您想要的任何附加功能，或安装一些 [插件](https://docs.agpt.co/plugins/) ；
+5.  [按照 Auto GPT 文档运行](https://docs.agpt.co/usage/) 应用；
 
 请参阅 [Auto GPT 文档](https://docs.agpt.co/) 以获取完整的设置说明和配置选项。
 
@@ -41,10 +41,10 @@
 - 人最厉害的是什么？思考并使用各种工具。
 - 怎么使用工具？让 LLM 来当总指挥调用其他的 API 工具。
 - 在哪儿找到工具？
-    - 搜索：可以用 Google、Bing 等搜索；
-    - 学习：靠观察 Google 的结果自己进行分析推理；
-    - 记忆：可以用向量数据库，有了记忆就可以 Reflection，解决 LLM 的单向输出问题；
-    - 干活：充分利用网络现成 API、工具、 [HuggingFace](https://nicelinks.site/redirect?url=https://huggingface.co/) 上成熟模型等；
+  - 搜索：可以用 Google、Bing 等搜索；
+  - 学习：靠观察 Google 的结果自己进行分析推理；
+  - 记忆：可以用向量数据库，有了记忆就可以 Reflection，解决 LLM 的单向输出问题；
+  - 干活：充分利用网络现成 API、工具、 [HuggingFace](https://nicelinks.site/redirect?url=https://huggingface.co/) 上成熟模型等；
 
 AutoGPT 所做的事情就是把电脑的控制权、向量空间的云存储、各种工具的 API 交给了 AI。
 
@@ -80,9 +80,9 @@ python scripts/main.py --gpt3only
 
 **关键字**：Next.js, React, Tailwind CSS, Server Components, Radix UI
 
->An open source application built using the new router, server components and everything new in Next.js 13.
+> An open source application built using the new router, server components and everything new in Next.js 13.
 
-![倾城之链 - Taxonomy | 使用 Next.js 13 服务器组件构建的示例应用程序](https://oss.nicelinks.site/tx.shadcn.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Taxonomy | 使用 Next.js 13 服务器组件构建的示例应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tx.shadcn.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Taxonomy](https://nicelinks.site/redirect?url=https://tx.shadcn.com/) ，使用 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 13 服务器组件构建的示例应用程序，该项目是一个实验，旨在了解具有身份验证、订阅、API 路由和静态页面等功能的现代应用程序如何在 Next.js 13 应用程序目录中工作。它具有以下特征：
 
@@ -101,9 +101,9 @@ Taxonomy 还包括一个博客和一个使用 [Contentlayer](https://www.content
 
 **标签**：[`问卷调查`](https://nicelinks.site/tags/问卷调查) · [`免费`](https://nicelinks.site/tags/免费) · [`在线`](https://nicelinks.site/tags/在线)
 
->Tally is the simplest way to create free forms & surveys. Create any type of form in seconds, without knowing how to code, and for free.
+> Tally is the simplest way to create free forms & surveys. Create any type of form in seconds, without knowing how to code, and for free.
 
-![倾城之链 - Free Online Form Builder | Tally](https://oss.nicelinks.site/tally.so.png?x-oss-process=style/png2jpg)
+![倾城之链 - Free Online Form Builder | Tally](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tally.so.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tally](https://nicelinks.site/redirect?url=https://tally.so/) ，免费在线表单生成器；它是创建免费表单和问卷调查的最简单方法。在几秒钟内创建任何类型的表单，不需要懂得编码，即可免费使用；它提供强大的功能，譬如：无限形式、无限提交、收款、上传文件、自定义“谢谢”页面、电子邮件通知、完成时重定向、形式逻辑、计算器、隐藏字段、回答管道、安排一个截止日期、关闭提交限制、自定义关闭消息、概念整合、空气表整合、Zapier 集成、进行整合、谷歌表格集成、网络钩子等等。 [Tally](https://nicelinks.site/redirect?url=https://tally.so/) 具有以下功能特征：
 
@@ -131,9 +131,9 @@ Taxonomy 还包括一个博客和一个使用 [Contentlayer](https://www.content
 
 **标签**：[`教育`](https://nicelinks.site/tags/教育) · [`AI`](https://nicelinks.site/tags/AI) · [`学习`](https://nicelinks.site/tags/学习)
 
->Learn the skills to start or advance your AI career | World-class education | Hands-on training | Collaborative community of peers and mentors
+> Learn the skills to start or advance your AI career | World-class education | Hands-on training | Collaborative community of peers and mentors
 
-![倾城之链 - DeepLearning.AI: Start or Advance Your Career in AI](https://oss.nicelinks.site/www.deeplearning.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - DeepLearning.AI: Start or Advance Your Career in AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.deeplearning.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[DeepLearning.AI](https://nicelinks.site/redirect?url=https://www.deeplearning.ai/) 是一家教育技术公司，通过世界一流的教育、实践培训和协作社区，让全球员工能够构建人工智能驱动的未来。该品牌由 [机器学习](https://nicelinks.site/tags/机器学习) 和教育先驱吴恩达于 2017 年创立，旨在满足世界级人工智能教育的需求。
 
@@ -147,11 +147,11 @@ DeepLearning.AI 提供的课程有： [面向开发人员的 ChatGPT 提示工�
 
 **标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`TypeScript`](https://nicelinks.site/tags/TypeScript) · [`开源`](https://nicelinks.site/tags/开源)
 
->Prisma is a next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB. It provides type-safety, automated migrations, and an intuitive data model.
+> Prisma is a next-generation Node.js and TypeScript ORM for PostgreSQL, MySQL, SQL Server, SQLite, MongoDB, and CockroachDB. It provides type-safety, automated migrations, and an intuitive data model.
 
-![倾城之链 - Prisma | Next-generation ORM for Node.js & TypeScript](https://oss.nicelinks.site/www.prisma.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Prisma | Next-generation ORM for Node.js & TypeScript](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.prisma.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Prisma](https://nicelinks.site/redirect?url=https://www.prisma.io/) ，用于 Node.js 和 TypeScript 的下一代 ORM（Object / Relational Mapping）它可以帮助开发者以更快的开发速度和更少的错误来管理数据库，适用于 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB。由于其直观的数据模型、自动迁移、类型安全和自动完成，Prisma在使用数据库时将**开发人员体验提升到一个新的水平**。Prisma 由以下工具组成：
+**推荐语**：[Prisma](https://nicelinks.site/redirect?url=https://www.prisma.io/) ，用于 Node.js 和 TypeScript 的下一代 ORM（Object / Relational Mapping）它可以帮助开发者以更快的开发速度和更少的错误来管理数据库，适用于 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB。由于其直观的数据模型、自动迁移、类型安全和自动完成，Prisma 在使用数据库时将**开发人员体验提升到一个新的水平**。Prisma 由以下工具组成：
 
 - **Prisma Client**：是一个为您的模式量身定制的查询构建器。Prisma 团队将其 API 设计得非常直观，既适合 SQL 老手，也适合刚接触数据库的开发人员。自动完成功能可帮助您在不需要文档的情况下找出您的查询。
 - **Prisma Migrate**：从您的 Prisma 模式自动生成 SQL 迁移。这些迁移文件是完全可定制的，为您提供从本地开发到生产环境的完全控制和最大的灵活性。
@@ -182,9 +182,9 @@ Prisma 是一款新一代的开源数据库 ORM 工具，旨在提供更好的�
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`AI`](https://nicelinks.site/tags/AI) · [`工具`](https://nicelinks.site/tags/工具)
 
->A curated directory of top AI tools and resources designed to help you streamline processes, boost productivity, and drive innovation.
+> A curated directory of top AI tools and resources designed to help you streamline processes, boost productivity, and drive innovation.
 
-![倾城之链 - AItoolkit - The best AI Tools & Resources Directory](https://oss.nicelinks.site/www.aitoolkit.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - AItoolkit - The best AI Tools & Resources Directory](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aitoolkit.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[AI Tools](https://nicelinks.site/redirect?url=https://www.aitoolkit.org/) ，人工智能（ [AI](https://nicelinks.site/tags/AI) ）工具导航网站：一个精心策划的顶级人工智能工具和资源目录，旨在帮助你简化流程，提高生产力，并推动创新。目前已经汇聚 1400 多个 AI 工具，您可以简单向下滚动查看，也可以通过网站提供的过滤器筛选类别（诸如：图像改善、营销、灵感、文案、翻译、头像、生成代码、动作捕捉、聊天、播客、生成视频、文字转视频等等）；此外， [AI Tools](https://nicelinks.site/redirect?url=https://www.aitoolkit.org/) 有根据网站的付费模型做了区分（免费、免费增值、付费），使得用户可以更快找到匹配工具。该网站目前尚在积极更新迭代中，如果您对其感兴趣，可移步 [AI Tools 推特](https://twitter.com/ai_toolkit) 以了解更多。
 
@@ -194,9 +194,9 @@ Prisma 是一款新一代的开源数据库 ORM 工具，旨在提供更好的�
 
 **标签**：[`产品`](https://nicelinks.site/tags/产品) · [`支付`](https://nicelinks.site/tags/支付) · [`平台`](https://nicelinks.site/tags/平台)
 
->Stripe is a suite of APIs powering online payment processing and commerce solutions for internet businesses of all sizes. Accept payments and scale faster.
+> Stripe is a suite of APIs powering online payment processing and commerce solutions for internet businesses of all sizes. Accept payments and scale faster.
 
-![倾城之链 - Stripe | Payment Processing Platform for the Internet](https://oss.nicelinks.site/stripe.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Stripe | Payment Processing Platform for the Internet](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/stripe.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Stripe](https://nicelinks.site/redirect?url=https://stripe.com/) 是一款在线支付处理平台，旨在为企业提供安全、简单、高效的支付解决方案。Stripe 提供了以下主要功能：
 
@@ -258,7 +258,6 @@ Stripe 和 PayPal 都是知名的在线支付处理平台，它们具有一些�
 
 总之，Stripe 是一款功能强大的在线支付处理平台，为企业提供了安全、简单、高效的支付解决方案。Stripe 支持多种支付方式，提供了订阅和重复付款、跨平台支付、防欺诈保护、数据分析和报告等功能，可以帮助企业更好地管理和发展自己的业务。
 
-
 ── 出自[倾城之链 - Stripe | Payment Processing Platform for the Internet](https://nicelinks.site/post/64524b8ac6f2367a83e85f7e)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
@@ -289,7 +288,7 @@ Stripe 和 PayPal 都是知名的在线支付处理平台，它们具有一些�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

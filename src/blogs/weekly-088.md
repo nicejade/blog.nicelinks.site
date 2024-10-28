@@ -10,7 +10,7 @@
 
 > Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.
 
-![倾城之链 - Tabby - a terminal for a more modern age](https://oss.nicelinks.site/tabby.sh.png?x-oss-process=style/png2jpg)
+![倾城之链 - Tabby - a terminal for a more modern age](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tabby.sh.png?x-oss-process=style/png2jpg)
 
 **推荐语**：Tabby （以前称为 **Terminus** ）是一个**免费的开源** [SSH](https://nicelinks.site/tags/SSH)，串行客户端和终端仿真器，其中包含您所需要的一切；适用于 Windows、macOS 和 Linux；它除了**高度可配置**，还具有以下功能特征：
 
@@ -38,7 +38,7 @@ Tabby 是一个无限可定制的跨平台终端应用程序，用于本地 shel
 
 > Dragonfly - Scalable in-memory datastore made simple
 
-![倾城之链 - Dragonfly](https://oss.nicelinks.site/dragonflydb.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Dragonfly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dragonflydb.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Dragonfly](https://nicelinks.site/redirect?url=https://dragonflydb.io/) （蜻蜓）是一种现代的、可扩展的内存数据存储，与 Redis 和 Memcached API 完全兼容。Dragonfly 在多线程、无共享的体系结构之上实现了新的算法和数据结构。因此，与 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 相比，吞吐量增加了 16 倍，达到 25 倍。，并且在单个实例上支持数百万 QPS。Dragonfly 的核心属性使其成为经济高效、易于使用的 Redis 替代品。它具有以下功能特征：
 
@@ -82,7 +82,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 > 一帧秒创智能 AI 图文转视频创作平台，智能一键百家号、公众号、头条号、搜狐号、新浪微博等图文、文章转视频，为企业及自媒体提供一站式视频生产营销神器，全面提升内容创作效率。
 
-![倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://oss.nicelinks.site/aigc.yizhentv.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aigc.yizhentv.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[一帧秒创](https://nicelinks.site/redirect?url=https://aigc.yizhentv.com/) ，是一个以 AIGC 为基础的效率工具，为图文 [创作者](https://nicelinks.site/tags/创作者) 和营销机构提供一键图文转视频（TTV）服务，通过对优质素材、智能 [AI](https://nicelinks.site/tags/AI) 语音、智能字幕、BGM、LOGO 等匹配设置，无需剪辑，一键成片，零门槛创作视频。它使用非常简单，具体流程如下：
 
@@ -127,7 +127,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 > PICO 成立于 2015 年 3 月，于 2021 年 9 月并入字节跳动。 PICO 以“（为用户）创造全新连接，拓展生活体验，释放无限潜能”作为品牌使命，致力于“成为领先的世界级 XR 平台，成就开发者与创作者，共同为全球消费者创造更美好的生活体验”。
 
-![倾城之链 - PICO 官方网站](https://oss.nicelinks.site/www.picoxr.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - PICO 官方网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.picoxr.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[PICO](https://nicelinks.site/redirect?url=https://www.picoxr.com/) ，智能穿戴设备品牌（该名来源于南美的一种珍稀鸟类）；成立于 2015 年 3 月，于 2021 年 9 月并入「字节跳动」；PICO 以“（为用户）创造全新连接，拓展生活体验，释放无限潜能”作为品牌使命，致力于“成为领先的世界级 XR 平台，成就开发者与创作者，共同为全球消费者创造更美好的生活体验”。
 
@@ -156,7 +156,7 @@ PICO 最新产品更新至 [pico4](https://nicelinks.site/redirect?url=https://w
 
 > Castos is the podcast hosting platform for creators. We give you all the tools to grow your audience and monetize your content.
 
-![倾城之链 - The podcast hosting platform for creators | Castos](https://oss.nicelinks.site/castos.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - The podcast hosting platform for creators | Castos](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/castos.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Castos](https://nicelinks.site/redirect?url=https://castos.com/) 是创作者的播客托管平台。他们为您提供了所有工具来增加您的受众并将您的内容货币化。他们的目标很简单：让 [播客](https://nicelinks.site/tags/播客) 变得容易，让所有人都可以访问。Castos 具有以下功能特征：
 
@@ -186,7 +186,7 @@ Castos 创作团队认为，好奇心、求知欲和不断追求进步与知识�
 
 > 由开发者 Cali 与设计师 Rather 共同主持的「科技双眼啤」，我们是一档对互联网软件硬件从开发与设计不同视角深入探讨的科技播客。
 
-![倾城之链 - 科技双眼啤](https://oss.nicelinks.site/kjsyp.fm.png?x-oss-process=style/png2jpg)
+![倾城之链 - 科技双眼啤](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kjsyp.fm.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[科技双眼啤](https://nicelinks.site/redirect?url=https://kjsyp.fm/) ：「佐声道」出品，开发者 Cali 与设计师 Rather 共同主持的科技`播客`，这是一档对互联网软件硬件从开发与设计不同视角的深入探讨。
 
@@ -224,7 +224,7 @@ Castos 创作团队认为，好奇心、求知欲和不断追求进步与知识�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

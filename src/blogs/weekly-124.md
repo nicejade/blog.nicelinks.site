@@ -8,13 +8,13 @@
 
 **关键字**：File, Transfer, Share, Peer2Peer
 
->Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
+> Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
 
-![倾城之链 - Snapdrop | Open Snapdrop on other devices to send files](https://oss.nicelinks.site/snapdrop.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Snapdrop | Open Snapdrop on other devices to send files](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/snapdrop.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Snapdrop](https://nicelinks.site/redirect?url=https://snapdrop.net/) ，跨设备传输文件的最简单的方式；您可以在其他设备上打开 Snapdrop 来发送文件，即时与附近的人分享图片、视频、 [PDF](hhttps://nicelinks.site/tags/PDF) 和链接。点对点和开放源代码（该网络上的每个人都可以发现您）。无需设置，无需注册。
 
-[Snapdrop](https://nicelinks.site/redirect?url=https://snapdrop.net/) 用于本地文件共享的渐进式 Web 应用程序（ [PWA](https://nicelinks.site/tags/PWA) ），它好比苹果系统下的 AirDrop，不过这个是可以跨多平台的，直接打开就可以使用，适合突然要用一下找不到其他工具的场景。`snapdrop`  使用非常简单，点击「周围用户头像」发送文件，或者右键发送消息。该项目在 [Github 仓库开源](https://github.com/RobinLinus/snapdrop) ，如果您感兴趣，可移步以了解更多。
+[Snapdrop](https://nicelinks.site/redirect?url=https://snapdrop.net/) 用于本地文件共享的渐进式 Web 应用程序（ [PWA](https://nicelinks.site/tags/PWA) ），它好比苹果系统下的 AirDrop，不过这个是可以跨多平台的，直接打开就可以使用，适合突然要用一下找不到其他工具的场景。`snapdrop` 使用非常简单，点击「周围用户头像」发送文件，或者右键发送消息。该项目在 [Github 仓库开源](https://github.com/RobinLinus/snapdrop) ，如果您感兴趣，可移步以了解更多。
 
 ── 出自[倾城之链 - Snapdrop | Open Snapdrop on other devices to send files](https://nicelinks.site/post/649c3d0eaceb051a1d406a2a)
 
@@ -22,9 +22,9 @@
 
 **标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`编码`](https://nicelinks.site/tags/编码) · [`协作`](https://nicelinks.site/tags/协作)
 
->Code at the speed of thought. Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+> Code at the speed of thought. Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-![倾城之链 - Zed - Code at the speed of thought](https://oss.nicelinks.site/zed.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Zed - Code at the speed of thought](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zed.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Zed](https://nicelinks.site/redirect?url=https://zed.dev/) 是一款高性能、多人代码 [编辑器](https://nicelinks.site/tags/编辑器) ，由 [Atom](https://nicelinks.site/post/5af314ad979f626ea3d37912) 和 Tree-sitter 的创建者开发，其口号是：**以思维速度编写代码**。高效的编码从不妨碍您的工具开始。Zed 将 IDE 的强大功能与轻量级编辑器的响应能力相结合，让您触手可及的生产力。它具有如下功能特征：
 
@@ -86,11 +86,11 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 **来自 Zed 团队的原语**：
 
->我们是 Zed Industries，是一个充满激情的小团队，我们的使命是为您和您的团队打造世界上最好的文本编辑器。
+> 我们是 Zed Industries，是一个充满激情的小团队，我们的使命是为您和您的团队打造世界上最好的文本编辑器。
 >
->Zed 不是我们的第一位编辑。这是十多年来为开发人员构建工具的经验的结晶。我们创建了可破解的文本编辑器 [Atom](https://nicelinks.site/post/5af314ad979f626ea3d37912) ，以及推出全新一代桌面应用程序 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 的开创性软件平台。我们还构建了 [Tree-sitter](https://github.com/tree-sitter/tree-sitter) ，这是世界上最受欢迎的编辑器使用的高级语法解析框架。构建重要的工具是我们的 DNA。
+> Zed 不是我们的第一位编辑。这是十多年来为开发人员构建工具的经验的结晶。我们创建了可破解的文本编辑器 [Atom](https://nicelinks.site/post/5af314ad979f626ea3d37912) ，以及推出全新一代桌面应用程序 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 的开创性软件平台。我们还构建了 [Tree-sitter](https://github.com/tree-sitter/tree-sitter) ，这是世界上最受欢迎的编辑器使用的高级语法解析框架。构建重要的工具是我们的 DNA。
 >
->现在，我们正以同样的动力和新的愿景再次打造新的东西。我们相信最好的软件是手工制作的，并且对细节有着无与伦比的关注。我们相信，当软件开发具有共享体验时，效果会更好。我们相信有更好的方法来编写软件——而这只是冒险的开始。
+> 现在，我们正以同样的动力和新的愿景再次打造新的东西。我们相信最好的软件是手工制作的，并且对细节有着无与伦比的关注。我们相信，当软件开发具有共享体验时，效果会更好。我们相信有更好的方法来编写软件——而这只是冒险的开始。
 
 截止 2023 年 06 月 27 日，Zed 尚处于测试阶段；从 [Zed 官方博客宣布的信息](https://zed.dev/blog/open-sourcing-zed-on-zed) ，他们的目标不仅止于高效编 [发布于 2023-03-15 09:41](https://www.zhihu.com/question/589047907/answer/2936894805) 辑代码，而是正在为软件工程师建立一个交流平台，目标是能够随时就任何文本进行对话，如此开发者就可以谈论代码而不必担心版本控制；可见 Zed 团队野心勃勃。
 
@@ -104,15 +104,15 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 **关键字**：1024Code, IDE, 编程, AI, AIGC, 轻协同
 
->用 1024Code, 让编程重回乐趣
+> 用 1024Code, 让编程重回乐趣
 
-![倾城之链 - 1024Code | 轻松创造自己的代码作品](https://oss.nicelinks.site/1024code.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 1024Code | 轻松创造自己的代码作品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1024code.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[1024Code](https://nicelinks.site/redirect?url=https://1024code.com/) ：一个轻协同 [IDE](https://nicelinks.site/tags/IDE) 环境，集成了 AI 编程助手、编程社区，无需安装环境，任何设备，开箱即用。**1024Code** 提供一个免费的、协作式的、基于浏览器的 `IDE` 环境，支持 `10` 多种编程语言，支持 `Spring` 、`Vue` 、`React` 等框架，还支持很多图形库，并集成了 AI 编程助手、编程社区。拥有无需安装环境，任何设备开箱即用的特性，是刚入门的程序员学习编程，与朋友一起创造作品，分享交流的最佳选择。它主要有以下功能：
+**推荐语**：[1024Code](https://nicelinks.site/redirect?url=https://1024code.com/) ：一个轻协同 [IDE](https://nicelinks.site/tags/IDE) 环境，集成了 AI 编程助手、编程社区，无需安装环境，任何设备，开箱即用。**1024Code**  提供一个免费的、协作式的、基于浏览器的  `IDE`  环境，支持  `10`  多种编程语言，支持  `Spring` 、`Vue` 、`React`  等框架，还支持很多图形库，并集成了 AI 编程助手、编程社区。拥有无需安装环境，任何设备开箱即用的特性，是刚入门的程序员学习编程，与朋友一起创造作品，分享交流的最佳选择。它主要有以下功能：
 
-- **在线多人协作**：类似腾讯文档等在线协作文档的协作功能体验，`1024Code` 支持用户邀请多人同时加入一个代码空间实时协作编程。
+- **在线多人协作**：类似腾讯文档等在线协作文档的协作功能体验，`1024Code`  支持用户邀请多人同时加入一个代码空间实时协作编程。
 - **在线分享**：分享代码空间链接，打开可查看项目文件并运行的“副本”代码空间。
-- **AI 编程助手**：使用在线协同 `IDE` 和 `AI` 编程助手互动，快速解答疑问、完成重复性质的编码工作。
+- **AI 编程助手**：使用在线协同  `IDE`  和  `AI`  编程助手互动，快速解答疑问、完成重复性质的编码工作。
 - **Git 版本管理**：`Git Commit`，管理你的代码版本。
 - **数据库**：免费的云端数据库，代码空间的最佳搭档。
 
@@ -124,9 +124,9 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 **标签**：[`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`React`](https://nicelinks.site/tags/React)
 
->Futuristic Sci-Fi UI Web Framework.
+> Futuristic Sci-Fi UI Web Framework.
 
-![倾城之链 - Arwes | Futuristic Sci-Fi UI Web Framework](https://oss.nicelinks.site/arwes.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Arwes | Futuristic Sci-Fi UI Web Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/arwes.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Arwes](https://nicelinks.site/redirect?url=https://arwes.dev/) 是一个 Web 框架，用于构建基于未来科幻小说设计、动画和声音效果的用户界面。其背后的概念受到了 Cyber​​prep 和 Synthwave 以及 《Star Citizen》、 《Halo》以及《TRON: Legacy.》等作品的影响。它试图激发先进的科学技术。
 
@@ -142,9 +142,9 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 **标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
 
->Thousands of developers use Medusa’s open-source, NodeJS, e-commerce modules to build rich, reliable, and performant commerce applications without reinventing core commerce logic.
+> Thousands of developers use Medusa’s open-source, NodeJS, e-commerce modules to build rich, reliable, and performant commerce applications without reinventing core commerce logic.
 
-![倾城之链 - Medusa - Building blocks for digital commerce](https://oss.nicelinks.site/medusajs.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Medusa - Building blocks for digital commerce](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/medusajs.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Medusa](https://nicelinks.site/redirect?url=https://medusajs.com/) 是一组商务模块和工具，可让您构建丰富、可靠且高性能的商务应用程序，而无需重新发明核心商务逻辑。这些模块可以定制并用于构建高级电子商务商店、市场或任何需要基础商务原语的产品。所有模块都是 [开源](https://nicelinks.site/tags/开源) 的，可以在 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上免费获得。它具有如下功能特征：
 
@@ -184,9 +184,9 @@ Medusa 的模块已获得 MIT 许可，以确保您完全控制您的商业堆�
 
 **标签**：[`React`](https://nicelinks.site/tags/React) · [`组件库`](https://nicelinks.site/tags/组件库) · [`TypeScript`](https://nicelinks.site/tags/TypeScript)
 
->React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience
+> React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience
 
-![倾城之链 - Mantine | A fully featured React components library](https://oss.nicelinks.site/mantine.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mantine | A fully featured React components library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mantine.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mantine](https://nicelinks.site/redirect?url=https://mantine.dev/) ，功能齐全的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件库；比以往更快地构建功能齐全、可访问的 Web 应用程序，Mantine 包括 100 多个可定制组件和 50 个挂钩，可满足您在任何情况下的需求；它具有如下功能特征：
 
@@ -230,9 +230,9 @@ Mantine 基于 Emotion👩‍🎤，利用核心 Emotion 功能：自动供应�
 
 **标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`测试`](https://nicelinks.site/tags/测试) · [`框架`](https://nicelinks.site/tags/框架)
 
->Write, update, and run your Mobile UI tests in minutes, instead of days.
+> Write, update, and run your Mobile UI tests in minutes, instead of days.
 
-![倾城之链 - mobile.dev - Maestro, Maestro Studio, Maestro Cloud](https://oss.nicelinks.site/www.mobile.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - mobile.dev - Maestro, Maestro Studio, Maestro Cloud](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mobile.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Maestro](https://nicelinks.site/redirect?url=https://www.mobile.dev/) 是最简单、最有效的移动 UI 测试框架，只需几分钟（而不是几天）即可编写、更新和运行 UI 测试。**为什么是 Maestro**？Maestro 基于其前身（Appium、Espresso、UIAutomator、XCTest）的经验而构建，可让您轻松定义和测试您的流程：
 
@@ -272,7 +272,7 @@ appId: com.android.contacts
 
 ## 本期文末寄语
 
-俭，美德也，过则为悭吝，为鄙啬，反伤雅道；让，懿行也，过则为足恭，为曲谨，多出机心。**藏巧于拙，用晦而明，寓清于浊，以屈为伸**。── 明代 ·  陈继儒《小窗幽记·集醒篇》
+俭，美德也，过则为悭吝，为鄙啬，反伤雅道；让，懿行也，过则为足恭，为曲谨，多出机心。**藏巧于拙，用晦而明，寓清于浊，以屈为伸**。── 明代 · 陈继儒《小窗幽记·集醒篇》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -295,7 +295,7 @@ appId: com.android.contacts
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

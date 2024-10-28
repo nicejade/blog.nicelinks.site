@@ -10,7 +10,7 @@
 
 > The official home of the Python Programming Language
 
-![倾城之链 - Welcome to Python.org](https://oss.nicelinks.site/www.python.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Welcome to Python.org](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.python.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Python](https://nicelinks.site/redirect?url=https://www.python.org/) ，是一种易于学习又功能强大的编程语言，可让您快速工作并更有效地集成系统。它提供了高效的高级数据结构，还能简单有效地面向对象编程。它优雅的语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本，以及快速开发应用的理想语言。
 
@@ -26,7 +26,7 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 > Build an audience by sharing links
 
-![倾城之链 - Nawvel](https://oss.nicelinks.site/nawvel.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Nawvel](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nawvel.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Nawvel](https://nicelinks.site/redirect?url=https://nawvel.com/)，是一个创新型社区，即由现代图书馆员和合成器更新的图书馆，旨在发现资源集合并建立您的生活手册；他们探究和收录优质资源，从而将优质内容聚合起来，给到社区成员，以达到节省时间的目的。其**初衷**是：如今互联网每天有数百亿的帖子内容，🙃 其中 99.99% 对于用户您来说，都是冗余信息；只有 0.01% 可以改变你的生活。💔 在互联网的混乱中找到优质资源，已经变得非常困难。😭 谷歌搜索是一项技能，很容易在现有平台上陷入自己的推荐循环。因此，[Nawvel](https://nicelinks.site/redirect?url=https://nawvel.com/) 得以建立，它是一个由制作者、创作者和合成器组成的社区。🦍 该团队在官网上，称花费 1000 小时进行研究，花费 1000 美元用于资源，并分享他们发现的最好的东西，来节省您的时间。
 
@@ -48,7 +48,7 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 > Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you want to share your code with anyone or on any social media this is the application you need.
 
-![倾城之链 - Code to Image Converter](https://oss.nicelinks.site/codetoimg.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Code to Image Converter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codetoimg.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Code to Image Converter](https://nicelinks.site/redirect?url=https://codetoimg.com/) 是一个设计精美的应用程序，可帮助您生成漂亮且可自定义的代码片段图像，诸如背景色、模糊程度、阴影、字体、padding、代码行号、编程语言等，都是可以自行调节的。这是由开发人员为开发人员构建的。如果您想与任何人或在任何社交媒体上共享您的代码，这就是您需要的应用程序。值得一提的是，该项目在 [Github 开源](https://nicelinks.site/redirect?url=https://github.com/rohidisdev/code-to-img)，您可以基于 Docker 或 Docker-compose 快速将其部署于自己的服务器。同类的产品还有 [Carbon](https://nicelinks.site/post/5a92df875894d742c4050c90)、[ray.so](https://nicelinks.site/post/609d1c43a0289c0663f94dc4)，基于这样的小工具，可帮助创建和分享源代码美丽图像，在写 PPT 时，用来展示关键代码，非常实用。
 
@@ -62,7 +62,7 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 > 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 
-![倾城之链 - Fengari](https://oss.nicelinks.site/fengari.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Fengari](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fengari.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Fengari](https://nicelinks.site/redirect?url=http://fengari.io/) ，（希腊文中的月亮 🌛Moon）是用 JavaScript 编写的 [Lua](https://nicelinks.site/post/62837dc52dba1c5d9dce1f73) VM，以浏览器为主要目标（当然也可以用于 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) ）。它使用 JavaScript 的垃圾收集器，因此与 DOM 的互操作性是无泄漏的。它带有一个简单的模块，可以使与 JavaScript 和 DOM 的任何交互变得透明：
 
@@ -115,7 +115,7 @@ Fengari 的目标是 100% 符合最新的 Lua 语义。它尽可能接近 Lua �
 
 > Official web site of the Lua language
 
-![倾城之链 - The Programming Language Lua](https://oss.nicelinks.site/www.lua.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - The Programming Language Lua](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.lua.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Lua](https://nicelinks.site/redirect?url=https://www.lua.org/) 是一种轻量小巧的脚本语言。它是巴西里约热内卢天主教大学（Pontifical Catholic University of Rio de Janeiro）里的一个由 Roberto Ierusalimschy、Waldemar Celes 和 Luiz Henrique de Figueiredo 三人所组成的研究小组于 1993 年开发的。用标准 C 语言编写，代码简洁优美，并以源代码形式开放，几乎在所有操作系统和平台上都可以编译，运行。其设计目的是为了通过灵活**嵌入应用程序**中，从而为应用程序提供灵活的扩展和定制功能。Lua 有一个同时进行的 JIT 项目，提供在特定平台上的即时编译功能。Lua 具有一下特性：
 

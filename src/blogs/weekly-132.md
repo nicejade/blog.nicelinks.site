@@ -6,11 +6,11 @@
 
 **标签**：[`知识库`](https://nicelinks.site/tags/知识库) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`应用`](https://nicelinks.site/tags/应用)
 
->A powerful note-taking tool. All your ideas – typed and connected.
+> A powerful note-taking tool. All your ideas – typed and connected.
 
-![倾城之链 - Capacities – A studio for your mind](https://oss.nicelinks.site/capacities.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - Capacities – A studio for your mind](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/capacities.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Capacities](https://nicelinks.site/redirect?url=https://capacities.io/) 是个人 [知识管理](https://nicelinks.site/tags/知识库) 工具，一个思考和创造持久知识的地方；您可以用它来创造令人惊奇的事物，开始专注于对你来说重要的事情。它同时结合了 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 与 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 的优点，具有数据库、双链、云端使用、本地备份等特点，适合愿意花更多时间在输出上，而非调整工作区上的用户。Capacities 支持免费🆓使用，但需要注册帐号；截止 2023 年 08 月，可以在 Web、Windows、Mac 桌面应用等平台使用（手机版正在内测）。
+**推荐语**： [Capacities](https://nicelinks.site/redirect?url=https://capacities.io/) 是个人 [知识管理](https://nicelinks.site/tags/知识库) 工具，一个思考和创造持久知识的地方；您可以用它来创造令人惊奇的事物，开始专注于对你来说重要的事情。它同时结合了 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 与 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 的优点，具有数据库、双链、云端使用、本地备份等特点，适合愿意花更多时间在输出上，而非调整工作区上的用户。Capacities 支持免费 🆓 使用，但需要注册帐号；截止 2023 年 08 月，可以在 Web、Windows、Mac 桌面应用等平台使用（手机版正在内测）。
 
 **Capacities 所有的笔记都是 Object，所有的笔记都有属性**。Capacities 的每一个单位都是一个 Object，可以简单的理解成，每一个单位都是一个独立的个体，它们有属于他们的独立的属性。创建一个 Page 对象，你可以创建人员、书籍、会议以及工作所需的一切对象。每种类型都有其可自定义的属性和独特的设计，以最好地支持你的特定用途。
 
@@ -24,9 +24,9 @@ Capacities 附带了基本类型，如图像、推文、Web 链接或 PDF，它�
 
 **标签**：[`终端`](https://nicelinks.site/tags/终端) · [`Electron`](https://nicelinks.site/tags/Electron) · [`TypeScript`](https://nicelinks.site/tags/TypeScript)
 
->A terminal built on web technologies.
+> A terminal built on web technologies.
 
-![倾城之链 - Hyper™ ｜ An Electron-based terminal](https://oss.nicelinks.site/hyper.is.png?x-oss-process=style/png2jpg)
+![倾城之链 - Hyper™ ｜ An Electron-based terminal](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hyper.is.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Hyper](https://nicelinks.site/redirect?url=https://hyper.is/) 是一个基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 的终端，基于 HTML、CSS、 [TypeScript](https://nicelinks.site/tags/TypeScript) 构建，完全可扩展，支持从命令行安装主题和插件；该项目的目标是为基于开放 Web 标准的命令行界面用户创建美观且可扩展的体验。一开始，他们的重点将主要围绕速度、稳定性以及为扩展作者开发正确的 API。未来，该团队预计社区将提出创新的补充，以增强最简单、最强大且经过充分测试的生产力界面。 [Hyper 在 Github 仓库开源](https://github.com/vercel/hyper) ，截止 2023 年 08 月，已获得 41K+ Star，如果您对该项目感兴趣，可移步前往从而了解更多。
 
@@ -36,13 +36,13 @@ Capacities 附带了基本类型，如图像、推文、Web 链接或 PDF，它�
 
 **标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`在线`](https://nicelinks.site/tags/在线) · [`AI`](https://nicelinks.site/tags/AI)
 
->Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI (powered by Codey and PaLM 2), and full-fidelity app previews, powered by cloud emulators.
+> Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI (powered by Codey and PaLM 2), and full-fidelity app previews, powered by cloud emulators.
 
-![倾城之链 - Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://oss.nicelinks.site/idx.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/idx.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Project IDX](https://nicelinks.site/redirect?url=https://idx.dev/) ：是 Google 于 2023 年 8 月 发布的一个完全基于 Web 的全栈应用程序开发工作区，旨在改善软体开发人员的体验，为他们提供人工智慧工具和功能，以更高效地建构应用程式。
 
- Project IDX 是一种基于浏览器的开发体验，构建在 Google Cloud 上，由 [Codey](https://cloud.google.com/vertex-ai/docs/generative-ai/code/code-models-overview) 提供支持。Codey 是一种基于代码训练并基于 PaLM 2 构建的基础 AI 模型。它旨在让构建、管理和部署全栈 Web 和多平台应用程序变得更加轻松，具有流行的框架和语言。Project IDX 也是基于 [Visual Studio Code](https://github.com/microsoft/vscode) 构建的，因此无论您正在构建什么，它都应该感觉很熟悉。
+Project IDX 是一种基于浏览器的开发体验，构建在 Google Cloud 上，由 [Codey](https://cloud.google.com/vertex-ai/docs/generative-ai/code/code-models-overview) 提供支持。Codey 是一种基于代码训练并基于 PaLM 2 构建的基础 AI 模型。它旨在让构建、管理和部署全栈 Web 和多平台应用程序变得更加轻松，具有流行的框架和语言。Project IDX 也是基于 [Visual Studio Code](https://github.com/microsoft/vscode) 构建的，因此无论您正在构建什么，它都应该感觉很熟悉。
 
 ### Project IDX 项目简介
 
@@ -50,7 +50,7 @@ Project IDX 官网如此介绍道：
 
 > 如今，启动应用程序意味着要应对无尽的复杂性。我们在 Google 感受到了这种痛苦，因此我们启动了 Project IDX，这是一项实验性新计划，旨在将整个全栈、多平台应用程序开发工作流程带到云端。
 >
->IDX 项目从一个基于 Web 的工作区开始，该工作区对于编码来说很熟悉，但又很新鲜。我们才刚刚开始这一旅程。在我们努力改进应用程序开发的过程中，我们希望收到您的意见。
+> IDX 项目从一个基于 Web 的工作区开始，该工作区对于编码来说很熟悉，但又很新鲜。我们才刚刚开始这一旅程。在我们努力改进应用程序开发的过程中，我们希望收到您的意见。
 
 ### Project IDX 功能特征
 
@@ -62,7 +62,7 @@ Project IDX 官网如此介绍道：
 
 虽然今天的软件开发比以往任何时候都更容易实现，但它也更加复杂。Project IDX 已经在探索简化和加速整个工作流程的其他方法，例如更丰富的协作工具、跨环境同步、配对调试、代码审查等，所有这些都由最新的人工智能技术提供支持。
 
-很显然他们或任何工具研发团队都无法独自做到这一点；Project IDX  团队希望在构建 Project IDX 时听到您的意见，并重新构想更好的工作流程来构建、发布和管理应用程序。如果您想成为第一批尝试并提供反馈的人之一，可以考虑加入 Project IDX 候补名单，跟其团队一起改善开发工作流程。
+很显然他们或任何工具研发团队都无法独自做到这一点；Project IDX 团队希望在构建 Project IDX 时听到您的意见，并重新构想更好的工作流程来构建、发布和管理应用程序。如果您想成为第一批尝试并提供反馈的人之一，可以考虑加入 Project IDX 候补名单，跟其团队一起改善开发工作流程。
 
 ── 出自[倾城之链 - Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://nicelinks.site/post/64e74ed5378eb0199b988596)
 
@@ -70,15 +70,15 @@ Project IDX 官网如此介绍道：
 
 **标签**：[`免费`](https://nicelinks.site/tags/免费) · [`健康`](https://nicelinks.site/tags/健康) · [`平台`](https://nicelinks.site/tags/平台)
 
->A small web application to create workouts based on your available equipment and the muscles you want to train.
+> A small web application to create workouts based on your available equipment and the muscles you want to train.
 
-![倾城之链 - Workout.lol | The easiest way to create a workout routine](https://oss.nicelinks.site/workout.lol.png?x-oss-process=style/png2jpg)
+![倾城之链 - Workout.lol | The easiest way to create a workout routine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/workout.lol.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [Workout.lol](https://nicelinks.site/redirect?url=https://workout.lol/) 是一个免费的开源平台，旨在帮助您实现健身目标。 作者是 [Vincent](https://vincentwill.com/) ，这是他创建的小型副业项目。该网站使用了来自很棒的 [MuscleWiki](https://musclewiki.com/) 网站的练习和视频。只需三步即可帮您制定锻炼教程：
 
- - 选择您的设备（杠铃、哑铃、壶铃、长椅、上拉杆等等）；
- - 选择要锻炼的部位（腹肌、胸肌、肱二头肌等等，可多选）；
- - 根据匹配的视频（为您定制），开始着手训练；
+- 选择您的设备（杠铃、哑铃、壶铃、长椅、上拉杆等等）；
+- 选择要锻炼的部位（腹肌、胸肌、肱二头肌等等，可多选）；
+- 根据匹配的视频（为您定制），开始着手训练；
 
 当今社会，太多人因为超长时间工作、不健康娱乐方式、随意性饮食习惯等束缚，而不能正常使用、调理身体，导致处于亚健康，身材也随之走样；根据实际体验，健身房跑路已屡见不鲜，健身教练之骚操更难以枚举；如果您变成型男（女）， [Workout.lol](https://nicelinks.site/redirect?url=https://workout.lol/) 或是您首选平台，简单易用、免费实用。
 
@@ -90,9 +90,9 @@ Project IDX 官网如此介绍道：
 
 **关键字**：tremor, dashboard, charts, data, visualization
 
->Modular components to build insightful dashboards in a breeze.
+> Modular components to build insightful dashboards in a breeze.
 
-![倾城之链 - Tremor – The React library to build dashboards fast](https://oss.nicelinks.site/www.tremor.so.png?x-oss-process=style/png2jpg)
+![倾城之链 - Tremor – The React library to build dashboards fast](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tremor.so.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tremor](https://nicelinks.site/redirect?url=https://www.tremor.so/) ，用于快速构建仪表板的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 库，可让您创建简单的模块化组件，轻松构建富有洞察力的仪表板。完全开源，由数据科学家和软件工程师制作，具有最佳设计优势。Tremor 具有如下功能特征：
 
@@ -118,9 +118,9 @@ Tremor，建议使用 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d
 
 **关键字**：umbrel, umbrell, umbrel home, umbrelOS, umbrelos, umbrel os, home server, self-host, self-hosting self hosted, self hosting, self host, raspberry pi, personal server
 
->Introducing Umbrel Home - a personal home server that gives you the convenience of the cloud, without having to give up your data.
+> Introducing Umbrel Home - a personal home server that gives you the convenience of the cloud, without having to give up your data.
 
-![倾城之链 - Umbrel — The ultimate home server and OS for self-hosting](https://oss.nicelinks.site/umbrel.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Umbrel — The ultimate home server and OS for self-hosting](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/umbrel.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Umbrel](https://nicelinks.site/redirect?url=https://umbrel.com/) 是一个支持 [自托管](https://nicelinks.site/tags/自托管) 的漂亮的个人服务系统，用于文件存储、VPN、媒体服务器、比特币节点等；可以安装在 [Raspberry Pi ｜ 树莓派](https://nicelinks.site/post/5fa54687ac6b5718fc48ac0e) 或任何运行 Linux 的硬件（或云）上。它可以让每个人访问 Nextcloud、Matrix、比特币/闪电节点、Pi-hole、HomeAssistant 等自托管应用程序。
 
@@ -150,7 +150,7 @@ Umbrel 官网写道：**如今，我们所有的数据都存储在大公司拥�
 
 即使基于云的公司面临风暴并关闭，您的家庭服务器也能保护您的数据。
 
-Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了一款名为  `Umbrel Home` 的硬件产品，售价 599 美元。关于 Umbrel，还有很多特点，诸如：无需外部显示器、鼠标或键盘。从浏览器中使用 umbrelOS；Umbrel 有一个完整的应用程序商店，在 Umbrel App Store 中发现令人惊叹的自托管应用程序，并一键安装它们；在任何地方免费安装 umbrelOS，Raspberry Pi、homelab、VM、RockPro、NUC —凡是你能想到的。值得一提的是， [Umbrel 在 Github 仓库开源](https://github.com/getumbrel/umbrel) ，如果您对其感兴趣，不妨前往从而了解更多。
+Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了一款名为 `Umbrel Home` 的硬件产品，售价 599 美元。关于 Umbrel，还有很多特点，诸如：无需外部显示器、鼠标或键盘。从浏览器中使用 umbrelOS；Umbrel 有一个完整的应用程序商店，在 Umbrel App Store 中发现令人惊叹的自托管应用程序，并一键安装它们；在任何地方免费安装 umbrelOS，Raspberry Pi、homelab、VM、RockPro、NUC —凡是你能想到的。值得一提的是， [Umbrel 在 Github 仓库开源](https://github.com/getumbrel/umbrel) ，如果您对其感兴趣，不妨前往从而了解更多。
 
 ── 出自[倾城之链 - Umbrel — The ultimate home server and OS for self-hosting](https://nicelinks.site/post/64e6f4e2378eb0199b987f02)
 
@@ -158,9 +158,9 @@ Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了�
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片)
 
->Trace pixels to vectors in full color using AI.
+> Trace pixels to vectors in full color using AI.
 
-![倾城之链 - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://oss.nicelinks.site/vectorizer.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vectorizer.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Vectorizer.AI](https://nicelinks.site/redirect?url=https://vectorizer.ai/) ，能快速轻松地将 JPEG 和 PNG 位图转换为 SVG 矢量，使用 [AI](https://nicelinks.site/tags/AI) 将像素追踪为全彩矢量。可无限量放大，目前支持的最大图像像素大小为 2 万像素；截止 2023 年 08 月，该网站处于测试版本（测试版期间免费可用）；亲测实用，效果令人满意。
 
@@ -189,15 +189,15 @@ Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了�
 
 作者在官网首页回答了这个问题：
 
->如果我必须选择一件事，那就是人工智能。我们在这个领域已经工作了 15 年，人工智能的加入已经改变了游戏规则。它能够梳理出传统方法遗漏的细节，并在像素数据不明确时做出合理的猜测。我们完全在内部开发了该产品的深度学习模型，并在我们自己的专有数据集上进行了训练。
+> 如果我必须选择一件事，那就是人工智能。我们在这个领域已经工作了 15 年，人工智能的加入已经改变了游戏规则。它能够梳理出传统方法遗漏的细节，并在像素数据不明确时做出合理的猜测。我们完全在内部开发了该产品的深度学习模型，并在我们自己的专有数据集上进行了训练。
 >
->但我们还可以做很多其他事情来更好地清理和改进人工智能矢量化器的输出。这些改进包括拟合整个几何形状、清理角落、切线匹配、曲线平滑等等。我们的矢量图使我们能够在保持形状间一致性的同时进行这些更改，这是我们许多竞争对手的弱点。
+> 但我们还可以做很多其他事情来更好地清理和改进人工智能矢量化器的输出。这些改进包括拟合整个几何形状、清理角落、切线匹配、曲线平滑等等。我们的矢量图使我们能够在保持形状间一致性的同时进行这些更改，这是我们许多竞争对手的弱点。
 >
->我们才刚刚开始。整个网站正在积极开发中，我们正在开发许多令人兴奋的功能。
+> 我们才刚刚开始。整个网站正在积极开发中，我们正在开发许多令人兴奋的功能。
 >
->当您正在寻找在线工具来帮助您将 JPG 或 PNG 转换为矢量时，您会在网络上找到许多选项。其中大多数都基于已经存在了几十年的旧算法，坦率地说，它们的工作效果不是很好。Vectorizer.AI 是一种新的矢量化方法，我们相信您会对结果印象深刻。
+> 当您正在寻找在线工具来帮助您将 JPG 或 PNG 转换为矢量时，您会在网络上找到许多选项。其中大多数都基于已经存在了几十年的旧算法，坦率地说，它们的工作效果不是很好。Vectorizer.AI 是一种新的矢量化方法，我们相信您会对结果印象深刻。
 
- [Vectorizer.AI](https://vectorizer.ai/) 将于 2023 年 9 月 15 日结束测试，届时将开始向 API 客户收取访问费用。届时他们不会开始对基于 Web 的交互式应用程序收费，因此暂时仍可免费以非 API 方式使用。如果您对该应用感兴趣，不妨移步官网体验，从而了解更多。
+[Vectorizer.AI](https://vectorizer.ai/) 将于 2023 年 9 月 15 日结束测试，届时将开始向 API 客户收取访问费用。届时他们不会开始对基于 Web 的交互式应用程序收费，因此暂时仍可免费以非 API 方式使用。如果您对该应用感兴趣，不妨移步官网体验，从而了解更多。
 
 ── 出自[倾城之链 - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://nicelinks.site/post/64e6d61a378eb0199b987c1e)
 
@@ -205,9 +205,9 @@ Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了�
 
 **标签**：[`TypeScript`](https://nicelinks.site/tags/TypeScript) · [`编码`](https://nicelinks.site/tags/编码) · [`开源`](https://nicelinks.site/tags/开源)
 
->Collection of TypeScript type challenges with OJ
+> Collection of TypeScript type challenges with OJ
 
-![倾城之链 - Type Challenges | Collection of TypeScript type challenges with online judge](https://oss.nicelinks.site/tsch.js.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Type Challenges | Collection of TypeScript type challenges with online judge](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tsch.js.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TypeScript Challenge](https://nicelinks.site/redirect?url=https://tsch.js.org/) 带有在线评判的 TypeScript 类型挑战集合；高质量的类型可以帮助提高项目的可维护性，同时避免潜在的错误。有很多很棒的类型实用程序库可以增强您在类型方面的工作，例如 [ts-toolbelt](https://github.com/millsp/ts-toolbelt) 、 [utility-types](https://github.com/piotrwitek/utility-types) 、 [SimplyTyped](https://github.com/andnp/SimplyTyped) 等，您已经可以使用它们了。
 
@@ -219,11 +219,11 @@ TypeScript Challenge 这个项目旨在：**帮助您更好地了解类型系统
 
 **标签**：[`网页设计`](https://nicelinks.site/tags/网页设计) · [`Svelte`](https://nicelinks.site/tags/Svelte) · [`Web开发`](https://nicelinks.site/tags/Web开发)
 
->Digital garden growing curious minds with content related to web development and design.
+> Digital garden growing curious minds with content related to web development and design.
 
-![倾城之链 - Joy of Code | A digital garden growing curious minds](https://oss.nicelinks.site/joyofcode.xyz.png?x-oss-process=style/png2jpg)
+![倾城之链 - Joy of Code | A digital garden growing curious minds](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/joyofcode.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Joy of Code](https://nicelinks.site/redirect?url=https://joyofcode.xyz/) 是一个数字花园，培养专注于网页开发和网页设计的好奇心；该网站基于 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 开发，并分享了些许 Svelte 相关文章。如果您对该往感兴趣，可移步 [Github 开源仓库](https://github.com/mattcroat/joy-of-code)，以便了解更多。作者是来自 🇭🇷克罗地亚的 Matija，他对事物的工作原理无限好奇，但最热衷于 ☕ JavaScript 和 🎨 **UI/UX 设计**。
+**推荐语**：[Joy of Code](https://nicelinks.site/redirect?url=https://joyofcode.xyz/) 是一个数字花园，培养专注于网页开发和网页设计的好奇心；该网站基于 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 开发，并分享了些许 Svelte 相关文章。如果您对该往感兴趣，可移步 [Github 开源仓库](https://github.com/mattcroat/joy-of-code)，以便了解更多。作者是来自 🇭🇷 克罗地亚的 Matija，他对事物的工作原理无限好奇，但最热衷于 ☕ JavaScript 和  🎨 **UI/UX 设计**。
 
 > “Talent is a pursued interest. Anything that you're willing to practice, you can do.”（天赋是一种追求的兴趣。只要你愿意练习，你就能做到）。— Bob Ross。
 
@@ -237,7 +237,7 @@ TypeScript Challenge 这个项目旨在：**帮助您更好地了解类型系统
 
 ## 本期文末寄语
 
-大凡聪明之人，极是误事。何以故，惟聪明生意见，意见一生，便不忍舍割。往往溺于爱河欲海者，皆极聪明之人。  是非不到钓鱼处，荣辱常随骑马人。── 明代 ·  陈继儒《小窗幽记·集醒篇》
+大凡聪明之人，极是误事。何以故，惟聪明生意见，意见一生，便不忍舍割。往往溺于爱河欲海者，皆极聪明之人。 是非不到钓鱼处，荣辱常随骑马人。── 明代 · 陈继儒《小窗幽记·集醒篇》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -259,7 +259,7 @@ TypeScript Challenge 这个项目旨在：**帮助您更好地了解类型系统
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

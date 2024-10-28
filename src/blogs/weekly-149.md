@@ -6,9 +6,9 @@
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`应用`](https://nicelinks.site/tags/应用) · [`服务`](https://nicelinks.site/tags/服务)
 
->Boy (or girl) meets robot.
+> Boy (or girl) meets robot.
 
-![倾城之链 - Digi | AI Romance, Reimagined.](https://oss.nicelinks.site/digi.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Digi | AI Romance, Reimagined.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/digi.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Digi](https://nicelinks.site/redirect?url=https://digi.ai/) ：人工智能，真实浪漫（陪伴型 [AI](https://nicelinks.site/tags/AI) 聊天应用）；这不仅仅是一个聊天机器人，而是对未来浪漫伴侣关系的一次飞跃。Digi 将栩栩如生的互动、令人惊叹的头像以及安全、体贴的连接融为一体。探索真正理解您并与您共同成长的人工智能伴侣。它具有如下功能特征：
 
@@ -40,9 +40,9 @@ Digi 的各种友好、妩媚和迷人的声音让您着迷。他们最先进的
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`平台`](https://nicelinks.site/tags/平台) · [`官网`](https://nicelinks.site/tags/官网)
 
->Free AI Art Generator , Amplify Your Creativity with DomoAI .
+> Free AI Art Generator , Amplify Your Creativity with DomoAI .
 
-![倾城之链 - DomoAI | AI-Powered Art Generator](https://oss.nicelinks.site/domoai.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - DomoAI | AI-Powered Art Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/domoai.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[DomoAI](https://nicelinks.site/redirect?url=https://domoai.app/) ，一个 [人工智能](https://nicelinks.site/tags/AI) 驱动的艺术生成 [平台](https://nicelinks.site/tags/平台) 。展示了使用 DomoAI 快速、稳定地创建高质量视觉效果的功能和优势，并提到了在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 中开始创作过程，并提供了生成艺术作品的提示，例如在森林背景下描绘一位身着巫师服装、留着白胡子的老人，或在阳光照射下描绘一位棕色短发、金色眼睛、穿着泳装的女孩在水下游泳。
 
@@ -68,9 +68,9 @@ DomoAI 旨在通过促进快速实验和提供快速结果来提高创造力，�
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`聚合`](https://nicelinks.site/tags/聚合) · [`AI`](https://nicelinks.site/tags/AI)
 
->Find the best AI tools to help you build your next awesome project faster and easier. We have curated the best AI tools for you to use in your next project.
+> Find the best AI tools to help you build your next awesome project faster and easier. We have curated the best AI tools for you to use in your next project.
 
-![倾城之链 - aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://oss.nicelinks.site/aitools.fyi.png?x-oss-process=style/png2jpg)
+![倾城之链 - aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aitools.fyi.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[aitools.fyi](https://nicelinks.site/redirect?url=https://aitools.fyi/zh) 是一个聚合网站，提供一系列 [人工智能](https://nicelinks.site/tags/AI) 工具，旨在让您的生活更轻松。该网站提供各种类别的人工智能工具，包括内容创建、聊天机器人、设计、图像生成、自动化、音频生成、网络应用程序和教育等。以下是网站上提到的一些人工智能工具：
 
@@ -98,9 +98,9 @@ DomoAI 旨在通过促进快速实验和提供快速结果来提高创造力，�
 
 **标签**：[`阅读`](https://nicelinks.site/tags/阅读) · [`读书`](https://nicelinks.site/tags/读书) · [`开源`](https://nicelinks.site/tags/开源)
 
->Librum is an application designed to make reading enjoyable and straightforward for everyone. It's not just an e-book reader. With Librum, you can manage your own online library and access it from any device anytime, anywhere. It has features like note-taking, bookmarking, and highlighting, while offering customization to make it as personal as you want!
+> Librum is an application designed to make reading enjoyable and straightforward for everyone. It's not just an e-book reader. With Librum, you can manage your own online library and access it from any device anytime, anywhere. It has features like note-taking, bookmarking, and highlighting, while offering customization to make it as personal as you want!
 
-![倾城之链 - Librum | 一款旨在让每个人都能轻松愉快地阅读的应用程序](https://oss.nicelinks.site/librumreader.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Librum | 一款旨在让每个人都能轻松愉快地阅读的应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/librumreader.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Librum](https://nicelinks.site/redirect?url=https://librumreader.com/) 是一款旨在让每个人都能轻松愉快地 [阅读](https://nicelinks.site/tags/阅读) 的应用程序。轻松阅读、探索、Excel，在任何设备上以简洁而强大的方式阅读和管理电子书。它不仅仅是电子书阅读器。使用 Librum，您可以管理自己的在线图书馆并随时随地从任何设备访问它。它具有记笔记、书签和突出显示等功能，同时提供定制功能，使其按照您的意愿个性化。
 
@@ -126,9 +126,9 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 **标签**：[`图像优化`](https://nicelinks.site/tags/图像优化) · [`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片)
 
->The most advanced AI upscaler & enhancer. Magnific can reimagine as many details in your image or photo as you wish, guided by your prompt and parameters!
+> The most advanced AI upscaler & enhancer. Magnific can reimagine as many details in your image or photo as you wish, guided by your prompt and parameters!
 
-![倾城之链 - Magnific AI — The magic image Upscaler & Enhancer](https://oss.nicelinks.site/magnific.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Magnific AI — The magic image Upscaler & Enhancer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/magnific.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Magnific AI](https://nicelinks.site/redirect?url=https://magnific.ai/) 神奇的图像放大器和增强器，像魔法一样。该网站提供先进的 [人工智能](https://nicelinks.site/tags/AI) 技术，用于放大和增强图像，可实现疯狂的高分辨率升级。它允许用户使用自然语言提示指导缩放过程，并提供 "创意 "滑块等控制功能，以生成新的细节和增强图像。
 
@@ -142,9 +142,9 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`聚合`](https://nicelinks.site/tags/聚合) · [`AI`](https://nicelinks.site/tags/AI)
 
->一起用 AI 智能化搞副业赚钱 | AI 副业搞钱套路集合站点
+> 一起用 AI 智能化搞副业赚钱 | AI 副业搞钱套路集合站点
 
-![倾城之链 - 一起用 AI | AI 副业搞钱套路集合站点](https://oss.nicelinks.site/17yongai.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 一起用 AI | AI 副业搞钱套路集合站点](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/17yongai.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[一起用 AI](https://nicelinks.site/redirect?url=https://17yongai.com/) ：AI 副业搞钱套路集合站点；该网站初衷是期望打破 [AI](https://nicelinks.site/tags/AI) 信息茧房，推广 AI 智能化方案做副业赚钱，帮助更多普通人在 AI 浪潮中创造额外副业收益。其具体做法是：在全网搜索并整理 AI 副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道，并收录于 Github 仓库： [AI 副业赚钱资讯合集](https://github.com/bleedline/aimoneyhunter)（截止 2023 年 12 月 19 日，已获得 2K+ Star）；同时提供该网站，对各种依靠 AI 赚钱方案，分门别类，做了详细说明（涵盖：**适合人群**、上手难度、学习周期、推荐评价、教程出处、核心关键词等）。如果您有打算基于 AI 搞些副业，或可考虑关注从而汲取灵感或经验。
 
@@ -154,10 +154,10 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`构建`](https://nicelinks.site/tags/构建) · [`机器学习`](https://nicelinks.site/tags/机器学习)
 
->FAL.AI——AI Inference, faster than you can type. Build real-time AI applications with lightning fast inference (under ~120ms).
-No coldstarts. Pay only for what you use.
+> FAL.AI——AI Inference, faster than you can type. Build real-time AI applications with lightning fast inference (under ~120ms).
+> No coldstarts. Pay only for what you use.
 
-![倾城之链 - FAL.AI ｜ AI Inference, faster than you can type](https://oss.nicelinks.site/www.fal.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - FAL.AI ｜ AI Inference, faster than you can type](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.fal.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[FAL.AI](https://nicelinks.site/redirect?url=https://www.fal.ai/) 是一个提供 [AI](https://nicelinks.site/tags/AI) 推理和模型部署相关服务的网站，构建具有闪电般快速推理（低于约 120 毫秒）的实时 AI 应用程序；消除了冷启动，并提供即用即付模式，确保您只需为实际使用的内容付费。该网站提供多种特性和功能，如下所述：
 
@@ -191,13 +191,13 @@ No coldstarts. Pay only for what you use.
 
 **标签**：[`AI`](https://nicelinks.site/tags/AI) · [`网页设计`](https://nicelinks.site/tags/网页设计) · [`自动化`](https://nicelinks.site/tags/自动化)
 
->Generate UI with simple text prompts. Copy, paste, ship.
+> Generate UI with simple text prompts. Copy, paste, ship.
 
-![倾城之链 - v0 by Vercel | 通过简单的文本提示生成用户界面](https://oss.nicelinks.site/v0.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - v0 by Vercel | 通过简单的文本提示生成用户界面](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/v0.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[v0](https://nicelinks.site/redirect?url=https://v0.dev/) 是 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 基于人工智能的生成式用户界面系统。它基于 [shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 生成复制和粘贴友好的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 代码，供人们在自己的项目中使用。
 
-随着 AI 日渐强大，前端代码自动生成的时代也悄然来临；2023  年 12  月，Vercel v0 已向所有人开放。现在，每个人都能通过文本或图像生成代码化的用户界面。以下是网友发现的关于 Vercel v0 ”惊人“使用方式：
+随着 AI 日渐强大，前端代码自动生成的时代也悄然来临；2023 年 12 月，Vercel v0 已向所有人开放。现在，每个人都能通过文本或图像生成代码化的用户界面。以下是网友发现的关于 Vercel v0 ”惊人“使用方式：
 
 - Vercel v0 的截图转码功能引领技术新潮流。只需几秒钟，就能将价格表的截图转换成代码，并允许细节调整。这标志着 AI 编程的一个新纪元。
 - 创新速度惊人；Vercel v0 能在不到 90 秒内，从文本提示转变为设计完善的低保真 JIRA 模仿应用。这项技术展示了原型设计工具的强大能力。
@@ -206,14 +206,17 @@ No coldstarts. Pay only for what you use.
 - Vercel 的 v0 产品引领编程新风潮，用户可通过简单提示生成多样组件，还能即时调整和获取 React 与 HTML 代码。这是创新和灵活性的完美结合。
 - V0 的屏幕截图转码功能展现了 AI 的强大力量。简单的 Twitter 截图也能在数秒内转换为代码，预示着软件创造的新时代即将来临。
 - v0 的开源项目 [screenshot-to-code](https://github.com/abi/screenshot-to-code) 代替品。 这款简单应用可将截图转换为 HTML / Tailwind CSS、React 或 Vue 代码。依托 GPT-4 Vision 和 DALL-E 3，还能克隆现有网站，展现了 AI 技术的广阔可能性
+
 ### v0 是如何工作？
 
 v0 使用 [AI](https://nicelinks.site/tags/AI) 模型根据简单的文本提示生成代码。提交提示后，我们为您提供三种人工智能生成的用户界面选择。您可以选择一个并复制粘贴其代码，或进一步完善它。
 
 要进行优化，您可以选择生成的 UI 的各个部分来微调您的创建。准备好后，您可以复制、粘贴和发送。
+
 ### v0 使用什么数据进行训练？
 
 Vercel 的产品经过他们团队编写的自定义代码与开源和合成数据集的混合训练。 Vercel 可能会使用用户生成的提示和/或内容作为来自第三方提供商的模型和学习系统的输入，以改进我们的产品。使用这些数据使 Vercel 能够向我们的用户提供更准确和相关的建议。没有 Vercel 客户数据或代码曾经/现在或将来用于训练、改进或微调 v0 使用的模型。
+
 ### 如果没有 React，v0 有用吗？
 
 随着团队继续构建 v0 并为全面发布做准备，他们将添加对其他 UI 库的支持。这可能包括 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 或纯 [HTML](https://nicelinks.site/tags/HTML) 等工具。
@@ -228,7 +231,7 @@ Vercel 的产品经过他们团队编写的自定义代码与开源和合成数�
 
 ## 本期文末寄语
 
-其安易持，其未兆易谋；其脆易泮，其微易散。为之于未有，治之于未乱。**合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。为者败之，执者失之。是以圣人无为故无败，无执故无失**。民之从事，常于几成而败之。慎终如始，则无败事。是以圣人欲不欲，不贵难得之货，学不学，复众人之所过，以辅万物之自然而不敢为。──春秋末期 · 老子李耳《道德经》第六十四章
+其安易持，其未兆易谋；其脆易泮，其微易散。为之于未有，治之于未乱。**合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。为者败之，执者失之。是以圣人无为故无败，无执故无失**。民之从事，常于几成而败之。慎终如始，则无败事。是以圣人欲不欲，不贵难得之货，学不学，复众人之所过，以辅万物之自然而不敢为。── 春秋末期 · 老子李耳《道德经》第六十四章
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -253,7 +256,7 @@ Vercel 的产品经过他们团队编写的自定义代码与开源和合成数�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

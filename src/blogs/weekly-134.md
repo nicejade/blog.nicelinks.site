@@ -6,9 +6,9 @@
 
 **标签**：[`图表`](https://nicelinks.site/tags/图表) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
 
->Simplify documentation and avoid heavy tools. Open source Visio Alternative. Commonly used for explaining your code! Mermaid is a simple markdown-like script language for generating charts from text via javascript.
+> Simplify documentation and avoid heavy tools. Open source Visio Alternative. Commonly used for explaining your code! Mermaid is a simple markdown-like script language for generating charts from text via javascript.
 
-![倾城之链 - Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://oss.nicelinks.site/mermaid.live.png?x-oss-process=style/png2jpg)
+![倾城之链 - Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mermaid.live.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mermaid](https://nicelinks.site/redirect?url=https://mermaid.live/) 是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的图表绘制工具，通过解析类 [Markdown](https://nicelinks.site/tags/Markdown) 的文本语法来实现图表的创建和动态修改。Mermaid 诞生的主要目的是让文档的更新能够及时跟上开发进度。
 
@@ -26,14 +26,16 @@ Mermaid 甚至能让非程序员也能通过 [Mermaid Live Editor](https://merma
 
 **标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`程序库`](https://nicelinks.site/tags/程序库) · [`Python`](https://nicelinks.site/tags/Python)
 
->Polars is a blazingly fast DataFrame library completely written in Rust, using the Apache Arrow memory model. It exposes bindings for the popular Python and soon JavaScript languages. Polars supports a full lazy execution API allowing query optimization.
+> Polars is a blazingly fast DataFrame library completely written in Rust, using the Apache Arrow memory model. It exposes bindings for the popular Python and soon JavaScript languages. Polars supports a full lazy execution API allowing query optimization.
 
-![倾城之链 - Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://oss.nicelinks.site/www.pola.rs.png?x-oss-process=style/png2jpg)
+![倾城之链 - Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pola.rs.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Polars](https://nicelinks.site/redirect?url=https://www.pola.rs/) ：适用于 [Rust](https://nicelinks.site/tags/Rust) 和 [Python](https://nicelinks.site/tags/Python) 的闪电般快速的 DataFrame 库；位于 OLAP 查询引擎之上，具有多线程、查询优化、单指令多数据流、强大的表达式 API 等特点。官网给出如下功能特征：
+
 ### 从一开始就熟悉
 
 了解数据整理习惯后，Polars 公开了完整的 Python API，包括使用表达式语言操作 DataFrame 的全套功能，使您能够创建可读且高性能的代码。
+
 ### Rust 生态系统的 DataFrames
 
 Polars 是用 Rust 编写的，在为 Rust 生态系统提供功能完整的 DataFrame API 的选择上毫不妥协。将其用作数据框架库或数据模型的查询引擎后端。
@@ -52,9 +54,9 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 **关键字**：Qwerty Learner, 打字练习软件, 单词记忆工具, 英语学习, 背单词, 英语肌肉记忆锻炼, 键盘工作者, 免费背单词软件
 
->Qwerty Learner, 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+> Qwerty Learner, 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
-![倾城之链 - Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://oss.nicelinks.site/qwerty.kaiyi.cool.png?x-oss-process=style/png2jpg)
+![倾城之链 - Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qwerty.kaiyi.cool.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Qwerty Learner](https://nicelinks.site/redirect?url=https://qwerty.kaiyi.cool/) ，为键盘工作者设计的单词与肌肉记忆锻炼软件，支持在线免费使用；它具有非常多特性，诸如附带美式音效、设置单个单词循环、开启默写模式、显示释义、查看数据统计、深色模式、指法图示等等，因此你不仅可以练习打字速度、标准手法、而且还可以练习单词发音等。因此，软件也对需要机考英语的人群有一定的帮助。它具有如下功能特征：
 
@@ -88,9 +90,9 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 **关键字**：1Panel, 服务器运维软件, 服务器运维管理面板, 免费主机管理系统, 开源主机管理系统, Linux 面板, 开源 Linux 面板, 面板
 
->1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
+> 1Panel 是一个现代化、开源的 Linux 服务器运维管理面板。
 
-![倾城之链 - 1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://oss.nicelinks.site/1panel.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1panel.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[1Panel](https://nicelinks.site/redirect?url=https://1panel.cn/) 是一个现代化、开源的 Linux 服务器运维管理面板。1Panel 的功能和优势包括：
 
@@ -107,9 +109,9 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 **标签**：[`HTTP`](https://nicelinks.site/tags/HTTP) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
 
->Axios, Promise based HTTP client for the browser and node.js.
+> Axios, Promise based HTTP client for the browser and node.js.
 
-![倾城之链 - Axios | Promise based HTTP client for the browser and node.js](https://oss.nicelinks.site/axios-http.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Axios | Promise based HTTP client for the browser and node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/axios-http.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Axios](https://nicelinks.site/redirect?url=https://axios-http.com/) 是一个简单的基于 Promise 的 [HTTP](https://nicelinks.site/tags/HTTP) 客户端，适用于浏览器和 Node.js。 Axios 在一个小包中提供了一个简单易用的库，具有非常可扩展的接口。它可以处理 GET、POST、PUT、DELETE 等多种 HTTP 请求，并支持跨域请求、拦截请求和响应、设置请求头和响应类型等功能。Axios 的优点包括以下几点：
 
@@ -125,7 +127,7 @@ Axios 可以在浏览器和 Node.js 中使用，具有很高的兼容性。这�
 
 Axios 支持 GET、POST、PUT、DELETE 等多种 HTTP 请求方式，可以满足不同的需求。
 
-###  支持请求和响应拦截器
+### 支持请求和响应拦截器
 
 Axios 支持请求和响应拦截器，可以在请求和响应之前或之后对数据进行处理。这使得开发人员可以在请求和响应中添加公共的处理逻辑，例如添加请求头、设置响应类型等。
 
@@ -149,9 +151,9 @@ Axios 支持跨域请求，可以在浏览器中发送跨域请求。这对于�
 
 **标签**：[`利器`](https://nicelinks.site/tags/利器) · [`有趣`](https://nicelinks.site/tags/有趣) · [`在线`](https://nicelinks.site/tags/在线)
 
->Tabserve：A secure & fast HTTPS URL for localhost using your browser as a reverse proxy.
+> Tabserve：A secure & fast HTTPS URL for localhost using your browser as a reverse proxy.
 
-![倾城之链 - Tabserve - A HTTPS URL for localhost using just your browser](https://oss.nicelinks.site/tabserve.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Tabserve - A HTTPS URL for localhost using just your browser](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tabserve.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tabserve](https://nicelinks.site/redirect?url=https://tabserve.dev/) ，一个有趣的网络应用，浏览器只要访问它的网站，就能建立一个反向代理，让公网可以访问你的当前计算机（即 localhost）。它使用单个 [Cloudflare Worker](https://workers.cloudflare.com/) 与基于浏览器的 [Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) 相结合，来创建从互联网到本地主机的反向代理。
 
@@ -167,7 +169,7 @@ Axios 支持跨域请求，可以在浏览器中发送跨域请求。这对于�
 
 ## 本期文末寄语
 
-披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。**落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨，雁阵惊寒，声断衡阳之浦**。 ──唐代 · 王勃《滕王阁序》
+披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。**落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨，雁阵惊寒，声断衡阳之浦**。 ── 唐代 · 王勃《滕王阁序》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -191,7 +193,7 @@ Axios 支持跨域请求，可以在浏览器中发送跨域请求。这对于�
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

@@ -8,7 +8,7 @@
 
 > Bio Link is a free and elegant link in bio for your Instagram, TikTok, Twitter, and other socials. Claim your name in seconds!
 
-![倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://oss.nicelinks.site/bio.link.png?x-oss-process=style/png2jpg)
+![倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bio.link.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Bio Link](https://nicelinks.site/redirect?url=https://bio.link/)，一个快速创建个人主页的网站（您所有「链接」的一个集中链接）；它具有**闪电 ⚡️ 般速度**，可在几百毫秒内启动您的页面；此外还具有**永久免费**、支持**访客统计**、拥有 15+ 主题、方便快速分享。它的使用非常简单，只需要以下几步：
 
@@ -36,7 +36,7 @@
 
 > Acapela lets you take control of your notifications. Capture, filter and action them all from one place. Unblock your team twice as fast.
 
-![倾城之链 - Acapela | All work notifications in one inbox](https://oss.nicelinks.site/acapela.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Acapela | All work notifications in one inbox](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/acapela.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Acapela](https://nicelinks.site/redirect?url=https://acapela.com/)，常用工作工具的中央收件箱；从一个工具中捕获、过滤和操作您的所有工作交流。想象一下收件箱零不仅适用于电子邮件......而且适用于 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、[Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab)、[GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)、[Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c)、Jira、Linear 等。更少的干扰、更少的 FOMO（社群恐慌症）、更多的深度工作时间。更详细来说，它具有以下功能特征：
 
@@ -64,7 +64,7 @@ Acapela 可让您控制通知。从一个地方捕获、过滤和操作它们；
 
 > Guide your users through a tour of your app.
 
-![倾城之链 - Shepherd — Guide your users through a tour of your app.](https://oss.nicelinks.site/shepherdjs.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Shepherd — Guide your users through a tour of your app.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shepherdjs.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Shepherd](https://nicelinks.site/redirect?url=https://shepherdjs.dev/) 是一个 JavaScript 库，用于引导用户通过您的应用程序。它使用另一个开源库 Popper.js 来为每个游览“步骤”呈现对话框。在许多事情中，Popper 确保您的步骤永远不会离开屏幕或被溢出裁剪。它具有以下功能特性：
 
@@ -90,7 +90,7 @@ Shepherd 已准备好使用 React、Ember、Angular、Vue.js、ES 模块或纯 J
 
 > TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.
 
-![倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://oss.nicelinks.site/www.typescriptlang.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.typescriptlang.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [TypeScript](https://nicelinks.site/redirect?url=https://www.typescriptlang.org/) ，是一种开源的程式语言，该语言专案由微软进行维护和管理；TypeScript 是 JavaScript 类型的超集，它可以编译成纯的 JavaScript；TypeScript 可以在任何浏览器、任何计算机和任何操作系统上运行，并且它是开源的。除了在浏览器，也可以运行在 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 、 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 或在您的应用程序中。它具有以下功能特性：
 

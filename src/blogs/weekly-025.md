@@ -8,9 +8,9 @@
 
 **关键字**：Graphic design, Online graphic design, free online graphic design software, free graphic, design software, free graphic design app, DIY graphic design, free graphic design templates, online graphic editor, design your own picture online for free, online design maker, graphic design online, software for logo design, online logo maker, online poster maker
 
->Picmaker is the easiest online graphic design software for your social media, blogs, ads, logos, and more. Use our professionally-created templates to get going in minutes.
+> Picmaker is the easiest online graphic design software for your social media, blogs, ads, logos, and more. Use our professionally-created templates to get going in minutes.
 
-![倾城之链 - Picmaker - Fast, Free and Easy Online Graphic Design Software](https://oss.nicelinks.site/www.picmaker.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Picmaker - Fast, Free and Easy Online Graphic Design Software](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.picmaker.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/)，快速、免费和简单的在线图形设计软件（具有 10k+ 模板的直观图形设计工具）；官方称之为：**世界上创造设计的最快方法**，使用 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 的在线图形设计软件，可创建令人惊叹的设计。无论是广告、演示文稿、模版还是社交帖子 ，如果您需要设计灵感，即可使用 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 。[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 基于 AI 的 MAD 按钮。可在几分钟内为您提供独特的设计组合。
 想到的，我们都有。
@@ -40,9 +40,9 @@
 
 **关键字**：SVG backgrounds, ui backgrounds, svg waves, wave generator, svg generagtor, colorful waves
 
->Create beautiful SVG backgrounds for your UI designs.
+> Create beautiful SVG backgrounds for your UI designs.
 
-![倾城之链 - Create beautiful SVG backgrounds for your UI designs.](https://oss.nicelinks.site/wickedbackgrounds.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Create beautiful SVG backgrounds for your UI designs.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wickedbackgrounds.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Wicked Backgrounds](https://nicelinks.site/redirect?url=https://wickedbackgrounds.com/) 是一个免费的网络应用程序（波浪背景图片生成器），用于生成可用于设计的漂亮波浪渐变。您只需单击一下，即可创造拥有美丽的背景波浪图片；它**完全可定制**，您可以为您的背景设计选择所需的波浪数、波浪的角度、颜色和颜色模式以在渐变和颜色旋转之间进行选择。它所带来的价值：你可以将生成的图片，运用在自己的网站，通过 Wicked（邪恶的）背景设计吸引访问者的注意力，从而降低您的网站跳出率。
 
@@ -54,9 +54,9 @@
 
 **关键字**：百科, 知识, 头条百科, wiki, 百科全书, 维基
 
->快懂百科是一部准确、全面、易读、丰富的网络百科全书，助您轻松探秘世界，学习知识。
+> 快懂百科是一部准确、全面、易读、丰富的网络百科全书，助您轻松探秘世界，学习知识。
 
-![倾城之链 - 快懂百科 - 来这里，认识世界！](https://oss.nicelinks.site/www.baike.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 快懂百科 - 来这里，认识世界！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.baike.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[快懂百科](https://nicelinks.site/redirect?url=https://www.baike.com/)，今日头条旗下中文网络百科全书，其 Slogan 为“来这里，认识世界”。2020 年 4 月 20 日消息，字节跳动现已上线“头条百科”网页产品。2021 年 3 月 9 日，头条百科更名为**快懂百科**，截止目前（2021 年 8 月），仍处于 Beta 版本。当下已经收录部分内容，但相当不完善；有尝试将[倾城之链](https://nicelinks.site/)提交，修改 3 次，仍未审核通过；希望未来可以不断完善。
 
@@ -68,9 +68,9 @@
 
 **关键字**：微信广告, 朋友圈广告, 朋友圈推广, 朋友圈视频广告, 公众号广告, 微信营销, 流量主, 朋友圈, 公众号, 微信, 信息流广告, 社交广告, 效果广告
 
->微信广告目前包括朋友圈广告和公众号广告，均基于微信公众号生态体系。微信朋友圈广告是以类似朋友的原创内容形式在用户朋友圈进行展示的原生广告。在基于微信用户画像进行精准定向的同时，通过社交关系进行互动传播，基于微信原生功能生态体验闭环，实现广告价值的最大化，打造国内独一无二的新型社交广告模式。微信公众号广告通过公众号文章进行传播，提供包括公众号关注、移动应用下载、卡券分发、品牌活动广告等多种官方推广形式，支持多层次、多维度的定向组合投放，实现高效率转化。
+> 微信广告目前包括朋友圈广告和公众号广告，均基于微信公众号生态体系。微信朋友圈广告是以类似朋友的原创内容形式在用户朋友圈进行展示的原生广告。在基于微信用户画像进行精准定向的同时，通过社交关系进行互动传播，基于微信原生功能生态体验闭环，实现广告价值的最大化，打造国内独一无二的新型社交广告模式。微信公众号广告通过公众号文章进行传播，提供包括公众号关注、移动应用下载、卡券分发、品牌活动广告等多种官方推广形式，支持多层次、多维度的定向组合投放，实现高效率转化。
 
-![倾城之链 - 微信广告](https://oss.nicelinks.site/ad.weixin.qq.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 微信广告](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ad.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[微信广告](https://nicelinks.site/redirect?url=https://ad.weixin.qq.com/)是微信出品的广告类子网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建），分为产品介绍、优秀案例、流量变现、最新动态、帮助中心等模块，对朋友圈广告、微信公众号广告、小程序广告，都有介绍（投放指南，接入指南、广告形态、审核规范）；针对公众号创作者、小程序开发者、小游戏开发者、视频号创作者，都可以起到参考作用；如果您有更多问题，可以参见[微信广告帮助中心](https://ad.weixin.qq.com/guide)。
 
@@ -101,7 +101,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

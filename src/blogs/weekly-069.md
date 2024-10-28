@@ -10,7 +10,7 @@
 
 > An open-source screen recorder built with web technology
 
-![倾城之链 - Kap - Capture your screen](https://oss.nicelinks.site/getkap.co.png?x-oss-process=style/png2jpg)
+![倾城之链 - Kap - Capture your screen](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getkap.co.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Kap](https://nicelinks.site/redirect?url=https://getkap.co/) 是一款**免费**且[开源](https://nicelinks.site/redirect?url=https://github.com/wulkano/kap)的 Mac 录屏软件（使用 Web 技术构建的开源屏幕录像机，支持 M1 芯片电脑）。它支持多种录制方式，你可以选择全屏录制，或窗口录制，也可以自定义框选录制特定区域，还支持设定特定比例和尺寸，在录制完成后，你还可以使用它自带的编辑工具设置视频的格式，比如设置开始和结束时间、尺寸大小、帧率、导出格式等，无需再导入到剪辑软件中进行处理。它具备以下功能特征：
 
@@ -40,7 +40,7 @@
 
 > 重构是一种能够在不新增功能的情况下改善代码的可控过程。设计模式是软件设计中常见问题的典型解决方案。立即开始学习！
 
-![倾城之链 - 免费在线学习代码重构和设计模式](https://oss.nicelinks.site/refactoringguru.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 免费在线学习代码重构和设计模式](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/refactoringguru.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Refactoring.Guru](https://nicelinks.site/redirect?url=https://refactoringguru.cn/)，免费、**在线**学习代码重构和设计模式的网站。在这里，  您可以免费在线学习代码重构、  设计模式、 SOLID 原则  （单一职责、  开闭原则、  里氏替换、  接口隔离以及依赖反转）  以及其他和智能编程主题相关的一切内容。该网站有写道：
 
@@ -56,7 +56,7 @@
 
 > Vite & Vue powered static site generator.
 
-![倾城之链 - VitePress | Vite & Vue Powered Static Site Generator](https://oss.nicelinks.site/vitepress.vuejs.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - VitePress | Vite & Vue Powered Static Site Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vitepress.vuejs.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**： [VitePress](https://nicelinks.site/redirect?url=https://vitepress.vuejs.org/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) & [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（开源、简单、强大且高性能）。截止目前（2022/06/07），它正处于 `alpha` 阶段。它已经适合`开箱即用`的文档使用，但配置和主题 API 可能仍会在次要版本之间发生变化。VitePress 具有以下功能特性：
 
@@ -86,7 +86,7 @@
 
 > JSON Hero makes reading and understand JSON files easy by giving you a clean and beautiful UI packed with extra features.
 
-![倾城之链 - JSON Viewer - JSON Hero](https://oss.nicelinks.site/jsonhero.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - JSON Viewer - JSON Hero](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jsonhero.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[JSON Hero](https://nicelinks.site/redirect?url=https://jsonhero.io/)，是一个开源的、漂亮的网络 JSON 浏览器，可让您快速浏览、搜索和导航您的 JSON 文件。🚀 它通过为您提供包含额外功能的、干净美观的 UI，使阅读和理解 JSON 文件变得容易。JSON Hero 具有以下功能特征：
 
@@ -109,7 +109,7 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 
 > GraphQL Start is a pragmatic guide that explains how to build a GraphQL API (server) from start to finish on top of Node.js stack using JavaScript and GraphQL.js library.
 
-![倾城之链 - What is GraphQL Start - GraphQL Start](https://oss.nicelinks.site/graphqlstart.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - What is GraphQL Start - GraphQL Start](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphqlstart.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[GraphQL Start](https://nicelinks.site/redirect?url=https://graphqlstart.com/) 是一本实用指南（该网站基于 [Gitbook](https://nicelinks.site/post/5c7d27dace377707f7f675f3) 所搭建），它解释了如何使用 JavaScript 和 [GraphQL.js](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148) 库在 Node.js 堆栈之上从头到尾构建 GraphQL API（服务器）。在本**教程**中，您将学习以下内容：
 
@@ -130,7 +130,7 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 
 > Relay is a JavaScript framework for building data-driven React applications.
 
-![倾城之链 - Relay | A JavaScript Framework for building data-driven React Applications](https://oss.nicelinks.site/relay.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Relay | A JavaScript Framework for building data-driven React Applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/relay.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Relay](https://nicelinks.site/redirect?url=https://relay.dev/) 是一个 JavaScript 框架，用于构建数据驱动的 React 应用程序。它专为任何规模的高性能而设计。无论您的应用程序有数十、数百或数千个组件，Relay 都可以轻松管理数据获取。并且由于 Relay 的增量编译器，即使您的应用程序增长，它也可以保持您的迭代速度；您可以从以下功能特征，进一步了解 Relay：
 

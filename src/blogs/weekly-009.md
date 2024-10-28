@@ -8,13 +8,13 @@
 
 **关键字**：微图云, 照片墙, 图标组成, 图标云, 图案组合
 
->微图云是一款简单易用的「图标组合」在线生成器，拥有自由和有序风格两种生成器，让照片墙、照片组合、图标云、图案组合设计简单起来，不管您是设计师、运营者、市场精英、学生还老师都可以生成好看的图片组合
+> 微图云是一款简单易用的「图标组合」在线生成器，拥有自由和有序风格两种生成器，让照片墙、照片组合、图标云、图案组合设计简单起来，不管您是设计师、运营者、市场精英、学生还老师都可以生成好看的图片组合
 
-![倾城之链 - 微图云·让图标云、照片墙设计更简单](https://oss.nicelinks.site/www.weitucloud.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - 微图云·让图标云、照片墙设计更简单](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.weitucloud.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[微图云](https://nicelinks.site/redirect?url=https://www.weitucloud.com/)是一款简单易用的「图标组合」在线生成器；其目标是：**让图标云、照片墙设计更简单**；使命为：使用户利益最大化，打造优质体验；使用微图云，任何关于图片组合、照片组合、图标组合的设计都可以轻松实现。它具有以下功能特征：
 
-- **丰富的场景**：涵盖照片墙、图标云、实体包装、创意海报、图案背景、PPT配图等，满足您的多样化需求；
+- **丰富的场景**：涵盖照片墙、图标云、实体包装、创意海报、图案背景、PPT 配图等，满足您的多样化需求；
 - **上手简单，功能强大**：丰富自定义功能、海量商用图标素材、配置功能多样、智能排版，让您很容易做出您中意的作品；
 - **设计效果贼好**：无论您用来制作海报设计还是包装设计，使用微图云，只需三步，就能制作高质量作品，智能排版让设计简单好看；
 - **多种格式下载**： 支持下载矢量图 SVG 格式、透明背景 PNG 格式、常用的 JPG 格式；
@@ -29,12 +29,11 @@
 
 **标签**：[`设计`](https://nicelinks.site/tags/设计) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`可视化`](https://nicelinks.site/tags/可视化)
 
->Build beautiful experiences fast. The visual builder and web design tool that works seamlessly with your codebase. Unblock your team, and empower anyone to ship.
+> Build beautiful experiences fast. The visual builder and web design tool that works seamlessly with your codebase. Unblock your team, and empower anyone to ship.
 
-![倾城之链 - Plasmic - the visual page builder and web design tool that works with React](https://oss.nicelinks.site/www.plasmic.app.png?x-oss-process=style/png2jpg)
+![倾城之链 - Plasmic - the visual page builder and web design tool that works with React](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.plasmic.app.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Plasmic](https://nicelinks.site/redirect?url=https://www.plasmic.app/) 与您的代码库一起使用的、可视化 Web 设计工具和前端构建器，可与 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、Next.js、[Gatsby](https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e)、[Github](https://nicelinks.site/post/59ba80d93df6765c75b77911)) 等配合使用。该工具最大的特点是：使您的产品对整个团队都是可编辑的，使非开发人员可以发布页面和自由格式的内容；让开发人员专注于代码，加速前端开发；消除各角色间的交接，都在同一个页面上操作。除此之外，[Plasmic](https://nicelinks.site/redirect?url=https://www.plasmic.app/) 支持灵活的集成 & 部署、毫不阻碍开发人员的控制，极快的构建速度以及优化，简单但功能齐全的响应式布局，随时切换 codegen 模式，以弹出干净现代的 React 代码.......
-
 
 ── 出自[倾城之链 - Plasmic - the visual page builder and web design tool that works with React](https://nicelinks.site/post/6078306e00d67605dca7de81)
 
@@ -42,12 +41,11 @@
 
 **标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`工具`](https://nicelinks.site/tags/工具) · [`开发者`](https://nicelinks.site/tags/开发者)
 
->Landing Page Checklist is a complete library of resources for building high-converting landing pages. Check it out!
+> Landing Page Checklist is a complete library of resources for building high-converting landing pages. Check it out!
 
-![倾城之链 - Landing Page IdeasLanding Page Inspirations | 100+ Tools to Build a Landing PageLanding Page ChecklistProduct Hunt Launch](https://oss.nicelinks.site/landingpage.fyi.png?x-oss-process=style/png2jpg)
+![倾城之链 - Landing Page IdeasLanding Page Inspirations | 100+ Tools to Build a Landing PageLanding Page ChecklistProduct Hunt Launch](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/landingpage.fyi.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Landing Page Checklist](https://nicelinks.site/redirect?url=https://landingpage.fyi/) 是一个精选的网页资源清单，它提供超过 100+ 工具，分在 16 个不同类别，从而帮助开发者，可以建立您的最佳 网页（Landing Page 着陆页）。其中涉及资源类别有：查找域名、网页构建器、托管服务提供商、Logo 设计工具、免费插图创建工具、营销文案撰写工具、关键字研究工具、对话（Chatbot）关系平台、网站跟踪分析工具、收集客户反馈工具、网站效果衡量工具…..
-
 
 ── 出自[倾城之链 - Landing Page IdeasLanding Page Inspirations | 100+ Tools to Build a Landing PageLanding Page ChecklistProduct Hunt Launch](https://nicelinks.site/post/60782adb00d67605dca7de7f)
 
@@ -55,9 +53,9 @@
 
 **标签**：[`工具`](https://nicelinks.site/tags/工具) · [`短链接`](https://nicelinks.site/tags/短链接)
 
->Paste a link to shorten it
+> Paste a link to shorten it
 
-![倾城之链 - cleanuri.com — Long URL Shortener](https://oss.nicelinks.site/cleanuri.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - cleanuri.com — Long URL Shortener](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cleanuri.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[cleanuri.com](https://nicelinks.site/redirect?url=https://cleanuri.com/)（Long URL Shortener）是款免费的 URL 缩短器；只需粘贴 URL 地址，即可以为您的业务创建完美的 URL，从而帮助您大规模地创建和共享自定义域名的品牌链接。值得一提的是，[cleanuri.com](https://nicelinks.site/redirect?url=https://cleanuri.com/) 还提供了 API 可供使用，它通过应用程序编程接口公开其数据，因此开发人员可以以编程方式与应用程序进行交互。
 
@@ -67,9 +65,9 @@
 
 **标签**：[`导航`](https://nicelinks.site/tags/导航) · [`工具`](https://nicelinks.site/tags/工具)
 
->Portal Lite 一站式导航-网站-工具-小组件
+> Portal Lite 一站式导航-网站-工具-小组件
 
-![倾城之链 - Portal Lite - Privoce - 一站式导航 - 网站 - 工具 - 小组件](https://oss.nicelinks.site/nicegoodthings.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Portal Lite - Privoce - 一站式导航 - 网站 - 工具 - 小组件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nicegoodthings.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Portal Lite - Privoce](https://nicelinks.site/redirect?url=https://nicegoodthings.com/) 是一个类似苹果小组件的 Web 版小组件库，目前有两个版本（网站、谷歌浏览器插件），可根据自己需要，选择组件库中内容，展示在网页上。 它有几个特点：用户数据均存本地，可导出&导入，没有后台；页面干净无广告；定制化、个性化程度高，一切均是组件，可自由选择组合排列。截止目前，[Portal Lite - Privoce](https://nicelinks.site/redirect?url=https://nicegoodthings.com/) 组件库提供小组件有：搜索引擎、导航、新冠疫情概览、国际时钟、天气、Github 个人仓库列表、科学计算器、人生进程计算器、微博热搜、公众号热文、豆瓣热门话题、GitHub 流行榜、每日诗词、历史上的今天、必应壁纸、我的日程、亲戚关系计算器。
 
@@ -79,12 +77,11 @@
 
 **标签**：[`图标`](https://nicelinks.site/tags/图标) · [`工具`](https://nicelinks.site/tags/工具) · [`转换`](https://nicelinks.site/tags/转换)
 
->The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+> The only favicon generator you need for your next project. Quickly generate your favicon from text, image, or choose from hundreds of emojis.
 
-![倾城之链 - The best Favicon Generator (completely free) - favicon.io](https://oss.nicelinks.site/favicon.io.png?x-oss-process=style/png2jpg)
+![倾城之链 - The best Favicon Generator (completely free) - favicon.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/favicon.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[favicon.io](https://nicelinks.site/redirect?url=https://favicon.io/)  非常棒的图标生成器：支持从文本，图像或数百种表情符号，快速生成您的收藏夹图标（Favicon）。适用之下，发现 [favicon.io](https://nicelinks.site/redirect?url=https://favicon.io/) 强大且贴心，不仅可以生成 `.ico`，还会生成 android、ios 及各尺寸 `.png` 图标，另外附带了 Web manifest 配置，对网站 PWA 化，有所帮助。除此之外，[favicon.io](https://nicelinks.site/redirect?url=https://favicon.io/) 还提供了[相关教程](https://nicelinks.site/redirect?url=https://favicon.io/tutorials/)，诸如：什么是收藏夹图标？为什么我需要一个收藏夹图标，如何生成一个收藏夹图标？如何将 ICO 格式图标添加到网站-？如何将 PNG 格式图标添加到网站？
-
+**推荐语**：[favicon.io](https://nicelinks.site/redirect?url=https://favicon.io/) 非常棒的图标生成器：支持从文本，图像或数百种表情符号，快速生成您的收藏夹图标（Favicon）。适用之下，发现 [favicon.io](https://nicelinks.site/redirect?url=https://favicon.io/) 强大且贴心，不仅可以生成 `.ico`，还会生成 android、ios 及各尺寸 `.png` 图标，另外附带了 Web manifest 配置，对网站 PWA 化，有所帮助。除此之外，[favicon.io](https://nicelinks.site/redirect?url=https://favicon.io/) 还提供了[相关教程](https://nicelinks.site/redirect?url=https://favicon.io/tutorials/)，诸如：什么是收藏夹图标？为什么我需要一个收藏夹图标，如何生成一个收藏夹图标？如何将 ICO 格式图标添加到网站-？如何将 PNG 格式图标添加到网站？
 
 ── 出自[倾城之链 - The best Favicon Generator (completely free) - favicon.io](https://nicelinks.site/post/6076d32a00d67605dca7de78)
 
@@ -94,9 +91,9 @@
 
 **关键字**：远程办公, 环游世界, 旅行指南, 数字游民, 数字游牧民族, 自由职业, 远程协助, 远程沟通, 在家办公, 共享办公, 只工作不上班, 共享办公, digital nomads, remote work, co-working, telecomunitcation, Digital Nomads, Travelers, Backpackers, Remote Workers, Freelance, Coworking, Entrepreneurship, Location Independent Businesses, Digital Lifestyle, Creative Freelancers, Digital nomad, Global Nomad, Work At Home, Work from H
 
->数字游民指南博客文章，集聚远程办公、环游世界内容动态，分享数字游民生活精彩。主题包括 远程办公|环游世界|旅行指南|数字游牧民族|自由职业|远程协助|远程沟通|在家办公|共享办公。欢迎加入数字游民指南社区，分享您的精彩故事！
+> 数字游民指南博客文章，集聚远程办公、环游世界内容动态，分享数字游民生活精彩。主题包括 远程办公|环游世界|旅行指南|数字游牧民族|自由职业|远程协助|远程沟通|在家办公|共享办公。欢迎加入数字游民指南社区，分享您的精彩故事！
 
-![倾城之链 - 数字游民指南 - 远程办公|环游世界|数字游民社区](https://oss.nicelinks.site/www.nomadguide.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 数字游民指南 - 远程办公|环游世界|数字游民社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nomadguide.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[数字游民指南](https://nicelinks.site/redirect?url=https://www.nomadguide.cn/)是一个数字游民[社区](https://nicelinks.site/tags/社区)（digital nomad community，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建)，提倡【远程办公、环游世界】自由生活方式。 在这里分享您的精彩，在这里找到小伙伴！
 
@@ -108,9 +105,9 @@
 
 **关键字**：tobias ahlin, github, spotify, hyper island
 
->SpinKit, Moving Letters, projects, and more.
+> SpinKit, Moving Letters, projects, and more.
 
-![倾城之链 - Tobias Ahlin](https://oss.nicelinks.site/tobiasahlin.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Tobias Ahlin](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tobiasahlin.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Tobias Ahlin](https://nicelinks.site/redirect?url=https://tobiasahlin.com/) 是基于 Ruby on Rails 所搭建的极具设计的网站，用来承载作者所写的博客、创建的教程（`Tutorials`），所做的演讲（`Speaking`），以及很多出色动画、Web 字体等等（如 [Moving Letters](https://nicelinks.site/redirect?url=https://tobiasahlin.com/moving-letters/)、[TypeSource](https://nicelinks.site/redirect?url=https://tobiasahlin.com/typesource/)、[SpinKit](https://nicelinks.site/redirect?url=https://tobiasahlin.com/spinkit/)）；`Tobias Ahlin` 喜欢设计和制造新鲜事物；他是以为出色的设计师，同时，还写过课程，并教过编程，设计，统计，数据策略和修辞学；除此外，还在各种科技公司和初创公司（例如 Spotify，Minecraft，GitHub 和 Hyper Island）进行演讲，教学和咨询... 如果您是位程序员或设计师，想必非常乐意结识这位才华出众的「设计师」。
 
@@ -120,9 +117,9 @@
 
 **标签**：[`社区`](https://nicelinks.site/tags/社区) · [`技术`](https://nicelinks.site/tags/技术) · [`测试`](https://nicelinks.site/tags/测试)
 
->TesterHome 社区，测试之家，由众多测试工程师组织和维护的技术社区，致力于帮助新人成长，提高测试地位，推进质量发展。
+> TesterHome 社区，测试之家，由众多测试工程师组织和维护的技术社区，致力于帮助新人成长，提高测试地位，推进质量发展。
 
-![倾城之链 - TesterHome](https://oss.nicelinks.site/testerhome.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - TesterHome](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/testerhome.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TesterHome](https://nicelinks.site/redirect?url=https://testerhome.com/) 是公益性的测试技术社区（基于 Ruby on Rails 所搭建），旨在帮助测试新人成长，提高测试工程师地位，推动测试行业的技术发展。社区的特色：**开源分享**、草根接地气、社群文化。
 
@@ -150,7 +147,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

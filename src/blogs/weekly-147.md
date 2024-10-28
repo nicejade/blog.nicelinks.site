@@ -6,9 +6,9 @@
 
 **标签**：[`监控`](https://nicelinks.site/tags/监控) · [`开源`](https://nicelinks.site/tags/开源) · [`终端`](https://nicelinks.site/tags/终端)
 
->htop is a cross-platform interactive process viewer. htop allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown.
+> htop is a cross-platform interactive process viewer. htop allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown.
 
-![倾城之链 - htop - an interactive process viewer](https://oss.nicelinks.site/htop.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - htop - an interactive process viewer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/htop.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[htop](https://nicelinks.site/redirect?url=https://htop.dev/) 是一个跨平台的交互式系统 [监控](https://nicelinks.site/tags/监控) 工具，用于查看系统资源利用情况并管理运行中的进程（基于 C 语言编写）。它可以代替传统的 top 命令，提供更加直观、易用的界面以及更多功能。
 
@@ -27,8 +27,8 @@
 
 ### 使用方法
 
-1.  安装 htop：在大多数 Linux 发行版中，可以通过包管理工具直接安装 htop。例如，在 Ubuntu 中执行 `sudo apt install htop` 即可。
-2.  运行 htop：在终端中输入 `htop` 后按下回车即可打开 htop。
+1.  安装 htop：在大多数 Linux 发行版中，可以通过包管理工具直接安装 htop。例如，在 Ubuntu 中执行  `sudo apt install htop`  即可。
+2.  运行 htop：在终端中输入  `htop`  后按下回车即可打开 htop。
 3.  使用界面：htop 的界面由多个区域组成，包括顶部的系统概况、中部的进程列表和底部的命令菜单。通过键盘上的箭头键和其他快捷键可以进行浏览和操作。
 4.  操作命令：例如，使用方向键可以移动光标来选择进程，按下 F9 可以选择杀死进程，按下 F6 可以按照不同的条件对进程进行排序等。
 
@@ -40,11 +40,11 @@
 
 **标签**：[`知识库`](https://nicelinks.site/tags/知识库) · [`Wiki`](https://nicelinks.site/tags/Wiki) · [`自托管`](https://nicelinks.site/tags/自托管)
 
->A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, &amp; more…
+> A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, &amp; more…
 
-![倾城之链 - Outline – Team knowledge base & wiki](https://oss.nicelinks.site/www.getoutline.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Outline – Team knowledge base & wiki](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.getoutline.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Outline](https://nicelinks.site/redirect?url=https://www.getoutline.com/) ，适用于成长型团队的最快 [知识库](https://nicelinks.site/tags/知识库) 。美观、实时协作、功能丰富、兼容Markdown。如果您迷失在混乱的文档中？不太确定谁有权访问？同事在聊天中反复请求相同的信息？是时候整理团队的知识了。官方有列出为什么您会喜欢使用 Outline 的理由：
+**推荐语**：[Outline](https://nicelinks.site/redirect?url=https://www.getoutline.com/) ，适用于成长型团队的最快 [知识库](https://nicelinks.site/tags/知识库) 。美观、实时协作、功能丰富、兼容 Markdown。如果您迷失在混乱的文档中？不太确定谁有权访问？同事在聊天中反复请求相同的信息？是时候整理团队的知识了。官方有列出为什么您会喜欢使用 Outline 的理由：
 
 - **漂亮的文档，甚至无需尝试**：直观的编辑器，支持 Markdown、斜线命令、丰富的嵌入等等；
 - **直观的编辑体验**：一个极快的编辑器，支持 Markdown、斜线命令、嵌入等等…
@@ -56,7 +56,7 @@
 - **协作性**：Outline 经过精心设计，功能强大、实时且易于使用。阅读和编写文档应该是一件令人愉快的事情。
 - **深色模式**：对于夜猫子来说，我们已经为您提供了帮助。Outline 具有漂亮的深色模式，既养眼又美观。
 - **安全和权限**：通过读写权限、用户组、来宾用户、公共共享等管理知识库……
-- **20+ 集成**：简单 [集成](https://www.getoutline.com/integrations) 到您日常使用的工具中，例如 Slack、Figma、Loom 等。找不到您需要的集成？还有一个 [开放的API](https://www.getutline.com/developers) 。[](https://www.getoutline.com/integrations)[](https://www.getoutline.com/developers)
+- **20+ 集成**：简单 [集成](https://www.getoutline.com/integrations) 到您日常使用的工具中，例如 Slack、Figma、Loom 等。找不到您需要的集成？还有一个 [开放的 API](https://www.getutline.com/developers) 。[](https://www.getoutline.com/integrations)[](https://www.getoutline.com/developers)
 - **用您的语言**：Outline 支持 RTL，包括 17 种语言的翻译，包括 🇫🇷 法语、🇪🇸 西班牙语、🇩🇪 德语、🇰🇷 韩语和 🇨🇳 中文。
 - **开源**：Outline 的 [源代码是公开的](https://github.com/outline) ，开发是公开完成的。更喜欢托管在您自己的基础设施上？没问题。
 - **可定制**：自定义域允许您拥有 **docs.yourteam.com**。带有您自己的品牌和颜色的白色标签。
@@ -69,9 +69,9 @@
 
 **标签**：[`自托管`](https://nicelinks.site/tags/自托管) · [`开源`](https://nicelinks.site/tags/开源) · [`聚合`](https://nicelinks.site/tags/聚合)
 
->A list of Free Software network services and web applications which can be hosted on your own servers.
+> A list of Free Software network services and web applications which can be hosted on your own servers.
 
-![倾城之链 - Awesome Selfhosted](https://oss.nicelinks.site/awesome-selfhosted.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Awesome Selfhosted](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/awesome-selfhosted.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Awesome Selfhosted](https://nicelinks.site/redirect?url=https://awesome-selfhosted.net/) ，在您自己的服务器上 [自托管](https://nicelinks.site/tags/自托管) 的自由软件网络服务和 Web 应用程序的列表，涵盖数据分析、自动化、备份、博客平台、内容管理系统（CMS）、域名系统、文件传输同步、知识管理工具、监控、静态站点生成器、网址缩短器、视频监控、网络服务器、数据库管理等数十个方向；自托管是在您自己的服务器上托管和管理应用程序的做法，而不是从 SaaSS 提供商处使用应用程序。如果您注重隐私、安全，选择开源服务，并自托管于自己的服务器，是更棒的选择；而这 [Awesome Selfhosted](https://nicelinks.site/redirect?url=https://awesome-selfhosted.net/) 列表，可以为您提供很棒的参考。
 
@@ -81,27 +81,27 @@
 
 **标签**：[`Emoji`](https://nicelinks.site/tags/Emoji) · [`AI`](https://nicelinks.site/tags/AI) · [`转换`](https://nicelinks.site/tags/转换)
 
->Turn emoji into amazing artwork via AI
+> Turn emoji into amazing artwork via AI
 
-![倾城之链 - TryEmoji | Turn emoji into amazing artwork via AI](https://oss.nicelinks.site/www.tryemoji.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - TryEmoji | Turn emoji into amazing artwork via AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tryemoji.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[TryEmoji](https://nicelinks.site/redirect?url=https://www.tryemoji.com/) ，通过人工智能（ [AI](https://nicelinks.site/tags/AI) ）将表情符号变成令人惊叹的艺术品；使用非常简单，选择你喜欢的 Emoji，接下来交给 AI 就好；非常迅速就能生成，可以下载至本地或者分享（尺寸：`512*512`，格式：`.jpeg`）；它支持您选择不同的风格（如：Pixar、Minecraft、Vincent van Gogh、8 Bit pixel、Claude Monet、Pablo Picasso 等等）；值得一提的是，该项目 [在 Github 仓库开源](https://github.com/leptonai/tryemoji) ，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - TryEmoji | Turn emoji into amazing artwork via AI](https://nicelinks.site/post/656b07710ee17473c38d72fb)
 
-## [Articles about Software Engineering, AI, DevOps, Cloud and more        ](https://nicelinks.site/post/656b044f0ee17473c38d728b)
+## [Articles about Software Engineering, AI, DevOps, Cloud and more ](https://nicelinks.site/post/656b044f0ee17473c38d728b)
 
 **标签**：[`个人博客`](https://nicelinks.site/tags/个人博客) · [`程序员`](https://nicelinks.site/tags/程序员) · [`开发者`](https://nicelinks.site/tags/开发者)
 
 **关键字**：Blog, Software, Engineering, Authority, AWS, Python, Java, Javascript, DevOps, AI
 
->Articles about Software Engineering, AI, DevOps, Cloud and more
+> Articles about Software Engineering, AI, DevOps, Cloud and more
 
-![倾城之链 - Articles about Software Engineering, AI, DevOps, Cloud and more        ](https://oss.nicelinks.site/ataiva.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Articles about Software Engineering, AI, DevOps, Cloud and more        ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ataiva.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[ataiva.com](https://nicelinks.site/redirect?url=https://ataiva.com/) ，英国程序员 `Andrew O` 的个人网站，承载关于软件工程、 [人工智能](https://nicelinks.site/tags/AI) 、DevOps、AWS、GO、云计算、 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 、机器学习、 [Python](https://nicelinks.site/tags/Python) 等的文章；如果您对其感兴趣，可以前往作者 [Github 主页](https://github.com/ao/) 了解更多。
 
-── 出自[倾城之链 - Articles about Software Engineering, AI, DevOps, Cloud and more        ](https://nicelinks.site/post/656b044f0ee17473c38d728b)
+── 出自[倾城之链 - Articles about Software Engineering, AI, DevOps, Cloud and more ](https://nicelinks.site/post/656b044f0ee17473c38d728b)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
@@ -134,7 +134,7 @@
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)

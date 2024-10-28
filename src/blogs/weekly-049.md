@@ -8,7 +8,7 @@
 
 > 且夫天地之间，物各有主，苟非吾之所有，虽一毫而莫取。惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色，取之无禁，用之不竭。是造物者之无尽藏也，而吾与子之所共适。
 
-![倾城之链 - 清风明月阁](https://oss.nicelinks.site/wiki.lovejade.cn.png?x-oss-process=style/png2jpg)
+![倾城之链 - 清风明月阁](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wiki.lovejade.cn.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[清风明月阁](https://nicelinks.site/redirect?url=https://wiki.lovejade.cn/)，基于 [Wiki](https://nicelinks.site/post/61a334f7465c2155e2d15886) 搭建的 Web 应用，名字取自：“惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色”。年与时驰，意与岁去，念其功能之丰盈，特在此：记余之所造，录吾之所闻，享愚之所学，载我之随感.....人生漫短，白首时回顾，堪凭这些许文字以自怜。
 
@@ -24,7 +24,7 @@
 
 > Plask is a browser-based AI motion capture tool and animation editor. With any camera, creators can digitize their movements, automate animation work, collaborate with colleagues, and export them all on one platform.
 
-![倾城之链 - Plask](https://oss.nicelinks.site/plask.ai.png?x-oss-process=style/png2jpg)
+![倾城之链 - Plask](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/plask.ai.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Plask](https://nicelinks.site/redirect?url=https://plask.ai/)，一款基于浏览器的免费 AI 动作捕捉和动画工具。只需在网络摄像头上录制视频。智能 AI 将为您捕捉动作，让动画变得轻而易举。使用 [Plask](https://nicelinks.site/redirect?url=https://plask.ai/) 基于浏览器的编辑工具编辑您的动画，只需一处即可找到所有必要工具，让您的动画完美无缺。[Plask](https://nicelinks.site/redirect?url=https://plask.ai/) 支持您直接在浏览器中共享、查看和协作。使用 Plask 在浏览器中管理您的想法和项目。无论您是单独工作还是与团队合作，它都可以无缝集成到您的工作流程中。它支持大多数专业文件格式，包括 GLB、FBX、BVH 等。每个人的动画，为每个人服务，使用 `Plask`，专业质量的工具唾手可得！
 
@@ -36,7 +36,7 @@
 
 > SVG Wave is a minimal svg wave generator with lot of customization. It lets you abiltiy to generate and export pngs and svgs of beautiful waves. SVG wave also lets you layer multiple waves. Create SVGs for your website designs.
 
-![倾城之链 - Svg Wave - A free & beautiful gradient SVG wave Generator.](https://oss.nicelinks.site/svgwave.in.png?x-oss-process=style/png2jpg)
+![倾城之链 - Svg Wave - A free & beautiful gradient SVG wave Generator.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/svgwave.in.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Svg Wave](https://nicelinks.site/redirect?url=https://svgwave.in/)，一个免费且漂亮的渐变 SVG 波形图生成器。它支持您自由的对波浪 🌊 进行调整，如波浪的高度、图层数量、弯曲度，颜色等等，也支持重制、反转等操作，以便您可以生成自己满意的图形；除此外，[Svg Wave](https://nicelinks.site/redirect?url=https://svgwave.in/) 还支持生成波浪动画（只适用于 Chrome 浏览器）；它可以导出 `SVG`、`PNG` 两种格式。另外值得一提的是，[Svg Wave](https://nicelinks.site/redirect?url=https://svgwave.in/) 这个网站设计的干净、清爽，看着令人颇为舒适。
 
@@ -48,7 +48,7 @@
 
 > Download Free Stock Video Footage, Stock Music & Premiere Pro Templates for your next video editing project. All assets can be downloaded for free!
 
-![倾城之链 - Mixkit - Awesome free assets for your next video project](https://oss.nicelinks.site/mixkit.co.png?x-oss-process=style/png2jpg)
+![倾城之链 - Mixkit - Awesome free assets for your next video project](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mixkit.co.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Mixkit](https://nicelinks.site/redirect?url=https://mixkit.co/)，为您的下一个视频项目提供很棒的**免费**资源，如：视频剪辑、库存音乐（100 多个免费的 Ambient Stock 音乐曲目。从梦幻般的背景音乐到大气、郁郁葱葱的器乐，用我们的环境音乐曲目之一设定完美的基调。）、声音效果和视频模板。他们精心策划了一些世界上最有才华的创作者的剪辑、曲调和模板，所有内容都是免费提供的。[Mixkit](https://nicelinks.site/redirect?url=https://mixkit.co/) 的免费图书馆正在快速增长，每周都有新的视频资产被添加进来，你总能找到完美的高质量项目来下载，并在你的项目中使用。您可以根据需要下载视频、声音和模板，无需署名或注册。如果您从事或有意愿从事视频相关内容创造，[Mixkit](https://nicelinks.site/redirect?url=https://mixkit.co/) 是您非常值得关注的网站。
 
@@ -60,7 +60,7 @@
 
 > 一款基于 Valine 衍生的简洁、安全的评论系统。
 
-![倾城之链 - Waline | Waline](https://oss.nicelinks.site/waline.js.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Waline | Waline](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/waline.js.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Waline](https://nicelinks.site/redirect?url=https://waline.js.org/)，一款基于 Valine 衍生的简洁、安全的评论系统。可以将 Waline 等价成 With backend Valine。它具有以下功能特征：
 

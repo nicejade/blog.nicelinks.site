@@ -6,17 +6,17 @@
 
 **标签**：[`应用`](https://nicelinks.site/tags/应用) · [`社区`](https://nicelinks.site/tags/社区) · [`分享`](https://nicelinks.site/tags/分享)
 
->Threads is where communities come together to discuss everything from the topics you care about today to what'll be trending tomorrow. Whatever it is you're interested in, you can follow and connect directly with your favorite creators and others who love the same things - or build a loyal following of your o
+> Threads is where communities come together to discuss everything from the topics you care about today to what'll be trending tomorrow. Whatever it is you're interested in, you can follow and connect directly with your favorite creators and others who love the same things - or build a loyal following of your o
 
-![倾城之链 - Threads - Instagram's text-based conversation app](https://oss.nicelinks.site/www.threads.net.png?x-oss-process=style/png2jpg)
+![倾城之链 - Threads - Instagram's text-based conversation app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.threads.net.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Threads](https://nicelinks.site/redirect?url=https://www.threads.net/) ：Instagram 旗下的基于文本的对话应用；Threads 是社区聚集在一起讨论一切的地方，从你今天关心的话题到明天的流行趋势。无论你对什么感兴趣，你都可以直接关注，并与你喜欢的创作者和其他喜欢同样事物的人联系；或者建立一个你自己的忠实粉丝，与世界分享你的想法、意见和创意。
 
 ### Threads 是什么？
 
- [Threads](https://nicelinks.site/redirect?url=https://www.threads.net/) 是 Meta 针对 Twitter 所推出的竞品，于  2023 年 07 月 06 日正式上线； [倾城之链](https://nicelinks.site) 官方平台也第一时间下载并做了简单的体验（ [TuringMind](https://www.threads.net/@turingmind) ）；Threads 在下载后可直接透过 Instagram 登入，此时画面会先跳出 Instagram 的追踪用户，可选择要追踪哪些人，并设定是否将账号设为公开。
+[Threads](https://nicelinks.site/redirect?url=https://www.threads.net/) 是 Meta 针对 Twitter 所推出的竞品，于 2023 年 07 月 06 日正式上线； [倾城之链](https://nicelinks.site) 官方平台也第一时间下载并做了简单的体验（ [TuringMind](https://www.threads.net/@turingmind) ）；Threads 在下载后可直接透过 Instagram 登入，此时画面会先跳出 Instagram 的追踪用户，可选择要追踪哪些人，并设定是否将账号设为公开。
 
- Threads 被称为 Meta 版的 twitter，被许多人视为是 Meta 用来迎战 twitter 的竞争者。发帖、看帖等交互设计，与 Twitter 都颇为相似。不过，它允许使用者发表最长 500 字(中英文同样算一个字) 的短文(官方说法是“Threads | 线程”) ，并且可以搭配最长 5 分钟的影片、照片或连结。
+Threads 被称为 Meta 版的 twitter，被许多人视为是 Meta 用来迎战 twitter 的竞争者。发帖、看帖等交互设计，与 Twitter 都颇为相似。不过，它允许使用者发表最长 500 字(中英文同样算一个字) 的短文(官方说法是“Threads | 线程”) ，并且可以搭配最长 5 分钟的影片、照片或连结。
 
 ### 怎么使用 Threads？
 
@@ -40,9 +40,9 @@ Threads 补充条款，并确认你已阅读 Meta 隐私权政策 和 Threads �
 
 **标签**：[`TypeScript`](https://nicelinks.site/tags/TypeScript) · [`正则`](https://nicelinks.site/tags/正则) · [`开源`](https://nicelinks.site/tags/开源)
 
->A compiled-away, type-safe, readable RegExp alternative
+> A compiled-away, type-safe, readable RegExp alternative
 
-![倾城之链 - Welcome · magic-regexp](https://oss.nicelinks.site/regexp.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - Welcome · magic-regexp](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/regexp.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[magic-regexp](https://nicelinks.site/redirect?url=https://regexp.dev/) ，一种编译后的、类型安全的、可读的 RegExp 替代品，它具有如下功能特征：
 
@@ -55,9 +55,9 @@ Threads 补充条款，并确认你已阅读 Meta 隐私权政策 和 Threads �
 [magic-regexp](https://nicelinks.site/redirect?url=https://regexp.dev/) 因为是基于「自然语言语法」，熟悉下 API 之后，使用非常简单，下面是简单示例：
 
 ```js
-import { createRegExp, exactly } from 'magic-regexp'
+import { createRegExp, exactly } from "magic-regexp"
 
-const regExp = createRegExp(exactly('foo/test.js').after('bar/'))
+const regExp = createRegExp(exactly("foo/test.js").after("bar/"))
 console.log(regExp)
 
 // /(?<=bar\/)foo\/test\.js/
@@ -71,24 +71,24 @@ console.log(regExp)
 
 **标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`开源`](https://nicelinks.site/tags/开源)
 
->Cheaper, better, faster enterprise search.
+> Cheaper, better, faster enterprise search.
 
-![倾城之链 - Orama - Search, everywhere.](https://oss.nicelinks.site/oramasearch.com.png?x-oss-process=style/png2jpg)
+![倾城之链 - Orama - Search, everywhere.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/oramasearch.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Orama](https://nicelinks.site/redirect?url=https://oramasearch.com/) 是一个快速、内置电池的全文 [搜索](https://nicelinks.site/tags/搜索) 引擎，完全用 [TypeScript](https://nicelinks.site/tags/TypeScript) 编写，零依赖性。它具有弹性、创新和 [开源](https://nicelinks.site/tags/开源) 的搜索体验，以实现与您的基础设施和数据无缝整合。
 
 JavaScript 运行时是**唯一的**要求。Orama 被设计为可以在任何运行时上工作并且没有依赖性。只需几行代码即可开始，下面是创建一个 Orama 实例的例子：
 
 ```js
-import { create } from '@orama/orama'
- 
+import { create } from "@orama/orama"
+
 const movieDB = await create({
   schema: {
-    title: 'string',
-    director: 'string',
-    plot: 'string',
-    year: 'number',
-    isFavorite: 'boolean',
+    title: "string",
+    director: "string",
+    plot: "string",
+    year: "number",
+    isFavorite: "boolean",
   },
 })
 ```
@@ -97,29 +97,29 @@ Orama 的速度非常快，可以在一毫秒内搜索到数以百万计的内�
 
 ── 出自[倾城之链 - Orama - Search, everywhere.](https://nicelinks.site/post/64a1a4773cd8f526b6eda074)
 
-## [Markmap |  Visualize your Markdown as mindmaps](https://nicelinks.site/post/64a157543cd8f526b6ed9d68)
+## [Markmap | Visualize your Markdown as mindmaps](https://nicelinks.site/post/64a157543cd8f526b6ed9d68)
 
 **标签**：[`思维导图`](https://nicelinks.site/tags/思维导图) · [`可视化`](https://nicelinks.site/tags/可视化) · [`Markdown`](https://nicelinks.site/tags/Markdown)
 
->The website of gera2ld's markmap.
+> The website of gera2ld's markmap.
 
-![倾城之链 - Markmap |  Visualize your Markdown as mindmaps](https://oss.nicelinks.site/markmap.js.org.png?x-oss-process=style/png2jpg)
+![倾城之链 - Markmap |  Visualize your Markdown as mindmaps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markmap.js.org.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[Markmap](https://nicelinks.site/redirect?url=https://markmap.js.org/) ，是一个开源 [程序库](https://nicelinks.site/tags/程序库) ，使用 [Markmap](https://nicelinks.site/tags/Markmap) 将 Markdown [可视化](https://nicelinks.site/tags/可视化) 为思维导图。Markmap 是 Markdown 和 [思维导图](https://nicelinks.site/tags/思维导图) 的组合。它解析 Markdown 内容并提取其内在的层次结构并呈现交互式思维导图，又称**标记图**（`markmap`）。
 
- 最简单的使用方法是将 Markdown 内容加载到 [try it out](https://markmap.js.org/repl) 👉 页面。您可以在 [VSCode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) 🚀、命令行、Vim / Neovim 中使用，也可以通过 npm 工具库，在您的前端项目中进行运用。
+最简单的使用方法是将 Markdown 内容加载到 [try it out](https://markmap.js.org/repl) 👉 页面。您可以在 [VSCode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) 🚀、命令行、Vim / Neovim 中使用，也可以通过 npm 工具库，在您的前端项目中进行运用。
 
 基本原理，Markmap 使用 markmap-lib 将 Markdown 预处理为结构化数据，然后使用 markmap-view 将数据渲染为交互式 [SVG](https://nicelinks.site/tags/SVG) 。值得一提的是，该项目在 [Github 仓库开源](https://github.com/markmap/markmap) ，如果您对其感兴趣，可移步以了解更多。
 
-── 出自[倾城之链 - Markmap |  Visualize your Markdown as mindmaps](https://nicelinks.site/post/64a157543cd8f526b6ed9d68)
+── 出自[倾城之链 - Markmap | Visualize your Markdown as mindmaps](https://nicelinks.site/post/64a157543cd8f526b6ed9d68)
 
 ## [MRSK — Deploy web apps anywhere](https://nicelinks.site/post/64a153ea3cd8f526b6ed9d32)
 
 **标签**：[`Docker`](https://nicelinks.site/tags/Docker) · [`云服务`](https://nicelinks.site/tags/云服务) · [`运维`](https://nicelinks.site/tags/运维)
 
->From bare metal to cloud VMs using Docker, deploy web apps anywhere with zero downtime.
+> From bare metal to cloud VMs using Docker, deploy web apps anywhere with zero downtime.
 
-![倾城之链 - MRSK — Deploy web apps anywhere](https://oss.nicelinks.site/mrsk.dev.png?x-oss-process=style/png2jpg)
+![倾城之链 - MRSK — Deploy web apps anywhere](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mrsk.dev.png?x-oss-process=style/png2jpg)
 
 **推荐语**：[MRSK](https://nicelinks.site/redirect?url=https://mrsk.dev/) 使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 在从裸机到云虚拟机的任何地方部署 Web 应用程序，且停机时间为零。它使用**动态反向代理** Traefik 在新应用程序容器启动和旧应用程序容器停止时保存请求。它可以跨多个主机无缝工作，使用 SSHKit 执行命令。它是为 Rails 应用程序构建的，但适用于可以使用 Docker 进行容器化的任何类型的 Web 应用程序。
 
@@ -139,7 +139,7 @@ MRSK 致力于将这些商业产品所开创的人体工程学进步带到任何
 
 ## 本期文末寄语
 
-山栖是胜事，稍一萦恋，则亦市朝；书画赏鉴是雅事，稍一贪痴，则亦商贾；诗酒是乐事，少一徇人，则亦地狱；好客是豁达事，稍一为俗子所挠，则亦苦海。── 明代 ·  陈继儒《小窗幽记·集醒篇》
+山栖是胜事，稍一萦恋，则亦市朝；书画赏鉴是雅事，稍一贪痴，则亦商贾；诗酒是乐事，少一徇人，则亦地狱；好客是豁达事，稍一为俗子所挠，则亦苦海。── 明代 · 陈继儒《小窗幽记·集醒篇》
 
 > [倾城之链](https://nicelinks.site/?utm_source=weekly)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
@@ -161,7 +161,7 @@ MRSK 致力于将这些商业产品所开创的人体工程学进步带到任何
 - [开启技术变现之路，探索第三收入来源](https://www.jeffjade.com/2020/11/17/173-talk-about-nice-links/)
 - [云集优站，尽在「倾城之链」](https://www.jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 - [云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)
-- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ '欲问美图何处寻？倾城之链有定音')
+- [欲问美图何处寻？倾城之链有定音](https://www.jeffjade.com/2019/02/17/151-aweome-beautiful-picture-website-list/ "欲问美图何处寻？倾城之链有定音")
 - [超实用图片工具网站，值得典藏](https://www.jeffjade.com/2020/07/27/165-aweome-picture-tool-website-list/)
 - [高质量免费 🆓 图标资源大全](https://www.jeffjade.com/2020/09/11/169-high-quality-free-icon-resource-collection/)
 - [十佳 AI 产品工具，为生活添彩](https://www.jeffjade.com/2020/09/23/170-list-of-top-20-ai-product-tools/)
