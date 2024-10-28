@@ -10,7 +10,7 @@
 
 ![倾城之链 - Fastify, Fast and low overhead web framework, for Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.fastify.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Fastify](https://nicelinks.site/redirect?url=https://www.fastify.io/) ，是一款快速、高效的 Web 框架，它是用 JavaScript 编写的，专为 Node.js 设计。Fastify 的目标是提供高性能，同时保持低内存消耗和代码简洁。以下是关于 Fastify 的一些特点：
+**推荐语**：[Fastify](https://www.fastify.io/) ，是一款快速、高效的 Web 框架，它是用 JavaScript 编写的，专为 Node.js 设计。Fastify 的目标是提供高性能，同时保持低内存消耗和代码简洁。以下是关于 Fastify 的一些特点：
 
 - **快速**：Fastify 是一个高性能的框架，它采用了许多优化技术，如异步编程、缓存和路由优化等。
 - **插件系统**：Fastify 拥有强大的插件系统，使得开发者可以快速构建应用程序，而无需从头开始编写所有的功能。
@@ -38,7 +38,7 @@
 
 ![倾城之链 - Welcome to Method of Action](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/method.ac.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Method of Action](https://nicelinks.site/redirect?url=https://method.ac/) ，免费创建工具、玩具和游戏来帮助您学习设计；非常适合没有做过 UI 设计的新手来玩；如果你想学 UI 设计，可以体验下；从最基础的贝塞尔曲线的用法、布尔运算、颜色字体、形状开始。这些都是最通用的设计基础能力，所有的界面设计软件都是这样做的。它提供非常教学方式 ──**寓教于乐**，通过好玩儿的小游戏，基本上可以达到设计入门。
+**推荐语**：[Method of Action](https://method.ac/) ，免费创建工具、玩具和游戏来帮助您学习设计；非常适合没有做过 UI 设计的新手来玩；如果你想学 UI 设计，可以体验下；从最基础的贝塞尔曲线的用法、布尔运算、颜色字体、形状开始。这些都是最通用的设计基础能力，所有的界面设计软件都是这样做的。它提供非常教学方式 ──**寓教于乐**，通过好玩儿的小游戏，基本上可以达到设计入门。
 
 Method Draw 是一个简单易用的网络矢量编辑器。在线 [使用 Method Draw](https://editor.method.ac/) ，无需注册。 [它是开源的，您可以在 GitHub](https://github.com/duopixel/Method-Draw) 上找到源代码。
 
@@ -52,7 +52,7 @@ Method Draw 是一个简单易用的网络矢量编辑器。在线 [使用 Metho
 
 ![倾城之链 - AssemblyScript | A TypeScript-like language for WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.assemblyscript.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AssemblyScript](https://nicelinks.site/redirect?url=https://www.assemblyscript.org/) 用于 WebAssembly 的类似于 TypeScript 的语言（TypeScript-like language），使得无需学习新语言即可轻松编译为 WebAssembly。它使用 [Binaryen](https://github.com/WebAssembly/binaryen) 将 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 的变体（基本上是带有类型的 JavaScript）编译为 [WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae) 。它生成精简且平均的 WebAssembly 模块，同时只需安装一个 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 。
+**推荐语**：[AssemblyScript](https://www.assemblyscript.org/) 用于 WebAssembly 的类似于 TypeScript 的语言（TypeScript-like language），使得无需学习新语言即可轻松编译为 WebAssembly。它使用 [Binaryen](https://github.com/WebAssembly/binaryen) 将 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 的变体（基本上是带有类型的 JavaScript）编译为 [WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae) 。它生成精简且平均的 WebAssembly 模块，同时只需安装一个 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 。
 
 ### 功能特征
 
@@ -179,11 +179,11 @@ Svelte 还通过不需要类或函数来声明组件来提供易用性。每个 
 
 ![倾城之链 - Lose the Very](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.losethevery.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lose the Very](https://nicelinks.site/redirect?url=https://www.losethevery.com/) ，一个有意思的网站，可以用来提高自己的英文表达技巧：从不使用 “Very” 开始；在该网站可以看到很多 “Very + Adjective” 的高级替代词（至少 150+ ）。网站创建者 Connor Callahan 认为：
+**推荐语**：[Lose the Very](https://www.losethevery.com/) ，一个有意思的网站，可以用来提高自己的英文表达技巧：从不使用 “Very” 开始；在该网站可以看到很多 “Very + Adjective” 的高级替代词（至少 150+ ）。网站创建者 Connor Callahan 认为：
 
 > “Very good english" is not very good english. Lose the very.
 
-Connor Callahan 认为 [Lose the Very](https://nicelinks.site/redirect?url=https://www.losethevery.com/) 是帮助从词汇表中删除“非常”（Very）的最佳方法；他主张用一个更简洁的形容词代替 "very" + "adjective"（形容词），并在其中包含 "非常 "的精神，从而使写作更简洁。如果您输入 “beautiful”，它会给出替代词：`bewitching`（[ bih-wich-ing ]），并且给出了该词在前往 [dictionary.com](https://www.dictionary.com/browse/bewitching) 的链接地址，那里提供了对单词的发音、释义、造句以及相关词汇等信息说明。
+Connor Callahan 认为 [Lose the Very](https://www.losethevery.com/) 是帮助从词汇表中删除“非常”（Very）的最佳方法；他主张用一个更简洁的形容词代替 "very" + "adjective"（形容词），并在其中包含 "非常 "的精神，从而使写作更简洁。如果您输入 “beautiful”，它会给出替代词：`bewitching`（[ bih-wich-ing ]），并且给出了该词在前往 [dictionary.com](https://www.dictionary.com/browse/bewitching) 的链接地址，那里提供了对单词的发音、释义、造句以及相关词汇等信息说明。
 
 Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看到添加的形容词（或提出任何建议），可以按 "更新数据库 "按钮，以改善大家的经验。值得一提的是，该项目在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 上获得当天排名第一的产品；有网友评价道：“It’s a very good website”，感兴趣的朋友不妨前往体验下。
 
@@ -199,9 +199,9 @@ Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看�
 
 ![倾城之链 - 懒人导航网 | 全网最实用简洁的懒人导航网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lanrenao.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[懒人导航网](https://nicelinks.site/redirect?url=https://lanrenao.com/)，实用、简洁的网址导航。旨在收集全网精品免费资源，包括资源网站、实用工具、实用软件、免费影视网站、免费音乐、免费小说、免费漫画站、免费动漫，以及**自媒体创作**等等上百个分类的优秀站点，提供简单便捷的网上导航服务。
+**推荐语**：[懒人导航网](https://lanrenao.com/)，实用、简洁的网址导航。旨在收集全网精品免费资源，包括资源网站、实用工具、实用软件、免费影视网站、免费音乐、免费小说、免费漫画站、免费动漫，以及**自媒体创作**等等上百个分类的优秀站点，提供简单便捷的网上导航服务。
 
-[懒人导航网](https://nicelinks.site/redirect?url=https://lanrenao.com/) 将所收录网站，划分为：前端合集、前端导航、摸鱼时间、热榜、新闻、游戏、小说、直播、影视频道、软件下载、搜索查询、素材资源、实用工具、网站建设、探索发现、优质公众号等板块儿，每个板块儿下，又分标签 🏷️；如在**摸鱼时间**板块儿中，有热榜、新闻、游戏、小说、直播等标签，此外该导航还内置各种检索，您可以根据自己的诉求，快速找到自己冲浪 🏄‍♀️ 目标网址。
+[懒人导航网](https://lanrenao.com/) 将所收录网站，划分为：前端合集、前端导航、摸鱼时间、热榜、新闻、游戏、小说、直播、影视频道、软件下载、搜索查询、素材资源、实用工具、网站建设、探索发现、优质公众号等板块儿，每个板块儿下，又分标签 🏷️；如在**摸鱼时间**板块儿中，有热榜、新闻、游戏、小说、直播等标签，此外该导航还内置各种检索，您可以根据自己的诉求，快速找到自己冲浪 🏄‍♀️ 目标网址。
 
 ── 出自[倾城之链 - 懒人导航网 | 全网最实用简洁的懒人导航网](https://nicelinks.site/post/63fa0d9bfe46ca437e0a8a5e)
 
@@ -215,7 +215,7 @@ Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看�
 
 ![倾城之链 - Duolingo 多邻国 ｜ 学习外语，寓教于乐](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.duolingo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[多邻国](https://nicelinks.site/redirect?url=https://www.duolingo.com/) （Duolingo），一款受欢迎的语言学习平台（提供网站和手机应用），该公司以免费增值模式营运：网站及应用程式皆免费使用，但也有提供付费升级版本。截至 2021 年 6 月，多邻国提供了 40 种语言共 106 种的语言课程，也有许多语言课程正在开发中。
+**推荐语**：[多邻国](https://www.duolingo.com/) （Duolingo），一款受欢迎的语言学习平台（提供网站和手机应用），该公司以免费增值模式营运：网站及应用程式皆免费使用，但也有提供付费升级版本。截至 2021 年 6 月，多邻国提供了 40 种语言共 106 种的语言课程，也有许多语言课程正在开发中。
 
 ### 应用特色
 
@@ -250,7 +250,7 @@ Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看�
 
 2020 年 12 月 17 日，在线语言学习 App 多邻国发布了《2020 年语言学习趋势报告》。《报告》数据显示，多邻国全球用户总量达到 5 亿人。新冠疫情期间，其全球用户新增 3000 万人，分别为 2020 年和 2019 年元旦的 2 倍和 1.5 倍，增长速度达 67%。在此期间，多邻国中国用户规模较 2019 年 3 至 4 月同比增长 301%。
 
-每个人的学习方式都不尽相同，该如何达成既照顾大家不同的学习习惯，又保证学习效果一直都是个难题。终于，北京多邻国科技有限公司通过分析亿万用户的学习习惯，成功总结出了一套适用于所有人的、且最有效的学习方法，推出在线语言学习应用—— [Duolingo 多邻国](https://nicelinks.site/redirect?url=https://www.duolingo.com/)。
+每个人的学习方式都不尽相同，该如何达成既照顾大家不同的学习习惯，又保证学习效果一直都是个难题。终于，北京多邻国科技有限公司通过分析亿万用户的学习习惯，成功总结出了一套适用于所有人的、且最有效的学习方法，推出在线语言学习应用—— [Duolingo 多邻国](https://www.duolingo.com/)。
 
 其终极目标是运用现代科技，让人人都能享受到私人教练的指导。如何帮助大家坚持学习一直都是个难题。现在，多邻国有趣的游戏关卡设计，能让更多人在乐趣学习中坚持更久。
 

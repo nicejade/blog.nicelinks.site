@@ -10,7 +10,7 @@
 
 ![倾城之链 - Memos - 具有知识管理和协作功能的开源自托管备忘录中心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/usememos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Memos](https://nicelinks.site/redirect?url=https://usememos.com/) ，具有 [知识管理](https://nicelinks.site/tags/知识管理) 和 [协作](https://nicelinks.site/tags/协作) 功能的开源**自托管**备忘录中心；基于 [Go](https://nicelinks.site/post/606aa86a00d67605dca7de5c) 、TypeScript、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、Less、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) HTML 等编写；该团队在 Github 上有介绍到它具备以下功能：
+**推荐语**：[Memos](https://usememos.com/) ，具有 [知识管理](https://nicelinks.site/tags/知识管理) 和 [协作](https://nicelinks.site/tags/协作) 功能的开源**自托管**备忘录中心；基于 [Go](https://nicelinks.site/post/606aa86a00d67605dca7de5c) 、TypeScript、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、Less、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) HTML 等编写；该团队在 Github 上有介绍到它具备以下功能：
 
 - 🦄 开源并永久免费。
 - 🚀 支持在几秒钟内用 Docker、docker-compose 进行自我托管。
@@ -18,7 +18,7 @@
 - 👥 协作并与你的队友分享。
 - 🧑💻 用于自助服务的 RESTful API。
 
-仅简单这么介绍，在笔者看来并不完备。在笔者看来，[Memos](https://nicelinks.site/redirect?url=https://usememos.com/) 是理想中的「随笔/知识管理工具/个人微博」应用。主要因为以下几点：设计简洁、打开即写（类推特）；支持**自托管**，且操作方便；满足**个性化定制**设置；良好的内置搜索体验；可开启其他人注册 ®️；拥有类 Github Contribution 格子记录 📝；支持创建快捷方式（Filter Shortcut，即根据标签、文本、展示时间等创建的过滤规则）......虽然存在些待优化点，如暂不支持设置标题（Title）、图标（ICON） 以及评论，注入 GA 统计需要额外编写 loadScript 函数，页面直出是 SPA 等，但瑕不掩瑜，Memos 已然成为业余文字阵地的新宠（已于 2022 年 11 月 22 日晚，迫不及待搭建了 [半缘修道舫](https://memo.lovejade.cn/) ，感兴趣朋友可前往以查看效果）。如果您也有欲构建属于个人的微博或知识管理工具，Memos 值得考虑。
+仅简单这么介绍，在笔者看来并不完备。在笔者看来，[Memos](https://usememos.com/) 是理想中的「随笔/知识管理工具/个人微博」应用。主要因为以下几点：设计简洁、打开即写（类推特）；支持**自托管**，且操作方便；满足**个性化定制**设置；良好的内置搜索体验；可开启其他人注册 ®️；拥有类 Github Contribution 格子记录 📝；支持创建快捷方式（Filter Shortcut，即根据标签、文本、展示时间等创建的过滤规则）......虽然存在些待优化点，如暂不支持设置标题（Title）、图标（ICON） 以及评论，注入 GA 统计需要额外编写 loadScript 函数，页面直出是 SPA 等，但瑕不掩瑜，Memos 已然成为业余文字阵地的新宠（已于 2022 年 11 月 22 日晚，迫不及待搭建了 [半缘修道舫](https://memo.lovejade.cn/) ，感兴趣朋友可前往以查看效果）。如果您也有欲构建属于个人的微博或知识管理工具，Memos 值得考虑。
 
 ── 出自[倾城之链 - Memos - 具有知识管理和协作功能的开源自托管备忘录中心](https://nicelinks.site/post/637e1ebc984fb92197ab0f73)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - CS 自学指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/csdiy.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CS 自学指南](https://nicelinks.site/redirect?url=https://csdiy.wiki/) ，一本计算机科学自学指南（`CS`：Computer Science 的缩写），主要由北京大学一名同学编写（贡献者颇多），也是作者对自己大学三年自学生涯的一个纪念。该课程支持**免费在线**阅读，并在 Github 开源，截止 2022 年 11 月，已有 14K Star。作者认为：如果你有一位好老师教你一门好课程，每个人都应该喜欢 CS（计算机科学），深有同感。
+**推荐语**：[CS 自学指南](https://csdiy.wiki/) ，一本计算机科学自学指南（`CS`：Computer Science 的缩写），主要由北京大学一名同学编写（贡献者颇多），也是作者对自己大学三年自学生涯的一个纪念。该课程支持**免费在线**阅读，并在 Github 开源，截止 2022 年 11 月，已有 14K Star。作者认为：如果你有一位好老师教你一门好课程，每个人都应该喜欢 CS（计算机科学），深有同感。
 
 ### 项目初衷
 
@@ -40,15 +40,15 @@
 
 作者非常庆幸在自己大一的时候就选择了自学 CS 这条路，它让我爱上了计算机这门学科，也无比丰富了我的视野。但同时，自学这条路也有很多困难和阻力：课程繁多不知如何选择，资料零散甚至残缺，作业难度不知深浅，课内任务还需要花时间应付······这些主客观因素叠加到一起，使得好课虽多，却只能在收藏夹里吃灰。
 
-在大学的第四个年头，作者想把这一路自学走来的经验和教训，把那些让我受益终身的课程记录下来，分享给大家，形成了这本 [CS 自学指南](https://nicelinks.site/redirect?url=https://csdiy.wiki/) ，以期能给所有想自学计算机的朋友一点帮助。
+在大学的第四个年头，作者想把这一路自学走来的经验和教训，把那些让我受益终身的课程记录下来，分享给大家，形成了这本 [CS 自学指南](https://csdiy.wiki/) ，以期能给所有想自学计算机的朋友一点帮助。
 
 ### 课程目标
 
 作者目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在 2-3 年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的 Project 的洗礼，掌握至少 C / C++ / Java / JS / Python / Go / Rust 等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、 [机器学习](https://nicelinks.site/tags/机器学习) 、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、 [Web 开发](https://nicelinks.site/tags/Web开发) 、云服务、超算等等方面均有所涉猎的全能程序员。此后，无论是选择科研还是就业，相信你都会有相当的竞争力。
 
-关乎 [CS 自学指南](https://nicelinks.site/redirect?url=https://csdiy.wiki/) 背后更多故事，作者在**前言**部分有做阐述，诸如：梦开始的地方 —— CS61A、为什么写这本书、自学的好处与坏处、及书籍适合哪些人群等。其中绝大部分观点，深表认同，如数学与英文的重要性、学会提问、必备工具、自学所存在好处与缺陷等等。
+关乎 [CS 自学指南](https://csdiy.wiki/) 背后更多故事，作者在**前言**部分有做阐述，诸如：梦开始的地方 —— CS61A、为什么写这本书、自学的好处与坏处、及书籍适合哪些人群等。其中绝大部分观点，深表认同，如数学与英文的重要性、学会提问、必备工具、自学所存在好处与缺陷等等。
 
-正如作者在前言里所谈，任何有志于**自学计算机**的朋友，都可以参考 [CS 自学指南](https://nicelinks.site/redirect?url=https://csdiy.wiki/) 这本书。如果你已经有了一定的计算机基础，只是对某个特定的领域感兴趣，可以选择性地挑选你感兴趣的内容进行学习，相信会有所收获。但，大致翻阅其中内容，更多是国外优质课程的`目录`（视频或网站地址），意在解决“想学好、但不知道怎么学”的问题，能帮助有自学之心和毅力朋友少走些弯路，选择性地挑选感兴趣内容进行参考学习即可，不必奉为圭臬。毕竟，能否学到，更大程度取决于**个人求知欲**、**自律**及**英文阅读能力**等。
+正如作者在前言里所谈，任何有志于**自学计算机**的朋友，都可以参考 [CS 自学指南](https://csdiy.wiki/) 这本书。如果你已经有了一定的计算机基础，只是对某个特定的领域感兴趣，可以选择性地挑选你感兴趣的内容进行学习，相信会有所收获。但，大致翻阅其中内容，更多是国外优质课程的`目录`（视频或网站地址），意在解决“想学好、但不知道怎么学”的问题，能帮助有自学之心和毅力朋友少走些弯路，选择性地挑选感兴趣内容进行参考学习即可，不必奉为圭臬。毕竟，能否学到，更大程度取决于**个人求知欲**、**自律**及**英文阅读能力**等。
 
 ── 出自[倾城之链 - CS 自学指南](https://nicelinks.site/post/6379dc24049fa51046c4b83c)
 
@@ -60,7 +60,7 @@
 
 ![倾城之链 - Raycast - Supercharged productivity](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.raycast.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Raycast](https://nicelinks.site/redirect?url=https://www.raycast.com/) 是一款速度极快、完全可扩展的发射器。它可以让您完成任务、计算、共享常用链接等。与其功能类似的产品有：macOS 的「聚焦（Spotlight）」、[Alfred](https://nicelinks.site/post/5ae926e67b44827edbc5c69a) 等；Raycast 堪称是为开发人员定制的生产力工具，它具有以下功能特性：
+**推荐语**：[Raycast](https://www.raycast.com/) 是一款速度极快、完全可扩展的发射器。它可以让您完成任务、计算、共享常用链接等。与其功能类似的产品有：macOS 的「聚焦（Spotlight）」、[Alfred](https://nicelinks.site/post/5ae926e67b44827edbc5c69a) 等；Raycast 堪称是为开发人员定制的生产力工具，它具有以下功能特性：
 
 ### 提高您的生产力
 
@@ -113,7 +113,7 @@ Raycast 不仅仅是个人的工具。它也是一种工具，**专为共享而�
 - **一次学习，永远记住**：受命令行界面的启发，您的工具统一为命令，并遵循相同的结构以提高您的工作效率。
 - **在几秒钟内完成任务**：Raycast 是为更快、更轻量级和更高效而原生构建的。每个动作都针对速度和可访问性进行了优化。
 
-[Raycast](https://nicelinks.site/redirect?url=https://www.raycast.com/) 和 Alfred、Spotlight（个人极少使用） 存在很多相似之处，但 Raycast 似乎对第三方服务的整合更加彻底，包括操作视图、信息展示更详细，除了本身涵盖的一些系统快捷设置之外，还可以通过命令脚本扩展，并提供了 扩展 Raycast 所需的一切： [Raycast Extensions](https://github.com/raycast/extensions) ，使其可玩性极大增强。目前，仅支持 MacOS，于 Windows、Linux 用户，尚需等待。就个人初步学习、体验来看，Raycast 有足够的潜力成为下一个**效率神器**，让我等极客爱好者拭目以待。另外值得一提的是，**创建和分享**源代码美丽图像的小工具： [ray.so](https://nicelinks.site/post/609d1c43a0289c0663f94dc4) 、图标制造工具： [icon.ray.so](https://icon.ray.so/) 也都是出自该团队。
+[Raycast](https://www.raycast.com/) 和 Alfred、Spotlight（个人极少使用） 存在很多相似之处，但 Raycast 似乎对第三方服务的整合更加彻底，包括操作视图、信息展示更详细，除了本身涵盖的一些系统快捷设置之外，还可以通过命令脚本扩展，并提供了 扩展 Raycast 所需的一切： [Raycast Extensions](https://github.com/raycast/extensions) ，使其可玩性极大增强。目前，仅支持 MacOS，于 Windows、Linux 用户，尚需等待。就个人初步学习、体验来看，Raycast 有足够的潜力成为下一个**效率神器**，让我等极客爱好者拭目以待。另外值得一提的是，**创建和分享**源代码美丽图像的小工具： [ray.so](https://nicelinks.site/post/609d1c43a0289c0663f94dc4) 、图标制造工具： [icon.ray.so](https://icon.ray.so/) 也都是出自该团队。
 
 ── 出自[倾城之链 - Raycast - Supercharged productivity](https://nicelinks.site/post/6378d324049fa51046c4ac75)
 
@@ -128,7 +128,7 @@ Raycast 不仅仅是个人的工具。它也是一种工具，**专为共享而�
 ![倾城之链 - Wasmer - The Universal WebAssembly Runtime](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wasmer.io.png?x-oss-process=style/png2jpg)
 
 **推荐语**：
-[Wasmer](https://nicelinks.site/redirect?url=https://wasmer.io/) 🚀 支持 WASI 和 Emscripten 的领先 WebAssembly 运行时。它提供基于 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 的超轻量级容器，使得可以在任何地方运行：从桌面到云、以及 IoT 设备，并且也能嵌入到 [任何编程语言](https://github.com/wasmerio/wasmer#language-integrations) 中。它具有以下功能特性：
+[Wasmer](https://wasmer.io/) 🚀 支持 WASI 和 Emscripten 的领先 WebAssembly 运行时。它提供基于 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 的超轻量级容器，使得可以在任何地方运行：从桌面到云、以及 IoT 设备，并且也能嵌入到 [任何编程语言](https://github.com/wasmerio/wasmer#language-integrations) 中。它具有以下功能特性：
 
 - **快速又安全**. Wasmer 在完全沙盒化的环境中以“接近本机”的速度运行 WebAssembly。
 - **可插拔**. Wasmer 可以根据你的需求支持不同的编译框架 (LLVM，Cranelift ...)。
@@ -180,7 +180,7 @@ wapm run cowsay '倾城之链'
 
 ![倾城之链 - Keras: the Python deep learning API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/keras.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Keras](https://nicelinks.site/redirect?url=http://keras.io/) 是一个用 Python 编写的开源神经网路库，从 2021 年 8 月的版本 2.6 开始，它是在 [TensorFlow 2](https://nicelinks.site/tags/TensorFlow) 上建立的高层 API；在版本 2.4 及以前能够在 TensorFlow、Microsoft Cognitive Toolkit、Theano 或 PlaidML 多个后端之上执行。Keras 旨在**快速实现深度神经网路，专注于使用者友好、模组化和可延伸性**，是 ONEIROS（开放式神经电子智慧机器人作业系统）专案研究工作的部分产物，主要作者和维护者是 Google 工程师 François Chollet (弗朗索瓦·肖莱，也是 XCeption 深度神经网路模型的作者)。Keras 主要特征是：**简单**、**灵活**、**强大**。除此之外，它还具有以下特色：
+**推荐语**：[Keras](=http://keras.io/) 是一个用 Python 编写的开源神经网路库，从 2021 年 8 月的版本 2.6 开始，它是在 [TensorFlow 2](https://nicelinks.site/tags/TensorFlow) 上建立的高层 API；在版本 2.4 及以前能够在 TensorFlow、Microsoft Cognitive Toolkit、Theano 或 PlaidML 多个后端之上执行。Keras 旨在**快速实现深度神经网路，专注于使用者友好、模组化和可延伸性**，是 ONEIROS（开放式神经电子智慧机器人作业系统）专案研究工作的部分产物，主要作者和维护者是 Google 工程师 François Chollet (弗朗索瓦·肖莱，也是 XCeption 深度神经网路模型的作者)。Keras 主要特征是：**简单**、**灵活**、**强大**。除此之外，它还具有以下特色：
 
 ### 人类的深度学习
 
@@ -218,7 +218,7 @@ Keras，**人类的深度学习**。由于其易用性和对用户体验的关�
 
 ![倾城之链 - Astro | Build faster websites](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/astro.build.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Astro](https://nicelinks.site/redirect?url=https://astro.build/) ，是现代网络的网站构建工具：强大的开发者体验满足轻量级输出。从任何地方提取内容并使用 Astro 的下一代岛式架构快速提供内容，受到超过 30,000 名开发人员和世界级团队的信赖。它具有以下功能特征：
+**推荐语**：[Astro](https://astro.build/) ，是现代网络的网站构建工具：强大的开发者体验满足轻量级输出。从任何地方提取内容并使用 Astro 的下一代岛式架构快速提供内容，受到超过 30,000 名开发人员和世界级团队的信赖。它具有以下功能特征：
 
 ### 专为速度而设计
 

@@ -12,7 +12,7 @@
 
 ![倾城之链 - Folio.ink, free fast and easy portfolios.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/folio.ink.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Folio.ink](https://nicelinks.site/redirect?url=https://folio.ink/) 为广告素材提供免费图片托管，它的创建是一种快速、有效的方式，可以在精美的演示文稿中共享一组图像。它是为完成这项工作而设计的，无需登录，只需上传即可，并且**完全免费**。
+**推荐语**：[Folio.ink](https://folio.ink/) 为广告素材提供免费图片托管，它的创建是一种快速、有效的方式，可以在精美的演示文稿中共享一组图像。它是为完成这项工作而设计的，无需登录，只需上传即可，并且**完全免费**。
 
 Folio.ink 使用非常简单、方便：图片上传完毕（支持批量），即会生成**在线链接**，您可以通过各种渠道，将其分享给他人。值得一提的是，Folio 支持各种设置，如展示过渡动画、何时过期、播放是否轮询、页面主题颜色、是否公开到作品集等，而且支持编辑、删除。于我而言，这是很棒的功能。有分享了两张图，感兴趣的朋友，可以[点击链接 🔗 查看](https://folio.ink/W6kojQ)，以感受 Folio 之设计。
 
@@ -20,7 +20,7 @@ Folio.ink 是安全的：用于托管数字作品集和艺术作品的干净简�
 
 Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意人员提供一种创建作品集的方法，其中包含他们最佳作品的浓缩示例，针对不同的机会。一个连接创意人员并为他们提供支持他们忙碌工作的工具的微型投资组合平台。
 
-公开分享您的创作，并从他人那里寻找灵感。从对当今世界各地的事件、文化和人们的新观点中获得启发。[Folio.ink 精选](https://nicelinks.site/redirect?url=https://folio.ink/explore)，支持您探索的公共作品集。
+公开分享您的创作，并从他人那里寻找灵感。从对当今世界各地的事件、文化和人们的新观点中获得启发。[Folio.ink 精选](https://folio.ink/explore)，支持您探索的公共作品集。
 
 ── 出自[倾城之链 - Folio.ink, free fast and easy portfolios.](https://nicelinks.site/post/62bda70d0c61c703d774759b)
 
@@ -33,7 +33,7 @@ Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意�
 ![倾城之链 - OpenSumi | OpenSumi 框架](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/opensumi.com.png?x-oss-process=style/png2jpg)
 
 **推荐语**：
-[OpenSumi](https://nicelinks.site/redirect?url=https://opensumi.com/)，一款帮助你快速搭建本地和云端 IDE 的框架。OpenSumi 框架，早期由阿里集团淘系工程团队及蚂蚁集团体验技术部、研发效能团队联合发起，共同研发的 IDE 标准化研发框架。它基于 TypeScript + React 进行编码，实现了包含资源管理器、编辑器、调试、Git 面板、搜索面板等核心功能模块，开发者只要基于起步项目进行简单配置，便可以快速地搭建属于自己的本地或云端 IDE 产品。的框架。OpenSumi 自身兼容 VS Code 插件生态（思考），主流 VS Code 插件，均可无缝在基于 OpenSumi 研发的产品中运行，同时，框架也为开发者提供多种低成本，高定制的视图定制能力，能满足 IDE 场景下绝大多数的视图定制场景。它具有以下能力特性：
+[OpenSumi](https://opensumi.com/)，一款帮助你快速搭建本地和云端 IDE 的框架。OpenSumi 框架，早期由阿里集团淘系工程团队及蚂蚁集团体验技术部、研发效能团队联合发起，共同研发的 IDE 标准化研发框架。它基于 TypeScript + React 进行编码，实现了包含资源管理器、编辑器、调试、Git 面板、搜索面板等核心功能模块，开发者只要基于起步项目进行简单配置，便可以快速地搭建属于自己的本地或云端 IDE 产品。的框架。OpenSumi 自身兼容 VS Code 插件生态（思考），主流 VS Code 插件，均可无缝在基于 OpenSumi 研发的产品中运行，同时，框架也为开发者提供多种低成本，高定制的视图定制能力，能满足 IDE 场景下绝大多数的视图定制场景。它具有以下能力特性：
 
 ### 轻松集成
 
@@ -65,7 +65,7 @@ Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意�
 
 ![倾城之链 - Theia - Cloud and Desktop IDE Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/theia-ide.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Theia](https://nicelinks.site/redirect?url=https://theia-ide.org/)，开放、灵活、可扩展的云和桌面 IDE 平台。它是由 Eclipse 基金会，基于现代 Web 技术，打造的云端及桌面 IDE 框架，该产品完全开源的，由多元化开发者社区进行开发。Theia 具有以下功能特征：
+**推荐语**：[Theia](https://theia-ide.org/)，开放、灵活、可扩展的云和桌面 IDE 平台。它是由 Eclipse 基金会，基于现代 Web 技术，打造的云端及桌面 IDE 框架，该产品完全开源的，由多元化开发者社区进行开发。Theia 具有以下功能特征：
 
 ### 云和桌面
 
@@ -101,7 +101,7 @@ Theia 是一个可扩展的平台，用于使用最先进的 Web 技术，开发
 
 ![倾城之链 - PM2 - Home](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pm2.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [pm2](https://nicelinks.site/redirect?url=https://pm2.io/) ，是具有内置**负载均衡器**的 Node.js 应用程序的生产流程管理器。您可以基于它，来部署、管理、维护您的 Node.js 应用程序，并提高其性能。它允许您使应用程序永远保持活动状态，在不停机的情况下重新加载它们，并促进常见的系统管理任务。pm2 适用于 Linux（稳定）和 macOS（稳定）和 Windows（稳定）。从 Node.js 12.X 开始支持所有 Node.js 版本。在生产模式下，安启动应用程序非常简单：
+**推荐语**： [pm2](https://pm2.io/) ，是具有内置**负载均衡器**的 Node.js 应用程序的生产流程管理器。您可以基于它，来部署、管理、维护您的 Node.js 应用程序，并提高其性能。它允许您使应用程序永远保持活动状态，在不停机的情况下重新加载它们，并促进常见的系统管理任务。pm2 适用于 Linux（稳定）和 macOS（稳定）和 Windows（稳定）。从 Node.js 12.X 开始支持所有 Node.js 版本。在生产模式下，安启动应用程序非常简单：
 
 ```bash
 # 安装 pm2
@@ -165,7 +165,7 @@ PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，�
 
 ![倾城之链 - GitHub Star History](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/star-history.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitHub Star History](https://nicelinks.site/redirect?url=https://star-history.com)，用来可视化查看 [GitHub](https://nicelinks.site/tags/Github) 仓库 Star 历史图。您可以基于此工具，将生成的 **LIVE 图表**，以非常便捷的方式，添加到您的 GitHub README，从而展示给访问者。它具有以下功能特征：
+**推荐语**：[GitHub Star History](https://star-history.com)，用来可视化查看 [GitHub](https://nicelinks.site/tags/Github) 仓库 Star 历史图。您可以基于此工具，将生成的 **LIVE 图表**，以非常便捷的方式，添加到您的 GitHub README，从而展示给访问者。它具有以下功能特征：
 
 - 独特的素描 xkcd 感觉图；
 - 一键生成高品质图表图片；
@@ -177,7 +177,7 @@ PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，�
   - 在 Twitter 上快速分享；
   - 支持输入多个 repos；
 
-您可以下载该图表（图片或 `CSV`），还可以基于 Markdown 格式，嵌入实时图表在您的网站或 GitHub README；此外，它提供了 Chrome 免费扩展。值得一提的是，[star-history](https://nicelinks.site/redirect?url=https://star-history.com) 是用现代技术栈构建（[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) + [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) + [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)，[pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)），该项目在 Github 开源，感兴趣的朋友可以了解下。
+您可以下载该图表（图片或 `CSV`），还可以基于 Markdown 格式，嵌入实时图表在您的网站或 GitHub README；此外，它提供了 Chrome 免费扩展。值得一提的是，[star-history](https://star-history.com) 是用现代技术栈构建（[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) + [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) + [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)，[pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)），该项目在 Github 开源，感兴趣的朋友可以了解下。
 
 ── 出自[倾城之链 - GitHub Star History](https://nicelinks.site/post/62bb3c660c61c703d774758e)
 
@@ -189,7 +189,7 @@ PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，�
 
 ![倾城之链 - Darling |   run macOS software on Linux](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.darlinghq.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Darling](https://nicelinks.site/redirect?url=https://www.darlinghq.org/) 是一个翻译层，可让您在 [Linux](https://nicelinks.site/tags/Linux) 上运行 macOS 软件。它具有以下功能特征：
+**推荐语**：[Darling](https://www.darlinghq.org/) 是一个翻译层，可让您在 [Linux](https://nicelinks.site/tags/Linux) 上运行 macOS 软件。它具有以下功能特征：
 
 ### 快速的
 
@@ -212,7 +212,7 @@ Darling 为您完成大部分设置。坐下来享受使用您最喜爱的软件
 
 该团队的目标是：将在 Darling 下运行的应用程序完全集成到 Linux 桌面体验中，使它们看起来、感觉和行为都像原生 Linux 应用程序一样。
 
-Darling，适用于 Linux 的 Darwin/macOS 仿真层；这个名字是“Darwin”和“Linux”的组合。Darwin 是 macOS 和 iOS 所基于的核心操作系统。该项目在 [Github 开源](https://nicelinks.site/redirect?url=https://github.com/darlinghq/darling)，感兴趣的朋友可深入了解。值得一提的是，Wine 可以让你在 Linux 上运行 Windows 软件，而 Darling 也可以为 macOS 软件做同样的事情。另一个类似的项目是 [Anbox](https://nicelinks.site/redirect?url=https://anbox.io/)，用于 Android 应用程序。
+Darling，适用于 Linux 的 Darwin/macOS 仿真层；这个名字是“Darwin”和“Linux”的组合。Darwin 是 macOS 和 iOS 所基于的核心操作系统。该项目在 [Github 开源](https://github.com/darlinghq/darling)，感兴趣的朋友可深入了解。值得一提的是，Wine 可以让你在 Linux 上运行 Windows 软件，而 Darling 也可以为 macOS 软件做同样的事情。另一个类似的项目是 [Anbox](https://anbox.io/)，用于 Android 应用程序。
 
 ── 出自[倾城之链 - Darling | run macOS software on Linux](https://nicelinks.site/post/62b849413cc95e702564e0d5)
 

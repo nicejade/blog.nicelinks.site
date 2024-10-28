@@ -24,7 +24,7 @@
 - 用于 SSH 机密和配置的集成加密容器；
 - SSH、SFTP 和 Telnet 客户端可作为 Web 应用程序使用；
 
-Tabby 是 Windows 标准终端 (conhost)、PowerShell ISE、PuTTY、macOS Terminal.app 和 iTerm 的替代品；Tabby 不是新的 shell 或 MinGW 或 Cygwin 的替代品。它也不是轻量级的 - 如果 RAM 使用很重要，请考虑 [Conemu](https://nicelinks.site/redirect?url=https://conemu.github.io/) 或 [Alacritty](https://nicelinks.site/redirect?url=https://github.com/jwilm/alacritty) 。
+Tabby 是 Windows 标准终端 (conhost)、PowerShell ISE、PuTTY、macOS Terminal.app 和 iTerm 的替代品；Tabby 不是新的 shell 或 MinGW 或 Cygwin 的替代品。它也不是轻量级的 - 如果 RAM 使用很重要，请考虑 [Conemu](https://conemu.github.io/) 或 [Alacritty](https://github.com/jwilm/alacritty) 。
 
 Tabby 是一个无限可定制的跨平台终端应用程序，用于本地 shell、串行、SSH 和 Telnet 连接。无论是作为终端、`SSH 客户端 `，抑或是串行终端，`tabby` （更现代的终端）不仅具备丰富的功能，而且便携，支持编写插件和主题；作为 MacOS 爱好者，之前总是用 [iTerm2](https://nicelinks.site/post/628b9fd935bb417da9ed231b) ，如今接触到 Tabby，顿时被其所吸引，相信进一步深入熟悉和使用，很可能“移情别恋”；更棒的是 Tabby 在全平台可用，且在 [Github 开源](https://github.com/Eugeny/tabby) ，如果您对它感兴趣，可前往 [Tabby 特征](https://tabby.sh/about/features) 以了解更多。
 
@@ -40,7 +40,7 @@ Tabby 是一个无限可定制的跨平台终端应用程序，用于本地 shel
 
 ![倾城之链 - Dragonfly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dragonflydb.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dragonfly](https://nicelinks.site/redirect?url=https://dragonflydb.io/) （蜻蜓）是一种现代的、可扩展的内存数据存储，与 Redis 和 Memcached API 完全兼容。Dragonfly 在多线程、无共享的体系结构之上实现了新的算法和数据结构。因此，与 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 相比，吞吐量增加了 16 倍，达到 25 倍。，并且在单个实例上支持数百万 QPS。Dragonfly 的核心属性使其成为经济高效、易于使用的 Redis 替代品。它具有以下功能特征：
+**推荐语**：[Dragonfly](https://dragonflydb.io/) （蜻蜓）是一种现代的、可扩展的内存数据存储，与 Redis 和 Memcached API 完全兼容。Dragonfly 在多线程、无共享的体系结构之上实现了新的算法和数据结构。因此，与 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 相比，吞吐量增加了 16 倍，达到 25 倍。，并且在单个实例上支持数百万 QPS。Dragonfly 的核心属性使其成为经济高效、易于使用的 Redis 替代品。它具有以下功能特征：
 
 ### 易于理解的
 
@@ -84,7 +84,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 ![倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aigc.yizhentv.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[一帧秒创](https://nicelinks.site/redirect?url=https://aigc.yizhentv.com/) ，是一个以 AIGC 为基础的效率工具，为图文 [创作者](https://nicelinks.site/tags/创作者) 和营销机构提供一键图文转视频（TTV）服务，通过对优质素材、智能 [AI](https://nicelinks.site/tags/AI) 语音、智能字幕、BGM、LOGO 等匹配设置，无需剪辑，一键成片，零门槛创作视频。它使用非常简单，具体流程如下：
+**推荐语**：[一帧秒创](https://aigc.yizhentv.com/) ，是一个以 AIGC 为基础的效率工具，为图文 [创作者](https://nicelinks.site/tags/创作者) 和营销机构提供一键图文转视频（TTV）服务，通过对优质素材、智能 [AI](https://nicelinks.site/tags/AI) 语音、智能字幕、BGM、LOGO 等匹配设置，无需剪辑，一键成片，零门槛创作视频。它使用非常简单，具体流程如下：
 
 - **准备文稿**：输入文字或者粘贴自媒体文章链接，一键导入文稿；
 - **文本处理**：AI 引擎会为您的文稿，进行智能语义分析与摘要提取；
@@ -115,7 +115,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 上传自有素材，高效视频管理。创作者上传私有素材，平台将对视频进行智能标签、视频去抖、智能去水印、镜头级片段拆条等操作，实现高效视频搜索。
 
-[一帧秒创](https://nicelinks.site/redirect?url=https://aigc.yizhentv.com/) ，是一键式 AI 智能图文转视频的生成神器。您只需将文章或自媒体账号文章链接导入工具，即可进行一键图文转视频（TTV）。全自动 AI 智能配视频、配图片、配场景、配语音、配字幕、配背景音乐素材等，一帧秒创全面赋能图文创作者，一键导入，无需剪辑，零门槛视频创作。在后疫情时代，`一帧秒创`赋能图文创作者，增加第二流量和收益曲线，让**创作者**轻松从自媒体平台找到价值。
+[一帧秒创](https://aigc.yizhentv.com/) ，是一键式 AI 智能图文转视频的生成神器。您只需将文章或自媒体账号文章链接导入工具，即可进行一键图文转视频（TTV）。全自动 AI 智能配视频、配图片、配场景、配语音、配字幕、配背景音乐素材等，一帧秒创全面赋能图文创作者，一键导入，无需剪辑，零门槛视频创作。在后疫情时代，`一帧秒创`赋能图文创作者，增加第二流量和收益曲线，让**创作者**轻松从自媒体平台找到价值。
 
 ── 出自[倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://nicelinks.site/post/634e6d2d309ddd5ca75b8ab2)
 
@@ -129,7 +129,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 ![倾城之链 - PICO 官方网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.picoxr.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PICO](https://nicelinks.site/redirect?url=https://www.picoxr.com/) ，智能穿戴设备品牌（该名来源于南美的一种珍稀鸟类）；成立于 2015 年 3 月，于 2021 年 9 月并入「字节跳动」；PICO 以“（为用户）创造全新连接，拓展生活体验，释放无限潜能”作为品牌使命，致力于“成为领先的世界级 XR 平台，成就开发者与创作者，共同为全球消费者创造更美好的生活体验”。
+**推荐语**：[PICO](https://www.picoxr.com/) ，智能穿戴设备品牌（该名来源于南美的一种珍稀鸟类）；成立于 2015 年 3 月，于 2021 年 9 月并入「字节跳动」；PICO 以“（为用户）创造全新连接，拓展生活体验，释放无限潜能”作为品牌使命，致力于“成为领先的世界级 XR 平台，成就开发者与创作者，共同为全球消费者创造更美好的生活体验”。
 
 ### 设计和技术
 
@@ -144,7 +144,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 - 2021 年 8 月 29 日，PICO 发布全员信，披露已被字节收购，将被并入字节 VR 相关业务线；
 - 2022 年 9 月 27 日消息，PICO 在中国市场正式发布新一代 VR 一体机——PICO 4 系列，售价 2499 元起；
 
-PICO 最新产品更新至 [pico4](https://nicelinks.site/redirect?url=https://www.picoxr.com/cn/products/pico4) （VR 一体机，畅玩版 8+256G，售价 ¥2949）；若是单纯从产品配置上来看，PICO 4 的确可圈可点。全系搭载高通骁龙 XR2 芯片、在不含绑带和电池的情况下，其重量仅相当于一瓶可乐，4K+ 超视感屏和 105 超大视角的画面，6DoF 空间头手定位让设备精准识别。
+PICO 最新产品更新至 [pico4](https://www.picoxr.com/cn/products/pico4) （VR 一体机，畅玩版 8+256G，售价 ¥2949）；若是单纯从产品配置上来看，PICO 4 的确可圈可点。全系搭载高通骁龙 XR2 芯片、在不含绑带和电池的情况下，其重量仅相当于一瓶可乐，4K+ 超视感屏和 105 超大视角的画面，6DoF 空间头手定位让设备精准识别。
 
 由于一篇名为「元宇宙：从 AR / VR 眼镜到数字虚拟人」的分享，从而得知 PICO 的存在，大致了解目下 AR / VR 除了软硬件有待加强之外，存在“内容存短板、盈利不清晰”等困难；而 Meta（前 Facebook）的 Oculus Quest 产品及平台，相比 PICO 表现更为出色；未来，无论 VR、乃至**元宇宙**布局，期待能不断有更出彩的产品与称赞的内容。
 
@@ -158,7 +158,7 @@ PICO 最新产品更新至 [pico4](https://nicelinks.site/redirect?url=https://w
 
 ![倾城之链 - The podcast hosting platform for creators | Castos](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/castos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Castos](https://nicelinks.site/redirect?url=https://castos.com/) 是创作者的播客托管平台。他们为您提供了所有工具来增加您的受众并将您的内容货币化。他们的目标很简单：让 [播客](https://nicelinks.site/tags/播客) 变得容易，让所有人都可以访问。Castos 具有以下功能特征：
+**推荐语**：[Castos](https://castos.com/) 是创作者的播客托管平台。他们为您提供了所有工具来增加您的受众并将您的内容货币化。他们的目标很简单：让 [播客](https://nicelinks.site/tags/播客) 变得容易，让所有人都可以访问。Castos 具有以下功能特征：
 
 ### 自动驾驶仪上的转录
 
@@ -188,7 +188,7 @@ Castos 创作团队认为，好奇心、求知欲和不断追求进步与知识�
 
 ![倾城之链 - 科技双眼啤](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kjsyp.fm.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[科技双眼啤](https://nicelinks.site/redirect?url=https://kjsyp.fm/) ：「佐声道」出品，开发者 Cali 与设计师 Rather 共同主持的科技`播客`，这是一档对互联网软件硬件从开发与设计不同视角的深入探讨。
+**推荐语**：[科技双眼啤](https://kjsyp.fm/) ：「佐声道」出品，开发者 Cali 与设计师 Rather 共同主持的科技`播客`，这是一档对互联网软件硬件从开发与设计不同视角的深入探讨。
 
 > 佐声道主理人 `Cali` 在留美期间，有丰富的工作经验，对于产品有极度的热爱以及不同的体验经历；设计师 Rather 一直在国内从事着 UI 设计师的工作，并在这一行有着不同的独特见解。同为苹果粉的两人一拍即合，他们也将自己对于产品的解读认知、对设计的严谨态度都延续到了他们所有的节目当中。
 

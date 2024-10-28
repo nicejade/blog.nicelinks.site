@@ -10,7 +10,7 @@
 
 ![倾城之链 - Memo | Audio and video to text, very simple. Power By AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/memo.ac.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Memo](https://nicelinks.site/redirect?url=https://memo.ac/) 是一款 [AI](https://nicelinks.site/tags/AI) 驱动的视频、播客转文字工具。无论是 YouTube、Podcast 还是本地音视频文件，转换文本，浓缩精华。它具有如下功能特征：
+**推荐语**：[Memo](https://memo.ac/) 是一款 [AI](https://nicelinks.site/tags/AI) 驱动的视频、播客转文字工具。无论是 YouTube、Podcast 还是本地音视频文件，转换文本，浓缩精华。它具有如下功能特征：
 
 - 🎥 **视频转文字**：轻松将 YouTube 视频、播客等转换为文本转录。
 - 🌍 **多语言支持**：中、英、日等 90 多种语言之间的转录和翻译。
@@ -40,7 +40,7 @@
 
 ![倾城之链 - Taskwarrior - Command line Task Management](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/taskwarrior.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Taskwarrior](https://nicelinks.site/redirect?url=https://taskwarrior.org/) 是款免费开源软件，可从命令行管理您的 TODO 列表（命令行[任务管理器](https://nicelinks.site/tags/任务管理器)）。它灵活、快速且不引人注目。它完成它的工作然后就不再妨碍你了。作为一个可移植的开源项目开发，具有活跃且相当庞大的 [工具、挂钩和扩展生态系统](https://taskwarrior.org/tools/) 。为什么选择任务战士（Taskwarrior）？官方给出使用 Taskwarrior 的几个好理由：
+**推荐语**：[Taskwarrior](https://taskwarrior.org/) 是款免费开源软件，可从命令行管理您的 TODO 列表（命令行[任务管理器](https://nicelinks.site/tags/任务管理器)）。它灵活、快速且不引人注目。它完成它的工作然后就不再妨碍你了。作为一个可移植的开源项目开发，具有活跃且相当庞大的 [工具、挂钩和扩展生态系统](https://taskwarrior.org/tools/) 。为什么选择任务战士（Taskwarrior）？官方给出使用 Taskwarrior 的几个好理由：
 
 - 您是一名命令行用户，正在寻找一种低调、快速、高效、灵活的工具来轻松管理任务列表吗？Taskwarrior 的设计具有低摩擦性，可让您捕捉细节并立即返回工作。
 
@@ -70,7 +70,7 @@ Taskwarrior 可扩展以适应您的工作流程。将其用作一个简单的�
 
 ![倾城之链 - Shiki | A beautiful Syntax Highlighter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shiki.matsu.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Shiki](https://nicelinks.site/redirect?url=https://shiki.matsu.io/) 是一款漂亮的语法荧光笔（Syntax Highlighter）。它使用 TextMate 语法来标记字符串，并使用 VS Code 主题为标记着色。简而言之，Shiki 生成的 HTML 看起来与 VS Code 中的代码完全相同，并且它在静态网站生成器（或动态网站）中运行良好。它的使用起来非常简单：
+**推荐语**： [Shiki](https://shiki.matsu.io/) 是一款漂亮的语法荧光笔（Syntax Highlighter）。它使用 TextMate 语法来标记字符串，并使用 VS Code 主题为标记着色。简而言之，Shiki 生成的 HTML 看起来与 VS Code 中的代码完全相同，并且它在静态网站生成器（或动态网站）中运行良好。它的使用起来非常简单：
 
 ```js
 const shiki = require("shiki")
@@ -98,7 +98,7 @@ shiki
 
 ![倾城之链 - 文案门 · 在我的文字里，总有你的故事](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wenanmen.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[文案门](https://nicelinks.site/redirect?url=https://www.wenanmen.com/) ，这是一个专注于收录情感文案的网站，它包括探索文案、文案圈子、近期文章、GPT 等板块，不仅可以让您欣赏到优美的文案，还可以通过 AI 生成激发灵感。特别值得一提的是，GPT 是免费可用的，并且具备高效、多样、创意、准确等特点。除了网站，还提供**文案门**浏览器插件和公众号等服务。
+**推荐语**：[文案门](https://www.wenanmen.com/) ，这是一个专注于收录情感文案的网站，它包括探索文案、文案圈子、近期文章、GPT 等板块，不仅可以让您欣赏到优美的文案，还可以通过 AI 生成激发灵感。特别值得一提的是，GPT 是免费可用的，并且具备高效、多样、创意、准确等特点。除了网站，还提供**文案门**浏览器插件和公众号等服务。
 
 ── 出自[倾城之链 - 文案门 · 在我的文字里，总有你的故事](https://nicelinks.site/post/64de11beeffa89333db6fe33)
 
@@ -110,7 +110,7 @@ shiki
 
 ![倾城之链 - OpenAsk | Ask away, influencers are here to answer your questions as Senseis](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/openask.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OpenAsk](https://nicelinks.site/redirect?url=https://openask.me/) 是一个基于语音的 [问答](https://nicelinks.site/tags/问答) 平台，将提问者与创作者、影响者和专家(或“老师”)联系起来，他们可以帮助他们找到答案。它引入了一种创作者经济的新模式，使创作者和追随者双方都受益——每个人都可以直接向老师提交问题，老师会用真实的声音回答。随着时间的推移，任何有见地或有帮助的问题都会产生“兴趣”。在 OpenAsk 上提问可以为你赚钱：
+**推荐语**：[OpenAsk](https://openask.me/) 是一个基于语音的 [问答](https://nicelinks.site/tags/问答) 平台，将提问者与创作者、影响者和专家(或“老师”)联系起来，他们可以帮助他们找到答案。它引入了一种创作者经济的新模式，使创作者和追随者双方都受益——每个人都可以直接向老师提交问题，老师会用真实的声音回答。随着时间的推移，任何有见地或有帮助的问题都会产生“兴趣”。在 OpenAsk 上提问可以为你赚钱：
 
 - **偷听**：偷听就像偷听别人向老师提问。不管这个人是花 9 美元还是 99 美元来问，你都可以只花 1 美元就能听到答案；
 - **要求赚取**：每次有人偷听你的问题，你就能赚 0.40 美元。通过在社交媒体上分享你的问题来赚取被动收入，并邀请更多的人来偷听；
@@ -122,7 +122,7 @@ shiki
 - ✅ 探索很酷的话题，偷听老师在说什么。
 - ✅ 成为一名老师，与他人分享你所知道的，当你在做的时候赚一些钱。
 
-[OpenAsk](https://nicelinks.site/redirect?url=https://openask.me/) 是 2023 年 7 月份上线的新平台，其设计的赚钱逻辑、语音作答等，并不算很新颖；但发布之后，有在 `X` 上获得一些声音，因此知晓该平台，但尚未亲身体验，无法分享更多。官方对其定位是：“通过 OpenAsk 提问、学习并赚钱，一个人人都能得到回报的双赢社区”，如果您想通过 [知识付费](https://nicelinks.site/tags/知识付费) 获得些额外收入，或可考虑入驻。
+[OpenAsk](https://openask.me/) 是 2023 年 7 月份上线的新平台，其设计的赚钱逻辑、语音作答等，并不算很新颖；但发布之后，有在 `X` 上获得一些声音，因此知晓该平台，但尚未亲身体验，无法分享更多。官方对其定位是：“通过 OpenAsk 提问、学习并赚钱，一个人人都能得到回报的双赢社区”，如果您想通过 [知识付费](https://nicelinks.site/tags/知识付费) 获得些额外收入，或可考虑入驻。
 
 ── 出自[倾城之链 - OpenAsk | Ask away, influencers are here to answer your questions as Senseis](https://nicelinks.site/post/64dcf018effa89333db6f5a6)
 

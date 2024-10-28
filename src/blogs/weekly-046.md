@@ -10,7 +10,7 @@
 
 ![倾城之链 - metaSEO - Meta tags for best SEO](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/metaseo.itsvg.in.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[metaSEO](https://nicelinks.site/redirect?url=https://metaseo.itsvg.in/)，一个 SEO 相关的工具网站；支持一键生成元标签（meta tags，会增加社交相关属性，如 `twitter:description` 等），为您的网站提供最佳的搜索引擎优化，使得在搜索结果中排名靠前；当有人在推特（twitter）等平台分享您的链接时，会显得很独特。实际使用，需要您自己输入网站名称、描述、关键字以及预览图片网址等信息（这一点，其实可以继续优化：先抓取，没有获取到再让用户自己填写）。
+**推荐语**：[metaSEO](https://metaseo.itsvg.in/)，一个 SEO 相关的工具网站；支持一键生成元标签（meta tags，会增加社交相关属性，如 `twitter:description` 等），为您的网站提供最佳的搜索引擎优化，使得在搜索结果中排名靠前；当有人在推特（twitter）等平台分享您的链接时，会显得很独特。实际使用，需要您自己输入网站名称、描述、关键字以及预览图片网址等信息（这一点，其实可以继续优化：先抓取，没有获取到再让用户自己填写）。
 
 ── 出自[倾城之链 - metaSEO - Meta tags for best SEO](https://nicelinks.site/post/61cda1a15be6454b4e3d514e)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - 更点 - 自编书平台: 微信书 博客印书 QQ空间印书 微博印书](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.upzao.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[更点](https://nicelinks.site/redirect?url=https://www.upzao.com/)，一个在线自编书平台；支持在线编辑书和相册，图文编排，实时预览；适合：微信书、博客书、QQ 说说日志书、微博书、纪念册、写作书。可导入各社交网站内容，制作旅游集、宝宝相册、博客日志书等。已经支持：微信书、新浪/网易/搜狐博客成书、QQ 日志/说说成书、公众号文章成书、微博成书、美篇文章成书、知乎专栏成书、豆瓣日记成书等。鲜有接触类似产品，有尝试导入公众号内容来编书，一番操作，与预期似乎不太相符。
+**推荐语**：[更点](https://www.upzao.com/)，一个在线自编书平台；支持在线编辑书和相册，图文编排，实时预览；适合：微信书、博客书、QQ 说说日志书、微博书、纪念册、写作书。可导入各社交网站内容，制作旅游集、宝宝相册、博客日志书等。已经支持：微信书、新浪/网易/搜狐博客成书、QQ 日志/说说成书、公众号文章成书、微博成书、美篇文章成书、知乎专栏成书、豆瓣日记成书等。鲜有接触类似产品，有尝试导入公众号内容来编书，一番操作，与预期似乎不太相符。
 
 ── 出自[倾城之链 - 更点 - 自编书平台: 微信书 博客印书 QQ 空间印书 微博印书](https://nicelinks.site/post/61cbfca65be6454b4e3d514c)
 
@@ -36,9 +36,9 @@
 
 ![倾城之链 - GraphQL | A query language for your API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphql.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GraphQL](https://nicelinks.site/redirect?url=https://graphql.org/) 是一种 API 查询语言和运行时，用于使用现有数据完成这些查询。GraphQL 为您的 API 中的数据提供了完整且易于理解的描述，让客户能够准确地询问他们需要什么，更容易随着时间的推移发展 API，并启用强大的开发人员工具。
+**推荐语**：[GraphQL](https://graphql.org/) 是一种 API 查询语言和运行时，用于使用现有数据完成这些查询。GraphQL 为您的 API 中的数据提供了完整且易于理解的描述，让客户能够准确地询问他们需要什么，更容易随着时间的推移发展 API，并启用强大的开发人员工具。
 
-[GraphQL](https://nicelinks.site/redirect?url=https://graphql.org/) 是一种用于 API 的查询语言，也是一种服务器端运行时，用于使用您为数据定义的类型系统执行查询。GraphQL 不依赖于任何特定的数据库或存储引擎，而是由您现有的代码和数据支持。使用中，主要步骤为：**描述您的数据**、**询问你想要的**、**获得可预测的结果**；您可从以下几个特征说明，来更充分了解它：
+[GraphQL](https://graphql.org/) 是一种用于 API 的查询语言，也是一种服务器端运行时，用于使用您为数据定义的类型系统执行查询。GraphQL 不依赖于任何特定的数据库或存储引擎，而是由您现有的代码和数据支持。使用中，主要步骤为：**描述您的数据**、**询问你想要的**、**获得可预测的结果**；您可从以下几个特征说明，来更充分了解它：
 
 - **询问你需要的，准确地得到**：向您的 API 发送 GraphQL 查询，并准确获取您需要的内容，不多也不少。GraphQL 查询总是返回可预测的结果。使用 GraphQL 的应用程序既快速又稳定，因为它们控制的是获取的数据，而不是服务器。
 - **在单个请求中获取多个资源**：GraphQL 查询不仅可以访问一种资源的属性，还可以平滑地跟踪它们之间的引用。虽然典型的 REST API 需要从多个 URL 加载，但 GraphQL API 可以在单个请求中获取您的应用程序所需的所有数据。即使在移动网络连接速度较慢的情况下，使用 GraphQL 的应用程序也可以很快。
@@ -46,7 +46,7 @@
 - **无需版本即可发展您的 API**：在不影响现有查询的情况下向 GraphQL API 添加新字段和类型。老化字段可以被弃用并从工具中隐藏。通过使用一个不断发展的版本，GraphQL API 使应用程序能够持续访问新功能，并鼓励使用更简洁、更易于维护的服务器代码。
 - **自带数据和代码**：GraphQL 在整个应用程序中创建统一的 API，而不受特定存储引擎的限制。编写 GraphQL API，利用您现有的数据和代码以及多种语言的 GraphQL 引擎。您为类型系统中的每个字段提供函数，GraphQL 以最佳并发调用它们。
 
-[GraphQL](https://nicelinks.site/redirect?url=https://graphql.org/) 由 Facebook 开发，并于 2012 年首次应用于移动应用。GraphQL 规范于 2015 年实现开源。现在，它受 [GraphQL 基金会](https://nicelinks.site/redirect?url=https://foundation.graphql.org/)监管。值得一提的是，著名开源框架 [GatsbyJS](https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e) 就基于 [GraphQL](https://nicelinks.site/redirect?url=https://graphql.org/) 所构建，您可以通过使用它快速体验 GraphQL 的强大。
+[GraphQL](https://graphql.org/) 由 Facebook 开发，并于 2012 年首次应用于移动应用。GraphQL 规范于 2015 年实现开源。现在，它受 [GraphQL 基金会](https://foundation.graphql.org/)监管。值得一提的是，著名开源框架 [GatsbyJS](https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e) 就基于 [GraphQL](https://graphql.org/) 所构建，您可以通过使用它快速体验 GraphQL 的强大。
 
 ── 出自[倾城之链 - GraphQL | A query language for your API](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148)
 
@@ -58,7 +58,7 @@
 
 ![倾城之链 - Next.js by Vercel - The React Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nextjs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Next.js](https://nicelinks.site/redirect?url=https://nextjs.org/)，一个用于 生产环境的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。它具有以下功能特征：
+**推荐语**：[Next.js](https://nextjs.org/)，一个用于 生产环境的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。它具有以下功能特征：
 
 - **图像组件和图像优化**：自带 image 组件，改进的性能、视觉稳定性、更快的页面加载、资产灵活性。
 - **Next.js 分析**：基于真实访问者数据，以及逐页洞察的真实灯塔（Lighthouse）分数；
@@ -72,7 +72,7 @@
 - **内置支持 CSS**：使用 CSS 模块创建组件级的样式。内置对 Sass 的支持。
 - **代码拆分和打包**：采用由 Google Chrome 小组创建的、并经过优化的打包和拆分算法。
 
-[Next.js](https://nicelinks.site/redirect?url=https://nextjs.org/) 正在为变得更好而努力，如今，越来越多的公司在使用并喜爱 [next.js](https://nicelinks.site/redirect?url=https://nextjs.org/)，您可以 [Next.js Showcase](https://nicelinks.site/redirect?url=https://nextjs.org/showcase) 了解到基于它所构建的精美网站。
+[Next.js](https://nextjs.org/) 正在为变得更好而努力，如今，越来越多的公司在使用并喜爱 [next.js](https://nextjs.org/)，您可以 [Next.js Showcase](https://nextjs.org/showcase) 了解到基于它所构建的精美网站。
 
 ── 出自[倾城之链 - Next.js by Vercel - The React Framework](https://nicelinks.site/post/61c928af5be6454b4e3d5146)
 

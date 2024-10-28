@@ -10,7 +10,7 @@
 
 ![倾城之链 - Relate - The open platform to create for the web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/relate.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Relate](https://nicelinks.site/redirect?url=https://relate.app/) 是一个用来创建网站的开放平台；她足够**简单**，直观的“按代码设计”环境，可以像编辑文档一样创建和编辑网站；在设计时，在后台生成漂亮，干净，简单的 HTML 和 CSS 。基于 [Relate](https://nicelinks.site/redirect?url=https://relate.app/) 系统，你的业务蓬勃发展，依然无需切换平台。具有以下功能特征：
+**推荐语**：[Relate](https://relate.app/) 是一个用来创建网站的开放平台；她足够**简单**，直观的“按代码设计”环境，可以像编辑文档一样创建和编辑网站；在设计时，在后台生成漂亮，干净，简单的 HTML 和 CSS 。基于 [Relate](https://relate.app/) 系统，你的业务蓬勃发展，依然无需切换平台。具有以下功能特征：
 
 - 您可以导入现有代码，复制整个网站或其中的一部分，或基于已经存在的网站构建新页面；
 - 友好支持第三方，你可以使用 Bootstrap，[Tailwind](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 和任何其他框架；
@@ -18,7 +18,7 @@
 - 100％准确：您的设计，简单，干净的语义代码，没有奇怪的东西；
 - 您如果已在 Figma，Sketch 或 XD 中创建了网站，Relate 将处理导入，因此您可以立即启动它；
 
-[Relate](https://nicelinks.site/redirect?url=https://relate.app/) Slogan：生命之美在于，无限的可能性；如果您有创建网站的诉求，不妨基于 Relate 来设计，或许她能带给您惊喜。
+[Relate](https://relate.app/) Slogan：生命之美在于，无限的可能性；如果您有创建网站的诉求，不妨基于 Relate 来设计，或许她能带给您惊喜。
 
 ── 出自[倾城之链 - Relate - The open platform to create for the web](https://nicelinks.site/post/6081757e9947e6213fe43a86)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - Headers.me | Cover images that get you followers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.headers.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Headers.me](https://nicelinks.site/redirect?url=https://www.headers.me/)，是一个工具型网站，它可以为您喜欢的社交媒体平台，创建与之匹配的**封面图像**，而无需任何复杂的设计工具或模板；您可以免费开始设计，而无需信用卡（当然，也提供高级收费功能）。
+**推荐语**：[Headers.me](https://www.headers.me/)，是一个工具型网站，它可以为您喜欢的社交媒体平台，创建与之匹配的**封面图像**，而无需任何复杂的设计工具或模板；您可以免费开始设计，而无需信用卡（当然，也提供高级收费功能）。
 
 ── 出自[倾城之链 - Headers.me | Cover images that get you followers](https://nicelinks.site/post/60816f759947e6213fe43a84)
 
@@ -42,7 +42,7 @@
 
 ![倾城之链 - All posts | Soubai's stories](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.soubai.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Soubai's stories](https://nicelinks.site/redirect?url=https://www.soubai.me/) 是基于 Next.js、Node.js 所搭建的网站，全栈 JavaScript 开发人员（Abderrahim Soubai-Elidrisi）撰写；作为作为 Web 开发人员，Abderrahim 的主要爱好是创建令人难忘的项目，以解决现实世界中的问题并满足业务需求。其中内容涵 [Tensorflow.js](https://nicelinks.site/post/60631f14bffb5e532f3be248)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、JavaScript、TypeScript 等内容。
+**推荐语**：[Soubai's stories](https://www.soubai.me/) 是基于 Next.js、Node.js 所搭建的网站，全栈 JavaScript 开发人员（Abderrahim Soubai-Elidrisi）撰写；作为作为 Web 开发人员，Abderrahim 的主要爱好是创建令人难忘的项目，以解决现实世界中的问题并满足业务需求。其中内容涵 [Tensorflow.js](https://nicelinks.site/post/60631f14bffb5e532f3be248)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、JavaScript、TypeScript 等内容。
 
 ── 出自[倾城之链 - All posts | Soubai's stories](https://nicelinks.site/post/6081087d9947e6213fe43a82)
 
@@ -56,7 +56,7 @@
 
 ![倾城之链 - Sourcery | Automatically Improve Python Code Quality](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sourcery.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sourcery](https://nicelinks.site/redirect?url=https://sourcery.ai/)，一款自动提高 Python 代码质量的 AI 工具；它使用 [Sourcery](https://nicelinks.site/redirect?url=https://sourcery.ai/) 的编码助手，即时重构 Python 代码，使您的代码更清晰，更简洁，更 `Pythonic`；您可以在想要的地方使用，如将其添加到 PyCharm，添加到 VsCode 或者 Github。以下几个特征值得一提：
+**推荐语**：[Sourcery](https://sourcery.ai/)，一款自动提高 Python 代码质量的 AI 工具；它使用 [Sourcery](https://sourcery.ai/) 的编码助手，即时重构 Python 代码，使您的代码更清晰，更简洁，更 `Pythonic`；您可以在想要的地方使用，如将其添加到 PyCharm，添加到 VsCode 或者 Github。以下几个特征值得一提：
 
 - **编写所有人都清楚的代码**：Sourcery 在后台运行，并提出实时改进建议。从简化条件到提取方法，Sourcery 可以帮助您编写干净，结构合理的代码；
 - **保持代码私密**：Sourcery 在您的计算机上本地运行，从而确保所有代码的私密性和安全性；
@@ -74,7 +74,7 @@
 
 ![倾城之链 - 极简简历模板 PoleBrief](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.polebrief.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[极简简历模板 PoleBrief](https://nicelinks.site/redirect?url=https://www.polebrief.com/)，一款优质的简历制作平台；它具有**优质模板**、 **快速制作**、**智能分析**等特征，详细描述为：
+**推荐语**：[极简简历模板 PoleBrief](https://www.polebrief.com/)，一款优质的简历制作平台；它具有**优质模板**、 **快速制作**、**智能分析**等特征，详细描述为：
 
 ### 极致、简约、专业、优质
 
@@ -114,9 +114,9 @@
 
 ![倾城之链 - 「信达」将微信作为服务器的控制台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sender.xzhsh.ch.png?x-oss-process=style/png2jpg)
 
-**推荐语**：就像名字[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)一样，这是个在用户和服务器之间“送信”的应用。这个需求源自于调试时频繁的 docker pull、NAS 上按需触发的打卡脚本等待。于是需要一个从用户手机到服务器的消息发送工具。（不给脚本暴露 API 是因为懒而且 NAS 没公网）
+**推荐语**：就像名字[「信达」](https://sender.xzhsh.ch/)一样，这是个在用户和服务器之间“送信”的应用。这个需求源自于调试时频繁的 docker pull、NAS 上按需触发的打卡脚本等待。于是需要一个从用户手机到服务器的消息发送工具。（不给脚本暴露 API 是因为懒而且 NAS 没公网）
 
-[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)的工作是这样的：微信公众号上发送信令（就是长得像指令的消息）；服务器保存这一个消息等到 Agent 轮询获取；Agent 根据信令匹配对应的 Shell 指令或者脚本（Hit: 关注公众号之后也需要到网站完成 Agent 创建）；[「信达」](https://nicelinks.site/redirect?url=https://sender.xzhsh.ch/)具有以下功能特征：
+[「信达」](https://sender.xzhsh.ch/)的工作是这样的：微信公众号上发送信令（就是长得像指令的消息）；服务器保存这一个消息等到 Agent 轮询获取；Agent 根据信令匹配对应的 Shell 指令或者脚本（Hit: 关注公众号之后也需要到网站完成 Agent 创建）；[「信达」](https://sender.xzhsh.ch/)具有以下功能特征：
 
 - 不发送 shell 命令，而是信令；
 - 保存执行日志；

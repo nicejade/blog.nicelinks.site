@@ -10,7 +10,7 @@
 
 ![倾城之链 - Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/turbo.build.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Turbo](https://nicelinks.site/redirect?url=https://turbo.build/) 为 JavaScript 和 TypeScript 优化的增量绑定器和 [构建](https://nicelinks.site/tags/构建) 系统，用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 编写。Turbo 提供 [Turborepo](https://nicelinks.site/redirect?url=https://turbo.build/repo) 和 [Turbopack](https://nicelinks.site/redirect?url=https://turbo.build/pack) 两款产品。
+**推荐语**：[Turbo](https://turbo.build/) 为 JavaScript 和 TypeScript 优化的增量绑定器和 [构建](https://nicelinks.site/tags/构建) 系统，用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 编写。Turbo 提供 [Turborepo](https://turbo.build/repo) 和 [Turbopack](https://turbo.build/pack) 两款产品。
 
 ### Turborepo：建造船舶的系统
 
@@ -49,7 +49,7 @@ Turborepo 是一个用于 JavaScript 和 TypeScript 代码库的高性能构建�
 
 ![倾城之链 - Answer - Build Q&A community](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/answer.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Answer](https://nicelinks.site/redirect?url=https://answer.dev/) ，一个**基于开源知识**的社区软件。您可以使用它来快速建立您的**问答社区**，以获得产品技术支持、客户支持、用户交流等。Answer 具有**高度可扩展性**和**现代性**，你可以利用它有效地建立各种问答社区，从客户支持到用户交流。它具有以下功能特征：
+**推荐语**：[Answer](https://answer.dev/) ，一个**基于开源知识**的社区软件。您可以使用它来快速建立您的**问答社区**，以获得产品技术支持、客户支持、用户交流等。Answer 具有**高度可扩展性**和**现代性**，你可以利用它有效地建立各种问答社区，从客户支持到用户交流。它具有以下功能特征：
 
 ### 问答平台
 
@@ -81,7 +81,7 @@ Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采
 
 ![倾城之链 - 得到 APP - 知识就是力量，知识就在得到](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dedao.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[得到](https://nicelinks.site/redirect?url=https://www.dedao.cn/) ，知识服务应用；旨在为用户提供“省时间的高效知识服务” ，2016 年 5 月上线，由罗辑思维团队出品，提倡碎片化学习方式，让用户短时间内获得有效的知识。内容包括人文、科学、艺术、 商业、方法技能、互联网、创业、心理学、文化、职场等等（个人从未曾使用「得到」，无法对其内容质量做评价）。
+**推荐语**：[得到](https://www.dedao.cn/) ，知识服务应用；旨在为用户提供“省时间的高效知识服务” ，2016 年 5 月上线，由罗辑思维团队出品，提倡碎片化学习方式，让用户短时间内获得有效的知识。内容包括人文、科学、艺术、 商业、方法技能、互联网、创业、心理学、文化、职场等等（个人从未曾使用「得到」，无法对其内容质量做评价）。
 
 2017 年 12 月，得到 APP 入选 App Store 2017 年度精选的年度趋势（知识付费类）。自 2020 年 9 月底以来，国家网信办部署开展为期两个月的集中专项整治。专项整治以来，督促“得到”等 20 家重点“知识社区问答”平台开展自查自纠。2022 年 10 月 13 日，工业和信息化部信息通信管理局通报，得到 10.6.0 版本 APP **强制、频繁、过度索取权限**，该 APP 应在 10 月 20 日前完成整改，逾期不整改或整改不到位的，将**依法依规处置**。
 
@@ -95,7 +95,7 @@ Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采
 
 ![倾城之链 - Learn to Code with Interactive Tutorials - Scrimba.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/scrimba.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Scrimba.com](https://nicelinks.site/redirect?url=https://scrimba.com/) ，是一种有趣而快速的学习代码的方式 我们的互动课程和教程将教你 React、Vue、Angular、JavaScript、HTML、CSS，以及更多。他们的目标是：以健身房会员资格为代价，创建最好的编码学校。为实现目标，该团队为**代码截屏**创建了一种新的视频格式。我们称之为“稀松布”（scrims）。这种格式是他们学校的支柱。不仅因为它带来了卓越的学习体验。但也因为它使我他们够更快地迭代，吸引更好的教师，促进更好的同伴学习，保持较低的服务器成本等等。Scrimba 具有以下功能特色：
+**推荐语**：[Scrimba.com](https://scrimba.com/) ，是一种有趣而快速的学习代码的方式 我们的互动课程和教程将教你 React、Vue、Angular、JavaScript、HTML、CSS，以及更多。他们的目标是：以健身房会员资格为代价，创建最好的编码学校。为实现目标，该团队为**代码截屏**创建了一种新的视频格式。我们称之为“稀松布”（scrims）。这种格式是他们学校的支柱。不仅因为它带来了卓越的学习体验。但也因为它使我他们够更快地迭代，吸引更好的教师，促进更好的同伴学习，保持较低的服务器成本等等。Scrimba 具有以下功能特色：
 
 ### 通过交互式截屏视频更快地学习
 
@@ -140,7 +140,7 @@ Scrimba 是一种用于交流代码的**互动视频格式**。它使创造者�
 
 Scrimba 所提供的职业道路（The Frontend Developer Career Path），将使您成为可雇用的前端开发人员，并教您如何完成工作面试。它包含超过 70 小时的一流教程、数百个编码挑战和数十个实际项目。在这里，你还可以学到响应式设计、用户界面设计、代码审查、求职面试等技能。
 
-[Scrimba.com](https://nicelinks.site/redirect?url=https://scrimba.com/) ，创新交互型前端学习平台；不同于传统的前端文字或视频教程，Scrimba 开创式地将教学讲解、编辑器、浏览器三者结合，所学即所见，所及即所得。不同于传统的视频教学除了评论就什么也不能做，Scrimba 是音频、编码记录回放的形式展现，**用户能随时暂停，同时还能进行编辑**，结合 discord 还可以在线交流。这种创新型交互格式视频，非常适合学习编程；以上只是对 Scrimba 大致介绍，如果您对它感兴趣，可以前往官网以了解更多。
+[Scrimba.com](https://scrimba.com/) ，创新交互型前端学习平台；不同于传统的前端文字或视频教程，Scrimba 开创式地将教学讲解、编辑器、浏览器三者结合，所学即所见，所及即所得。不同于传统的视频教学除了评论就什么也不能做，Scrimba 是音频、编码记录回放的形式展现，**用户能随时暂停，同时还能进行编辑**，结合 discord 还可以在线交流。这种创新型交互格式视频，非常适合学习编程；以上只是对 Scrimba 大致介绍，如果您对它感兴趣，可以前往官网以了解更多。
 
 ── 出自[倾城之链 - Learn to Code with Interactive Tutorials - Scrimba.com](https://nicelinks.site/post/6356838980eb7b118fa82761)
 
@@ -152,7 +152,7 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 ![倾城之链 - Practical Deep Learning for Coders - Practical Deep Learning](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/course.fast.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Practical Deep Learning](https://nicelinks.site/redirect?url=https://course.fast.ai/) ，是一门**免费课程**，专为具有一定编程经验、希望学习如何将 [深度学习](https://nicelinks.site/tags/深度学习) 和 [机器学习](https://nicelinks.site/tags/机器学习) 应用于实际问题的人而设计。深度学习可以做各种各样令人惊奇的事情。例如，本网站中的所有插图都是通过深度学习制作的，使用 [DALL-E 2](https://nicelinks.site/redirect?url=https://openai.com/dall-e-2/) 。
+**推荐语**：[Practical Deep Learning](https://course.fast.ai/) ，是一门**免费课程**，专为具有一定编程经验、希望学习如何将 [深度学习](https://nicelinks.site/tags/深度学习) 和 [机器学习](https://nicelinks.site/tags/机器学习) 应用于实际问题的人而设计。深度学习可以做各种各样令人惊奇的事情。例如，本网站中的所有插图都是通过深度学习制作的，使用 [DALL-E 2](https://openai.com/dall-e-2/) 。
 
 这份 2022 年面向编码员的实用深度学习教程，录制于 University of Queensland，涵盖的主题包括如何：
 
@@ -179,7 +179,7 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 ![倾城之链 - pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pcljs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[pcl.js](https://nicelinks.site/redirect?url=https://pcljs.org/) 是在浏览器中运行的 点云库（PCL），由 Emscripten 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 提供支持。它具有以下功能特征：
+**推荐语**：[pcl.js](https://pcljs.org/) 是在浏览器中运行的 点云库（PCL），由 Emscripten 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 提供支持。它具有以下功能特征：
 
 - **TypeScript 类型支持**：使用 TypeScript 编写，具有可预测的静态类型；
 - **支持所有现代浏览器**：支持所有现代浏览器，未来将提供对 Nodejs 的支持；
@@ -199,7 +199,7 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 ![倾城之链 - Lyra | The offline search experience](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lyrasearch.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lyra](https://nicelinks.site/redirect?url=https://lyrasearch.io/) 是一个全功能的 [全文搜索](https://nicelinks.site/tags/全文搜索) 引擎，可以在 JavaScript 运行的任何地方运行，包括浏览器、Bun、Deno、Node.js、服务器、React Native、边缘网络（edge networks）等。
+**推荐语**：[Lyra](https://lyrasearch.io/) 是一个全功能的 [全文搜索](https://nicelinks.site/tags/全文搜索) 引擎，可以在 JavaScript 运行的任何地方运行，包括浏览器、Bun、Deno、Node.js、服务器、React Native、边缘网络（edge networks）等。
 
 Lyra 是一个用 TypeScript 编写的现代化、无依赖性的全文搜索引擎。
 它的构建考虑到了速度，并在几微秒内完成了大多数搜索查找。

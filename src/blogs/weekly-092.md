@@ -10,7 +10,7 @@
 
 ![倾城之链 - Reach Creators and Developers at Scale | Carbon](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.carbonads.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Carbon](https://nicelinks.site/redirect?url=https://www.carbonads.net/) 帮助您通过网站、项目和应用程序的专属网络，向创作者和开发者发布广告；做广告很难， Carbon 让您轻松找到受众；Carbon 官网称其是大规模接触创作者和开发者的最佳方式。在国内，与之类似的产品是[万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)。
+**推荐语**： [Carbon](https://www.carbonads.net/) 帮助您通过网站、项目和应用程序的专属网络，向创作者和开发者发布广告；做广告很难， Carbon 让您轻松找到受众；Carbon 官网称其是大规模接触创作者和开发者的最佳方式。在国内，与之类似的产品是[万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)。
 
 通过由设计、开发和技术网站组成的独家网络接触技术受众。当您开展 Carbon 活动时，您的品牌会出现在数百个社区、博客、资源和工具中，受众会使用这些工具来提升他们的工作水平。基于 Carbon 广告具有以下特点：
 
@@ -30,7 +30,7 @@ Carbon 在设计、开发和技术领域的 600 多个精选网站和应用程�
 
 ![倾城之链 - Marko - A declarative, HTML-based language that makes building web apps fun](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markojs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Marko](https://nicelinks.site/redirect?url=https://markojs.com/) ，一种声明性的、基于 HTML 的语言，使构建 Web 应用程序变得有趣。它是对 HTML 的重新想象，是一种用于构建动态和反应式用户界面的语言。几乎所有有效的 HTML 都是有效的 Marko，但 Marko 扩展了 HTML 语言，允许以声明的方式构建现代应用程序。Marko 具有以下功能特性：
+**推荐语**：[Marko](https://markojs.com/) ，一种声明性的、基于 HTML 的语言，使构建 Web 应用程序变得有趣。它是对 HTML 的重新想象，是一种用于构建动态和反应式用户界面的语言。几乎所有有效的 HTML 都是有效的 Marko，但 Marko 扩展了 HTML 语言，允许以声明的方式构建现代应用程序。Marko 具有以下功能特性：
 
 ### 熟悉的
 
@@ -95,7 +95,7 @@ Marko 扩展包括条件（`conditionals`）、列表（`lists`）、状态（`s
 
 ![倾城之链 - Avatar Maker - Create your own avatar online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/avatarmaker.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Avatar Maker](https://nicelinks.site/redirect?url=https://avatarmaker.com/) ，一款在线创建头像工具；它支持以 4 种不同的风格，创建你自己的**免费头像**。你可以把它保存为可扩展的 SVG 图像或更常见的 PNG 格式。Avatar Maker 使用非常简单，无需注册或账户，选择性格即可开始，支持脸、眼睛、头发、衣服等部位进行编辑创造，也可以使用系统随机的；其同类型产品还有 [Ava Maker](https://nicelinks.site/post/631cb6d692583d0ec9c367bf)、[Peeps](https://nicelinks.site/post/633531873423870b914df533) 等；如果您有创建卡通虚拟头像的需求，可尝试这几款工具。
+**推荐语**：[Avatar Maker](https://avatarmaker.com/) ，一款在线创建头像工具；它支持以 4 种不同的风格，创建你自己的**免费头像**。你可以把它保存为可扩展的 SVG 图像或更常见的 PNG 格式。Avatar Maker 使用非常简单，无需注册或账户，选择性格即可开始，支持脸、眼睛、头发、衣服等部位进行编辑创造，也可以使用系统随机的；其同类型产品还有 [Ava Maker](https://nicelinks.site/post/631cb6d692583d0ec9c367bf)、[Peeps](https://nicelinks.site/post/633531873423870b914df533) 等；如果您有创建卡通虚拟头像的需求，可尝试这几款工具。
 
 ── 出自[倾城之链 - Avatar Maker - Create your own avatar online](https://nicelinks.site/post/6374d7361ac89e525a883279)
 
@@ -107,7 +107,7 @@ Marko 扩展包括条件（`conditionals`）、列表（`lists`）、状态（`s
 
 ![倾城之链 - ntfy.sh | Send push notifications to your phone via PUT/POST](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ntfy.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ntfy.sh](https://nicelinks.site/redirect?url=https://ntfy.sh/) ，（发音：notify）是一个简单的基于 HTTP 的发布-订阅通知服务。它允许您**从任何计算机通过脚本向您的手机或桌面发送通知**，完全**无需注册、费用或设置**。它是开源的，如果您想运行在自己的服务器，可以通过 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行部署。
+**推荐语**：[ntfy.sh](https://ntfy.sh/) ，（发音：notify）是一个简单的基于 HTTP 的发布-订阅通知服务。它允许您**从任何计算机通过脚本向您的手机或桌面发送通知**，完全**无需注册、费用或设置**。它是开源的，如果您想运行在自己的服务器，可以通过 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行部署。
 
 ### 发布消息
 
@@ -149,7 +149,7 @@ curl \
 
 ![倾城之链 -  LVGL - Light and Versatile Embedded Graphics Library ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lvgl.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LVGL](https://nicelinks.site/redirect?url=https://lvgl.io/) 是受欢迎的免费和开源**嵌入式**图形库，可为任何 MCU、MPU 和显示器类型创建漂亮的 UI。使用他们的拖放式 UI 编辑器 **SquareLine Studio 来简化开发**，或者只是雇用他们来设计和实现您的下一个 UI。LVGL 在官方描述了以下优势：
+**推荐语**：[LVGL](https://lvgl.io/) 是受欢迎的免费和开源**嵌入式**图形库，可为任何 MCU、MPU 和显示器类型创建漂亮的 UI。使用他们的拖放式 UI 编辑器 **SquareLine Studio 来简化开发**，或者只是雇用他们来设计和实现您的下一个 UI。LVGL 在官方描述了以下优势：
 
 - **全功能**：30 多个内置小部件、强大的样式和布局系统以及支持多种语言的排版。
 - **自由的**：可在 GitHub 上获得并在 MIT 许可下分发，以使商业用途免费且简单。
@@ -199,7 +199,7 @@ LVGL：嵌入式图形库可为任何 MCU、MPU 和显示类型创建漂亮的 U
 
 ![倾城之链 - dagger.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dagger.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dagger](https://nicelinks.site/redirect?url=https://dagger.io/) 是一个可编程的 CI/CD 引擎，可以在容器中运行您的管道。使用与应用程序相同的编程语言将 CI/CD 管道开发为代码。这样可以避免写 YAML 配置（ [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 、 [Gitlab](https://nicelinks.site/post/5f86fe3ccda9de27bd93a927) 等平台，做 CICD 主要方式）。
+**推荐语**：[Dagger](https://dagger.io/) 是一个可编程的 CI/CD 引擎，可以在容器中运行您的管道。使用与应用程序相同的编程语言将 CI/CD 管道开发为代码。这样可以避免写 YAML 配置（ [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 、 [Gitlab](https://nicelinks.site/post/5f86fe3ccda9de27bd93a927) 等平台，做 CICD 主要方式）。
 
 > 在软件工程中，CI/CD 或 CICD 通常指的是**持续集成**和**持续交付**或持续部署的组合实践。CI/CD 通过在应用程式的构建、测试和部署中实施自动化，在开发和运营团队之间架起了桥梁。现代 DevOps 实践涉及软体应用程式在整个开发生命周期内的持续开发、持续测试、持续集成、持续部署和持续监控。CI/CD 实践或 CI/CD 管道（CI/CD pipeline）构成了现代 DevOps 业务的主干。
 

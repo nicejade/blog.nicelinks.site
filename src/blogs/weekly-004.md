@@ -9,7 +9,7 @@
 
 ![倾城之链 - 新趣集 - 一起发现有趣的新产品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/xinquji.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[新趣集](https://nicelinks.site/redirect?url=https://xinquji.com/)是一个产品发现社区，发现最新的网站，移动 App 和技术产品；现在，他也是一个开放创业项目了，就是说关于新趣集的数据都是开放透明的，包括流量、收入等等信息。[新趣集](https://nicelinks.site/redirect?url=https://xinquji.com/)的整体设计，和 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f)、[创造者日报](https://nicelinks.site/post/5db1d4aba7d64d01501bc72a)较为相似：将每天所收录的产品，集中到一起；并提供有**时光机**功能，可以查看历史某天收录的内容。您可以在这里，通过浏览、检索，发现寻找喜欢的产品；也可以提交您的产品，让 Ta 为更多人所知道。
+**推荐语**：[新趣集](https://xinquji.com/)是一个产品发现社区，发现最新的网站，移动 App 和技术产品；现在，他也是一个开放创业项目了，就是说关于新趣集的数据都是开放透明的，包括流量、收入等等信息。[新趣集](https://xinquji.com/)的整体设计，和 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f)、[创造者日报](https://nicelinks.site/post/5db1d4aba7d64d01501bc72a)较为相似：将每天所收录的产品，集中到一起；并提供有**时光机**功能，可以查看历史某天收录的内容。您可以在这里，通过浏览、检索，发现寻找喜欢的产品；也可以提交您的产品，让 Ta 为更多人所知道。
 
 ── 出自[倾城之链 - 新趣集 - 一起发现有趣的新产品](https://nicelinks.site/post/604a16ec5f9af714fe21dcc8)
 
@@ -21,7 +21,7 @@
 
 ![倾城之链 - Docker Hub](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hub.docker.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Docker Hub](https://nicelinks.site/redirect?url=https://hub.docker.com/) 是世界上最大的、[Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 官方维护的、容器镜像的库和社区；你可以在此浏览来自软件供应商、开源项目和社区的 100000 多个容器镜像（Container Images），如 NGINX、python、mongoDB、ubuntu、[Node.js](https://nicelinks.site/post/603e39560c8e4b046a182003)、Redis、[Flarum](https://nicelinks.site/post/604795465f9af714fe21dcbc)、mysql 等等，应有尽有；基于这些容器镜像，可随时随地构建和发布任何应用程序，[Docker Hub](https://nicelinks.site/redirect?url=https://hub.docker.com/) 是世界上创建、管理和交付团队容器应用的最简单方法。作为开发者，你可以在 [Docker Hub](https://nicelinks.site/redirect?url=https://hub.docker.com/) 上传、检索、下载 Docker 镜像，结合 docker-compose 或 [k8s](https://nicelinks.site/post/5b2cad0a34c03342fda0f37e)（[Kubernetes](https://nicelinks.site/redirect?url=https://kubernetes.io/)），堪称团队应用程序的理想之选。
+**推荐语**：[Docker Hub](https://hub.docker.com/) 是世界上最大的、[Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 官方维护的、容器镜像的库和社区；你可以在此浏览来自软件供应商、开源项目和社区的 100000 多个容器镜像（Container Images），如 NGINX、python、mongoDB、ubuntu、[Node.js](https://nicelinks.site/post/603e39560c8e4b046a182003)、Redis、[Flarum](https://nicelinks.site/post/604795465f9af714fe21dcbc)、mysql 等等，应有尽有；基于这些容器镜像，可随时随地构建和发布任何应用程序，[Docker Hub](https://hub.docker.com/) 是世界上创建、管理和交付团队容器应用的最简单方法。作为开发者，你可以在 [Docker Hub](https://hub.docker.com/) 上传、检索、下载 Docker 镜像，结合 docker-compose 或 [k8s](https://nicelinks.site/post/5b2cad0a34c03342fda0f37e)（[Kubernetes](https://kubernetes.io/)），堪称团队应用程序的理想之选。
 
 ── 出自[倾城之链 - Docker Hub](https://nicelinks.site/post/6049dab45f9af714fe21dcc6)
 
@@ -35,7 +35,7 @@
 
 ![倾城之链 - 名言通 | 美句佳句大全 伤感的句子 唯美的句子 优美的句子](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mingyantong.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[名言通](https://nicelinks.site/redirect?url=https://www.mingyantong.com/)是提供高品质句子的专业句子网站（也有提供原生应用客户端），也是一个名言和美句佳句的分享[社区](https://nicelinks.site/tags/社区)，该网站有各种名人名言、经典句子、伤感的句子和唯美句子、摘抄、美句和佳句大全。
+**推荐语**：[名言通](https://www.mingyantong.com/)是提供高品质句子的专业句子网站（也有提供原生应用客户端），也是一个名言和美句佳句的分享[社区](https://nicelinks.site/tags/社区)，该网站有各种名人名言、经典句子、伤感的句子和唯美句子、摘抄、美句和佳句大全。
 
 在网站大划分上，分为偶遇句子、名人名言、精选句集、电影台词、小说摘抄、美图美句等 6 个；其次，根据句子出处（散文、随笔、诗歌、宋词、格言等等）、感觉、长度、适用场景做了分类。此外，还根据句子喜爱程度，做了推荐、热门、排行等等。
 
@@ -49,7 +49,7 @@
 
 ![倾城之链 - 胡思 - UX 知识库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/whose.design.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[胡思 - UX 知识库](https://nicelinks.site/redirect?url=https://whose.design/)是基于 Next.js、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 搭建的网站，主要承载[设计](https://nicelinks.site/tags/设计)相关内容，在这里，你可以发现更多设计工具（诸如 [Sketch](https://nicelinks.site/post/5a954cd40b0590113aa144cd)、Figma、Stark、mockdown、Cleanmock、component8、[蓝湖](https://nicelinks.site/post/600e3d1d0c71de1fb957b64a)、鹿班......），掌握更多工具技巧；其内容十分丰富，如果您有从事**设计**相关工作，这个 UX 知识库，值得关注。
+**推荐语**：[胡思 - UX 知识库](https://whose.design/)是基于 Next.js、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 搭建的网站，主要承载[设计](https://nicelinks.site/tags/设计)相关内容，在这里，你可以发现更多设计工具（诸如 [Sketch](https://nicelinks.site/post/5a954cd40b0590113aa144cd)、Figma、Stark、mockdown、Cleanmock、component8、[蓝湖](https://nicelinks.site/post/600e3d1d0c71de1fb957b64a)、鹿班......），掌握更多工具技巧；其内容十分丰富，如果您有从事**设计**相关工作，这个 UX 知识库，值得关注。
 
 ── 出自[倾城之链 - 胡思 - UX 知识库](https://nicelinks.site/post/60497e785f9af714fe21dcc2)
 
@@ -63,11 +63,11 @@
 
 ![倾城之链 - VUE Vlog - 用 Vlog 记录生活，分享真实的你](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vuevideo.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[VUE](https://nicelinks.site/redirect?url=https://vuevideo.net/) 是一款视频编辑器（跟编程前端流行框架 [vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 重名），让用户能够捕捉到值得纪念的时刻，通过添加滤镜、贴纸、音乐或蒙太奇进行编辑，然后与世界分享。
+**推荐语**：[VUE](https://vuevideo.net/) 是一款视频编辑器（跟编程前端流行框架 [vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 重名），让用户能够捕捉到值得纪念的时刻，通过添加滤镜、贴纸、音乐或蒙太奇进行编辑，然后与世界分享。
 
 VUE 并没有 Web 版本，有提供 Android、iOS、小程序（没有剪辑功能）。在 VUE 应用，为 Vloggers 提供了蛮多社区类功能，如频道、学院、专题等；你不仅可以用该工具剪辑视频，也可以分享到社区，还可以关注你喜欢的 Vlogger。
 
-就个人使用感受而言，[VUE](https://nicelinks.site/redirect?url=https://vuevideo.net/) 要比同类竞品好用很多（有用过手机自带、抖音剪辑、快剪辑、剪映、[轻剪](https://nicelinks.site/post/5f05efe82052901c2b15dea2)等产品）； VUE 功能强大且全面，操作尤其简单，具有海量素材，支持高清视频剪辑导出，而且全面适配微信、微博、优酷、腾讯视频等视频制作应用，轻松处理，即可剪辑出大片既视感，**深得我心，极力推荐**。
+就个人使用感受而言，[VUE](https://vuevideo.net/) 要比同类竞品好用很多（有用过手机自带、抖音剪辑、快剪辑、剪映、[轻剪](https://nicelinks.site/post/5f05efe82052901c2b15dea2)等产品）； VUE 功能强大且全面，操作尤其简单，具有海量素材，支持高清视频剪辑导出，而且全面适配微信、微博、优酷、腾讯视频等视频制作应用，轻松处理，即可剪辑出大片既视感，**深得我心，极力推荐**。
 
 ── 出自[倾城之链 - VUE Vlog - 用 Vlog 记录生活，分享真实的你](https://nicelinks.site/post/6048c67b5f9af714fe21dcc0)
 
@@ -79,7 +79,7 @@ VUE 并没有 Web 版本，有提供 Android、iOS、小程序（没有剪辑功
 
 ![倾城之链 - MyTemplate.xyz | No-Code Developer Website Builder](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mytemplate.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MyTemplate.xyz](https://nicelinks.site/redirect?url=https://mytemplate.xyz/) 是一个[零代码](https://nicelinks.site/tags/零代码)（No-Code）开发者网站生成器，只需填写些个人数据，即可一键导出网站源码（一个 `.html` 文件）；[MyTemplate.xyz](https://nicelinks.site/redirect?url=https://mytemplate.xyz/) 是开源项目，使用简单，无需注册，没有广告，而且不收集用户数据；如果填写错误，点击 `Clear Cache` 按钮，即可重新填写。其缺点也比较明显：整体页面结果不支持定制化。
+**推荐语**：[MyTemplate.xyz](https://mytemplate.xyz/) 是一个[零代码](https://nicelinks.site/tags/零代码)（No-Code）开发者网站生成器，只需填写些个人数据，即可一键导出网站源码（一个 `.html` 文件）；[MyTemplate.xyz](https://mytemplate.xyz/) 是开源项目，使用简单，无需注册，没有广告，而且不收集用户数据；如果填写错误，点击 `Clear Cache` 按钮，即可重新填写。其缺点也比较明显：整体页面结果不支持定制化。
 
 ── 出自[倾城之链 - MyTemplate.xyz | No-Code Developer Website Builder](https://nicelinks.site/post/6048b7ea5f9af714fe21dcbe)
 
@@ -91,7 +91,7 @@ VUE 并没有 Web 版本，有提供 Android、iOS、小程序（没有剪辑功
 
 ![倾城之链 - Flarum | 一款优雅简洁论坛软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/flarum.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Flarum](https://nicelinks.site/redirect?url=https://flarum.org/) 是一款优雅简洁论坛软件，让在线交流变得更加轻松愉快。Flarum 基于 PHP 构建，因此很容易安装部署；目前尚处于 Beta 版本，正式版本即将发布。它具有以下功能特性：
+**推荐语**：[Flarum](https://flarum.org/) 是一款优雅简洁论坛软件，让在线交流变得更加轻松愉快。Flarum 基于 PHP 构建，因此很容易安装部署；目前尚处于 Beta 版本，正式版本即将发布。它具有以下功能特性：
 
 - **快速**：不臃肿、不复杂、不过度依赖。几分钟之内构建属于自己的社区；
 - **精美的响应式布局**：`Flarum` 不仅仅为程序员开发，而是为所有人开发的。Flarum 在设计之初就考虑了跨平台，开箱即用。

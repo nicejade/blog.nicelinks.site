@@ -12,7 +12,7 @@
 
 ![倾城之链 - Toolb - Your daily web toolbox](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.toolb.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Toolb](https://nicelinks.site/redirect?url=https://www.toolb.dev/)， 提供了一套 50+ 和扩展的免费 CSS、HTML 和 JS 网络交互式工具，供日常使用，未来还会有更多。此外还提供[文字工具](https://nicelinks.site/redirect?url=https://www.toolb.dev/text)、[图像工具](https://nicelinks.site/redirect?url=https://www.toolb.dev/image)、[获取工具](https://nicelinks.site/redirect?url=https://www.toolb.dev/fetch)等。有初步体验 CSS 交互式工具，有提供 15 种各种工具，诸如调色盘 🎨 生成器、网格生成器、三角生成器、背景图片等等，它不仅提供拖拽、编辑生成代码，而且提供各种获取代码方式（拷贝、下载、二维码），可谓十分贴心。如果您是从事 Web 前端开发的朋友，不妨关注该工具，或许能在某些场景，为你提供帮助。
+**推荐语**：[Toolb](https://www.toolb.dev/)， 提供了一套 50+ 和扩展的免费 CSS、HTML 和 JS 网络交互式工具，供日常使用，未来还会有更多。此外还提供[文字工具](https://www.toolb.dev/text)、[图像工具](https://www.toolb.dev/image)、[获取工具](https://www.toolb.dev/fetch)等。有初步体验 CSS 交互式工具，有提供 15 种各种工具，诸如调色盘 🎨 生成器、网格生成器、三角生成器、背景图片等等，它不仅提供拖拽、编辑生成代码，而且提供各种获取代码方式（拷贝、下载、二维码），可谓十分贴心。如果您是从事 Web 前端开发的朋友，不妨关注该工具，或许能在某些场景，为你提供帮助。
 
 ── 出自[倾城之链 - Toolb - Your daily web toolbox](https://nicelinks.site/post/60f0279f81b2dc066ea4bd65)
 
@@ -26,7 +26,7 @@
 
 ![倾城之链 - POPPUR卟扒 - 让一部分人先看到未来](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.poppur.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[POPPUR 卟扒](https://nicelinks.site/redirect?url=https://www.poppur.com/)是个免费软件下载网站，以丰富的电脑软件，手机软件，手机游戏为主，并且提供应用游戏攻略资讯攻略等信息，是专业的应用游戏软件下载基地。该网站分为 VR、iPhone、Android、PC、Next（智能家居、无人驾驶、随身数码）、PC 软件、手机软件、播放软件、手机游戏、教程资讯等模块，如果您对相关内容感兴趣，不妨考虑关注。
+**推荐语**：[POPPUR 卟扒](https://www.poppur.com/)是个免费软件下载网站，以丰富的电脑软件，手机软件，手机游戏为主，并且提供应用游戏攻略资讯攻略等信息，是专业的应用游戏软件下载基地。该网站分为 VR、iPhone、Android、PC、Next（智能家居、无人驾驶、随身数码）、PC 软件、手机软件、播放软件、手机游戏、教程资讯等模块，如果您对相关内容感兴趣，不妨考虑关注。
 
 ── 出自[倾城之链 - POPPUR 卟扒 - 让一部分人先看到未来](https://nicelinks.site/post/60f01a4381b2dc066ea4bd63)
 
@@ -40,9 +40,9 @@
 
 ![倾城之链 - 知妖（中国妖怪百集）](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cbaigui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[知妖](https://nicelinks.site/redirect?url=https://www.cbaigui.com/) 是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。旨在尽可能地收录古文献中的“妖怪”资料，让更多的人能够完整，系统地了解中国“妖怪”文化。该网站原名为：中国妖怪百集，域名也是由此而来（cbaigui：c-china 中国 baigui-百鬼）。该网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。
+**推荐语**：[知妖](https://www.cbaigui.com/) 是一个开放的在线“妖怪”资料库。致力于收集、整理、介绍、分享古人文献中的“妖怪”。旨在尽可能地收录古文献中的“妖怪”资料，让更多的人能够完整，系统地了解中国“妖怪”文化。该网站原名为：中国妖怪百集，域名也是由此而来（cbaigui：c-china 中国 baigui-百鬼）。该网站包括但不仅限于妖、怪、神、鬼、精、魔、仙等怪力乱神，甚至还包括一些神奇的植物。
 
-需要说明的是，该网站内容，主要以古文献中对“妖怪”有相关语句描述的词条，在可能的情况下，面对同一书籍，他们采取尽量遵循刊行质量和时间优先，挑选同类中最优。您若有不同时间版本，可以提供，以便于他们核对后进行修正。关于该网站的初衷、愿景、以及收录原则，如果您想了解更多，可以参见[关于知妖](https://nicelinks.site/redirect?url=https://www.cbaigui.com/about)。
+需要说明的是，该网站内容，主要以古文献中对“妖怪”有相关语句描述的词条，在可能的情况下，面对同一书籍，他们采取尽量遵循刊行质量和时间优先，挑选同类中最优。您若有不同时间版本，可以提供，以便于他们核对后进行修正。关于该网站的初衷、愿景、以及收录原则，如果您想了解更多，可以参见[关于知妖](https://www.cbaigui.com/about)。
 
 ── 出自[倾城之链 - 知妖（中国妖怪百集）](https://nicelinks.site/post/60eefd6d81b2dc066ea4bd61)
 
@@ -54,7 +54,7 @@
 
 ![倾城之链 - Cakebrew - The Mac App for Homebrew](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cakebrew.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cakebrew](https://nicelinks.site/redirect?url=https://www.cakebrew.com/)，[Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 的 Mac 应用程序，易于使用；它是完成 [Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 成日常任务的便捷方式，而且，还更新和发现 Doctor 的问题；与 Homebrew 在 Terminal 工作方式不同，Cakebrew 提供用户操作界面，可以搜索应用程序，查看已经安装、已过期应用；您可以通过 Cakebrew 来管理应用下载。
+**推荐语**：[Cakebrew](https://www.cakebrew.com/)，[Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 的 Mac 应用程序，易于使用；它是完成 [Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 成日常任务的便捷方式，而且，还更新和发现 Doctor 的问题；与 Homebrew 在 Terminal 工作方式不同，Cakebrew 提供用户操作界面，可以搜索应用程序，查看已经安装、已过期应用；您可以通过 Cakebrew 来管理应用下载。
 
 ── 出自[倾城之链 - Cakebrew - The Mac App for Homebrew](https://nicelinks.site/post/60eed3b881b2dc066ea4bd5f)
 
@@ -66,13 +66,13 @@
 
 ![倾城之链 - Create stylish professional resume in minutes for FREE](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hipcv.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[HipCV](https://nicelinks.site/redirect?url=https://hipcv.com/) 是一个免费的在线简历生成器/制作器，它允许你在几分钟内，创建令人印象深刻的简历。其特点是：一次制作，随处使用；[HipCV](https://nicelinks.site/redirect?url=https://hipcv.com/) 能在几分钟内，获得适合移动设备的网站或下载，并以 PDF 格式共享。[HipCV](https://nicelinks.site/redirect?url=https://hipcv.com/) 使用，也是非常的简单，只需简单的三步即可：
+**推荐语**：[HipCV](https://hipcv.com/) 是一个免费的在线简历生成器/制作器，它允许你在几分钟内，创建令人印象深刻的简历。其特点是：一次制作，随处使用；[HipCV](https://hipcv.com/) 能在几分钟内，获得适合移动设备的网站或下载，并以 PDF 格式共享。[HipCV](https://hipcv.com/) 使用，也是非常的简单，只需简单的三步即可：
 
 - 选择模板；
 - 使用我们预先写好的短语；
 - 下载 PDF 或分享链接；
 
-另外需要说明的是，[HipCV](https://nicelinks.site/redirect?url=https://hipcv.com/) 可以免费 🆓 使用，但高级功能，需要付费，如简历 PDF 下载、在简历中添加照片等等。
+另外需要说明的是，[HipCV](https://hipcv.com/) 可以免费 🆓 使用，但高级功能，需要付费，如简历 PDF 下载、在简历中添加照片等等。
 
 ── 出自[倾城之链 - Create stylish professional resume in minutes for FREE](https://nicelinks.site/post/60ea9c0781b2dc066ea4bd5b)
 
@@ -84,7 +84,7 @@
 
 ![倾城之链 - PDF to PNG – Convert PDF to PNG Online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pdf2png.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PDF to PNG](https://nicelinks.site/redirect?url=https://pdf2png.com/)，是一个免费的在线 PDF 转换器，允许您将 PDF 文档保存为一组单独的 PNG 图像，确保比任何其他 PDF 到图像转换器，有更好的图像质量和大小。其使用方式，也是非常的简单：
+**推荐语**：[PDF to PNG](https://pdf2png.com/)，是一个免费的在线 PDF 转换器，允许您将 PDF 文档保存为一组单独的 PNG 图像，确保比任何其他 PDF 到图像转换器，有更好的图像质量和大小。其使用方式，也是非常的简单：
 
 - 单击“上传文件”按钮，并选择最多 20 个要转换的 PDF 文件；等待转换过程完成。
 - 逐个文件下载结果，或单击“全部下载”按钮，将结果一次性全部下载到 ZIP 存档中。

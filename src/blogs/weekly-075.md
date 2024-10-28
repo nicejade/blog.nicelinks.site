@@ -10,7 +10,7 @@
 
 ![倾城之链 - You.com | The search engine you control](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/you.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[You.com](https://nicelinks.site/redirect?url=https://you.com/) 是一个无广告的私人搜索引擎，由你控制，免费使用；进入零跟踪的私人模式。它用 150+ 个应用程序和网页结果，一起定制搜索结果。在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 介绍到：You.com 的 YouCode 是为开发者提供的搜索引擎。可以基于她复制代码片段，用人工智能编写代码，验证 JSON，并以比传统搜索引擎快 10 倍的速度，找到文档、技巧、窍门和实用工具。
+**推荐语**：[You.com](https://you.com/) 是一个无广告的私人搜索引擎，由你控制，免费使用；进入零跟踪的私人模式。它用 150+ 个应用程序和网页结果，一起定制搜索结果。在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 介绍到：You.com 的 YouCode 是为开发者提供的搜索引擎。可以基于她复制代码片段，用人工智能编写代码，验证 JSON，并以比传统搜索引擎快 10 倍的速度，找到文档、技巧、窍门和实用工具。
 
 世界最大的问答网站 Stack Overflow，每年举办一次全世界程序员调查，2022 增加了一个问题："哪些因素会影响你的工作效率？它们频繁发生吗？会花费你多少时间？"。68% 的程序员说，**最影响工作效率的是找不到答案**。
 
@@ -18,7 +18,7 @@
 
 对于程序员而言，Goolge、Stack Overflow 以及国内的 [SegmentFault](https://nicelinks.site/post/59c8e9208f066a5dda100f4b)，都是解决这一问题的工具。有用户评论 you.com 是真正挖掘领域优化搜索体验的想法——超越 StackOverflow 为开发人员提供搜索工具，是一个聪明而精明的角度。
 
-作为不怎么记忆 API 的编程开发人员，初步体验 You.com，感觉这是值得使用的产品，它能快速根据我的「关键字」，快速且准确找到我想要的内容，而且对「中文」支持的相当好；此外还做了些特色优化，诸如在结果列表中，清晰的展示了页面地址、以及层级路径（譬如 [nicelinks.site > about](https://you.com/search?q=倾城之链)）。除了 Web 应用，适用于 iOS 和 Android 的应用程序，以及 Chrome 扩展。如果您对 you.com 感兴趣，可以参见 [You.com 入门](https://nicelinks.site/redirect?url=https://about.you.com/hc-category/getting-started/)。
+作为不怎么记忆 API 的编程开发人员，初步体验 You.com，感觉这是值得使用的产品，它能快速根据我的「关键字」，快速且准确找到我想要的内容，而且对「中文」支持的相当好；此外还做了些特色优化，诸如在结果列表中，清晰的展示了页面地址、以及层级路径（譬如 [nicelinks.site > about](https://you.com/search?q=倾城之链)）。除了 Web 应用，适用于 iOS 和 Android 的应用程序，以及 Chrome 扩展。如果您对 you.com 感兴趣，可以参见 [You.com 入门](https://about.you.com/hc-category/getting-started/)。
 
 ── 出自[倾城之链 - You.com | The search engine you control](https://nicelinks.site/post/62d947dd65fb1506218fa5e5)
 
@@ -30,9 +30,9 @@
 
 ![倾城之链 - JS: The Right Way](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jstherightway.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[JS: The Right Way](https://nicelinks.site/redirect?url=https://jstherightway.org/) 编写 J avaScript 最佳实践的参考指南；该指南旨在向新开发人员介绍 JavaScript，并帮助有经验的开发人员，更多地了解其最佳实践。当然，该指南并不一定意味着执行 JavaScript 的“唯一方法”，它只是收集来自顶级开发人员的所有文章、提示和技巧，并将其放在这里。由于它来自杰出的人，可以说这是“正确的方式”，或者说是最好的方式。
+**推荐语**：[JS: The Right Way](https://jstherightway.org/) 编写 J avaScript 最佳实践的参考指南；该指南旨在向新开发人员介绍 JavaScript，并帮助有经验的开发人员，更多地了解其最佳实践。当然，该指南并不一定意味着执行 JavaScript 的“唯一方法”，它只是收集来自顶级开发人员的所有文章、提示和技巧，并将其放在这里。由于它来自杰出的人，可以说这是“正确的方式”，或者说是最好的方式。
 
-[JS: The Right Way](https://nicelinks.site/redirect?url=https://jstherightway.org/) 所涉及的内容非常丰富，包含：JavaScript 入门，代码风格、特色功能、设计模式、各种框架、测试工具、游戏引擎，以及相关方面的推荐文章、新闻。如果您从事，或打算从事 Web 前端开发，相信 [JS: The Right Way](https://nicelinks.site/redirect?url=https://jstherightway.org/) 都能带来或多或少的帮助。
+[JS: The Right Way](https://jstherightway.org/) 所涉及的内容非常丰富，包含：JavaScript 入门，代码风格、特色功能、设计模式、各种框架、测试工具、游戏引擎，以及相关方面的推荐文章、新闻。如果您从事，或打算从事 Web 前端开发，相信 [JS: The Right Way](https://jstherightway.org/) 都能带来或多或少的帮助。
 
 ── 出自[倾城之链 - JS: The Right Way](https://nicelinks.site/post/62d7f92a65fb1506218fa5e3)
 
@@ -44,7 +44,7 @@
 
 ![倾城之链 - Strapi - Open source Node.js Headless CMS 🚀](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/strapi.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Strapi](https://nicelinks.site/redirect?url=https://strapi.io/) 是一款免费的、领先的**开源**无头（Headless） CMS，轻松构建可定制的 API，可在您需要的任何地方提供您的内容。它是 100% JavaScript，完全可定制和开发者优先。除此之外，它还具有以下功能特色：
+**推荐语**：[Strapi](https://strapi.io/) 是一款免费的、领先的**开源**无头（Headless） CMS，轻松构建可定制的 API，可在您需要的任何地方提供您的内容。它是 100% JavaScript，完全可定制和开发者优先。除此之外，它还具有以下功能特色：
 
 - **控制您的数据**：使用 Strapi，您可以知道您的数据存储在哪里，并始终保持完全控制。
 - **自托管**：您可以按照自己的方式托管和扩展 Strapi 项目。您可以选择任何您想要的托管平台：AWS、Render、Netlify、Heroku、VPS 或专用服务器。您可以随着成长而扩展，100% 独立。
@@ -73,7 +73,7 @@ npx create-strapi-app my-project --quickstart
 >
 > 第二，新的渠道和用户设备不断涌现。构建出色的内容并不足够，企业还需要确保尽可能高效地将其发布到任何位置。 Headless  CMS 意味着内容创作人员无需考虑 Web 界面设计而专注于构建出色的内容，而且它使企业的内容运营工作能够适应未来发展需求，将内容发布到任何渠道。
 
-长期以来，大多数网站内容通过浏览器（通常是网页）发布。 但是新的互联设备层出不穷。如今，受众通过具有不同形状系数的新设备界面（例如智能手机、可穿戴设备、支持 AI 的语音助理、乃至虚拟现实耳机）使用内容。Headless CMS 架构，对于应对这些新的内容挑战，具有基础性的作用。这意味着您可以轻松创建和管理更多内容，并将其发布到更多位置。[Strapi](https://nicelinks.site/redirect?url=https://strapi.io/) 让开发人员可以自由使用他们最喜欢的工具和框架，同时允许编辑人员轻松管理他们的内容，并将其分发到任何地方。
+长期以来，大多数网站内容通过浏览器（通常是网页）发布。 但是新的互联设备层出不穷。如今，受众通过具有不同形状系数的新设备界面（例如智能手机、可穿戴设备、支持 AI 的语音助理、乃至虚拟现实耳机）使用内容。Headless CMS 架构，对于应对这些新的内容挑战，具有基础性的作用。这意味着您可以轻松创建和管理更多内容，并将其发布到更多位置。[Strapi](https://strapi.io/) 让开发人员可以自由使用他们最喜欢的工具和框架，同时允许编辑人员轻松管理他们的内容，并将其分发到任何地方。
 
 ── 出自[倾城之链 - Strapi - Open source Node.js Headless CMS 🚀](https://nicelinks.site/post/62d6a53a65fb1506218fa5e1)
 
@@ -85,7 +85,7 @@ npx create-strapi-app my-project --quickstart
 
 ![倾城之链 - Smashing Magazine — For Web Designers And DevelopersClear SearchBack to top](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.smashingmagazine.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Smashing Magazine](https://nicelinks.site/redirect?url=https://www.smashingmagazine.com/) ，于 2006 年 9 月在德国成立，为网页设计师和 Web 开发人员提供可靠、有用但最重要的实用文章，围绕 CSS、JavaScript、前端、用户体验和设计等方面（内容十分丰富）。该团队小而精，他们真正在意自己的工作，热情而专注，诚实和尊重；他们不关心趋势，关心在实际项目中成功或失败的事情；10 多年以来，始终坚持**高质量的内容**，致力于提高生产力、提高设计、开发技能以及**平衡工作与生活**。通过互相学习，一起变得更好——这就是该团队多年来，一直奉行的精神（`赞`）。事实上，他们做到了，在这里读到了蛮多精品内容分享，如果您从事前端开发，或网页设计相关工作，Smashing 是非常值得关注的网站。
+**推荐语**： [Smashing Magazine](https://www.smashingmagazine.com/) ，于 2006 年 9 月在德国成立，为网页设计师和 Web 开发人员提供可靠、有用但最重要的实用文章，围绕 CSS、JavaScript、前端、用户体验和设计等方面（内容十分丰富）。该团队小而精，他们真正在意自己的工作，热情而专注，诚实和尊重；他们不关心趋势，关心在实际项目中成功或失败的事情；10 多年以来，始终坚持**高质量的内容**，致力于提高生产力、提高设计、开发技能以及**平衡工作与生活**。通过互相学习，一起变得更好——这就是该团队多年来，一直奉行的精神（`赞`）。事实上，他们做到了，在这里读到了蛮多精品内容分享，如果您从事前端开发，或网页设计相关工作，Smashing 是非常值得关注的网站。
 
 ── 出自[倾城之链 - Smashing Magazine — For Web Designers And DevelopersClear SearchBack to top](https://nicelinks.site/post/62d69eb465fb1506218fa5df)
 
@@ -99,7 +99,7 @@ npx create-strapi-app my-project --quickstart
 
 ![倾城之链 - 免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.freehost.cc.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [freehost.cc](https://nicelinks.site/redirect?url=https://www.freehost.cc/) 提供专业的免费主机服务，采用服务器集群技术，是互联网领先的免费云虚拟主机提供商。在这里注册的免费高速 PHP 主机和 MYSQL 数据库包含一个免费的二级域名，他提供一个强大的、且易于使用的控制面板来管理你的网站，这个控制面板包含几百个强大的功能，包含：一键建站工具、电子邮件、FTP 具，并且提供 SSH/HTTPS 来保护每一个域名。使用他们的免费主机服务您的个人网站，会更安全，以及更好的搜索引擎排名（以上内容，完全出自 freehost.cc 网站介绍，还未切实去体验，感兴趣的朋友，请自行判断）。
+**推荐语**： [freehost.cc](https://www.freehost.cc/) 提供专业的免费主机服务，采用服务器集群技术，是互联网领先的免费云虚拟主机提供商。在这里注册的免费高速 PHP 主机和 MYSQL 数据库包含一个免费的二级域名，他提供一个强大的、且易于使用的控制面板来管理你的网站，这个控制面板包含几百个强大的功能，包含：一键建站工具、电子邮件、FTP 具，并且提供 SSH/HTTPS 来保护每一个域名。使用他们的免费主机服务您的个人网站，会更安全，以及更好的搜索引擎排名（以上内容，完全出自 freehost.cc 网站介绍，还未切实去体验，感兴趣的朋友，请自行判断）。
 
 ── 出自[倾城之链 - 免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间](https://nicelinks.site/post/62d5153f65fb1506218fa5dd)
 

@@ -12,7 +12,7 @@
 
 ![倾城之链 - Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gotokeep.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [KEEP](https://nicelinks.site/redirect?url=https://www.gotokeep.com/) ，是一个应用程序，于 2015 年 2 月 4 日上线 ，致力于提供健身教学、跑步、骑行、交友及健身饮食指导、装备购买等一站式运动解决方案 被 App Store 评为“2015 年度精选应用”。除了 keep 应用程序外，Keep 还开设线下运动空间 Keepland，并发售 KeepKit 系列智能硬件产品。
+**推荐语**： [KEEP](https://www.gotokeep.com/) ，是一个应用程序，于 2015 年 2 月 4 日上线 ，致力于提供健身教学、跑步、骑行、交友及健身饮食指导、装备购买等一站式运动解决方案 被 App Store 评为“2015 年度精选应用”。除了 keep 应用程序外，Keep 还开设线下运动空间 Keepland，并发售 KeepKit 系列智能硬件产品。
 
 ### Keep App
 
@@ -46,7 +46,7 @@ Keep 官方主页有分享：“哪有什么天生如此，只是我们天天坚
 
 ![倾城之链 - Lapce](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lapce.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lapce](https://nicelinks.site/redirect?url=https://lapce.dev/)，用 Rust 编写的、开源的、闪电般快速的、且功能强大的代码编辑器。通过利用原生 GUI 和 GPU 渲染，以及 Rust 提供的性能，Lapce 是目前最快的代码编辑器之一。目前支持 Linux、Windows 和 macOS。它具有以下功能特征：
+**推荐语**：[Lapce](https://lapce.dev/)，用 Rust 编写的、开源的、闪电般快速的、且功能强大的代码编辑器。通过利用原生 GUI 和 GPU 渲染，以及 Rust 提供的性能，Lapce 是目前最快的代码编辑器之一。目前支持 Linux、Windows 和 macOS。它具有以下功能特征：
 
 ### 闪电般的快
 
@@ -76,7 +76,7 @@ Vim 用户，我们为您服务！内置支持类似 Vim 的编辑体验，无�
 
 Lapce 有一个命令调色板，其中包含 Lapce 提供的所有命令，并通过易于使用的模糊搜索，让您快速获得所需的命令。要打开它，请在 macOS 上按 `Cmd+Shift+P`，在 Linux 和 Windows 上按 `Ctrl+Shift+P`。
 
-需要说明的是，Lapce 尚在 `Pre-alpha` 阶段，有下载初步使用体验，功能比起 VsCode 之类的编辑器，还不太完善；但在速度这一块儿，确实很快（可达到「秒开」）。感兴趣的朋友，可以移步 [Lapce 文档](https://nicelinks.site/redirect?url=https://docs.lapce.dev/)，以便了解更多。
+需要说明的是，Lapce 尚在 `Pre-alpha` 阶段，有下载初步使用体验，功能比起 VsCode 之类的编辑器，还不太完善；但在速度这一块儿，确实很快（可达到「秒开」）。感兴趣的朋友，可以移步 [Lapce 文档](https://docs.lapce.dev/)，以便了解更多。
 
 ── 出自[倾城之链 - Lapce](https://nicelinks.site/post/62e10d72bd6b821eb12244d8)
 
@@ -88,7 +88,7 @@ Lapce 有一个命令调色板，其中包含 Lapce 提供的所有命令，并�
 
 ![倾城之链 - Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/eslint.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ESLint](https://nicelinks.site/redirect?url=https://eslint.org/)，是一个开源项目，用于 JavaScript 和 JSX 的可插拔 linting 实用程序，可帮助您查找和修复 JavaScript 代码中的问题。无论您是在浏览器中还是在服务器上编写 JavaScript，无论是否有框架，ESLint 都可以帮助您的代码过上最好的生活。它具有以下功能特性：
+**推荐语**：[ESLint](https://eslint.org/)，是一个开源项目，用于 JavaScript 和 JSX 的可插拔 linting 实用程序，可帮助您查找和修复 JavaScript 代码中的问题。无论您是在浏览器中还是在服务器上编写 JavaScript，无论是否有框架，ESLint 都可以帮助您的代码过上最好的生活。它具有以下功能特性：
 
 ### 发现问题
 
@@ -116,7 +116,7 @@ ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载
 
 ![倾城之链 - ES6 入门教程](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/es6.ruanyifeng.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ES6 入门教程](https://nicelinks.site/redirect?url=https://es6.ruanyifeng.com/)，是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性（ECMAScript，它是由欧洲计算机协会(ECMA)，制定的一种脚本语言的标准化规范。ES6 发行于 2015 年 6 月，由于这个版本的语法规范，极大地提高了前端开发人员的**工作效率**，所以快速在前端圈子中流行开来，时至今日热度依旧不减）。作者是[阮一峰](https://nicelinks.site/post/59be8365f4aed63e37a280af)。该书对涉及的语法知识，给予详细介绍，并给出大量简洁易懂的示例代码。该书为「中级难度」，适合已经掌握 ES5 的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。如果你是 JavaScript 语言的初学者，建议先学完[《JavaScript 语言入门教程》](https://nicelinks.site/redirect?url=https://wangdoc.com/javascript/)，再来看本书。
+**推荐语**：[ES6 入门教程](https://es6.ruanyifeng.com/)，是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性（ECMAScript，它是由欧洲计算机协会(ECMA)，制定的一种脚本语言的标准化规范。ES6 发行于 2015 年 6 月，由于这个版本的语法规范，极大地提高了前端开发人员的**工作效率**，所以快速在前端圈子中流行开来，时至今日热度依旧不减）。作者是[阮一峰](https://nicelinks.site/post/59be8365f4aed63e37a280af)。该书对涉及的语法知识，给予详细介绍，并给出大量简洁易懂的示例代码。该书为「中级难度」，适合已经掌握 ES5 的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。如果你是 JavaScript 语言的初学者，建议先学完[《JavaScript 语言入门教程》](https://wangdoc.com/javascript/)，再来看本书。
 
 ── 出自[倾城之链 - ES6 入门教程](https://nicelinks.site/post/62dffa44bd6b821eb12244d1)
 
@@ -128,7 +128,7 @@ ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载
 
 ![倾城之链 - Quotefancy: Wallpapers With Inspirational Quotes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/quotefancy.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Quotefancy](https://nicelinks.site/redirect?url=https://quotefancy.com/) ，提供鼓舞人心语录的壁纸网站；该网站探索有史以来最鼓舞人心的名言，结合漂亮的图片背景，生成高质量、别致的图片，供用户访问，且支持下载免费的（4K）壁纸。该网站以「励志名言」为特色，以便用户**获得灵感**、**获得动力**。您如果感兴趣，不妨查阅下，如[老子语录（Lao Tzu Quotes）](https://quotefancy.com/lao-tzu-quotes)、[史蒂夫乔布斯语录（Steve Jobs Quotes）](https://quotefancy.com/steve-jobs-quotes)。
+**推荐语**：[Quotefancy](https://quotefancy.com/) ，提供鼓舞人心语录的壁纸网站；该网站探索有史以来最鼓舞人心的名言，结合漂亮的图片背景，生成高质量、别致的图片，供用户访问，且支持下载免费的（4K）壁纸。该网站以「励志名言」为特色，以便用户**获得灵感**、**获得动力**。您如果感兴趣，不妨查阅下，如[老子语录（Lao Tzu Quotes）](https://quotefancy.com/lao-tzu-quotes)、[史蒂夫乔布斯语录（Steve Jobs Quotes）](https://quotefancy.com/steve-jobs-quotes)。
 
 此外，该网站还提供 QuoteFancy Studio 工具（即时网络访问。无需安装）。使得用户几秒钟内，生成带有您的报价的精美图像；为您的桌面背景、博客文章、演示文稿、社交媒体、视频、励志海报等创建高质量图像；但该工具并未免费（需要购买，价格 122 港元）。
 

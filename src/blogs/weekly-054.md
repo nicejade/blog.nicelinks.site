@@ -12,7 +12,7 @@
 
 ![倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.svgviewer.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SVG Viewer](https://nicelinks.site/redirect?url=https://www.svgviewer.dev/)，是一个在线工具，用于查看（预览）和优化 [SVG](https://nicelinks.site/tags/SVG)，这对 **Web 开发**相关从业人员，颇为有用。在介绍该网站功能之前，有必要对 `SVG` 做一个大致科普：
+**推荐语**：[SVG Viewer](https://www.svgviewer.dev/)，是一个在线工具，用于查看（预览）和优化 [SVG](https://nicelinks.site/tags/SVG)，这对 **Web 开发**相关从业人员，颇为有用。在介绍该网站功能之前，有必要对 `SVG` 做一个大致科普：
 
 > [SVG](https://nicelinks.site/tags/SVG)：**可缩放矢量图形**（Scalable Vector Graphics，SVG），是一种用于描述二维的**矢量**图形，基于 XML 的标记语言。作为一个基于文本的开放网络标准，SVG 能够优雅而简洁地渲染不同大小的图形，并和 CSS，DOM，JavaScript 和 SMIL 等其他网络标准无缝衔接。本质上，**SVG 相对于图像，就好比 HTML 相对于文本**。
 >
@@ -20,9 +20,9 @@
 >
 > 和传统的点阵图像模式，像 JPEG 和 PNG 不同，SVG 格式提供的是矢量图，这意味着它的图像能够被无限放大，而且不失真或降低质量，并且可以方便地修改内容。
 >
-> 正如 HTML 一样，SVG 也有可被 JavaScript 访问的文档对象模型（DOM）和事件。这允许开发者创建丰富的动画和可交互的图像。如欲了解 SVG 更多，可参见 [SVG | MDN](https://nicelinks.site/redirect?url=https://developer.mozilla.org/zh-CN/docs/Web/SVG)。
+> 正如 HTML 一样，SVG 也有可被 JavaScript 访问的文档对象模型（DOM）和事件。这允许开发者创建丰富的动画和可交互的图像。如欲了解 SVG 更多，可参见 [SVG | MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG)。
 
-再说回 [SVG Viewer](https://nicelinks.site/redirect?url=https://www.svgviewer.dev/)，因为可以方便预览 SVG 内容和美化（Prettify）SVG 代码，您可以基于该网站来编写 SVG（支持清除（Clear）、调整大小（Resize）、以及大量可选项设置（Options））；还支持一键转换为 React、React Native 代码及 PNG 图片；此外，您可以一键**下载**和**分享**您所创建的 SVG。如果您有操作 SVG 相关诉求，[SVG Viewer](https://nicelinks.site/redirect?url=https://www.svgviewer.dev/) 是您值得关注且典藏的网站。
+再说回 [SVG Viewer](https://www.svgviewer.dev/)，因为可以方便预览 SVG 内容和美化（Prettify）SVG 代码，您可以基于该网站来编写 SVG（支持清除（Clear）、调整大小（Resize）、以及大量可选项设置（Options））；还支持一键转换为 React、React Native 代码及 PNG 图片；此外，您可以一键**下载**和**分享**您所创建的 SVG。如果您有操作 SVG 相关诉求，[SVG Viewer](https://www.svgviewer.dev/) 是您值得关注且典藏的网站。
 
 ── 出自[倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://nicelinks.site/post/621739aa2d17f22050cf1a31)
 
@@ -34,7 +34,7 @@
 
 ![倾城之链 - VueUse](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vueuse.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[VueUse](https://nicelinks.site/redirect?url=https://vueuse.org/)，是一组基于 Vue Composition API 的实用函数（常用工具集）；支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 2 和 3。它的初衷是：将一切原本并不支持响应式的 JS API，变得支持响应式，省去程序员自己写相关代码。目前 [VueUse](https://nicelinks.site/redirect?url=https://vueuse.org/) 已提供几十个解决方案，适用于常见的开发者用例，如跟踪 Ref 变化、检测元素可见性、简化常见的 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 模式、键盘/鼠标输入等。使用 `VueUse` 是一个节省开发时间的好方法，因为您不必自己添加所有这些标准功能。它具有以下功能特征：
+**推荐语**：[VueUse](https://vueuse.org/)，是一组基于 Vue Composition API 的实用函数（常用工具集）；支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 2 和 3。它的初衷是：将一切原本并不支持响应式的 JS API，变得支持响应式，省去程序员自己写相关代码。目前 [VueUse](https://vueuse.org/) 已提供几十个解决方案，适用于常见的开发者用例，如跟踪 Ref 变化、检测元素可见性、简化常见的 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 模式、键盘/鼠标输入等。使用 `VueUse` 是一个节省开发时间的好方法，因为您不必自己添加所有这些标准功能。它具有以下功能特征：
 
 - 🎛 **功能丰富**：140+功能供您选择；
 - 🕶 **无缝迁移**：适用于 Vue 3 和 2；
@@ -46,7 +46,7 @@
 - 🎪 **互动演示**：功能文档还附带交互式演示；
 - 🔌 **附加组件**：支持 Router、Firebase、RxJS 等各种插件。
 
-[VueUse](https://nicelinks.site/redirect?url=https://vueuse.org/) 使用方式也非常简单：
+[VueUse](https://vueuse.org/) 使用方式也非常简单：
 
 ```bash
 # 安装 VueUse
@@ -76,7 +76,7 @@ export default {
 }
 ```
 
-总结一下，VueUse 中有以下 9 种类型的函数。如果你想了解实用程序的完整列表，建议移步至 [VueUse 官方文档](https://nicelinks.site/redirect?url=https://vueuse.org/)。
+总结一下，VueUse 中有以下 9 种类型的函数。如果你想了解实用程序的完整列表，建议移步至 [VueUse 官方文档](https://vueuse.org/)。
 
 1. **Animation**：包含易于使用的过渡、超时和计时功能；
 2. **Browser**：可用于不同的屏幕控制、剪贴板、偏好等；
@@ -88,7 +88,7 @@ export default {
 8. **Watch**：更多高级类型的观察器，如可暂停的观察器、退避的观察器和条件观察器；
 9. **Misc**：不同类型的事件、WebSockets 和 Web workers 的功能。
 
-[VueUse](https://nicelinks.site/redirect?url=https://vueuse.org/) 很大程度启发于 `react-use`、`vue-hooks、react-hooks` 等项目。Vue Compostion API 支持了更好的逻辑分离，让这些常用的工具可以被复用，能够让你快速地构建丰富的应用。VueUse 中的大多数函数都会返回一个**refs 对象**，您可以使用 ES6 的对象解构语法来获取您需要的内容。
+[VueUse](https://vueuse.org/) 很大程度启发于 `react-use`、`vue-hooks、react-hooks` 等项目。Vue Compostion API 支持了更好的逻辑分离，让这些常用的工具可以被复用，能够让你快速地构建丰富的应用。VueUse 中的大多数函数都会返回一个**refs 对象**，您可以使用 ES6 的对象解构语法来获取您需要的内容。
 
 ── 出自[倾城之链 - VueUse](https://nicelinks.site/post/6217279e2d17f22050cf1a2f)
 
@@ -100,11 +100,11 @@ export default {
 
 ![倾城之链 - Ruby on Rails — A web-app Framework ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rubyonrails.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ruby on Rails](https://nicelinks.site/redirect?url=https://rubyonrails.org/)（官方简称为 Rails，亦被简称为 RoR），是一个基于 Ruby 语言写的开源 Web 应用程序框架，包括根据**模型-视图-控制器**（MVC）模式创建数据库支持的 Web 应用程序所需的一切。它努力使自身保持简单，来使实际的应用开发时的代码更少，使用最少的配置。Rails 的设计原则包括 “不做重复的事”（Don't Repeat Yourself）和 “惯例优于设置”（Convention Over Configuration）。
+**推荐语**：[Ruby on Rails](https://rubyonrails.org/)（官方简称为 Rails，亦被简称为 RoR），是一个基于 Ruby 语言写的开源 Web 应用程序框架，包括根据**模型-视图-控制器**（MVC）模式创建数据库支持的 Web 应用程序所需的一切。它努力使自身保持简单，来使实际的应用开发时的代码更少，使用最少的配置。Rails 的设计原则包括 “不做重复的事”（Don't Repeat Yourself）和 “惯例优于设置”（Convention Over Configuration）。
 
-[Ruby on Rails](https://nicelinks.site/redirect?url=https://rubyonrails.org/) 是一种结合 Ruby 语言与 Rails 平台的一种网页程序框架，Ruby 语言以自然、简洁、快速著称，全面支持面向对象程序设计，而 Rails 则是 Ruby 广泛应用方式之一，在 Rails 平台上设计出一套独特的 MVC 开发架构，采取模型（Model）、视图（View）、控制器（Controller）分离的开发方式，不但减少了开发中的问题，更简化了许多繁复的动作。
+[Ruby on Rails](https://rubyonrails.org/) 是一种结合 Ruby 语言与 Rails 平台的一种网页程序框架，Ruby 语言以自然、简洁、快速著称，全面支持面向对象程序设计，而 Rails 则是 Ruby 广泛应用方式之一，在 Rails 平台上设计出一套独特的 MVC 开发架构，采取模型（Model）、视图（View）、控制器（Controller）分离的开发方式，不但减少了开发中的问题，更简化了许多繁复的动作。
 
-[Rails](https://nicelinks.site/redirect?url=https://rubyonrails.org/) 是一个全栈框架。它附带了在前端和后端构建出色的 Web 应用程序所需的所有工具：渲染 HTML 模板、更新数据库、发送和接收电子邮件、通过 WebSocket 维护实时页面、为异步工作排队作业、将上传存储在云中，为常见攻击提供可靠的安全保护。Rails 可以做到这一切，且还有更多。
+[Rails](https://rubyonrails.org/) 是一个全栈框架。它附带了在前端和后端构建出色的 Web 应用程序所需的所有工具：渲染 HTML 模板、更新数据库、发送和接收电子邮件、通过 WebSocket 维护实时页面、为异步工作排队作业、将上传存储在云中，为常见攻击提供可靠的安全保护。Rails 可以做到这一切，且还有更多。
 
 Ruby on Rails 的数千个程序已经在线上得到应用。包括 Twitter、Airbnb、GitLab、Shopify 等知名网站。如果您对其感兴趣，不妨前往其官网了解一下。
 
@@ -118,7 +118,7 @@ Ruby on Rails 的数千个程序已经在线上得到应用。包括 Twitter、A
 
 ![倾城之链 - npm ｜ the package manager for Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.npmjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NPM](https://nicelinks.site/redirect?url=https://www.npmjs.com/)（**Node Package Manager**) 是 JavaScript 运行时环境 Node.js 的默认包管理器，由 npm, Inc. 维护（一家成立于 2014 年的公司，于 2020 年 3 月 17 日被 GitHub 收购）。[npm](https://nicelinks.site/redirect?url=https://www.npmjs.com/) 是 JavaScript 社区的重要组成部分，有助于支持世界上最大的开发者生态系统之一。npm 有非常多东西：
+**推荐语**：[NPM](https://www.npmjs.com/)（**Node Package Manager**) 是 JavaScript 运行时环境 Node.js 的默认包管理器，由 npm, Inc. 维护（一家成立于 2014 年的公司，于 2020 年 3 月 17 日被 GitHub 收购）。[npm](https://www.npmjs.com/) 是 JavaScript 社区的重要组成部分，有助于支持世界上最大的开发者生态系统之一。npm 有非常多东西：
 
 - npm 是 Node.js 的包管理器。它作为一个开源项目创建于 2009 年，旨在帮助 JavaScript 开发人员轻松共享打包的代码模块。
 - npm Registry 是一个公开的开源代码包集合，用于 Node.js、前端 Web 应用程序、移动应用程序、机器人、路由器以及 JavaScript 社区的无数其他需求。
@@ -128,7 +128,7 @@ GitHub 现在已经保证 npm 将永远免费。截至 2020 年 3 月 17 日，n
 
 新版的 [Node.js](https://nicelinks.site/tags/Node.js) 已经集成了 npm；如果您有安装 Node.js，那么 npm 也一并安装好了。您可以通过输入 `npm -v` 来测试是否成功安装。
 
-[NPM](https://nicelinks.site/redirect?url=https://www.npmjs.com/) 是一种重用其他开发人员的代码的方法，也是一种与他人共享代码的方式，并且可以很容易地管理不同版本的代码。`npm` 开始作为 Node 包管理器，所以你会发现很多模块可以在服务器端使用。也有很多的包添加命令供您在命令行中使用。如果您从事**前端开发**相关工作，想必 `npm` 是您必不可少的工具；当然，您也可以使用其替代性产品 `yarn`，详情可参见文章 ──[Npm vs Yarn 之备忘详单](https://www.jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/)。
+[NPM](https://www.npmjs.com/) 是一种重用其他开发人员的代码的方法，也是一种与他人共享代码的方式，并且可以很容易地管理不同版本的代码。`npm` 开始作为 Node 包管理器，所以你会发现很多模块可以在服务器端使用。也有很多的包添加命令供您在命令行中使用。如果您从事**前端开发**相关工作，想必 `npm` 是您必不可少的工具；当然，您也可以使用其替代性产品 `yarn`，详情可参见文章 ──[Npm vs Yarn 之备忘详单](https://www.jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/)。
 
 ── 出自[倾城之链 - npm ｜ the package manager for Node.js](https://nicelinks.site/post/6216392f2d17f22050cf1a2b)
 
@@ -140,7 +140,7 @@ GitHub 现在已经保证 npm 将永远免费。截至 2020 年 3 月 17 日，n
 
 ![倾城之链 - mark.js – JavaScript keyword highlight](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markjs.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[mark.js](https://nicelinks.site/redirect?url=https://markjs.io/)，是一个用 JavaScript 编写的文本荧光笔（高亮工具库），可以与纯 JavaScript 或作为 jQuery 插件一起使用。它可以用来动态标记搜索词或自定义正则表达式，并为您提供内置选项，如支持标点符号、单独的单词搜索、自定义同义词、支持 iframes、自定义过滤器、准确性定义、自定义元素、自定义类名等。它不仅功能强大，而且使用非常简单，如下示例：
+**推荐语**：[mark.js](https://markjs.io/)，是一个用 JavaScript 编写的文本荧光笔（高亮工具库），可以与纯 JavaScript 或作为 jQuery 插件一起使用。它可以用来动态标记搜索词或自定义正则表达式，并为您提供内置选项，如支持标点符号、单独的单词搜索、自定义同义词、支持 iframes、自定义过滤器、准确性定义、自定义元素、自定义类名等。它不仅功能强大，而且使用非常简单，如下示例：
 
 ```js
 # 基于 npm 安装
@@ -158,7 +158,7 @@ instance.mark(keyword, {
 });
 ```
 
-如果您有打算做**本地搜索**功能，那么 [mark.js](https://nicelinks.site/redirect?url=https://markjs.io/) 工具库非常拥有，可以帮您**高亮**关键字。
+如果您有打算做**本地搜索**功能，那么 [mark.js](https://markjs.io/) 工具库非常拥有，可以帮您**高亮**关键字。
 
 ── 出自[倾城之链 - mark.js – JavaScript keyword highlight](https://nicelinks.site/post/6213944196847213f2febb08)
 

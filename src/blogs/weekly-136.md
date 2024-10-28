@@ -10,7 +10,7 @@
 
 ![倾城之链 - Swiper - The Most Modern Mobile Touch Slider](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/swiperjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Swiper](https://nicelinks.site/redirect?url=https://swiperjs.com/) 是免费且最现代的移动触摸滑块，具有硬件加速转换和令人惊叹的本机行为。它旨在用于移动网站、移动网络应用程序和移动本机、混合应用程序。Swiper 以及其他出色的组件是 [Framework7](https://framework7.io/) 和 [Ionic Framework](https://ionicframework.com/) 的一部分，后者是用于构建 iOS 和 Android 应用程序的功能齐全的框架。它具有如下功能特征：
+**推荐语**：[Swiper](https://swiperjs.com/) 是免费且最现代的移动触摸滑块，具有硬件加速转换和令人惊叹的本机行为。它旨在用于移动网站、移动网络应用程序和移动本机、混合应用程序。Swiper 以及其他出色的组件是 [Framework7](https://framework7.io/) 和 [Ionic Framework](https://ionicframework.com/) 的一部分，后者是用于构建 iOS 和 Android 应用程序的功能齐全的框架。它具有如下功能特征：
 
 - **图书馆不可知论者**：Swiper 不需要任何像 jQuery 这样的 JavaScript 库，这使得 Swiper 更小 ​​ 更快；
 - **模块化结构**：Swiper 具有模块化结构，允许您仅使用必要的模块，使其尺寸更小；
@@ -37,7 +37,7 @@
 
 ![倾城之链 - Loopple: Template Builder for Modern Websites & Dashboards](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.loopple.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Loopple](https://nicelinks.site/redirect?url=https://www.loopple.com/) 是一个拖放仪表板构建器，可帮助您在几分钟内为您的初创公司和企业创建漂亮且动态的管理面板。更少代码，构建更多：选择您喜欢的设计，并使用低代码和拖放功能在几分钟内创建令人惊叹的模板。具体来讲，Loopple 提供以下内容：
+**推荐语**：[Loopple](https://www.loopple.com/) 是一个拖放仪表板构建器，可帮助您在几分钟内为您的初创公司和企业创建漂亮且动态的管理面板。更少代码，构建更多：选择您喜欢的设计，并使用低代码和拖放功能在几分钟内创建令人惊叹的模板。具体来讲，Loopple 提供以下内容：
 
 - **仪表板模板生成器**：选择一种风格，并使用 Loopple 流行的框架轻松创建令人惊叹的仪表板。
 - **网站模板生成器**：选择一种风格，并使用 Loopple 流行的框架轻松创建令人惊叹的网站或登陆页面。
@@ -55,7 +55,7 @@
 
 ![倾城之链 - Kyugo | Your personal time-assistant](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/app.kyugo.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Kyugo](https://nicelinks.site/redirect?url=https://app.kyugo.app/) （源自日语“Kyūgo”，意思是**救济或援助**）您的私人时间助理；旨在守护您的工作与生活平衡，自动解决您的工作、会议和空闲时间安排。与其他产品不同的是，Kyugo 采用圆形日历设计，相比于电子表格，这种更显直观，也便于在手机这种小型设备上使用。
+**推荐语**：[Kyugo](https://app.kyugo.app/) （源自日语“Kyūgo”，意思是**救济或援助**）您的私人时间助理；旨在守护您的工作与生活平衡，自动解决您的工作、会议和空闲时间安排。与其他产品不同的是，Kyugo 采用圆形日历设计，相比于电子表格，这种更显直观，也便于在手机这种小型设备上使用。
 
 Kyugo 在官网写到：30 多年来，日历的工作方式一直没有创新。类似电子表格的界面可以很好地创建会议，但不足以规划您的生活。守护您有限的时间，实现真正的**工作与生活平衡**。该团队正在寻找解决问题的方法——工作太多、会议打断了我们的深度工作、没有足够的时间陪伴家人和自己。持续的认知超载，包括何时做什么、何时计划下一次会议以及何时为项目腾出时间。如何让你的生活运转起来。
 
@@ -82,7 +82,7 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 ![倾城之链 - WebContainers - Dev environments. In your web app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/webcontainers.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WebContainers](https://nicelinks.site/redirect?url=https://webcontainers.io/) ，打造未来基于网络的编码体验，从交互式教程到即时生产就绪的开发环境。**使用 WebContainer API 为您的 Web 应用程序提供支持**；它通过将 Node.js 直接集成到您的 Web 应用程序中，创造无与伦比的用户体验。构建全品牌产品，无需连接到外部服务器或引导用户使用第三方应用程序。它具有如下功能特征：
+**推荐语**：[WebContainers](https://webcontainers.io/) ，打造未来基于网络的编码体验，从交互式教程到即时生产就绪的开发环境。**使用 WebContainer API 为您的 Web 应用程序提供支持**；它通过将 Node.js 直接集成到您的 Web 应用程序中，创造无与伦比的用户体验。构建全品牌产品，无需连接到外部服务器或引导用户使用第三方应用程序。它具有如下功能特征：
 
 - **运行本机包管理器**：`npm` 运行、`pnpm` 和的本机版本 `yarn`，全部在浏览器中、全部在您的应用程序中，比本地速度快 10 倍。
 - **完整的浏览器支持**：在所有主要浏览器中运行 WebContainer，从基于 Chromium 的浏览器到 Firefox 或 Safari TP。
@@ -120,7 +120,7 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 ![倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hasura.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hasura](https://nicelinks.site/redirect?url=https://hasura.io/) 是一款开源产品，可立即为您提供带有内置数据授权的 [GraphQL](https://nicelinks.site/tags/GraphQL) 或 REST API，从而将 API 开发速度加快 10 倍。它提供数据库上的超快速、即时实时 GraphQL API 具有细粒度的访问控制，还可触发数据库事件的 Webhooks。Hasura 具有如下功能特征：
+**推荐语**：[Hasura](https://hasura.io/) 是一款开源产品，可立即为您提供带有内置数据授权的 [GraphQL](https://nicelinks.site/tags/GraphQL) 或 REST API，从而将 API 开发速度加快 10 倍。它提供数据库上的超快速、即时实时 GraphQL API 具有细粒度的访问控制，还可触发数据库事件的 Webhooks。Hasura 具有如下功能特征：
 
 - **进行强大的查询**：内置过滤、分页、模式搜索、批量插入、更新、删除突变；
 - **可与现有的实时数据库配合使用**：将其指向现有数据库以立即获取即用型 GraphQL API；
@@ -143,7 +143,7 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 - **加速现代化建设**：通过自动化 80% 的 API 开发工作，快速跟踪云迁移、前端和后端现代化以及应用程序重新架构项目。
 - **标准化组织范围内的数据访问**：用可扩展、高性能且安全的数据 API 取代直接数据库访问，以创建统一且联合的“核心数据服务”。
 
-[Hasura](https://nicelinks.site/redirect?url=https://hasura.io/) 允许数据所有者立即在其域数据上构建和发布网络规模的 API，而不会陷入微服务的复杂性中。通过灵活且可组合的 GraphQL API 快速开放访问权限，从而解锁产品团队，而不会影响安全性或质量。该项目 [在 Github 仓库开源](https://github.com/hasura/graphql-engine) （截止 2023 年 09 月 16 日，已获得 30.1K+ Star），如果您对其感兴趣，不妨移步前往从而了解更多。
+[Hasura](https://hasura.io/) 允许数据所有者立即在其域数据上构建和发布网络规模的 API，而不会陷入微服务的复杂性中。通过灵活且可组合的 GraphQL API 快速开放访问权限，从而解锁产品团队，而不会影响安全性或质量。该项目 [在 Github 仓库开源](https://github.com/hasura/graphql-engine) （截止 2023 年 09 月 16 日，已获得 30.1K+ Star），如果您对其感兴趣，不妨移步前往从而了解更多。
 
 ── 出自[倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.site/post/65058172ec1421174455a3ec)
 

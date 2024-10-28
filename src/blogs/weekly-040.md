@@ -12,9 +12,9 @@
 
 ![倾城之链 - IINA - The modern media player for macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iina.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[IINA](https://nicelinks.site/redirect?url=https://iina.io/)，适用于 macOS 的 现代媒体播放器。她天生就是一个现代 macOS 应用程序，从它的框架到用户界面。它采用了 MacOS 的后 Yosemite 设计语言，并紧跟 Force Touch、Touch Bar、黑暗模式（包括经过调整的颜色、图标和纹理，提供时尚和统一的外观）和画中画（支持原生画中画模式，让您既可以享受本地视频，也可以享受在线视频，而不会分心）等新技术的步伐。除此之外，[IINA](https://nicelinks.site/redirect?url=https://iina.io/) 还提供触控栏、系统媒体控制、可定制 UI、在线字幕、音乐模式、鼠标和触控板手势、缩略图预览、插件系统等功能。
+**推荐语**：[IINA](https://iina.io/)，适用于 macOS 的 现代媒体播放器。她天生就是一个现代 macOS 应用程序，从它的框架到用户界面。它采用了 MacOS 的后 Yosemite 设计语言，并紧跟 Force Touch、Touch Bar、黑暗模式（包括经过调整的颜色、图标和纹理，提供时尚和统一的外观）和画中画（支持原生画中画模式，让您既可以享受本地视频，也可以享受在线视频，而不会分心）等新技术的步伐。除此之外，[IINA](https://iina.io/) 还提供触控栏、系统媒体控制、可定制 UI、在线字幕、音乐模式、鼠标和触控板手势、缩略图预览、插件系统等功能。
 
-IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支持，[IINA](https://nicelinks.site/redirect?url=https://iina.io/) 可以播放您拥有的几乎所有媒体文件。在 youtube-dl 和我们的浏览器扩展程序的支持下，您还可以一键在 `IINA` 中播放各种在线流媒体。更令人惊喜的是，[IINA](https://nicelinks.site/redirect?url=https://iina.io/) 在 GPLv3 许可下，是**免费**、**开源**的，且仍在积极开发中。目前。已被来自世界各地的翻译人员，翻译成 20 多种语言。您可以通过[翻译平台](https://nicelinks.site/redirect?url=https://translate.iina.io/)（由 Crowdin 提供支持）自由改进翻译或添加新语言。
+IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支持，[IINA](https://iina.io/) 可以播放您拥有的几乎所有媒体文件。在 youtube-dl 和我们的浏览器扩展程序的支持下，您还可以一键在 `IINA` 中播放各种在线流媒体。更令人惊喜的是，[IINA](https://iina.io/) 在 GPLv3 许可下，是**免费**、**开源**的，且仍在积极开发中。目前。已被来自世界各地的翻译人员，翻译成 20 多种语言。您可以通过[翻译平台](https://translate.iina.io/)（由 Crowdin 提供支持）自由改进翻译或添加新语言。
 
 ── 出自[倾城之链 - IINA - The modern media player for macOS](https://nicelinks.site/post/6196456960f6c5569db65f1e)
 
@@ -28,7 +28,7 @@ IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支
 
 ![倾城之链 - 专业的营销网站，包括会员，谷歌广告，adsense，出口电子商务等 - Affde营销](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.affde.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Affde 营销](https://nicelinks.site/redirect?url=https://www.affde.com/zh-CN/)，专业的营销网站，包括会员，谷歌广告，Adsense，出口电子商务等。所提供的内容，包含营销学、写博客、SEO、互联网销售、科技类、电子商务、电子邮件营销、社交媒体等等。最近通过 Google 检索些内容，很多都指向到 [Affde 营销](https://nicelinks.site/redirect?url=https://www.affde.com/zh-CN/)平台，进而才慢慢关注到它。值得一提的，该平台在短短半年内，流量从无做到月百万流量，其实力可见一斑。对`营销`感兴趣的朋友，可以考虑关注下，闲来研究。
+**推荐语**：[Affde 营销](https://www.affde.com/zh-CN/)，专业的营销网站，包括会员，谷歌广告，Adsense，出口电子商务等。所提供的内容，包含营销学、写博客、SEO、互联网销售、科技类、电子商务、电子邮件营销、社交媒体等等。最近通过 Google 检索些内容，很多都指向到 [Affde 营销](https://www.affde.com/zh-CN/)平台，进而才慢慢关注到它。值得一提的，该平台在短短半年内，流量从无做到月百万流量，其实力可见一斑。对`营销`感兴趣的朋友，可以考虑关注下，闲来研究。
 
 ── 出自[倾城之链 - 专业的营销网站，包括会员，谷歌广告，adsense，出口电子商务等 - Affde 营销](https://nicelinks.site/post/6193ac80038ee31b947bb918)
 
@@ -40,7 +40,7 @@ IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支
 
 ![倾城之链 - SVG to PNG – Convert SVG files to PNG Online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/svgtopng.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SVG to PNG](https://nicelinks.site/redirect?url=https://svgtopng.com/)， 将 SVG 文件在线转换为 PNG 的工具；其具体操作步骤如下：
+**推荐语**：[SVG to PNG](https://svgtopng.com/)， 将 SVG 文件在线转换为 PNG 的工具；其具体操作步骤如下：
 
 - 点击上传文档按钮并且选择多达 20 个您希望转换的 SVG 文档。
 - 等候转换过程结束，并下载每一个文档，使用缩略图或者归类到 ZIP 压缩存档中。
@@ -57,11 +57,11 @@ IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支
 
 ![倾城之链 - Sourcegraph](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sourcegraph.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sourcegraph](https://nicelinks.site/redirect?url=https://sourcegraph.com/) 是一个基于网络的开发团队的代码搜索和导航工具。通过搜索、导航和审查代码，来寻找答案。基于 [Sourcegraph](https://nicelinks.site/redirect?url=https://sourcegraph.com/)，可以使程序员，更好地搜索和浏览 GitHub 上的代码。数以万计的开发者都在使用 [Sourcegraph](https://nicelinks.site/redirect?url=https://sourcegraph.com/)，来浏览和搜索 GitHub、GitLab 上的代码；不论是查看文件，还是 Review PR，都可以将鼠标悬停在代码上，以查看工具提示中的类型签名和文档，单击相应的 tooltip，还可以使用**转到定义**，查找引用或启动全文搜索功能。除了功能强大，Sourcegraph 给人最深的印象是：**极速**，**免费**。
+**推荐语**：[Sourcegraph](https://sourcegraph.com/) 是一个基于网络的开发团队的代码搜索和导航工具。通过搜索、导航和审查代码，来寻找答案。基于 [Sourcegraph](https://sourcegraph.com/)，可以使程序员，更好地搜索和浏览 GitHub 上的代码。数以万计的开发者都在使用 [Sourcegraph](https://sourcegraph.com/)，来浏览和搜索 GitHub、GitLab 上的代码；不论是查看文件，还是 Review PR，都可以将鼠标悬停在代码上，以查看工具提示中的类型签名和文档，单击相应的 tooltip，还可以使用**转到定义**，查找引用或启动全文搜索功能。除了功能强大，Sourcegraph 给人最深的印象是：**极速**，**免费**。
 
-Sourcegraph 提供了 [Chrome 扩展](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack)，安装后，可以向 GitHub、GitLab 和其他主机添加代码智能：悬停、定义、引用；适用于 20 多种语言。主要涉及的功能有：代码主机上的代码智能；带有文档和类型信息的悬停工具提示；转到定义；查找参考。除此之外，[Sourcegraph](https://nicelinks.site/redirect?url=https://sourcegraph.com/) 与第三方服务集成，例如 Codecov 覆盖覆盖、在编辑器中打开的按钮等与 Sourcegraph 扩展的集成。
+Sourcegraph 提供了 [Chrome 扩展](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack)，安装后，可以向 GitHub、GitLab 和其他主机添加代码智能：悬停、定义、引用；适用于 20 多种语言。主要涉及的功能有：代码主机上的代码智能；带有文档和类型信息的悬停工具提示；转到定义；查找参考。除此之外，[Sourcegraph](https://sourcegraph.com/) 与第三方服务集成，例如 Codecov 覆盖覆盖、在编辑器中打开的按钮等与 Sourcegraph 扩展的集成。
 
-使用 [Sourcegraph](https://nicelinks.site/redirect?url=https://sourcegraph.com/) 更快地查找和修复所有代码中的问题。加入新的代码库，进行大规模重构，提高效率，解决安全风险，根本原因事件等。如果您也从事编程相关工作，Sourcegraph 你值得拥有；欲更多了解，可参见 [About Sourcegraph](https://nicelinks.site/redirect?url=https://about.sourcegraph.com/)。
+使用 [Sourcegraph](https://sourcegraph.com/) 更快地查找和修复所有代码中的问题。加入新的代码库，进行大规模重构，提高效率，解决安全风险，根本原因事件等。如果您也从事编程相关工作，Sourcegraph 你值得拥有；欲更多了解，可参见 [About Sourcegraph](https://about.sourcegraph.com/)。
 
 ── 出自[倾城之链 - Sourcegraph](https://nicelinks.site/post/6190d302038ee31b947bb912)
 
@@ -75,9 +75,9 @@ Sourcegraph 提供了 [Chrome 扩展](https://chrome.google.com/webstore/detail/
 
 ![倾城之链 - 致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zhutix.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[致美化](https://nicelinks.site/redirect?url=https://zhutix.com/)，国内知名的桌面美化资源分享平台。创办于 2014 年，是一个集学习交流、作品展示、资源共享的大型视觉美化类网站平台。该站从创办之初，就致力服务于广大电脑用户，提供丰富实用的美化资源，深受广大电脑用户的喜爱，拥有全国各地近 20 万 忠实用户群，且有以点带面、口碑相传的良好优势。网站成立数年来，流量保持稳定上升趋势。
+**推荐语**：[致美化](https://zhutix.com/)，国内知名的桌面美化资源分享平台。创办于 2014 年，是一个集学习交流、作品展示、资源共享的大型视觉美化类网站平台。该站从创办之初，就致力服务于广大电脑用户，提供丰富实用的美化资源，深受广大电脑用户的喜爱，拥有全国各地近 20 万 忠实用户群，且有以点带面、口碑相传的良好优势。网站成立数年来，流量保持稳定上升趋势。
 
-[致美化](https://nicelinks.site/redirect?url=https://zhutix.com/)所提供的内容，也颇为丰富。包括电脑主题、使用教程、美化工具等（Windows 系统）。还提供雨滴皮肤、鼠标指针、横屏壁纸、竖屏壁纸、动态壁纸等。另外，还有专题、秀桌面、问答等模块。
+[致美化](https://zhutix.com/)所提供的内容，也颇为丰富。包括电脑主题、使用教程、美化工具等（Windows 系统）。还提供雨滴皮肤、鼠标指针、横屏壁纸、竖屏壁纸、动态壁纸等。另外，还有专题、秀桌面、问答等模块。
 
 ── 出自[倾城之链 - 致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://nicelinks.site/post/6190be06038ee31b947bb910)
 

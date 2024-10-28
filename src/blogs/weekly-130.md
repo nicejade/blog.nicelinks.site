@@ -10,7 +10,7 @@
 
 ![倾城之链 - Toolify - Find The Best AI Website & Tool For Your Needs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.toolify.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Toolify](https://nicelinks.site/redirect?url=https://www.toolify.ai/) ，发现最佳人工智能的网站；截止 2023 年 08 月 10 日，收录 5400+ 个最佳人工智能公司和工具，以及 40 多个类别的最好的人工智能公司，如人工智能文案写作、人工智能图像生成和人工智能视频编辑。内搜搜索功能，可通过**类别**、**价格**、访问量、邮件、功能、社交媒体等等来检索和过滤这些工具。
+**推荐语**：[Toolify](https://www.toolify.ai/) ，发现最佳人工智能的网站；截止 2023 年 08 月 10 日，收录 5400+ 个最佳人工智能公司和工具，以及 40 多个类别的最好的人工智能公司，如人工智能文案写作、人工智能图像生成和人工智能视频编辑。内搜搜索功能，可通过**类别**、**价格**、访问量、邮件、功能、社交媒体等等来检索和过滤这些工具。
 
 与其他同类型导航相比，Toolify 对于收录的网站，增加了更多信息；除了常规标题、描述（属于程序自动抓取信息，与 [倾城之链](https://nicelinks.site/tags/AI?sort=hottest)推荐语相比，则不够详细）、类型、定价、访问量、收录时间等之外，还提供流量详情、替代工具等。值得一提的是，该网站有接入 ChatGPT 每日自动更新。如果您想查找合适 AI 工具、或发现热门 AI 应用，或可考虑关注该平台。当然，如果您有创造 [AI](https://nicelinks.site/tags/AI) 产品，也可以提交至该平台，从而让更多人知晓。
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - Heptabase |  使您能够直观地理解您的学习、研究和项目](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/heptabase.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Heptabase](https://nicelinks.site/redirect?url=https://heptabase.com/) ，是一款[可视化](https://nicelinks.site/tags/可视化)笔记工具，可帮助您理解您的学习、研究和项目。它可以帮助您进入思维流程，并将您需要的一切整合在一起以进行更好的研究。
+**推荐语**：[Heptabase](https://heptabase.com/) ，是一款[可视化](https://nicelinks.site/tags/可视化)笔记工具，可帮助您理解您的学习、研究和项目。它可以帮助您进入思维流程，并将您需要的一切整合在一起以进行更好的研究。
 
 更详细地说，它是一种基于白板的卡片笔记软件，让用户可以像 [RoamResearch](https://roamresearch.com/) 、 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 等软件一样，以卡片为单位记录笔记或灵感；又可以像思维导图等思维工具那样，轻松在笔记之间建立具体的关联线条和关系描述说明。与此同时，它巧妙地规避了 RoamResearch 等双链笔记的弱点——卡片之间的联系容易过于繁杂以至于整理成本高，又解决了白板和思维导图工具中笔记能力弱的问题。
 
@@ -35,7 +35,7 @@
 - Card Library **卡片库**：是对知识的汇总，对应知识生产的整理/存档阶段。在完成内容创作后，所有的内容都会在知识库中进行汇总、整理。
 - Tags **标签**：是对知识的汇总，对应知识生产的存档阶段。Tags 和 Card Library 互为补充。
 
-这四个模块相对独立解决知识管理中的一个环节，又互为补充，保证整体体验的完整与流畅。您可以在**写作、阅读、知识管理、时间管理**等场景，使用 Heptabase。与 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 、 [Logseq](https://logseq.com/) 不同，Heptabase 不可免费使用（9.99 美元/月），截止目前目前尚未切实体验；如果您对该产品感兴趣，可参考相关文章： [Heptabase 的功能详解](https://nicelinks.site/redirect?url=https://sspai.com/post/76704) 。
+这四个模块相对独立解决知识管理中的一个环节，又互为补充，保证整体体验的完整与流畅。您可以在**写作、阅读、知识管理、时间管理**等场景，使用 Heptabase。与 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 、 [Logseq](https://logseq.com/) 不同，Heptabase 不可免费使用（9.99 美元/月），截止目前目前尚未切实体验；如果您对该产品感兴趣，可参考相关文章： [Heptabase 的功能详解](https://sspai.com/post/76704) 。
 
 ── 出自[倾城之链 - Heptabase | 使您能够直观地理解您的学习、研究和项目](https://nicelinks.site/post/64d4d351effa89333db6bbf2)
 
@@ -47,7 +47,7 @@
 
 ![倾城之链 - Metalsmith | An extremely simple, pluggable static site generator.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/metalsmith.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Metalsmith](https://nicelinks.site/redirect?url=https://metalsmith.io/) ，一个极其简单、可插入的 NodeJS **静态站点生成器**。您可以用它来构建网站或博客；在 Metalsmith 中，所有逻辑都由插件处理。您只需将它们链接在一起即可。它具有如下功能特征：
+**推荐语**：[Metalsmith](https://metalsmith.io/) ，一个极其简单、可插入的 NodeJS **静态站点生成器**。您可以用它来构建网站或博客；在 Metalsmith 中，所有逻辑都由插件处理。您只需将它们链接在一起即可。它具有如下功能特征：
 
 ### 方便的
 
@@ -115,7 +115,7 @@ Metalsmith 构建是静态文件夹。它们可以被压缩、存档、部署到
 
 ![倾城之链 - 网易云音乐·X Studio](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/xstudio.music.163.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[网易云音乐 · X Studio](https://nicelinks.site/redirect?url=https://xstudio.music.163.com/) 是由网易云音乐与小冰公司最新联合推出的 [AI](https://nicelinks.site/tags/AI) 歌手音乐创作软件，面向广大 [音乐](https://nicelinks.site/tags/音乐) 人和音乐爱好者免费使用。该 AI 音乐生成器可帮助音乐人轻松创作高质量的 AI 新世代音乐作品，是全球主流音乐平台与人工智能公司联手打造的首个同类产品。网易云音乐 · XStudio 的主要功能有：
+**推荐语**：[网易云音乐 · X Studio](https://xstudio.music.163.com/) 是由网易云音乐与小冰公司最新联合推出的 [AI](https://nicelinks.site/tags/AI) 歌手音乐创作软件，面向广大 [音乐](https://nicelinks.site/tags/音乐) 人和音乐爱好者免费使用。该 AI 音乐生成器可帮助音乐人轻松创作高质量的 AI 新世代音乐作品，是全球主流音乐平台与人工智能公司联手打造的首个同类产品。网易云音乐 · XStudio 的主要功能有：
 
 1.  支持 Windows 与 macOS 双平台，搭载了丰富的前沿性人工智能小冰黑科技，并经过双方深度合作定制调校。
 2.  技术方面，包括小冰歌唱模型、一致性超级自然语音、流式渲染歌声合成和视觉神经网络渲染等技术。
@@ -123,7 +123,7 @@ Metalsmith 构建是静态文件夹。它们可以被压缩、存档、部署到
 4.  性能强大，支持合并 Al 音轨数量高达 30 轨，这意昧着让每个音乐人都拥有一支“ 30 人”合唱团。
 5.  软件首发 12 名 Al 歌手，并将不断推新。 Al 歌手阵营具备高度拟人及多样化的声线风格，可适配流行、民谣、国风、电子、摇滚等各种曲风。
 
-[网易云音乐 · X Studio](https://nicelinks.site/redirect?url=https://xstudio.music.163.com/) 有许多时刻在线的人工智能歌手，你只需要输入曲谱，歌手就能在几秒内进行演唱。他们声线风格各具特色，不管是流行、电子、民族、或者摇滚作品，都能找到与之契合的歌手。基于最前沿的深度神经网络算法，歌手们拥有媲美真人的动听歌声，无需复杂调节，就可以得到自然的演唱效果。软件还提供音高、力度、咬字发音等多维度参数的调节，让你精确控制歌手表现力。网易云音乐 · X Studio，提供 Mac、Windows 应用程序（ Windows 支持 Win10 及以上，MacOS 支持 10.15 及以上），如果您对其感兴趣，可下载体验，从而了解更多。
+[网易云音乐 · X Studio](https://xstudio.music.163.com/) 有许多时刻在线的人工智能歌手，你只需要输入曲谱，歌手就能在几秒内进行演唱。他们声线风格各具特色，不管是流行、电子、民族、或者摇滚作品，都能找到与之契合的歌手。基于最前沿的深度神经网络算法，歌手们拥有媲美真人的动听歌声，无需复杂调节，就可以得到自然的演唱效果。软件还提供音高、力度、咬字发音等多维度参数的调节，让你精确控制歌手表现力。网易云音乐 · X Studio，提供 Mac、Windows 应用程序（ Windows 支持 Win10 及以上，MacOS 支持 10.15 及以上），如果您对其感兴趣，可下载体验，从而了解更多。
 
 ── 出自[倾城之链 - 网易云音乐·X Studio](https://nicelinks.site/post/64d4cb7beffa89333db6ba14)
 
@@ -135,9 +135,9 @@ Metalsmith 构建是静态文件夹。它们可以被压缩、存档、部署到
 
 ![倾城之链 - Makefile Tutorial By Example](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/makefiletutorial.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Makefile Tutorial](https://nicelinks.site/redirect?url=https://makefiletutorial.com/) ，一个通过示例学习 `Makefile` 的网站（通过 [metalsmith](https://nicelinks.site/post/64d4cdfdeffa89333db6ba2d) 所构建）。作者编写这个指南是因为他觉得永远无法完全理解 Makefiles：它似乎充满了隐藏的规则和深奥的符号，提出简单的问题并不能得到简单的答案。为了解决这个问题，作者花了几个周末坐下来阅读有关 Makefile 的所有内容。并已将最关键的知识浓缩到本指南中。每个主题都有一个简短的描述和一个您可以自己运行的独立示例。
+**推荐语**：[Makefile Tutorial](https://makefiletutorial.com/) ，一个通过示例学习 `Makefile` 的网站（通过 [metalsmith](https://nicelinks.site/post/64d4cdfdeffa89333db6ba2d) 所构建）。作者编写这个指南是因为他觉得永远无法完全理解 Makefiles：它似乎充满了隐藏的规则和深奥的符号，提出简单的问题并不能得到简单的答案。为了解决这个问题，作者花了几个周末坐下来阅读有关 Makefile 的所有内容。并已将最关键的知识浓缩到本指南中。每个主题都有一个简短的描述和一个您可以自己运行的独立示例。
 
-Makefile 是一个用于自动化构建和管理工作流的文件，通常用于 C/C++ 项目的编译和构建过程。Makefile 文件由一系列规则组成，每个规则包含了目标、依赖和命令三个部分。Makefile 文件可以使用  `make`  命令来执行其中的规则，自动化完成编译、链接、打包等操作。 [Makefile Tutorial](https://nicelinks.site/redirect?url=https://makefiletutorial.com/) 详细讲述了为什么存在 Makefile、有哪些替代方案可以制作、Make 的版本和类型、运行示例、Make 的本质、更快速的示例等内容；该教程及网站代码[在 Github 开源](https://github.com/theicfire/makefiletutorial)，如果您对其感兴趣，可前往以了解更多。
+Makefile 是一个用于自动化构建和管理工作流的文件，通常用于 C/C++ 项目的编译和构建过程。Makefile 文件由一系列规则组成，每个规则包含了目标、依赖和命令三个部分。Makefile 文件可以使用  `make`  命令来执行其中的规则，自动化完成编译、链接、打包等操作。 [Makefile Tutorial](https://makefiletutorial.com/) 详细讲述了为什么存在 Makefile、有哪些替代方案可以制作、Make 的版本和类型、运行示例、Make 的本质、更快速的示例等内容；该教程及网站代码[在 Github 开源](https://github.com/theicfire/makefiletutorial)，如果您对其感兴趣，可前往以了解更多。
 
 ── 出自[倾城之链 - Makefile Tutorial By Example](https://nicelinks.site/post/64d389b0effa89333db6b01d)
 
@@ -151,7 +151,7 @@ Makefile 是一个用于自动化构建和管理工作流的文件，通常用�
 
 ![倾城之链 - Slashbase - The open-source modern database IDE](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/slashbase.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Slashbase](https://nicelinks.site/redirect?url=https://slashbase.com/) 是一款适用于您的开发、数据工作流程的开源现代数据库 [IDE](https://nicelinks.site/tags/IDE)。使用 Slashbase 连接到任何数据库，浏览数据和架构，编写、运行和保存查询，创建图表。支持 [MySQL](https://nicelinks.site/post/64294043778bb32004faa324) 、PostgreSQL 和 [MongoDB](https://nicelinks.site/post/62692add77f8270876fcb3dc) 。它具有如下功能特征：
+**推荐语**：[Slashbase](https://slashbase.com/) 是一款适用于您的开发、数据工作流程的开源现代数据库 [IDE](https://nicelinks.site/tags/IDE)。使用 Slashbase 连接到任何数据库，浏览数据和架构，编写、运行和保存查询，创建图表。支持 [MySQL](https://nicelinks.site/post/64294043778bb32004faa324) 、PostgreSQL 和 [MongoDB](https://nicelinks.site/post/62692add77f8270876fcb3dc) 。它具有如下功能特征：
 
 - **🧑‍💻 桌面和服务器应用程序**：将 IDE 用作独立的桌面应用程序或服务器上的自托管应用程序。
 - **🪄 现代界面**：具有现代界面，易于使用。
@@ -171,7 +171,7 @@ Makefile 是一个用于自动化构建和管理工作流的文件，通常用�
 brew install slashbaseide/tap/slashbase
 ```
 
-截止 2023 年 08 月 09 日， [Slashbase](https://nicelinks.site/redirect?url=https://slashbase.com/) 处于测试版 (v0.10)；从其路线图上看，在未来将支持 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 、 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) ；如果您对其感兴趣，可移步 [Github 开源仓库](https://github.com/slashbaseide/slashbase) 或 [Discord 社区](https://discord.gg/U6fXgm3FAX) 以便了解更多。
+截止 2023 年 08 月 09 日， [Slashbase](https://slashbase.com/) 处于测试版 (v0.10)；从其路线图上看，在未来将支持 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 、 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) ；如果您对其感兴趣，可移步 [Github 开源仓库](https://github.com/slashbaseide/slashbase) 或 [Discord 社区](https://discord.gg/U6fXgm3FAX) 以便了解更多。
 
 ── 出自[倾城之链 - Slashbase - The open-source modern database IDE](https://nicelinks.site/post/64d37f53effa89333db6af62)
 
@@ -185,7 +185,7 @@ brew install slashbaseide/tap/slashbase
 
 ![倾城之链 - AI Code Converter | 将代码或自然语言转换为编程语言代码](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aicodeconvert.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI Code Converter](https://nicelinks.site/redirect?url=https://aicodeconvert.com/) ，将代码或自然语言转换为编程语言代码；它通过集成 AI 代码翻译器和 [AI](https://nicelinks.site/tags/AI) 代码生成器，简化了 AI 编码；能有效地将现有代码翻译成不同的编程语言（AI 代码翻译器），并自动生成高质量的代码片段和模板（AI 代码生成器）。这种强大的组合使 AICodeConvert 成为开发人员不可或缺的工具，提供便捷、智能的编码体验。值得一提的是，无需注册账号，全部**在线免费**可用。
+**推荐语**：[AI Code Converter](https://aicodeconvert.com/) ，将代码或自然语言转换为编程语言代码；它通过集成 AI 代码翻译器和 [AI](https://nicelinks.site/tags/AI) 代码生成器，简化了 AI 编码；能有效地将现有代码翻译成不同的编程语言（AI 代码翻译器），并自动生成高质量的代码片段和模板（AI 代码生成器）。这种强大的组合使 AICodeConvert 成为开发人员不可或缺的工具，提供便捷、智能的编码体验。值得一提的是，无需注册账号，全部**在线免费**可用。
 
 ── 出自[倾城之链 - AI Code Converter | 将代码或自然语言转换为编程语言代码](https://nicelinks.site/post/64d37b7beffa89333db6aef5)
 
@@ -197,7 +197,7 @@ brew install slashbaseide/tap/slashbase
 
 ![倾城之链 - Web Check](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/web-check.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Web Check](https://nicelinks.site/redirect?url=https://web-check.xyz/) ，🌐 用于分析任何网站的一体化 OSINT 工具，适用于获得任何网站的全面的、按需的开源情报；深入了解给定网站的内部工作原理：发现潜在的攻击媒介、分析服务器架构、查看安全配置并了解网站正在使用哪些技术。
+**推荐语**：[Web Check](https://web-check.xyz/) ，🌐 用于分析任何网站的一体化 OSINT 工具，适用于获得任何网站的全面的、按需的开源情报；深入了解给定网站的内部工作原理：发现潜在的攻击媒介、分析服务器架构、查看安全配置并了解网站正在使用哪些技术。
 
 目前仪表板将显示：IP 信息、SSL 链、DNS 记录、cookie、标头、域信息、搜索爬网规则、页面地图、服务器位置、重定向分类帐（redirect ledger）、开放端口、跟踪路由、DNS 安全扩展、站点性能、跟踪器、关联主机名、碳足迹（carbon footprint）。后续会添加更多内容。其目的是：**帮助您轻松了解、优化和保护您的网站**。如果您对该网站感兴趣，可移步至 [Github 开源仓库](https://github.com/lissy93/web-check) ，从而了解更多。
 

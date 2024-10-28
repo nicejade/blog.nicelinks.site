@@ -10,7 +10,7 @@
 
 ![倾城之链 - PyTorch | From Research To Production](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pytorch.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PyTorch](https://nicelinks.site/redirect?url=https://pytorch.org/) ，一种开源[机器学习](https://nicelinks.site/tags/机器学习)框架，可加速从研究原型设计到生产部署的过程（类似框架有：[TensorFlow](https://nicelinks.site/post/60631f14bffb5e532f3be248) 等）。PyTorch 是一个 Python 包，提供两个高级功能：1）具有强大 GPU 加速功能的 Python 中的张量和动态神经网络；2）建立在基于磁带的 autograd 系统上的深度神经网络；其主要特性和功能有：
+**推荐语**：[PyTorch](https://pytorch.org/) ，一种开源[机器学习](https://nicelinks.site/tags/机器学习)框架，可加速从研究原型设计到生产部署的过程（类似框架有：[TensorFlow](https://nicelinks.site/post/60631f14bffb5e532f3be248) 等）。PyTorch 是一个 Python 包，提供两个高级功能：1）具有强大 GPU 加速功能的 Python 中的张量和动态神经网络；2）建立在基于磁带的 autograd 系统上的深度神经网络；其主要特性和功能有：
 
 ### 生产就绪
 
@@ -28,7 +28,7 @@ torch.distributed 后端支持研究和生产中的可扩展分布式训练和�
 
 PyTorch 在主要的云平台上得到很好的支持，提供无摩擦的开发和轻松的扩展。
 
-您可以重用您最喜欢的 Python 包，例如 NumPy、SciPy 和 Cython，以在需要时扩展 PyTorch。[PyTorch](https://nicelinks.site/redirect?url=https://pytorch.org/) 在 [Github 开源](https://github.com/pytorch/pytorch)，截止目前（2023 年 01 月 05 日）已有 61K+ Star，如果您对 PyTorch 或机器学习感兴趣，可移步官网或开源仓库以了解更多。
+您可以重用您最喜欢的 Python 包，例如 NumPy、SciPy 和 Cython，以在需要时扩展 PyTorch。[PyTorch](https://pytorch.org/) 在 [Github 开源](https://github.com/pytorch/pytorch)，截止目前（2023 年 01 月 05 日）已有 61K+ Star，如果您对 PyTorch 或机器学习感兴趣，可移步官网或开源仓库以了解更多。
 
 ── 出自[倾城之链 - PyTorch | From Research To Production](https://nicelinks.site/post/63b6b8c21653425ab90b4b34)
 
@@ -40,7 +40,7 @@ PyTorch 在主要的云平台上得到很好的支持，提供无摩擦的开发
 
 ![倾城之链 - Meteor Software: A Platform to Build, Host, Deploy and Scale Full-Stack Javascript Applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meteor.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Meteor](https://nicelinks.site/redirect?url=https://www.meteor.com/) 是一个开源平台，用于在 Javascript 或 TypeScript 中无缝构建和部署 Web、移动和桌面应用程序；它是一个用于构建**现代**Web 应用程序的**超简单环境**。**为什么选择 Meteor.js**？官方给出以下理由：
+**推荐语**：[Meteor](https://www.meteor.com/) 是一个开源平台，用于在 Javascript 或 TypeScript 中无缝构建和部署 Web、移动和桌面应用程序；它是一个用于构建**现代**Web 应用程序的**超简单环境**。**为什么选择 Meteor.js**？官方给出以下理由：
 
 ### 集成您已经使用的技术
 
@@ -66,7 +66,7 @@ Meteor.js 可与 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)�
 
 ![倾城之链 - 让小产品的变现更简单 - ezindie.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ezindie.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ezindie.com](https://nicelinks.site/redirect?url=https://www.ezindie.com/) ，收录独立开发变现人物志、产品周刊、工具集的网站；旨在为感兴趣朋友带来关于独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利。
+**推荐语**：[ezindie.com](https://www.ezindie.com/) ，收录独立开发变现人物志、产品周刊、工具集的网站；旨在为感兴趣朋友带来关于独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利。
 
 副业收入（以及被动收入、睡后收入）这几年越来越热，人们一方面想增加自己的收入，又不知道如何去做，而做小众市场的产品可以满足特定人群需求，也能给自己带来可观的收入，更重要的是持续性收入， 作者希望 ezindie.com 能为做自己产品的人们提供一些帮助，而做小产品都会涉及整个过程的 7 个步骤，每个步骤下都有相应的工具和方法：💡 想法、🛠 构建、🚀 发布、🌱 增长、💰 变现、🤖 自动化。
 
@@ -82,7 +82,7 @@ Easy Indie，让小产品的独立变现更简单，如果对**副业收入**或
 
 ![倾城之链 - Alpine.js | Your new, lightweight, JavaScript framework.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/alpinejs.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Alpine.js](https://nicelinks.site/redirect?url=https://alpinejs.dev/) 一款新的、轻量级的、强大的 JavaScript 框架；它是一个坚固的、最小的工具，用于直接在您的标记中组合行为。你可以把它想象成现代网络的 jQuery，放入脚本标签即可开始。
+**推荐语**：[Alpine.js](https://alpinejs.dev/) 一款新的、轻量级的、强大的 JavaScript 框架；它是一个坚固的、最小的工具，用于直接在您的标记中组合行为。你可以把它想象成现代网络的 jQuery，放入脚本标签即可开始。
 
 Alpine 是**15 个属性**、**6 个属性**和**2 个方法**的集合，通过很低的成本提供了与 Vue 或 React 这类大型框架相近的**响应式**和**声明式**特性。你可以继续操作 DOM，并在需要的时候使用 Alpine.js；您可以将其理解为 JavaScript 版本的  [Tailwind](<[https://tailwindcss.com/](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)>)。Alpine.js 的语法几乎完全借用自  [Vue](https://vuejs.org/) （并用  [Angular](https://angularjs.org/)  的语法做了些扩展）；如果您对这款框架感兴趣。可移步至该项目 [Github 开源仓库](https://github.com/alpinejs/alpine)，以便了解更多。
 
@@ -96,7 +96,7 @@ Alpine 是**15 个属性**、**6 个属性**和**2 个方法**的集合，通过
 
 ![倾城之链 - 诗词汇-收集诗词名句-经典名著-传承国学经典](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.shicihui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[诗词汇](https://nicelinks.site/redirect?url=https://www.shicihui.com/) 是一个中国传统文化数字平台，收集并整理了历史上各朝代的诗词名句、典籍名著、详细的注释、翻译、鉴赏、创作背景；此外还会根据诗文，提供有**猜你喜欢**模块儿。[诗词汇](https://nicelinks.site/redirect?url=https://www.shicihui.com/) 有分为：`推荐`、`名句`、`诗词`、`诗人`、`古籍` 等，除了网站之外，提供有 APP（Android、iOS），助您发现诗词之美。
+**推荐语**：[诗词汇](https://www.shicihui.com/) 是一个中国传统文化数字平台，收集并整理了历史上各朝代的诗词名句、典籍名著、详细的注释、翻译、鉴赏、创作背景；此外还会根据诗文，提供有**猜你喜欢**模块儿。[诗词汇](https://www.shicihui.com/) 有分为：`推荐`、`名句`、`诗词`、`诗人`、`古籍` 等，除了网站之外，提供有 APP（Android、iOS），助您发现诗词之美。
 
 ── 出自[倾城之链 - 诗词汇-收集诗词名句-经典名著-传承国学经典](https://nicelinks.site/post/63b192821653425ab90b245e)
 

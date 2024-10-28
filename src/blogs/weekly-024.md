@@ -10,7 +10,7 @@
 
 ![倾城之链 - Builder.io Drag and drop page builder and CMS - Builder.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.builder.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Builder.io](https://nicelinks.site/redirect?url=https://www.builder.io/)，一个可视化的开发平台，可以用来快速创建落地页、管理内容、提高网站性能、定制体验、消除依赖、建立店面等等，且无需编码。[Builder.io](https://nicelinks.site/redirect?url=https://www.builder.io/) 提供强大灵活的拖放可视化编辑器；可与其他网站或应用程序集成，以无缝管理和发布内容；支持 A/B 测试体验、目标内容和细分受众以推动增长；除此之外，还具有以下特征（来自官方描述）：
+**推荐语**：[Builder.io](https://www.builder.io/)，一个可视化的开发平台，可以用来快速创建落地页、管理内容、提高网站性能、定制体验、消除依赖、建立店面等等，且无需编码。[Builder.io](https://www.builder.io/) 提供强大灵活的拖放可视化编辑器；可与其他网站或应用程序集成，以无缝管理和发布内容；支持 A/B 测试体验、目标内容和细分受众以推动增长；除此之外，还具有以下特征（来自官方描述）：
 
 ### 可视化构建，增长更快
 
@@ -33,7 +33,7 @@
 - 管理跨无数站点、应用程序、商店和区域设置的内容；
 - 解放开发人员来编写代码，而不是内容；
 
-[Builder.io](https://nicelinks.site/redirect?url=https://www.builder.io/) 无需代码，即可直观地构建和优化数字体验。其目标是：使任何人都能够构建数字体验，并将更多想法变为现实。他们的方法是：将可视化连接到现有的软件系统，以满足开发人员和非开发人员的需求。如果您想了解更多，可以参见 [关于 Builder.io](https://nicelinks.site/redirect?url=https://www.builder.io/m/about-us)。
+[Builder.io](https://www.builder.io/) 无需代码，即可直观地构建和优化数字体验。其目标是：使任何人都能够构建数字体验，并将更多想法变为现实。他们的方法是：将可视化连接到现有的软件系统，以满足开发人员和非开发人员的需求。如果您想了解更多，可以参见 [关于 Builder.io](https://www.builder.io/m/about-us)。
 
 ── 出自[倾城之链 - Builder.io Drag and drop page builder and CMS - Builder.io](https://nicelinks.site/post/61029aa88c195005d758ab87)
 
@@ -47,7 +47,7 @@
 
 ![倾城之链 - 美剧迷 - 美剧大全,最新好看的天天美剧下载,在线观看,美剧天堂](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meijumi.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[美剧迷](https://nicelinks.site/redirect?url=https://www.meijumi.net/)，美剧在线观看网站（当然也有英剧、韩剧）；如果您是美剧爱好者，可以关注；它不仅提供最新的美剧，而且会给出非常详细的介绍，并且提供现在观看功能（带有多语言字幕）。除此之外，类型划分清晰，且提供搜索功能；额外还提供`随便看看`、`热剧排行`、`热门剧评`等模块，相信您可以快速从该网站，寻找到您喜欢的剧集。
+**推荐语**：[美剧迷](https://www.meijumi.net/)，美剧在线观看网站（当然也有英剧、韩剧）；如果您是美剧爱好者，可以关注；它不仅提供最新的美剧，而且会给出非常详细的介绍，并且提供现在观看功能（带有多语言字幕）。除此之外，类型划分清晰，且提供搜索功能；额外还提供`随便看看`、`热剧排行`、`热门剧评`等模块，相信您可以快速从该网站，寻找到您喜欢的剧集。
 
 ── 出自[倾城之链 - 美剧迷 - 美剧大全,最新好看的天天美剧下载,在线观看,美剧天堂](https://nicelinks.site/post/610296ca8c195005d758ab85)
 
@@ -59,7 +59,7 @@
 
 ![倾城之链 - btw - 顺便提一句](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.btw.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[btw](https://nicelinks.site/redirect?url=https://www.btw.so/) 是一个开源的平台，收录了 200 多种[开源工具](https://nicelinks.site/redirect?url=https://www.btw.so/zh/open-source-alternatives)，可替代企业日常运营所需。其核心价值在于，通过实时聊天（扩展您的客户支持并为您的客户服务）、自动捕获（花更少的时间设置跟踪以了解您的客户）、分析（衡量您的绩效并转化您的客户）等，协助将您的客户转变为超级粉丝，从而加速以产品为主导的增长。如果您感兴趣，可以深入了解下。
+**推荐语**：[btw](https://www.btw.so/) 是一个开源的平台，收录了 200 多种[开源工具](https://www.btw.so/zh/open-source-alternatives)，可替代企业日常运营所需。其核心价值在于，通过实时聊天（扩展您的客户支持并为您的客户服务）、自动捕获（花更少的时间设置跟踪以了解您的客户）、分析（衡量您的绩效并转化您的客户）等，协助将您的客户转变为超级粉丝，从而加速以产品为主导的增长。如果您感兴趣，可以深入了解下。
 
 ── 出自[倾城之链 - btw - 顺便提一句](https://nicelinks.site/post/61024db98c195005d758ab83)
 
@@ -73,9 +73,9 @@
 
 ![倾城之链 - 国内原创在线漫画平台_好看的漫画大全 - 漫客栈](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mkzhan.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[漫客栈](https://nicelinks.site/redirect?url=https://www.mkzhan.com/)，国内原创在线漫画平台；隶属小明太极（湖北）国漫文化有限公司，是该公司旗下互联网漫画平台之一；以「每日更新，全免快清」为特色，利用大数据分析用户的喜好，精准定制用户喜爱的漫画并自动推送，并根据用户反馈实时优化漫画内容，充分满足用户的阅读需要，为用户提供最优质的漫画作品。
+**推荐语**：[漫客栈](https://www.mkzhan.com/)，国内原创在线漫画平台；隶属小明太极（湖北）国漫文化有限公司，是该公司旗下互联网漫画平台之一；以「每日更新，全免快清」为特色，利用大数据分析用户的喜好，精准定制用户喜爱的漫画并自动推送，并根据用户反馈实时优化漫画内容，充分满足用户的阅读需要，为用户提供最优质的漫画作品。
 
-[漫客栈](https://nicelinks.site/redirect?url=https://www.mkzhan.com/)涉及题材非常广泛，诸如：霸总、修真、恋爱、校园、冒险、搞笑、生活、热血、架空、后宫、励志、玄幻、悬疑、恐怖、灵异、动作、科幻、战争、古风、穿越、竞技、真人、同人等等；值得一提的是，[漫客栈](https://nicelinks.site/redirect?url=https://www.mkzhan.com/)是一个平台，无论您是`读者`，还是`作者`，都能在该平台有所得。
+[漫客栈](https://www.mkzhan.com/)涉及题材非常广泛，诸如：霸总、修真、恋爱、校园、冒险、搞笑、生活、热血、架空、后宫、励志、玄幻、悬疑、恐怖、灵异、动作、科幻、战争、古风、穿越、竞技、真人、同人等等；值得一提的是，[漫客栈](https://www.mkzhan.com/)是一个平台，无论您是`读者`，还是`作者`，都能在该平台有所得。
 
 ── 出自[倾城之链 - 国内原创在线漫画平台\_好看的漫画大全 - 漫客栈](https://nicelinks.site/post/610142bd21a633062a515e9b)
 
@@ -87,9 +87,9 @@
 
 ![倾城之链 - AutoDraw - Fast drawing for everyone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.autodraw.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AutoDraw ](https://nicelinks.site/redirect?url=https://www.autodraw.com/) 是 Google 旗下的 A.I. Experiment 推出了一款新工具，在机器学习技术的加持下，[AutoDraw ](https://nicelinks.site/redirect?url=https://www.autodraw.com/) 能识别出用户用简单线条画出的图形，并直接替换为系统内置的「准确」图形。Google 表示目前的快速绘图解决方案并不多，而通过 AutoDraw，希望用户能在短时间内完成海报、宣传单等作品的部分图形元素创作。
+**推荐语**：[AutoDraw ](https://www.autodraw.com/) 是 Google 旗下的 A.I. Experiment 推出了一款新工具，在机器学习技术的加持下，[AutoDraw ](https://www.autodraw.com/) 能识别出用户用简单线条画出的图形，并直接替换为系统内置的「准确」图形。Google 表示目前的快速绘图解决方案并不多，而通过 AutoDraw，希望用户能在短时间内完成海报、宣传单等作品的部分图形元素创作。
 
-[AutoDraw ](https://nicelinks.site/redirect?url=https://www.autodraw.com/) 的网页界面非常简洁，画板在正中位置，左侧是工具栏，在绘制过程中还能为图形填色（24 色），而上方则是图形候选区，比如你简单几笔画出了一辆自行车，上方会显示**候选图案**以供选择。绘制完成后，可以直接以 png 格式下载保存。更赞的是，[AutoDraw ](https://nicelinks.site/redirect?url=https://www.autodraw.com/) 除了能**免费**使用外，它还几乎支持所有设备，毕竟这是一款 Web 端工具。
+[AutoDraw ](https://www.autodraw.com/) 的网页界面非常简洁，画板在正中位置，左侧是工具栏，在绘制过程中还能为图形填色（24 色），而上方则是图形候选区，比如你简单几笔画出了一辆自行车，上方会显示**候选图案**以供选择。绘制完成后，可以直接以 png 格式下载保存。更赞的是，[AutoDraw ](https://www.autodraw.com/) 除了能**免费**使用外，它还几乎支持所有设备，毕竟这是一款 Web 端工具。
 
 ── 出自[倾城之链 - AutoDraw - Fast drawing for everyone](https://nicelinks.site/post/61011b5021a633062a515e99)
 
@@ -103,7 +103,7 @@
 
 ![倾城之链 - 界面新闻-只服务于独立思考的人群-Jiemian.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.jiemian.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[界面新闻](https://nicelinks.site/redirect?url=https://www.jiemian.com/)是中国具有影响力的原创财经新媒体，由上海报业集团出品，2014 年 9 月创立；其服务对象为：**独立思考的人群**。界面新闻以商业、财经新闻为核心，布局四大内容版块，超 40 个内容频道：
+**推荐语**：[界面新闻](https://www.jiemian.com/)是中国具有影响力的原创财经新媒体，由上海报业集团出品，2014 年 9 月创立；其服务对象为：**独立思考的人群**。界面新闻以商业、财经新闻为核心，布局四大内容版块，超 40 个内容频道：
 
 - **商业版块**：在科技、地产、汽车、消费、工业、创业等领域持续关注商业前沿信息，报道国内外知名公司及品牌，树立对知名公司的影响力。
 - **财经版块**：从金融、投资、证券、宏观、股市等领域入手，深入资本市场，从宏观、二级市场、公司等各个层面，准确、快速、高质量报道中国资本市场动态。

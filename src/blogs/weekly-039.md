@@ -12,14 +12,14 @@
 
 ![倾城之链 - TVCBOOK - 你感兴趣的创意都在T站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tvcbook.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TVCBOOK](https://nicelinks.site/redirect?url=https://www.tvcbook.com/)，专业创作人激发创意灵感的创新平台。该网站主要有**灵感**，**创意圈**、**金狮奖**、**创作者必备**等几个模块儿。
+**推荐语**：[TVCBOOK](https://www.tvcbook.com/)，专业创作人激发创意灵感的创新平台。该网站主要有**灵感**，**创意圈**、**金狮奖**、**创作者必备**等几个模块儿。
 
 - **灵感**：全球海量创意作品资源,广告,宣传片,微电影,导演作品,来自国内,港台,日本,韩国,欧美,泰国超过 500 万视频快速获取创意灵感."；
 - **创意圈**：创意圈名人堂,全球海量专业创作人,制作人,资源,导演,编剧,制片,监制,制作,摄影,后期,剪辑,快速联系,成为创作伙伴；
 - **创作者必备**：VCBOOK 为专业创作人专属广告、短视频创作的多款创作工具，为创意、制作环节进一步提升工作效率，便捷完成工作而生。
 - **金狮奖**：50 万+ 全球创意视频不断更新，汇聚 50,000 多位独立创作人和制作团队为企业／创作者和广告机构提供创意制作服务。品牌主、广告公司、创作人首选的广告视频搜索社交网络。
 
-[TVCBOOK](https://nicelinks.site/redirect?url=https://www.tvcbook.com/)，专注视觉创意搜索，拥有来自全球的超过 500 万视觉创意，覆盖全行业和创意类型视觉搜索体验。专注营销视频领域的重要奖项，致力于评选年度全球优秀创意案例及创作人才。挖掘商业价值，探索影视未来。
+[TVCBOOK](https://www.tvcbook.com/)，专注视觉创意搜索，拥有来自全球的超过 500 万视觉创意，覆盖全行业和创意类型视觉搜索体验。专注营销视频领域的重要奖项，致力于评选年度全球优秀创意案例及创作人才。挖掘商业价值，探索影视未来。
 
 ── 出自[倾城之链 - TVCBOOK - 你感兴趣的创意都在 T 站](https://nicelinks.site/post/618d24b2038ee31b947bb90b)
 
@@ -31,7 +31,7 @@
 
 ![倾城之链 - SlmieのBlog - SlmieのBlog](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/slmie.top.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Slmie の Blog](https://nicelinks.site/redirect?url=https://slmie.top/)，一个基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、jsDelivr、PHP、NGINX 等工具所搭建的网站，旨在分享各种 ROM 资源，发布各种资源。
+**推荐语**：[Slmie の Blog](https://slmie.top/)，一个基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、jsDelivr、PHP、NGINX 等工具所搭建的网站，旨在分享各种 ROM 资源，发布各种资源。
 
 ── 出自[倾城之链 - Slmie の Blog - Slmie の Blog ](https://nicelinks.site/post/618c7bd4fbeef24fbfb6a13c)
 
@@ -45,13 +45,13 @@
 
 ![倾城之链 - WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/webassembly.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WebAssembly](https://nicelinks.site/redirect?url=https://webassembly.org/) 是一种新的编码方式，可以在现代的网络浏览器中运行 － 它是一种低级的类汇编语言，具有紧凑的二进制格式，可以接近原生的性能运行，并为诸如 C / C ++ 等语言提供一个编译目标，以便它们可以在 Web 上运行。它也被设计为可以与 JavaScript 共存，允许两者一起工作。
+**推荐语**：[WebAssembly](https://webassembly.org/) 是一种新的编码方式，可以在现代的网络浏览器中运行 － 它是一种低级的类汇编语言，具有紧凑的二进制格式，可以接近原生的性能运行，并为诸如 C / C ++ 等语言提供一个编译目标，以便它们可以在 Web 上运行。它也被设计为可以与 JavaScript 共存，允许两者一起工作。
 
 **简而言之**，对于网络平台而言，WebAssembly 具有巨大的意义 ── 它提供了一条途径，以使得以各种语言编写的代码都可以以接近原生的速度在 Web 中运行。在这种情况下，以前无法以此方式运行的客户端软件都将可以运行在 Web 中。
 
 WebAssembly 被设计为可以和 JavaScript 一起协同工作 ── 通过使用 WebAssembly 的 JavaScript API，你可以把 WebAssembly 模块加载到一个 JavaScript 应用中并且在两者之间共享功能。这允许你在同一个应用中利用 WebAssembly 的性能和威力以及 JavaScript 的表达力和灵活性，即使你可能并不知道如何编写 WebAssembly 代码。
 
-[WebAssembly](https://nicelinks.site/redirect?url=https://webassembly.org/) 或 Wasm 是一种新的、可移植的、大小和加载时间高效的格式，适合编译到 Web 上。WebAssembly 目前正在由 W3C 社区组设计为开放标准，该社区组包括来自所有主要浏览器的代表。目前来看，[WebAssembly](https://nicelinks.site/redirect?url=https://webassembly.org/) 具有以下功能特征：
+[WebAssembly](https://webassembly.org/) 或 Wasm 是一种新的、可移植的、大小和加载时间高效的格式，适合编译到 Web 上。WebAssembly 目前正在由 W3C 社区组设计为开放标准，该社区组包括来自所有主要浏览器的代表。目前来看，[WebAssembly](https://webassembly.org/) 具有以下功能特征：
 
 ### 高效快速
 
@@ -59,7 +59,7 @@ Wasm 堆栈机被设计为以大小和加载时间高效的二进制格式进行
 
 ### 安全的
 
-[WebAssembly](https://nicelinks.site/redirect?url=https://webassembly.org/) 描述了一个内存安全的沙盒执行环境，甚至可以在现有的 JavaScript 虚拟机中实现。当嵌入到 Web 中时，WebAssembly 将强制执行浏览器的同源和权限安全策略。
+[WebAssembly](https://webassembly.org/) 描述了一个内存安全的沙盒执行环境，甚至可以在现有的 JavaScript 虚拟机中实现。当嵌入到 Web 中时，WebAssembly 将强制执行浏览器的同源和权限安全策略。
 
 ### 开放可调试
 
@@ -67,7 +67,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 ### 开放网络平台的一部分
 
-[WebAssembly](https://nicelinks.site/redirect?url=https://webassembly.org/) 旨在保持 Web 的无版本、功能测试和向后兼容的特性。WebAssembly 模块将能够调用和调用 JavaScript 上下文，并通过可从 JavaScript 访问的相同 Web API 访问浏览器功能。WebAssembly 还支持非 Web 嵌入。
+[WebAssembly](https://webassembly.org/) 旨在保持 Web 的无版本、功能测试和向后兼容的特性。WebAssembly 模块将能够调用和调用 JavaScript 上下文，并通过可从 JavaScript 访问的相同 Web API 访问浏览器功能。WebAssembly 还支持非 Web 嵌入。
 
 ── 出自[倾城之链 - WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae)
 
@@ -81,11 +81,11 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 ![倾城之链 - Panda — The homepage for your favorite websites](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/usepanda.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Panda](https://nicelinks.site/redirect?url=https://usepanda.com/)，您最喜欢的网站的主页（The homepage for your favorite websites）；[Panda](https://nicelinks.site/redirect?url=https://usepanda.com/) 是简单的免费新闻阅读器。发现设计和技术领域的最佳工具、资源和灵感。[Panda](https://nicelinks.site/redirect?url=https://usepanda.com/) 目前有提供 Web 网站，以及 Chrome 扩展，可供用户使用。
+**推荐语**：[Panda](https://usepanda.com/)，您最喜欢的网站的主页（The homepage for your favorite websites）；[Panda](https://usepanda.com/) 是简单的免费新闻阅读器。发现设计和技术领域的最佳工具、资源和灵感。[Panda](https://usepanda.com/) 目前有提供 Web 网站，以及 Chrome 扩展，可供用户使用。
 
 网络用户评论到：“Panda 是一款面向互联网高级用户的精美应用程序，将 Product Hunt、Dribbble、Sidebar 和其他社区的精华汇集在一个地方”、“对于任何希望跟上设计生态系统最新发展的有抱负的设计师来说，Panda 是最好的资源之一”。
 
-无论您身在何处，都可以随时了解最新信息并获得灵感；从其官网了解到，该团队正准备在所有流行的设备上提供 [Panda](https://nicelinks.site/redirect?url=https://usepanda.com/)，因为您永远不知道灵感何时会出现。
+无论您身在何处，都可以随时了解最新信息并获得灵感；从其官网了解到，该团队正准备在所有流行的设备上提供 [Panda](https://usepanda.com/)，因为您永远不知道灵感何时会出现。
 
 ── 出自[倾城之链 - Panda — The homepage for your favorite websites](https://nicelinks.site/post/618b5664a18dec25673723ac)
 
@@ -99,7 +99,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 ![倾城之链 - 测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G测速, 物联网监测](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.speedtest.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)是一个在线服务网站，2007 年正式上线，经过 10 多年的发展，每年为 1 亿+人次，提供 5 亿+次网络测速及其它测速服务。[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)拥有完善的产品体系，全面覆盖大、中、小型终端设备市场，为个人用户和企（事）业用户提供多种专业的网络测速及其他服务。[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)有以下产品特点：
+**推荐语**：[测速网](https://www.speedtest.cn/)是一个在线服务网站，2007 年正式上线，经过 10 多年的发展，每年为 1 亿+人次，提供 5 亿+次网络测速及其它测速服务。[测速网](https://www.speedtest.cn/)拥有完善的产品体系，全面覆盖大、中、小型终端设备市场，为个人用户和企（事）业用户提供多种专业的网络测速及其他服务。[测速网](https://www.speedtest.cn/)有以下产品特点：
 
 ### 自主研发
 
@@ -113,7 +113,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 基于测速网的海量数据系统，我们打造了“全国网速报告”和“网速管家排行榜”两个产品体系。“全国网速报告”产品，分为季度报告和年度报告。通过真实的大数据统计和专业分析，面向全行业发声，方便用户了解中国网络的真实使用状态。“网速管家排行榜”产品，每月定期发布，围绕用户所关心的手机、路由器、浏览器和搜索引擎的真实使用情况，进行解读分析，内容丰富、覆盖面广。
 
-[测速网](https://nicelinks.site/redirect?url=https://www.speedtest.cn/)个人用户产品线包括：Web 网站、Wap 网站、手机 App（安卓、iOS）、PC 客户端软件（Windows、Mac）、智能电视软件、微信小程序以及百度小程序。其企业用户产品线包括：测速插件、测速 SDK（安卓、iOS、Windows、Mac、Linux）、测速 WebSDK、APP 异常诊断 SDK、游戏测速 SDK、综合测速 SDK、网络诊断 SDK、内网测速系统、物联网设备网速监测系统、行业大数据、报告定制和数据分析。
+[测速网](https://www.speedtest.cn/)个人用户产品线包括：Web 网站、Wap 网站、手机 App（安卓、iOS）、PC 客户端软件（Windows、Mac）、智能电视软件、微信小程序以及百度小程序。其企业用户产品线包括：测速插件、测速 SDK（安卓、iOS、Windows、Mac、Linux）、测速 WebSDK、APP 异常诊断 SDK、游戏测速 SDK、综合测速 SDK、网络诊断 SDK、内网测速系统、物联网设备网速监测系统、行业大数据、报告定制和数据分析。
 
 ── 出自[倾城之链 - 测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G 测速, 物联网监测](https://nicelinks.site/post/618a0115a18dec25673723aa)
 
@@ -125,7 +125,7 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 ![倾城之链 - GitHub Copilot · Your AI pair programmer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/copilot.github.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/)，你的人工智能配对程序员（一个基于 AI 的编程辅助工具），可帮助您以更少的工作更快地编写代码。使用 [GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/)，直接在编辑器中获取有关整行或整个函数的建议。目前已经集成在了 VsCode 中，后续可能集成到更多平台和工具，目前还是测试阶段（2021.11）。[GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/) 是利用网络中现有的公开数据，尤其是开源在 Github 上的代码， 然后基于机器学习算法训练出来的；因此 Copilot 理论上支持所有编程语言。
+**推荐语**：[GitHub Copilot](https://copilot.github.com/)，你的人工智能配对程序员（一个基于 AI 的编程辅助工具），可帮助您以更少的工作更快地编写代码。使用 [GitHub Copilot](https://copilot.github.com/)，直接在编辑器中获取有关整行或整个函数的建议。目前已经集成在了 VsCode 中，后续可能集成到更多平台和工具，目前还是测试阶段（2021.11）。[GitHub Copilot](https://copilot.github.com/) 是利用网络中现有的公开数据，尤其是开源在 Github 上的代码， 然后基于机器学习算法训练出来的；因此 Copilot 理论上支持所有编程语言。
 
 ### GitHub Copilot 如何工作？
 
@@ -137,7 +137,7 @@ OpenAI Codex 接受过公开源代码和自然语言的培训，因此它理解�
 
 当您将代码分成小函数，为函数参数使用有意义的名称，并随时编写好的文档字符串和注释时，它的效果最佳。当它帮助您浏览不熟悉的库或框架时，它似乎也做得最好。
 
-总体来看，[GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/) 提供的功能有：代码补全、将注释转换为代码、自动填充重复代码等，有童鞋反馈 [GitHub Copilot](https://nicelinks.site/redirect?url=https://copilot.github.com/) 要比 [TabNine](https://nicelinks.site/post/5f96bb97ac6b5718fc48abfe) 还要强大些，感兴趣的程序员朋友，可以安装尝试下。
+总体来看，[GitHub Copilot](https://copilot.github.com/) 提供的功能有：代码补全、将注释转换为代码、自动填充重复代码等，有童鞋反馈 [GitHub Copilot](https://copilot.github.com/) 要比 [TabNine](https://nicelinks.site/post/5f96bb97ac6b5718fc48abfe) 还要强大些，感兴趣的程序员朋友，可以安装尝试下。
 
 ── 出自[倾城之链 - GitHub Copilot · Your AI pair programmer](https://nicelinks.site/post/618905e6a18dec25673723a8)
 

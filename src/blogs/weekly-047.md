@@ -10,7 +10,7 @@
 
 ![倾城之链 - ERIK JOHANSSON](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.erikjo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ERIK JOHANSSON](https://nicelinks.site/redirect?url=https://www.erikjo.com/)，一个承载超现实主义摄影的网站；Erik Johansson（生于 1985 年），是来自瑞典的摄影师和视觉艺术家。他的作品可谓是结合照片创造的超现实世界。Erik 主要从事个人项目，以及在世界各地举办展览。与传统摄影不同，他不捕捉瞬间，而是借助相机和想象力捕捉想法。目标是在单个帧中捕捉故事，并使其看起来尽可能逼真，即使场景本身包含不可能的元素。最后，一切都归结为解决问题，找到一种方法来捕捉不可能的事情。
+**推荐语**：[ERIK JOHANSSON](https://www.erikjo.com/)，一个承载超现实主义摄影的网站；Erik Johansson（生于 1985 年），是来自瑞典的摄影师和视觉艺术家。他的作品可谓是结合照片创造的超现实世界。Erik 主要从事个人项目，以及在世界各地举办展览。与传统摄影不同，他不捕捉瞬间，而是借助相机和想象力捕捉想法。目标是在单个帧中捕捉故事，并使其看起来尽可能逼真，即使场景本身包含不可能的元素。最后，一切都归结为解决问题，找到一种方法来捕捉不可能的事情。
 
 对 Erik 来说，在他的作品中保持高度的现实主义总是很重要的。他想让观众觉得他们是场景的一部分。尽管他的工作包括大量后期制作和组合照片，但他总是试图在现场用相机捕捉尽可能多的东西。这通常意味着构建道具并使用创造性的方式来规划拍摄。
 
@@ -18,7 +18,7 @@
 
 Erik 总是自己做所有的后期制作，以完全控制最终结果。创意、摄影和后期制作都是相互关联的。最终图像并不比用于捕捉它的照片更好。就像照片不会变得比想法更强大。
 
-Erik 的个人作品中没有计算机生成的、插图的或库存照片，只有他自己的照片的复杂组合。这是一个漫长的过程，他每年只创作大约 10 张新图像。如果您想了解更多关于图像如何变为现实的过程，请查看这些[幕后视频](https://nicelinks.site/redirect?url=https://www.erikjo.com/behindthescenes)。
+Erik 的个人作品中没有计算机生成的、插图的或库存照片，只有他自己的照片的复杂组合。这是一个漫长的过程，他每年只创作大约 10 张新图像。如果您想了解更多关于图像如何变为现实的过程，请查看这些[幕后视频](https://www.erikjo.com/behindthescenes)。
 
 Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你能想象到的任何东西。了解过程中的每个步骤，可以完全控制从草图到最终图像的整个工作过程，以确保高质量的逼真结果。以这种方式创建图像需要大量的工作和准备才能获得逼真的结果。Erik 可用于全球委托项目。
 
@@ -34,7 +34,7 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 
 ![倾城之链 - 网络广告人社区 -  分享国内外创意广告和网络营销及市场营销案例](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iwebad.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[网络广告人社区](https://nicelinks.site/redirect?url=https://iwebad.com/)（(webad），创建于 2007 年 12 月，是一家致力于原创翻译国外营销案例的垂直类传媒网站。创立的前几年，主要是分享国外创意 Banner；随着国内外互联网环境的改变，各种营销方式层出不穷，网站也由此扩展出整合营销、品牌营销、移动营销、病毒营销、社会化营销、活动网站、邮件广告等广告类型，设有 IT、金融、汽车、房地产、电信、日化用品、消费电子、食品饮料八大行业广告案例。网站现拥将近 10000 部国外案例，及 4000 多支创意 TVC，所传播视频在优酷、土豆、56 等视频网站累计播放量超过 5000 万次。
+**推荐语**：[网络广告人社区](https://iwebad.com/)（(webad），创建于 2007 年 12 月，是一家致力于原创翻译国外营销案例的垂直类传媒网站。创立的前几年，主要是分享国外创意 Banner；随着国内外互联网环境的改变，各种营销方式层出不穷，网站也由此扩展出整合营销、品牌营销、移动营销、病毒营销、社会化营销、活动网站、邮件广告等广告类型，设有 IT、金融、汽车、房地产、电信、日化用品、消费电子、食品饮料八大行业广告案例。网站现拥将近 10000 部国外案例，及 4000 多支创意 TVC，所传播视频在优酷、土豆、56 等视频网站累计播放量超过 5000 万次。
 
 ── 出自[倾城之链 - 网络广告人社区 - 分享国内外创意广告和网络营销及市场营销案例](https://nicelinks.site/post/61d6d8c373f9dd1533f83406)
 
@@ -46,7 +46,7 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 
 ![倾城之链 - Create stunning product mockups easily and online - Smartmockups](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/smartmockups.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Smartmockups](https://nicelinks.site/redirect?url=https://smartmockups.com/)，轻松在线创建令人惊叹的产品模拟图。即使人在旅途，也可直接在浏览器中制作专业模板；忘了花上数小时学习如何使用 Photoshop 的痛苦吧。通过 [Smartmockups](https://nicelinks.site/redirect?url=https://smartmockups.com/)，能直接在浏览器中，在一个界面中跨多个设备创建令人惊艳的高分辨率模板。它具有以下功能特点：
+**推荐语**：[Smartmockups](https://smartmockups.com/)，轻松在线创建令人惊叹的产品模拟图。即使人在旅途，也可直接在浏览器中制作专业模板；忘了花上数小时学习如何使用 Photoshop 的痛苦吧。通过 [Smartmockups](https://smartmockups.com/)，能直接在浏览器中，在一个界面中跨多个设备创建令人惊艳的高分辨率模板。它具有以下功能特点：
 
 ### 性能和可用性
 
@@ -79,7 +79,7 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 - 从最终导出的模板的 4 种不同的分辨率中进行选择；
 - 尽享最优质量，没有数量限制；
 
-即使不是设计能手，也可享用产品模板的强大功能，[Smartmockups](https://nicelinks.site/redirect?url=https://smartmockups.com/)，你值得拥有。
+即使不是设计能手，也可享用产品模板的强大功能，[Smartmockups](https://smartmockups.com/)，你值得拥有。
 
 ── 出自[倾城之链 - Create stunning product mockups easily and online - Smartmockups](https://nicelinks.site/post/61d67c5273f9dd1533f83404)
 
@@ -91,7 +91,7 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 
 ![倾城之链 - Pika – Create beautiful screenshots quickly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pika.rishimohan.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pika](https://nicelinks.site/redirect?url=https://blog.xiaohack.org/)，免费和开源网络应用程序，可快速美化您的屏幕截图（将无聊的屏幕截图变成漂亮的可共享图像）。您可以添加背景渐变、调整阴影、添加圆角、调整间距等等。其使用也非常简单，选择图片即可开始操作（支持粘贴截图）；您可以将图像保存为 PNG 文件或将其复制到剪贴板。
+**推荐语**：[Pika](https://blog.xiaohack.org/)，免费和开源网络应用程序，可快速美化您的屏幕截图（将无聊的屏幕截图变成漂亮的可共享图像）。您可以添加背景渐变、调整阴影、添加圆角、调整间距等等。其使用也非常简单，选择图片即可开始操作（支持粘贴截图）；您可以将图像保存为 PNG 文件或将其复制到剪贴板。
 
 ── 出自[倾城之链 - Pika – Create beautiful screenshots quickly](https://nicelinks.site/post/61d597f373f9dd1533f83402)
 

@@ -10,13 +10,13 @@
 
 ![倾城之链 - Rust Course｜Rust 语言圣经](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/course.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rust 语言圣经](https://nicelinks.site/redirect?url=https://course.rs/) ，Rust 编程语言 [教程](https://nicelinks.site/tags/教程) ；**涵盖从入门到精通**所需的 [Rust](https://nicelinks.site/tags/Rust) 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。作者在 Github 罗列了该教程如下特性：
+**推荐语**：[Rust 语言圣经](https://course.rs/) ，Rust 编程语言 [教程](https://nicelinks.site/tags/教程) ；**涵盖从入门到精通**所需的 [Rust](https://nicelinks.site/tags/Rust) 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。作者在 Github 罗列了该教程如下特性：
 
 - **深入度**，在基础教学的同时，提供了深入剖析。浅尝辄止并不能让我们站上紫禁之巅；
 - **专题内容**，将 Rust 高级内容通过专题的形式一一呈现，内容内聚性极强，例如性能优化、手把手实现链表、Cargo 和 Tokio 使用指南、async 异步编程、标准库解析、WASM 等等；
 - **内容索引**，作为一本工具书，优秀的索引能力非常重要，遗忘不可怕，找不到才可怕；
 - **规避陷阱和对抗编译器**，只有真的上手写过一长段时间 Rust 项目，才知道该如何规避常见的陷阱以及解决一些难搞的编译器错误，而本书将帮助你大大缩短这个过程，提前规避这些问题；
-- [Cookbook](https://nicelinks.site/redirect?url=https://rusty.course.rs/) ，涵盖多个应用场景的实战代码片段，程序员上网查询文件操作、正则解析、数据库操作是常事，没有人能记住所有代码，而 Cookbook 可解君忧，Ctrl + C/V 走天下；
+- [Cookbook](https://rusty.course.rs/) ，涵盖多个应用场景的实战代码片段，程序员上网查询文件操作、正则解析、数据库操作是常事，没有人能记住所有代码，而 Cookbook 可解君忧，Ctrl + C/V 走天下；
 - [配套练习题](https://github.com/sunface/rust-by-practice) ，像学习一门大学课程一样学习 Rust 是一种什么感觉？Rust 语言圣经 + Rust 语言实战\_双剑合璧，给你最极致的学习体验；
 
 作者在 `Github` 写道：“总之在写作过程中我们始终铭记初心：为中国用户打造一门**全面的、深入的、持续更新的** Rust 教程。 新手用来入门，老手用来提高，高手用来提升生产力”。
@@ -33,7 +33,7 @@
 
 ![倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tailwindui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tailwind UI](https://nicelinks.site/redirect?url=https://tailwindui.com/) ，由 [Tailwind](https://nicelinks.site/tags/Tailwind) 官方出品的 [CSS](https://nicelinks.site/tags/CSS) 组件和模板，设计精美、制作精良；能帮您更快地构建您的下一个想法。超过 500 个经过专业设计、完全响应、精心制作的组件示例，您可以将其放入 Tailwind 项目中，并根据您的喜好进行定制（使用需要付费）。值得一提的是，该项目 [从副业副产品到价值数百万美元的企业](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/) ，只用了不到 5 个月时间。
+**推荐语**：[Tailwind UI](https://tailwindui.com/) ，由 [Tailwind](https://nicelinks.site/tags/Tailwind) 官方出品的 [CSS](https://nicelinks.site/tags/CSS) 组件和模板，设计精美、制作精良；能帮您更快地构建您的下一个想法。超过 500 个经过专业设计、完全响应、精心制作的组件示例，您可以将其放入 Tailwind 项目中，并根据您的喜好进行定制（使用需要付费）。值得一提的是，该项目 [从副业副产品到价值数百万美元的企业](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/) ，只用了不到 5 个月时间。
 
 ── 出自[倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.site/post/655602b49ee2a35ce709cb76)
 
@@ -45,9 +45,9 @@
 
 ![倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.startups.fyi.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) ，一个很棒的独立开发、创业公司的展示网站；配有应用标题、描述、截图、推出时间、更新时间、地点、创始人信息、盈利、跳转链接等信息；其特点是较为全，各种类型的项目都有，而且盈利很直观，非常适合大家去看看，了解成功的创始人如何建立盈利的在线业务，寻找一些独立开发的灵感。
+**推荐语**：[Startups.fyi](https://www.startups.fyi/) ，一个很棒的独立开发、创业公司的展示网站；配有应用标题、描述、截图、推出时间、更新时间、地点、创始人信息、盈利、跳转链接等信息；其特点是较为全，各种类型的项目都有，而且盈利很直观，非常适合大家去看看，了解成功的创始人如何建立盈利的在线业务，寻找一些独立开发的灵感。
 
-[Startups.fyi](https://nicelinks.site/redirect?url=https://www.startups.fyi/) 表示：将定期采访盈利初创公司和副项目背后的创始人和制造者 💸，您可以通过订阅他们的免费每周通讯 🤗，从而及时了解独立开发行当最新产品。另外值得一提的是，您可以在该网站分享您的项目，或者 [在 Startups.fyi 做广告](https://www.startups.fyi/sponsor) ，从而使得您的产品触达到更多人。
+[Startups.fyi](https://www.startups.fyi/) 表示：将定期采访盈利初创公司和副项目背后的创始人和制造者 💸，您可以通过订阅他们的免费每周通讯 🤗，从而及时了解独立开发行当最新产品。另外值得一提的是，您可以在该网站分享您的项目，或者 [在 Startups.fyi 做广告](https://www.startups.fyi/sponsor) ，从而使得您的产品触达到更多人。
 
 ── 出自[倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://nicelinks.site/post/6554bd909ee2a35ce709c4bc)
 
@@ -61,7 +61,7 @@
 
 ![倾城之链 - Ark UI  | Fully customizable and accessible UI components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ark-ui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ark UI](https://nicelinks.site/redirect?url=https://ark-ui.com/) 是一个无头、开源的用户界面库，包含 30 多个组件，专为构建可重用、可扩展的设计系统而设计。它支持多种 JavaScript 框架（ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a) ），为每个支持的框架提供专用包。可组合的 API 设计带来愉悦的体验：
+**推荐语**：[Ark UI](https://ark-ui.com/) 是一个无头、开源的用户界面库，包含 30 多个组件，专为构建可重用、可扩展的设计系统而设计。它支持多种 JavaScript 框架（ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a) ），为每个支持的框架提供专用包。可组合的 API 设计带来愉悦的体验：
 
 ### 无样式
 
@@ -79,7 +79,7 @@ Ark UI 遵循可访问性标准和指南，确保所有用户都可以访问和�
 
 使用状态机，Ark 可以帮助您创建更可靠的用户界面，减少错误和意外行为的空间。
 
-总之， [Ark UI](https://nicelinks.site/redirect?url=https://ark-ui.com/) 是一个无头库，用于构建可重用、可扩展的设计系统，适用于各种 JS 框架。利用状态机，Ark UI 大大减少了错误，同时确保每个组件的行为可预测，充满信心地发展。如果您对组件库感兴趣，可移步至 [Github 开源仓库](https://github.com/chakra-ui/ark) ，从而了解更多。
+总之， [Ark UI](https://ark-ui.com/) 是一个无头库，用于构建可重用、可扩展的设计系统，适用于各种 JS 框架。利用状态机，Ark UI 大大减少了错误，同时确保每个组件的行为可预测，充满信心地发展。如果您对组件库感兴趣，可移步至 [Github 开源仓库](https://github.com/chakra-ui/ark) ，从而了解更多。
 
 ── 出自[倾城之链 - Ark UI | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
 
@@ -91,7 +91,7 @@ Ark UI 遵循可访问性标准和指南，确保所有用户都可以访问和�
 
 ![倾城之链 - MediaTek | 联发科科技官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mediatek.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[联发科技](https://nicelinks.site/redirect?url=https://www.mediatek.cn/)股份有限公司（MediaTek Inc.）是全球第四大无晶圆厂半导体公司，在移动终端、智能家居应用、无线连接技术及物联网产品等市场位居领先地位，一年约有 20 亿台内建 MediaTek 芯片的终端产品在全球各地上市。
+**推荐语**：[联发科技](https://www.mediatek.cn/)股份有限公司（MediaTek Inc.）是全球第四大无晶圆厂半导体公司，在移动终端、智能家居应用、无线连接技术及物联网产品等市场位居领先地位，一年约有 20 亿台内建 MediaTek 芯片的终端产品在全球各地上市。
 
 MediaTek 力求技术创新并赋能市场，为 5G、智能手机、智能电视、Chromebook 笔记本电脑、平板电脑、智能音箱、无线耳机、可穿戴设备与车用电子等产品提供高性能低功耗的移动计算技术、先进的通信技术、AI 解决方案以及多媒体功能。您可以通过如下介绍，更全面了解联发科技。
 
@@ -125,14 +125,14 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 ![倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getsharex.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ShareX](https://nicelinks.site/redirect?url=https://getsharex.com/) 是一款 [免费](https://nicelinks.site/tags/免费) 的开放源代码程序，它能让你捕捉或录制屏幕的任何区域，并通过按一个键就能共享。它还可以将图像、文本或其他类型的文件上传到许多受支持的目的地。**为什么选择 ShareX**？官方给出以下理由：
+**推荐语**：[ShareX](https://getsharex.com/) 是一款 [免费](https://nicelinks.site/tags/免费) 的开放源代码程序，它能让你捕捉或录制屏幕的任何区域，并通过按一个键就能共享。它还可以将图像、文本或其他类型的文件上传到许多受支持的目的地。**为什么选择 ShareX**？官方给出以下理由：
 
 - **完全免费**：超过 15 年的积极开发、轻松录制 GIF；
 - **开源**：深受大公司信赖、支持 80 多个目的地；
 - **无广告**：专为高级用户设计、高级自定义上传器支持；
 - **轻灵**：快速截屏分享、可定制的工作流程系统；
 
-[ShareX](https://nicelinks.site/redirect?url=https://getsharex.com/) 这款软件，从截图，到处理截图，再到上传截图到网络，它都能帮你做到。除此之外，这款软件还有许多杀手锏功能，譬如：多区域截图、无缝处理截图、自动添加水印以及阴影、自动图床上传、自定义快捷键，并可指派不同的功能等等，如果您对这款软件感兴趣，可移步至 [ShareX 在 Github 开源仓库](https://github.com/ShareX/ShareX) 从而了解更多。
+[ShareX](https://getsharex.com/) 这款软件，从截图，到处理截图，再到上传截图到网络，它都能帮你做到。除此之外，这款软件还有许多杀手锏功能，譬如：多区域截图、无缝处理截图、自动添加水印以及阴影、自动图床上传、自定义快捷键，并可指派不同的功能等等，如果您对这款软件感兴趣，可移步至 [ShareX 在 Github 开源仓库](https://github.com/ShareX/ShareX) 从而了解更多。
 
 ── 出自[倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://nicelinks.site/post/655215bd9ee2a35ce709b551)
 
@@ -146,7 +146,7 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 ![倾城之链 - 阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aliyundrive.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[阿里云盘](https://nicelinks.site/redirect?url=https://www.aliyundrive.com/) ：是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。官方列出如下功能特征：
+**推荐语**：[阿里云盘](https://www.aliyundrive.com/) ：是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。官方列出如下功能特征：
 
 ### 多设备备份
 
@@ -160,7 +160,7 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 免费享有大容量存储；不被打搅的干净空间；阿里云技术，安全存储。
 
-值得一提的是，[阿里云盘](https://nicelinks.site/redirect?url=https://www.aliyundrive.com/) 支持随时随地，在各种设备（手机、电脑、Pad、网页）上免费使用，要享有大容量、增值权益，需要开通会员。有观察到，目前网站分享内容，越来越多使用夸克网盘、阿里云盘；如果您对其感兴趣，不妨移步官网从而了解更多。
+值得一提的是，[阿里云盘](https://www.aliyundrive.com/) 支持随时随地，在各种设备（手机、电脑、Pad、网页）上免费使用，要享有大容量、增值权益，需要开通会员。有观察到，目前网站分享内容，越来越多使用夸克网盘、阿里云盘；如果您对其感兴趣，不妨移步官网从而了解更多。
 
 ── 出自[倾城之链 - 阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://nicelinks.site/post/6550af787387ed6b24df280c)
 
@@ -174,7 +174,7 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 ![倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vidhub.tv.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) ：私人本地网盘影视播放器，支持 macOS💻 & iOS 📱 & tvOS 📺；Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的 [电影](https://nicelinks.site/tags/电影) 、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。它具有如下功能特征：
+**推荐语**：[Vidhub](https://vidhub.tv/) ：私人本地网盘影视播放器，支持 macOS💻 & iOS 📱 & tvOS 📺；Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的 [电影](https://nicelinks.site/tags/电影) 、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。它具有如下功能特征：
 
 - 优雅管理本地或者网盘视频资源；
 - 自动抓取影视信息、自动分类；
@@ -186,7 +186,7 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 - 方便快速全局搜索；
 - iCloud 云端同步；
 
-[Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) 在功能设计上参考： [infuse](https://nicelinks.site/redirect?url=https://firecore.com/) ，已开发一年，目前仍在积极更新、迭代中。提供 Web、Android、iOS 等平台应用，AppStore 搜索 VidHub 直接能下载；目前支持免费 🆓 使用，有拿热依扎、王阳最新电视剧《无所畏惧》测试，体验良好。对于偶尔追剧的朋友来讲， [Vidhub](https://nicelinks.site/redirect?url=https://vidhub.tv/) 将成为较好选择之一（国内爱奇艺、优酷、腾讯等视频娱乐平台账号不能互通 😶）。
+[Vidhub](https://vidhub.tv/) 在功能设计上参考： [infuse](https://firecore.com/) ，已开发一年，目前仍在积极更新、迭代中。提供 Web、Android、iOS 等平台应用，AppStore 搜索 VidHub 直接能下载；目前支持免费 🆓 使用，有拿热依扎、王阳最新电视剧《无所畏惧》测试，体验良好。对于偶尔追剧的朋友来讲， [Vidhub](https://vidhub.tv/) 将成为较好选择之一（国内爱奇艺、优酷、腾讯等视频娱乐平台账号不能互通 😶）。
 
 ── 出自[倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.site/post/654f45ba7387ed6b24df21a7)
 

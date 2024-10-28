@@ -10,7 +10,7 @@
 
 ![倾城之链 - Nx: Smart, Fast and Extensible Build System](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nx.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NX](https://nicelinks.site/redirect?url=https://nx.dev/) 是一个面向大型应用程序的快速、智能和可扩展的 [构建](https://nicelinks.site/tags/构建) 系统。它最初由 Narwhal Technologies 开发，后来由 Nrwl 公司维护，是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的构建工具，用于管理和编译大型的前端项目。它具有以下功能特征：
+**推荐语**：[NX](https://nx.dev/) 是一个面向大型应用程序的快速、智能和可扩展的 [构建](https://nicelinks.site/tags/构建) 系统。它最初由 Narwhal Technologies 开发，后来由 Nrwl 公司维护，是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的构建工具，用于管理和编译大型的前端项目。它具有以下功能特征：
 
 ### 永远不要两次重建相同的代码
 
@@ -46,7 +46,7 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 ![倾城之链 - Hello! | bjfogg - Behavior Scientist at Stanford University](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bjfogg.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hello! | bjfogg](https://nicelinks.site/redirect?url=https://www.bjfogg.com/) ，是 B.J. Fogg 博士的个人网站。B.J. Fogg 是一名行为科学家，在创新和教学方面拥有丰富的经验。在斯坦福大学，他领导了一个研究实验室 20 多年。每年我还在斯坦福大学的特殊课程中教授我的模型和方法。
+**推荐语**：[Hello! | bjfogg](https://www.bjfogg.com/) ，是 B.J. Fogg 博士的个人网站。B.J. Fogg 是一名行为科学家，在创新和教学方面拥有丰富的经验。在斯坦福大学，他领导了一个研究实验室 20 多年。每年我还在斯坦福大学的特殊课程中教授我的模型和方法。
 
 在行业方面，B.J. Fogg 培训创新者使用他的作品，这样他们就可以创造出能够永久影响行为的解决方案。重点领域包括健康、可持续性、财务状况、学习、生产力等。他最为人说熟知的成就是所提出的**福格行为模型**（Fogg Behavior Model）。
 
@@ -89,7 +89,7 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 ![倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/upptime.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Upptime](https://nicelinks.site/redirect?url=https://upptime.js.org/) 是一个开源的 [监控](https://nicelinks.site/tags/监控) 工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知。Upptime 使用 [GitHub](https://nicelinks.site/tags/GitHub) Actions 和 GitHub Pages 进行运行和托管，这使得使用 Upptime 非常容易，而且可以免费使用 GitHub 提供的服务器资源。Upptime 的主要特点包括：
+**推荐语**：[Upptime](https://upptime.js.org/) 是一个开源的 [监控](https://nicelinks.site/tags/监控) 工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知。Upptime 使用 [GitHub](https://nicelinks.site/tags/GitHub) Actions 和 GitHub Pages 进行运行和托管，这使得使用 Upptime 非常容易，而且可以免费使用 GitHub 提供的服务器资源。Upptime 的主要特点包括：
 
 1.  **可定制化**：Upptime 可以通过配置文件进行配置，以满足各种监控需求。用户可以轻松添加或删除监控任务，并配置警报和通知选项。
 2.  **实时监控**：Upptime 可以持续监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知，使用户能够快速识别并解决故障。
@@ -113,7 +113,7 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 ![倾城之链 - Baklib官网-在线知识库及在线帮助中心制作软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.baklib.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Baklib](https://nicelinks.site/redirect?url=https://www.baklib.com/) ，一款在线 [知识库](https://nicelinks.site/tags/知识库) 及在线帮助中心制作软件；支持在线制作产品手册、帮助中心、FAQ、Guide、知识库、产品介绍、开发文档、在线手册，并发布到网站上。其官网介绍它具有以下应用场景：
+**推荐语**：[Baklib](https://www.baklib.com/) ，一款在线 [知识库](https://nicelinks.site/tags/知识库) 及在线帮助中心制作软件；支持在线制作产品手册、帮助中心、FAQ、Guide、知识库、产品介绍、开发文档、在线手册，并发布到网站上。其官网介绍它具有以下应用场景：
 
 ### 知识库/项目文档/产品手册
 
@@ -151,7 +151,7 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 
 ![倾城之链 - Rspack | A fast Rust-based web bundler](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.rspack.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rspack](https://nicelinks.site/redirect?url=https://www.rspack.dev/) ，一个快速的基于 [Rust](https://nicelinks.site/tags/Rust) 的 Web 构建工具（Web Bundler），旨在成为构建高性能前端工具链（这是一个新项目，目前仍在积极开发中）；它具有以下功能特征：
+**推荐语**：[Rspack](https://www.rspack.dev/) ，一个快速的基于 [Rust](https://nicelinks.site/tags/Rust) 的 Web 构建工具（Web Bundler），旨在成为构建高性能前端工具链（这是一个新项目，目前仍在积极开发中）；它具有以下功能特征：
 
 - 🚀 **快速启动**：基于 Rust，构建速度极快，为您带来极致的开发体验。
 - ⚡ **Lightning HMR**：HMR 内置增量编译机制，速度极快，完全有能力开发大型项目。
@@ -160,7 +160,7 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 - 🛠️ **生产优化** : 默认内置了各种优化策略，比如 tree shaking, minification 等。
 - 🎯 **框架无关**：（Framework Agnostic）不绑定任何前端框架，确保足够的灵活性。
 
-与 [Rspack](https://nicelinks.site/redirect?url=https://www.rspack.dev/) 功能相同的产品有：Webpack、[Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)、及同样基于 Rust 开发的 [Turbopack](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)，它们有各自优势，您可以根据自身需要，选择合适的构建工具。值得一提的是，在 Web 开发领域，将 TypeScript 和 Rust 与并行化架构相结合，为开发者带来极致的开发体验，已成为明显趋势之一。
+与 [Rspack](https://www.rspack.dev/) 功能相同的产品有：Webpack、[Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)、及同样基于 Rust 开发的 [Turbopack](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)，它们有各自优势，您可以根据自身需要，选择合适的构建工具。值得一提的是，在 Web 开发领域，将 TypeScript 和 Rust 与并行化架构相结合，为开发者带来极致的开发体验，已成为明显趋势之一。
 
 ── 出自[倾城之链 - Rspack | A fast Rust-based web bundler](https://nicelinks.site/post/6411b081401101258a14cb06)
 
@@ -172,7 +172,7 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 
 ![倾城之链 - Bit - Component driven development](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bit.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bit](https://nicelinks.site/redirect?url=https://bit.dev/) 是一个用于组件管理和版本控制的平台，旨在帮助开发者更轻松地创建、维护和分享独立的代码组件。使用 Bit，您可以在组件中构建任何东西。它旨在**结束单体应用程序**并解锁一种更具可扩展性、协作性和一致性的分布式开发形式。Bit 可以与多种语言和框架一起使用，例如 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Angular、Node.js 等。
+**推荐语**：[Bit](https://bit.dev/) 是一个用于组件管理和版本控制的平台，旨在帮助开发者更轻松地创建、维护和分享独立的代码组件。使用 Bit，您可以在组件中构建任何东西。它旨在**结束单体应用程序**并解锁一种更具可扩展性、协作性和一致性的分布式开发形式。Bit 可以与多种语言和框架一起使用，例如 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Angular、Node.js 等。
 
 在 Bit 中，开发者可以将自己的代码组件（或从其他地方导入的组件）发布到一个名为 BitScope 的公共组件仓库中。同时，Bit 还提供了许多功能，例如自动依赖管理、版本控制、测试、文档生成等，使开发者能够更轻松地维护和协作这些组件。详细介绍，它具备以下功能：
 
@@ -199,7 +199,7 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 
 ![倾城之链 - Leon - Your Open-Source Personal Assistant](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getleon.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Leon](https://nicelinks.site/redirect?url=https://getleon.ai/) 是一个开源的 [AI](https://nicelinks.site/tags/AI) 助手平台，它允许你创建自定义语音助手来满足你的个人或商业需求。Leon 是一个由 Python 编写的本地应用程序，可以在桌面和树莓派等设备上运行，而不需要连接到互联网。
+**推荐语**：[Leon](https://getleon.ai/) 是一个开源的 [AI](https://nicelinks.site/tags/AI) 助手平台，它允许你创建自定义语音助手来满足你的个人或商业需求。Leon 是一个由 Python 编写的本地应用程序，可以在桌面和树莓派等设备上运行，而不需要连接到互联网。
 
 使用 Leon，你可以通过语音控制你的设备和应用程序。你可以定义自己的命令，使 Leon 可以理解你的意图并执行相应的操作，比如打开某个应用、播放音乐、发送邮件等等。你还可以将 Leon 集成到自己的应用程序中，从而为用户提供自然语言交互的功能。
 

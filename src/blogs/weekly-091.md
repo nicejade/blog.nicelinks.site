@@ -10,7 +10,7 @@
 
 ![倾城之链 - blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.blender.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Blender](https://nicelinks.site/redirect?url=https://www.blender.org/) 是一款**免费开源**三维图形图像软件，提供从建模、动画、材质、渲染、到音频处理、**视频剪辑**，甚至游戏创建等一系列动画短片制作解决方案（最早可追溯至 1988 年）。高级用户使用 Blender 的 Python 脚本 API 来定制应用程序并编写专门的工具；通常这些都包含在 Blender 的未来版本中。Blender 非常适合受益于其统一管道和响应式开发过程的个人和小型工作室。
+**推荐语**：[Blender](https://www.blender.org/) 是一款**免费开源**三维图形图像软件，提供从建模、动画、材质、渲染、到音频处理、**视频剪辑**，甚至游戏创建等一系列动画短片制作解决方案（最早可追溯至 1988 年）。高级用户使用 Blender 的 Python 脚本 API 来定制应用程序并编写专门的工具；通常这些都包含在 Blender 的未来版本中。Blender 非常适合受益于其统一管道和响应式开发过程的个人和小型工作室。
 
 Blender 以 GNU GPL 许可，由其贡献者拥有。 出于这个原因，Blender 永远是免费的开源软件。其**使命**是：将世界上最好的 3D CG 技术作为免费/开源软件，交到艺术家手中。Blender 想象每个人都应该可以自由创作 3D CG 内容，拥有自由的技术和创意制作手段，自由进入市场。
 
@@ -18,7 +18,7 @@ Blender 跨平台支持良好，它的界面使用 OpenGL 来提供一致的体�
 
 Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏抠像、摄像机反向跟踪、遮罩处理、后期结点合成等高级影视解决方案。Blender 内置有 Cycles 渲染器与实时渲染引擎 EEVEE。同时还支持多种第三方渲染器。
 
-[Blender](https://nicelinks.site/redirect?url=https://www.blender.org/) 为全世界的媒体工作者和艺术家而设计，可以被用来进行三维可视化，同时也可以创作广播和**电影级品质的视频**，另外内置的实时三维游戏引擎，让制作独立回放的三维互动内容成为可能。
+[Blender](https://www.blender.org/) 为全世界的媒体工作者和艺术家而设计，可以被用来进行三维可视化，同时也可以创作广播和**电影级品质的视频**，另外内置的实时三维游戏引擎，让制作独立回放的三维互动内容成为可能。
 
 **谁在使用 Blender**？ Blender 有一套非常丰富的工具集，因此几乎可以适用于所有类型的媒体产品。全世界的工作室与开发者们都把它用在各种各样的项目中，包括业余作品、商业化的产品、电影、游戏以及其他互动应用比如多功能信息栏，游戏以及科学研究。
 
@@ -34,13 +34,13 @@ Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏
 
 ![倾城之链 - PicSo-Text To AI Art Maker](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picso.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PicSo](https://nicelinks.site/redirect?url=https://picso.ai/) 是一个人工智能（[AI](https://nicelinks.site/tags/AI)）驱动的数字艺术生成器，可以从输入文本中创建具有艺术风格的图像。输入任何文本提示，以您选择的艺术风格创建图片，并在几秒钟内将您的想法/文本变成 AI 生成的绘画。网站和 APP 可用。
+**推荐语**：[PicSo](https://picso.ai/) 是一个人工智能（[AI](https://nicelinks.site/tags/AI)）驱动的数字艺术生成器，可以从输入文本中创建具有艺术风格的图像。输入任何文本提示，以您选择的艺术风格创建图片，并在几秒钟内将您的想法/文本变成 AI 生成的绘画。网站和 APP 可用。
 
-[PicSo Discover](https://nicelinks.site/redirect?url=https://picso.ai/discover) 展示了非常多生成的图片，看起来很棒；但真实体验，发现 PicSo 还不够智能；比如以：“Newton and Tesla standing in outer space（牛顿和特斯拉站在外太空）”这句文本去体验，它所生成的图片，虽然是勉强展现出文本的意思，但效果简直“不忍直视”；必须提供足够全的描述，才能得到想要的结果，比如像这样：
+[PicSo Discover](https://picso.ai/discover) 展示了非常多生成的图片，看起来很棒；但真实体验，发现 PicSo 还不够智能；比如以：“Newton and Tesla standing in outer space（牛顿和特斯拉站在外太空）”这句文本去体验，它所生成的图片，虽然是勉强展现出文本的意思，但效果简直“不忍直视”；必须提供足够全的描述，才能得到想要的结果，比如像这样：
 
 > beautiful green landscape with a blue sky in the style of Genshin Impact, ghibli studio, 4k, ultra detail, attractive look, animation, hand drawn anime, concept art, wide angle, cinematic High Fidelity.
 
-官方介绍道：“[PicSo](https://nicelinks.site/redirect?url=https://picso.ai/) 以毕加索命名，表达了通过这款产品，每个人都可以成为像毕加索一样伟大的艺术家，进行富有创造性和意义的艺术创作。有了这个工具，任何人都可以在几秒钟内创造出独一无二的数字艺术作品，无论他们的预算或项目如何。装饰您的房子，创建 NFT 或动漫角色，或设计您自己的杰作！只需文字提示，PicSo 即可在数秒内生成 AI 数字艺术”。截止 2022 年，类似产品已经有很多，相信未来会日趋向好；感兴趣的朋友不妨体验下（注册即可，有体验次数限制，超过需要付费购买）。
+官方介绍道：“[PicSo](https://picso.ai/) 以毕加索命名，表达了通过这款产品，每个人都可以成为像毕加索一样伟大的艺术家，进行富有创造性和意义的艺术创作。有了这个工具，任何人都可以在几秒钟内创造出独一无二的数字艺术作品，无论他们的预算或项目如何。装饰您的房子，创建 NFT 或动漫角色，或设计您自己的杰作！只需文字提示，PicSo 即可在数秒内生成 AI 数字艺术”。截止 2022 年，类似产品已经有很多，相信未来会日趋向好；感兴趣的朋友不妨体验下（注册即可，有体验次数限制，超过需要付费购买）。
 
 ── 出自[倾城之链 - PicSo-Text To AI Art Maker](https://nicelinks.site/post/636bc30db8db8e6db6203869)
 
@@ -52,7 +52,7 @@ Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏
 
 ![倾城之链 - SceneryAI - AI-powered image editing](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sceneryai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SceneryAI](https://nicelinks.site/redirect?url=https://sceneryai.com/) ，人工智能驱动（[AI](https://nicelinks.site/tags/AI)）的图像编辑，可以快速生成或更新图像；使用 SceneryAI，您可以在 30 秒内更改照片的**主题**或**风景**。只需上传您的照片并删除您要更新的部分。SceneryAI 是内容营销人员、创作者和数字艺术家在几秒钟内更新他们的照片和创作的完美解决方案。
+**推荐语**：[SceneryAI](https://sceneryai.com/) ，人工智能驱动（[AI](https://nicelinks.site/tags/AI)）的图像编辑，可以快速生成或更新图像；使用 SceneryAI，您可以在 30 秒内更改照片的**主题**或**风景**。只需上传您的照片并删除您要更新的部分。SceneryAI 是内容营销人员、创作者和数字艺术家在几秒钟内更新他们的照片和创作的完美解决方案。
 
 SceneryAI 使用非常便捷，只需要以下三步：
 
@@ -74,7 +74,7 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 ![倾城之链 - 大盘云图 -大盘走势，尽在掌握!【官网】](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dapanyuntu.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[大盘云图](https://nicelinks.site/redirect?url=https://dapanyuntu.com) ，是一款智能股票盯盘工具网站（基于 React 等框架搭建），颠覆了以往看盘软件一成不变的红涨绿跌，它将所有股票按所属行业进行了板块划分，并以方块形式展示，用红色和绿色的深浅代表涨跌幅度，用颜色的深浅标注个股的异动情况，实现直观的展现，能够使投资者更清晰的感知市场的脉搏，更加贴近市场动向。
+**推荐语**：[大盘云图](https://dapanyuntu.com) ，是一款智能股票盯盘工具网站（基于 React 等框架搭建），颠覆了以往看盘软件一成不变的红涨绿跌，它将所有股票按所属行业进行了板块划分，并以方块形式展示，用红色和绿色的深浅代表涨跌幅度，用颜色的深浅标注个股的异动情况，实现直观的展现，能够使投资者更清晰的感知市场的脉搏，更加贴近市场动向。
 
 它主要是针对中国 A 股市场，为投资者打造的 [可视化](https://nicelinks.site/tags/可) 实时行情功能，是目前市场上先进、直观的图形化看盘工具。适合股票爱好者和专业投资人使用盯盘使用，还可从不同的周期、资金流向、涨跌幅及量比等维度实时查看大盘最新数据。温馨提醒：**股市有风险，投资须谨慎**。
 
@@ -90,7 +90,7 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 ![倾城之链 - QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.qireader.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[QiReader](https://nicelinks.site/redirect?url=https://www.qireader.com/)，优雅的全平台在线 RSS 阅读器，基于 PWA 解决方案搭建；它具有以下功能：
+**推荐语**：[QiReader](https://www.qireader.com/)，优雅的全平台在线 RSS 阅读器，基于 PWA 解决方案搭建；它具有以下功能：
 
 - **全平台**：可安装到主屏幕的网页 App，支持所有桌面和移动设备；
 - **稍后阅读**：一键收藏文章；

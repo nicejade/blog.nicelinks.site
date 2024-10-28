@@ -10,11 +10,11 @@
 
 ![倾城之链 - SEO Training and Link Building Strategies – Backlinko](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/backlinko.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/)，SEO 培训和链接建设策略相关网站，想要您的网站有更高的排名和更多的流量？[Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/) 是进行下一级 SEO 培训和链接构建策略的地方。
+**推荐语**：[Backlinko](https://backlinko.com/)，SEO 培训和链接建设策略相关网站，想要您的网站有更高的排名和更多的流量？[Backlinko](https://backlinko.com/) 是进行下一级 SEO 培训和链接构建策略的地方。
 
-[Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/) 由国际知名的 SEO 专家 Brian Dean 创立，自推出 Backlinko 以来，Brian 通过发布营销人员可以用来发展其在线业务的疯狂实用策略，迅速为自己赢得了名声。Backlinko 现在是最受欢迎的在线营销博客之一。
+[Backlinko](https://backlinko.com/) 由国际知名的 SEO 专家 Brian Dean 创立，自推出 Backlinko 以来，Brian 通过发布营销人员可以用来发展其在线业务的疯狂实用策略，迅速为自己赢得了名声。Backlinko 现在是最受欢迎的在线营销博客之一。
 
-[Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/) 如何帮助您获得更高的排名和更多的流量？在其关于页面有如此写道：
+[Backlinko](https://backlinko.com/) 如何帮助您获得更高的排名和更多的流量？在其关于页面有如此写道：
 
 > 大多数所谓的“搜索引擎优化专家”说：“要在搜索引擎优化方面取得成功，你需要做的就是创造出色的内容。”。  
 > 如果真那么容易就好了…  
@@ -22,7 +22,7 @@
 > 这就是 Backlinko 的用武之地。  
 > 这个博客是我向您展示获得更高排名所需的确切提示、策略和技术的地方。没有绒毛或“高级”建议。只是可行的疯狂建议。
 
-前阵子想要进一步提升 SEO，通过 Google 检索知道了 [Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/) 的存在，虽未更深入了解，但确实已学到不少新技能；如果您也对自然提升网站流量感兴趣，那么我想 [Backlinko](https://nicelinks.site/redirect?url=https://backlinko.com/) 是值得您关注的。
+前阵子想要进一步提升 SEO，通过 Google 检索知道了 [Backlinko](https://backlinko.com/) 的存在，虽未更深入了解，但确实已学到不少新技能；如果您也对自然提升网站流量感兴趣，那么我想 [Backlinko](https://backlinko.com/) 是值得您关注的。
 
 ── 出自[倾城之链 - SEO Training and Link Building Strategies – Backlinko](https://nicelinks.site/post/620504503b89bf76633cb6ff)
 
@@ -34,7 +34,7 @@
 
 ![倾城之链 - Reaktr | Generate audio-reactive video on browser.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/reaktr.vercel.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Reaktr](https://nicelinks.site/redirect?url=https://reaktr.vercel.app/)，是一种创建精美音频、可视化视频的简单方法。只需选择您的音乐和背景图像/视频，Reaktr 就会将它们与音频反应可视化混合在一起。您可以自主调整一些设置：叠加颜色，叠加透明度，文本内容、颜色、位置、阴影，以及渲染效果等等。其具体使用步骤如下：
+**推荐语**：[Reaktr](https://reaktr.vercel.app/)，是一种创建精美音频、可视化视频的简单方法。只需选择您的音乐和背景图像/视频，Reaktr 就会将它们与音频反应可视化混合在一起。您可以自主调整一些设置：叠加颜色，叠加透明度，文本内容、颜色、位置、阴影，以及渲染效果等等。其具体使用步骤如下：
 
 1. 选择您想要可视化的音频文件（或尝试使用 sample.mp3）；
 2. 选择一个图像或视频文件作为背景（或尝试使用 sample.mp4）；
@@ -54,9 +54,9 @@
 
 ![倾城之链 - Morflax - The Easiest 3D design platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/morflax.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Morflax](https://nicelinks.site/redirect?url=https://morflax.com/)，最简单的 3D 设计平台，打造高质量的品牌和营销资产，**创造和探索的自由**；它以快速且引人入胜的方式创建高质量的 3D 插图、设备模型和其他 3D 内容；使用 200 多个图标和预制模板，创建您的视觉内容。直接在浏览器中拖放元素、转换、自定义和下载您的图像（其操作全部在您的浏览器中进行）。值得一提的是，[Morflax](https://nicelinks.site/redirect?url=https://morflax.com/) 可以免费使用（专业版功能更强，需要收费）。
+**推荐语**：[Morflax](https://morflax.com/)，最简单的 3D 设计平台，打造高质量的品牌和营销资产，**创造和探索的自由**；它以快速且引人入胜的方式创建高质量的 3D 插图、设备模型和其他 3D 内容；使用 200 多个图标和预制模板，创建您的视觉内容。直接在浏览器中拖放元素、转换、自定义和下载您的图像（其操作全部在您的浏览器中进行）。值得一提的是，[Morflax](https://morflax.com/) 可以免费使用（专业版功能更强，需要收费）。
 
-Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术初创公司。他们的使命是为每个人创建 3D 设计工具，探索和构建虚拟世界和数字化身。他们相信不仅可以创建一家科技公司，还可以创建一个有自己的愿景、角色和想法的虚拟宇宙（Metaverse）；在这个领域，他们的第一个实验是 [Morflax qlo](https://nicelinks.site/redirect?url=https://qlo.morflax.com/)：一个使用数字化身的基于浏览器的服装模型构建器。
+Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术初创公司。他们的使命是为每个人创建 3D 设计工具，探索和构建虚拟世界和数字化身。他们相信不仅可以创建一家科技公司，还可以创建一个有自己的愿景、角色和想法的虚拟宇宙（Metaverse）；在这个领域，他们的第一个实验是 [Morflax qlo](https://qlo.morflax.com/)：一个使用数字化身的基于浏览器的服装模型构建器。
 
 ── 出自[倾城之链 - Morflax - The Easiest 3D design platform](https://nicelinks.site/post/6204fbef3b89bf76633cb6fb)
 

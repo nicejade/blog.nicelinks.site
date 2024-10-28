@@ -10,7 +10,7 @@
 
 ![倾城之链 - LangChain | Get your LLM application from prototype to production](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.langchain.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LangChain](https://nicelinks.site/redirect?url=https://www.langchain.com/) 是一个专注于大型语言模型（ [LLM](https://nicelinks.site/tags/LLM) ）的开发者平台，它提供了一套工具和框架，帮助开发者将 LLM 应用从原型阶段推进到生产环境。以下是关于 LangChain 的详细介绍：
+**推荐语**：[LangChain](https://www.langchain.com/) 是一个专注于大型语言模型（ [LLM](https://nicelinks.site/tags/LLM) ）的开发者平台，它提供了一套工具和框架，帮助开发者将 LLM 应用从原型阶段推进到生产环境。以下是关于 LangChain 的详细介绍：
 
 ### **什么是 LangChain**？
 
@@ -73,7 +73,7 @@ LangChain 提供了一个平台，它允许开发者构建和部署基于大型�
 
 LangChain 的这些特性使得它成为一个强大的平台，可以帮助开发者构建出既能够理解用户输入，又能通过检索系统提供相关信息，最终生成高质量文本的 RAG 系统。这样的系统可以应用于客户服务、内容创作、教育辅导等多个领域。
 
-总之，[LangChain](https://nicelinks.site/redirect?url=https://www.langchain.com/) 通过提供一系列的构建块、开源组件和预构建的链条，使得开发者能够快速上手并针对特定用例进行定制。同时，它还强调了生产环境的准备，通过提供调试、测试和监控工具，帮助开发者确保应用的稳定性和性能。
+总之，[LangChain](https://www.langchain.com/) 通过提供一系列的构建块、开源组件和预构建的链条，使得开发者能够快速上手并针对特定用例进行定制。同时，它还强调了生产环境的准备，通过提供调试、测试和监控工具，帮助开发者确保应用的稳定性和性能。
 
 ── 出自[倾城之链 - LangChain | Get your LLM application from prototype to production](https://nicelinks.site/post/65a92d572c315d2784ce66b9)
 
@@ -85,7 +85,7 @@ LangChain 的这些特性使得它成为一个强大的平台，可以帮助开�
 
 ![倾城之链 - Whimsical - Where great ideas take shape](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/whimsical.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Whimsical](https://nicelinks.site/redirect?url=https://whimsical.com/) 是一个在线 [协作](https://nicelinks.site/tags/协作) 工具，它提供了一系列的功能来帮助团队进行有效的项目管理、 [思维导图](https://nicelinks.site/tags/思维导图) 制作、流程图绘制以及文档协作（视觉协作中心，将图表、 [白板](https://nicelinks.site/tags/白板) 等与 Whimsical 结合起来）。以下是 Whimsical 的一些主要产品和功能：
+**推荐语**：[Whimsical](https://whimsical.com/) 是一个在线 [协作](https://nicelinks.site/tags/协作) 工具，它提供了一系列的功能来帮助团队进行有效的项目管理、 [思维导图](https://nicelinks.site/tags/思维导图) 制作、流程图绘制以及文档协作（视觉协作中心，将图表、 [白板](https://nicelinks.site/tags/白板) 等与 Whimsical 结合起来）。以下是 Whimsical 的一些主要产品和功能：
 
 1.  **思维导图（Mind Maps）**：
 
@@ -146,7 +146,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ![倾城之链 - Craft – The Future of Documents](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.craft.do.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Craft](https://nicelinks.site/redirect?url=https://www.craft.do/) 是一个提供一系列用于构思、组织和共享工作的功能和工具的平台（ [笔记](https://nicelinks.site/tags/笔记) 应用）。它旨在帮助个人和团队有效协作并保持井井有条。根据 Craft 网站上提供的内容，以下是有关 Craft 的一些要点：
+**推荐语**：[Craft](https://www.craft.do/) 是一个提供一系列用于构思、组织和共享工作的功能和工具的平台（ [笔记](https://nicelinks.site/tags/笔记) 应用）。它旨在帮助个人和团队有效协作并保持井井有条。根据 Craft 网站上提供的内容，以下是有关 Craft 的一些要点：
 
 1.  产品概述：Craft 是一个人们可以将想法付诸实践的平台。它为个人和团队提供了构思、组织和分享工作的空间。
 
@@ -166,7 +166,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 9.  公司信息：Craft 由 Craft Docs Limited, Inc. 开发。该公司强调对细节的关注，旨在将其平台的形式和功能结合起来。
 
-总之， [Craft](https://nicelinks.site/redirect?url=https://www.craft.do/) 是一款助力于工作、生活的笔记应用，它集成了很多您可能需要的工具，诸如图片和视频（为您的更新添加上下文和视觉趣味，使其更易于理解）、内置 AI 助手（让 AI 总结您的更新、检查拼写和语法或产生想法）、评论与反馈、代码块、结构化文件（将相关想法分组到卡片和页面中，以便为需要的人添加更多详细信息）、丰富的链接预览,,,,。如果您对其感兴趣，可移步至官网了解更多。
+总之， [Craft](https://www.craft.do/) 是一款助力于工作、生活的笔记应用，它集成了很多您可能需要的工具，诸如图片和视频（为您的更新添加上下文和视觉趣味，使其更易于理解）、内置 AI 助手（让 AI 总结您的更新、检查拼写和语法或产生想法）、评论与反馈、代码块、结构化文件（将相关想法分组到卡片和页面中，以便为需要的人添加更多详细信息）、丰富的链接预览,,,,。如果您对其感兴趣，可移步至官网了解更多。
 
 ── 出自[倾城之链 - Craft – The Future of Documents](https://nicelinks.site/post/65a802112c315d2784ce5e08)
 
@@ -178,7 +178,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ![倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rustlings.cool.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rustlings](https://nicelinks.site/redirect?url=https://rustlings.cool/) 是一个旨在帮助个人学习和练习 [Rust](https://nicelinks.site/tags/Rust) 编程的项目。它由一些小练习组成，帮助用户熟悉阅读和编写 Rust 代码，包括理解和响应编译器消息。关于 Rustlings 的主要特点和信息：
+**推荐语**：[Rustlings](https://rustlings.cool/) 是一个旨在帮助个人学习和练习 [Rust](https://nicelinks.site/tags/Rust) 编程的项目。它由一些小练习组成，帮助用户熟悉阅读和编写 Rust 代码，包括理解和响应编译器消息。关于 Rustlings 的主要特点和信息：
 
 1.  安装：要开始使用 Rustlings，您需要在系统上安装 Rust。有关安装 Rust 及其包管理器 Cargo 的说明，请访问 [https://rustup.rs](https://rustup.rs/) 。安装 Rust 后，您可以继续 Rustlings 安装过程。
 
@@ -190,13 +190,13 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 5.  进度跟踪： Rustlings 提供 `rustlings list` 命令来检查您的进度并查看您已完成哪些练习。
 
-6.  其他资源： Rustlings 建议使用“ [The Book](https://nicelinks.site/redirect?url=https://doc.rust-lang.org/book/index.html) ”，这是学习 Rust 的综合资源。它还建议“ [Rust By Examples](https://nicelinks.site/redirect?url=https://doc.rust-lang.org/rust-by-example/index.html) ”，这是一个在线资源，提供类似于 Rustlings 的练习。
+6.  其他资源： Rustlings 建议使用“ [The Book](https://doc.rust-lang.org/book/index.html) ”，这是学习 Rust 的综合资源。它还建议“ [Rust By Examples](https://doc.rust-lang.org/rust-by-example/index.html) ”，这是一个在线资源，提供类似于 Rustlings 的练习。
 
 7.  继续学习：完成 Rustlings 后，鼓励用户通过构建自己的项目、为 Rustlings 本身做出贡献或寻找其他开源项目来应用新获得的知识。
 
 8.  卸载：如果您决定从系统中删除 Rustlings，网站上会提供相关说明。它涉及删除练习文件夹并运行货物卸载命令。
 
-请注意，此处提供的信息基于 Rustlings 网站上提供的内容。如需最准确和最新的信息，建议 [访问 Rustlings 官方网站](https://nicelinks.site/redirect?url=https://rusdlings.cool/) 。 [Rustlings 项目在 Github 仓库开源](https://github.com/rust-lang/rustlings) （截止 2024 年 01 月 16 日，已收获 45.9K+ Star），如果您对其感兴趣，可移步前往从而了解更多。
+请注意，此处提供的信息基于 Rustlings 网站上提供的内容。如需最准确和最新的信息，建议 [访问 Rustlings 官方网站](https://rusdlings.cool/) 。 [Rustlings 项目在 Github 仓库开源](https://github.com/rust-lang/rustlings) （截止 2024 年 01 月 16 日，已收获 45.9K+ Star），如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.site/post/65a66b462c315d2784ce5446)
 
@@ -208,13 +208,13 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ![倾城之链 - Dona |  A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dona.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dona](https://nicelinks.site/redirect?url=https://dona.ai/) 是一款回归本源 [待办事项](https://nicelinks.site/tags/任务管理器) 应用程序，致力于**提供快速、愉悦的用户体验**。它旨在简化任务管理，帮助用户以直观、愉快的方式实现目标。Dona 主要具有如下功能：
+**推荐语**：[Dona](https://dona.ai/) 是一款回归本源 [待办事项](https://nicelinks.site/tags/任务管理器) 应用程序，致力于**提供快速、愉悦的用户体验**。它旨在简化任务管理，帮助用户以直观、愉快的方式实现目标。Dona 主要具有如下功能：
 
 - **快速、愉悦的用户体验**： Dona 旨在提供无缝、高效的任务管理体验。该应用程序将速度和响应速度放在首位，确保用户可以快速添加、组织和完成任务。
 - **可定制的用户界面主题**： Dona 提供一系列自定义选项，包括浅色、深色和黑色用户界面主题。用户可以选择自己喜欢的主题，打造个性化的任务管理环境。
 - **注重细节**： Dona 致力于为每一次交互带来满意体验。该应用程序密切关注用户体验的细节，旨在提供一个精致、愉悦的界面。
 
-此外，Dona 还为用户提供时事通讯，让他们随时了解最新消息和发展动态。用户还可以在 [Twitter 上关注 Dona](https://nicelinks.site/redirect?url=https://twitter.com/getdona) ，并加入他们的 Discord 社区，与其他用户交流并提供反馈。请注意，此处提供的信息以 Dona 网站上的内容为基础，可能随时更改。如需了解最准确的最新信息，建议 [访问 Dona 官方网站](https://nicelinks.site/redirect?url=https://dona.ai/) 。
+此外，Dona 还为用户提供时事通讯，让他们随时了解最新消息和发展动态。用户还可以在 [Twitter 上关注 Dona](https://twitter.com/getdona) ，并加入他们的 Discord 社区，与其他用户交流并提供反馈。请注意，此处提供的信息以 Dona 网站上的内容为基础，可能随时更改。如需了解最准确的最新信息，建议 [访问 Dona 官方网站](https://dona.ai/) 。
 
 ── 出自[倾城之链 - Dona | A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
 
@@ -228,11 +228,11 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ![倾城之链 - 影刀 RPA - 影刀官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.yingdao.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[影刀 RPA](https://nicelinks.site/redirect?url=https://www.yingdao.com/) 是一款软件机器人，能模拟人的各种操作，能在任何应用程式上进行鼠标点击、键盘输入、读取信息等 [自动化](https://nicelinks.site/tags/自动化) 操作，释放人非主观决策、逻辑性高、规则性强的工作（RPAl，Robotic Process Automation 的缩写，即机器人流程自动化）。它由杭州分叉智能科技有限公司研发。
+**推荐语**：[影刀 RPA](https://www.yingdao.com/) 是一款软件机器人，能模拟人的各种操作，能在任何应用程式上进行鼠标点击、键盘输入、读取信息等 [自动化](https://nicelinks.site/tags/自动化) 操作，释放人非主观决策、逻辑性高、规则性强的工作（RPAl，Robotic Process Automation 的缩写，即机器人流程自动化）。它由杭州分叉智能科技有限公司研发。
 
 2022 年 4 月，杭州分叉智能科技有限公司（简称：影刀 RPA）**完成 1 亿美元 C 轮融资**，本轮融资由高盛、某产业 CVC 机构领投，老股东 GGV 纪源资本、高瓴创投等跟投。在此之前，2021 年 7 月，影刀 RPA 完成由 Coatue Management 领投的 5000 万美元，再加上之前高瓴创投、GGV 纪**源**资本、红点中国、金沙江创投、初心资本、盈动资本、曦域资本、聚水潭等数轮数千万美元融资，影刀 RPA 在**2 年时间总共完成了近 2 亿美金融资**。
 
-关于 [影刀 RPA](https://nicelinks.site/redirect?url=https://www.yingdao.com/) ， 您可以把它理解为：**“虚拟机器人”替代人工的一种方式**。它不仅可以模拟人类，而且可以利用和融合现有各项技术，实现其流程自动化的目标。简单叙述，就是\*\*一切重复、有规则的工作，都可以用影刀完成。你只需要设置好固定的流程，影刀就会在电脑/手机上模仿人工，一步步完成操作，而且影刀的完成速度是人的速度的 5 倍左右。
+关于 [影刀 RPA](https://www.yingdao.com/) ， 您可以把它理解为：**“虚拟机器人”替代人工的一种方式**。它不仅可以模拟人类，而且可以利用和融合现有各项技术，实现其流程自动化的目标。简单叙述，就是\*\*一切重复、有规则的工作，都可以用影刀完成。你只需要设置好固定的流程，影刀就会在电脑/手机上模仿人工，一步步完成操作，而且影刀的完成速度是人的速度的 5 倍左右。
 
 ### 影刀 RPA 业务介绍
 

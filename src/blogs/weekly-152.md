@@ -10,7 +10,7 @@
 
 ![倾城之链 - Seemless | From social to site with zero disruption](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/seemless.link.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Seemless](https://nicelinks.site/redirect?url=https://seemless.link/) 是一个生物链接（快速创建 [个人主页](https://nicelinks.site/tags/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5) 的 Web 应用），可以检测点击的来源并自动切换到任何平台的风格。与 Linktree 和 [Bento](https://nicelinks.site/post/64a97be5b95cf7176299b2da) 相比，这创建了一致的外观，引导您的关注者从社交网站到网站，并且 2 倍点击次数零中断。有基于   Seemless   创建新的个人主页： [杨轩帅](https://seemless.link/@nicejade) ；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，十分方便；而且便于分享、统计访问、点击量。如果您有创建个人主页的诉求，不妨一试。
+**推荐语**：[Seemless](https://seemless.link/) 是一个生物链接（快速创建 [个人主页](https://nicelinks.site/tags/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5) 的 Web 应用），可以检测点击的来源并自动切换到任何平台的风格。与 Linktree 和 [Bento](https://nicelinks.site/post/64a97be5b95cf7176299b2da) 相比，这创建了一致的外观，引导您的关注者从社交网站到网站，并且 2 倍点击次数零中断。有基于   Seemless   创建新的个人主页： [杨轩帅](https://seemless.link/@nicejade) ；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，十分方便；而且便于分享、统计访问、点击量。如果您有创建个人主页的诉求，不妨一试。
 
 ── 出自[倾城之链 - Seemless | From social to site with zero disruption](https://nicelinks.site/post/65a010d6ae8b2b2d0a974e36)
 
@@ -22,7 +22,7 @@
 
 ![倾城之链 - Vector Database for Vector Search | Pinecone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pinecone.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pinecone](https://nicelinks.site/redirect?url=https://www.pinecone.io/) 是专为矢量搜索设计的矢量数据库，为多家公司的人工智能计划提供支持。它为执行超快的矢量搜索提供了可靠、可扩展的解决方案，是搜索、推荐系统、异常检测等应用的理想之选。Pinecone 主要具有如下功能：
+**推荐语**：[Pinecone](https://www.pinecone.io/) 是专为矢量搜索设计的矢量数据库，为多家公司的人工智能计划提供支持。它为执行超快的矢量搜索提供了可靠、可扩展的解决方案，是搜索、推荐系统、异常检测等应用的理想之选。Pinecone 主要具有如下功能：
 
 1.  **快速启动，轻松集成**： 使用 Pinecone，只需 30 秒即可创建账户并建立第一个索引。它支持 Python、Node.js 和 cURL 等多种编程语言，可轻松集成到现有工作流程中。
 
@@ -60,7 +60,7 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 ![倾城之链 - Monica - Your ChatGPT AI Assistant Chrome Extension](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/monica.im.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Monica](https://nicelinks.site/redirect?url=https://monica.im/) 是一个使用最先进的 AI 模型（GPT-4、Claude、Bard 等）帮助你**对话**、**搜索**、**写作**、**翻译**的一站式 [AI](https://nicelinks.site/tags/AI) 助手，并且提供多种图片、视频、 [PDF](https://nicelinks.site/tags/PDF) 处理的工具。按下 `Cmd/Ctrl + M`，即可启动，随处可用，可以帮您回答复杂问题，撰写邮件，智能阅读，智能搜索等等。Monica 具有如下功能特征：
+**推荐语**：[Monica](https://monica.im/) 是一个使用最先进的 AI 模型（GPT-4、Claude、Bard 等）帮助你**对话**、**搜索**、**写作**、**翻译**的一站式 [AI](https://nicelinks.site/tags/AI) 助手，并且提供多种图片、视频、 [PDF](https://nicelinks.site/tags/PDF) 处理的工具。按下 `Cmd/Ctrl + M`，即可启动，随处可用，可以帮您回答复杂问题，撰写邮件，智能阅读，智能搜索等等。Monica 具有如下功能特征：
 
 ### 👉 与 AI 聊天
 
@@ -115,7 +115,7 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 ![倾城之链 - Rspress | 基于 Rspack 的静态站点生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rspress.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rspress](https://nicelinks.site/redirect?url=https://rspress.dev/) ：基于 [Rspack](https://nicelinks.site/post/6411b081401101258a14cb06) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架进行渲染、支持 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) 、SSG、全文检索等）；它简单、高性能、易于扩展，主要具有如下功能特征：
+**推荐语**：[Rspress](https://rspress.dev/) ：基于 [Rspack](https://nicelinks.site/post/6411b081401101258a14cb06) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架进行渲染、支持 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) 、SSG、全文检索等）；它简单、高性能、易于扩展，主要具有如下功能特征：
 
 - 🏃🏻‍♀️**极高的编译性能**：核心编译模块基于 Rust 前端工具链完成，带来更加极致的开发体验。
 - 📦 **支持 MDX 编写内容**：MDX 是一种强大的内容编写方式，你可以在 Markdown 中使用 React 组件。
@@ -163,7 +163,7 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 ![倾城之链 - Hono - Ultrafast web framework for the Edges](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hono.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hono](https://nicelinks.site/redirect?url=https://hono.dev/) 是专为边缘计算环境设计的超快 Web [框架](https://nicelinks.site/tags/)。它是轻量级的，遵循 Web 标准，并且可以在各种 JavaScript 运行时上运行。该框架提供了一系列功能和工具来增强开发体验，并使边缘应用程序的构建变得高效而简单。Hono 主要具有如下功能特征：
+**推荐语**：[Hono](https://hono.dev/) 是专为边缘计算环境设计的超快 Web [框架](https://nicelinks.site/tags/)。它是轻量级的，遵循 Web 标准，并且可以在各种 JavaScript 运行时上运行。该框架提供了一系列功能和工具来增强开发体验，并使边缘应用程序的构建变得高效而简单。Hono 主要具有如下功能特征：
 
 1.  **超快和轻量级**：Hono 强调性能和效率。该路由器称为 RegExpRouter，针对速度进行了高度优化。hono/tiny 预设包含基本功能，大小不到 14kB。Hono 通过利用 Web 标准 API 实现了这一目标。
 
@@ -185,7 +185,7 @@ Canopy 允许您使用基于 CLI 的聊天工具评估您的 RAG 工作流程。
 
 ![倾城之链 - LM Studio - Discover, download, and run local LLMs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lmstudio.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LM Studio](https://nicelinks.site/redirect?url=https://lmstudio.ai/) 是一个易于使用的桌面应用程序，用于试验本地和开源的大型语言模型( [LLM](https://nicelinks.site/tags/LLM) )。LM Studio 跨平台桌面应用程序允许您从 [Hugging Face](https://nicelinks.site/post/64748dbdd10b0244940df838) 下载并运行任何与 ggml 兼容的模型，并提供简单而强大的模型配置和推理 UI。该应用程序在可能的情况下利用你的 GPU。通过 [LM Studio](https://nicelinks.site/redirect?url=https://lmstudio.ai/) 您可以：
+**推荐语**：[LM Studio](https://lmstudio.ai/) 是一个易于使用的桌面应用程序，用于试验本地和开源的大型语言模型( [LLM](https://nicelinks.site/tags/LLM) )。LM Studio 跨平台桌面应用程序允许您从 [Hugging Face](https://nicelinks.site/post/64748dbdd10b0244940df838) 下载并运行任何与 ggml 兼容的模型，并提供简单而强大的模型配置和推理 UI。该应用程序在可能的情况下利用你的 GPU。通过 [LM Studio](https://lmstudio.ai/) 您可以：
 
 - 🤖 在您的笔记本电脑上运行法学硕士，完全离线;
 - 👾 通过应用内聊天 UI 或 OpenAI 兼容的本地服务器使用模型
@@ -199,7 +199,7 @@ LM Studio 支持 Hugging Face 上的任何 ggml Llama、MPT 和 StarCoder 模型
 - 建议使用 16GB 以上的 RAM。对于 PC，建议使用 6GB+ VRAM；
 - 支持 NVIDIA/AMD GPU；
 
-总之，LM Studio 是一个免费的桌面软件工具，它使得安装和使用开源 LLM 模型非常容易（LM Studio 并不开源，只是免费使用）。随着 2022 年 11 月 OpenAI 悍然问世，各种 AI 服务雨后春笋般涌现；当在某些场景（脱离网络、尝试开源模型、保护隐私、节约成本）也需要本地运行 LLM，而 [LM Studio](https://nicelinks.site/redirect?url=https://lmstudio.ai/) 堪称其中翘楚，值得尝试。
+总之，LM Studio 是一个免费的桌面软件工具，它使得安装和使用开源 LLM 模型非常容易（LM Studio 并不开源，只是免费使用）。随着 2022 年 11 月 OpenAI 悍然问世，各种 AI 服务雨后春笋般涌现；当在某些场景（脱离网络、尝试开源模型、保护隐私、节约成本）也需要本地运行 LLM，而 [LM Studio](https://lmstudio.ai/) 堪称其中翘楚，值得尝试。
 
 ── 出自[倾城之链 - LM Studio - Discover, download, and run local LLMs](https://nicelinks.site/post/659d528aae8b2b2d0a973d0d)
 

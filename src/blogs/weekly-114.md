@@ -12,7 +12,7 @@
 
 ![倾城之链 -  CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css-doodle.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[<css-doodle\/>](https://nicelinks.site/redirect?url=https://css-doodle.com/) ，是一个基于 [CSS](https://nicelinks.site/tags/CSS) 的绘图库，它允许用户使用 CSS 规则来创建复杂的图形和动画效果。CSS Doodle 基于 Shadow DOM v1 和 Custom Elements v1。您现在可以在所有主要浏览器上使用它而无需 polyfill。该组件将根据其内部的规则（纯 CSS）生成一个 div 网格。您可以使用 CSS 轻松操作这些单元格，以生成图形模式或动画图形。
+**推荐语**：[<css-doodle\/>](https://css-doodle.com/) ，是一个基于 [CSS](https://nicelinks.site/tags/CSS) 的绘图库，它允许用户使用 CSS 规则来创建复杂的图形和动画效果。CSS Doodle 基于 Shadow DOM v1 和 Custom Elements v1。您现在可以在所有主要浏览器上使用它而无需 polyfill。该组件将根据其内部的规则（纯 CSS）生成一个 div 网格。您可以使用 CSS 轻松操作这些单元格，以生成图形模式或动画图形。
 
 CSS Doodle 的主要作用是帮助用户轻松地创建独特的图形和动画效果，而不需要任何 JavaScript 或其他脚本语言的知识。用户可以使用 CSS Doodle 的规则语言来创建各种基于 CSS 的图形，包括线条、圆形、矩形、多边形等等。用户还可以使用 CSS Doodle 的动画效果来实现各种各样的动态效果，如旋转、平移、缩放、淡入淡出等等。
 
@@ -42,7 +42,7 @@ background: url("data:image/svg+xml;utf8,<svg
 
 ![倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/limboy.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Limboy](https://nicelinks.site/redirect?url=https://limboy.me/) ，技术大咖李忠（后端、前端）的个人博客，基于 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、[Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 所搭建（详情参见作者博文：[我的博客系统演变之路](https://nicelinks.site/redirect?url=https://limboy.me/posts/my-blog-system/)）；该博客内容，分为：Books、Essays（随笔）、Practical、Research（研究）、Review、Translation、Projects、Photos、Movies 等模块儿；作者在推特主页写到：“保持好奇心。广泛阅读。尝试新事物”；从作者的分享内容，可以深刻感受到作者对这 Slogan，有非常好实践；如果您也希望有所改变，推荐关注。除了该博客，作者为方便整理更多杂记、减少对 Twitter 的依赖，有开辟新的写作空间： [避风塘](https://before.town/) （精挑细选的信息，带来灵感和启发）。
+**推荐语**：[Limboy](https://limboy.me/) ，技术大咖李忠（后端、前端）的个人博客，基于 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、[Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 所搭建（详情参见作者博文：[我的博客系统演变之路](https://limboy.me/posts/my-blog-system/)）；该博客内容，分为：Books、Essays（随笔）、Practical、Research（研究）、Review、Translation、Projects、Photos、Movies 等模块儿；作者在推特主页写到：“保持好奇心。广泛阅读。尝试新事物”；从作者的分享内容，可以深刻感受到作者对这 Slogan，有非常好实践；如果您也希望有所改变，推荐关注。除了该博客，作者为方便整理更多杂记、减少对 Twitter 的依赖，有开辟新的写作空间： [避风塘](https://before.town/) （精挑细选的信息，带来灵感和启发）。
 
 ── 出自[倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.site/post/64411c727e6ef733181b7ef1)
 
@@ -54,7 +54,7 @@ background: url("data:image/svg+xml;utf8,<svg
 
 ![倾城之链 - Home - Made With ML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/madewithml.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Made With ML](https://nicelinks.site/redirect?url=https://madewithml.com/) ，是一个致力于为人工智能和[机器学习](https://nicelinks.site/tags/机器学习)从业者提供资源和指导的网站。该网站提供了各种**机器学习**项目和教程，包括[深度学习](https://nicelinks.site/tags/深度学习)、神经网络、逻辑回归等领域。该网站还提供了一些有用的工具和资源，如数据集、算法实现和代码库。
+**推荐语**：[Made With ML](https://madewithml.com/) ，是一个致力于为人工智能和[机器学习](https://nicelinks.site/tags/机器学习)从业者提供资源和指导的网站。该网站提供了各种**机器学习**项目和教程，包括[深度学习](https://nicelinks.site/tags/深度学习)、神经网络、逻辑回归等领域。该网站还提供了一些有用的工具和资源，如数据集、算法实现和代码库。
 
 机器学习不是一个独立的行业，相反，它是一种思考数据的强大方式。**Made With ML** 的目标是教育并使社区能够负责任地开发、部署和维护机器学习。总之，Made With ML 是一个非常有用的资源库，可以帮助从业者提高他们的技能和知识水平。
 
@@ -68,7 +68,7 @@ background: url("data:image/svg+xml;utf8,<svg
 
 ![倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pictorial.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pictorial](https://nicelinks.site/redirect?url=https://www.pictorial.ai/) ，基于 [AI](https://nicelinks.site/tags/AI) 的图形创造工具，轻松为您的**Web（网络）应用**程序创建图形；利用能够生成可靠、随时可用的视觉杰作的生成式 AI，轻松传达您的信息。输入网站地址，即可为您的站点创建令人惊叹的图形；它具有以下功能特征：
+**推荐语**：[Pictorial](https://www.pictorial.ai/) ，基于 [AI](https://nicelinks.site/tags/AI) 的图形创造工具，轻松为您的**Web（网络）应用**程序创建图形；利用能够生成可靠、随时可用的视觉杰作的生成式 AI，轻松传达您的信息。输入网站地址，即可为您的站点创建令人惊叹的图形；它具有以下功能特征：
 
 ### 强大的视觉效果，仅来自 URL
 
@@ -82,7 +82,7 @@ background: url("data:image/svg+xml;utf8,<svg
 
 通过迭代或生成设计的替代方案来引导 AI，最终得到您引以为豪的图像（即将推出）。
 
-有体验 [Pictorial](https://nicelinks.site/redirect?url=https://www.pictorial.ai/) ，它并非免费可用；售价为 8.99 美元，提供以下特色服务：
+有体验 [Pictorial](https://www.pictorial.ai/) ，它并非免费可用；售价为 8.99 美元，提供以下特色服务：
 
 - 在几分钟内获取您的图像！我们向您发送一个链接以下载您的图片。
 - 图像 100% 使用 AI 创建 - 针对网站、社交媒体和博客进行了优化
@@ -106,7 +106,7 @@ background: url("data:image/svg+xml;utf8,<svg
 
 ![倾城之链 - Routify  | Routes for Svelte, automated by your file structure.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.routify.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Routify](https://nicelinks.site/redirect?url=https://www.routify.dev/) ，是一个基于 Svelte 的前端路由工具，它可以帮助我们快速构建单页应用程序（SPA）和多页应用程序（MPA），支持静态生成（SSG）和服务端渲染（SSR）。它主要功能特征包括：
+**推荐语**：[Routify](https://www.routify.dev/) ，是一个基于 Svelte 的前端路由工具，它可以帮助我们快速构建单页应用程序（SPA）和多页应用程序（MPA），支持静态生成（SSG）和服务端渲染（SSR）。它主要功能特征包括：
 
 1.  **声明式路由配置**：Routify 支持通过声明式的方式来定义路由，可以方便地配置路由和页面组件之间的关系。
 
@@ -156,7 +156,7 @@ Routify 所提供的功能非常丰富，以上是常用使用示例；相比于
 
 ![倾城之链 - unblob - extract everything!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/unblob.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[unblob - extract everything](https://nicelinks.site/redirect?url=https://unblob.org/) ， 是一个**准确、快速**且易于使用的**提取套件**。它为 30 多种不同的存档、压缩和文件系统格式解析未知二进制 blob ，递归地**提取**它们的**内容**，并**分割**出尚未考虑的**未知块**。
+**推荐语**：[unblob - extract everything](https://unblob.org/) ， 是一个**准确、快速**且易于使用的**提取套件**。它为 30 多种不同的存档、压缩和文件系统格式解析未知二进制 blob ，递归地**提取**它们的**内容**，并**分割**出尚未考虑的**未知块**。
 
 Unblob 可免费使用，并获得 MIT 许可。它有一个命令行界面，可以用作 Python 库。**这使 unblob 成为提取、分析**和**逆向工程固件映像**的完美伴侣。
 
@@ -191,7 +191,7 @@ unblob 的开发考虑了以下目标：
 
 ![倾城之链 - No-Signup Tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nosignup.tools.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[nosignup.tools](https://nicelinks.site/redirect?url=https://nosignup.tools/) ，一个精选的基于网络的产品集合，不需要帐户或注册，您可以在 10 秒内使用。加入其他产品爱好者的行列，免费获得他们的每月更新；该网站所涵盖内容涉及：营销、写作、生产率、其他、教学、设计、远程工作、公用事业、调查与民意调查、加密货币、文件托管和共享、沟通、开发者工具、福利、金融、招聘、旅行、培训班、社交媒体、隐私、视频、商业、密码学、网页设计、人工智能、生产率、设计、图像转换工具等各个方面。如果您有维护效率工具，也可以提交到该网站，无需登录，只需填写网站名称、分类、地址，以及描述即可。
+**推荐语**：[nosignup.tools](https://nosignup.tools/) ，一个精选的基于网络的产品集合，不需要帐户或注册，您可以在 10 秒内使用。加入其他产品爱好者的行列，免费获得他们的每月更新；该网站所涵盖内容涉及：营销、写作、生产率、其他、教学、设计、远程工作、公用事业、调查与民意调查、加密货币、文件托管和共享、沟通、开发者工具、福利、金融、招聘、旅行、培训班、社交媒体、隐私、视频、商业、密码学、网页设计、人工智能、生产率、设计、图像转换工具等各个方面。如果您有维护效率工具，也可以提交到该网站，无需登录，只需填写网站名称、分类、地址，以及描述即可。
 
 ── 出自[倾城之链 - No-Signup Tools](https://nicelinks.site/post/643e52a37e6ef733181b6b2a)
 

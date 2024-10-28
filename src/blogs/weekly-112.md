@@ -10,7 +10,7 @@
 
 ![倾城之链 - Colossal-AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/colossalai.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Colossal-AI](https://nicelinks.site/redirect?url=https://colossalai.org/) 是一个 [开源](https://nicelinks.site/tags/开源) 服务，旨在提供一个可扩展、高度灵活且易于使用的 AI 执行框架，以帮助 AI 研究人员和数据科学家快速，高效地实现他们的项目。Colossal-AI 是一个开源的 AI 模型训练平台，主要功能特征如下：
+**推荐语**：[Colossal-AI](https://colossalai.org/) 是一个 [开源](https://nicelinks.site/tags/开源) 服务，旨在提供一个可扩展、高度灵活且易于使用的 AI 执行框架，以帮助 AI 研究人员和数据科学家快速，高效地实现他们的项目。Colossal-AI 是一个开源的 AI 模型训练平台，主要功能特征如下：
 
 1.  **自动化模型管道**：Colossal-AI 针对模型训练和部署提供了自动化的管道，从数据导入到模型训练、优化、验证和测试。
 2.  **分布式训练**：Colossal-AI 通过分布式训练技术加速模型的训练，可以同时在多个 GPU 上进行训练，并提供了用于监控和控制训练进度的用户界面。
@@ -37,7 +37,7 @@
 
 ![倾城之链 - SpeechGPT ｜ 一个网络应用程序，可让您与 ChatGPT 交谈](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/speechgpt.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SpeechGPT](https://nicelinks.site/redirect?url=https://speechgpt.app/) 是一个让你与 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 聊天的网站（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 等技术栈搭建）。你可以使用 SpeechGPT 来练习你的口语，或者你只是和 ChatGPT 聊天。它主要有以下几个功能特点：
+**推荐语**：[SpeechGPT](https://speechgpt.app/) 是一个让你与 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 聊天的网站（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 等技术栈搭建）。你可以使用 SpeechGPT 来练习你的口语，或者你只是和 ChatGPT 聊天。它主要有以下几个功能特点：
 
 - 📖 **开源免费**：任何人都可以免费使用、修改。
 - 🔒 **隐私至上**：所有数据都存储在本地，保护用户隐私。
@@ -86,7 +86,7 @@ Meraki UI 是响应式 [Tailwind](https://nicelinks.site/tags/Tailwind) CSS 组�
 
 ![倾城之链 - tiiny.host - The simplest way to share your web project](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tiiny.host.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tiiny Host](https://nicelinks.site/redirect?url=https://tiiny.host/) ，是一个简单易用的静态网站托管服务。该服务允许用户将他们的静态网站、 [PDF](https://nicelinks.site/tags/PDF) 上传到 Tiiny Host 的服务器，并在几秒钟内将其发布到互联网上。Tiiny Host 支持多种网站类型，包括 [HTML](https://nicelinks.site/tags/HTML) 、 [CSS](https://nicelinks.site/tags/CSS) 、JavaScript、React 和 Vue.js 等。它的使用非常简单，只需要以下三步：
+**推荐语**：[Tiiny Host](https://tiiny.host/) ，是一个简单易用的静态网站托管服务。该服务允许用户将他们的静态网站、 [PDF](https://nicelinks.site/tags/PDF) 上传到 Tiiny Host 的服务器，并在几秒钟内将其发布到互联网上。Tiiny Host 支持多种网站类型，包括 [HTML](https://nicelinks.site/tags/HTML) 、 [CSS](https://nicelinks.site/tags/CSS) 、JavaScript、React 和 Vue.js 等。它的使用非常简单，只需要以下三步：
 
 1.  拖放包含您的内容的个人文件或 zip 文件；
 2.  输入链接名称或点击上传；
@@ -108,7 +108,7 @@ Tiiny Host 的付费计划提供了更多的功能和灵活性，例如自定义
 
 ![倾城之链 - AwA UI | Fall in love with CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.handsome-css.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AwA UI](https://nicelinks.site/redirect?url=https://www.handsome-css.com/) ，在网上收集各种帅气的 CSS3 特效和动画，按钮标题等各种好玩酷炫的特效组件；该网站旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效 UI，目的的是为了提高开发者的审美和技术。截止 2023 年 04 月，已收集 99+ 的超帅 UI 组件。该项目在 [Github 开源](https://github.com/ZiYi0414/handsome-css3-lib) ，感兴趣的朋友可移步前往以了解更多。
+**推荐语**：[AwA UI](https://www.handsome-css.com/) ，在网上收集各种帅气的 CSS3 特效和动画，按钮标题等各种好玩酷炫的特效组件；该网站旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效 UI，目的的是为了提高开发者的审美和技术。截止 2023 年 04 月，已收集 99+ 的超帅 UI 组件。该项目在 [Github 开源](https://github.com/ZiYi0414/handsome-css3-lib) ，感兴趣的朋友可移步前往以了解更多。
 
 ── 出自[倾城之链 - AwA UI | Fall in love with CSS](https://nicelinks.site/post/64298d3b778bb32004faa642)
 
@@ -120,7 +120,7 @@ Tiiny Host 的付费计划提供了更多的功能和灵活性，例如自定义
 
 ![倾城之链 - MySQL | an open-source relational database management system](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mysql.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MySQL](https://nicelinks.site/redirect?url=https://www.mysql.com/) 是一个广泛使用的开源关系型 [数据库](https://nicelinks.site/tags/数据库) 管理系统，其代码透明且可定制，可以在各种操作系统上运行。MySQL 的主要价值在于它提供了可靠的数据管理和存储能力，为应用程序开发者提供了稳定、高效的数据存储服务。具体而言有以下几个主要功能特征：
+**推荐语**：[MySQL](https://www.mysql.com/) 是一个广泛使用的开源关系型 [数据库](https://nicelinks.site/tags/数据库) 管理系统，其代码透明且可定制，可以在各种操作系统上运行。MySQL 的主要价值在于它提供了可靠的数据管理和存储能力，为应用程序开发者提供了稳定、高效的数据存储服务。具体而言有以下几个主要功能特征：
 
 1.  **高性能**：MySQL 通过优化查询算法，支持高并发处理，提供了高速的数据访问和操作。MySQL 使用简单的查询引擎，可执行复杂的查询和联合操作。
 2.  **可扩展性**：MySQL 可以水平和垂直扩展，可以添加更多的服务器和节点，将数据分片，可以通过负载均衡和缓存来提高性能。
@@ -146,7 +146,7 @@ MySQL 的竞争产品包括 Oracle、Microsoft SQL Server、 [PostgreSQL](https:
 
 ![倾城之链 - Mafs: React components for interactive math](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mafs.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mafs](https://nicelinks.site/redirect?url=https://mafs.dev/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 的交互数学 [组件库](https://nicelinks.site/tags/组件库) ，致力于为开发者提供易于使用和自定义的数学组件，帮助开发人员快速构建具有交互性和 [可视化](https://nicelinks.site/tags/可视化) 的数学网站和应用程序。Mafs 组件库包含多种常用数学图像和工具，如二维平面图、三维图形、向量、函数和表格等，还提供了用于创建动画效果和交互操作的 API。
+**推荐语**：[Mafs](https://mafs.dev/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 的交互数学 [组件库](https://nicelinks.site/tags/组件库) ，致力于为开发者提供易于使用和自定义的数学组件，帮助开发人员快速构建具有交互性和 [可视化](https://nicelinks.site/tags/可视化) 的数学网站和应用程序。Mafs 组件库包含多种常用数学图像和工具，如二维平面图、三维图形、向量、函数和表格等，还提供了用于创建动画效果和交互操作的 API。
 
 除了提供大量的数学组件之外，Mafs 还拥有详细的文档，涵盖了基本使用、高级主题、自定义样式和 API 参考等内容，开发者可以在这里轻松学习到 Mafs 的使用和技巧。此外， [Mafs 在 Github 开源](https://github.com/stevenpetryk/mafs) ，让更多的开发者和爱好者来共同完善和扩展数学组件库。
 
@@ -162,7 +162,7 @@ MySQL 的竞争产品包括 Oracle、Microsoft SQL Server、 [PostgreSQL](https:
 
 ![倾城之链 - PostgreSQL: The world's most advanced open source database](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.postgresql.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PostgreSQL](https://nicelinks.site/redirect?url=https://www.postgresql.org/) 是一种开源的关系型数据库管理系统（RDBMS），它是由 PostgreSQL 全球开发组织开发和维护的，经过超过 35 年的积极开发，在可靠性、功能稳健性和性能方面赢得了良好的声誉。它支持多种操作系统，包括 Windows，Linux，Unix 和 OS X 等，是一种功能强大的数据库系统，被广泛应用于企业和互联网应用程序。
+**推荐语**：[PostgreSQL](https://www.postgresql.org/) 是一种开源的关系型数据库管理系统（RDBMS），它是由 PostgreSQL 全球开发组织开发和维护的，经过超过 35 年的积极开发，在可靠性、功能稳健性和性能方面赢得了良好的声誉。它支持多种操作系统，包括 Windows，Linux，Unix 和 OS X 等，是一种功能强大的数据库系统，被广泛应用于企业和互联网应用程序。
 
 PostgreSQL 作为一种关系型数据库管理系统，具有以下作用：
 
@@ -199,7 +199,7 @@ PostgreSQL 是一种功能强大的关系型数据库管理系统，但它的使
 
 ![倾城之链 - Konsta UI - Mobile UI components built with Tailwind CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/konstaui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Konsta UI](https://nicelinks.site/redirect?url=https://konstaui.com/) 是一个基于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 构建的移动端 UI 组件库，适用于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，有 iOS 和 Material Design 两种不同主题风格；它提供了大量高质量的 UI 组件，包括按钮、表单、卡片、导航、模态框、滑块等等。这些组件都是经过精心设计和优化的，可以帮助开发者快速构建出现代化的移动应用程序。Konsta UI 具有以下功能特征：
+**推荐语**：[Konsta UI](https://konstaui.com/) 是一个基于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 构建的移动端 UI 组件库，适用于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，有 iOS 和 Material Design 两种不同主题风格；它提供了大量高质量的 UI 组件，包括按钮、表单、卡片、导航、模态框、滑块等等。这些组件都是经过精心设计和优化的，可以帮助开发者快速构建出现代化的移动应用程序。Konsta UI 具有以下功能特征：
 
 ### iOS 和 Material Design 主题
 

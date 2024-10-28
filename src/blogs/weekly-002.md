@@ -12,14 +12,14 @@
 
 ![倾城之链 - 创客贴_在线图片编辑器_版权设计模板_在线稿定设计印刷](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.chuangkit.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[创客贴](https://nicelinks.site/redirect?url=https://www.chuangkit.com/)是一款极简的平面设计工具，通过托拉拽就能轻松做出精美的图片。比如：名片、宣传海报、邀请函、易拉宝、公众号首图、宣传单/册、banner、网页广告、信息图表、折页/三折页、PPT 模板、简历、台历、封面图、贺卡等平面设计图片。[创客贴](https://nicelinks.site/redirect?url=https://www.chuangkit.com/)有以下特征：
+**推荐语**：[创客贴](https://www.chuangkit.com/)是一款极简的平面设计工具，通过托拉拽就能轻松做出精美的图片。比如：名片、宣传海报、邀请函、易拉宝、公众号首图、宣传单/册、banner、网页广告、信息图表、折页/三折页、PPT 模板、简历、台历、封面图、贺卡等平面设计图片。[创客贴](https://www.chuangkit.com/)有以下特征：
 
 - 1、轻量级的 PS，通过拖拉拽，输入文字就能做出精美图片；
 - 2、无需安装、在线设计、在线图片编辑；
 - 3、海量设计模板，使用免费设计模，设计 0 成本；
 - 4、平面设计工具终身免费使用；
 
-基于[创客贴](https://nicelinks.site/redirect?url=https://www.chuangkit.com/)，就算没有任何 PS 基础也能快速上手，完美变身设计高手。值得一提的是，创客贴也是一款**手机端作图神器**：
+基于[创客贴](https://www.chuangkit.com/)，就算没有任何 PS 基础也能快速上手，完美变身设计高手。值得一提的是，创客贴也是一款**手机端作图神器**：
 
 **创客贴**让设计变得更加简单，即便是使用手机也能让你拥有设计师般的体验;安装其官方 APP，即可轻松使用手机进行各种图片编辑制作，无论工作或生活中的设计，都可用它完成，设计场景覆盖：海报、社交图片、名片、邀请函、贺卡、朋友圈封面、日签、壁纸等设[计](https://nicelinks.site/tags/设计)场景，通过简单修改文字、替换图片，就能一键生成设计，免费保存至手机。
 
@@ -35,7 +35,7 @@
 
 ![倾城之链 - Aleph.js - The React Framework in Deno](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/alephjs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Aleph.js](https://nicelinks.site/redirect?url=https://alephjs.org/) The Full-stack Framework for [React](https://nicelinks.site/tags/React) and other in [Deno](https://nicelinks.site/tags/Deno). Aleph.js 为您提供最佳的开发者体验，以构建现代 Web 应用程序。您可以在 Deno 中使用 TypeScript，ES 模块导入，文件系统路由，SSR（Server-Side Rendering 服务端渲染） 和 SSG（Static Site Generators，静态网站生成器），内置 CSS，具有 HMR（Hot Module Replacement 热模块替换） 快速刷新功能，无需配置。
+**推荐语**：[Aleph.js](https://alephjs.org/) The Full-stack Framework for [React](https://nicelinks.site/tags/React) and other in [Deno](https://nicelinks.site/tags/Deno). Aleph.js 为您提供最佳的开发者体验，以构建现代 Web 应用程序。您可以在 Deno 中使用 TypeScript，ES 模块导入，文件系统路由，SSR（Server-Side Rendering 服务端渲染） 和 SSG（Static Site Generators，静态网站生成器），内置 CSS，具有 HMR（Hot Module Replacement 热模块替换） 快速刷新功能，无需配置。
 
 ── 出自[倾城之链 - Aleph.js - The React Framework in Deno](https://nicelinks.site/post/60367ff0927df32aa12de4ce)
 
@@ -49,14 +49,14 @@
 
 ![倾城之链 - 爱发电 · 连接创作者与粉丝的会员制平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.afdian.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[爱发电](https://nicelinks.site/redirect?url=https://www.afdian.net/)，一个连接创作者与粉丝的会员制平台（官方有提供 Web 以及 App）；无论你在创作什么，都可以在这里发起自己的创作方案，获得持续的资金支持，让创作从此更自由。据悉，上万名创作者，正在通过爱发电获得收入、管理粉丝；其中包括漫画家、文字作者、画师、音乐人、游戏开发者、论坛、软件等其他产品的开发者或管理者、视频 UP 主、播客、旅游博主、Vlogger、Vtuber 等等。[爱发电](https://nicelinks.site/redirect?url=https://www.afdian.net/)，对于创作者和粉丝，都能获益的平台，它具有以下特征：
+**推荐语**：[爱发电](https://www.afdian.net/)，一个连接创作者与粉丝的会员制平台（官方有提供 Web 以及 App）；无论你在创作什么，都可以在这里发起自己的创作方案，获得持续的资金支持，让创作从此更自由。据悉，上万名创作者，正在通过爱发电获得收入、管理粉丝；其中包括漫画家、文字作者、画师、音乐人、游戏开发者、论坛、软件等其他产品的开发者或管理者、视频 UP 主、播客、旅游博主、Vlogger、Vtuber 等等。[爱发电](https://www.afdian.net/)，对于创作者和粉丝，都能获益的平台，它具有以下特征：
 
 - **按月支付的会员制**：无论是对粉丝还是对创作者都能持久的获得收益；
 - **粉丝与创作者直接沟通**：不管你是粉丝还是创作者， 都可以通过爱发电的私信或评论直接接触对方；
 - **付费会员专属内容**：创作者可以在爱发电发布付费会员才可见的内容， 更好的回馈给予发电的粉丝；
 - **方便的支付与收款**：爱发电同时支持微信与支付宝支付，只扣掉 1% 手续费与 5% 服务费；
 
-如何开始[爱发电](https://nicelinks.site/redirect?url=https://www.afdian.net/)呢？只需以下三步即可：
+如何开始[爱发电](https://www.afdian.net/)呢？只需以下三步即可：
 
 ### 1. 成为爱发电的创作者
 
@@ -74,7 +74,7 @@
 
 ### 3. 在爱发电发布内容，持续经营
 
-你可以在[爱发电](https://nicelinks.site/redirect?url=https://www.afdian.net/)发布公开的动态，吸引更多人浏览你的主页。你也可以发布赞助者才可见的动态，提供专属的内容回馈赞助的粉丝。和你的创作生涯一样，经营「爱发电」主页也是一个长期的过程。
+你可以在[爱发电](https://www.afdian.net/)发布公开的动态，吸引更多人浏览你的主页。你也可以发布赞助者才可见的动态，提供专属的内容回馈赞助的粉丝。和你的创作生涯一样，经营「爱发电」主页也是一个长期的过程。
 
 在推荐`爱发电`之后，也将[**倾城之链**](https://nicelinks.site/)入驻了爱发电，期待感兴趣的朋友来[爱发电：支持「倾城」](https://www.afdian.net/@nicelinks)。
 
@@ -88,12 +88,12 @@
 
 ![倾城之链 - vim.so - Learn and Master Vim faster with interactive exercises](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.vim.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vim](https://nicelinks.site/tags/vim) 是从 vi 发展出来的一个高度可配置的文本[编辑器](https://nicelinks.site/tags/%E7%BC%96%E8%BE%91%E5%99%A8)。它可以非常高效地创建和更改任何类型的文本，拥有代码补完、编译及错误跳转等方便编程的丰富功能，在**程序员**中被广泛使用。[vim.so](https://nicelinks.site/redirect?url=https://www.vim.so/) 是一个工具网站，通过它提供的互动练习，可以帮助您快速掌握 [vim](https://nicelinks.site/tags/vim)。官方给出了以下使用 [vim.so](https://nicelinks.site/redirect?url=https://www.vim.so/) 的理由：
+**推荐语**：[Vim](https://nicelinks.site/tags/vim) 是从 vi 发展出来的一个高度可配置的文本[编辑器](https://nicelinks.site/tags/%E7%BC%96%E8%BE%91%E5%99%A8)。它可以非常高效地创建和更改任何类型的文本，拥有代码补完、编译及错误跳转等方便编程的丰富功能，在**程序员**中被广泛使用。[vim.so](https://www.vim.so/) 是一个工具网站，通过它提供的互动练习，可以帮助您快速掌握 [vim](https://nicelinks.site/tags/vim)。官方给出了以下使用 [vim.so](https://www.vim.so/) 的理由：
 
 - 通过互动课程学习，而非无聊的纯文本教程；
 - 无需环境设置，直接在浏览器中练习；
 - 掌握 vim 工具，大大提高代码编辑速度；
-- 使用 [vim.so](https://nicelinks.site/redirect?url=https://www.vim.so/) ，也是在支持独立开发者。
+- 使用 [vim.so](https://www.vim.so/) ，也是在支持独立开发者。
 
 ── 出自[倾城之链 - vim.so - Learn and Master Vim faster with interactive exercises](https://nicelinks.site/post/6036460b927df32aa12de4ca)
 
@@ -107,7 +107,7 @@
 
 ![倾城之链 - 鲁迅先生 - 鲁迅专题_鲁迅小说_鲁迅作品在线阅读](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.luxun.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[鲁迅先生（Luxun.org）](https://nicelinks.site/redirect?url=https://www.luxun.org/)，提供鲁迅先生的作品在线免费阅读，其主要有《朝花夕拾》、《阿 Q 正传》、《呐喊》等小说，以及《鲁迅的散文集》。打小，乃至大学毕业，对鲁迅先生，以及先生的文章，都了解不深，也不欢喜，甚至是淡漠；只因频繁出自学校课本：从小学的《从百草园到三味书屋》，到初中的《社戏》，再到高中时期的《记念刘和珍君》，鲁迅和他的文章一直陪伴着我们长大。在阳光灿烂、满眼温暖的年纪，去揣测先生文章或段落，所要表达的的中心思想，这搁谁都有些强人所难。
+**推荐语**：[鲁迅先生（Luxun.org）](https://www.luxun.org/)，提供鲁迅先生的作品在线免费阅读，其主要有《朝花夕拾》、《阿 Q 正传》、《呐喊》等小说，以及《鲁迅的散文集》。打小，乃至大学毕业，对鲁迅先生，以及先生的文章，都了解不深，也不欢喜，甚至是淡漠；只因频繁出自学校课本：从小学的《从百草园到三味书屋》，到初中的《社戏》，再到高中时期的《记念刘和珍君》，鲁迅和他的文章一直陪伴着我们长大。在阳光灿烂、满眼温暖的年纪，去揣测先生文章或段落，所要表达的的中心思想，这搁谁都有些强人所难。
 
 然而，年与时驰间，阅历不断被丰富；在社会上跌跌撞撞、摸爬滚打，经历着人情冷暖，离合悲欢。回头再看先生的文字，突然就发现，每一句话，都是如此的透彻、深刻。先生在《而已集》中写道：“**我的话已经说完，去年说的，今年还适用，恐怕明年也还适用，但我诚恳地希望不至于用到十年二十年后**”。可每次，遇些想要说几句的热点事件，苦吟一大段文字后，才发现，先生早已站在那里，冷眼看着一切。先生那穿透人心的思想和文字，从未远离。以前我们学先生的文章，以为是在看历史；长大以后才知道，其实也是在看现实。
 
@@ -135,7 +135,7 @@
 
 ![倾城之链 - 微博历史热搜-微博热搜搜索引擎](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/weibo.zhaoyizhe.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[微博热搜搜索引擎](https://nicelinks.site/redirect?url=https://weibo.zhaoyizhe.com/)，是一个在线检索热搜历史的网站，只需输入你想搜索的热搜关键字即可；支持按多种方式查看所有热搜，并实时存档所有微博热搜。额外，该网站还提供下载/导出数据的功能（须要付费）。
+**推荐语**：[微博热搜搜索引擎](https://weibo.zhaoyizhe.com/)，是一个在线检索热搜历史的网站，只需输入你想搜索的热搜关键字即可；支持按多种方式查看所有热搜，并实时存档所有微博热搜。额外，该网站还提供下载/导出数据的功能（须要付费）。
 
 ── 出自[倾城之链 - 微博历史热搜-微博热搜搜索引擎](https://nicelinks.site/post/6034bd75927df32aa12de4c4)
 
@@ -149,7 +149,7 @@
 
 ![倾城之链 - 茶杯狐 Cupfox - 努力让找电影变得简单](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cupfox.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[茶杯狐 Cupfox](https://nicelinks.site/redirect?url=https://www.cupfox.com/) 是一个提供影视[聚合](https://nicelinks.site/tags/聚合)的资源，涵盖电影、电视剧、动漫、综艺等资源，支持在线播放与下载；同时提供搜索、选片（过滤[检索](https://nicelinks.site/tags/检索)，含近期热门、高分经典、冷门佳作、地区佳作、分类题材等；每一类又分有不同类型榜，如电影榜、戏剧榜、动作片榜、爱情片榜、科幻片榜、动画片榜、悬疑片榜、惊悚片榜、恐怖片榜、犯罪片榜、同性片榜、传记片榜、战争片榜、冒险片榜等等）、榜单等功能；该网站，资源丰富，质量较好，勤于更新，如果您有”剧荒“的烦恼，不妨试一下这款[茶杯狐 Cupfox](https://nicelinks.site/redirect?url=https://www.cupfox.com/)。
+**推荐语**：[茶杯狐 Cupfox](https://www.cupfox.com/) 是一个提供影视[聚合](https://nicelinks.site/tags/聚合)的资源，涵盖电影、电视剧、动漫、综艺等资源，支持在线播放与下载；同时提供搜索、选片（过滤[检索](https://nicelinks.site/tags/检索)，含近期热门、高分经典、冷门佳作、地区佳作、分类题材等；每一类又分有不同类型榜，如电影榜、戏剧榜、动作片榜、爱情片榜、科幻片榜、动画片榜、悬疑片榜、惊悚片榜、恐怖片榜、犯罪片榜、同性片榜、传记片榜、战争片榜、冒险片榜等等）、榜单等功能；该网站，资源丰富，质量较好，勤于更新，如果您有”剧荒“的烦恼，不妨试一下这款[茶杯狐 Cupfox](https://www.cupfox.com/)。
 
 ── 出自[倾城之链 - 茶杯狐 Cupfox - 努力让找电影变得简单](https://nicelinks.site/post/60311ec06eaf2a7660805af4)
 

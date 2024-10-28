@@ -10,7 +10,7 @@
 
 ![倾城之链 -  Collaboration software for software, IT and business teams ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.atlassian.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Atlassian](https://nicelinks.site/redirect?url=https://www.atlassian.com/) 是一家澳大利亚软件公司，由 Mike Cannon-Brookes 和 Scott Farquhar 创建于 2002 年（ Jira 1.0 的推出），总部位于悉尼，在美国、英国、荷兰、菲律宾、巴西、日本等地设有分支机构；截止 2023 年 09 月，拥有 7000 名员工，遍布在 13 个国家和地区，客户超过 200000 家，在 Marketplace 中的应用超过 4,000 个，社区成员超过 400 万。
+**推荐语**：[Atlassian](https://www.atlassian.com/) 是一家澳大利亚软件公司，由 Mike Cannon-Brookes 和 Scott Farquhar 创建于 2002 年（ Jira 1.0 的推出），总部位于悉尼，在美国、英国、荷兰、菲律宾、巴西、日本等地设有分支机构；截止 2023 年 09 月，拥有 7000 名员工，遍布在 13 个国家和地区，客户超过 200000 家，在 Marketplace 中的应用超过 4,000 个，社区成员超过 400 万。
 
 他们主要开发和销售企业级软件，包括团队协作、项目管理、软件开发等领域的产品。其中比较知名的产品有 [Jira](https://www.atlassian.com/zh/software/jira/work-management) 、 [Confluence](https://www.atlassian.com/zh/software/confluence) 、 [Atlas](https://www.atlassian.com/zh/software/atlas) 、 [Trello](https://nicelinks.site/post/5ce69c6746395f0822df9d6b) 等。这些产品可以帮助企业提高工作效率、协作效果和项目管理能力（如果您从事软硬件开发，想必多半有使用过他们提供的产品）。
 
@@ -31,7 +31,7 @@
 
 ![倾城之链 - Lucide | Beautiful & consistent icon toolkit made by the community](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lucide.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lucide](https://nicelinks.site/redirect?url=https://lucide.dev/) ，由社区制作的美观且一致的图标工具包。它是在人们对 [Feather Icons](https://github.com/feathericons/feather) 项目的节制日益不满之后开始的。由于存在超过 300 多个开放问题和超过 100 多个开放 PR，Feather Icons 项目已被放弃。不幸的是，这意味着数百名开发人员和设计师浪费了时间为 Feather Icon 做出贡献，而没有机会接受 PR。Lucide 具有如下功能特征：
+**推荐语**：[Lucide](https://lucide.dev/) ，由社区制作的美观且一致的图标工具包。它是在人们对 [Feather Icons](https://github.com/feathericons/feather) 项目的节制日益不满之后开始的。由于存在超过 300 多个开放问题和超过 100 多个开放 PR，Feather Icons 项目已被放弃。不幸的是，这意味着数百名开发人员和设计师浪费了时间为 Feather Icon 做出贡献，而没有机会接受 PR。Lucide 具有如下功能特征：
 
 ### 轻量级且可扩展
 
@@ -69,7 +69,7 @@ Lucide 在 GitHub 和 Discord 上拥有活跃的社区。
 
 ![倾城之链 - Home Assistant | Open source home automation that puts local control and privacy first](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.home-assistant.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Home Assistant](https://nicelinks.site/redirect?url=https://www.home-assistant.io/) 将本地控制和隐私放在首位的开源家庭 [自动化](https://nicelinks.site/tags/自动化) 。由全球修补匠和 DIY 爱好者社区提供支持。非常适合在 [Raspberry Pi | 树莓派](https://nicelinks.site/tags/树莓派) 或本地服务器上运行。它具有如下功能特征：
+**推荐语**：[Home Assistant](https://www.home-assistant.io/) 将本地控制和隐私放在首位的开源家庭 [自动化](https://nicelinks.site/tags/自动化) 。由全球修补匠和 DIY 爱好者社区提供支持。非常适合在 [Raspberry Pi | 树莓派](https://nicelinks.site/tags/树莓派) 或本地服务器上运行。它具有如下功能特征：
 
 ### 与 1000 多个品牌合作
 
@@ -92,7 +92,7 @@ Home Assistant 集成了一千多种不同的设备和服务。启动后，Home 
 
 ### 您的所有智能家居数据都保留在本地
 
-[Home Assistant](https://nicelinks.site/redirect?url=https://www.home-assistant.io/) 将您的数据保存在本地，无需云。Home Assistant 在本地与您的设备进行通信，如果没有其他选择，则会回退到从云端提取数据。没有数据存储在云端，一切都在本地处理。
+[Home Assistant](https://www.home-assistant.io/) 将您的数据保存在本地，无需云。Home Assistant 在本地与您的设备进行通信，如果没有其他选择，则会回退到从云端提取数据。没有数据存储在云端，一切都在本地处理。
 
 ### 配套移动应用程序
 
@@ -116,13 +116,13 @@ Home Assistant 系统采用模块化方法构建，因此可以轻松实现对�
 
 ![倾城之链 - Tools for better thinking | Untools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/untools.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Untools](https://nicelinks.site/redirect?url=https://untools.co/) 是一个精选的工具集合，可帮助您解决问题、做出决策和理解系统。该网站旨在让用户：发现新的思维工具以及如何使用它们。作者 Adam Amran 是来自 Brno 🇨🇿 的产品设计师；他在官网说明了创建这个网站的初衷：
+**推荐语**：[Untools](https://untools.co/) 是一个精选的工具集合，可帮助您解决问题、做出决策和理解系统。该网站旨在让用户：发现新的思维工具以及如何使用它们。作者 Adam Amran 是来自 Brno 🇨🇿 的产品设计师；他在官网说明了创建这个网站的初衷：
 
 > 作为一名设计师，我因良好的思考而获得报酬。我每天解决问题并做出决定。不久前，我开始考虑有目的地改善我的思维。数字设计工具有很多，但还不够。我找不到一个地方可以很好地概述思维工具。
 >
 > 最终，我发现了很多这样的工具，但分散在网络上。我的目标是构建一系列工具和框架，涵盖问题解决、系统思考或决策等领域。我开始为自己构建它，但我希望它对你们中的许多人有用。
 
-更详尽的介绍， [Untools](https://nicelinks.site/redirect?url=https://untools.co/) 主要提供关于系统思考、决策、解决问题、沟通等方面所涉及的**思维工具**之介绍和使用；如作用于**决策**的 [Eisenhower Matrix 艾森豪威尔矩阵](https://untools.co/eisenhower-matrix) 、着力于**解决问题**的 [First principles | 第一性原理](https://untools.co/first-principles) 、诉诸于**系统思**考的 [Iceberg Model | 冰山模型](https://untools.co/iceberg-model) 、让您**沟通**更加高效、清晰的 [Minto Pyramid 明托金字塔](https://untools.co/minto-pyramid) 等等；如果您想在这些点有所改进，不妨考虑关注、认真阅读、深入思考，勤加使用，相信必有所获。除了思维工具集合之外，Untools 还提供[工具指南](https://untools.co/thinking-tools-guide/)、模版以及应用程序（现处于测试版本）。
+更详尽的介绍， [Untools](https://untools.co/) 主要提供关于系统思考、决策、解决问题、沟通等方面所涉及的**思维工具**之介绍和使用；如作用于**决策**的 [Eisenhower Matrix 艾森豪威尔矩阵](https://untools.co/eisenhower-matrix) 、着力于**解决问题**的 [First principles | 第一性原理](https://untools.co/first-principles) 、诉诸于**系统思**考的 [Iceberg Model | 冰山模型](https://untools.co/iceberg-model) 、让您**沟通**更加高效、清晰的 [Minto Pyramid 明托金字塔](https://untools.co/minto-pyramid) 等等；如果您想在这些点有所改进，不妨考虑关注、认真阅读、深入思考，勤加使用，相信必有所获。除了思维工具集合之外，Untools 还提供[工具指南](https://untools.co/thinking-tools-guide/)、模版以及应用程序（现处于测试版本）。
 
 ── 出自[倾城之链 - Tools for better thinking | Untools](https://nicelinks.site/post/6501a525717dd244bc3e9584)
 
@@ -134,7 +134,7 @@ Home Assistant 系统采用模块化方法构建，因此可以轻松实现对�
 
 ![倾城之链 - Learn C++ – Skill up with our free tutorials](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.learncpp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LearnCpp.com](https://nicelinks.site/redirect?url=https://www.learncpp.com/) 是一个 [免费](https://nicelinks.site/tags/免费) 网站，致力于教您如何使用 `C++` 进行 [编程](https://nicelinks.site/tags/编程) 。无论您之前是否有任何编程经验，此站点上的教程都将引导您完成编写、编译和调试 C++ 程序的所有步骤，所有步骤都带有大量示例。该网站重要目标如下：
+**推荐语**：[LearnCpp.com](https://www.learncpp.com/) 是一个 [免费](https://nicelinks.site/tags/免费) 网站，致力于教您如何使用 `C++` 进行 [编程](https://nicelinks.site/tags/编程) 。无论您之前是否有任何编程经验，此站点上的教程都将引导您完成编写、编译和调试 C++ 程序的所有步骤，所有步骤都带有大量示例。该网站重要目标如下：
 
 - **涵盖编程主题**以及 C++。传统教科书在教授给定编程语言的基础知识方面做得相当不错，但它们通常不涵盖该语言附带的相关编程主题。例如，书籍将省略有关编程风格、常见陷阱、调试、好/坏编程实践和测试的部分。因此，当你读完这本书时，你可能会了解如何用一种语言进行编程，但你也可能养成了坏习惯，这些坏习惯稍后会反过来咬你一口！这些教程的目标之一是确保在自然有意义的讨论部分中涵盖所有这些附带主题。完成后，您不仅会知道如何使用 C++ 进行编程，还会知道如何不使用 C++ 进行编程，这可以说同样重要。
 
@@ -156,7 +156,7 @@ Home Assistant 系统采用模块化方法构建，因此可以轻松实现对�
 
 ![倾城之链 - Oh My Zsh - a delightful & open source framework for Zsh](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ohmyz.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Oh My Zsh](https://nicelinks.site/redirect?url=https://ohmyz.sh/) 🙃 一个令人愉快的社区驱动（拥有 2,100 多个贡献者）框架，用于管理您的 `zsh` 配置。包括 300 多个可选插件（rails、git、macOS、hub、docker、homebrew、node、php、python 等）、150 多个主题让您的早晨更加有趣，还有一个自动更新工具，让您轻松跟上来自社区的最新更新。如果要在您的设备上使用它，需要满足如下条件：
+**推荐语**：[Oh My Zsh](https://ohmyz.sh/) 🙃 一个令人愉快的社区驱动（拥有 2,100 多个贡献者）框架，用于管理您的 `zsh` 配置。包括 300 多个可选插件（rails、git、macOS、hub、docker、homebrew、node、php、python 等）、150 多个主题让您的早晨更加有趣，还有一个自动更新工具，让您轻松跟上来自社区的最新更新。如果要在您的设备上使用它，需要满足如下条件：
 
 ### 先决条件
 
@@ -195,7 +195,7 @@ sh -c“$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/in
 
 ![倾城之链 - AIHub – 免费齐全的 AI 工具箱 | 精选 800+ AI 工具集合网站导航](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aihub.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AIHub](https://nicelinks.site/redirect?url=https://www.aihub.cn/) ，免费齐全的 AI [工具](https://nicelinks.site/tags/工具) 箱，精选国内外 800+ 优质 [AI](https://nicelinks.site/tags/AI) 工具、资源和 [资讯](https://nicelinks.site/tags/资讯) ，包括 AI 绘画工具、AI 写作工具、AI 对话聊天工具、AI 音视频工具、AI 办公工具、AI 游戏制作工具、AI 营销工具等 AI 工具大全。
+**推荐语**：[AIHub](https://www.aihub.cn/) ，免费齐全的 AI [工具](https://nicelinks.site/tags/工具) 箱，精选国内外 800+ 优质 [AI](https://nicelinks.site/tags/AI) 工具、资源和 [资讯](https://nicelinks.site/tags/资讯) ，包括 AI 绘画工具、AI 写作工具、AI 对话聊天工具、AI 音视频工具、AI 办公工具、AI 游戏制作工具、AI 营销工具等 AI 工具大全。
 
 AIHub 的目标就是帮助大家更好地了解和使用 AI 工具，让每一个人轻松使用 AI。不管你是刚刚接触 AI，还是已经有一些基础，想要进一步学习的朋友，AIHub 都希望能为你提供帮助。AIHub 的团队都是一些热爱 AI 和技术的人，每天都在努力更新和维护网站，确保他们提供的信息都是准确和及时的。
 
@@ -209,7 +209,7 @@ AIHub 的目标就是帮助大家更好地了解和使用 AI 工具，让每一�
 
 ![倾城之链 - Topaz Labs: AI Image Quality Software](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.topazlabs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Topaz Labs](https://nicelinks.site/redirect?url=https://www.topazlabs.com/) ，由深度学习驱动的照片和视频增强软件可为您提供最佳图像质量，用于降噪，锐化，升级等。该品牌旗下主要有两款产品： [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) 、 [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) ；Photo AI 旨在利用未来的技术锐化、消除噪点并提高照片的分辨率，它具有如下功能特征：
+**推荐语**： [Topaz Labs](https://www.topazlabs.com/) ，由深度学习驱动的照片和视频增强软件可为您提供最佳图像质量，用于降噪，锐化，升级等。该品牌旗下主要有两款产品： [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai) 、 [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) ；Photo AI 旨在利用未来的技术锐化、消除噪点并提高照片的分辨率，它具有如下功能特征：
 
 - **提升品质**：以最高的质量标准进行锐化和降噪。
 - **提高分辨率**：通过生成真实细节来提升档次。对于面部和文本等困难主题尤其有效。
@@ -241,7 +241,7 @@ Topaz Video AI 还将充分利用您的现代工作站，因为 Topaz 团队直�
 
 ![倾城之链 - DocHub 分享优质文档](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dochub.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DocHub](https://nicelinks.site/redirect?url=https://www.dochub.wiki/) ，您的一站式优质文章和文档 [聚合](https://nicelinks.site/tags/聚合) 站点。它致力于提供一个 [平台](https://nicelinks.site/tags/平台) ，汇集了互联网上各类优秀的文章与 [文档](https://nicelinks.site/tags/文档) ，成为各行各业人士获取知识和信息的重要渠道。无论是业界的最新趋势，还是深度的技术文章，还是实用的教程指南，DocHub 都一网打尽。DocHub 的目标是将知识的力量释放出来，让每一个寻求学习与成长的人都能从中受益。
+**推荐语**：[DocHub](https://www.dochub.wiki/) ，您的一站式优质文章和文档 [聚合](https://nicelinks.site/tags/聚合) 站点。它致力于提供一个 [平台](https://nicelinks.site/tags/平台) ，汇集了互联网上各类优秀的文章与 [文档](https://nicelinks.site/tags/文档) ，成为各行各业人士获取知识和信息的重要渠道。无论是业界的最新趋势，还是深度的技术文章，还是实用的教程指南，DocHub 都一网打尽。DocHub 的目标是将知识的力量释放出来，让每一个寻求学习与成长的人都能从中受益。
 
 DocHub 搜罗了腾讯文档、飞书文档、Notion 等众多平台的公开分享的优质资料，涵盖了技术、商业、艺术、学术等各个领域，构建了一座广博而深厚的知识库。同时，DocHub 欢迎全球的用户提交优质的文章或文档，共享知识，共创价值。
 

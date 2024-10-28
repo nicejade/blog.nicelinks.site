@@ -10,7 +10,7 @@
 
 ![倾城之链 - Pico | 通过简单描述您想要的内容来构建 Web 应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picoapps.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pico](https://nicelinks.site/redirect?url=https://picoapps.xyz/) 是一个基于 GPT4 的“文本到应用程序”平台，允许企业家、顾问和小企业主仅使用简单的英语或任何其他语言构建简单的 Web 应用程序。不再需要与 [无代码](https://nicelinks.site/tags/无代码) 工具和技术术语作斗争，只需描述您的应用程序想法，然后让 Pico 完成剩下的工作。
+**推荐语**：[Pico](https://picoapps.xyz/) 是一个基于 GPT4 的“文本到应用程序”平台，允许企业家、顾问和小企业主仅使用简单的英语或任何其他语言构建简单的 Web 应用程序。不再需要与 [无代码](https://nicelinks.site/tags/无代码) 工具和技术术语作斗争，只需描述您的应用程序想法，然后让 Pico 完成剩下的工作。
 
 ### 您可以使用 Pico 做什么？
 
@@ -49,7 +49,7 @@ Pico 免费试用版允许您生成代码 4 次（可以是一个应用程序或
 
 ![倾城之链 - Knip | ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/knip.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Knip](https://nicelinks.site/redirect?url=https://knip.dev/) ，查找 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [TypeScript](https://nicelinks.site/tags/TypeScript) 项目中**未使用的文件、依赖项和导出**。更少的代码和依赖项可以提高性能、减少维护并简化重构。不正确清理会产生真正的维护成本，Knip 对于清洁代码能够起到了不起的作用。官方有列出 Knip 发挥作用的地方：
+**推荐语**：[Knip](https://knip.dev/) ，查找 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [TypeScript](https://nicelinks.site/tags/TypeScript) 项目中**未使用的文件、依赖项和导出**。更少的代码和依赖项可以提高性能、减少维护并简化重构。不正确清理会产生真正的维护成本，Knip 对于清洁代码能够起到了不起的作用。官方有列出 Knip 发挥作用的地方：
 
 - 查找未使用的文件、依赖项和导出；
 - 查找未列出的已使用依赖项 `package.json`；
@@ -77,7 +77,7 @@ Knip 在小型和大型项目中都表现出色，该团队认为这是保持项
 
 ![倾城之链 - Crawlee · Build reliable crawlers. Fast. | Crawlee](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/crawlee.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Crawlee](https://nicelinks.site/redirect?url=https://crawlee.dev/) 是一个网页抓取和浏览器 [自动化](https://nicelinks.site/tags/自动化) 库，它可以帮助您构建可靠的、快速的爬虫；由那些靠 [爬取](https://nicelinks.site/tags/爬取) 谋生并每天使用它来爬取数百万页的人创建。目前为止，它不会为您修复损坏的选择器，但它可以帮助您更快地构建和维护爬虫。官方列出了 Crawlee 如下功能特性：
+**推荐语**：[Crawlee](https://crawlee.dev/) 是一个网页抓取和浏览器 [自动化](https://nicelinks.site/tags/自动化) 库，它可以帮助您构建可靠的、快速的爬虫；由那些靠 [爬取](https://nicelinks.site/tags/爬取) 谋生并每天使用它来爬取数百万页的人创建。目前为止，它不会为您修复损坏的选择器，但它可以帮助您更快地构建和维护爬虫。官方列出了 Crawlee 如下功能特性：
 
 ### JavaScript 和 TypeScript
 
@@ -115,7 +115,7 @@ Crawlee 包括用于提取社交句柄或电话号码、无限滚动、阻止不
 
 ![倾城之链 - Cal-Heatmap | 一个 JavaScript 图表库，用于创建时间序列日历热图](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cal-heatmap.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cal-Heatmap](https://nicelinks.site/redirect?url=https://cal-heatmap.com/) 是一个 JavaScript [图表](https://nicelinks.site/tags/图表) 库，用于创建时间序列日历热图；该库将帮助您绘制日历热图，例如出现在每个 Github 用户页面上的 Github 贡献日历，但具有更多功能，例如：
+**推荐语**：[Cal-Heatmap](https://cal-heatmap.com/) 是一个 JavaScript [图表](https://nicelinks.site/tags/图表) 库，用于创建时间序列日历热图；该库将帮助您绘制日历热图，例如出现在每个 Github 用户页面上的 Github 贡献日历，但具有更多功能，例如：
 
 - **日期区域设置和时区支持**：自定义日历语言、时区和区域设置特定设置，例如一周的第一天；
 - **动画日期导航**：动态浏览日历，或跳转到特定日期；
@@ -136,7 +136,7 @@ Crawlee 包括用于提取社交句柄或电话号码、无限滚动、阻止不
 
 ![倾城之链 - TinyLetter | Email for people with something to say](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tinyletter.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tinyletter](https://nicelinks.site/redirect?url=https://www.tinyletter.com/) 是 Mailchimp 邮件提供商提供的一项完全免费的个人 Newsletter 服务，人们用它向粉丝和朋友发送更新、摘要和调度。尽管它们构建在相同的基础设施上，但 TinyLetter 适合不需要 Mailchimp 附带的所有业务功能的用户。TinyLetter 是一项完全 [免费](https://nicelinks.site/tags/免费) 的服务。简单是他们在 TinyLetter 所做的一切的核心。您可以通过 TinyLetter 完成如下工作：
+**推荐语**：[Tinyletter](https://www.tinyletter.com/) 是 Mailchimp 邮件提供商提供的一项完全免费的个人 Newsletter 服务，人们用它向粉丝和朋友发送更新、摘要和调度。尽管它们构建在相同的基础设施上，但 TinyLetter 适合不需要 Mailchimp 附带的所有业务功能的用户。TinyLetter 是一项完全 [免费](https://nicelinks.site/tags/免费) 的服务。简单是他们在 TinyLetter 所做的一切的核心。您可以通过 TinyLetter 完成如下工作：
 
 ### 找到你的人
 
@@ -150,7 +150,7 @@ Crawlee 包括用于提取社交句柄或电话号码、无限滚动、阻止不
 
 TinyLetter 为那些不寻求高级报告或企业功能的人们提供干净、直接的书写体验。使用我们的编辑器或直接从您自己的电子邮件客户端发送。而且全部免费。
 
-总之， [Tinyletter](https://nicelinks.site/redirect?url=https://www.tinyletter.com/) 是由 Mailchimp 背后工作人员为您提供的个人新闻通讯服务；通过邮件注册即可使用——向订阅者推送邮件；值得说明的是，Tinyletter 有用量限制，但对于小博主而言一般来讲是够用的；如果您对这款产品感兴趣，不妨移步 [关于 Tinyletter](https://www.tinyletter.com/site/about/) 从而了解更多。
+总之， [Tinyletter](https://www.tinyletter.com/) 是由 Mailchimp 背后工作人员为您提供的个人新闻通讯服务；通过邮件注册即可使用——向订阅者推送邮件；值得说明的是，Tinyletter 有用量限制，但对于小博主而言一般来讲是够用的；如果您对这款产品感兴趣，不妨移步 [关于 Tinyletter](https://www.tinyletter.com/site/about/) 从而了解更多。
 
 ── 出自[倾城之链 - TinyLetter | Email for people with something to say](https://nicelinks.site/post/6559fd2f4282ab674358f7e5)
 

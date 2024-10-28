@@ -10,11 +10,11 @@
 
 ![倾城之链 - CreativeMass 创意导航](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/creativemass.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CreativeMass 创意导航](https://nicelinks.site/redirect?url=https://uidea.tools/)，一个创意导航。精选了全球 300 个最能带来灵感的网站与你共享。这里有营销、艺术、设计领域的最新资讯，也有帮助你实现创意的有趣工具；这里有独特而实用的海量素材，也有带给你意外惊喜和脑洞启发的小众网站。
+**推荐语**：[CreativeMass 创意导航](https://uidea.tools/)，一个创意导航。精选了全球 300 个最能带来灵感的网站与你共享。这里有营销、艺术、设计领域的最新资讯，也有帮助你实现创意的有趣工具；这里有独特而实用的海量素材，也有带给你意外惊喜和脑洞启发的小众网站。
 
-这是一个**属于你的灵感仓库**。你可以带着明确的目标，来这里更高效地获取创意素材；你可以随意遨游，邂逅一个惊艳的创意站点；你可以在这里汲取灵感和学习方法，发掘自己的创意潜能。这也是一个**动态收藏夹**。 其官网写道：[CreativeMass](https://nicelinks.site/redirect?url=https://uidea.tools/) 会不断寻找全球创意灵感，持续丰富和更新，也欢迎你向 [CreativeMass](https://nicelinks.site/redirect?url=https://uidea.tools/) 推荐自己发现的有趣站点。
+这是一个**属于你的灵感仓库**。你可以带着明确的目标，来这里更高效地获取创意素材；你可以随意遨游，邂逅一个惊艳的创意站点；你可以在这里汲取灵感和学习方法，发掘自己的创意潜能。这也是一个**动态收藏夹**。 其官网写道：[CreativeMass](https://uidea.tools/) 会不断寻找全球创意灵感，持续丰富和更新，也欢迎你向 [CreativeMass](https://uidea.tools/) 推荐自己发现的有趣站点。
 
-全球有数 10 亿个网站，当你需要灵感的时候，会打开哪一个？很多时候，我们在数以亿计的内容海洋中苦苦寻觅，还有源源不断的自动推荐，依然得不到那个让人眼前一亮的创意。 在信息极度丰盛的时代，我们的灵感来源依然匮乏。而这也是[CreativeMass 创意导航](https://nicelinks.site/redirect?url=https://uidea.tools/) 得以存在的初衷。
+全球有数 10 亿个网站，当你需要灵感的时候，会打开哪一个？很多时候，我们在数以亿计的内容海洋中苦苦寻觅，还有源源不断的自动推荐，依然得不到那个让人眼前一亮的创意。 在信息极度丰盛的时代，我们的灵感来源依然匮乏。而这也是[CreativeMass 创意导航](https://uidea.tools/) 得以存在的初衷。
 
 ── 出自[倾城之链 - CreativeMass 创意导航](https://nicelinks.site/post/617ac43d42040305e48d444a)
 
@@ -26,7 +26,7 @@
 
 ![倾城之链 - 优书网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.yousuu.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[优书网](https://nicelinks.site/redirect?url=https://www.yousuu.com/)，集小说搜索、追更阅读、读者评分、书单推荐于一体的在线阅读平台。此外，您可以在这里推荐书籍、创建书单、发表书评等等。大致翻阅了下，这里大多内容是玄幻、奇幻、武侠、仙侠等相关内容，无法给予评说，对这块儿内容感兴趣的朋友，可以关注了解下。
+**推荐语**：[优书网](https://www.yousuu.com/)，集小说搜索、追更阅读、读者评分、书单推荐于一体的在线阅读平台。此外，您可以在这里推荐书籍、创建书单、发表书评等等。大致翻阅了下，这里大多内容是玄幻、奇幻、武侠、仙侠等相关内容，无法给予评说，对这块儿内容感兴趣的朋友，可以关注了解下。
 
 ── 出自[倾城之链 - 优书网](https://nicelinks.site/post/61794c516ffe1505d9560261)
 
@@ -40,9 +40,9 @@
 
 ![倾城之链 - CSS Design Awards - Website Awards - Best Web Design Inspiration - CSS Awards](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cssdesignawards.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CSS Design Awards](https://nicelinks.site/redirect?url=https://www.cssdesignawards.com/)，一个网络设计和开发奖励平台，面向数字大众、UI/UX 窥视者和鼓舞人心的网络领导者。[CSS DA](https://nicelinks.site/redirect?url=https://www.cssdesignawards.com/) 成立于 2009 年并于 2010 年推出，是一个国际网页设计和开发奖项平台，旨在表彰和展示自由设计师、工作室和机构，他们的工作突破了 UI、UX 和创新开发的界限。在国际专家评审团的支持下，获奖者将获得官方证书、享有盛誉的奖杯和行业领导者的认可，目前 [CSS DA](https://nicelinks.site/redirect?url=https://www.cssdesignawards.com/) 网站每月有数十万访问。
+**推荐语**：[CSS Design Awards](https://www.cssdesignawards.com/)，一个网络设计和开发奖励平台，面向数字大众、UI/UX 窥视者和鼓舞人心的网络领导者。[CSS DA](https://www.cssdesignawards.com/) 成立于 2009 年并于 2010 年推出，是一个国际网页设计和开发奖项平台，旨在表彰和展示自由设计师、工作室和机构，他们的工作突破了 UI、UX 和创新开发的界限。在国际专家评审团的支持下，获奖者将获得官方证书、享有盛誉的奖杯和行业领导者的认可，目前 [CSS DA](https://www.cssdesignawards.com/) 网站每月有数十万访问。
 
-在 [CSS Design Awards](https://nicelinks.site/redirect?url=https://www.cssdesignawards.com/)，您可以**受到启发，获得灵感**。将你的网站提交给它，有机会获得由 200 多个国际网页设计师和开发人员组成的小组，颁发的每日网站 UI 奖 UX 奖。
+在 [CSS Design Awards](https://www.cssdesignawards.com/)，您可以**受到启发，获得灵感**。将你的网站提交给它，有机会获得由 200 多个国际网页设计师和开发人员组成的小组，颁发的每日网站 UI 奖 UX 奖。
 
 ── 出自[倾城之链 - CSS Design Awards - Website Awards - Best Web Design Inspiration - CSS Awards](https://nicelinks.site/post/617943346ffe1505d956025f)
 
@@ -56,7 +56,7 @@
 
 ![倾城之链 - 24k导航 | 专注全网优质网址、优质资源分享](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.24kdh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[24k 导航](https://nicelinks.site/redirect?url=https://www.24kdh.com/)，专注全网优质网址、优质资源分享；这是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的网站；该网站除了收录了大量各色网站（有 搜索引擎 、推荐公号 、生活休闲、读物学习、影视资源、搜索查询、模板图库、软件工具、媒体运营、便捷工具、设计常用、金融支付、影视制作、音乐 MV、福利网址、导航网址等分类），还提供了**今日热榜**、**职业导航**等。
+**推荐语**：[24k 导航](https://www.24kdh.com/)，专注全网优质网址、优质资源分享；这是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的网站；该网站除了收录了大量各色网站（有 搜索引擎 、推荐公号 、生活休闲、读物学习、影视资源、搜索查询、模板图库、软件工具、媒体运营、便捷工具、设计常用、金融支付、影视制作、音乐 MV、福利网址、导航网址等分类），还提供了**今日热榜**、**职业导航**等。
 
 ── 出自[倾城之链 - 24k 导航 | 专注全网优质网址、优质资源分享](https://nicelinks.site/post/6176a7766ffe1505d956025b)
 
@@ -70,7 +70,7 @@
 
 ![倾城之链 -  电鸭社区 - 远程工作、自由职业、兼职外包，自由从这开始充电站A充电站A](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/eleduck.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[电鸭社区](https://nicelinks.site/redirect?url=https://eleduck.com/)是互联网工作者们的聚集地，他们倡导“只工作，不上班”的生活方式。其前身是 2014 年建立的“一早一晚“社区。该社区作者，骑行辗转各地，一路上经历的人和事，最终让他对`远程工作`有了更深的认识（无论是之于他本人，还是之于其他人）：**远程不是终极奥义，工作与生活，现实与理想的平衡才是。**，具体有涉及以下几点：
+**推荐语**：[电鸭社区](https://eleduck.com/)是互联网工作者们的聚集地，他们倡导“只工作，不上班”的生活方式。其前身是 2014 年建立的“一早一晚“社区。该社区作者，骑行辗转各地，一路上经历的人和事，最终让他对`远程工作`有了更深的认识（无论是之于他本人，还是之于其他人）：**远程不是终极奥义，工作与生活，现实与理想的平衡才是。**，具体有涉及以下几点：
 
 - 不是所有企业，也并非所有个人都适合**远程工作**任何事物都有两面性，远程自然也不例外。关于远程的优劣，已经有太多人分享，我不在此赘述。
 - 远程、兼职、外包、临时雇佣、斜杠青年、共享员工等高自由度的工作方式，都是对朝九晚五主流工作方式的一种良性补充，不可能完全替代，也没必要全盘替代。
@@ -78,7 +78,7 @@
 - 「只工作，不上班」并非“不工作，不上班”，别拿清闲当自由。
 - 为自己内心所要而工作，而不是为应付朝九晚五而上班。
 
-该社区，经历了繁荣到迷茫，沉寂，目前采取**开放共建**的方式，以期让一些有想法、有行动力的人，都有一块自己想要种花种草的地方，并都能从中获利获益。相比于呼喊口号，[电鸭社区](https://nicelinks.site/redirect?url=https://eleduck.com/)主张：**少说废话，多干实事**，以影响企业、帮助企业的方式，尝试推动「远程工作」在国内的发展。如果您也对**远程工作**感兴趣，不妨进一步了解下。
+该社区，经历了繁荣到迷茫，沉寂，目前采取**开放共建**的方式，以期让一些有想法、有行动力的人，都有一块自己想要种花种草的地方，并都能从中获利获益。相比于呼喊口号，[电鸭社区](https://eleduck.com/)主张：**少说废话，多干实事**，以影响企业、帮助企业的方式，尝试推动「远程工作」在国内的发展。如果您也对**远程工作**感兴趣，不妨进一步了解下。
 
 ── 出自[倾城之链 - 电鸭社区 - 远程工作、自由职业、兼职外包，自由从这开始充电站 A 充电站 A](https://nicelinks.site/post/617676f96ffe1505d9560257)
 

@@ -10,7 +10,7 @@
 
 ![倾城之链 - Thinkbuddy - A MacOS Interface of AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/thinkbuddy.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Thinkbuddy](https://nicelinks.site/redirect?url=https://thinkbuddy.ai/) ，适用于 MacOS 的 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，你的 Mac 现在可以与人工智能对话；通过能够倾听、阅读和参与的 AI 来增强您的 [Mac](https://nicelinks.site/tags/Mac) ，提供全天生产力帮助。**完全免费** ，最多 50 条消息；官方团队指出，Thinkbuddy 是  MacOS 用户通往 AI 的门户（Gateway），它可以提供如下功能：
+**推荐语**：[Thinkbuddy](https://thinkbuddy.ai/) ，适用于 MacOS 的 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，你的 Mac 现在可以与人工智能对话；通过能够倾听、阅读和参与的 AI 来增强您的 [Mac](https://nicelinks.site/tags/Mac) ，提供全天生产力帮助。**完全免费** ，最多 50 条消息；官方团队指出，Thinkbuddy 是  MacOS 用户通往 AI 的门户（Gateway），它可以提供如下功能：
 
 - 🗣️ 交谈和输入 — 将语音转换为文本或轻松输入 AI 问题。
 - 🔍 Screenshot AI — 使用 GPT4V 等多模式 LLM 分析屏幕截图。
@@ -35,7 +35,7 @@
 
 ![倾城之链 - 梅赛德斯-奔驰](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mercedes-benz.com.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[梅赛德斯-奔驰](https://nicelinks.site/redirect?url=https://www.mercedes-benz.com.cn/) （Méisài dé sī - bēnchí 此为中国大陆译法，原名：`Mercedes-Benz`）是一家世界知名的德国汽车制造商，成立于 1926 年，总部位于斯图加特。它是戴姆勒股份公司（Daimler AG）的子公司，是全球最著名和最受尊敬的豪华汽车品牌之一。以下是对梅赛德斯-奔驰公司的详细介绍：
+**推荐语**：[梅赛德斯-奔驰](https://www.mercedes-benz.com.cn/) （Méisài dé sī - bēnchí 此为中国大陆译法，原名：`Mercedes-Benz`）是一家世界知名的德国汽车制造商，成立于 1926 年，总部位于斯图加特。它是戴姆勒股份公司（Daimler AG）的子公司，是全球最著名和最受尊敬的豪华汽车品牌之一。以下是对梅赛德斯-奔驰公司的详细介绍：
 
 ### 发展历史
 
@@ -83,7 +83,7 @@
 
 ![倾城之链 - Chris Georgenes - Keyframer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/keyframer.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Keyframer](https://nicelinks.site/redirect?url=https://keyframer.com/) 是一个承载 [动画](https://nicelinks.site/tags/动画) 相关的网站（以 YouTuBe 视频方式呈现）；作者是 Chris Georgenes，他是位经验丰富的动画师、公共演讲者和教育家，创作艺术、动画、音乐、摄影、教程。Chris Georgenes 拥有哈特福德艺术学院的版画和插画学位，担任动画师已有 20 多年，为各种客户创造了令人惊叹的视觉效果。除了动画工作之外，他还成为一名炙手可热的演讲者和教师，并多次在会议和研讨会上发表演讲，帮助学生和专业人士学习 Adob​​e 软件的基础知识。
+**推荐语**：[Keyframer](https://keyframer.com/) 是一个承载 [动画](https://nicelinks.site/tags/动画) 相关的网站（以 YouTuBe 视频方式呈现）；作者是 Chris Georgenes，他是位经验丰富的动画师、公共演讲者和教育家，创作艺术、动画、音乐、摄影、教程。Chris Georgenes 拥有哈特福德艺术学院的版画和插画学位，担任动画师已有 20 多年，为各种客户创造了令人惊叹的视觉效果。除了动画工作之外，他还成为一名炙手可热的演讲者和教师，并多次在会议和研讨会上发表演讲，帮助学生和专业人士学习 Adob​​e 软件的基础知识。
 
 ── 出自[倾城之链 - Chris Georgenes - Keyframer](https://nicelinks.site/post/65df4854a970fb4def8ba9c5)
 
@@ -95,7 +95,7 @@
 
 ![倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/twikoo.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Twikoo](https://nicelinks.site/redirect?url=https://twikoo.js.org/) ，一个**简洁**、**安全**、**免费**的静态网站 [评论系统](https://nicelinks.site/tags/评论系统) ，官方给出更详尽的描述：
+**推荐语**：[Twikoo](https://twikoo.js.org/) ，一个**简洁**、**安全**、**免费**的静态网站 [评论系统](https://nicelinks.site/tags/评论系统) ，官方给出更详尽的描述：
 
 ### 🚀 简单
 
@@ -143,7 +143,7 @@
 - 支持隐藏管理入口，通过输入暗号显示；
 - 支持从 Valine、Artalk、Disqus 导入评论；
 
-关于评论系统，有使用的蛮多产品；如 [Waline](https://nicelinks.site/post/61e6e0783bc516243751509b) 、Disqus 等； [Twikoo](https://nicelinks.site/redirect?url=https://twikoo.js.org/) 功能则更为丰富，值得部署尝试。如果您对这款评论系统感兴趣，可移步至 [Twikoo 在 Github 开源仓库](https://github.com/twikoojs/twikoo) ，从而了解更多。
+关于评论系统，有使用的蛮多产品；如 [Waline](https://nicelinks.site/post/61e6e0783bc516243751509b) 、Disqus 等； [Twikoo](https://twikoo.js.org/) 功能则更为丰富，值得部署尝试。如果您对这款评论系统感兴趣，可移步至 [Twikoo 在 Github 开源仓库](https://github.com/twikoojs/twikoo) ，从而了解更多。
 
 ── 出自[倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://nicelinks.site/post/65dc9599f4e2d519ef5cc9cf)
 
@@ -157,9 +157,9 @@
 
 ![倾城之链 - AsPoem | 现代化中国诗词学习网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aspoem.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[aspoem.com](https://nicelinks.site/redirect?url=https://aspoem.com/) ：一个面很爽干净、现代化、 [开源](https://nicelinks.site/tags/开源) 的中国诗词学习、展示网站；它提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅。
+**推荐语**：[aspoem.com](https://aspoem.com/) ：一个面很爽干净、现代化、 [开源](https://nicelinks.site/tags/开源) 的中国诗词学习、展示网站；它提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅。
 
-[aspoem.com](https://nicelinks.site/redirect?url=https://aspoem.com/) 基于 [prisma](https://nicelinks.site/post/64531bfdc6f2367a83e863ff) 、 [nextjs](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 、 [PostgreSQL](https://nicelinks.site/post/6427c63b2d6c9c63445ca2d8) + [supabase](https://nicelinks.site/post/648708956cb99b599be080bb) 、twikoo 等技术栈所构建，如果您对其感兴趣，可移步至 [aspoem.com 在 Github 开源仓库](https://github.com/meetqy/aspoem) ，从而了解更多。
+[aspoem.com](https://aspoem.com/) 基于 [prisma](https://nicelinks.site/post/64531bfdc6f2367a83e863ff) 、 [nextjs](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 、 [PostgreSQL](https://nicelinks.site/post/6427c63b2d6c9c63445ca2d8) + [supabase](https://nicelinks.site/post/648708956cb99b599be080bb) 、twikoo 等技术栈所构建，如果您对其感兴趣，可移步至 [aspoem.com 在 Github 开源仓库](https://github.com/meetqy/aspoem) ，从而了解更多。
 
 ── 出自[倾城之链 - AsPoem | 现代化中国诗词学习网站](https://nicelinks.site/post/65dc7e2ff4e2d519ef5cc990)
 
@@ -171,7 +171,7 @@
 
 ![倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/starlight.astro.build.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Starlight](https://nicelinks.site/redirect?url=https://starlight.astro.build/) ：🌟 使用 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 构建美观、可访问、高性能的文档网站；使用它，可以让您的文档闪耀星光（Shine with Starlight），构建一流文档网站所需的一切。快速、方便且易于使用。官方有给出如下功能特征：
+**推荐语**：[Starlight](https://starlight.astro.build/) ：🌟 使用 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 构建美观、可访问、高性能的文档网站；使用它，可以让您的文档闪耀星光（Shine with Starlight），构建一流文档网站所需的一切。快速、方便且易于使用。官方有给出如下功能特征：
 
 ### 令人高兴的文档
 
@@ -189,7 +189,7 @@
 
 Starlight 作为一个与框架无关的完整文档解决方案提供。使用 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a) 等进行扩展。
 
-总之， [Starlight](https://nicelinks.site/redirect?url=https://starlight.astro.build/) 是一个构建在 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 框架之上的全功能文档主题；使用它，可以快速为您搭建体验良好的在线文档（操作简单、界面美观、功能齐全、速度超快），而且您还可以基于您喜欢的框架来加以扩展。在`倾城`收录的多个 [网站生成器](https://nicelinks.site/tags/网站生成器) （静态）中，当属 Starlight 最令人满意。如果您对其感兴趣，不妨移步至 [Starlight 在 Github 开源仓库](https://github.com/withastro/starlight) ，从而了解更多。
+总之， [Starlight](https://starlight.astro.build/) 是一个构建在 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 框架之上的全功能文档主题；使用它，可以快速为您搭建体验良好的在线文档（操作简单、界面美观、功能齐全、速度超快），而且您还可以基于您喜欢的框架来加以扩展。在`倾城`收录的多个 [网站生成器](https://nicelinks.site/tags/网站生成器) （静态）中，当属 Starlight 最令人满意。如果您对其感兴趣，不妨移步至 [Starlight 在 Github 开源仓库](https://github.com/withastro/starlight) ，从而了解更多。
 
 ── 出自[倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://nicelinks.site/post/65db0fd9f4e2d519ef5cc1ec)
 
@@ -201,7 +201,7 @@ Starlight 作为一个与框架无关的完整文档解决方案提供。使用 
 
 ![倾城之链 - Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/beta.character.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Character.ai](https://nicelinks.site/redirect?url=https://beta.character.ai/) 是一款基于神经语言模型的在线聊天机器人，可以生成类似人类的文本响应并参与上下文对话。该 Beta 模型由 Google LaMDA 的前开发者 Noam Shazeer 和 Daniel De Freitas 构建，于 2022 年 9 月向公众开放。用户可以创建「角色」，塑造他们的「个性」，设置特定参数，然后发布到社区供其他人聊天。
+**推荐语**：[Character.ai](https://beta.character.ai/) 是一款基于神经语言模型的在线聊天机器人，可以生成类似人类的文本响应并参与上下文对话。该 Beta 模型由 Google LaMDA 的前开发者 Noam Shazeer 和 Daniel De Freitas 构建，于 2022 年 9 月向公众开放。用户可以创建「角色」，塑造他们的「个性」，设置特定参数，然后发布到社区供其他人聊天。
 
 许多角色可能基于虚构的媒体资源或名人，而其他角色则完全是原创的，有些角色的制作是为了特定的目标，例如协助创意写作或成为基于文本的冒险游戏。用户可以与单个角色联系或组织包含多个角色的群聊，这些角色可以同时与彼此或用户交谈。
 
@@ -215,9 +215,9 @@ Starlight 作为一个与框架无关的完整文档解决方案提供。使用 
 > Me：What advice would you give to the young people of China who are about to turn 33 years old, in terms of studies, career and life.  
 > **Elon Musk**：My advice would be as follows. Never stop reading and learning. Make your time count. Be bold and take risks. Take ownership of your own life. You control your destiny, not someone else. Dream big and never give up.
 
-2023 年 3 月， [Character.ai](https://nicelinks.site/redirect?url=https://beta.character.ai/) 完成了一笔 1.5 亿美元的融资，估值达到 10 亿美元，由 a16z 领投。这笔融资将用于扩展其计算能力，提高模型的精度和推理能力，并加强公司团队的规模和技术能力。据报道，Character.AI 还计划探索加密和社交音频市场，这些都是 a16z 非常看重的领域。
+2023 年 3 月， [Character.ai](https://beta.character.ai/) 完成了一笔 1.5 亿美元的融资，估值达到 10 亿美元，由 a16z 领投。这笔融资将用于扩展其计算能力，提高模型的精度和推理能力，并加强公司团队的规模和技术能力。据报道，Character.AI 还计划探索加密和社交音频市场，这些都是 a16z 非常看重的领域。
 
-总之， [Character.ai](https://nicelinks.site/redirect?url=https://beta.character.ai/) 是一款神经语言模型聊天机器人网络应用程序。利用该程序，用户可以创建“虚拟人物”，精心设计他们的“个性”，设置特定的参数，然后将他们发布到社区，供其他人聊天。许多角色可能是基于虚构人物或名人，另些角色完全原创；有些是为了某些目的而制作的，如协助写作或成为一个基于文本的冒险游戏。用户可以与一个虚拟角色聊天，或组织包含多个虚拟角色的讨论组并同时与虚拟角色或其他用户聊天。
+总之， [Character.ai](https://beta.character.ai/) 是一款神经语言模型聊天机器人网络应用程序。利用该程序，用户可以创建“虚拟人物”，精心设计他们的“个性”，设置特定的参数，然后将他们发布到社区，供其他人聊天。许多角色可能是基于虚构人物或名人，另些角色完全原创；有些是为了某些目的而制作的，如协助写作或成为一个基于文本的冒险游戏。用户可以与一个虚拟角色聊天，或组织包含多个虚拟角色的讨论组并同时与虚拟角色或其他用户聊天。
 
 ── 出自[倾城之链 - Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://nicelinks.site/post/65db0d4cf4e2d519ef5cc11c)
 

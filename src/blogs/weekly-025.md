@@ -12,7 +12,7 @@
 
 ![倾城之链 - Picmaker - Fast, Free and Easy Online Graphic Design Software](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.picmaker.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/)，快速、免费和简单的在线图形设计软件（具有 10k+ 模板的直观图形设计工具）；官方称之为：**世界上创造设计的最快方法**，使用 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 的在线图形设计软件，可创建令人惊叹的设计。无论是广告、演示文稿、模版还是社交帖子 ，如果您需要设计灵感，即可使用 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 。[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 基于 AI 的 MAD 按钮。可在几分钟内为您提供独特的设计组合。
+**推荐语**：[Picmaker](https://www.picmaker.com/)，快速、免费和简单的在线图形设计软件（具有 10k+ 模板的直观图形设计工具）；官方称之为：**世界上创造设计的最快方法**，使用 [Picmaker](https://www.picmaker.com/) 的在线图形设计软件，可创建令人惊叹的设计。无论是广告、演示文稿、模版还是社交帖子 ，如果您需要设计灵感，即可使用 [Picmaker](https://www.picmaker.com/) 。[Picmaker](https://www.picmaker.com/) 基于 AI 的 MAD 按钮。可在几分钟内为您提供独特的设计组合。
 想到的，我们都有。
 
 相比其他产品，具有以下优势：
@@ -21,16 +21,16 @@
 - 能够访问 1 亿张高质量图片和图标，让您的设计栩栩如生；
 - 无限制访问一百万张高质量图片，让您的设计看起来像专业人士；
 - 与您的朋友和同事分享您的设计。输入他们的电子邮件 ID，他们会立即看到您的精彩作品；
-- 将您的品牌徽标、颜色、图片带入 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/)，并拖放到画板上，然后就可以毫不费力地开始；
-- 防止丢失，[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 安全地存储您的设计，以便您可以在需要时访问它们；
+- 将您的品牌徽标、颜色、图片带入 [Picmaker](https://www.picmaker.com/)，并拖放到画板上，然后就可以毫不费力地开始；
+- 防止丢失，[Picmaker](https://www.picmaker.com/) 安全地存储您的设计，以便您可以在需要时访问它们；
 
-使用 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 在线图形编辑器非常简单，只需 3 个简单的步骤即可：
+使用 [Picmaker](https://www.picmaker.com/) 在线图形编辑器非常简单，只需 3 个简单的步骤即可：
 
-1. **选择模板**：从 [Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 庞大的库中选择一个模板。或者，从自定义文件开始；
+1. **选择模板**：从 [Picmaker](https://www.picmaker.com/) 庞大的库中选择一个模板。或者，从自定义文件开始；
 2. **添加你的技巧**：加入这些颜色、动画、图标和贴纸，让您的图形设计变得流行；
 3. **在几秒钟内发送**：以您喜欢的格式下载您出色的图形设计 - PDF、PNG、JPG，或立即分享。
 
-[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/)，是适用于业余爱好者、专业人士以及介于两者之间的所有人的免费图形设计模板；使用 Picmaker 的 10,000 多个独特图形设计模板库，可用来创建适合任何场合的设计。即将推出的产品、您宠物的生日、学校作业或当地社区活动，值得期待。相比国内很多打着免费旗号，设计完成需要导出时，却添加水印、缩小尺寸，以逼购买 VIP，[Picmaker](https://nicelinks.site/redirect?url=https://www.picmaker.com/) 真业界良心。
+[Picmaker](https://www.picmaker.com/)，是适用于业余爱好者、专业人士以及介于两者之间的所有人的免费图形设计模板；使用 Picmaker 的 10,000 多个独特图形设计模板库，可用来创建适合任何场合的设计。即将推出的产品、您宠物的生日、学校作业或当地社区活动，值得期待。相比国内很多打着免费旗号，设计完成需要导出时，却添加水印、缩小尺寸，以逼购买 VIP，[Picmaker](https://www.picmaker.com/) 真业界良心。
 
 ── 出自[倾城之链 - Picmaker - Fast, Free and Easy Online Graphic Design Software](https://nicelinks.site/post/610be1120a95a5064dc05e44)
 
@@ -44,7 +44,7 @@
 
 ![倾城之链 - Create beautiful SVG backgrounds for your UI designs.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wickedbackgrounds.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wicked Backgrounds](https://nicelinks.site/redirect?url=https://wickedbackgrounds.com/) 是一个免费的网络应用程序（波浪背景图片生成器），用于生成可用于设计的漂亮波浪渐变。您只需单击一下，即可创造拥有美丽的背景波浪图片；它**完全可定制**，您可以为您的背景设计选择所需的波浪数、波浪的角度、颜色和颜色模式以在渐变和颜色旋转之间进行选择。它所带来的价值：你可以将生成的图片，运用在自己的网站，通过 Wicked（邪恶的）背景设计吸引访问者的注意力，从而降低您的网站跳出率。
+**推荐语**：[Wicked Backgrounds](https://wickedbackgrounds.com/) 是一个免费的网络应用程序（波浪背景图片生成器），用于生成可用于设计的漂亮波浪渐变。您只需单击一下，即可创造拥有美丽的背景波浪图片；它**完全可定制**，您可以为您的背景设计选择所需的波浪数、波浪的角度、颜色和颜色模式以在渐变和颜色旋转之间进行选择。它所带来的价值：你可以将生成的图片，运用在自己的网站，通过 Wicked（邪恶的）背景设计吸引访问者的注意力，从而降低您的网站跳出率。
 
 ── 出自[倾城之链 - Create beautiful SVG backgrounds for your UI designs.](https://nicelinks.site/post/61093d560a95a5064dc05e42)
 
@@ -58,7 +58,7 @@
 
 ![倾城之链 - 快懂百科 - 来这里，认识世界！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.baike.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[快懂百科](https://nicelinks.site/redirect?url=https://www.baike.com/)，今日头条旗下中文网络百科全书，其 Slogan 为“来这里，认识世界”。2020 年 4 月 20 日消息，字节跳动现已上线“头条百科”网页产品。2021 年 3 月 9 日，头条百科更名为**快懂百科**，截止目前（2021 年 8 月），仍处于 Beta 版本。当下已经收录部分内容，但相当不完善；有尝试将[倾城之链](https://nicelinks.site/)提交，修改 3 次，仍未审核通过；希望未来可以不断完善。
+**推荐语**：[快懂百科](https://www.baike.com/)，今日头条旗下中文网络百科全书，其 Slogan 为“来这里，认识世界”。2020 年 4 月 20 日消息，字节跳动现已上线“头条百科”网页产品。2021 年 3 月 9 日，头条百科更名为**快懂百科**，截止目前（2021 年 8 月），仍处于 Beta 版本。当下已经收录部分内容，但相当不完善；有尝试将[倾城之链](https://nicelinks.site/)提交，修改 3 次，仍未审核通过；希望未来可以不断完善。
 
 ── 出自[倾城之链 - 快懂百科 - 来这里，认识世界！](https://nicelinks.site/post/610935050a95a5064dc05e40)
 
@@ -72,7 +72,7 @@
 
 ![倾城之链 - 微信广告](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ad.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[微信广告](https://nicelinks.site/redirect?url=https://ad.weixin.qq.com/)是微信出品的广告类子网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建），分为产品介绍、优秀案例、流量变现、最新动态、帮助中心等模块，对朋友圈广告、微信公众号广告、小程序广告，都有介绍（投放指南，接入指南、广告形态、审核规范）；针对公众号创作者、小程序开发者、小游戏开发者、视频号创作者，都可以起到参考作用；如果您有更多问题，可以参见[微信广告帮助中心](https://ad.weixin.qq.com/guide)。
+**推荐语**：[微信广告](https://ad.weixin.qq.com/)是微信出品的广告类子网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建），分为产品介绍、优秀案例、流量变现、最新动态、帮助中心等模块，对朋友圈广告、微信公众号广告、小程序广告，都有介绍（投放指南，接入指南、广告形态、审核规范）；针对公众号创作者、小程序开发者、小游戏开发者、视频号创作者，都可以起到参考作用；如果您有更多问题，可以参见[微信广告帮助中心](https://ad.weixin.qq.com/guide)。
 
 ── 出自[倾城之链 - 微信广告](https://nicelinks.site/post/61092bd88c195005d758ab8b)
 

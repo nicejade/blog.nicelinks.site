@@ -10,7 +10,7 @@
 
 ![倾城之链 - Gamma ｜ Write like a doc, present like a deck](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gamma.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gamma](https://nicelinks.site/redirect?url=https://gamma.app/)（伽马）， 是幻灯片（[PPT](https://nicelinks.site/tags/PPT)）的替代品，支持以一种快速、简单的方式来分享和展示您的作品。他创建易于现场讨论或异步共享的引人入胜的演示文稿、备忘录、简报和文档。全部在您的浏览器中，无需下载或安装。它具有以下功能特征：
+**推荐语**：[Gamma](https://gamma.app/)（伽马）， 是幻灯片（[PPT](https://nicelinks.site/tags/PPT)）的替代品，支持以一种快速、简单的方式来分享和展示您的作品。他创建易于现场讨论或异步共享的引人入胜的演示文稿、备忘录、简报和文档。全部在您的浏览器中，无需下载或安装。它具有以下功能特征：
 
 ### 专注于内容，而不是格式
 
@@ -43,7 +43,7 @@ Gamma 便于表达你的观点；它使用嵌套卡片的方式，以便听众�
 >
 > 免费使用。没有试用期。只需创建您的账户并开始构建。
 
-Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。比[幻灯片（PPT）](https://nicelinks.site/tags/PPT)更具协作性。比视频更具互动性。值得一提的是，它免费可用。如果您厌倦了 Powerpoint 那种原始的笨拙方式，并且「条件允许的话」，不妨大胆尝试下类似 Gamma 这种新的分享方式。同类型产品还有：[SliDev](https://nicelinks.site/redirect?url=https://sli.dev/)、[Beautiful.ai](https://nicelinks.site/post/5d64acd1d95e0a5c61b4b84e)、[Ludus](https://nicelinks.site/redirect?url=https://ludus.one/) 等。
+Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。比[幻灯片（PPT）](https://nicelinks.site/tags/PPT)更具协作性。比视频更具互动性。值得一提的是，它免费可用。如果您厌倦了 Powerpoint 那种原始的笨拙方式，并且「条件允许的话」，不妨大胆尝试下类似 Gamma 这种新的分享方式。同类型产品还有：[SliDev](https://sli.dev/)、[Beautiful.ai](https://nicelinks.site/post/5d64acd1d95e0a5c61b4b84e)、[Ludus](https://ludus.one/) 等。
 
 ── 出自[倾城之链 - Gamma ｜ Write like a doc, present like a deck](https://nicelinks.site/post/6307638fd3028e784afedaef)
 
@@ -55,7 +55,7 @@ Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。
 
 ![倾城之链 - Xnapper – Take beautiful screenshots instantly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/xnapper.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Xnapper](https://nicelinks.site/redirect?url=https://xnapper.com/) ，一款原生的 macOS 应用程序，立刻就能拍出漂亮的、可供分享的屏幕截图（抓拍 → 预览 → 分享）。它具有非常多值得称赞的优点：
+**推荐语**：[Xnapper](https://xnapper.com/) ，一款原生的 macOS 应用程序，立刻就能拍出漂亮的、可供分享的屏幕截图（抓拍 → 预览 → 分享）。它具有非常多值得称赞的优点：
 
 - 使用极其方便、快捷；**2 秒**，即可获得精美截图；
 - 自动的平衡，使得截图的主体内容完美居中（C 位）；
@@ -63,7 +63,7 @@ Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。
 - 自动的屏蔽敏感的信息，单击一下，即可隐藏；
 - 容易地选择和**复制文本**（内置 macOS 视觉引擎提供支持）；
 
-除此之外，截图应用程序应该具备的，[Xnapper](https://nicelinks.site/redirect?url=https://xnapper.com/) 同样拥有：
+除此之外，截图应用程序应该具备的，[Xnapper](https://xnapper.com/) 同样拥有：
 
 - 自定义全局快捷方式；
 - 自定义背景渐变/图像；
@@ -76,7 +76,7 @@ Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。
 - 快速的设备文本识别；
 - 美丽而快速的原生 macOS 应用程序；
 
-其他诸如像「上传到云端」等功能，将在后续版本提供。值得一提的是， Xnapper 支持  iPhone/iPad，无论您走到哪里，都可以看到精美的屏幕截图。[Xnapper](https://nicelinks.site/redirect?url=https://xnapper.com/) 在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 一经发布，便得到千余 UPVOTE（赞成），其被欢迎程度，可见一斑。有下载亲测，确实比之前所用的截图软件要好用（尤其是自动平衡等功能）。只不过，它虽然免费可用；但需要付费购买，才能去除品牌水印。
+其他诸如像「上传到云端」等功能，将在后续版本提供。值得一提的是， Xnapper 支持  iPhone/iPad，无论您走到哪里，都可以看到精美的屏幕截图。[Xnapper](https://xnapper.com/) 在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 一经发布，便得到千余 UPVOTE（赞成），其被欢迎程度，可见一斑。有下载亲测，确实比之前所用的截图软件要好用（尤其是自动平衡等功能）。只不过，它虽然免费可用；但需要付费购买，才能去除品牌水印。
 
 ── 出自[倾城之链 - Xnapper – Take beautiful screenshots instantly](https://nicelinks.site/post/63060e34d3028e784afedaed)
 
@@ -88,7 +88,7 @@ Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。
 
 ![倾城之链 - Headless UI - Unstyled, fully accessible UI components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/headlessui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Headless UI](https://nicelinks.site/redirect?url=https://headlessui.com/)，是一组完全无样式、完全可访问的 UI 组件，旨在与 [Tailwind](https://nicelinks.site/tags/Tailwind) CSS 完美集成。该项目开源（16K+ Star）、免费可用，支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架；截止目前，提供有下拉菜单、列表框（选择）、组合框（自动完成）、开关（Switch 切换）、对话框（模态）、弹出框、标签等十个组件，非常漂亮，且易于使用。如果您喜欢基于 Tailwind CSS 为前端项目编写样式，[Headless UI](https://nicelinks.site/redirect?url=https://headlessui.com/) 是非常值得学习和使用的项目。如果您想了解更多，可移步至 [Tailwind Labs](https://github.com/tailwindlabs)。
+**推荐语**：[Headless UI](https://headlessui.com/)，是一组完全无样式、完全可访问的 UI 组件，旨在与 [Tailwind](https://nicelinks.site/tags/Tailwind) CSS 完美集成。该项目开源（16K+ Star）、免费可用，支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架；截止目前，提供有下拉菜单、列表框（选择）、组合框（自动完成）、开关（Switch 切换）、对话框（模态）、弹出框、标签等十个组件，非常漂亮，且易于使用。如果您喜欢基于 Tailwind CSS 为前端项目编写样式，[Headless UI](https://headlessui.com/) 是非常值得学习和使用的项目。如果您想了解更多，可移步至 [Tailwind Labs](https://github.com/tailwindlabs)。
 
 ── 出自[倾城之链 - Headless UI - Unstyled, fully accessible UI components](https://nicelinks.site/post/6304b2d3d3028e784afedaeb)
 

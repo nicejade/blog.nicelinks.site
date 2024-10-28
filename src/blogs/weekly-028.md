@@ -12,7 +12,7 @@
 
 ![倾城之链 - Animista - CSS Animations on Demand](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/animista.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Animista](https://nicelinks.site/redirect?url=https://animista.net/) 是一个 CSS 动画库（工具），在这里你可以玩到一系列现成的 CSS 动画，并且只下载那些你会用到的动画。它的使用方式非常简单，您可以根据自己需要，找到喜欢的动画样式，用提供的丰富选项，做下微调，满意之后，即可生成代码，一键拷贝加以使用。值得一提的是，[Animista](https://nicelinks.site/redirect?url=https://animista.net/) 所涉及的动画类型有：基础、入口、退出、文本、注意力、背景等，而动画方式，更是丰富多彩；这对前端开发工程师，具有非常高使用价值。
+**推荐语**：[Animista](https://animista.net/) 是一个 CSS 动画库（工具），在这里你可以玩到一系列现成的 CSS 动画，并且只下载那些你会用到的动画。它的使用方式非常简单，您可以根据自己需要，找到喜欢的动画样式，用提供的丰富选项，做下微调，满意之后，即可生成代码，一键拷贝加以使用。值得一提的是，[Animista](https://animista.net/) 所涉及的动画类型有：基础、入口、退出、文本、注意力、背景等，而动画方式，更是丰富多彩；这对前端开发工程师，具有非常高使用价值。
 
 ── 出自[倾城之链 - Animista - CSS Animations on Demand](https://nicelinks.site/post/6127953eb05045064259069a)
 
@@ -26,14 +26,14 @@
 
 ![倾城之链 - Mimo: Learn how to code on your phone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getmimo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/)，一款可以在手机端学习编码的应用程序；让编码既简单又有趣，且能**随时随地**进行；您可以在 [Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 学习多种不同编码语言，另外，她那简洁而漂亮的界面，会让您的学习过程轻松而愉悦（因为是英文，还能借此机会，增强英语阅读能力）。试用之下，还发现 [Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 还对编码能力不同程度的人，做了定制化课程设计。有媒体评价道：“通过这种方式，只要有几分钟的碎片化时间，您就可以学习将编码融入您的日常生活“。除了以上这些，[Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 还有以下几个特征：
+**推荐语**：[Mimo](https://getmimo.com/)，一款可以在手机端学习编码的应用程序；让编码既简单又有趣，且能**随时随地**进行；您可以在 [Mimo](https://getmimo.com/) 学习多种不同编码语言，另外，她那简洁而漂亮的界面，会让您的学习过程轻松而愉悦（因为是英文，还能借此机会，增强英语阅读能力）。试用之下，还发现 [Mimo](https://getmimo.com/) 还对编码能力不同程度的人，做了定制化课程设计。有媒体评价道：“通过这种方式，只要有几分钟的碎片化时间，您就可以学习将编码融入您的日常生活“。除了以上这些，[Mimo](https://getmimo.com/) 还有以下几个特征：
 
 - 使用真实代码和即时反馈，完成一个基础语法的练习；
 - 可在代码游乐场，编写和运行代码，并保存您的项目；
 - 支持设定每日目标，并保持连续写代码的习惯；
 - 几天之内，您将能够构建令人兴奋的实际项目并与您的朋友分享；
 
-对一刀切的方法，和建立技术技能的陡峭学习曲线感到沮丧，因而 [Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 被创造出来。坦白讲，拥有编码技能，有助于您提升工作效率（与计算机相关）；懂得编程思维，则能让您对工作和生活，有更加清晰的规划和应对。倘若您想通过自学来掌握编码相关技能，[Mimo](https://nicelinks.site/redirect?url=https://getmimo.com/) 是值得信赖的选择。
+对一刀切的方法，和建立技术技能的陡峭学习曲线感到沮丧，因而 [Mimo](https://getmimo.com/) 被创造出来。坦白讲，拥有编码技能，有助于您提升工作效率（与计算机相关）；懂得编程思维，则能让您对工作和生活，有更加清晰的规划和应对。倘若您想通过自学来掌握编码相关技能，[Mimo](https://getmimo.com/) 是值得信赖的选择。
 
 ── 出自[倾城之链 - Mimo: Learn how to code on your phone](https://nicelinks.site/post/61278b42b050450642590698)
 
@@ -45,9 +45,9 @@
 
 ![倾城之链 - Informant for macOSInformant for macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/informant-app.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/)，是针对 MacOS 的免费应用程序，只需单击一下即可检查 MacOS 上的文件；如果您需要有关文件的更多详细信息，只需单击菜单栏中的 Informant 即可打开详细信息面板。作者开发 [Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 的初衷，是因为厌倦了一直按 `⌘ + i`；[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 它监视点击次数和箭头键，以跟踪当前选定的文件。您可以在菜单栏或面板检查器中，找到的所有元数据。
+**推荐语**：[Informant](https://informant-app.com/)，是针对 MacOS 的免费应用程序，只需单击一下即可检查 MacOS 上的文件；如果您需要有关文件的更多详细信息，只需单击菜单栏中的 Informant 即可打开详细信息面板。作者开发 [Informant](https://informant-app.com/) 的初衷，是因为厌倦了一直按 `⌘ + i`；[Informant](https://informant-app.com/) 它监视点击次数和箭头键，以跟踪当前选定的文件。您可以在菜单栏或面板检查器中，找到的所有元数据。
 
-对个人而言，[Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 蛮有价值的应用程序，MacOS 上的 Finder（访达），固然已经对文件的元数据，做了清晰的展示；但，所展示内容毕竟有限；另外，它并未对文件夹 📁 起作用；对于习惯用命令行的用户，可以使用 `du`、`ls` 等命令，来获取文件信息，但这在 Finder 上并不方便；这就使得 [Informant](https://nicelinks.site/redirect?url=https://informant-app.com/) 在某些场景下发挥作用。值得一提的是，您可以自定义菜单栏和面板，以显示对您很重要的信息。
+对个人而言，[Informant](https://informant-app.com/) 蛮有价值的应用程序，MacOS 上的 Finder（访达），固然已经对文件的元数据，做了清晰的展示；但，所展示内容毕竟有限；另外，它并未对文件夹 📁 起作用；对于习惯用命令行的用户，可以使用 `du`、`ls` 等命令，来获取文件信息，但这在 Finder 上并不方便；这就使得 [Informant](https://informant-app.com/) 在某些场景下发挥作用。值得一提的是，您可以自定义菜单栏和面板，以显示对您很重要的信息。
 
 ── 出自[倾城之链 - Informant for macOSInformant for macOS](https://nicelinks.site/post/61263d91b050450642590696)
 
@@ -59,7 +59,7 @@
 
 ![倾城之链 - Marp: Markdown Presentation Ecosystem](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/marp.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Marp](https://nicelinks.site/redirect?url=https://marp.app/)，基于 Markdown 构建幻灯片（PPT、演示文稿）的工具（Markdown Presentation Ecosystem 缩写）；您可以基于它，直观而轻松地创建漂亮的幻灯片；您只需专注于内容的创作，而无须操心排版。[Marp](https://nicelinks.site/redirect?url=https://marp.app/) ，有非常多特色，但以下几点，是推荐它给您使用的主要因素：
+**推荐语**：[Marp](https://marp.app/)，基于 Markdown 构建幻灯片（PPT、演示文稿）的工具（Markdown Presentation Ecosystem 缩写）；您可以基于它，直观而轻松地创建漂亮的幻灯片；您只需专注于内容的创作，而无须操心排版。[Marp](https://marp.app/) ，有非常多特色，但以下几点，是推荐它给您使用的主要因素：
 
 - 它遵循 Markdown 规范，唯一不同是，`---` 是拆分页面的标尺，而非分割线；
 - 支持各种指令和扩展语法（图像语法、数学排版、自动缩放等）来创建漂亮的幻灯片；
@@ -67,7 +67,7 @@
 - 丰富的生态系统，不仅提供了命令行工具，还提供了 VsCode 编辑器扩展；
 - Marp 可以直接将 Markdown 转换为可用于演示的 HTML、PDF 和 PowerPoint 文件；
 
-除此之外，[Marp](https://nicelinks.site/redirect?url=https://marp.app/) 还有蛮多其他特质，需要进一步探索。倘若说，您已经厌倦基于 Microsoft PowerPoint、Keynote 这些操作性很强的工具，来创建 PPT，那么类似 [Marp](https://nicelinks.site/redirect?url=https://marp.app/) 这样通过 Markdown 来构建 PPT 工具，值得选择。
+除此之外，[Marp](https://marp.app/) 还有蛮多其他特质，需要进一步探索。倘若说，您已经厌倦基于 Microsoft PowerPoint、Keynote 这些操作性很强的工具，来创建 PPT，那么类似 [Marp](https://marp.app/) 这样通过 Markdown 来构建 PPT 工具，值得选择。
 
 ── 出自[倾城之链 - Marp: Markdown Presentation Ecosystem](https://nicelinks.site/post/61262d33b050450642590694)
 

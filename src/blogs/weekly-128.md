@@ -10,7 +10,7 @@
 
 ![倾城之链 - Photo Editor: Free Online Graphic Design Suite - Pixelied](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pixelied.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pixelied](https://nicelinks.site/redirect?url=https://pixelied.com/) ，一体化设计套件工具，它提供一套功能强大的在线图形编辑器，包含丰富的模板、库存照片、模型、图标、插图等，提升您的创造力；适合市场营销、电子商务和社交媒体设计。它具有如下功能特征：
+**推荐语**：[Pixelied](https://pixelied.com/) ，一体化设计套件工具，它提供一套功能强大的在线图形编辑器，包含丰富的模板、库存照片、模型、图标、插图等，提升您的创造力；适合市场营销、电子商务和社交媒体设计。它具有如下功能特征：
 
 ### 免费的在线图形设计工具，可实现简单、美观的设计
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - SigmaOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sigmaos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SigmaOS](https://nicelinks.site/redirect?url=https://sigmaos.com/) ，SigmaOS 是一种全新的 [浏览器](https://nicelinks.site/tags/浏览器) 体验。它使您可以轻松地更快、更好地完成 Internet 上的工作。官方表示：它适用于管理课程的学生、建立初创企业的创始人、表达艺术的创意人员以及介于两者之间的每个人。它具有如下功能特征：
+**推荐语**：[SigmaOS](https://sigmaos.com/) ，SigmaOS 是一种全新的 [浏览器](https://nicelinks.site/tags/浏览器) 体验。它使您可以轻松地更快、更好地完成 Internet 上的工作。官方表示：它适用于管理课程的学生、建立初创企业的创始人、表达艺术的创意人员以及介于两者之间的每个人。它具有如下功能特征：
 
 ### 工作空间，像房子里的房间一样
 
@@ -92,7 +92,7 @@ SigmaOS，与 [Arc](https://nicelinks.site/post/64c25547995e424b626edb02) ，有
 
 ![倾城之链 - Arc from The Browser Company](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/arc.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Arc](https://nicelinks.site/redirect?url=https://arc.net/) ，是由 Josh Miller 和 Hursh Agrawal 创立的初创公司 The Browser Company 开发的免费的网络 [浏览器](https://nicelinks.site/tags/浏览器) ，在封闭测试后于 2022 年 4 月 19 日发布。2023 年 07 月 26 日发布了 1.0 正式版，目前仅支持 macOS（系统版本需要高于 MacOS 12.1 ） 和 iOS，Windows 版本仍在开发中。
+**推荐语**：[Arc](https://arc.net/) ，是由 Josh Miller 和 Hursh Agrawal 创立的初创公司 The Browser Company 开发的免费的网络 [浏览器](https://nicelinks.site/tags/浏览器) ，在封闭测试后于 2022 年 4 月 19 日发布。2023 年 07 月 26 日发布了 1.0 正式版，目前仅支持 macOS（系统版本需要高于 MacOS 12.1 ） 和 iOS，Windows 版本仍在开发中。
 
 **Arc 基于 Chromium 并用 Swift 语言编写**。它支持 Chrome 浏览器扩充功能，同时默认使用 Google 搜索。Arc 官网写到：“Arc 是我一直在等待的 Chrome 替代品”，可见野心勃勃。
 
@@ -105,7 +105,7 @@ Arc 内置了非常多功能，诸如：自动存档、Pin 标签页、命令行
 - **分栏模式**：页面提供了快速分栏的功能，可以使得两个窗口并排显示，便于对比；而且轻松可增减加栏的数目，独立使用扩展等。据悉，这个功能为朋友们所钟爱。
 - **Easels**：是 Arc 特有的一个功能，类似于浏览器中的画布，它不仅可以保存您在网上找到的所有内容，还可以进行头脑风暴、制作心情板、收集灵感甚至撰写故事的好地方。你可以将它们保存为私人作品，与朋友合作，或与全世界分享（使用 Capture Image（右键图片）功能将图片分享到 Easels 里，就可以对图片进行排版、箭头标注、划线、写文字等，非常适合收集与分享图片。）。
 
-Arc 官网描述为：在这款专为你设计的浏览器中，体验更平静、更个性化的互联网。让 Arc 浏览器摆脱点击、杂乱和干扰。这些年，也体验了蛮多其他浏览器产品，诸如： [Firefox](https://nicelinks.site/post/5fa82652ac6b5718fc48ac10) 、 [Whist](https://nicelinks.site/post/62f50049edc6366d5c0852e5) 、 [Opera](https://nicelinks.site/post/62f106afb5abd454197aa3aa) 、[SigmaOS](https://nicelinks.site/post/64c25f0c995e424b626edbba) 等，当然还是以 Chrome 为主，相比之下 [Arc](https://nicelinks.site/redirect?url=https://arc.net/) 最令人心动，只可惜要求系统版本在 12 之上，工作场景下的 iMac 无法安装。7 月 26 日发布 1.0 之后，所有人都可下载，无需申请白名单；感兴趣的朋友，不妨下载安装，亲自体验从而了解更多。
+Arc 官网描述为：在这款专为你设计的浏览器中，体验更平静、更个性化的互联网。让 Arc 浏览器摆脱点击、杂乱和干扰。这些年，也体验了蛮多其他浏览器产品，诸如： [Firefox](https://nicelinks.site/post/5fa82652ac6b5718fc48ac10) 、 [Whist](https://nicelinks.site/post/62f50049edc6366d5c0852e5) 、 [Opera](https://nicelinks.site/post/62f106afb5abd454197aa3aa) 、[SigmaOS](https://nicelinks.site/post/64c25f0c995e424b626edbba) 等，当然还是以 Chrome 为主，相比之下 [Arc](https://arc.net/) 最令人心动，只可惜要求系统版本在 12 之上，工作场景下的 iMac 无法安装。7 月 26 日发布 1.0 之后，所有人都可下载，无需申请白名单；感兴趣的朋友，不妨下载安装，亲自体验从而了解更多。
 
 ── 出自[倾城之链 - Arc from The Browser Company](https://nicelinks.site/post/64c25547995e424b626edb02)
 
@@ -117,7 +117,7 @@ Arc 官网描述为：在这款专为你设计的浏览器中，体验更平静�
 
 ![倾城之链 - Quivr - Get a Second Brain with Generative AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.quivr.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Quivr](https://nicelinks.site/redirect?url=https://www.quivr.app/) ，您的第二大脑，利用 GenerativeAI 的力量来存储和检索非结构化信息。可以将其视为 [Obsidian | 黑曜石](https://nicelinks.site/post/6266999577f8270876fcb3d6) ，但增强了人工智能功能。它具有如下主要特征：
+**推荐语**：[Quivr](https://www.quivr.app/) ，您的第二大脑，利用 GenerativeAI 的力量来存储和检索非结构化信息。可以将其视为 [Obsidian | 黑曜石](https://nicelinks.site/post/6266999577f8270876fcb3d6) ，但增强了人工智能功能。它具有如下主要特征：
 
 - **通用数据接受**：Quivr 几乎可以处理您输入的任何类型的数据。文本、图像、代码片段，我们都能满足您的需求。
 - **生成人工智能**：Quivr 采用先进的人工智能来帮助您生成和检索信息。
@@ -139,7 +139,7 @@ Quivr 工作原理是：🧠 使用 LLM（GPT 3.5/4、Private、Anthropic、Vert
 
 ![倾城之链 - Iconbuddy - 100K+ open source icons](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iconbuddy.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Iconbuddy](https://nicelinks.site/redirect?url=https://iconbuddy.app/) （图标伙伴），是一款功能强大的图标搜索引擎和管理器，支持搜索、下载、定制、编辑超过 100k+ 个开源图标。它可以帮助你下载 SVG、PNG、WEBP、JSX、VUE 和 Base64 格式的图标。
+**推荐语**：[Iconbuddy](https://iconbuddy.app/) （图标伙伴），是一款功能强大的图标搜索引擎和管理器，支持搜索、下载、定制、编辑超过 100k+ 个开源图标。它可以帮助你下载 SVG、PNG、WEBP、JSX、VUE 和 Base64 格式的图标。
 
 值得一提的是，Iconbuddy 支持用户自定义设置图标颜色、背景类型、图标尺寸、圆角、边界、边框不透明度、边框颜色、背景颜色等等。不仅可以下载 SVG、WEBP 等格式，也可以直接拷贝代码（SVG、React、Vue、Base64）加以使用。
 
@@ -153,7 +153,7 @@ Quivr 工作原理是：🧠 使用 LLM（GPT 3.5/4、Private、Anthropic、Vert
 
 ![倾城之链 - Nomad List - Best Places to Live for Digital Nomads					](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nomadlist.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nomad List](https://nicelinks.site/redirect?url=https://nomadlist.com/) ：一个帮助用户寻找可以远程工作城市的网站，旨在**为您寻找世界上最适合远程工作者生活、工作和旅行的地方**。它每秒都会收集全球数千个城市的数百万个数据点，从生活成本、温度到安全。通过这些数据，Nomad List 可以让您了解最适合您去的地方。其使命是加速远程工作带来的全球行动自由。
+**推荐语**：[Nomad List](https://nomadlist.com/) ：一个帮助用户寻找可以远程工作城市的网站，旨在**为您寻找世界上最适合远程工作者生活、工作和旅行的地方**。它每秒都会收集全球数千个城市的数百万个数据点，从生活成本、温度到安全。通过这些数据，Nomad List 可以让您了解最适合您去的地方。其使命是加速远程工作带来的全球行动自由。
 
 不过，Nomad List 的功能远不止这些：您可以执行一些操作，例如在每个城市查找联合办公空间、查看某个城市在特定月份的温暖程度、搜索具有特定气候的地方、阅读评论以及查看 Nomad List 的成员中谁现在在某个城市或即将到达该城市。
 
@@ -179,13 +179,13 @@ Nomad List 的收益主要来自于会员费。网站内容可供免费浏览，
 
 ![倾城之链 - kee.so - Your home screen on internet](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kee.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[kee.so](https://nicelinks.site/redirect?url=https://kee.so/) ， 您在互联网上的主屏幕，一个快速创建 [个人主页](https://nicelinks.site/tags/个人主页) 的 Web 应用；全新的 "生物链接"（"link in bio"）解决方案。新颖的设计类似于手机的主屏幕，可在 3 个系统之间切换，非常灵活、强大、醒目且易于使用。他们认为这是您的个人页面、艺术作品或品牌主页的最佳解决方案。它具有如下功能特征：
+**推荐语**：[kee.so](https://kee.so/) ， 您在互联网上的主屏幕，一个快速创建 [个人主页](https://nicelinks.site/tags/个人主页) 的 Web 应用；全新的 "生物链接"（"link in bio"）解决方案。新颖的设计类似于手机的主屏幕，可在 3 个系统之间切换，非常灵活、强大、醒目且易于使用。他们认为这是您的个人页面、艺术作品或品牌主页的最佳解决方案。它具有如下功能特征：
 
 - 一个链接，一切合一， 适用于您的所有社交链接。
 - 一个链接，一个官方页面， 适合您的品牌、产品、服务。
 - 一键链接，优雅、引人注目、易于定制， 完全由您设计。
 
-有基于 [kee.so](https://nicelinks.site/redirect?url=https://kee.so/) 创建新的个人主页： [杨轩帅](https://kee.so/nicejade) ；与 [Bento](https://nicelinks.site/redirect?url=https://bento.me/) 使用相比，Kee 目前处于邀请制阶段，需要跟官方申请才能得以创建；其次，虽然 Kee 使用也很便捷，不过在简单快捷方面，Bento 似乎更胜一筹。如果您有创建个人主页的诉求， [Bento](https://nicelinks.site/redirect?url=https://bento.me/) 、 [kee.so](https://nicelinks.site/redirect?url=https://kee.so/) 、 [Bio Link](https://nicelinks.site/post/627cfbf62dba1c5d9dce1f6f) 都是免费使用且设计良好的产品，可以根据您的个人偏好，选择喜欢的产品。
+有基于 [kee.so](https://kee.so/) 创建新的个人主页： [杨轩帅](https://kee.so/nicejade) ；与 [Bento](https://bento.me/) 使用相比，Kee 目前处于邀请制阶段，需要跟官方申请才能得以创建；其次，虽然 Kee 使用也很便捷，不过在简单快捷方面，Bento 似乎更胜一筹。如果您有创建个人主页的诉求， [Bento](https://bento.me/) 、 [kee.so](https://kee.so/) 、 [Bio Link](https://nicelinks.site/post/627cfbf62dba1c5d9dce1f6f) 都是免费使用且设计良好的产品，可以根据您的个人偏好，选择喜欢的产品。
 
 ── 出自[倾城之链 - kee.so - Your home screen on internet](https://nicelinks.site/post/64bd1b20ba9d8868a2a50e71)
 

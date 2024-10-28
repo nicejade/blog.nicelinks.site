@@ -10,7 +10,7 @@
 
 ![倾城之链 - AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/imgupscaler.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Img.Upscaler](https://nicelinks.site/redirect?url=https://imgupscaler.com/)，是一个在线、智能 PNG / JPG 图像放大工具，可批量升级和增强您的照片、动漫和卡通；由 [ImgLarger](https://nicelinks.site/redirect?url=https://imgupscaler.com/) 的最新 AI 技术提供支持，它可以批量放大多个图像文件，升级多个图像就像 [TinyPNG](https://nicelinks.site/post/5a71edee7363484e823b58e7) 压缩它们一样简单。快速的过程和惊人的结果。无需帐户，现在无需付款。相比于同类型产品，[Img.Upscaler](https://nicelinks.site/redirect?url=https://imgupscaler.com/) 具有以下特征：
+**推荐语**：[Img.Upscaler](https://imgupscaler.com/)，是一个在线、智能 PNG / JPG 图像放大工具，可批量升级和增强您的照片、动漫和卡通；由 [ImgLarger](https://imgupscaler.com/) 的最新 AI 技术提供支持，它可以批量放大多个图像文件，升级多个图像就像 [TinyPNG](https://nicelinks.site/post/5a71edee7363484e823b58e7) 压缩它们一样简单。快速的过程和惊人的结果。无需帐户，现在无需付款。相比于同类型产品，[Img.Upscaler](https://imgupscaler.com/) 具有以下特征：
 
 ### 最新的人工智能，更快
 
@@ -24,7 +24,7 @@
 
 他们保护您的隐私，所有照片将在 24 小时内清除。您的隐私受到高度保护，可以放心使用我们的服务。
 
-为什么使用 [Img.Upscaler](https://nicelinks.site/redirect?url=https://imgupscaler.com/)？在 ImgLarger 的升级技术的支持下，ImgUpscaler 将专注于深度学习和超分辨率技术。特别是，ImgUpscaler 将提供更快的批量图像升级过程。如果您想一次放大多个图像，[Img.Upscaler](https://nicelinks.site/redirect?url=https://imgupscaler.com/) 可能是您的最佳选择。
+为什么使用 [Img.Upscaler](https://imgupscaler.com/)？在 ImgLarger 的升级技术的支持下，ImgUpscaler 将专注于深度学习和超分辨率技术。特别是，ImgUpscaler 将提供更快的批量图像升级过程。如果您想一次放大多个图像，[Img.Upscaler](https://imgupscaler.com/) 可能是您的最佳选择。
 
 ── 出自[倾城之链 - AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://nicelinks.site/post/6183538442040305e48d4456)
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - 故宫博物院](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dpm.org.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[故宫博物院](https://nicelinks.site/redirect?url=https://www.dpm.org.cn/)，是一座特殊的博物馆。成立于 1925 年的故宫博物院，建立在明清两朝皇宫——紫禁城的基础上。历经五百年兴衰荣辱，帝王宫殿的大门终于向公众敞开。故宫博物院绝无仅有的独特藏品，是世界上规模最大、保存最完整的紫禁城木结构宫殿建筑群。
+**推荐语**：[故宫博物院](https://www.dpm.org.cn/)，是一座特殊的博物馆。成立于 1925 年的故宫博物院，建立在明清两朝皇宫——紫禁城的基础上。历经五百年兴衰荣辱，帝王宫殿的大门终于向公众敞开。故宫博物院绝无仅有的独特藏品，是世界上规模最大、保存最完整的紫禁城木结构宫殿建筑群。
 
 如今，昔日皇宫禁地那占地 112 万平方米的重重宫阙，既是收藏明清皇室珍宝的巨大宝库，也是记载明清宫廷历史的鲜活档案……走进故宫博物院，您沿中轴线前行，从起伏跌宕的建筑乐章中可以感受盛世皇朝的博大胸怀；可以透过东西六宫精巧的陈设和内廷园囿雅致的格局，捕捉宫廷生活的温婉气息；可以从养心殿东暖阁卷起的黄纱帘中，追溯百年前中华民族内忧外患的历史沧桑。
 
@@ -46,7 +46,7 @@
 
 当前，故宫博物院的研究人员正在对古建筑、院藏文物、宫廷历史文化遗存、明清档案、清宫典籍和近百年的故宫博物院历程进行着更为深入细致的研究。建立起完整的“故宫学”体系，意在向您揭示紫禁城中蕴涵的博大精深的中华民族智慧和文化精神。
 
-值得一提的是，[故宫博物院](https://nicelinks.site/redirect?url=https://www.dpm.org.cn/)不仅有多个在线 Web 应用（另外还有[故宫博物院数字文物库](https://nicelinks.site/redirect?url=https://digicol.dpm.org.cn/)），而且紧跟时代，提供了微博、公众号、小程序、视频号等。
+值得一提的是，[故宫博物院](https://www.dpm.org.cn/)不仅有多个在线 Web 应用（另外还有[故宫博物院数字文物库](https://digicol.dpm.org.cn/)），而且紧跟时代，提供了微博、公众号、小程序、视频号等。
 
 ── 出自[倾城之链 - 故宫博物院](https://nicelinks.site/post/618283c742040305e48d4453)
 
@@ -60,7 +60,7 @@
 
 ![倾城之链 - 腾讯课堂_职业培训、考试提升在线教育平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ke.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[腾讯课堂](https://nicelinks.site/redirect?url=https://ke.qq.com/)，是由腾讯推出的专业、职业培训在线教育平台；其一级分类下有职业技能、IT 培训、语言学习、中小学/大学、兴趣爱好、亲子课堂、腾讯自研前端课等模块；在二级分类下，充盈着大量的互联网方向课程（多与开发者、产品、设计师、运维、运营等角色相关）。知晓[腾讯课堂](https://nicelinks.site/redirect?url=https://ke.qq.com/)的存在，是因为参加了腾讯出品的一次 Web 相关的分享，分享者所用的 PPT 内容，后来都在这里给到参会的朋友们。至于这种课堂，能否给求职者或求学者带来良好作用，这就需要读者自己品评、判断了。
+**推荐语**：[腾讯课堂](https://ke.qq.com/)，是由腾讯推出的专业、职业培训在线教育平台；其一级分类下有职业技能、IT 培训、语言学习、中小学/大学、兴趣爱好、亲子课堂、腾讯自研前端课等模块；在二级分类下，充盈着大量的互联网方向课程（多与开发者、产品、设计师、运维、运营等角色相关）。知晓[腾讯课堂](https://ke.qq.com/)的存在，是因为参加了腾讯出品的一次 Web 相关的分享，分享者所用的 PPT 内容，后来都在这里给到参会的朋友们。至于这种课堂，能否给求职者或求学者带来良好作用，这就需要读者自己品评、判断了。
 
 ── 出自[倾城之链 - 腾讯课堂\_职业培训、考试提升在线教育平台](https://nicelinks.site/post/6182163342040305e48d4451)
 
@@ -74,7 +74,7 @@
 
 ![倾城之链 - 是哪天](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.shinatian.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[是哪天](https://nicelinks.site/redirect?url=https://www.shinatian.com/)是一款在线应用，号称是**准日期搜索引擎**，承载与日期相关的一切；中国节日、二十四节气、传统节日、西方节日、新兴节日、国际节日、其他节日等等，并且提供了检索功能。更为值得称赞的是，每个节日，都有很详尽的背景故事介绍，以及在这一天出生与去世的人等。是所见关于「节日日期」最为丰富的一隅网络空间。
+**推荐语**：[是哪天](https://www.shinatian.com/)是一款在线应用，号称是**准日期搜索引擎**，承载与日期相关的一切；中国节日、二十四节气、传统节日、西方节日、新兴节日、国际节日、其他节日等等，并且提供了检索功能。更为值得称赞的是，每个节日，都有很详尽的背景故事介绍，以及在这一天出生与去世的人等。是所见关于「节日日期」最为丰富的一隅网络空间。
 
 ── 出自[倾城之链 - 是哪天](https://nicelinks.site/post/61815d0b42040305e48d444f)
 
@@ -88,9 +88,9 @@
 
 ![倾城之链 - 美寄词云-官网- 中文文字云,Word Art Cloud,标签云词云在线生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.moage.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[美寄词云](https://nicelinks.site/redirect?url=https://www.moage.cn/)是一款中文 wordart cloud，可快速生成中文文字图片（隶属于武汉真准科技有限公司）。根据其官网描述，相较于其他产品，[美寄词云](https://nicelinks.site/redirect?url=https://www.moage.cn/)的产品功能更强大，中文加载更加迅速，实用性更广泛。您只需要通过简单的操作，几分钟就可以做出您专属的文字云设计。
+**推荐语**：[美寄词云](https://www.moage.cn/)是一款中文 wordart cloud，可快速生成中文文字图片（隶属于武汉真准科技有限公司）。根据其官网描述，相较于其他产品，[美寄词云](https://www.moage.cn/)的产品功能更强大，中文加载更加迅速，实用性更广泛。您只需要通过简单的操作，几分钟就可以做出您专属的文字云设计。
 
-除了[美寄词云](https://nicelinks.site/redirect?url=https://www.moage.cn/)外，该公司还打造了一些列专业的图片处理工具，包括：图片设计，智能 AI 抠图以及花样裁图等。他们希望通过打造一个图片处理生态系统，来帮助没有任何基础的用户去创造，让他们不受限于软件操作等外在因素，尽情发挥自己的想象力，去激发更多的创意和想法。希望能消除专业的设计门槛，让更多人能享受创造这件事情本身，让更多人参与到创意中来。
+除了[美寄词云](https://www.moage.cn/)外，该公司还打造了一些列专业的图片处理工具，包括：图片设计，智能 AI 抠图以及花样裁图等。他们希望通过打造一个图片处理生态系统，来帮助没有任何基础的用户去创造，让他们不受限于软件操作等外在因素，尽情发挥自己的想象力，去激发更多的创意和想法。希望能消除专业的设计门槛，让更多人能享受创造这件事情本身，让更多人参与到创意中来。
 
 ── 出自[倾城之链 - 美寄词云-官网- 中文文字云,Word Art Cloud,标签云词云在线生成器](https://nicelinks.site/post/617feffb42040305e48d444d)
 

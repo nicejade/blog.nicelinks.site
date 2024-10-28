@@ -12,7 +12,7 @@
 
 ![倾城之链 - Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.apifox.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Apifox](https://nicelinks.site/redirect?url=https://www.apifox.cn/)，集 API 文档、API 调试、API Mock、API 自动化测试等一体化的协作平台；官方表示：Apifox = Postman + Swagger + Mock + JMeter ；它具有以下功能特色：
+**推荐语**：[Apifox](https://www.apifox.cn/)，集 API 文档、API 调试、API Mock、API 自动化测试等一体化的协作平台；官方表示：Apifox = Postman + Swagger + Mock + JMeter ；它具有以下功能特色：
 
 ### API 文档设计
 
@@ -73,7 +73,7 @@
 1. 接口数据云端同步，实时更新。
 2. 成熟的团队/项目权限管理，支持管理员、普通成员、只读成员等角色设置，满足各类企业的需求。
 
-[Apifox](https://nicelinks.site/redirect?url=https://www.apifox.cn/) 是广州睿狐信息科技有限公司（一家专注于企业级研发管理工具及解决方案的创新企业）旗下核心产品；它集 API（应用程序编程接口）设计、开发、测试为一体的协作平台，通过系统平台，帮助客户企业的软件研发团队，提升研发和使用 API 过程中的整体团队协作效率。Apifox 功能直击开发工程师的痛点，产品体验简单易用，大幅提升了开发团队的工作效率，迅速赢得了一大批忠实的用户（公司有朋友还是蛮喜欢用它，笔者是通过 Google 广告了解到）；它具有**桌面版**、**WEB 版本**两种使用方式，免费可用，私有化部署版须付费；如果您想了解更多，可参见 [Apifox 使用文档](https://nicelinks.site/redirect?url=https://www.apifox.cn/help/)。
+[Apifox](https://www.apifox.cn/) 是广州睿狐信息科技有限公司（一家专注于企业级研发管理工具及解决方案的创新企业）旗下核心产品；它集 API（应用程序编程接口）设计、开发、测试为一体的协作平台，通过系统平台，帮助客户企业的软件研发团队，提升研发和使用 API 过程中的整体团队协作效率。Apifox 功能直击开发工程师的痛点，产品体验简单易用，大幅提升了开发团队的工作效率，迅速赢得了一大批忠实的用户（公司有朋友还是蛮喜欢用它，笔者是通过 Google 广告了解到）；它具有**桌面版**、**WEB 版本**两种使用方式，免费可用，私有化部署版须付费；如果您想了解更多，可参见 [Apifox 使用文档](https://www.apifox.cn/help/)。
 
 ── 出自[倾城之链 - Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://nicelinks.site/post/6245b116f3075206b7478036)
 
@@ -87,7 +87,7 @@
 
 ![倾城之链 - The Unarchiver | Top Free Unarchiving Software for macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/theunarchiver.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Unarchiver](https://nicelinks.site/redirect?url=https://theunarchiver.com/)，一个 RAR 解压器，它允许你解压缩文件；它比原生 macOS 实用程序强大数倍，并支持无限多的存档格式。它具有以下功能特色：
+**推荐语**：[Unarchiver](https://theunarchiver.com/)，一个 RAR 解压器，它允许你解压缩文件；它比原生 macOS 实用程序强大数倍，并支持无限多的存档格式。它具有以下功能特色：
 
 ### 快速安装
 
@@ -117,7 +117,7 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 ![倾城之链 - n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/n8n.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[n8n](https://nicelinks.site/redirect?url=https://n8n.io/)，免费和开放的自托管工作流自动化工具；使用 n8n，每个人都可以拥有自己的免费的基于节点的工作流自动化工具。n8n 是可自托管的，因此数据会随身携带。它可以轻松扩展，因此也可以与内部工具一起使用，并允许自动化复杂的任务。它具有以下功能特色：
+**推荐语**：[n8n](https://n8n.io/)，免费和开放的自托管工作流自动化工具；使用 n8n，每个人都可以拥有自己的免费的基于节点的工作流自动化工具。n8n 是可自托管的，因此数据会随身携带。它可以轻松扩展，因此也可以与内部工具一起使用，并允许自动化复杂的任务。它具有以下功能特色：
 
 ### 免费开放
 
@@ -131,7 +131,7 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 在本地或云端运行 n8n。您决定谁可以访问并完全控制您的数据 😊。
 
-可以基于 [n8n](https://nicelinks.site/redirect?url=https://n8n.io/) 做些什么呢？
+可以基于 [n8n](https://n8n.io/) 做些什么呢？
 
 ### 在 200 多个应用程序之间同步数据
 
@@ -145,7 +145,7 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 为专有 CRM、产品端点或任何其他软件设计定制节点，并授权您的营销和运营团队创建自己的工作流程。
 
-[n8n](https://nicelinks.site/redirect?url=https://n8n.io/) 有多种使用方式：**云**（无需安装任何东西）、**桌面应用**（尝试 n8n 的最快方法）、**自托管**（推荐用于生产数据保留在您的基础架构上，基于 npm 或 Docker 部署）。
+[n8n](https://n8n.io/) 有多种使用方式：**云**（无需安装任何东西）、**桌面应用**（尝试 n8n 的最快方法）、**自托管**（推荐用于生产数据保留在您的基础架构上，基于 npm 或 Docker 部署）。
 
 ── 出自[倾城之链 - n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://nicelinks.site/post/624053f5006c7408774a7c1e)
 
@@ -157,7 +157,7 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 ![倾城之链 - WhatRuns — Discover What Runs a Website](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.whatruns.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WhatRuns](https://nicelinks.site/redirect?url=https://www.whatruns.com/) 是一个新的但先进的浏览器扩展，可帮助您识别任何网站上使用的网络技术。他们专有的模式识别算法，甚至可以有效检测网站上使用的最新网络技术和插件。它具有以下功能特征：
+**推荐语**：[WhatRuns](https://www.whatruns.com/) 是一个新的但先进的浏览器扩展，可帮助您识别任何网站上使用的网络技术。他们专有的模式识别算法，甚至可以有效检测网站上使用的最新网络技术和插件。它具有以下功能特征：
 
 ### 适用于任何网站
 
@@ -167,7 +167,7 @@ WhatRuns 向您展示了为网站提供动力的几乎所有内容。他们支�
 
 通过了解网站何时开始或停止，使用技术来跟上步伐。关注网站，WhatRuns 会在发生这种情况时通知您。
 
-[WhatRuns](https://nicelinks.site/redirect?url=https://www.whatruns.com/) 扩展在 Chrome 和 Firefox 上免费提供，可用于竞争对手分析、销售情报和网站分析。其功能与 [Wappalyzer](https://nicelinks.site/post/5c9a2064df13c46502a09026) 相同；简单对比，所检测出的数据结果，两者相差无几。从速度、本地化处理上，[Wappalyzer](https://nicelinks.site/post/5c9a2064df13c46502a09026) 要更胜一筹；如果您有此需求，更推荐使用 `Wappalyzer`。
+[WhatRuns](https://www.whatruns.com/) 扩展在 Chrome 和 Firefox 上免费提供，可用于竞争对手分析、销售情报和网站分析。其功能与 [Wappalyzer](https://nicelinks.site/post/5c9a2064df13c46502a09026) 相同；简单对比，所检测出的数据结果，两者相差无几。从速度、本地化处理上，[Wappalyzer](https://nicelinks.site/post/5c9a2064df13c46502a09026) 要更胜一筹；如果您有此需求，更推荐使用 `Wappalyzer`。
 
 ── 出自[倾城之链 - WhatRuns — Discover What Runs a Website](https://nicelinks.site/post/623ffb54006c7408774a7c1c)
 
@@ -179,7 +179,7 @@ WhatRuns 向您展示了为网站提供动力的几乎所有内容。他们支�
 
 ![倾城之链 - Tampermonkey • Home](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tampermonkey.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tampermonkey](https://nicelinks.site/redirect?url=https://www.tampermonkey.net/)， 是一款免费的浏览器扩展和最为流行的用户脚本管理器；可以为自动您执行很多任务，诸如[知乎屏蔽登录弹窗](https://forum.lovejade.cn/d/158-pc)，自动领取网站登录奖励等等；它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。它具有以下几个功能特色：
+**推荐语**：[Tampermonkey](https://www.tampermonkey.net/)， 是一款免费的浏览器扩展和最为流行的用户脚本管理器；可以为自动您执行很多任务，诸如[知乎屏蔽登录弹窗](https://forum.lovejade.cn/d/158-pc)，自动领取网站登录奖励等等；它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。它具有以下几个功能特色：
 
 ### 方便的脚本管理
 
@@ -235,7 +235,7 @@ Tampermonkey 的编辑器是很棒的，然而您拥有自己的编辑器，它�
 
 ![倾城之链 - 美篇，中老年兴趣社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meipian.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[美篇](https://nicelinks.site/redirect?url=https://www.meipian.cn/)，中老年兴趣社区。其官网介绍道：定位不惑后表达自我、结交同好、学习提升的内容社区，同时也是火爆朋友圈的图文创作分享应用。自 2015 年 7 月正式上线以来，`美篇`累计注册用户 2 亿、创作用户 4000 万；成立至今获得腾讯双百计划、经纬创投、真格基金、芒果文创基金等一线投资机构多轮累计 1.8 亿元融资，估计 10 亿元。
+**推荐语**：[美篇](https://www.meipian.cn/)，中老年兴趣社区。其官网介绍道：定位不惑后表达自我、结交同好、学习提升的内容社区，同时也是火爆朋友圈的图文创作分享应用。自 2015 年 7 月正式上线以来，`美篇`累计注册用户 2 亿、创作用户 4000 万；成立至今获得腾讯双百计划、经纬创投、真格基金、芒果文创基金等一线投资机构多轮累计 1.8 亿元融资，估计 10 亿元。
 
 - 图文可以随时修改更新，图文直播的不二选择；
 - 有商务，亲子，生活，节日等多种背景模板，满足各种使用场景；

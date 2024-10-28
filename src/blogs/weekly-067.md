@@ -10,7 +10,7 @@
 
 ![倾城之链 - 【在线PS软件】在线PS图片（照片）处理工具_在线制作编辑图片ps精简版](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.uupoop.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[稿定 UUPOOP](https://nicelinks.site/redirect?url=https://www.uupoop.com/)，是一款在线图片编辑器，是专业精简的在线 PS 图片照片制作处理软件工具，旨在让设计更简单。UUPOOP 隶属稿定（厦门）科技有限公司（创建于 2010 年）。稿定设计，具备以下四大核心能力：
+**推荐语**：[稿定 UUPOOP](https://www.uupoop.com/)，是一款在线图片编辑器，是专业精简的在线 PS 图片照片制作处理软件工具，旨在让设计更简单。UUPOOP 隶属稿定（厦门）科技有限公司（创建于 2010 年）。稿定设计，具备以下四大核心能力：
 
 ### 创意设计工具
 
@@ -30,7 +30,7 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 
 作为国内首批 SaaS 服务开拓者，UUPOOP 从全新视角为电商、社交电商提供视觉设计工具和内容。并在此基础上不断丰富、迭代、打磨，为全商业场景用户提供视觉解决方案，赋能爆发式增长的数字营销需求。
 
-据 UUPOOP 官方介绍，他们已在多媒体创作工具、AI 辅助设计，以及图形图像算法等领域储备了丰富的核心技术，拥有上百项技术专利。截止目前，[稿定 UUPOOP](https://nicelinks.site/redirect?url=https://www.uupoop.com/) 在以下领域具有积淀：发丝级抠图、3D 特效、图像修复、图像增强、视频感知、图像引擎、自适应滤镜、智能设计、图像检索、渲染引擎。
+据 UUPOOP 官方介绍，他们已在多媒体创作工具、AI 辅助设计，以及图形图像算法等领域储备了丰富的核心技术，拥有上百项技术专利。截止目前，[稿定 UUPOOP](https://www.uupoop.com/) 在以下领域具有积淀：发丝级抠图、3D 特效、图像修复、图像增强、视频感知、图像引擎、自适应滤镜、智能设计、图像检索、渲染引擎。
 
 ── 出自[倾城之链 - 【在线 PS 软件】在线 PS 图片（照片）处理工具\_在线制作编辑图片 ps 精简版](https://nicelinks.site/post/628f943bbf8f82231b9f947e)
 
@@ -42,7 +42,7 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 
 ![倾城之链 - Cusdis - Lightweight, privacy-first, open-source comment system](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cusdis.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Cusdis](https://nicelinks.site/redirect?url=https://cusdis.com/) ，是一款开源评论系统；它 Disqus 的开源、轻量级（约 5kb gzipped）、隐私优先的**替代品**。它非常易于使用并与您现有的网站集成，而且不会跟踪您和您的用户。除了免费使用外，还具有以下功能特色：
+**推荐语**： [Cusdis](https://cusdis.com/) ，是一款开源评论系统；它 Disqus 的开源、轻量级（约 5kb gzipped）、隐私优先的**替代品**。它非常易于使用并与您现有的网站集成，而且不会跟踪您和您的用户。除了免费使用外，还具有以下功能特色：
 
 ### 轻量
 
@@ -64,7 +64,7 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 
 在通知电子邮件和 Webhook 中，您将获得一个短时间链接来批准/回复新评论，而无需登录仪表板。所有事情都在您的手机中完成。
 
-此外，Cusdis 支持一键将 Disqus 中已有的数据导入 Cusdis。值得一提的是：Cusdis 是一个**开源**项目。您可以确定**您和您的用户不会被跟踪**。如果您希望拥有自己的数据，也可以轻松自托管 Cusdis。这太有吸引力 🧲 了，如果不是因为已经基于 [Waline](https://nicelinks.site/post/61e6e0783bc516243751509b) 搭建了评论系统，Cusdis 将是应用评论首选工具，如果您想了解更多，可参见 [Cusdis Document](https://nicelinks.site/redirect?url=https://cusdis.com/doc)。
+此外，Cusdis 支持一键将 Disqus 中已有的数据导入 Cusdis。值得一提的是：Cusdis 是一个**开源**项目。您可以确定**您和您的用户不会被跟踪**。如果您希望拥有自己的数据，也可以轻松自托管 Cusdis。这太有吸引力 🧲 了，如果不是因为已经基于 [Waline](https://nicelinks.site/post/61e6e0783bc516243751509b) 搭建了评论系统，Cusdis 将是应用评论首选工具，如果您想了解更多，可参见 [Cusdis Document](https://cusdis.com/doc)。
 
 ── 出自[倾城之链 - Cusdis - Lightweight, privacy-first, open-source comment system](https://nicelinks.site/post/628f5b9dbf8f82231b9f947c)
 
@@ -77,7 +77,7 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 ![倾城之链 - 
 FFmpeg](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ffmpeg.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [FFmpeg](https://nicelinks.site/redirect?url=https://ffmpeg.org/)，一个完整的跨平台解决方案（一个库和工具的集合），用于录制、转换和流式传输音频、视频、字幕等多媒体内容。它是领先的多媒体框架，能够解码、编码、 转码、复用、解复用、流、过滤，以及播放几乎所有人类和机器创建的东西。它支持最模糊的古老格式，直到最前沿。无论它们是由某个标准委员会、社区还是公司设计的。它还具有高度的可移植性：FFmpeg 可以 在各种构建环境、机器架构和配置，横跨 Linux、Mac OS X、Microsoft Windows、BSD、Solaris 等编译、运行。它包含可供应用程序使用的 libavcodec、libavutil、libavformat、libavfilter、libavdevice、libswscale 和 libswresample。还有 ffmpeg、ffplay 和 ffprobe 可供最终用户**转码**和**播放**。
+**推荐语**： [FFmpeg](https://ffmpeg.org/)，一个完整的跨平台解决方案（一个库和工具的集合），用于录制、转换和流式传输音频、视频、字幕等多媒体内容。它是领先的多媒体框架，能够解码、编码、 转码、复用、解复用、流、过滤，以及播放几乎所有人类和机器创建的东西。它支持最模糊的古老格式，直到最前沿。无论它们是由某个标准委员会、社区还是公司设计的。它还具有高度的可移植性：FFmpeg 可以 在各种构建环境、机器架构和配置，横跨 Linux、Mac OS X、Microsoft Windows、BSD、Solaris 等编译、运行。它包含可供应用程序使用的 libavcodec、libavutil、libavformat、libavfilter、libavdevice、libswscale 和 libswresample。还有 ffmpeg、ffplay 和 ffprobe 可供最终用户**转码**和**播放**。
 
 转换**视频**和**音频**从未如此简单，安装 FFmpeg 之后，运行如下命令即可：
 
@@ -102,11 +102,11 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 ![倾城之链 - NOWNESS 现在](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nowness.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NOWNESS](https://nicelinks.site/redirect?url=https://www.nowness.cn/) 是一个分享创意生活短片的平台，涉及时尚与美容，美食与旅行，艺术与设计，音乐，文化等五大栏目。NOWNESS 创立于 2010 年，它注重发掘叙事中的独特创意和体验，拥抱日常点滴中的新奇与不凡。凭借其独树一帜的栏目策划，成为灵感与影响力的汇集地，内容囊括艺术、设计、时尚、美容、音乐、美食和旅行各个方面。他们与全球杰出的艺术家和电影人合作，以独特的审美情趣和呈现方式，为你提供极富新意的叙事体验，激发日常生活中的灵感与思考。
+**推荐语**：[NOWNESS](https://www.nowness.cn/) 是一个分享创意生活短片的平台，涉及时尚与美容，美食与旅行，艺术与设计，音乐，文化等五大栏目。NOWNESS 创立于 2010 年，它注重发掘叙事中的独特创意和体验，拥抱日常点滴中的新奇与不凡。凭借其独树一帜的栏目策划，成为灵感与影响力的汇集地，内容囊括艺术、设计、时尚、美容、音乐、美食和旅行各个方面。他们与全球杰出的艺术家和电影人合作，以独特的审美情趣和呈现方式，为你提供极富新意的叙事体验，激发日常生活中的灵感与思考。
 
 自创始起， NOWNESS 旨在打造一个国际化的文化平台。2012 年，该团队启动了 NOWNESS 中文平台。此后，更相继引进了包括中文、英语 、法语、德语、西班牙语、意大利语、日语、韩语、葡萄牙语和俄语在内的十种语言的字幕功能（点击视频播放器 SUBTITLES 键即可选择语言）。
 
-您能保存自己喜爱的视频以及播放队列。您也可以通过个人帐号来和 NOWNESS 社区成员进行互动。您还可以关注最喜爱的栏目类别，分享来自其他成员或供稿人的播放列表。如果您从事创意视频制作，也可以成为 [NOWNESS](https://nicelinks.site/redirect?url=https://www.nowness.cn/) 的供稿人。
+您能保存自己喜爱的视频以及播放队列。您也可以通过个人帐号来和 NOWNESS 社区成员进行互动。您还可以关注最喜爱的栏目类别，分享来自其他成员或供稿人的播放列表。如果您从事创意视频制作，也可以成为 [NOWNESS](https://www.nowness.cn/) 的供稿人。
 
 ── 出自[倾城之链 - NOWNESS 现在](https://nicelinks.site/post/628e5444bf8f82231b9f9478)
 
@@ -118,7 +118,7 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 ![倾城之链 - 图灵社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ituring.com.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[图灵社区](https://nicelinks.site/redirect?url=https://www.ituring.com.cn/) 基于 [Vue](<[https://nicelinks.site/post/5b1a221c0526c920d6dfaada](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)>) 等框架搭建而成；它隶属北京图灵文化发展有限公——成立于 2005 年 6 月，由人民邮电出版社投资控股，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、数学统计、科普等，公司以促进科技发展为己任，通过引进国际高水平的图书，以及发掘国内优秀原创作品等手段，为目标读者提供一流的内容。您可以在这里找到计算机、科普、设计、经营管理、专业数学、个人技能、心理学、电子通信等类型的图书，不过，暂不支持在线阅读（需要登录解锁 🔓）。如果，您从事 IT 或即将从事 IT 行业，`图灵社区`，可以考虑关注下。
+**推荐语**：[图灵社区](https://www.ituring.com.cn/) 基于 [Vue](<[https://nicelinks.site/post/5b1a221c0526c920d6dfaada](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)>) 等框架搭建而成；它隶属北京图灵文化发展有限公——成立于 2005 年 6 月，由人民邮电出版社投资控股，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、数学统计、科普等，公司以促进科技发展为己任，通过引进国际高水平的图书，以及发掘国内优秀原创作品等手段，为目标读者提供一流的内容。您可以在这里找到计算机、科普、设计、经营管理、专业数学、个人技能、心理学、电子通信等类型的图书，不过，暂不支持在线阅读（需要登录解锁 🔓）。如果，您从事 IT 或即将从事 IT 行业，`图灵社区`，可以考虑关注下。
 
 ── 出自[倾城之链 - 图灵社区](https://nicelinks.site/post/628e119bbf8f82231b9f9476)
 
@@ -130,9 +130,9 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 ![倾城之链 - iTerm2 - macOS Terminal Replacement](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iterm2.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[iTerm2](https://nicelinks.site/redirect?url=https://iterm2.com/)，是 Terminal 的替代品，也是 iTerm 的继任者。它适用于装有 macOS 10.14 或更高版本的 Mac。iTerm2 将终端带入现代时代，具有您从未知道您一直想要的功能。
+**推荐语**：[iTerm2](https://iterm2.com/)，是 Terminal 的替代品，也是 iTerm 的继任者。它适用于装有 macOS 10.14 或更高版本的 Mac。iTerm2 将终端带入现代时代，具有您从未知道您一直想要的功能。
 
-如果您在终端上花费大量时间，那么 iTerm2 绝对是您必须安装的应用。它是免费软件，[您可以在 Github](https://nicelinks.site/redirect?url=https://github.com/gnachman/iTerm2)上找到源代码。它的功能极其强大且贴心，您可从以下特征，来窥测一二：
+如果您在终端上花费大量时间，那么 iTerm2 绝对是您必须安装的应用。它是免费软件，[您可以在 Github](https://github.com/gnachman/iTerm2)上找到源代码。它的功能极其强大且贴心，您可从以下特征，来窥测一二：
 
 ### 拆分窗格
 

@@ -12,9 +12,9 @@
 
 ![倾城之链 - Snapdrop | Open Snapdrop on other devices to send files](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/snapdrop.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Snapdrop](https://nicelinks.site/redirect?url=https://snapdrop.net/) ，跨设备传输文件的最简单的方式；您可以在其他设备上打开 Snapdrop 来发送文件，即时与附近的人分享图片、视频、 [PDF](hhttps://nicelinks.site/tags/PDF) 和链接。点对点和开放源代码（该网络上的每个人都可以发现您）。无需设置，无需注册。
+**推荐语**：[Snapdrop](https://snapdrop.net/) ，跨设备传输文件的最简单的方式；您可以在其他设备上打开 Snapdrop 来发送文件，即时与附近的人分享图片、视频、 [PDF](hhttps://nicelinks.site/tags/PDF) 和链接。点对点和开放源代码（该网络上的每个人都可以发现您）。无需设置，无需注册。
 
-[Snapdrop](https://nicelinks.site/redirect?url=https://snapdrop.net/) 用于本地文件共享的渐进式 Web 应用程序（ [PWA](https://nicelinks.site/tags/PWA) ），它好比苹果系统下的 AirDrop，不过这个是可以跨多平台的，直接打开就可以使用，适合突然要用一下找不到其他工具的场景。`snapdrop` 使用非常简单，点击「周围用户头像」发送文件，或者右键发送消息。该项目在 [Github 仓库开源](https://github.com/RobinLinus/snapdrop) ，如果您感兴趣，可移步以了解更多。
+[Snapdrop](https://snapdrop.net/) 用于本地文件共享的渐进式 Web 应用程序（ [PWA](https://nicelinks.site/tags/PWA) ），它好比苹果系统下的 AirDrop，不过这个是可以跨多平台的，直接打开就可以使用，适合突然要用一下找不到其他工具的场景。`snapdrop` 使用非常简单，点击「周围用户头像」发送文件，或者右键发送消息。该项目在 [Github 仓库开源](https://github.com/RobinLinus/snapdrop) ，如果您感兴趣，可移步以了解更多。
 
 ── 出自[倾城之链 - Snapdrop | Open Snapdrop on other devices to send files](https://nicelinks.site/post/649c3d0eaceb051a1d406a2a)
 
@@ -26,7 +26,7 @@
 
 ![倾城之链 - Zed - Code at the speed of thought](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zed.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zed](https://nicelinks.site/redirect?url=https://zed.dev/) 是一款高性能、多人代码 [编辑器](https://nicelinks.site/tags/编辑器) ，由 [Atom](https://nicelinks.site/post/5af314ad979f626ea3d37912) 和 Tree-sitter 的创建者开发，其口号是：**以思维速度编写代码**。高效的编码从不妨碍您的工具开始。Zed 将 IDE 的强大功能与轻量级编辑器的响应能力相结合，让您触手可及的生产力。它具有如下功能特征：
+**推荐语**：[Zed](https://zed.dev/) 是一款高性能、多人代码 [编辑器](https://nicelinks.site/tags/编辑器) ，由 [Atom](https://nicelinks.site/post/5af314ad979f626ea3d37912) 和 Tree-sitter 的创建者开发，其口号是：**以思维速度编写代码**。高效的编码从不妨碍您的工具开始。Zed 将 IDE 的强大功能与轻量级编辑器的响应能力相结合，让您触手可及的生产力。它具有如下功能特征：
 
 ### 专为性能而设计
 
@@ -94,7 +94,7 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 截止 2023 年 06 月 27 日，Zed 尚处于测试阶段；从 [Zed 官方博客宣布的信息](https://zed.dev/blog/open-sourcing-zed-on-zed) ，他们的目标不仅止于高效编 [发布于 2023-03-15 09:41](https://www.zhihu.com/question/589047907/answer/2936894805) 辑代码，而是正在为软件工程师建立一个交流平台，目标是能够随时就任何文本进行对话，如此开发者就可以谈论代码而不必担心版本控制；可见 Zed 团队野心勃勃。
 
-从实际体验来看， [Zed](https://nicelinks.site/redirect?url=https://zed.dev/) 有很多令人惊喜的地方，相比 [Visual Studio Code](https://nicelinks.site/post/5af55777979f626ea3d37917) ，Zed 具备更快的启动速度、更高的性能、更简洁的界面、更容易的上手，实时语法分析、高级自动完成、自动格式化...... 当然，由于 Zed 还处于早期开发阶段，某些方面存在限制或不足；诸如，不支持部分框架如 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、缺乏可扩展生态、现支持 MacOS 系统等等；随着继续开发和发布更新，Zed 编辑器将会变得更加稳定而强大，让我们拭目以待。如果您对 Zed 这款新诞生编辑器感兴趣，不妨移步 [Zed Doc](https://docs.zed.dev/) 从而了解更多。
+从实际体验来看， [Zed](https://zed.dev/) 有很多令人惊喜的地方，相比 [Visual Studio Code](https://nicelinks.site/post/5af55777979f626ea3d37917) ，Zed 具备更快的启动速度、更高的性能、更简洁的界面、更容易的上手，实时语法分析、高级自动完成、自动格式化...... 当然，由于 Zed 还处于早期开发阶段，某些方面存在限制或不足；诸如，不支持部分框架如 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、缺乏可扩展生态、现支持 MacOS 系统等等；随着继续开发和发布更新，Zed 编辑器将会变得更加稳定而强大，让我们拭目以待。如果您对 Zed 这款新诞生编辑器感兴趣，不妨移步 [Zed Doc](https://docs.zed.dev/) 从而了解更多。
 
 ── 出自[倾城之链 - Zed - Code at the speed of thought](https://nicelinks.site/post/649ab1f4ae68316b8b822dc2)
 
@@ -108,7 +108,7 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 ![倾城之链 - 1024Code | 轻松创造自己的代码作品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1024code.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[1024Code](https://nicelinks.site/redirect?url=https://1024code.com/) ：一个轻协同 [IDE](https://nicelinks.site/tags/IDE) 环境，集成了 AI 编程助手、编程社区，无需安装环境，任何设备，开箱即用。**1024Code**  提供一个免费的、协作式的、基于浏览器的  `IDE`  环境，支持  `10`  多种编程语言，支持  `Spring` 、`Vue` 、`React`  等框架，还支持很多图形库，并集成了 AI 编程助手、编程社区。拥有无需安装环境，任何设备开箱即用的特性，是刚入门的程序员学习编程，与朋友一起创造作品，分享交流的最佳选择。它主要有以下功能：
+**推荐语**：[1024Code](https://1024code.com/) ：一个轻协同 [IDE](https://nicelinks.site/tags/IDE) 环境，集成了 AI 编程助手、编程社区，无需安装环境，任何设备，开箱即用。**1024Code**  提供一个免费的、协作式的、基于浏览器的  `IDE`  环境，支持  `10`  多种编程语言，支持  `Spring` 、`Vue` 、`React`  等框架，还支持很多图形库，并集成了 AI 编程助手、编程社区。拥有无需安装环境，任何设备开箱即用的特性，是刚入门的程序员学习编程，与朋友一起创造作品，分享交流的最佳选择。它主要有以下功能：
 
 - **在线多人协作**：类似腾讯文档等在线协作文档的协作功能体验，`1024Code`  支持用户邀请多人同时加入一个代码空间实时协作编程。
 - **在线分享**：分享代码空间链接，打开可查看项目文件并运行的“副本”代码空间。
@@ -116,7 +116,7 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 - **Git 版本管理**：`Git Commit`，管理你的代码版本。
 - **数据库**：免费的云端数据库，代码空间的最佳搭档。
 
-总之，[1024Code](https://nicelinks.site/redirect?url=https://1024code.com/) 是一个集成 [AI](https://nicelinks.site/tags/AI) 编程助手、 [编程](https://nicelinks.site/tags/编程) 社区的轻量级协同 IDE 环境，可以随时随地共同创造多人在同一个代码空间中 [协作](https://nicelinks.site/tags/协作) 编程，并在线运行 10 余种编程语言项目。用户可以利用 AI 助手更快、更高效地编程，并将作品托管在 1024Code 上轻松地与他人分享。同时，用户可以通过交互式编程合集和个人编程主页总结知识点、技术栈、学习和思考过程，自我沉淀的同时，更好地对外分享和展示，进而收获更多成就，反哺学习动力（截止 2023 年 06 月 27 日，`1024Code` 尚处于邀测期间，使用邀请码才能注册；没有邀请码，需要自主发起申请，进而被加入候补列表中等待；实际体验，超出预期）。
+总之，[1024Code](https://1024code.com/) 是一个集成 [AI](https://nicelinks.site/tags/AI) 编程助手、 [编程](https://nicelinks.site/tags/编程) 社区的轻量级协同 IDE 环境，可以随时随地共同创造多人在同一个代码空间中 [协作](https://nicelinks.site/tags/协作) 编程，并在线运行 10 余种编程语言项目。用户可以利用 AI 助手更快、更高效地编程，并将作品托管在 1024Code 上轻松地与他人分享。同时，用户可以通过交互式编程合集和个人编程主页总结知识点、技术栈、学习和思考过程，自我沉淀的同时，更好地对外分享和展示，进而收获更多成就，反哺学习动力（截止 2023 年 06 月 27 日，`1024Code` 尚处于邀测期间，使用邀请码才能注册；没有邀请码，需要自主发起申请，进而被加入候补列表中等待；实际体验，超出预期）。
 
 ── 出自[倾城之链 - 1024Code | 轻松创造自己的代码作品](https://nicelinks.site/post/6499a448ae68316b8b822661)
 
@@ -128,11 +128,11 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 ![倾城之链 - Arwes | Futuristic Sci-Fi UI Web Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/arwes.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Arwes](https://nicelinks.site/redirect?url=https://arwes.dev/) 是一个 Web 框架，用于构建基于未来科幻小说设计、动画和声音效果的用户界面。其背后的概念受到了 Cyber​​prep 和 Synthwave 以及 《Star Citizen》、 《Halo》以及《TRON: Legacy.》等作品的影响。它试图激发先进的科学技术。
+**推荐语**：[Arwes](https://arwes.dev/) 是一个 Web 框架，用于构建基于未来科幻小说设计、动画和声音效果的用户界面。其背后的概念受到了 Cyber​​prep 和 Synthwave 以及 《Star Citizen》、 《Halo》以及《TRON: Legacy.》等作品的影响。它试图激发先进的科学技术。
 
 该项目正在开发中，尚未准备好投入生产。它仍处于 alpha 版本，因此组件正在接受测试，并且它们的 API 可能会在完成后发生变化。该框架以 NPM 包的形式为 Web 平台提供，`@arwes/[package]` 适用于 JavaScript ES2018 版本中的 ES 模块、CommonJS 和 UMD 格式，并具有严格的 TypeScript v4.8+ 类型定义。
 
-[Arwes](https://nicelinks.site/redirect?url=https://arwes.dev/) 支持适用于 Android、iOS 和桌面版的最新版本 Chrome、Firefox 和 Safari。支持使用 Node.js v18+ 进行服务器端渲染。[React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) v18+有自定义 API ，可与 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 和 Remix 等工具一起使用。
+[Arwes](https://arwes.dev/) 支持适用于 Android、iOS 和桌面版的最新版本 Chrome、Firefox 和 Safari。支持使用 Node.js v18+ 进行服务器端渲染。[React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) v18+有自定义 API ，可与 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 和 Remix 等工具一起使用。
 
 由于科幻 UI 通常非常特别，具有定制的视觉工作流程和用户体验，目前提供的工具是 "低/中级 API"，这意味着该框架没有为普通的网络应用提供一整套 UI 组件，而是提供了一套基元、实用程序和基础组件来构建一个设计系统。
 
@@ -146,7 +146,7 @@ Rust 独特的类型系统使我们能够跨多个核心并行工作，而不会
 
 ![倾城之链 - Medusa - Building blocks for digital commerce](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/medusajs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Medusa](https://nicelinks.site/redirect?url=https://medusajs.com/) 是一组商务模块和工具，可让您构建丰富、可靠且高性能的商务应用程序，而无需重新发明核心商务逻辑。这些模块可以定制并用于构建高级电子商务商店、市场或任何需要基础商务原语的产品。所有模块都是 [开源](https://nicelinks.site/tags/开源) 的，可以在 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上免费获得。它具有如下功能特征：
+**推荐语**：[Medusa](https://medusajs.com/) 是一组商务模块和工具，可让您构建丰富、可靠且高性能的商务应用程序，而无需重新发明核心商务逻辑。这些模块可以定制并用于构建高级电子商务商店、市场或任何需要基础商务原语的产品。所有模块都是 [开源](https://nicelinks.site/tags/开源) 的，可以在 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上免费获得。它具有如下功能特征：
 
 ### 几分钟内即可开始使用
 
@@ -188,7 +188,7 @@ Medusa 的模块已获得 MIT 许可，以确保您完全控制您的商业堆�
 
 ![倾城之链 - Mantine | A fully featured React components library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mantine.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mantine](https://nicelinks.site/redirect?url=https://mantine.dev/) ，功能齐全的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件库；比以往更快地构建功能齐全、可访问的 Web 应用程序，Mantine 包括 100 多个可定制组件和 50 个挂钩，可满足您在任何情况下的需求；它具有如下功能特征：
+**推荐语**：[Mantine](https://mantine.dev/) ，功能齐全的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件库；比以往更快地构建功能齐全、可访问的 Web 应用程序，Mantine 包括 100 多个可定制组件和 50 个挂钩，可满足您在任何情况下的需求；它具有如下功能特征：
 
 ### 免费和开源
 
@@ -234,7 +234,7 @@ Mantine 基于 Emotion👩‍🎤，利用核心 Emotion 功能：自动供应�
 
 ![倾城之链 - mobile.dev - Maestro, Maestro Studio, Maestro Cloud](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mobile.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Maestro](https://nicelinks.site/redirect?url=https://www.mobile.dev/) 是最简单、最有效的移动 UI 测试框架，只需几分钟（而不是几天）即可编写、更新和运行 UI 测试。**为什么是 Maestro**？Maestro 基于其前身（Appium、Espresso、UIAutomator、XCTest）的经验而构建，可让您轻松定义和测试您的流程：
+**推荐语**：[Maestro](https://www.mobile.dev/) 是最简单、最有效的移动 UI 测试框架，只需几分钟（而不是几天）即可编写、更新和运行 UI 测试。**为什么是 Maestro**？Maestro 基于其前身（Appium、Espresso、UIAutomator、XCTest）的经验而构建，可让您轻松定义和测试您的流程：
 
 - 内置的片状耐受能力。UI 元素并不总是在您期望的位置，屏幕点击也不会总是发生，等等。Maestro 接受移动应用程序和设备的不稳定性，并试图克服它。
 - 内置的延迟容忍度。无需通过 `sleep()` 调用来进行测试。Maestro 知道加载内容可能需要一些时间（即通过网络）并自动等待（但不会超过所需时间）。

@@ -10,7 +10,7 @@
 
 ![倾城之链 - Paperless-ngx | 社区支持的开源文档管理系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/docs.paperless-ngx.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Paperless-ngx](https://nicelinks.site/redirect?url=https://docs.paperless-ngx.com/) 是一个社区支持的开源文档管理系统，可将您的物理文档转换为可搜索的在线档案，这样您就可以减少纸张的使用。它具有如下功能特征：
+**推荐语**：[Paperless-ngx](https://docs.paperless-ngx.com/) 是一个社区支持的开源文档管理系统，可将您的物理文档转换为可搜索的在线档案，这样您就可以减少纸张的使用。它具有如下功能特征：
 
 - 使用标签、通讯员、类型等**组织和索引扫描的文档。**
 - 对文档执行**OCR ，添加可搜索和可选择的文本，甚至可以对仅使用图像扫描的文档进行添加。**
@@ -52,7 +52,7 @@
 
 ![倾城之链 - Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/panda-css.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Panda CSS](https://nicelinks.site/redirect?url=https://panda-css.com/) ，🐼 适合产品团队的通用、类型安全、CSS-in-JS 框架 ⚡️。它提供了一种使用构建时和类型安全的 `CSS-in-JS`构建现代网站的创新方法。官方描述它具有构建时生成的样式、RSC 兼容、多变体支持和一流的开发人员体验； [Panda CSS](https://nicelinks.site/redirect?url=https://panda-css.com/) 具有如下特点：
+**推荐语**：[Panda CSS](https://panda-css.com/) ，🐼 适合产品团队的通用、类型安全、CSS-in-JS 框架 ⚡️。它提供了一种使用构建时和类型安全的 `CSS-in-JS`构建现代网站的创新方法。官方描述它具有构建时生成的样式、RSC 兼容、多变体支持和一流的开发人员体验； [Panda CSS](https://panda-css.com/) 具有如下特点：
 
 1.  **构建时生成的样式**：Panda CSS 在构建时生成静态 CSS，从而加快渲染速度并提高网站性能。
 
@@ -68,7 +68,7 @@
 
 7.  **开发人员体验**：Panda CSS 旨在以较低的学习曲线提供出色的开发人员体验。它提供了简单直观的 API、与各种 JavaScript 框架的无缝集成以及支持社区。
 
-如果您对使用 [Panda CSS](https://nicelinks.site/redirect?url=https://panda-css.com/) 感兴趣，可移步至 [PandaCSS 在 Github 开源仓库](https://github.com/chakra-ui/panda) ；此外，您还可以按照网站上提到的步骤将其安装到您的项目中，并开始构建具有增强样式功能的现代网站。该网站还鼓励开发人员加入 [PandaCSS 的 Discord 社区](https://discord.gg/VQrkpsgSx7) 以获得支持、参与并及时了解 Panda CSS 的最新发展。
+如果您对使用 [Panda CSS](https://panda-css.com/) 感兴趣，可移步至 [PandaCSS 在 Github 开源仓库](https://github.com/chakra-ui/panda) ；此外，您还可以按照网站上提到的步骤将其安装到您的项目中，并开始构建具有增强样式功能的现代网站。该网站还鼓励开发人员加入 [PandaCSS 的 Discord 社区](https://discord.gg/VQrkpsgSx7) 以获得支持、参与并及时了解 Panda CSS 的最新发展。
 
 ── 出自[倾城之链 - Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://nicelinks.site/post/65969f5fb3eaf05e8b5177ef)
 
@@ -82,7 +82,7 @@
 
 ![倾城之链 - Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/park-ui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Park UI](https://nicelinks.site/redirect?url=https://park-ui.com/) ，专为您选择的 JS 和 CSS 框架而构建。 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Solid、 [Panda CSS](https://panda-css.com/) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 等流行框架的兼容性。用户可以通过选择自己喜欢的框架并对其进行自定义来满足自己的需求来开始使用。如果您对其感兴趣，可移步至 [Github 仓库开源](https://github.com/cschroeter/park-ui) ，从而了解更多。
+**推荐语**：[Park UI](https://park-ui.com/) ，专为您选择的 JS 和 CSS 框架而构建。 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Solid、 [Panda CSS](https://panda-css.com/) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 等流行框架的兼容性。用户可以通过选择自己喜欢的框架并对其进行自定义来满足自己的需求来开始使用。如果您对其感兴趣，可移步至 [Github 仓库开源](https://github.com/cschroeter/park-ui) ，从而了解更多。
 
 **支持哪些 JS 框架**？Park UI 构建在 Ark UI 之上，因此支持以下 JS 框架：React、Solid 和 Vue。但是，您仍然可以将 Park UI 样式与其他 JS 框架一起使用。在这种情况下，您需要将 Ark UI 部分替换为不同的无头 UI 库。
 
@@ -98,7 +98,7 @@
 
 ![倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/finchat.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[FinChat.io](https://nicelinks.site/redirect?url=https://finchat.io/) 是集机构级金融数据、分析和对话式 [人工智能](https://nicelinks.site/tags/AI) 于一身的投资研究平台。 它强调其人工智能驱动的研究能力，并将自己定位为全球股票平台。并强调准确数据的重要性，并提供经过人力资本分析师验证的机构质量信息。该平台提供标准普尔市场情报的财务和估计以及 FinChat 验证数据的细分和关键绩效指标。
+**推荐语**：[FinChat.io](https://finchat.io/) 是集机构级金融数据、分析和对话式 [人工智能](https://nicelinks.site/tags/AI) 于一身的投资研究平台。 它强调其人工智能驱动的研究能力，并将自己定位为全球股票平台。并强调准确数据的重要性，并提供经过人力资本分析师验证的机构质量信息。该平台提供标准普尔市场情报的财务和估计以及 FinChat 验证数据的细分和关键绩效指标。
 
 该网站还提到了人工智能助手的存在，它允许用户将数据转化为讨论，并使用严格详细和准确的数据深入调查公司。此外，FinChat.io 还提供可定制的终端，用户可以在其中跟踪他们的首选数据并自动保存他们的研究。
 
@@ -108,7 +108,7 @@
 
 FinChat.io 提供时事通讯订阅服务，让用户了解每周的收益、见解、研究和新闻。
 
-总体而言， [FinChat.io](https://nicelinks.site/redirect?url=https://finchat.io/) 似乎是一个综合性的股票研究平台，利用人工智能驱动的功能提供准确的数据、工具和见解，帮助投资者做出明智的决策。FinChat 支持免费使用（无需信用卡），如果需要更贴心、强大需要购买 Pro 计划（29 美元每月）。
+总体而言， [FinChat.io](https://finchat.io/) 似乎是一个综合性的股票研究平台，利用人工智能驱动的功能提供准确的数据、工具和见解，帮助投资者做出明智的决策。FinChat 支持免费使用（无需信用卡），如果需要更贴心、强大需要购买 Pro 计划（29 美元每月）。
 
 ── 出自[倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://nicelinks.site/post/659010bdb3eaf05e8b515c26)
 
@@ -120,7 +120,7 @@ FinChat.io 提供时事通讯订阅服务，让用户了解每周的收益、见
 
 ![倾城之链 - Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cronicle.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cronicle](https://nicelinks.site/redirect?url=https://cronicle.net/) 是一个多服务器任务调度程序和运行程序，具有基于 Web 的前端 UI。它可以处理计划的、重复的和按需的作业，针对任意数量的从属服务器，并具有实时统计数据和实时日志查看器。它基于 Node.js 编写，开源并获得 MIT 许可。Cronicle 具有如下功能特征：
+**推荐语**：[Cronicle](https://cronicle.net/) 是一个多服务器任务调度程序和运行程序，具有基于 Web 的前端 UI。它可以处理计划的、重复的和按需的作业，针对任意数量的从属服务器，并具有实时统计数据和实时日志查看器。它基于 Node.js 编写，开源并获得 MIT 许可。Cronicle 具有如下功能特征：
 
 - **易于安装**：单个命令运行自动安装脚本，所有依赖项都是 npm 包。5 分钟内即可启动并运行。
 - **单服务器或多服务器设置**：自动发现附近的服务器，并自动故障转移到备份。作业会在适用时自动重试。

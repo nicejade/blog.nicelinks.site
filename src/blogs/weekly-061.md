@@ -12,11 +12,11 @@
 
 ![倾城之链 - Developer Roadmaps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/roadmap.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Roadmap.sh](https://nicelinks.site/redirect?url=https://roadmap.sh/) 是一个包含社区策划的路线图、学习计划、路径和资源的地方，供新兴开发人员使用（网站基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 构建）。它最初是一组图表，用于指导 对下一步应该学习什么感到困惑的开发人员，但仅此还不够，因此我将其扩展到网站，以吸引更多贡献者。
+**推荐语**：[Roadmap.sh](https://roadmap.sh/) 是一个包含社区策划的路线图、学习计划、路径和资源的地方，供新兴开发人员使用（网站基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 构建）。它最初是一组图表，用于指导 对下一步应该学习什么感到困惑的开发人员，但仅此还不够，因此我将其扩展到网站，以吸引更多贡献者。
 
 Roadmap.sh 涉猎内容非常丰富，诸如：FrontEnd、BackEnd、DevOps、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、Android、Python、Go、Java、DBA 等；作者将主题所涉及的相关内容，及其关系，绘制于一张图内，形成指南，从而为开发者带来参考。除了路线图外，该网站还提供有些技术（工具）相关的文章、视频相关分享。
 
-[Roadmap.sh](https://nicelinks.site/redirect?url=https://roadmap.sh/) 是一个开源项目，截止 2022 年 4 月份，其 Star 数接近 20 万，每月有数十万开发人员访问。您如果对其感兴趣，可订阅更新（支持免费、也支持更新付费内容）。如果你想更多充分了解它，请参见 [About Roadmap.sh](https://nicelinks.site/redirect?url=https://roadmap.sh/about)。
+[Roadmap.sh](https://roadmap.sh/) 是一个开源项目，截止 2022 年 4 月份，其 Star 数接近 20 万，每月有数十万开发人员访问。您如果对其感兴趣，可订阅更新（支持免费、也支持更新付费内容）。如果你想更多充分了解它，请参见 [About Roadmap.sh](https://roadmap.sh/about)。
 
 ── 出自[倾城之链 - Developer Roadmaps](https://nicelinks.site/post/6258222ff3a35106466b7702)
 
@@ -30,9 +30,9 @@ Roadmap.sh 涉猎内容非常丰富，诸如：FrontEnd、BackEnd、DevOps、[Re
 
 ![倾城之链 - 免费学习编程 - Python、JavaScript、Java、Git 等](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/chinese.freecodecamp.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[freeCodeCamp.org](https://nicelinks.site/redirect?url=https://chinese.freecodecamp.org/)，是一个**免费学习编程的**开发者社区，涵盖 Python、HTML、CSS、React、Vue、BootStrap、JSON 教程等，还有活跃的技术论坛和丰富的社区活动，在你学习编程和找工作时为你提供建议和帮助。其官网介绍道：自 2014 年以来，已有超过 40,000 名学员，入职科技公司。
+**推荐语**：[freeCodeCamp.org](https://chinese.freecodecamp.org/)，是一个**免费学习编程的**开发者社区，涵盖 Python、HTML、CSS、React、Vue、BootStrap、JSON 教程等，还有活跃的技术论坛和丰富的社区活动，在你学习编程和找工作时为你提供建议和帮助。其官网介绍道：自 2014 年以来，已有超过 40,000 名学员，入职科技公司。
 
-> [freeCodeCamp.org](https://nicelinks.site/redirect?url=https://chinese.freecodecamp.org/) 的使命是：帮助人们免费学习编程。我们通过创建成千上万的视频、文章和交互式编程课程——所有内容向公众免费开放——来实现这一目标。学员在世界各地自发成立数千个 freeCodeCamp 学习小组。所有给 freeCodeCamp 的捐款都将用于我们的教育项目，购买服务器和其他服务，以及聘用员工。
+> [freeCodeCamp.org](https://chinese.freecodecamp.org/) 的使命是：帮助人们免费学习编程。我们通过创建成千上万的视频、文章和交互式编程课程——所有内容向公众免费开放——来实现这一目标。学员在世界各地自发成立数千个 freeCodeCamp 学习小组。所有给 freeCodeCamp 的捐款都将用于我们的教育项目，购买服务器和其他服务，以及聘用员工。
 
 在 freeCodeCamp.org，您可以获得以下免费认证：响应式网页设计、JavaScript 算法和数据结构、前端开发库、数据可视化、后端开发和 APIs、Python 和科学计算、Python 和数据分析、Python 和机器学习、信息安全、关系数据库、质量保证等等。
 
@@ -48,11 +48,11 @@ Roadmap.sh 涉猎内容非常丰富，诸如：FrontEnd、BackEnd、DevOps、[Re
 
 ![倾城之链 - curl | command line tool and library for transferring data with URLs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/curl.se.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Curl](https://nicelinks.site/redirect?url=https://curl.se/) 非常有用的命令行工具库，用于通过 URL 传输数据（是一款免费开源软件）。它的名字就是客户端（client）的 URL 工具的意思（**command line tool and library** for transferring data with URLs）。它的功能非常强大，命令行参数多达几十种。如能熟练使用，可以在很多应用场景下，发挥巨大的价值。比如，Curl 还用于汽车、电视机、路由器、打印机、音频设备、移动电话、平板电脑、机顶盒、媒体播放器，并且是安装量超过 100 亿的数千个软件应用程序的 Internet 传输引擎。
+**推荐语**：[Curl](https://curl.se/) 非常有用的命令行工具库，用于通过 URL 传输数据（是一款免费开源软件）。它的名字就是客户端（client）的 URL 工具的意思（**command line tool and library** for transferring data with URLs）。它的功能非常强大，命令行参数多达几十种。如能熟练使用，可以在很多应用场景下，发挥巨大的价值。比如，Curl 还用于汽车、电视机、路由器、打印机、音频设备、移动电话、平板电脑、机顶盒、媒体播放器，并且是安装量超过 100 亿的数千个软件应用程序的 Internet 传输引擎。
 
 Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、HTTP、HTTPS、IMAP、IMAPS、LDAP、LDAPS、MQTT、POP3、POP3S、RTMP、RTMPS、RTSP、SCP、SFTP、SMB、SMBS、SMTP、SMTPS、TELNET 和 TFTP。curl 支持 SSL 证书、HTTP POST、HTTP PUT、FTP 上传、基于 HTTP 表单的上传、代理、HTTP/2、HTTP/3、cookie、用户+密码身份验证（Basic、Plain、Digest、CRAM-MD5、SCRAM-SHA、 NTLM、Negotiate 和 Kerberos）、文件传输恢复、代理隧道等格式。
 
-[Curl](https://nicelinks.site/redirect?url=https://curl.se/) 是一款免费开源软件，截止 2021 年 2 月，最近稳定版本是 **7.75.0**；无论是 Windows、Mac 还是 Linux 系统，Curl 都已默认安装，因此您可以直接使用。全球几乎每个使用 Internet 的人每天都在使用 Curl。无论您是否从事编程相关工作，相信知晓 Curl 之妙用，将会在很多场景，给你带来效率提升；如果您对这款工具软件感兴趣，可参见文章：[堪称神器的命令行工具系列之 curl](https://quickapp.lovejade.cn/magic-tools-series-curl/)。
+[Curl](https://curl.se/) 是一款免费开源软件，截止 2021 年 2 月，最近稳定版本是 **7.75.0**；无论是 Windows、Mac 还是 Linux 系统，Curl 都已默认安装，因此您可以直接使用。全球几乎每个使用 Internet 的人每天都在使用 Curl。无论您是否从事编程相关工作，相信知晓 Curl 之妙用，将会在很多场景，给你带来效率提升；如果您对这款工具软件感兴趣，可参见文章：[堪称神器的命令行工具系列之 curl](https://quickapp.lovejade.cn/magic-tools-series-curl/)。
 
 ── 出自[倾城之链 - curl | command line tool and library for transferring data with URLs](https://nicelinks.site/post/62556c92f3a35106466b76fe)
 
@@ -64,7 +64,7 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 ![倾城之链 - 海底捞](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.haidilao.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[海底捞](https://nicelinks.site/redirect?url=https://www.haidilao.com/)，是一家以经营川味火锅为主的连锁品牌，成立于 1994 年，它以经营川味火锅为主、融汇各地火锅特色为一体，是大型跨省直营餐饮品牌火锅店，全称是：四川海底捞餐饮股份有限公司 。在北京、上海、郑州、西安、南京、天津、杭州，简阳等城市开有连锁门店。该品牌自创立以来，始终奉行“**服务至上，顾客至上**”的理念，以贴心，周到，优质的服务，赢得了纷至沓来的顾客和社会的广泛赞誉。
+**推荐语**：[海底捞](https://www.haidilao.com/)，是一家以经营川味火锅为主的连锁品牌，成立于 1994 年，它以经营川味火锅为主、融汇各地火锅特色为一体，是大型跨省直营餐饮品牌火锅店，全称是：四川海底捞餐饮股份有限公司 。在北京、上海、郑州、西安、南京、天津、杭州，简阳等城市开有连锁门店。该品牌自创立以来，始终奉行“**服务至上，顾客至上**”的理念，以贴心，周到，优质的服务，赢得了纷至沓来的顾客和社会的广泛赞誉。
 
 2018 年 5 月 17 日，海底捞在港交所递交上市申请。 2018 年 9 月 3 日，海底捞通过港交所上市聆讯，上半年营收 73.42 亿同比增 54.4%。 2018 年 9 月 27 日，海底捞在港交所上市。 2021 年 11 月 5 日，海底捞公告：决定在 2021 年 12 月 31 日逐步关停 300 家左右客流量相对较低、及经营业绩不如预期的海底捞门店。这几年，在商业上的发展，因各种原因，海底捞似乎不及预期。
 
@@ -81,7 +81,7 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 ![倾城之链 - Textomap](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.textomap.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Textomap](https://nicelinks.site/redirect?url=https://www.textomap.com/)，是一个网络应用程序和 Chrome 扩展程序，使用户能够立即（几秒中）从包含位置的任何文本生成地图。用户可以将地图添加到他们的阅读体验中，并使用 Chrome 扩展程序在同一浏览器选项卡中可视化文本。它具有以下特征：
+**推荐语**：[Textomap](https://www.textomap.com/)，是一个网络应用程序和 Chrome 扩展程序，使用户能够立即（几秒中）从包含位置的任何文本生成地图。用户可以将地图添加到他们的阅读体验中，并使用 Chrome 扩展程序在同一浏览器选项卡中可视化文本。它具有以下特征：
 
 - 使用简单，只需在文本框，粘贴您的文本（带有地点内容），它即可开始工作；
 - 支持多种语言，比如：中文、英文等；而且生成的地图，也跟所输入的本文语言相符；
@@ -89,7 +89,7 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 - 使用 Chrome 扩展程序，可**一键可视化**同一浏览器选项卡中的任何文本；
 - 支持添加多个来源，收集和比较内容，识别模式和趋势，轻松更新和**编辑**；
 
-目前，[Textomap](https://nicelinks.site/redirect?url=https://www.textomap.com/) 尚处于公测版本；地图为我们提供重要信息，可让我们更清楚地了解情况。无论是当前新闻、下一个度假目的地，还是有关人物和地点的文章，地图都能为您提供更好的背景和概览。
+目前，[Textomap](https://www.textomap.com/) 尚处于公测版本；地图为我们提供重要信息，可让我们更清楚地了解情况。无论是当前新闻、下一个度假目的地，还是有关人物和地点的文章，地图都能为您提供更好的背景和概览。
 
 ── 出自[倾城之链 - Textomap](https://nicelinks.site/post/62529693f3a35106466b76fa)
 
@@ -101,7 +101,7 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 ![倾城之链 - Image to Cartoon | Cartoonize and emoji yourself](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/imagetocartoon.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cartoonize](https://nicelinks.site/redirect?url=https://imagetocartoon.com/)，一款在线将**图片**转**卡通**的网站，堪称：免费在线最佳 AI 漫画家；Cartoonize 可以将您的脸部照片变成具有 40 多种不同卡通效果的卡通。由人工智能（AI）技术提供支持，它可能是您应用令人难以置信的背景的最佳卡通头像制作者。体验了下，总结出 Cartoonize 具有以下几个特点：
+**推荐语**：[Cartoonize](https://imagetocartoon.com/)，一款在线将**图片**转**卡通**的网站，堪称：免费在线最佳 AI 漫画家；Cartoonize 可以将您的脸部照片变成具有 40 多种不同卡通效果的卡通。由人工智能（AI）技术提供支持，它可能是您应用令人难以置信的背景的最佳卡通头像制作者。体验了下，总结出 Cartoonize 具有以下几个特点：
 
 - 不仅可以将人脸照片转换为卡通，还可以自己转换表情符号；
 - Cartoonize，支持免费使用，每周限制为 9 张；

@@ -10,7 +10,7 @@
 
 ![倾城之链 - 沉浸式翻译 - 双语网页翻译扩展, 电子书翻译, PDF翻译, 字幕翻译](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/immersivetranslate.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[沉浸式翻译](https://nicelinks.site/redirect?url=https://immersivetranslate.com/) 是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF 文件翻译，EPUB 电子书双语翻译、制作、导出，字幕文件翻译等功能。免费使用，支持 Deepl、Google、 [有道](https://nicelinks.site/post/5b3753d1187e143b63cf01ee) 、腾讯翻译等多个翻译服务，支持 Firefox、Chrome、油猴脚本，亦可在 iOS Safari 上使用。主要有以下功能特性：
+**推荐语**：[沉浸式翻译](https://immersivetranslate.com/) 是一款浏览器插件，可以智能识别网页主内容区进行双语翻译，插件支持全平台浏览器，PDF 文件翻译，EPUB 电子书双语翻译、制作、导出，字幕文件翻译等功能。免费使用，支持 Deepl、Google、 [有道](https://nicelinks.site/post/5b3753d1187e143b63cf01ee) 、腾讯翻译等多个翻译服务，支持 Firefox、Chrome、油猴脚本，亦可在 iOS Safari 上使用。主要有以下功能特性：
 
 - **沉浸式阅读外文网站**：通过智能识别网页主内容区域并进行双语对照翻译，沉浸式翻译提供了全新的外文阅读体验，因此得名“沉浸式翻译”。
 - **强大的输入框翻译**：将任何网页上的输入框化身为多语言翻译器，立刻解锁谷歌搜索， [ChatGPT](https://nicelinks.site/tags/ChatGPT) 等工具的双语实时对话体验。
@@ -41,7 +41,7 @@
 
 ![倾城之链 - Skeleton — UI Toolkit for Svelte + Tailwind](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.skeleton.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Skeleton](https://nicelinks.site/redirect?url=https://www.skeleton.dev/) 是一个使用 [Svelte](https://nicelinks.site/tags/Svelte) + [Tailwind](https://nicelinks.site/tags/Tailwind) 构建的开源 UI 工具包，允许您使用 Svelte + Tailwind CSS 创建反应式 Web 界面。它具有如下功能特征：
+**推荐语**： [Skeleton](https://www.skeleton.dev/) 是一个使用 [Svelte](https://nicelinks.site/tags/Svelte) + [Tailwind](https://nicelinks.site/tags/Tailwind) 构建的开源 UI 工具包，允许您使用 Svelte + Tailwind CSS 创建反应式 Web 界面。它具有如下功能特征：
 
 ### 专为 Svelte 和 SvelteKit 设计
 
@@ -79,7 +79,7 @@ Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法�
 
 支持所有形式的图标以实现完全控制，包括：unicode、表情符号、矢量或基于 SVG 的图标系统。
 
-总之， [Skeleton](https://nicelinks.site/redirect?url=https://www.skeleton.dev/) 是一个很棒的组件库；个人最新项目： [素问智聊斋](https://chatgpt.nicelinks.site/) ，部分功能，也有采用 `Skeleton` 来达成，它那优雅的设计令人影响深刻；值得一提的是，该项目在 Github 仓库开源，如果您对其感兴趣，可移步前往了解更多。如果您也喜欢基于 [Svelte](https://nicelinks.site/tags/Svelte) 、 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 开发 Web 应用，UI 组件库，强烈推荐优先考虑使用它。
+总之， [Skeleton](https://www.skeleton.dev/) 是一个很棒的组件库；个人最新项目： [素问智聊斋](https://chatgpt.nicelinks.site/) ，部分功能，也有采用 `Skeleton` 来达成，它那优雅的设计令人影响深刻；值得一提的是，该项目在 Github 仓库开源，如果您对其感兴趣，可移步前往了解更多。如果您也喜欢基于 [Svelte](https://nicelinks.site/tags/Svelte) 、 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 开发 Web 应用，UI 组件库，强烈推荐优先考虑使用它。
 
 ── 出自[倾城之链 - Skeleton — UI Toolkit for Svelte + Tailwind](https://nicelinks.site/post/64f0a31f3fed3e7c95888411)
 
@@ -93,7 +93,7 @@ Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法�
 
 ![倾城之链 - MarkDX - AI Markdown Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.markdx.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MarkDX](https://nicelinks.site/redirect?url=https://www.markdx.site/) ，是一个 Markdown 编辑器，它利用 [AI](https://nicelinks.site/tags/AI) 让标准 [Markdown](https://nicelinks.site/tags/Markdown) 变得更加强大。以下是 MarkDX 的一些功能特征：
+**推荐语**：[MarkDX](https://www.markdx.site/) ，是一个 Markdown 编辑器，它利用 [AI](https://nicelinks.site/tags/AI) 让标准 [Markdown](https://nicelinks.site/tags/Markdown) 变得更加强大。以下是 MarkDX 的一些功能特征：
 
 ### 生成或记录代码
 
@@ -119,7 +119,7 @@ Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法�
 
 您可以与您的团队实时协作。
 
-总之， [MarkDX](https://nicelinks.site/redirect?url=https://www.markdx.site/) 是一款简单、快速且灵活的 AI 支持的 Markdown 编辑器，登录即可免费使用，可帮您实现一流的 Markdown 写作。值得一提的是，该项目在 [Github 仓库开源](https://github.com/arshad-yaseen/markdx) ，如果您对其感兴趣，可移步前往从而了解更多。
+总之， [MarkDX](https://www.markdx.site/) 是一款简单、快速且灵活的 AI 支持的 Markdown 编辑器，登录即可免费使用，可帮您实现一流的 Markdown 写作。值得一提的是，该项目在 [Github 仓库开源](https://github.com/arshad-yaseen/markdx) ，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - MarkDX - AI Markdown Editor](https://nicelinks.site/post/64f086963fed3e7c9588826c)
 
@@ -131,7 +131,7 @@ Skeleton 的设计完全利用了 Tailwind 独特的 CSS 样式实用类方法�
 
 ![倾城之链 - AutoAnimate - Add motion to your apps with a single line of code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/auto-animate.formkit.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AutoAnimate](https://nicelinks.site/redirect?url=https://auto-animate.formkit.com/) 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、[Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf) 或任何其他 JavaScript 应用程序一起使用。
+**推荐语**：[AutoAnimate](https://auto-animate.formkit.com/) 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、[Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf) 或任何其他 JavaScript 应用程序一起使用。
 
 AutoAnimate 本质上是一个 `autoAnimate` 接受父元素的函数。自动动画将应用于父元素及其直接子元素。当发生以下三个事件之一时，会专门触发动画：
 
@@ -157,7 +157,7 @@ AutoAnimate 的目标是消除对 DOM 的更改，否则最终用户会感到困
 
 ![倾城之链 - Floating UI - Create tooltips, popovers, dropdowns, and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/floating-ui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Floating UI](https://nicelinks.site/redirect?url=https://floating-ui.com/) 是一个小型 [JavaScript](https://nicelinks.site/tags/JavaScript) 工具库，可帮助您创建“浮动”元素，例如工具提示、弹出窗口、下拉菜单等。它提供两个主要功能：
+**推荐语**：[Floating UI](https://floating-ui.com/) 是一个小型 [JavaScript](https://nicelinks.site/tags/JavaScript) 工具库，可帮助您创建“浮动”元素，例如工具提示、弹出窗口、下拉菜单等。它提供两个主要功能：
 
 1.  **锚定位**：将浮动元素（例如工具提示）锚定到另一个元素（例如按钮），同时通过避免碰撞确保其尽可能保持在视图中。此功能适用于所有平台。
 2.  **React 的用户交互**：用于组合交互以创建可访问的浮动 UI 组件的钩子和组件。从简单的工具提示到选择菜单、对话框、组合框，您可以完全控制，同时确保**完全可访问的**UI 体验。

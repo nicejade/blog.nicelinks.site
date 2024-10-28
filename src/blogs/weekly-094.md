@@ -10,7 +10,7 @@
 
 ![倾城之链 - Make A Video](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/makeavideo.studio.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Make-A-Video](https://nicelinks.site/redirect?url=https://makeavideo.studio/) ，是一个最先进的人工智能（[AI](https://nicelinks.site/tags/AI)）系统，可以从文本生成高质量视频（Meta 公司出品）。Make A Video 研究建立在文本到图像生成技术的最新进展之上，该技术旨在实现**文本到视频的生成**，让你的想象力发挥出来，只需几个字或几行文字（超现实主义、现实、风格化）。该系统使用带有描述的图像，来了解世界是什么样子以及通常是如何描述的。它还使用未标记的视频来了解世界如何移动。
+**推荐语**：[Make-A-Video](https://makeavideo.studio/) ，是一个最先进的人工智能（[AI](https://nicelinks.site/tags/AI)）系统，可以从文本生成高质量视频（Meta 公司出品）。Make A Video 研究建立在文本到图像生成技术的最新进展之上，该技术旨在实现**文本到视频的生成**，让你的想象力发挥出来，只需几个字或几行文字（超现实主义、现实、风格化）。该系统使用带有描述的图像，来了解世界是什么样子以及通常是如何描述的。它还使用未标记的视频来了解世界如何移动。
 
 ── 出自[倾城之链 - Make A Video](https://nicelinks.site/post/6388b6d16584a1758339bf0d)
 
@@ -22,7 +22,7 @@
 
 ![倾城之链 - Grape | A story-telling platform for programming](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.grape.codes.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Grape](:https://nicelinks.site/redirect?url=https://www.grape.codes/) 是一个在线代码编辑器，用于一键自动**生成互动编码视频**。用于让用户演示代码操作。它可以把操作过程录制下来，像视频一样播放，但实际是一个小体积的脚本，便于分享和传播。`grape` 主要面向用户是：**创作者**和**学习者**。
+**推荐语**：[Grape](:=https://www.grape.codes/) 是一个在线代码编辑器，用于一键自动**生成互动编码视频**。用于让用户演示代码操作。它可以把操作过程录制下来，像视频一样播放，但实际是一个小体积的脚本，便于分享和传播。`grape` 主要面向用户是：**创作者**和**学习者**。
 
 ### 创作者
 
@@ -46,7 +46,7 @@
 
 ![倾城之链 - Lexica - The Stable Diffusion search engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lexica.art.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lexica](https://nicelinks.site/redirect?url=https://lexica.art/) Stable Diffusion 模型的搜索引擎，可以搜索这个 [AI](https://nicelinks.site/tags/AI) 作图模型所生成的各种图片。并且，支持上传图像以进行反向搜索。此外，描述你希望看到的图像，也可以**生成图片**（需要登录）。当下（时值 2022 年末），基于「文字描述」来生成图片及视频，相关产品、AI 模型（Stable Diffusion，相当热门的 AI 作图模型）、创业都非常火爆；如果您对这方面感兴趣，不妨体验下，以汲取灵感。
+**推荐语**：[Lexica](https://lexica.art/) Stable Diffusion 模型的搜索引擎，可以搜索这个 [AI](https://nicelinks.site/tags/AI) 作图模型所生成的各种图片。并且，支持上传图像以进行反向搜索。此外，描述你希望看到的图像，也可以**生成图片**（需要登录）。当下（时值 2022 年末），基于「文字描述」来生成图片及视频，相关产品、AI 模型（Stable Diffusion，相当热门的 AI 作图模型）、创业都非常火爆；如果您对这方面感兴趣，不妨体验下，以汲取灵感。
 
 ── 出自[倾城之链 - Lexica - The Stable Diffusion search engine](https://nicelinks.site/post/638892f56584a1758339b95b)
 
@@ -60,7 +60,7 @@
 
 ![倾城之链 - 在线修改图片大小尺寸；免费抠图照片处理工具 - 改图神器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/img.logosc.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[改图神器](https://nicelinks.site/redirect?url=https://img.logosc.cn/) ，一款在线 [图片编辑器](https://nicelinks.site/tags/图片编辑器) 网站（基于 Vue、React、Next.js、Nginx 等搭建）；它支持在线修改图片颜色、尺寸，图片批量压缩，智能抠图去水印，GIF 制作，基于 AI 去水印， 格式转换，添加水印，证件照，漫画头像，透明 LOGO，放大变清晰，转矢量图，视频转 GIF，照片美化，照片变活等功能。有体验其「漫画头像」功能，效果还可以（每天免费使用 2 次）；但亦有不足，譬如脸部有头发等遮挡物等情形，所生成图片颇不忍睹，亟待改进提升。另外，值得一提的是，该公司旗下还有 [LOGO 设计神器](https://nicelinks.site/post/626e6b287d02b74eba0f09c2) 、 [神器集](https://nicelinks.site/redirect?url=https://hao.logosc.cn/) 等产品。
+**推荐语**：[改图神器](https://img.logosc.cn/) ，一款在线 [图片编辑器](https://nicelinks.site/tags/图片编辑器) 网站（基于 Vue、React、Next.js、Nginx 等搭建）；它支持在线修改图片颜色、尺寸，图片批量压缩，智能抠图去水印，GIF 制作，基于 AI 去水印， 格式转换，添加水印，证件照，漫画头像，透明 LOGO，放大变清晰，转矢量图，视频转 GIF，照片美化，照片变活等功能。有体验其「漫画头像」功能，效果还可以（每天免费使用 2 次）；但亦有不足，譬如脸部有头发等遮挡物等情形，所生成图片颇不忍睹，亟待改进提升。另外，值得一提的是，该公司旗下还有 [LOGO 设计神器](https://nicelinks.site/post/626e6b287d02b74eba0f09c2) 、 [神器集](https://hao.logosc.cn/) 等产品。
 
 ── 出自[倾城之链 - 在线修改图片大小尺寸；免费抠图照片处理工具 - 改图神器](https://nicelinks.site/post/6387730b6584a1758339af81)
 
@@ -74,7 +74,7 @@
 
 ![倾城之链 - 发现最酷的互联网产品工具和智能神器！ - 神器集](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hao.logosc.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[神器集](https://nicelinks.site/redirect?url=https://hao.logosc.cn/) 是一个发现 & 分享**有趣在线工具**的网站。分享产品非常简单，只需提交一个产品链接并完善相关内容，审核通过后我们将微信自动通知你。其同类型产品，有 [倾城之链](https://nicelinks.site) 、 [新趣集](https://nicelinks.site/post/604a16ec5f9af714fe21dcc8) 、 [创造者日报](https://nicelinks.site/post/5db1d4aba7d64d01501bc72a) 、 [线圈](https://nicelinks.site/post/631ebcae6d57c401f21d6713) 等。另外，值得一提的是，该公司旗下还有 [LOGO 设计神器](https://nicelinks.site/post/626e6b287d02b74eba0f09c2)、[改图神器](https://nicelinks.site/post/6387730b6584a1758339af81) 等产品。
+**推荐语**：[神器集](https://hao.logosc.cn/) 是一个发现 & 分享**有趣在线工具**的网站。分享产品非常简单，只需提交一个产品链接并完善相关内容，审核通过后我们将微信自动通知你。其同类型产品，有 [倾城之链](https://nicelinks.site) 、 [新趣集](https://nicelinks.site/post/604a16ec5f9af714fe21dcc8) 、 [创造者日报](https://nicelinks.site/post/5db1d4aba7d64d01501bc72a) 、 [线圈](https://nicelinks.site/post/631ebcae6d57c401f21d6713) 等。另外，值得一提的是，该公司旗下还有 [LOGO 设计神器](https://nicelinks.site/post/626e6b287d02b74eba0f09c2)、[改图神器](https://nicelinks.site/post/6387730b6584a1758339af81) 等产品。
 
 ── 出自[倾城之链 - 发现最酷的互联网产品工具和智能神器！ - 神器集](https://nicelinks.site/post/63876dc76584a1758339ae7f)
 
@@ -86,7 +86,7 @@
 
 ![倾城之链 - 编程小梦|康凯森的技术博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.bcmeng.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[编程小梦](https://nicelinks.site/redirect?url=https://blog.bcmeng.com/) ，康凯森的个人技术博客，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Nginx](https://nicelinks.site/post/6339a6aa35a9c117dacf2363) 、Bootstrap 等搭建，专注[数据库](https://nicelinks.site/tags/数据库)领域。除了个人博客，作者还会在「知识星球」，分享数据库知识、程序员通用技能、程序员成长、面试经验、创业心得、投资心得等内容。
+**推荐语**：[编程小梦](https://blog.bcmeng.com/) ，康凯森的个人技术博客，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Nginx](https://nicelinks.site/post/6339a6aa35a9c117dacf2363) 、Bootstrap 等搭建，专注[数据库](https://nicelinks.site/tags/数据库)领域。除了个人博客，作者还会在「知识星球」，分享数据库知识、程序员通用技能、程序员成长、面试经验、创业心得、投资心得等内容。
 
 ── 出自[倾城之链 - 编程小梦|康凯森的技术博客](https://nicelinks.site/post/6386e3416584a1758339a79f)
 

@@ -10,9 +10,9 @@
 
 ![倾城之链 - Discover and get early access to tomorrow's startups | BetaList](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/betalist.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[BetaList](https://nicelinks.site/redirect?url=https://betalist.com/) ，是一个在线平台 ， 使用户能够发现、并尽早接触最新的互联网创业公司的社区。它由制造商和早期采用者（adopters）组成，是早期采用者发现即将推出，以及最近推出的互联网初创公司的地方，也是初创公司创始人与世界分享他们的初创公司，并获得早期用户反馈的地方。如果您拥有初创公司，您可以提交您的网站至 `betaList`，当然您也可以在 BetaList 做广告，以便得到更多的曝光。
+**推荐语**：[BetaList](https://betalist.com/) ，是一个在线平台 ， 使用户能够发现、并尽早接触最新的互联网创业公司的社区。它由制造商和早期采用者（adopters）组成，是早期采用者发现即将推出，以及最近推出的互联网初创公司的地方，也是初创公司创始人与世界分享他们的初创公司，并获得早期用户反馈的地方。如果您拥有初创公司，您可以提交您的网站至 `betaList`，当然您也可以在 BetaList 做广告，以便得到更多的曝光。
 
-对于更多普通用户，您可以在 BetaList 了解当年一些创业的想法和实现，从而汲取灵感，相信无论对于您创业，或者高效工作、快乐生活，都有一定参考价值。如果您想了解更多关于 BetaList，可以参见 [BetaList FAQ](https://nicelinks.site/redirect?url=https://betalist.com/faq) 。
+对于更多普通用户，您可以在 BetaList 了解当年一些创业的想法和实现，从而汲取灵感，相信无论对于您创业，或者高效工作、快乐生活，都有一定参考价值。如果您想了解更多关于 BetaList，可以参见 [BetaList FAQ](https://betalist.com/faq) 。
 
 ── 出自[倾城之链 - Discover and get early access to tomorrow's startups | BetaList](https://nicelinks.site/post/62d01a5f65fb1506218fa5da)
 
@@ -26,9 +26,9 @@
 
 ![倾城之链 - Beat procrastination with a gamified habit tracker - Habits Garden](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/habitsgarden.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Habits Garden](https://nicelinks.site/redirect?url=https://habitsgarden.com/) ，习惯花园，一款在线产品应用，旨在用游戏的形式，来让你养成一个习惯，从而战胜拖延症，比如读书，戒烟，学英语等等。其内在逻辑是，它利用游戏的令人上瘾的力量，来帮助您养成与朋友一起玩乐的好习惯。具体是：通过挑战任务，来完成目标，获得奖励，然后重复，从而帮助养成习惯。每天打卡获得钻石，钻石可以用来种树，进而种植一个美妙的花园。您也可以邀请好友一起来，查看他们的习惯，互相激励，争夺每周排行榜！
+**推荐语**：[Habits Garden](https://habitsgarden.com/) ，习惯花园，一款在线产品应用，旨在用游戏的形式，来让你养成一个习惯，从而战胜拖延症，比如读书，戒烟，学英语等等。其内在逻辑是，它利用游戏的令人上瘾的力量，来帮助您养成与朋友一起玩乐的好习惯。具体是：通过挑战任务，来完成目标，获得奖励，然后重复，从而帮助养成习惯。每天打卡获得钻石，钻石可以用来种树，进而种植一个美妙的花园。您也可以邀请好友一起来，查看他们的习惯，互相激励，争夺每周排行榜！
 
-[Habits Garden](https://nicelinks.site/redirect?url=https://habitsgarden.com/) 界面设计非常简洁好看，还有音效和动画；作者不打算提供 IOS 或 Android 应用，您可以将 Habits Garden **添加到您的主屏幕**（通过`浏览器`），它的行为就像一个原生应用程序。您可以在智能手机、平板电脑和笔记本电脑上，使用习惯追踪器。habits garden 免费可用，当免费试用期（7 天）结束后，游戏功能被锁定（花园、任务、奖励等），您的帐户被切换到 Free-Forever Habit Tracker Plan。您可以免费使用最令人满意的习惯跟踪器，继续完成您的日常习惯！值得一提的是：该产品是作者（ @marc_louvion ）独立完成，目前在巴厘岛，天天冲浪，这个产品。每月给他带来数百美元的收入。
+[Habits Garden](https://habitsgarden.com/) 界面设计非常简洁好看，还有音效和动画；作者不打算提供 IOS 或 Android 应用，您可以将 Habits Garden **添加到您的主屏幕**（通过`浏览器`），它的行为就像一个原生应用程序。您可以在智能手机、平板电脑和笔记本电脑上，使用习惯追踪器。habits garden 免费可用，当免费试用期（7 天）结束后，游戏功能被锁定（花园、任务、奖励等），您的帐户被切换到 Free-Forever Habit Tracker Plan。您可以免费使用最令人满意的习惯跟踪器，继续完成您的日常习惯！值得一提的是：该产品是作者（ @marc_louvion ）独立完成，目前在巴厘岛，天天冲浪，这个产品。每月给他带来数百美元的收入。
 
 ── 出自[倾城之链 - Beat procrastination with a gamified habit tracker - Habits Garden](https://nicelinks.site/post/62d00b7765fb1506218fa5d8)
 
@@ -42,7 +42,7 @@
 
 ![倾城之链 - Decohack-独立开发者灵感周刊](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.decohack.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Decohack](https://nicelinks.site/redirect?url=https://www.decohack.com/) ，独立开发者在线灵感周刊，旨在为独立创造者提供独立见解，发现新产品，内容包含不限于新闻洞察、行业分析、产品推荐、推特精选、产品运营、产品设计、UI 设计、技术开发、生活方式等。
+**推荐语**：[Decohack](https://www.decohack.com/) ，独立开发者在线灵感周刊，旨在为独立创造者提供独立见解，发现新产品，内容包含不限于新闻洞察、行业分析、产品推荐、推特精选、产品运营、产品设计、UI 设计、技术开发、生活方式等。
 
 ### 作者为什么要做 DecoHack？
 
@@ -76,7 +76,7 @@ DecoHack，会在每周一早上 9 点，通过微信及邮件推送，也会在
 
 ![倾城之链 - Appwrite - Open-Source End-to-End Backend Server](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/appwrite.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Appwrite](https://nicelinks.site/redirect?url=https://appwrite.io/) 为 Web、移动和 Flutter 开发人员，提供安全的开源后端服务器，🚀 又名 100% 开源 Firebase 替代品。它被打包成一组 Docker 微服务。Appwrite 抽象了从头开始构建现代后端 API 所需的复杂性和重复性，使你能够更快地构建安全的应用程序。
+**推荐语**：[Appwrite](https://appwrite.io/) 为 Web、移动和 Flutter 开发人员，提供安全的开源后端服务器，🚀 又名 100% 开源 Firebase 替代品。它被打包成一组 Docker 微服务。Appwrite 抽象了从头开始构建现代后端 API 所需的复杂性和重复性，使你能够更快地构建安全的应用程序。
 
 使用 appwrite，你可以轻松地将你的应用程序，与用户认证和多种登录方式、用于存储和查询用户和团队数据的数据库、存储和文件管理、图像处理、云功能以及更多服务整合在一起。它具备以下功能特征：
 
@@ -120,7 +120,7 @@ Appwrite，功能强大，且具备安全性和灵活性；您可以利用 Appwr
 
 ![倾城之链 - Ryan Dahl](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tinyclouds.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ryan's Blog](https://nicelinks.site/redirect?url=https://tinyclouds.org/) ，基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 构建和部署， [在 Github 开源](https://github.com/ry/tinyclouds) ，可在不到 10 秒的时间内完成部署。Ryan Dahl，出生于 1981 年，美国的软件工程师，是 “[Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899)”、“[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)” 的开发者，使得编程语言 JavaScript 可运行在非浏览器环境，为 Web 前端发展做出了巨大贡献。在 [Ryan's Blog](https://nicelinks.site/redirect?url=https://tinyclouds.org/) ，您可以读到 Ryan Dahl 关于 Deno、技术、思想等内容。
+**推荐语**：[Ryan's Blog](https://tinyclouds.org/) ，基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 构建和部署， [在 Github 开源](https://github.com/ry/tinyclouds) ，可在不到 10 秒的时间内完成部署。Ryan Dahl，出生于 1981 年，美国的软件工程师，是 “[Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899)”、“[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)” 的开发者，使得编程语言 JavaScript 可运行在非浏览器环境，为 Web 前端发展做出了巨大贡献。在 [Ryan's Blog](https://tinyclouds.org/) ，您可以读到 Ryan Dahl 关于 Deno、技术、思想等内容。
 
 ── 出自[倾城之链 - Ryan Dahl](https://nicelinks.site/post/62cc2079ac177b7aff5e1a6e)
 
@@ -132,7 +132,7 @@ Appwrite，功能强大，且具备安全性和灵活性；您可以利用 Appwr
 
 ![倾城之链 - Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tauri.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tauri](https://nicelinks.site/redirect?url=https://tauri.app/) 是一个框架，用于为所有主要的桌面平台构建微小、快速的二进制文件，旨在为多平台部署构建优化、安全且独立于前端的应用程序。开发人员可以整合任何可以编译成 HTML、JS 和 CSS 的前端框架，以构建他们的用户界面。应用程序的后端是一个来自 rust 的二进制文件，带有一个前端可以与之交互的 API。
+**推荐语**：[Tauri](https://tauri.app/) 是一个框架，用于为所有主要的桌面平台构建微小、快速的二进制文件，旨在为多平台部署构建优化、安全且独立于前端的应用程序。开发人员可以整合任何可以编译成 HTML、JS 和 CSS 的前端框架，以构建他们的用户界面。应用程序的后端是一个来自 rust 的二进制文件，带有一个前端可以与之交互的 API。
 
 ### 如何开始使用
 
@@ -147,7 +147,7 @@ yarn create tauri-app
 pnpm create tauri-app
 ```
 
-[Tauri](https://nicelinks.site/redirect?url=https://tauri.app/) 具备如下功能特性：
+[Tauri](https://tauri.app/) 具备如下功能特性：
 
 ### 兼容性良好
 
@@ -175,7 +175,7 @@ Tauri 团队的首要任务是推动我们的最高优先事项和最大的创�
 
 除此之外，`tauri` 还具备自动更新、原生通知、数据存储、核心插件系统等。Tauri 是一个工具包，可帮助开发人员为主要桌面平台制作应用程序；几乎使用现有的任何前端框架。核心是用 Rust 构建的，CLI 利用 Node.js 使 Tauri 成为一种真正的多语言方法来创建和维护出色的应用程序。
 
-在基于前端技术，而构建桌面应用工具中，[Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 无疑是其中的佼佼者；`tauri` 则有意成为 Electron 替代品，主张使用 Web 前端构建更小、更快、更安全的桌面应用程序。对 Tauri 和 Electron 区别感兴趣的朋友，可参见 [Tauri 和 Electron 的比较](https://nicelinks.site/redirect?url=https://github.com/tauri-apps/tauri#comparison-between-tauri-and-electron)。
+在基于前端技术，而构建桌面应用工具中，[Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 无疑是其中的佼佼者；`tauri` 则有意成为 Electron 替代品，主张使用 Web 前端构建更小、更快、更安全的桌面应用程序。对 Tauri 和 Electron 区别感兴趣的朋友，可参见 [Tauri 和 Electron 的比较](https://github.com/tauri-apps/tauri#comparison-between-tauri-and-electron)。
 
 ── 出自[倾城之链 - Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://nicelinks.site/post/62cc1748ac177b7aff5e1a6c)
 

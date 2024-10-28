@@ -12,7 +12,7 @@
 
 ![倾城之链 - Ai 导航 | 最新最前沿的 AI 产品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ainavpro.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI 导航](https://nicelinks.site/redirect?url=https://www.ainavpro.com/) 是一个集成最新最前沿 [AI](https://nicelinks.site/tags/AI) 产品的 [导航](https://nicelinks.site/tags/导航) 网站，提供丰富、多样化的 AI 产品信息和服务，为用户带来更便捷、高效、科技感的生活体验。为用户提供最新、最全面的 AI 产品信息，让用户快速、便捷地了解和使用各种 AI 产品。如果您想通过 AI 产品提升效率，抑或是基于 AI（ChatGPT）技术研发工具产品，可以前往 [AI 导航](https://nicelinks.site/redirect?url=https://www.ainavpro.com/) 以获取更多见闻和灵感。
+**推荐语**：[AI 导航](https://www.ainavpro.com/) 是一个集成最新最前沿 [AI](https://nicelinks.site/tags/AI) 产品的 [导航](https://nicelinks.site/tags/导航) 网站，提供丰富、多样化的 AI 产品信息和服务，为用户带来更便捷、高效、科技感的生活体验。为用户提供最新、最全面的 AI 产品信息，让用户快速、便捷地了解和使用各种 AI 产品。如果您想通过 AI 产品提升效率，抑或是基于 AI（ChatGPT）技术研发工具产品，可以前往 [AI 导航](https://www.ainavpro.com/) 以获取更多见闻和灵感。
 
 ── 出自[倾城之链 - Ai 导航 | 最新最前沿的 AI 产品](https://nicelinks.site/post/6409c4d62e215167d398529c)
 
@@ -26,7 +26,7 @@
 
 ![倾城之链 - Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.remotebase.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Remotebase](https://nicelinks.site/redirect?url=https://www.remotebase.com/) 是一个帮助 [远程](https://nicelinks.site/tags/远程) 工作者和远程团队寻找适合自己的工作和公司的平台。Remotebase 聚焦于远程工作文化，并提供了大量有关远程工作的文章、视频和工具，以帮助远程工作者和远程团队更好地管理自己的工作和生活。通过 3 个简单步骤雇用您理想的工程团队：
+**推荐语**：[Remotebase](https://www.remotebase.com/) 是一个帮助 [远程](https://nicelinks.site/tags/远程) 工作者和远程团队寻找适合自己的工作和公司的平台。Remotebase 聚焦于远程工作文化，并提供了大量有关远程工作的文章、视频和工具，以帮助远程工作者和远程团队更好地管理自己的工作和生活。通过 3 个简单步骤雇用您理想的工程团队：
 
 - **告诉我们您的要求**：在 Remotebase 的网站上填写表格，告诉他们您想何时聘请远程开发人员、您需要什么样的开发人员技能、您需要多少团队成员以及有关您公司的一些详细信息。
 - **安排通话**：在合适的时间与他们通话，讨论您的需求以及您希望与您的技术团队实现的目标。
@@ -40,7 +40,7 @@ Remotebase 也提供了一些特色的功能，例如：
 - 可以查看当前公司的远程工作人数，以及他们的工作地点和时区，以帮助用户更好地了解团队分布情况；
 - 可以查看公司的历史招聘记录，以了解公司对远程工作者的态度和经验。
 
-总的来说， [Remotebase](https://nicelinks.site/redirect?url=https://www.remotebase.com/) 是一个很好的远程工作招聘平台，为远程工作者和远程团队提供了更好的机会和工具，以实现更好的远程工作生活。
+总的来说， [Remotebase](https://www.remotebase.com/) 是一个很好的远程工作招聘平台，为远程工作者和远程团队提供了更好的机会和工具，以实现更好的远程工作生活。
 
 ── 出自[倾城之链 - Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://nicelinks.site/post/6409ba782e215167d398510e)
 
@@ -52,7 +52,7 @@ Remotebase 也提供了一些特色的功能，例如：
 
 ![倾城之链 - Naive UI | A Vue 3 Component Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.naiveui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Naive UI](https://nicelinks.site/redirect?url=https://www.naiveui.com/) ，一个 Vue 3 组件库；它比较完整，主题可调，用 TypeScript 写的，快。更详细介绍，它所具有的功能特征为：
+**推荐语**：[Naive UI](https://www.naiveui.com/) ，一个 Vue 3 组件库；它比较完整，主题可调，用 TypeScript 写的，快。更详细介绍，它所具有的功能特征为：
 
 - **比较完整**：有超过 80 个组件，希望能帮你少写点代码；全都可以 treeshaking。
 - **主题可调**：提供了一个使用 TypeScript 构建的先进的类型安全主题系统。你只需要提供一个样式覆盖的对象，剩下的都交给 Naive UI。
@@ -71,7 +71,7 @@ Remotebase 也提供了一些特色的功能，例如：
 
 ![倾城之链 - Snippet Explorer by Raycast](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/snippets.ray.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Snippet Explorer](https://nicelinks.site/redirect?url=https://snippets.ray.so/) 一种轻松浏览代码片段（Snippets）并将其直接导入 [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 的工具（基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 所构建）。其中类别包括 Symbols、Arrows、Unicode、Date、Miscellaneous、Currency、Spelling、Coding、Feedback、GitHub 等内容。
+**推荐语**：[Snippet Explorer](https://snippets.ray.so/) 一种轻松浏览代码片段（Snippets）并将其直接导入 [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 的工具（基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 所构建）。其中类别包括 Symbols、Arrows、Unicode、Date、Miscellaneous、Currency、Spelling、Coding、Feedback、GitHub 等内容。
 
 如果您的机器安装了 Raycast 应用程序，通过点击 Snippets 来选择它们。要选择多个，请按住 ⌘ 或用鼠标选择它们，然后点击 "添加到 Raycast"按钮。你也可以将 Snippets 下载为 JSON 文件，或复制 URL 与他人分享。添加到 Raycast 之后，即可快速使用这些片段。如果您导入了 `Command`，只需输入 `!cmd`，即可得到该图标：`⌘`；同样，如果您导入了 `Apple`，只需输入 `!apple`，即可得到：``；如果您是开发人员，导入 `Console Log`，只需输入：`!log`，即可得 `console.log()`（鼠标在括弧中间）；在可以输入文本的环境，都有效，可以提升效率。
 
@@ -85,9 +85,9 @@ Remotebase 也提供了一些特色的功能，例如：
 
 ![倾城之链 - RoomGPT ｜ Generating dream rooms using AI for everyone.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.roomgpt.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[RoomGPT](https://nicelinks.site/redirect?url=https://www.roomgpt.io/) ， 基于 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 构建、部署在 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 的网站，它提供 [AI](https://nicelinks.site/tags/AI) 服务，为每个人打造梦幻房间。只需选择想要的房间主题（现代、极简、优质）和房型（客厅、卧室、浴室、办公室、游戏室），上传照片，等待片刻，就能生成梦幻房间图片。它 100% 免费。
+**推荐语**：[RoomGPT](https://www.roomgpt.io/) ， 基于 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 构建、部署在 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 的网站，它提供 [AI](https://nicelinks.site/tags/AI) 服务，为每个人打造梦幻房间。只需选择想要的房间主题（现代、极简、优质）和房型（客厅、卧室、浴室、办公室、游戏室），上传照片，等待片刻，就能生成梦幻房间图片。它 100% 免费。
 
-值得一提的是，该项目在 [Github 开源](https://github.com/Nutlope/roomGPT) ，如果您感兴趣，可以移步从而了解更多。 RoomGPT 使用被称为 [ControlNet](https://github.com/lllyasviel/ControlNet) 的 ML（机器学习）模型来生成房间的变体。此应用程序使您能够上传任何房间的照片，这将使用 Next.js API 路由通过此 ML 模型发送照片，并返回您生成的房间。ML 模型托管在 [Replicate](https://replicate.com/) 上， [Upload](https://nicelinks.site/redirect?url=https://upload.io/) 用于图像存储。
+值得一提的是，该项目在 [Github 开源](https://github.com/Nutlope/roomGPT) ，如果您感兴趣，可以移步从而了解更多。 RoomGPT 使用被称为 [ControlNet](https://github.com/lllyasviel/ControlNet) 的 ML（机器学习）模型来生成房间的变体。此应用程序使您能够上传任何房间的照片，这将使用 Next.js API 路由通过此 ML 模型发送照片，并返回您生成的房间。ML 模型托管在 [Replicate](https://replicate.com/) 上， [Upload](https://upload.io/) 用于图像存储。
 
 ── 出自[倾城之链 - RoomGPT ｜ Generating dream rooms using AI for everyone.](https://nicelinks.site/post/6403059cdb7c992ea464e0c0)
 
@@ -99,7 +99,7 @@ Remotebase 也提供了一些特色的功能，例如：
 
 ![倾城之链 - Shots - Create Amazing Mockups](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shots.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Shots](https://nicelinks.site/redirect?url=https://shots.so/)，很精致的一款 Mockups 工具（Create Amazing Mockups），可以用来创建令人惊叹的设备模型，可以做出非常漂亮的图片效果；它支持多类模型，如 iPhone、Mac、iMac、iPad Pro、iPad、iWatch、Sample Desktop、Pro Display XDR、Browser、MacBook Air、截图类等场景，而且支持各种各种，如图片弧度、3D、偏移量、背景、主题、比例等等。此外，Shots 支持在线拷贝图片，也提供直接下载；更棒的是它使用非常简单，上传照片即可开始，且完全免费；简直是不能更棒（Amazing Production）。
+**推荐语**：[Shots](https://shots.so/)，很精致的一款 Mockups 工具（Create Amazing Mockups），可以用来创建令人惊叹的设备模型，可以做出非常漂亮的图片效果；它支持多类模型，如 iPhone、Mac、iMac、iPad Pro、iPad、iWatch、Sample Desktop、Pro Display XDR、Browser、MacBook Air、截图类等场景，而且支持各种各种，如图片弧度、3D、偏移量、背景、主题、比例等等。此外，Shots 支持在线拷贝图片，也提供直接下载；更棒的是它使用非常简单，上传照片即可开始，且完全免费；简直是不能更棒（Amazing Production）。
 
 ── 出自[倾城之链 - Shots - Create Amazing Mockups](https://nicelinks.site/post/6402e783db7c992ea464dd62)
 

@@ -10,7 +10,7 @@
 
 ![倾城之链 - We 分析](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wedata.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[We 分析](https://nicelinks.site/redirect?url=https://wedata.weixin.qq.com/) 是微信官方提供的辅助数据分析能力。开通后，你可在小程序调用官方借出库接口进行数据接入，并进行数据事件管理。完成接入后，你可对小程序进行深入的数据分析，了解经营状况，寻找业务增长。主要功能：数据事件管理、数据分析工具、多维数据看板。
+**推荐语**：[We 分析](https://wedata.weixin.qq.com/) 是微信官方提供的辅助数据分析能力。开通后，你可在小程序调用官方借出库接口进行数据接入，并进行数据事件管理。完成接入后，你可对小程序进行深入的数据分析，了解经营状况，寻找业务增长。主要功能：数据事件管理、数据分析工具、多维数据看板。
 
 1. **更全面深入的数据看板：** 进一步挖掘小程序访问/支付场景，梳理整合流量渠道，提供更细粒度的访问/支付数据，包括但不限于小程序订阅消息下发/曝光/点击/退订情况，长按识别二维码访问小程序的具体渠道(朋友圈/群聊/H5 链接)等。
 2. **更专业细致的分析功能：** 陆续推出“事件分析”，“漏斗分析”，“留存分析”，“路径分析”等数据分析功能，支持商家个性化、精细化的分析需求，全方位洞察运营现状，辅助经营决策。
@@ -29,14 +29,14 @@
 
 ![倾城之链 - Unity Real-Time Development Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/unity.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Unity](https://nicelinks.site/redirect?url=https://unity.com/)，制作交互式实时内容的领先平台；您可以基于[Unity](https://nicelinks.site/redirect?url=https://unity.com/)， 快速构建 2D、3D 和 VR 游戏，制作面向动画、电影、汽车、交通运输、建筑、工程、制造和施工领域的实时 3D 项目。从美术师工具到常态化运营，将愿景化为现实，[Unity](https://nicelinks.site/redirect?url=https://unity.com/) 为您提供链路工具与服务。
+**推荐语**：[Unity](https://unity.com/)，制作交互式实时内容的领先平台；您可以基于[Unity](https://unity.com/)， 快速构建 2D、3D 和 VR 游戏，制作面向动画、电影、汽车、交通运输、建筑、工程、制造和施工领域的实时 3D 项目。从美术师工具到常态化运营，将愿景化为现实，[Unity](https://unity.com/) 为您提供链路工具与服务。
 
 - **游戏**： Unity 不仅仅是一个引擎 - 查找用于创建和运营游戏的解决方案；
 - **汽车、运输与制造**：运用实时 3D 技术在快速变化的行业局势中夺得竞争优势；
 - **电影与动画**：为电影和动画项目提供前所未有的艺术创作自由与更快的制作速度；
 - **建筑、工程与施工**：为大规模的现实生活应用情形创建沉浸式 3D 模型体验；
 
-[Unity](https://nicelinks.site/redirect?url=https://unity.com/) 不仅仅是世界上有名的实时开发平台，它还是一个可以帮助您获得成功的强大生态系统。借助 [Unity](https://nicelinks.site/redirect?url=https://unity.com/)，可实现一次构建，全局部署，覆盖逾 25 个领先平台和技术上的大规模受众。如果您想了解更多，可参见：[Unity 官方博客](https://nicelinks.site/redirect?url=https://blog.unity.com/)。
+[Unity](https://unity.com/) 不仅仅是世界上有名的实时开发平台，它还是一个可以帮助您获得成功的强大生态系统。借助 [Unity](https://unity.com/)，可实现一次构建，全局部署，覆盖逾 25 个领先平台和技术上的大规模受众。如果您想了解更多，可参见：[Unity 官方博客](https://blog.unity.com/)。
 
 ── 出自[倾城之链 - Unity Real-Time Development Platform](https://nicelinks.site/post/60f8020181b2dc066ea4bd73)
 
@@ -48,7 +48,7 @@
 
 ![倾城之链 - Glass UI - The definitive CSS UI library for glassmorphism](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ui.glass.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Glass UI](https://nicelinks.site/redirect?url=https://ui.glass/) 基于玻璃形态设计原则的现代 CSS UI 库（正在开发中），可帮助您快速设计和构建漂亮的网站和应用程序。这对 Web 前端开发比较有用，您可以通过免费的[毛玻璃 CSS 生成器](https://nicelinks.site/redirect?url=https://ui.glass/generator/)，从而快速设计和自定义样式属性；它支持更换背景类型（图像、渐变、纯色）、卡片颜色、模糊值（Blur value）、不透明度（Opacity）、饱和度（Saturation）等等。
+**推荐语**：[Glass UI](https://ui.glass/) 基于玻璃形态设计原则的现代 CSS UI 库（正在开发中），可帮助您快速设计和构建漂亮的网站和应用程序。这对 Web 前端开发比较有用，您可以通过免费的[毛玻璃 CSS 生成器](https://ui.glass/generator/)，从而快速设计和自定义样式属性；它支持更换背景类型（图像、渐变、纯色）、卡片颜色、模糊值（Blur value）、不透明度（Opacity）、饱和度（Saturation）等等。
 
 ── 出自[倾城之链 - Glass UI - The definitive CSS UI library for glassmorphism](https://nicelinks.site/post/60f6bb7181b2dc066ea4bd71)
 
@@ -60,13 +60,13 @@
 
 ![倾城之链 -  The mobile measurement company | Adjust](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.adjust.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 平台包括测量、网络安全、欺诈预防和活动**自动化**产品。它使营销变得更简单、更智能、更安全，以增强数据驱动型专业人员的能力。通过 [Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/)，可以发现每小时的数据趋势，获得有关用户偏好的见解，以推动增长并提供出色的应用内体验。该反欺诈解决方案使用行业认可的、透明的、可定制的和准确的方法，可保证数据质量并保护广告预算。
+**推荐语**：[Adjust](https://www.adjust.com/) 平台包括测量、网络安全、欺诈预防和活动**自动化**产品。它使营销变得更简单、更智能、更安全，以增强数据驱动型专业人员的能力。通过 [Adjust](https://www.adjust.com/)，可以发现每小时的数据趋势，获得有关用户偏好的见解，以推动增长并提供出色的应用内体验。该反欺诈解决方案使用行业认可的、透明的、可定制的和准确的方法，可保证数据质量并保护广告预算。
 
-[Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 来自德国，2012 年在柏林的一间小公寓成立，2015 年实现营业独立，至今已在全球 15 个办公室拥有数百名员工，并且有数千家多家渠道合作伙伴，每天汇聚数百 TB 的数据。2018 年末，Adjust 完成了对数据整合平台 Acquired.io 的收购。2019 年初，[Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 又收购了网络安全与人工智能公司 Unbotify。前者可以帮助 [Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 减轻广告主清理、重组数据的工作压力，通过多渠道市场活动自动化提升用户体验。后者则可以通过检测应用内的自然用户流动路径，区分正常用户与机器人或者人工刷单这类作弊用户，以此应对应用内的外挂机器人。
+[Adjust](https://www.adjust.com/) 来自德国，2012 年在柏林的一间小公寓成立，2015 年实现营业独立，至今已在全球 15 个办公室拥有数百名员工，并且有数千家多家渠道合作伙伴，每天汇聚数百 TB 的数据。2018 年末，Adjust 完成了对数据整合平台 Acquired.io 的收购。2019 年初，[Adjust](https://www.adjust.com/) 又收购了网络安全与人工智能公司 Unbotify。前者可以帮助 [Adjust](https://www.adjust.com/) 减轻广告主清理、重组数据的工作压力，通过多渠道市场活动自动化提升用户体验。后者则可以通过检测应用内的自然用户流动路径，区分正常用户与机器人或者人工刷单这类作弊用户，以此应对应用内的外挂机器人。
 
-此外，[Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 会提供给用户一个整合的数据集，随后用户可自行定义销售规则，如定义投资回报率（ROI）或转化率，以此来适应自身需求。Adjust 通过集成客户 APP 上的开源 SDK，可以使应用营销人员了解并分析用户行为，进而规划未来的营销走向。除了提供监测服务之外，[Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 还提供防作弊套件服务，以此来识别数据造假。
+此外，[Adjust](https://www.adjust.com/) 会提供给用户一个整合的数据集，随后用户可自行定义销售规则，如定义投资回报率（ROI）或转化率，以此来适应自身需求。Adjust 通过集成客户 APP 上的开源 SDK，可以使应用营销人员了解并分析用户行为，进而规划未来的营销走向。除了提供监测服务之外，[Adjust](https://www.adjust.com/) 还提供防作弊套件服务，以此来识别数据造假。
 
-从 [Adjust](https://nicelinks.site/redirect?url=https://www.adjust.com/) 官方介绍来看，有以下优点：隐私至上、监控所有归因、跟踪 KPI、分析和细分用户、预防欺诈、导出用户级数据等。其使命是：为了维护广告主的利益，将反欺诈进行到底。
+从 [Adjust](https://www.adjust.com/) 官方介绍来看，有以下优点：隐私至上、监控所有归因、跟踪 KPI、分析和细分用户、预防欺诈、导出用户级数据等。其使命是：为了维护广告主的利益，将反欺诈进行到底。
 
 ── 出自[倾城之链 - The mobile measurement company | Adjust](https://nicelinks.site/post/60f5744181b2dc066ea4bd6f)
 
@@ -80,7 +80,7 @@
 
 ![倾城之链 - 微信读书-正版书籍小说免费阅读](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/weread.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[微信读书](https://nicelinks.site/redirect?url=https://weread.qq.com/)网页版，通过微信扫码登录，即可开启在 Web 端阅读；网页版除了提供读书外，还提供有「传书到手机」的功能。网页版阅读，也能方便的调整字体、设置背景、查阅目录、选中 ☑️ 进行操作（如复制、划线、写想法、查询等操作）；相比于`微信读书`应用，其网页版因为电脑屏幕更大，在某些场景下，也有相应优势；对读书感兴趣的朋友可以了解下。
+**推荐语**：[微信读书](https://weread.qq.com/)网页版，通过微信扫码登录，即可开启在 Web 端阅读；网页版除了提供读书外，还提供有「传书到手机」的功能。网页版阅读，也能方便的调整字体、设置背景、查阅目录、选中 ☑️ 进行操作（如复制、划线、写想法、查询等操作）；相比于`微信读书`应用，其网页版因为电脑屏幕更大，在某些场景下，也有相应优势；对读书感兴趣的朋友可以了解下。
 
 ── 出自[倾城之链 - 微信读书-正版书籍小说免费阅读](https://nicelinks.site/post/60f3e9e281b2dc066ea4bd6a)
 
@@ -94,7 +94,7 @@
 
 ![倾城之链 - 番喜生活|生活常用网址导航！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.fxsh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[番喜生活](https://nicelinks.site/redirect?url=https://www.fxsh.com/)，一款基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建，提供优质的网址（生活常用）导航网站，围绕生活中的购物，旅游，办公，电影，音乐，求职，简历，PPT，资讯，创业，等行业，让人们可以更高效的网上冲浪。
+**推荐语**：[番喜生活](https://www.fxsh.com/)，一款基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建，提供优质的网址（生活常用）导航网站，围绕生活中的购物，旅游，办公，电影，音乐，求职，简历，PPT，资讯，创业，等行业，让人们可以更高效的网上冲浪。
 
 ── 出自[倾城之链 - 番喜生活|生活常用网址导航！](https://nicelinks.site/post/60f3d29f81b2dc066ea4bd68)
 

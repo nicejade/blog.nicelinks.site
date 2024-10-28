@@ -12,7 +12,7 @@
 
 ![倾城之链 - Learn foreign words with language flashcards | kartet](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/karteto.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Kartet](https://nicelinks.site/redirect?url=https://karteto.com/) ，高效、有趣地掌握外语单词；学习外语单词可能需要花费大量时间并一遍又一遍地重复它们。它必须有趣、有趣，否则效果不会很好。Karteto 通过使用**间隔重复**（在正确的时间学习）、抽认卡和有趣的设计来解决这个问题。Kartet 支持 Android、iOS 等平台，它支持一周免费试用，体验还不错。
+**推荐语**：[Kartet](https://karteto.com/) ，高效、有趣地掌握外语单词；学习外语单词可能需要花费大量时间并一遍又一遍地重复它们。它必须有趣、有趣，否则效果不会很好。Karteto 通过使用**间隔重复**（在正确的时间学习）、抽认卡和有趣的设计来解决这个问题。Kartet 支持 Android、iOS 等平台，它支持一周免费试用，体验还不错。
 
 > **间隔重复**是一种随着时间的推移优化信息保留的学习技术。它基于这样的原则：复习材料的时间对于长期记忆保留至关重要。该技术涉及以逐渐增加的间隔回顾信息，开始时重复更频繁，随着材料变得更加熟悉，间隔更长。
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - GitButler | Git Branching, Refined](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gitbutler.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitButler](https://nicelinks.site/redirect?url=https://gitbutler.com/) 是一个 [Git](https://nicelinks.site/tags/Git) 客户端，可让您同时在多个分支上工作。它允许您快速将文件更改组织到单独的分支中，同时仍然将它们应用到您的工作目录。然后，您可以将分支单独推送到远程，或直接创建拉取请求。简而言之，它是 `git add -p` 和的更灵活版本 `git rebase -i`，允许您跨分支高效地执行多任务。
+**推荐语**：[GitButler](https://gitbutler.com/) 是一个 [Git](https://nicelinks.site/tags/Git) 客户端，可让您同时在多个分支上工作。它允许您快速将文件更改组织到单独的分支中，同时仍然将它们应用到您的工作目录。然后，您可以将分支单独推送到远程，或直接创建拉取请求。简而言之，它是 `git add -p` 和的更灵活版本 `git rebase -i`，允许您跨分支高效地执行多任务。
 
 GitButler 是一个基于 [Tauri](https://nicelinks.site/post/62cc1748ac177b7aff5e1a6c) 的应用程序。它的 UI 是使用 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 用 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 编写的，后端是用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 编写的。
 
@@ -71,7 +71,7 @@ GitButler 最初是一个非常简单的观察，即开发者今天使用 Git �
 
 ![倾城之链 - Dev Hunt – The best new Dev Tools every day.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/devhunt.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DevHunt](https://nicelinks.site/redirect?url=https://devhunt.org/) 是一个面向开发者的产品，旨在为开发者提供一个平台，可以浏览和发现最新的开发工具。该平台聚集了各种各样的开发工具，涵盖了多个类别，如开源工具、DevOps 工具、人工智能工具、代码工具、无代码工具、分析工具、API 工具、数据库工具、设计工具、主机托管、UI 库、营销工具、电子邮件工具、框架、编程语言、加密货币、Web3 工具、图表工具、IDE、监控工具、工作流自动化、内容管理系统、安全工具、Tailwind CSS、样板代码等。
+**推荐语**：[DevHunt](https://devhunt.org/) 是一个面向开发者的产品，旨在为开发者提供一个平台，可以浏览和发现最新的开发工具。该平台聚集了各种各样的开发工具，涵盖了多个类别，如开源工具、DevOps 工具、人工智能工具、代码工具、无代码工具、分析工具、API 工具、数据库工具、设计工具、主机托管、UI 库、营销工具、电子邮件工具、框架、编程语言、加密货币、Web3 工具、图表工具、IDE、监控工具、工作流自动化、内容管理系统、安全工具、Tailwind CSS、样板代码等。
 
 Dev Hunt 的作用是帮助开发者发现和了解最新的开发工具，并提供了这些工具的详细信息和链接，以便开发者可以进一步探索和使用它们。这个平台的目标是促进开发者之间的交流和分享，让他们能够更好地发现和利用最新的技术和工具。
 
@@ -91,9 +91,9 @@ Dev Hunt 的使用场景可以是开发者在寻找特定类型的工具或解�
 
 ![倾城之链 - 人工智能计算领域的领导者 | NVIDIA](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nvidia.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NVIDIA](https://nicelinks.site/redirect?url=https://www.nvidia.com/) 是一家全球领先的计算技术公司，专注于人工智能计算和图形处理。该公司成立于 1993 年，总部位于美国加利福尼亚州的圣塔克拉拉；创始人是黄仁勋（ Jensen Huang ） （自 2023 年起担任首席执行官），黄仁勋是一位台裔美国电气工程师。
+**推荐语**：[NVIDIA](https://www.nvidia.com/) 是一家全球领先的计算技术公司，专注于人工智能计算和图形处理。该公司成立于 1993 年，总部位于美国加利福尼亚州的圣塔克拉拉；创始人是黄仁勋（ Jensen Huang ） （自 2023 年起担任首席执行官），黄仁勋是一位台裔美国电气工程师。
 
-[NVIDIA](https://nicelinks.site/redirect?url=https://www.nvidia.com/) 以其创新的图形处理器（GPU）而闻名，这些 GPU 被广泛应用于游戏、专业可视化、数据中心和人工智能等领域。GPU 是一种特殊的处理器，能够高效地处理并行计算任务，包括图形渲染、物理模拟和深度学习等复杂计算。
+[NVIDIA](https://www.nvidia.com/) 以其创新的图形处理器（GPU）而闻名，这些 GPU 被广泛应用于游戏、专业可视化、数据中心和人工智能等领域。GPU 是一种特殊的处理器，能够高效地处理并行计算任务，包括图形渲染、物理模拟和深度学习等复杂计算。
 
 **NVIDIA 的产品线涵盖了多个领域**：
 
@@ -123,7 +123,7 @@ Nvidia 是迄今为止最著名的半导体芯片技术生产商。投资者不�
 
 ![倾城之链 - Superlist: Home to all your lists](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.superlist.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Superlist](https://nicelinks.site/redirect?url=https://www.superlist.com/) 是一个多平台任务管理和协作工具，它旨在帮助个人和团队高效地组织任务、项目和清单。它直观、默认为私密，并与您已使用的所有内容集成，专为按照您的方式工作而构建。借助 Superlist，您可以完成这一切：创建待办事项列表、捕捉想法或详细笔记、向团队成员分配任务等等。
+**推荐语**：[Superlist](https://www.superlist.com/) 是一个多平台任务管理和协作工具，它旨在帮助个人和团队高效地组织任务、项目和清单。它直观、默认为私密，并与您已使用的所有内容集成，专为按照您的方式工作而构建。借助 Superlist，您可以完成这一切：创建待办事项列表、捕捉想法或详细笔记、向团队成员分配任务等等。
 
 Superlist 提供了一个集中管理任务和清单的平台，无论是个人项目还是团队协作都非常适用。以下是 Superlist 的一些主要特点和功能：
 

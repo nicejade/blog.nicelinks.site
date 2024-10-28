@@ -12,7 +12,7 @@
 
 ![倾城之链 - Plane - The open source project management tool](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/plane.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Plane](https://nicelinks.site/redirect?url=https://plane.so/) ，JIRA 的开源替代品，来自未来项目管理工具；这是一款开源软件开发工具，可让您高枕无忧地管理项目、跟踪问题、冲刺和产品路线图。它具有如下功能特征：
+**推荐语**：[Plane](https://plane.so/) ，JIRA 的开源替代品，来自未来项目管理工具；这是一款开源软件开发工具，可让您高枕无忧地管理项目、跟踪问题、冲刺和产品路线图。它具有如下功能特征：
 
 - **问题规划和跟踪**：使用支持文件上传的强大富文本编辑器，快速创建问题，并添加详细信息。添加子属性和对问题的引用，以便更好地组织和跟踪。
 - **问题附件**：通过将文件附加到问题进行有效协作，使您的团队可以轻松查找和共享与项目相关的重要文档。
@@ -38,7 +38,7 @@
 
 ![倾城之链 - MingCute Icon _ Carefully Designed Icon Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mingcute.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MingCute](https://nicelinks.site/redirect?url=https://www.mingcute.com/) 是一套简洁精致的开源 [图标](https://nicelinks.site/tags/图标) 库。无论您是设计师还是开发人员，它都非常适合用于 Web 和移动设备。它内置 2.3K 图标，每个图标都设计在 24 x 24 网格内，但支持修改颜色和**尺寸**，并且提供 SVG、PNG   和网络字体；用不除了下载、拷贝直接使用之外，也可以通过 npm 安装对应依赖这种方式。该项目在 [Github 仓库开源](https://github.com/Richard9394/MingCute) ，如果您感兴趣可移步以了解更多。
+**推荐语**：[MingCute](https://www.mingcute.com/) 是一套简洁精致的开源 [图标](https://nicelinks.site/tags/图标) 库。无论您是设计师还是开发人员，它都非常适合用于 Web 和移动设备。它内置 2.3K 图标，每个图标都设计在 24 x 24 网格内，但支持修改颜色和**尺寸**，并且提供 SVG、PNG   和网络字体；用不除了下载、拷贝直接使用之外，也可以通过 npm 安装对应依赖这种方式。该项目在 [Github 仓库开源](https://github.com/Richard9394/MingCute) ，如果您感兴趣可移步以了解更多。
 
 ── 出自[倾城之链 - MingCute Icon \_ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
 
@@ -50,7 +50,7 @@
 
 ![倾城之链 - Shottr – Screenshot Annotation App For Mac](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shottr.cc.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Shottr](https://nicelinks.site/redirect?url=https://shottr.cc/) 是一个 [免费](https://nicelinks.site/tags/免费) 的 [MacOS](https://nicelinks.site/tags/Mac) 屏幕截图应用程序，具有滚动屏幕截图、OCR、注释和测量工具；具有小巧、快速、人性化等特点，专为那些关心像素的人打造。它是用 [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) 制作的，针对 M1 进行了优化；它具有如下功能特征：
+**推荐语**：[Shottr](https://shottr.cc/) 是一个 [免费](https://nicelinks.site/tags/免费) 的 [MacOS](https://nicelinks.site/tags/Mac) 屏幕截图应用程序，具有滚动屏幕截图、OCR、注释和测量工具；具有小巧、快速、人性化等特点，专为那些关心像素的人打造。它是用 [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) 制作的，针对 M1 进行了优化；它具有如下功能特征：
 
 ### 小而快
 
@@ -110,7 +110,7 @@ Shottr 精致小巧，有良好的快捷键支持，更提供了许多付费工�
 
 ![倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/splitbee.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Splitbee](https://nicelinks.site/redirect?url=https://splitbee.io/) ， 你友好的一体式分析和转换平台；使用 Splitbee **跟踪**和**优化**你的在线业务。分析、漏斗、自动化、A/B 测试以及更多。一行代码即可添加到您的网站。无需信用卡。它具有如下功能特征：
+**推荐语**：[Splitbee](https://splitbee.io/) ， 你友好的一体式分析和转换平台；使用 Splitbee **跟踪**和**优化**你的在线业务。分析、漏斗、自动化、A/B 测试以及更多。一行代码即可添加到您的网站。无需信用卡。它具有如下功能特征：
 
 ### 了解您的流量
 
@@ -157,7 +157,7 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 实时查看您的仪表板更新。了解用户来来去去。
 
-从 [offsec.tools](https://nicelinks.site/post/647490d0d10b0244940df859) 这款产品中，了解到 Splitbee 这款产品；看了下介绍，因为其漂亮界面、强大功能，以及使用简单等原因，颇为中意；考虑将其注入到所维护的产品中，如 [素问智聊斋](https://chatgpt.nicelinks.site/) ；当然，也有因为 Google Analytics（特指 `GA4`） 所附加的额外动力（Splitbee 有提供 [Splitbee 与谷歌分析](https://splitbee.io/compare/splitbee-vs-google-analytics) 对比 🆚 分析）。遗憾的是，Splitbee 将加入 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)，并已关闭注册；它推荐使用 [Vercel Analytics](https://nicelinks.site/redirect?url=https://vercel.com/analytics) —— 他们旅程延续的地方。
+从 [offsec.tools](https://nicelinks.site/post/647490d0d10b0244940df859) 这款产品中，了解到 Splitbee 这款产品；看了下介绍，因为其漂亮界面、强大功能，以及使用简单等原因，颇为中意；考虑将其注入到所维护的产品中，如 [素问智聊斋](https://chatgpt.nicelinks.site/) ；当然，也有因为 Google Analytics（特指 `GA4`） 所附加的额外动力（Splitbee 有提供 [Splitbee 与谷歌分析](https://splitbee.io/compare/splitbee-vs-google-analytics) 对比 🆚 分析）。遗憾的是，Splitbee 将加入 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)，并已关闭注册；它推荐使用 [Vercel Analytics](https://vercel.com/analytics) —— 他们旅程延续的地方。
 
 ── 出自[倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://nicelinks.site/post/647494a7d10b0244940df877)
 
@@ -171,7 +171,7 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 ![倾城之链 - offsec.tools - A vast collection of security tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/offsec.tools.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[offsec.tools](https://nicelinks.site/redirect?url=https://offsec.tools/) 是一个庞大的 [安全](https://nicelinks.site/tags/安全) 工具列表，旨在帮助渗透测试人员和漏洞猎人完成日常任务。该列表按`标签`组织并提供快速搜索引擎；该列表由作者和社区提供。它具有以下功能特征：
+**推荐语**：[offsec.tools](https://offsec.tools/) 是一个庞大的 [安全](https://nicelinks.site/tags/安全) 工具列表，旨在帮助渗透测试人员和漏洞猎人完成日常任务。该列表按`标签`组织并提供快速搜索引擎；该列表由作者和社区提供。它具有以下功能特征：
 
 - 工具按标签分类，标签属于一个类别；
 - 内置搜索引擎；
@@ -193,7 +193,7 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 ![倾城之链 - Hugging Face – The AI community building the future.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/huggingface.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hugging Face](https://nicelinks.site/redirect?url=https://huggingface.co/) ，是一个面向自然语言处理（NLP）和[机器学习](https://nicelinks.site/tags/机器学习)社区的开源平台，旨在为用户提供各种预训练模型、数据集和工具，以帮助他们更轻松地开发和部署自己的 NLP 应用程序。该网站的主要内容包括：
+**推荐语**：[Hugging Face](https://huggingface.co/) ，是一个面向自然语言处理（NLP）和[机器学习](https://nicelinks.site/tags/机器学习)社区的开源平台，旨在为用户提供各种预训练模型、数据集和工具，以帮助他们更轻松地开发和部署自己的 NLP 应用程序。该网站的主要内容包括：
 
 1. **预训练模型**：Hugging Face 提供了超过 10 万个预训练模型，涵盖了 NLP、计算机视觉、语音、时间序列、生物学、强化学习等领域。这些模型可以帮助用户更快地构建自己的 NLP 应用程序，同时也可以通过 Fine-tuning 的方式对这些模型进行个性化定制。
 
@@ -203,7 +203,7 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 通过使用 Hugging Face，用户可以更快地构建自己的 NLP 应用程序，同时也可以更方便地使用和定制预训练模型和数据集。此外，Hugging Face 还提供了社区和论坛，用户可以在这里与其他 NLP 和机器学习从业者交流和分享经验。
 
-[Hugging Face](https://nicelinks.site/redirect?url=https://huggingface.co/) 为自己赋予的是使命：是让良好的 [机器学习](https://nicelinks.site/tags/机器学习) 民主化；它拥有一个非常强大并且活跃的人工智能社区。有超过 5000 多家机构都在 Hugging Face 的社区发布内容，包括 Google AI、Facebook AI、微软等。自从 2016 年成立以来，这家企业经历了多轮融资。
+[Hugging Face](https://huggingface.co/) 为自己赋予的是使命：是让良好的 [机器学习](https://nicelinks.site/tags/机器学习) 民主化；它拥有一个非常强大并且活跃的人工智能社区。有超过 5000 多家机构都在 Hugging Face 的社区发布内容，包括 Google AI、Facebook AI、微软等。自从 2016 年成立以来，这家企业经历了多轮融资。
 
 Hugging face 起初是一家总部位于纽约的聊天机器人初创服务商，他们本来打算创业做聊天机器人，然后在 [Github](https://nicelinks.site/tags/Github) 上开源了一个 [Transformers](https://github.com/huggingface/transformers) 库，虽然聊天机器人业务没搞起来，但是他们的这个库在机器学习社区迅速大火起来。目前已经共享了超 100,000 个预训练模型，10,000 个数据集，变成了机器学习界的 `Github`。
 

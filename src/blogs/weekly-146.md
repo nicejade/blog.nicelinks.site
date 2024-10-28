@@ -10,7 +10,7 @@
 
 ![倾城之链 - Scribe | Create Step-by-Step Guides — Fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/scribehow.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Scribe](https://nicelinks.site/redirect?url=https://scribehow.com/) 为您记录您的流程，立即将任何流程变成分步指南；它用文字、链接和截图构建视觉指南。您可运用于新员工入职、创建标准操作程序、构建培训文档、回答提问、协助客户等场景；以下是 Scribe（抄写员）的工作原理：
+**推荐语**：[Scribe](https://scribehow.com/) 为您记录您的流程，立即将任何流程变成分步指南；它用文字、链接和截图构建视觉指南。您可运用于新员工入职、创建标准操作程序、构建培训文档、回答提问、协助客户等场景；以下是 Scribe（抄写员）的工作原理：
 
 - **第 1 步：捕获任何进程**：打开 Scribe 扩展并像平常一样完成您的过程。您的分步指南将自动创建！
 - **第 2 步：轻松定制**：想要添加更多细节吗？添加文本、编辑屏幕截图、编辑敏感信息并添加您公司的品牌。
@@ -37,7 +37,7 @@
 
 ![倾城之链 - Devv | 面向程序员的新一代 AI 搜索引擎](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/devv.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Devv.ai](https://nicelinks.site/redirect?url=https://devv.ai/) ：面向程序员的新一代 AI 搜索引擎。支持快速、精准地找到编程解决方案，提升开发效率。如果您从事编程工作，肯定也经常遇到各种编码问题，需要在网上搜索答案。你可能会用 Google / StackOverflow / 必应或者文档，甚至是某度搜索；想必早已体会到这些搜索工具都有以下的缺点：
+**推荐语**：[Devv.ai](https://devv.ai/) ：面向程序员的新一代 AI 搜索引擎。支持快速、精准地找到编程解决方案，提升开发效率。如果您从事编程工作，肯定也经常遇到各种编码问题，需要在网上搜索答案。你可能会用 Google / StackOverflow / 必应或者文档，甚至是某度搜索；想必早已体会到这些搜索工具都有以下的缺点：
 
 - 搜索结果**不够精准**，你需要花很多时间过滤无关的内容。
 - 搜索结果**不够全面**，你可能错过了一些更好的解决方案或者最新的技术资讯。
@@ -45,7 +45,7 @@
 - 搜索结果**不够有趣**，你只能看到一些枯燥的文字和代码。
 - 搜索引擎不会记录搜索上下文，无法在当前问题上继续提问。
 
-[Devv.ai](https://nicelinks.site/redirect?url=https://devv.ai/) 可以帮你快速、精准地找到编程解决方案，提升开发效率。它还可以提供智能代码搜索、个性化推荐及最新技术资讯。它具有以下几点有事：
+[Devv.ai](https://devv.ai/) 可以帮你快速、精准地找到编程解决方案，提升开发效率。它还可以提供智能代码搜索、个性化推荐及最新技术资讯。它具有以下几点有事：
 
 - devv.ai 使用了先进的自然语言处理和机器学习技术，可以理解你的编程问题，为你匹配最相关的答案、文章、视频等内容。
 - devv.ai 涵盖了各种编程语言和技术主题，你可以找到你想要的任何内容，无论是 Python / Java / C# / Ruby / PHP / JavaScript / HTML / CSS / SQL / React / Vue / Angular / Flutter / TensorFlow / PyTorch / AWS / Azure / GCP / Docker / Kubernetes / Blockchain / AI / ML / DL / NLP / CV / AR / VR / IoT / 5G / 6G / Quantum Computing / ...，应有尽有。
@@ -65,7 +65,7 @@
 
 ![倾城之链 - 百乐米 - 专注于分享好听稀有音乐！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bailemi.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[百乐米](https://nicelinks.site/redirect?url=https://bailemi.com/) ，热衷于提供好听的外文歌曲大全推荐，包括最新好听的外文歌曲、热门流行外文歌曲、说唱、乡村、摇滚和经典外文歌曲,提供音乐分享、音乐试听，视频，日志，社区等功能，是专业好听的外文歌曲试听分享下载网站。该网站也能支持搜索 🔍（歌曲、歌手、歌单等），只不过音乐不够全，有些想听的歌曲，无法检索出来。值得一提的是：该网站除了网站，还提供有 Android、iOS 应用程序。
+**推荐语**：[百乐米](https://bailemi.com/) ，热衷于提供好听的外文歌曲大全推荐，包括最新好听的外文歌曲、热门流行外文歌曲、说唱、乡村、摇滚和经典外文歌曲,提供音乐分享、音乐试听，视频，日志，社区等功能，是专业好听的外文歌曲试听分享下载网站。该网站也能支持搜索 🔍（歌曲、歌手、歌单等），只不过音乐不够全，有些想听的歌曲，无法检索出来。值得一提的是：该网站除了网站，还提供有 Android、iOS 应用程序。
 
 ── 出自[倾城之链 - 百乐米 - 专注于分享好听稀有音乐！](https://nicelinks.site/post/656747960e7df920a76902f8)
 
@@ -77,7 +77,7 @@
 
 ![倾城之链 - Pika | An idea-to-video platform that brings your creativity to motion](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pika.art.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pika](https://nicelinks.site/redirect?url=https://pika.art/) ：一个将创意转化为 [视频](https://nicelinks.site/tags/视频) 的平台，让您的创造力付诸实践。Pika 是一款基于 [人工智能](https://nicelinks.site/tags/AI) 技术的应用程序，旨在帮助用户轻松、快速地创建个性化、有趣的短视频内容。通过其强大的算法和智能分析能力，Pika 能够从用户提供的素材中生成独特精彩的短视频，满足用户的创作需求。Pika 可以做到以下事情：
+**推荐语**：[Pika](https://pika.art/) ：一个将创意转化为 [视频](https://nicelinks.site/tags/视频) 的平台，让您的创造力付诸实践。Pika 是一款基于 [人工智能](https://nicelinks.site/tags/AI) 技术的应用程序，旨在帮助用户轻松、快速地创建个性化、有趣的短视频内容。通过其强大的算法和智能分析能力，Pika 能够从用户提供的素材中生成独特精彩的短视频，满足用户的创作需求。Pika 可以做到以下事情：
 
 - 该 AI 可以将文本转为视频，但也可以从文本创建令人惊叹的 3D 动画。
 - 它还可以通过在视频中嵌入图像将图像变成令人惊叹的徽标。
@@ -99,9 +99,9 @@
 
 ![倾城之链 - Yesicon - Curated High-Quality, Open-Source, and Free Vector Icons](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/yesicon.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Yesicon](https://nicelinks.site/redirect?url=https://yesicon.app/) ，高质量、开源和 [免费](https://nicelinks.site/tags/免费) 矢量图标集；该网站共收集 160 个图标集，20 多万个图标，多语言跨图标集搜索，丰富的类型和样式筛选功能，快速自定义图标颜色、大小和代码样式，一键复制和下载，适用于开发人员和设计师。
+**推荐语**：[Yesicon](https://yesicon.app/) ，高质量、开源和 [免费](https://nicelinks.site/tags/免费) 矢量图标集；该网站共收集 160 个图标集，20 多万个图标，多语言跨图标集搜索，丰富的类型和样式筛选功能，快速自定义图标颜色、大小和代码样式，一键复制和下载，适用于开发人员和设计师。
 
-值得一提的是，Yesicon 对于格式和代码生成的体验： [Yesicon](https://nicelinks.site/redirect?url=https://yesicon.app/) 支持 [SVG](https://nicelinks.site/tags/SVG) 、PNG、DataURL（Base64）；而对于代码，支持 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、UnoCSS、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、Iconify 等，而且支持自定义标签，是否开启 SEO、 无障碍、JSX、闭合等，可谓是非常贴心。
+值得一提的是，Yesicon 对于格式和代码生成的体验： [Yesicon](https://yesicon.app/) 支持 [SVG](https://nicelinks.site/tags/SVG) 、PNG、DataURL（Base64）；而对于代码，支持 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、UnoCSS、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、Iconify 等，而且支持自定义标签，是否开启 SEO、 无障碍、JSX、闭合等，可谓是非常贴心。
 
 ── 出自[倾城之链 - Yesicon - Curated High-Quality, Open-Source, and Free Vector Icons](https://nicelinks.site/post/6564817415710e05717b8f72)
 
@@ -113,13 +113,13 @@
 
 ![倾城之链 - 蓝心千询-全天候 AI 私人小帮手](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qianxun.vivo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[蓝心千询](https://nicelinks.site/redirect?url=https://qianxun.vivo.com/) （也称 `vivo 千询`），是 [vivo](https://nicelinks.site/tags/vivo) 基于蓝心大模型打造的专属智能助理，于 2023 年 11 月 24 日，正式上线； vivo 千询以公版 APP 的形式推出，不仅进一步丰富了 vivo 的产品生态， 更展示了 vivo 在 AI 技术领域的卓越实力和开放、 [开源](https://nicelinks.site/tags/开源) 的真诚态度。
+**推荐语**：[蓝心千询](https://qianxun.vivo.com/) （也称 `vivo 千询`），是 [vivo](https://nicelinks.site/tags/vivo) 基于蓝心大模型打造的专属智能助理，于 2023 年 11 月 24 日，正式上线； vivo 千询以公版 APP 的形式推出，不仅进一步丰富了 vivo 的产品生态， 更展示了 vivo 在 AI 技术领域的卓越实力和开放、 [开源](https://nicelinks.site/tags/开源) 的真诚态度。
 
 vivo 千询基于蓝心大模型打造，作为用户的全天候专属智能助理，vivo 千询覆盖「AI 对话」和「AI 灵感」两大核心应用场景。在「**AI 对话**」模块下，vivo 千询支持“超能问答”以及“超能创图”两大功能，用户可以通过自然流畅的 AI 对话进行文本问答、开放问答亦或是基于文档的问答，以高效获取信息、知识。另外，无论写诗、AI 作画、创作歌词、撰写标题，vivo 千询皆可胜任。
 
 在「**AI 灵感**」的模块下，vivo 千询能够提供社交媒体文案创作、PPT 大纲生成、中英文本互译等功能，还设置有穿搭建议等有趣的灵感工具。灵感广场设置有不同场景下的灵感技能卡片，覆盖工作、学习生活中大部分创作场景。用户只需进入对应卡片后输入要求，vivo 千询将基于卡片语境快速生成对应文案，为用户的工作、学习、生活提供广泛灵感支持。
 
-目前 vivo 千询在 vivo 官方应用商店，以及苹果的应用商店都可以下载使用，其它的应用商店陆续就会上架；您也可以在 [蓝心千询](https://nicelinks.site/redirect?url=https://qianxun.vivo.com/) 官网下载。有下载体验，新手引导做的很到位，可快速了解、轻松上手；问答与画图，虽然感觉与 [OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 、 [Midjourney](https://nicelinks.site/post/644a5d6b5d123409e728a670) 存在差距，但确实表现不俗，超出预期。值得一提的是：BlueLM（蓝心大模型）已在 [Github BlueLM 仓库开源](https://github.com/vivo-ai-lab/BlueLM) ，如果您对其感兴趣，可移步从而了解更多。
+目前 vivo 千询在 vivo 官方应用商店，以及苹果的应用商店都可以下载使用，其它的应用商店陆续就会上架；您也可以在 [蓝心千询](https://qianxun.vivo.com/) 官网下载。有下载体验，新手引导做的很到位，可快速了解、轻松上手；问答与画图，虽然感觉与 [OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 、 [Midjourney](https://nicelinks.site/post/644a5d6b5d123409e728a670) 存在差距，但确实表现不俗，超出预期。值得一提的是：BlueLM（蓝心大模型）已在 [Github BlueLM 仓库开源](https://github.com/vivo-ai-lab/BlueLM) ，如果您对其感兴趣，可移步从而了解更多。
 
 ── 出自[倾城之链 - 蓝心千询-全天候 AI 私人小帮手](https://nicelinks.site/post/6564681f15710e05717b8d37)
 

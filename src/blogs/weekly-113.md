@@ -10,7 +10,7 @@
 
 ![倾城之链 - OrbStack · Fast, light, simple Docker & Linux on macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/orbstack.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OrbStack](https://nicelinks.site/redirect?url=https://orbstack.dev/) ，在你的 [Mac](https://nicelinks.site/tags/Mac) 上无缝、高效地运行 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 和 [Linux](https://nicelinks.site/tags/Linux)。Docker Desktop 替代品，可帮助您更快地工作。它具有以下功能特征：
+**推荐语**：[OrbStack](https://orbstack.dev/) ，在你的 [Mac](https://nicelinks.site/tags/Mac) 上无缝、高效地运行 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 和 [Linux](https://nicelinks.site/tags/Linux)。Docker Desktop 替代品，可帮助您更快地工作。它具有以下功能特征：
 
 ### 快如闪电
 
@@ -44,11 +44,11 @@ Docker Desktop 的直接替代品。借助简单但功能强大的应用程序�
 
 使用您最喜欢的发行版运行成熟的 Linux 机器。与 Visual Studio Code（或您最喜欢的编辑器）和 SSH 代理转发无缝协作。使用 Rosetta 在 Apple Silicon 上运行英特尔机器。
 
-[OrbStack](https://nicelinks.site/redirect?url=https://orbstack.dev/) **它是如何工作的？为什么快**？OrbStack 使用一个轻量级的 Linux 虚拟机，它具有紧密集成的、专门构建的服务和网络，这些服务和网络是用 Swift、Go、Rust 和 C 混合编写的。
+[OrbStack](https://orbstack.dev/) **它是如何工作的？为什么快**？OrbStack 使用一个轻量级的 Linux 虚拟机，它具有紧密集成的、专门构建的服务和网络，这些服务和网络是用 Swift、Go、Rust 和 C 混合编写的。
 
 **OrbStack 是免费的吗**？OrbStack 在测试期间完全免费使用，但之后将成为付费产品。他们仍在制定细节（个人与企业用途、订阅与永久许可、定价、OSS 和学生折扣等）。
 
-**OrbStack 与 Docker Desktop 有何不同**？`OrbStack` 是 Docker Desktop 的直接替代品，它更快、更轻、更简单且更易于使用（在启动速度、CPU 使用率、网络、内存等方面都更具优势）。有关详细比较，请参阅 [OrbStack 与 Docker Desktop](https://nicelinks.site/redirect?url=https://docs.orbstack.dev/compare/docker-desktop) 。
+**OrbStack 与 Docker Desktop 有何不同**？`OrbStack` 是 Docker Desktop 的直接替代品，它更快、更轻、更简单且更易于使用（在启动速度、CPU 使用率、网络、内存等方面都更具优势）。有关详细比较，请参阅 [OrbStack 与 Docker Desktop](https://docs.orbstack.dev/compare/docker-desktop) 。
 
 总之，OrbStack 是 Docker Desktop 非常棒的替代品，得到广大 Mac 用户的认可；如果您用的是 Mac 系统，并且在工作、生活中较高频率使用 Docker，那么 `OrbStack` 将是您下一款酷爱应用软件。
 
@@ -62,9 +62,9 @@ Docker Desktop 的直接替代品。借助简单但功能强大的应用程序�
 
 ![倾城之链 - Phind: AI search engine | The AI search engine for developers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.phind.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Phind](https://nicelinks.site/redirect?url=https://www.phind.com/) 是一个为开发人员而生的 AI [搜索](https://nicelinks.site/tags/搜索) 引擎，由大型专有的生成式 [AI](https://nicelinks.site/tags/AI) 语言模型提供支持。它通过简单的解释和来自网络的相关代码片段即时回答问题，**为开发人员提供了快速高质量的技术问题解答服务**。并且支持多种搜索方式，如智能搜索、语音搜索、图像搜索等。Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。此外，Phind 还提供了翻译、计算器、单位换算、股票等实用功能。
+**推荐语**：[Phind](https://www.phind.com/) 是一个为开发人员而生的 AI [搜索](https://nicelinks.site/tags/搜索) 引擎，由大型专有的生成式 [AI](https://nicelinks.site/tags/AI) 语言模型提供支持。它通过简单的解释和来自网络的相关代码片段即时回答问题，**为开发人员提供了快速高质量的技术问题解答服务**。并且支持多种搜索方式，如智能搜索、语音搜索、图像搜索等。Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。此外，Phind 还提供了翻译、计算器、单位换算、股票等实用功能。
 
-[Phind](https://nicelinks.site/redirect?url=https://www.phind.com/) 与其他 AI 搜索引擎相比，如 New Bing 和 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，具有更好的技术方面的检索能力和质量。Phind 的体验更好，响应速度和质量也不错。相对于 Perplexity AI，Phind 的体验更好。Phind 的优势在于它专注于为开发人员提供技术问题解答服务，而且它的回答是即时的，快速的，而且质量高，这对于开发人员来说非常有价值。
+[Phind](https://www.phind.com/) 与其他 AI 搜索引擎相比，如 New Bing 和 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，具有更好的技术方面的检索能力和质量。Phind 的体验更好，响应速度和质量也不错。相对于 Perplexity AI，Phind 的体验更好。Phind 的优势在于它专注于为开发人员提供技术问题解答服务，而且它的回答是即时的，快速的，而且质量高，这对于开发人员来说非常有价值。
 
 Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。这种个性化的搜索体验可以让用户更快地找到自己需要的内容，提高搜索效率。Phind 还提供了翻译、计算器、单位换算、股票等实用功能，这些功能可以方便用户的实际需求。
 
@@ -84,7 +84,7 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 ![倾城之链 - Hello from Learning Prompt | Learning Prompt](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/learningprompt.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Learning Prompt](https://nicelinks.site/redirect?url=https://learningprompt.wiki/) ，**免费 Prompt Engineering 教程**；目前包含 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 和 Midjourney 两部分教程，是作者在学习 Prompt Engineering 过程中，总结出来的一些经验和方法。下面是关于 Learning Prompt 网站更详细的介绍：
+**推荐语**：[Learning Prompt](https://learningprompt.wiki/) ，**免费 Prompt Engineering 教程**；目前包含 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 和 Midjourney 两部分教程，是作者在学习 Prompt Engineering 过程中，总结出来的一些经验和方法。下面是关于 Learning Prompt 网站更详细的介绍：
 
 ### 教程介绍
 
@@ -123,7 +123,7 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 ![倾城之链 - Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getbootstrap.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bootstrap](https://nicelinks.site/redirect?url=https://getbootstrap.com/) 是一个流行的前端框架，为网站和应用提供了一整套现成的 UI 组件和样式表，使得开发者能够**快速地开发赏心悦目、响应式的网站或应用**。Bootstrap 最初是由 Twitter 开发的，现在已经成为了一个繁荣的开源社区。作为 Bootstrap 官方文档网站，主要提供以下内容：
+**推荐语**：[Bootstrap](https://getbootstrap.com/) 是一个流行的前端框架，为网站和应用提供了一整套现成的 UI 组件和样式表，使得开发者能够**快速地开发赏心悦目、响应式的网站或应用**。Bootstrap 最初是由 Twitter 开发的，现在已经成为了一个繁荣的开源社区。作为 Bootstrap 官方文档网站，主要提供以下内容：
 
 1.  官方文档：Bootstrap 的最新文档包含了所有的组件和插件的详细使用说明和示例代码，非常详尽和清晰易懂，一站式地解决了开发者的大部分疑惑。
 2.  模板和示例：Bootstrap 的精美模板和示例显示了框架的设计原则和创意，可以帮助开发人员更好地理解如何应用框架的组件和样式。它们可以作为开发人员的参考，也可以用来直接构建漂亮的网站或应用程序。

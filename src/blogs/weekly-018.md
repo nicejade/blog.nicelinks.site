@@ -10,7 +10,7 @@
 
 ![倾城之链 - Potion](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.potion.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Potion](https://nicelinks.site/redirect?url=https://www.potion.so/) 是一款工具，支持在几分钟内创建自定义网站，如果您的内容已在 Notion 中。[Potion](https://nicelinks.site/redirect?url=https://www.potion.so/) 通过自定义域、快速站点、自定义样式和出色的 SEO 使这成为可能。官方描述，`Potion` 具有以下优势：
+**推荐语**：[Potion](https://www.potion.so/) 是一款工具，支持在几分钟内创建自定义网站，如果您的内容已在 Notion 中。[Potion](https://www.potion.so/) 通过自定义域、快速站点、自定义样式和出色的 SEO 使这成为可能。官方描述，`Potion` 具有以下优势：
 
 - **自定义域**：将您的网页变成真正属于您的可公开访问的网站；
 - **更新并上线**：所有内容更改和编辑都会立即显示在您的网站上；
@@ -33,11 +33,11 @@
 
 ![倾城之链 - 程序员客栈-领先的程序员自由远程工作平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.proginn.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[程序员客栈](https://nicelinks.site/redirect?url=https://www.proginn.com/)，领先的程序员自由远程工作平台；它是互联网远程工作中心，程序员的经纪人。其主旨是：“找到靠谱的程序员”，是一个可供程序员发布项目，充分展示自己能力和创意，吸引融资的平台，同时也是用人方一目了然找到靠谱程序员，甚至技术合伙人的可靠平台。
+**推荐语**：[程序员客栈](https://www.proginn.com/)，领先的程序员自由远程工作平台；它是互联网远程工作中心，程序员的经纪人。其主旨是：“找到靠谱的程序员”，是一个可供程序员发布项目，充分展示自己能力和创意，吸引融资的平台，同时也是用人方一目了然找到靠谱程序员，甚至技术合伙人的可靠平台。
 
-[程序员客栈](https://nicelinks.site/redirect?url=https://www.proginn.com/)官方称，他们拥有全球最大的中文技术人才库。在做好用户隐私保护的基础上，持续数据治理打磨技术信用，对程序员的了解理解数据化。不断推出自由远程工作、线上开发、驻场外包、招聘猎头、技术咨询培训等产品，为科技企业提供技术新人力解决方案，打造中国领先的技术新人力平台，为程序员提供各式工作成长机会，当好程序员的经纪人。
+[程序员客栈](https://www.proginn.com/)官方称，他们拥有全球最大的中文技术人才库。在做好用户隐私保护的基础上，持续数据治理打磨技术信用，对程序员的了解理解数据化。不断推出自由远程工作、线上开发、驻场外包、招聘猎头、技术咨询培训等产品，为科技企业提供技术新人力解决方案，打造中国领先的技术新人力平台，为程序员提供各式工作成长机会，当好程序员的经纪人。
 
-[程序员客栈](https://nicelinks.site/redirect?url=https://www.proginn.com/)，倡导“利用盈余时间创造共享经济，能够在 12 小时内，帮助有项目开发需求的创业公司，对接具备相应专业技能和盈余时间的程序员。既帮助创业者快速实现产品上线，同时帮助程序员增加收入，使两者在效率和利益上达到最大化。
+[程序员客栈](https://www.proginn.com/)，倡导“利用盈余时间创造共享经济，能够在 12 小时内，帮助有项目开发需求的创业公司，对接具备相应专业技能和盈余时间的程序员。既帮助创业者快速实现产品上线，同时帮助程序员增加收入，使两者在效率和利益上达到最大化。
 
 ── 出自[倾城之链 - 程序员客栈-领先的程序员自由远程工作平台](https://nicelinks.site/post/60cb33b426e9836b36bf4ea5)
 
@@ -49,11 +49,11 @@
 
 ![倾城之链 - uTools - 你的生产力工具集](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/u.tools.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[uTools](https://nicelinks.site/redirect?url=https://u.tools/) 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。通过快捷键（默认 `alt + space` ）就可以快速呼出这个搜索框。你可以往输入框内粘贴文本、图片、截图、文件、文件夹等等，能够处理此内容的插件也早已准备就绪，统一的设计风格和操作方式，助你高效的得到结果。一旦你熟悉它后，能够为你节约大量时间，即用即走、不中断、无干扰，让你可以更加专注地改变世界。
+**推荐语**：[uTools](https://u.tools/) 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。通过快捷键（默认 `alt + space` ）就可以快速呼出这个搜索框。你可以往输入框内粘贴文本、图片、截图、文件、文件夹等等，能够处理此内容的插件也早已准备就绪，统一的设计风格和操作方式，助你高效的得到结果。一旦你熟悉它后，能够为你节约大量时间，即用即走、不中断、无干扰，让你可以更加专注地改变世界。
 
 **uTools 能做什么**？最简单的，uTools 可以作为一个程序快速启动器，支持英文、英文驼峰、中文拼音、拼音首字母来打开你的本地程序。除程序外， win10 和 macOS 用户还可以快速搜索并打开「控制面板」内的细项。总之，你只要还记得一个大概的名字，直接输入基本都能找到。
 
-值得一提的是，启动已安装的程序仅仅是最基础的功能，[uTools](https://nicelinks.site/redirect?url=https://u.tools/) 最大的特点就是拥有强大的插件系统。现在已有 300+ 的插件供你选择，每个插件解决一个具体场景的问题，简洁美观、即用即走。输入 `插件中心` 进入插件管理，你就可以根据自己的需求挑选安装，组合成自己最称手的工具集合，为各种日常操作提供便利，不断产生的新插件，也将为你带来无限可能。
+值得一提的是，启动已安装的程序仅仅是最基础的功能，[uTools](https://u.tools/) 最大的特点就是拥有强大的插件系统。现在已有 300+ 的插件供你选择，每个插件解决一个具体场景的问题，简洁美观、即用即走。输入 `插件中心` 进入插件管理，你就可以根据自己的需求挑选安装，组合成自己最称手的工具集合，为各种日常操作提供便利，不断产生的新插件，也将为你带来无限可能。
 
 ── 出自[倾城之链 - uTools - 你的生产力工具集](https://nicelinks.site/post/60cad40b26e9836b36bf4ea3)
 
@@ -65,7 +65,7 @@
 
 ![倾城之链 - Indie Kit Space](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.indiekit.space.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Indie Kit Space](https://nicelinks.site/redirect?url=https://www.indiekit.space/) 独立游戏开发者和艺术家使用的工具精选列表；如果你对游戏开发者常用的工具感到好奇，在这里，您可以发现并分享您的独立工具包。该网站对所收录的内容，打了不同标签，如艺术、引擎、框架、声音等等；当然，您也可以通过检索，来查找您需要的工具。另外，值得一提的是，该站点是使用 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 和 Fruitionsite 创建的，没有代码。
+**推荐语**：[Indie Kit Space](https://www.indiekit.space/) 独立游戏开发者和艺术家使用的工具精选列表；如果你对游戏开发者常用的工具感到好奇，在这里，您可以发现并分享您的独立工具包。该网站对所收录的内容，打了不同标签，如艺术、引擎、框架、声音等等；当然，您也可以通过检索，来查找您需要的工具。另外，值得一提的是，该站点是使用 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 和 Fruitionsite 创建的，没有代码。
 
 ── 出自[倾城之链 - Indie Kit Space](https://nicelinks.site/post/60c8a7e9125d9905c97b410c)
 
@@ -79,7 +79,7 @@
 
 ![倾城之链 - 比幕鱼-团队协作在线白板](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bimuyu.tech.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)可以理解为一个在线白板，让你可以随时随地组织你、或者你们团队的想法；可以进行头脑风暴、远程会议、文档管理、资料共享、产品评审、设计评审等团队**协作**。创意是不应该受到限制的。因此[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)尽可能地减少了规则对于自由的束缚，仅仅提供工具和元素，让您可以最大限度地去发散自己的创意。相比于生活中的白板，[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)官方称，有以下优势：
+**推荐语**：[比幕鱼](https://bimuyu.tech/)可以理解为一个在线白板，让你可以随时随地组织你、或者你们团队的想法；可以进行头脑风暴、远程会议、文档管理、资料共享、产品评审、设计评审等团队**协作**。创意是不应该受到限制的。因此[比幕鱼](https://bimuyu.tech/)尽可能地减少了规则对于自由的束缚，仅仅提供工具和元素，让您可以最大限度地去发散自己的创意。相比于生活中的白板，[比幕鱼](https://bimuyu.tech/)官方称，有以下优势：
 
 ### 打破距离的限制
 
@@ -93,7 +93,7 @@
 
 相比于生活中的白板，“比幕鱼”提供了无限画布，这让你可以不用再去担心“写不下”的问题，让你的想法“没有边界”。
 
-值得一提的是，相较于其他白板工具（如 [Excalidraw](https://nicelinks.site/post/5f819f32cda9de27bd93a922)），[比幕鱼](https://nicelinks.site/redirect?url=https://bimuyu.tech/)有些其他优势，如：内置各种类型模版；支持创建「文件夹」；可以添加**便签**和**批注**；整个页面可以有多个模版，可随意拖动调整等等。
+值得一提的是，相较于其他白板工具（如 [Excalidraw](https://nicelinks.site/post/5f819f32cda9de27bd93a922)），[比幕鱼](https://bimuyu.tech/)有些其他优势，如：内置各种类型模版；支持创建「文件夹」；可以添加**便签**和**批注**；整个页面可以有多个模版，可随意拖动调整等等。
 
 ── 出自[倾城之链 - 比幕鱼-团队协作在线白板](https://nicelinks.site/post/60c8953e125d9905c97b410a)
 
@@ -105,7 +105,7 @@
 
 ![倾城之链 - ⚡ Marketer Crew — Subscribe for Free ✅](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/marketercrew.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[**Marketer Crew**](https://nicelinks.site/redirect?url=https://marketercrew.com/)是面向营销人员和独立制作人的每周时事通讯。每个星期一和星期四，您都会收到一封电子邮件，让营销变得真正有趣。还可以免费了解最新的新闻、工具和见解。关注它，您可以收获什么呢，大致有以下内容：
+**推荐语**：[**Marketer Crew**](https://marketercrew.com/)是面向营销人员和独立制作人的每周时事通讯。每个星期一和星期四，您都会收到一封电子邮件，让营销变得真正有趣。还可以免费了解最新的新闻、工具和见解。关注它，您可以收获什么呢，大致有以下内容：
 
 - **增长策略**：简短、实用且实用的增长技巧，可让您的业务和产品快速增长；
 - **增长工具**：发现或重新发现营销、设计、生产力……工具，以有效地完成工作；

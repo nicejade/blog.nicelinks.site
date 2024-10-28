@@ -10,7 +10,7 @@
 
 ![倾城之链 - Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mermaid.live.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mermaid](https://nicelinks.site/redirect?url=https://mermaid.live/) 是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的图表绘制工具，通过解析类 [Markdown](https://nicelinks.site/tags/Markdown) 的文本语法来实现图表的创建和动态修改。Mermaid 诞生的主要目的是让文档的更新能够及时跟上开发进度。
+**推荐语**：[Mermaid](https://mermaid.live/) 是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的图表绘制工具，通过解析类 [Markdown](https://nicelinks.site/tags/Markdown) 的文本语法来实现图表的创建和动态修改。Mermaid 诞生的主要目的是让文档的更新能够及时跟上开发进度。
 
 > Doc-Rot 是 Mermaid 致力于解决的一个难题。
 
@@ -30,7 +30,7 @@ Mermaid 甚至能让非程序员也能通过 [Mermaid Live Editor](https://merma
 
 ![倾城之链 - Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pola.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Polars](https://nicelinks.site/redirect?url=https://www.pola.rs/) ：适用于 [Rust](https://nicelinks.site/tags/Rust) 和 [Python](https://nicelinks.site/tags/Python) 的闪电般快速的 DataFrame 库；位于 OLAP 查询引擎之上，具有多线程、查询优化、单指令多数据流、强大的表达式 API 等特点。官网给出如下功能特征：
+**推荐语**：[Polars](https://www.pola.rs/) ：适用于 [Rust](https://nicelinks.site/tags/Rust) 和 [Python](https://nicelinks.site/tags/Python) 的闪电般快速的 DataFrame 库；位于 OLAP 查询引擎之上，具有多线程、查询优化、单指令多数据流、强大的表达式 API 等特点。官网给出如下功能特征：
 
 ### 从一开始就熟悉
 
@@ -58,7 +58,7 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 ![倾城之链 - Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qwerty.kaiyi.cool.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Qwerty Learner](https://nicelinks.site/redirect?url=https://qwerty.kaiyi.cool/) ，为键盘工作者设计的单词与肌肉记忆锻炼软件，支持在线免费使用；它具有非常多特性，诸如附带美式音效、设置单个单词循环、开启默写模式、显示释义、查看数据统计、深色模式、指法图示等等，因此你不仅可以练习打字速度、标准手法、而且还可以练习单词发音等。因此，软件也对需要机考英语的人群有一定的帮助。它具有如下功能特征：
+**推荐语**：[Qwerty Learner](https://qwerty.kaiyi.cool/) ，为键盘工作者设计的单词与肌肉记忆锻炼软件，支持在线免费使用；它具有非常多特性，诸如附带美式音效、设置单个单词循环、开启默写模式、显示释义、查看数据统计、深色模式、指法图示等等，因此你不仅可以练习打字速度、标准手法、而且还可以练习单词发音等。因此，软件也对需要机考英语的人群有一定的帮助。它具有如下功能特征：
 
 ### 词库
 
@@ -80,7 +80,7 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 同时为了巩固英语技能，也需要持续的背诵单词 📕，本软件将英语单词的记忆与英语键盘输入的肌肉记忆的锻炼相结合，可以在背诵单词的同时巩固肌肉记忆。为了避免造成错误的肌肉记忆，设计上如果用户单词输入错误则需要重新输入单词，尽可能确保用户维持正确的肌肉记忆。
 
-[Qwerty Learner](https://nicelinks.site/redirect?url=https://qwerty.kaiyi.cool/) 内置了程序员工作常用单词的词库，方便练习工作中常用的单词、提高输入速度。也内置了诸多语言的 API 的练习，帮助以程序员快速熟悉常用的 API，更多语言的 API 正在逐步添加中......值得一提的是，该项目在 [Github 仓库开源](https://github.com/Kaiyiwing/qwerty-learner) ，如果您对其感兴趣，可移步前往从而了解更多。
+[Qwerty Learner](https://qwerty.kaiyi.cool/) 内置了程序员工作常用单词的词库，方便练习工作中常用的单词、提高输入速度。也内置了诸多语言的 API 的练习，帮助以程序员快速熟悉常用的 API，更多语言的 API 正在逐步添加中......值得一提的是，该项目在 [Github 仓库开源](https://github.com/Kaiyiwing/qwerty-learner) ，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://nicelinks.site/post/64f8a21b41aa9b054b2830eb)
 
@@ -94,7 +94,7 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 ![倾城之链 - 1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1panel.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[1Panel](https://nicelinks.site/redirect?url=https://1panel.cn/) 是一个现代化、开源的 Linux 服务器运维管理面板。1Panel 的功能和优势包括：
+**推荐语**：[1Panel](https://1panel.cn/) 是一个现代化、开源的 Linux 服务器运维管理面板。1Panel 的功能和优势包括：
 
 - **快速建站**：深度集成 Wordpress 和 [Halo](https://nicelinks.site/post/6061f8d9bffb5e532f3be243) ，域名绑定、SSL 证书配置等一键搞定；
 - **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括主机监控、文件管理、数据库管理、容器管理等；
@@ -113,7 +113,7 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 ![倾城之链 - Axios | Promise based HTTP client for the browser and node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/axios-http.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Axios](https://nicelinks.site/redirect?url=https://axios-http.com/) 是一个简单的基于 Promise 的 [HTTP](https://nicelinks.site/tags/HTTP) 客户端，适用于浏览器和 Node.js。 Axios 在一个小包中提供了一个简单易用的库，具有非常可扩展的接口。它可以处理 GET、POST、PUT、DELETE 等多种 HTTP 请求，并支持跨域请求、拦截请求和响应、设置请求头和响应类型等功能。Axios 的优点包括以下几点：
+**推荐语**：[Axios](https://axios-http.com/) 是一个简单的基于 Promise 的 [HTTP](https://nicelinks.site/tags/HTTP) 客户端，适用于浏览器和 Node.js。 Axios 在一个小包中提供了一个简单易用的库，具有非常可扩展的接口。它可以处理 GET、POST、PUT、DELETE 等多种 HTTP 请求，并支持跨域请求、拦截请求和响应、设置请求头和响应类型等功能。Axios 的优点包括以下几点：
 
 ### 支持 Promise
 
@@ -155,7 +155,7 @@ Axios 支持跨域请求，可以在浏览器中发送跨域请求。这对于�
 
 ![倾城之链 - Tabserve - A HTTPS URL for localhost using just your browser](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tabserve.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tabserve](https://nicelinks.site/redirect?url=https://tabserve.dev/) ，一个有趣的网络应用，浏览器只要访问它的网站，就能建立一个反向代理，让公网可以访问你的当前计算机（即 localhost）。它使用单个 [Cloudflare Worker](https://workers.cloudflare.com/) 与基于浏览器的 [Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) 相结合，来创建从互联网到本地主机的反向代理。
+**推荐语**：[Tabserve](https://tabserve.dev/) ，一个有趣的网络应用，浏览器只要访问它的网站，就能建立一个反向代理，让公网可以访问你的当前计算机（即 localhost）。它使用单个 [Cloudflare Worker](https://workers.cloudflare.com/) 与基于浏览器的 [Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) 相结合，来创建从互联网到本地主机的反向代理。
 
 更详细的解释：这将为您提供一个 HTTPS URL `your-domain.com`（例如 `https://anything.your-domain.com`），将流量转发到任何 `localhost` 地址，例如 `http://localhost:1234`。您可以立即创建任意数量的子域，因为 Cloudflare 提供了 TLS 通配符证书 ── 无需等待 DNS 传播生效。
 

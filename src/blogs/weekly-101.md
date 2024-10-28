@@ -30,7 +30,7 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 ![倾城之链 - OSS Insight](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ossinsight.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OSS Insight](https://nicelinks.site/redirect?url=https://ossinsight.io/) 是一个强大的工具，通过分析数十亿个 GitHub 事件，提供对开源世界的全面、有价值和趋势洞察。它提供对各个 [GitHub](https://nicelinks.site/tags/GitHub) 存储库和开发人员的深入分析，以及使用相同指标比较两个存储库的能力。它具有以下功能特征：
+**推荐语**：[OSS Insight](https://ossinsight.io/) 是一个强大的工具，通过分析数十亿个 GitHub 事件，提供对开源世界的全面、有价值和趋势洞察。它提供对各个 [GitHub](https://nicelinks.site/tags/GitHub) 存储库和开发人员的深入分析，以及使用相同指标比较两个存储库的能力。它具有以下功能特征：
 
 ### 可见且独特的开发者
 
@@ -61,7 +61,7 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 从开发人员的贡献行为中洞察**开发人员的生产力**、**工作节奏**和**协作**。
 
-[OSS Insight](https://nicelinks.site/redirect?url=https://ossinsight.io/) 是一个有趣、好玩、功能强大的开源洞察工具，可以帮助用户深入分析 GitHub 上任意一个代码仓库和开发者，还可以将两个代码仓库进行多维度的（贡献者、代码提交情况、协作讨论情况等）比较，并提供全面、有价值和趋势的开源见解。您可以使用它，针对开发者、代码仓库进行分析，对最新技术趋势的实时预测等。
+[OSS Insight](https://ossinsight.io/) 是一个有趣、好玩、功能强大的开源洞察工具，可以帮助用户深入分析 GitHub 上任意一个代码仓库和开发者，还可以将两个代码仓库进行多维度的（贡献者、代码提交情况、协作讨论情况等）比较，并提供全面、有价值和趋势的开源见解。您可以使用它，针对开发者、代码仓库进行分析，对最新技术趋势的实时预测等。
 
 ── 出自[倾城之链 - OSS Insight](https://nicelinks.site/post/63c7543bac46415757ac1392)
 
@@ -73,7 +73,7 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 ![倾城之链 - The Visual Collaboration Platform for Every Team | Miro](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/miro.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Miro](https://nicelinks.site/redirect?url=https://miro.com/)，是您的团队的可视化平台，可以一起联系、协作和创造，帮助您把想法从更好变成最好；更准确说，Miro 是一款功能齐全的白板和思维导图工具，可以随时随地与任何人共享以进行实时协作。如果你用过它，你就会知道活泼的界面是多么令人印象深刻。Miro 还提供使用 Slack 和数百个模板轻松登录的功能。它具有以下功能特征：
+**推荐语**：[Miro](https://miro.com/)，是您的团队的可视化平台，可以一起联系、协作和创造，帮助您把想法从更好变成最好；更准确说，Miro 是一款功能齐全的白板和思维导图工具，可以随时随地与任何人共享以进行实时协作。如果你用过它，你就会知道活泼的界面是多么令人印象深刻。Miro 还提供使用 Slack 和数百个模板轻松登录的功能。它具有以下功能特征：
 
 ### 一起工作，无论你在哪里工作
 
@@ -99,9 +99,9 @@ Miro，领先的视觉协作平台，使远程、在办公室和混合团队能�
 
 ![倾城之链 - monday.com | A new way of working](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/monday.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[monday.com](https://nicelinks.site/redirect?url=https://monday.com/)，是一个用于项目管理和任务协调的在线工具，用以创建适合您工作方式的工作流程并节省时间。其特别之处在于：它在结构和[可视化](https://nicelinks.site/tags/可视化)方面提供了很大的灵活性。这使得管理不同类型团队的活动和项目变得容易，例如创意和设计团队、软件开发、市场营销、项目管理、销售和 CRM 等。提供了一种灵活而强大的方式来围绕组织的目标连接团队、资源、流程和工具。他们称自己为“工作操作系统”（Work OS），旨在简化您的工作以获得**最大的生产力**。
+**推荐语**：[monday.com](https://monday.com/)，是一个用于项目管理和任务协调的在线工具，用以创建适合您工作方式的工作流程并节省时间。其特别之处在于：它在结构和[可视化](https://nicelinks.site/tags/可视化)方面提供了很大的灵活性。这使得管理不同类型团队的活动和项目变得容易，例如创意和设计团队、软件开发、市场营销、项目管理、销售和 CRM 等。提供了一种灵活而强大的方式来围绕组织的目标连接团队、资源、流程和工具。他们称自己为“工作操作系统”（Work OS），旨在简化您的工作以获得**最大的生产力**。
 
-2021 年 6 月 10 日标志着 [monday.com](https://nicelinks.site/redirect?url=https://monday.com/) 新时代的开始——他们敲响了开市钟，正式成为纳斯达克上市公司。如今，Monday 继续通过发展成为一家多产品公司，来推动 Monday 的发展，为个人、团队和公司提供强大的产品，帮助他们将工作愿景变为现实。值得一提的是，Monday 在 2022 年获得 103% 的增长，如果您对它感兴趣，可以移步 [关于 Monday](https://monday.com/p/about/)。
+2021 年 6 月 10 日标志着 [monday.com](https://monday.com/) 新时代的开始——他们敲响了开市钟，正式成为纳斯达克上市公司。如今，Monday 继续通过发展成为一家多产品公司，来推动 Monday 的发展，为个人、团队和公司提供强大的产品，帮助他们将工作愿景变为现实。值得一提的是，Monday 在 2022 年获得 103% 的增长，如果您对它感兴趣，可以移步 [关于 Monday](https://monday.com/p/about/)。
 
 ── 出自[倾城之链 - monday.com | A new way of working](https://nicelinks.site/post/63c67edea327170ab79b091c)
 
@@ -115,7 +115,7 @@ Miro，领先的视觉协作平台，使远程、在办公室和混合团队能�
 
 ![倾城之链 - AlleyRead - 重塑你的信息源](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/alleyread.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Alleyread](https://nicelinks.site/redirect?url=https://alleyread.com/) 是一款帮助用户发现、收藏、预览 newsletter 的导航站，通过用户推荐、平台审核，从国内外全网筛选优质内容源。在 AlleyRead 您可以获得关于 newsletter 的基本信息和扩展阅读，供你做订阅参考，你可以通过本站直接进入 newsletter 创作者主页，查看更多内容。AlleyRead 希望在尽量不收集用户隐私的情况下，为用户带来优质使用体验，可以为你提供以下服务：
+**推荐语**：[Alleyread](https://alleyread.com/) 是一款帮助用户发现、收藏、预览 newsletter 的导航站，通过用户推荐、平台审核，从国内外全网筛选优质内容源。在 AlleyRead 您可以获得关于 newsletter 的基本信息和扩展阅读，供你做订阅参考，你可以通过本站直接进入 newsletter 创作者主页，查看更多内容。AlleyRead 希望在尽量不收集用户隐私的情况下，为用户带来优质使用体验，可以为你提供以下服务：
 
 ### 优质内容库
 
@@ -137,7 +137,7 @@ AlleyRead 将不定期发布，围绕特定专题的 newsletter 集锦和最新�
 
 Alleyread 致力于提升读者内容探索和阅读体验。AlleyRead 将围绕**创作者发现**和**读者服务**两个方向开发更多有用的功能。
 
-AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目前（2023 年 01 月 15 日），它收录了 227 个各类型订阅站点，方便让你发现你感兴趣的内容；此外，个人也觉得主动信息获取，远比算法信息流要好很多。如果您对该网站感兴趣，可移步至 [关于 AlleyRead](https://nicelinks.site/redirect?url=https://www.wolai.com/alleyread/cG9qjed93nkiQ961NJJjK6) 以了解更多。
+AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目前（2023 年 01 月 15 日），它收录了 227 个各类型订阅站点，方便让你发现你感兴趣的内容；此外，个人也觉得主动信息获取，远比算法信息流要好很多。如果您对该网站感兴趣，可移步至 [关于 AlleyRead](https://www.wolai.com/alleyread/cG9qjed93nkiQ961NJJjK6) 以了解更多。
 
 ── 出自[倾城之链 - AlleyRead - 重塑你的信息源](https://nicelinks.site/post/63c3e0b1a327170ab79afe45)
 
@@ -151,7 +151,7 @@ AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目�
 
 ![倾城之链 - 金数据 - 人人可用的在线表单工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jinshuju.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[金数据](https://nicelinks.site/redirect?url=https://jinshuju.net/) ，人人可用的 业务数据收集工具；聪明又强大，帮助你轻松收集和管理日常工作中的数据，提升工作效率。它不仅收集数据，而且具备以下功能特征：
+**推荐语**：[金数据](https://jinshuju.net/) ，人人可用的 业务数据收集工具；聪明又强大，帮助你轻松收集和管理日常工作中的数据，提升工作效率。它不仅收集数据，而且具备以下功能特征：
 
 ### 客户满意度调查
 
@@ -193,7 +193,7 @@ AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目�
 
 只需要简单配置，你就可以搭建数据查询系统，将数据安全地共享给外部。
 
-[金数据](https://nicelinks.site/redirect?url=https://jinshuju.net/) ，创立于 2012 年，属 明略科技集团 旗下品牌，是一家为个人和企业用户解决数据收集管理问题的公司。旗下有 [金数据](https://nicelinks.site/redirect?url=https://jinshuju.net/) 表单和**浩客 XM** 用户体验分析平台两款产品。 [金数据](https://nicelinks.site/redirect?url=https://jinshuju.net/) 是人人可用的在线表单工具，帮助用户收集和管理日常工作中的数据，提升工作效率。任何行业和岗位的人员，无需特殊技能，都可以方便地创建出符合业务需求的表单。如果您对其感兴趣，想了解更多，可以移步 [关于金数据](https://jinshuju.net/about) 。
+[金数据](https://jinshuju.net/) ，创立于 2012 年，属 明略科技集团 旗下品牌，是一家为个人和企业用户解决数据收集管理问题的公司。旗下有 [金数据](https://jinshuju.net/) 表单和**浩客 XM** 用户体验分析平台两款产品。 [金数据](https://jinshuju.net/) 是人人可用的在线表单工具，帮助用户收集和管理日常工作中的数据，提升工作效率。任何行业和岗位的人员，无需特殊技能，都可以方便地创建出符合业务需求的表单。如果您对其感兴趣，想了解更多，可以移步 [关于金数据](https://jinshuju.net/about) 。
 
 ── 出自[倾城之链 - 金数据 - 人人可用的在线表单工具](https://nicelinks.site/post/63c3ddeba327170ab79afdbb)
 
@@ -205,7 +205,7 @@ AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目�
 
 ![倾城之链 - Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/plausible.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Plausible Analytics](https://nicelinks.site/redirect?url=https://plausible.io/) 是一种简单、轻量级 (< 1 KB)、开源且保护隐私的 Google Analytics 替代品。它不使用 cookie，并且完全符合 GDPR、CCPA 和 PECR。您可以[自行托管](https://nicelinks.site/tags/自托管)或让其在云端为您运行 Plausible。Plausible 由欧洲拥有的云基础设施提供支持 🇪🇺。[这是 Plausible 网站统计的现场演示](https://plausible.io/plausible.io)。为什么要使用 Plausible 的分析？官方给出了以下理由：
+**推荐语**：[Plausible Analytics](https://plausible.io/) 是一种简单、轻量级 (< 1 KB)、开源且保护隐私的 Google Analytics 替代品。它不使用 cookie，并且完全符合 GDPR、CCPA 和 PECR。您可以[自行托管](https://nicelinks.site/tags/自托管)或让其在云端为您运行 Plausible。Plausible 由欧洲拥有的云基础设施提供支持 🇪🇺。[这是 Plausible 网站统计的现场演示](https://plausible.io/plausible.io)。为什么要使用 Plausible 的分析？官方给出了以下理由：
 
 ### 快速且易于集成
 

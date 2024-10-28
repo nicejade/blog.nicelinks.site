@@ -10,7 +10,7 @@
 
 ![倾城之链 - Qwik | The HTML-first framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qwik.builder.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Qwik](https://nicelinks.site/redirect?url=https://qwik.builder.io/) ，一个 HTML 优先框架；它的设计是为了实现最快的页面加载时间，通过提供纯 HTML 和接近 0 的 JavaScript，使你的页面成为互动的，无论你的网站或应用程序有多复杂。它通过 HTML 的可恢复性和超细粒度的代码加载，来实现这一目标。它具有以下功能特征：
+**推荐语**：[Qwik](https://qwik.builder.io/) ，一个 HTML 优先框架；它的设计是为了实现最快的页面加载时间，通过提供纯 HTML 和接近 0 的 JavaScript，使你的页面成为互动的，无论你的网站或应用程序有多复杂。它通过 HTML 的可恢复性和超细粒度的代码加载，来实现这一目标。它具有以下功能特征：
 
 ### 零负荷
 
@@ -36,7 +36,7 @@ Qwik 应用程序的生命始于 SSR/SSG。Qwik 在呈现应用程序时将应�
 
 Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个组件可以在服务器上开始其生命周期并在客户端上处理用户事件。在服务器渲染上设置 DOM 侦听器，让它们在您的客户端交互中做好准备。
 
-> [Qwik](https://nicelinks.site/redirect?url=https://qwik.builder.io/) ， 由 Builder.io 的工程师、谷歌的前 Angular 创造者 Misko、Stencil 和 Ionic 的创造者 Adam 和 Manu 构建。他们的使命是使用 Qwik、Partytown 和 Builder 大规模构建最快的真实网站。
+> [Qwik](https://qwik.builder.io/) ， 由 Builder.io 的工程师、谷歌的前 Angular 创造者 Misko、Stencil 和 Ionic 的创造者 Adam 和 Manu 构建。他们的使命是使用 Qwik、Partytown 和 Builder 大规模构建最快的真实网站。
 
 除此之外，Qwik 还有其他特点，诸如：使用 Vite 即时开发、随时可用的大型工具生态系统、  内置可扩展样式（PostCSS）、  调试 SSR、浏览器、预渲染等等。值得一提的是它独树一帜的理念，与 SSR（服务端渲染）、SSG（静态页面生成）、 [AMP](https://nicelinks.site/post/5f75ea02cda9de27bd93a919) 等方案有所区别，Qwik 的目标是：干掉所有不必要的 `JS` 耗时（静态资源加载的耗时、以及 `JS` 运行时的耗时），从而快速实现网页可交互。如果说传统 `SSR` 的粒度是「整个页面」，那么 Qwik 的粒度是「组件中的某个方法」，这就导致在交互时再请求额外 JS。当然，Qwik 允许你指定「那些可能是用户大概率会操作的组件」，些组件逻辑对应 `JS` 代码会 `prefetch`，在不影响首屏渲染的前提下被预请求。
 
@@ -54,7 +54,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 ![倾城之链 - 麻花视频-2022全网免费热门电影大全高分电视剧全集在线观看](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mhyyy.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [麻花视频](https://nicelinks.site/redirect?url=https://www.mhyyy.com/) ，支持在线观看高清、正版、免费大片的网站；据其官网介绍，包含：热门电影、热门电视剧、综艺动漫等内容；最新电影，最新电视剧高清播放，无广告、急速播放、观看体验极佳（实际体验，片头有点广告，访问体验还可以）。它具有以下优势和特色：
+**推荐语**： [麻花视频](https://www.mhyyy.com/) ，支持在线观看高清、正版、免费大片的网站；据其官网介绍，包含：热门电影、热门电视剧、综艺动漫等内容；最新电影，最新电视剧高清播放，无广告、急速播放、观看体验极佳（实际体验，片头有点广告，访问体验还可以）。它具有以下优势和特色：
 
 ### 优势
 
@@ -81,7 +81,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 - 视频主要分为**电影**、**电视剧**、**动漫**、**综艺**等；
 - 影视分类精细完善、内容筛选功能强大、搜索功能简约又不失重点内容的呈现。
 
-值得一提的是， [麻花视频](https://nicelinks.site/redirect?url=https://www.mhyyy.com/) 提供 APP 客户端级的移动端体验，实际基于手机或微信体验，有被提示打开存在安全风险；感兴趣的朋友，可了解下。
+值得一提的是， [麻花视频](https://www.mhyyy.com/) 提供 APP 客户端级的移动端体验，实际基于手机或微信体验，有被提示打开存在安全风险；感兴趣的朋友，可了解下。
 
 ── 出自[倾城之链 - 麻花视频-2022 全网免费热门电影大全高分电视剧全集在线观看](https://nicelinks.site/post/62c6cea1ac177b7aff5e1a68)
 
@@ -93,7 +93,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 ![倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aisobb.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[茶杯虎](https://nicelinks.site/redirect?url=https://www.aisobb.com/) ，是目前使用影视搜索第二代引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，与影视搜索届大哥[茶杯狐](https://nicelinks.site/post/60311ec06eaf2a7660805af4)不同的是，增加了**影视评论**，以及剧情详细介绍，未来会增加影视「分集剧情」，让电影搜索类更高效、更便捷、更精准！
+**推荐语**：[茶杯虎](https://www.aisobb.com/) ，是目前使用影视搜索第二代引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，与影视搜索届大哥[茶杯狐](https://nicelinks.site/post/60311ec06eaf2a7660805af4)不同的是，增加了**影视评论**，以及剧情详细介绍，未来会增加影视「分集剧情」，让电影搜索类更高效、更便捷、更精准！
 
 ── 出自[倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://nicelinks.site/post/62c66dc9ac177b7aff5e1a66)
 
@@ -105,7 +105,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 ![倾城之链 - Powerful, online SVG editor for teams](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vecta.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vecta](https://nicelinks.site/redirect?url=https://vecta.io/) ，是一款功能强大的矢量图形编辑器，使得创建、使用和共享矢量图形变得非常简单；它具有内置协作、CAD 功能、基于 JavaScript 的插件和 SVG 优化器，让每个人都可以比以往更快地创建图形。Vecta 具有以下功能特征：
+**推荐语**：[Vecta](https://vecta.io/) ，是一款功能强大的矢量图形编辑器，使得创建、使用和共享矢量图形变得非常简单；它具有内置协作、CAD 功能、基于 JavaScript 的插件和 SVG 优化器，让每个人都可以比以往更快地创建图形。Vecta 具有以下功能特征：
 
 ### 可使用基于 Javascript 的插件完全扩展
 
@@ -113,7 +113,7 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 ### 带有内置 SVG 缩小器的小文件大小
 
-[Vecta](https://nicelinks.site/redirect?url=https://vecta.io/) 有提供 [Nano](https://nicelinks.site/redirect?url=https://vecta.io/nano) ，它是世界上最好的（平均小 22%）SVG 缩小器之一，您可以基于该工具，来压缩您的 SVG 尺寸，从而优化您的网站。
+[Vecta](https://vecta.io/) 有提供 [Nano](https://vecta.io/nano) ，它是世界上最好的（平均小 22%）SVG 缩小器之一，您可以基于该工具，来压缩您的 SVG 尺寸，从而优化您的网站。
 
 ### 为精准而生
 
@@ -147,7 +147,7 @@ Vecta 具有多种单位、缩放和测量工具，可让您以像素、毫米�
 
 ![倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hellogithub.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [HelloGitHub](https://nicelinks.site/redirect?url=https://hellogithub.com/) ，旨在分享 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 入门级、有趣的开源项目。您可以在这里，推广自己的**开源**项目、编程实践项目、适合练手的开源项目，作者会将汇聚其中部分，融汇为 HelloGitHub 月刊，每月 28 号发布最新一期。
+**推荐语**： [HelloGitHub](https://hellogithub.com/) ，旨在分享 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 入门级、有趣的开源项目。您可以在这里，推广自己的**开源**项目、编程实践项目、适合练手的开源项目，作者会将汇聚其中部分，融汇为 HelloGitHub 月刊，每月 28 号发布最新一期。
 
 ### HelloGitHub 是什么？
 

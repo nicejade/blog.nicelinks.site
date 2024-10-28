@@ -10,7 +10,7 @@
 
 ![倾城之链 - Zig Programming Language ⚡](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ziglang.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zig](https://nicelinks.site/redirect?url=https://ziglang.org/) 是一门开源的 [编程语言](https://nicelinks.site/tags/编程语言) ，专为稳定性、可维护性和最优性而设计。具有以下值得关注的特性：手动管理内存；**与 C 语言竞争而非依赖它**，Zig 标准库不依赖于 libc；轻量而简单的语言，专注于调试应用而不是调试编程语言的知识.....更详细说明如下：
+**推荐语**：[Zig](https://ziglang.org/) 是一门开源的 [编程语言](https://nicelinks.site/tags/编程语言) ，专为稳定性、可维护性和最优性而设计。具有以下值得关注的特性：手动管理内存；**与 C 语言竞争而非依赖它**，Zig 标准库不依赖于 libc；轻量而简单的语言，专注于调试应用而不是调试编程语言的知识.....更详细说明如下：
 
 ### ⚡ 简单的语言
 
@@ -64,9 +64,9 @@ Zig 软件基金会是一家非营利性公司，由 Zig 的创建者 Andrew Kel
 
 ![倾城之链 - Nue / Frontend troublesolver](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nuejs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nue JS](https://nicelinks.site/redirect?url=https://nuejs.org/) 是一个非常小的（压缩后 2.3kb） [JavaScript](https://nicelinks.site/tags/JavaScript) 库，用于构建 Web 界面。 [它是即将推出的 Nue 工具集](https://nuejs.org/tools/) 的核心。它就像 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 或 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，但没有钩子、效果、道具、门户、观察者、提供、注入、悬挂或其他不寻常的抽象。了解 HTML、CSS 和 JavaScript 的基础知识，就可以开始了。**为什么是 Nue.js** ？
+**推荐语**：[Nue JS](https://nuejs.org/) 是一个非常小的（压缩后 2.3kb） [JavaScript](https://nicelinks.site/tags/JavaScript) 库，用于构建 Web 界面。 [它是即将推出的 Nue 工具集](https://nuejs.org/tools/) 的核心。它就像 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 或 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，但没有钩子、效果、道具、门户、观察者、提供、注入、悬挂或其他不寻常的抽象。了解 HTML、CSS 和 JavaScript 的基础知识，就可以开始了。**为什么是 Nue.js** ？
 
-[Nue](https://nicelinks.site/redirect?url=https://nuejs.org/) 是一个让前端开发变得更加愉快的工具集。这是对 Vue、React 和 Svelte 等生态系统以及 Vite、Next.js 和 Astro 等 Web 开发框架的彻底改革。
+[Nue](https://nuejs.org/) 是一个让前端开发变得更加愉快的工具集。这是对 Vue、React 和 Svelte 等生态系统以及 Vite、Next.js 和 Astro 等 Web 开发框架的彻底改革。
 
 > Nue 使用**渐进增强、关注点分离**和**语义 Web 设计**来提供新水平的性能、更好的可扩展性和大幅改进的开发体验。
 
@@ -144,7 +144,7 @@ Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人�
 
 ![倾城之链 - Histoire | ⚡ Fast and beautiful interactive component playgrounds](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/histoire.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Histoire](https://nicelinks.site/redirect?url=https://histoire.dev/) ⚡ 快速、美观的交互式组件游乐场，由 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 提供支持；截止目前（2023 年 09 月 26 日）支持 [Vue2 / 3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 等框架；它具有如下功能特征：
+**推荐语**：[Histoire](https://histoire.dev/) ⚡ 快速、美观的交互式组件游乐场，由 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 提供支持；截止目前（2023 年 09 月 26 日）支持 [Vue2 / 3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 等框架；它具有如下功能特征：
 
 - **📖 故事**：编写故事来展示和记录您的组件。
 - **⚡ 快**：令人难以置信的快速开发构建和生产页面加载！
@@ -177,7 +177,7 @@ Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人�
 
 ![倾城之链 - pandas - Python Data Analysis Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pandas.pydata.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[pandas](https://nicelinks.site/redirect?url=https://pandas.pydata.org/) 适用于 [Python](https://nicelinks.site/tags/Python) 的灵活而强大的数据分析、操作库，提供类似于 R data.frame 对象的标记数据结构、统计函数等。它具有如下功能特征：
+**推荐语**：[pandas](https://pandas.pydata.org/) 适用于 [Python](https://nicelinks.site/tags/Python) 的灵活而强大的数据分析、操作库，提供类似于 R data.frame 对象的标记数据结构、统计函数等。它具有如下功能特征：
 
 - 快速高效的 **DataFrame** 对象，用于具有集成索引的数据操作；
 - 用于在内存数据结构和不同格式之间**读写数据的**工具：CSV 和文本文件、Microsoft Excel、SQL 数据库以及快速 HDF5 格式；
@@ -194,7 +194,7 @@ Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人�
 
 **使命**：pandas 的目标是成为用 Python 进行实际、真实世界数据分析的基本高级构建块。此外，它还有更广泛的目标，即成为任何语言中最强大、最灵活的开源数据分析、操作工具。
 
-总的来讲，[pandas](https://nicelinks.site/redirect?url=https://pandas.pydata.org/) 是一个 Python 软件包，它提供快速、灵活和富有表现力的数据结构，旨在使 "关系 "或 "标记 "数据的处理变得简单而直观。它的目标是成为用 Python 进行实际数据分析的基本高级构建模块。此外，它还有一个更广泛的目标，即成为任何语言中最强大、最灵活的开源数据分析/处理工具。它已经在实现这一目标的道路上迈出了坚实的一步。值得一提的是，[pandas 在 Github 仓库开源](https://github.com/pandas-dev/pandas)（截止 2023 年 09 月 25 日，共获得 39.8K+ Star），如果您对该项目感兴趣，不妨移步官网从而了解更多。
+总的来讲，[pandas](https://pandas.pydata.org/) 是一个 Python 软件包，它提供快速、灵活和富有表现力的数据结构，旨在使 "关系 "或 "标记 "数据的处理变得简单而直观。它的目标是成为用 Python 进行实际数据分析的基本高级构建模块。此外，它还有一个更广泛的目标，即成为任何语言中最强大、最灵活的开源数据分析/处理工具。它已经在实现这一目标的道路上迈出了坚实的一步。值得一提的是，[pandas 在 Github 仓库开源](https://github.com/pandas-dev/pandas)（截止 2023 年 09 月 25 日，共获得 39.8K+ Star），如果您对该项目感兴趣，不妨移步官网从而了解更多。
 
 ── 出自[倾城之链 - pandas - Python Data Analysis Library](https://nicelinks.site/post/651135c35a51096c86978b41)
 
@@ -206,7 +206,7 @@ Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人�
 
 ![倾城之链 - Flourish | Data Visualization & Storytelling](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/flourish.studio.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Flourish](https://nicelinks.site/redirect?url=https://flourish.studio/) ，轻松将您的数据转化为令人惊叹的图表、地图和互动故事。通过这个网站，您可以很轻松的使用生成市面上很火的动态柱状图、动态折线图、地图、关系图、气泡图、网络图。当然这个网站还有其他新型和丰富的可视化图表，功能强大可以满足你的需求，你都可以打开每一个图表进行研究。具体来讲，Flourish 可以为您带来如下功能价值：
+**推荐语**：[Flourish](https://flourish.studio/) ，轻松将您的数据转化为令人惊叹的图表、地图和互动故事。通过这个网站，您可以很轻松的使用生成市面上很火的动态柱状图、动态折线图、地图、关系图、气泡图、网络图。当然这个网站还有其他新型和丰富的可视化图表，功能强大可以满足你的需求，你都可以打开每一个图表进行研究。具体来讲，Flourish 可以为您带来如下功能价值：
 
 ### 吸引观众
 
@@ -244,23 +244,23 @@ Flourish 的创建是为了让每个人都能用数据讲故事。该工具于 2
 
 ![倾城之链 - i365 科技](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.i365.tech.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[i365 科技](https://nicelinks.site/redirect?url=https://www.i365.tech/) 是 Dawei Ma 为个人作品集所塑造的落地页（基于 React、Next.js、Node.js 等工具搭建）。作者有陆续搭建以下几款产品：
+**推荐语**：[i365 科技](https://www.i365.tech/) 是 Dawei Ma 为个人作品集所塑造的落地页（基于 React、Next.js、Node.js 等工具搭建）。作者有陆续搭建以下几款产品：
 
 ### Chat2Invest
 
-[Chat2Invest](https://nicelinks.site/redirect?url=https://www.chat2invest.com/) 是一款基于 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的支持多语言的 AI 投资助手，它能够从基本面、技术面与消息面等多个维度为您提供投资建议。它支持 A 股与美股共计超过 13000 只股票与 ETF 的分析，未来还将支持通过多种投资策略筛选股票。
+[Chat2Invest](https://www.chat2invest.com/) 是一款基于 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的支持多语言的 AI 投资助手，它能够从基本面、技术面与消息面等多个维度为您提供投资建议。它支持 A 股与美股共计超过 13000 只股票与 ETF 的分析，未来还将支持通过多种投资策略筛选股票。
 
 ### 我的投资助手
 
-[我的投资助手](https://nicelinks.site/redirect?url=https://www.myinvestpilot.com/) 是一款旨在帮助用户构建自己的交易系统的计划。它包括了 [Chat2Invest](https://nicelinks.site/redirect?url=https://www.chat2invest.com/) 这个 AI 投资助手，以及多种投资交易策略的提醒工具，帮助用户评估交易能力的投资组合管理工具，以及一个专属的知识星球社区，用于分享投资知识和经验。无论是新手还是有经验的投资者，都可以通过“我的投资助手”来制定自己的投资计划，更加理性地进行投资决策，实现财富增值的目标。
+[我的投资助手](https://www.myinvestpilot.com/) 是一款旨在帮助用户构建自己的交易系统的计划。它包括了 [Chat2Invest](https://www.chat2invest.com/) 这个 AI 投资助手，以及多种投资交易策略的提醒工具，帮助用户评估交易能力的投资组合管理工具，以及一个专属的知识星球社区，用于分享投资知识和经验。无论是新手还是有经验的投资者，都可以通过“我的投资助手”来制定自己的投资计划，更加理性地进行投资决策，实现财富增值的目标。
 
 ### myGPTReader
 
-[myGPTReader](https://nicelinks.site/redirect?url=https://www.myreader.io/) 是一个 Slack 机器人，它可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 ChatGPT 进行总结。它还能通过语音与你交谈。
+[myGPTReader](https://www.myreader.io/) 是一个 Slack 机器人，它可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 ChatGPT 进行总结。它还能通过语音与你交谈。
 
 ### 文章智造
 
-[文章智造](https://nicelinks.site/redirect?url=https://www.mywriter.ink/) 是一款由 ChatGPT 驱动的 [AI](https://nicelinks.site/tags/AI) 聊天机器人，能够帮助您快速生成高质量文章。作为您的 AI 专业写手，它可以自动生成各种类型的文章，包括论文、演讲稿、读后感、情感分析、聊天回复等。不需要繁琐的操作和编写，只需要简单的聊天就可以轻松获得您需要的文章，让您的写作更加高效和便捷。
+[文章智造](https://www.mywriter.ink/) 是一款由 ChatGPT 驱动的 [AI](https://nicelinks.site/tags/AI) 聊天机器人，能够帮助您快速生成高质量文章。作为您的 AI 专业写手，它可以自动生成各种类型的文章，包括论文、演讲稿、读后感、情感分析、聊天回复等。不需要繁琐的操作和编写，只需要简单的聊天就可以轻松获得您需要的文章，让您的写作更加高效和便捷。
 
 作者一位从事软件开发技术近十年的专业人士，有丰富的经验和广泛的背景，有维护博客：[构建我的被动收入](https://nicelinks.site/post/6229e10d4e5ca071558f95b6)；曾在国企、私企、创业公司、外企工作，并曾有过一段个人创业经历。此外，在投资交易领域也有近十年的经验。如果你读过他撰写的 [技术](https://bmpi.dev/dev/) 与 [投资](https://bmpi.dev/money/) 类文章，或许你能够深入了解我的专业背景。作者也提供以下方面的咨询服务：**终身学习**、**全栈开发**、**投资交易**。
 

@@ -10,7 +10,7 @@
 
 ![倾城之链 - PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pdf.online.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PDF Online](https://nicelinks.site/redirect?url=https://pdf.online/)，一款 PDF 在线工具，为您提供完全免费、安全和准确的服务，来处理 `PDF` 文件。上传您的文件，即快速完成来 PDF 的合并、转换（包含 PDF 转换为 `JPG`、`PNG`、`Word`、`HTML` 等文件；也支持由 `JPG`、`PNG`、`Excel`、`Word`、`PPT`、`DICOM` 等转换为 `PDF`）、编辑、压缩、剪裁及更多（如文本提取、删除页面等）。
+**推荐语**：[PDF Online](https://pdf.online/)，一款 PDF 在线工具，为您提供完全免费、安全和准确的服务，来处理 `PDF` 文件。上传您的文件，即快速完成来 PDF 的合并、转换（包含 PDF 转换为 `JPG`、`PNG`、`Word`、`HTML` 等文件；也支持由 `JPG`、`PNG`、`Excel`、`Word`、`PPT`、`DICOM` 等转换为 `PDF`）、编辑、压缩、剪裁及更多（如文本提取、删除页面等）。
 
 ── 出自[倾城之链 - PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://nicelinks.site/post/61683936265d8c6be879dd78)
 
@@ -22,7 +22,7 @@
 
 ![倾城之链 - Linkyy. A simple, yet cool place for all your links](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/linkyy.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Linkyy](https://nicelinks.site/redirect?url=https://linkyy.co/)，是您所有链接（社交媒体、网站、博客等）的地方；基于 [Linkyy](https://nicelinks.site/redirect?url=https://linkyy.co/) 可以创建您自己的个性化页面，并方便与他人分享；与 [about.me](https://nicelinks.site/post/5ae07c3bcbf8b27043e5e9db) 的功能极为相似。它的特色是，注册和使用，都极其简单。
+**推荐语**：[Linkyy](https://linkyy.co/)，是您所有链接（社交媒体、网站、博客等）的地方；基于 [Linkyy](https://linkyy.co/) 可以创建您自己的个性化页面，并方便与他人分享；与 [about.me](https://nicelinks.site/post/5ae07c3bcbf8b27043e5e9db) 的功能极为相似。它的特色是，注册和使用，都极其简单。
 
 ── 出自[倾城之链 - Linkyy. A simple, yet cool place for all your links](https://nicelinks.site/post/61657a9e265d8c6be879dd74)
 
@@ -39,17 +39,17 @@ Jenkins
 Jenkins
 ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.jenkins.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 一个开源的自动化服务器，一款开源 CI&CD 软件，用于自动化各种任务，使世界各地的开发者能够可靠地构建、测试和部署他们的软件。[Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 支持各种运行方式，可通过系统包、Docker 或者通过一个独立的 Java 程序。
+**推荐语**：[Jenkins](https://www.jenkins.io/) 一个开源的自动化服务器，一款开源 CI&CD 软件，用于自动化各种任务，使世界各地的开发者能够可靠地构建、测试和部署他们的软件。[Jenkins](https://www.jenkins.io/) 支持各种运行方式，可通过系统包、Docker 或者通过一个独立的 Java 程序。
 
 ### Jenkins 特性
 
-- **简易安装**：[Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 是一个独立的基于 Java 的程序，随时可以运行，包含 Windows，Mac OS X 和其 他类 Unix 操作系统的软件包；
+- **简易安装**：[Jenkins](https://www.jenkins.io/) 是一个独立的基于 Java 的程序，随时可以运行，包含 Windows，Mac OS X 和其 他类 Unix 操作系统的软件包；
 - **配置简单**：Jenkins 可以通过其 Web 界面轻松设置和配置，其中包括即时错误检查和内置帮助；
 - **插件**：Jenkins 在更新中心拥有数百个插件，几乎集成了持续集成和持续交付工具链中的所有 工具。比如有一个机器人，他自身自会 走路，转弯这些基本功能，但是研发这款机器 人的科学家设置了这个机器人可以插很多个芯片，每一种芯片对应的是机器人的一种 功 能。我们把这个机器人带回家后想要它可以给我们做饭，我们就去找到带有做饭功能的芯片，把这个芯片插到机器人的身体，这个机器人就有做饭的功能了。而 jenkins 就 相当于这个机器人，插件就相当于芯片，当 jenkins 安装相应的插件后就有之前不具 备的功能了；
 - **扩展**：Jenkins 可以通过其插件架构进行扩展，为 Jenkins 提供了几乎无限的可能性；
 - **分布式**：Jenkins 可以轻松地跨多台计算机分配工作，跨多个平台构建，测试和部署。就是有很多台机器去帮你完成 CI/CD，测试的工作（master-slave 架构）；
 
-[Jenkins](https://nicelinks.site/redirect?url=https://www.jenkins.io/) 的主要功能是：**将项目中重复执行的工作自动化的执行**。如软件的建造（构建）和在配置文件下设置的 job。这对开发者尤其具有帮助，已是各互联网科技公司必备工具之一。
+[Jenkins](https://www.jenkins.io/) 的主要功能是：**将项目中重复执行的工作自动化的执行**。如软件的建造（构建）和在配置文件下设置的 job。这对开发者尤其具有帮助，已是各互联网科技公司必备工具之一。
 
 ── 出自[倾城之链 -
 Jenkins
@@ -65,17 +65,17 @@ Jenkins
 
 ![倾城之链 - GIPHY - Be Animated](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/giphy.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GIPHY.COM](https://nicelinks.site/redirect?url=https://giphy.com/) 是在 Internet 上搜索、共享、发现和创建 GIF 的最佳方式。GIPHY 网站、应用程序和 API 上的内容都是网络上最好和最受欢迎的 GIF，以及由才华横溢的 GIF 艺术家和世界级品牌创建的内容。他们的目标是帮助更轻松地找到和分享好的 GIF。
+**推荐语**：[GIPHY.COM](https://giphy.com/) 是在 Internet 上搜索、共享、发现和创建 GIF 的最佳方式。GIPHY 网站、应用程序和 API 上的内容都是网络上最好和最受欢迎的 GIF，以及由才华横溢的 GIF 艺术家和世界级品牌创建的内容。他们的目标是帮助更轻松地找到和分享好的 GIF。
 
 ### 如何找到您想要的内容
 
-通过在 [GIPHY.COM](https://nicelinks.site/redirect?url=https://giphy.com/) 顶部的搜索栏中搜索一个或一组术语来查找您要查找的内容。我们会根据您搜索的术语的相关性自动返回结果。如果您没有看到您要查找的内容，请在搜索末尾添加一些更具体的字词。
+通过在 [GIPHY.COM](https://giphy.com/) 顶部的搜索栏中搜索一个或一组术语来查找您要查找的内容。我们会根据您搜索的术语的相关性自动返回结果。如果您没有看到您要查找的内容，请在搜索末尾添加一些更具体的字词。
 
-值得一提的是，[GIPHY.COM](https://nicelinks.site/redirect?url=https://giphy.com/) 还 [GIPHY Capture](https://giphy.com/apps/giphycapture) 创建 GIF 工具。这个免费的应用程序简单、强大，而且对几乎任何人来说都足够简单。只需点击几下即可创建您的 GIF，超级简单的编辑让您快速获得创意，支持快速保存和分享。
+值得一提的是，[GIPHY.COM](https://giphy.com/) 还 [GIPHY Capture](https://giphy.com/apps/giphycapture) 创建 GIF 工具。这个免费的应用程序简单、强大，而且对几乎任何人来说都足够简单。只需点击几下即可创建您的 GIF，超级简单的编辑让您快速获得创意，支持快速保存和分享。
 
 ── 出自[倾城之链 - GIPHY - Be Animated](https://nicelinks.site/post/61641bbf77a8ce5e114ce559)
 
-## [爱学术导航](https://nicelinks.site/redirect?url=https://www.ixsdh.com/)
+## [爱学术导航](https://www.ixsdh.com/)
 
 **标签**：[`利器`](https://nicelinks.site/theme/tools) · [`发现`](https://nicelinks.site/tags/%E5%8F%91%E7%8E%B0) · [`导航`](https://nicelinks.site/tags/%E5%AF%BC%E8%88%AA) · [`网站`](https://nicelinks.site/tags/%E7%BD%91%E7%AB%99)
 
@@ -85,9 +85,9 @@ Jenkins
 
 ![爱学术导航 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ixsdh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[爱学术导航站](https://nicelinks.site/redirect?url=https://www.ixsdh.com/) 成立于 2021 年 5 月 20 日，志在成为学习和生活信噪比最高的导航网站。值得一提的是，该网站除了收录学术搜索、文献数据、科研数据、学术工具等相关网站外，还提供了些其他内容，如站内搜索、相关资讯、城市天气等内容。── 出自[倾城之链 | 爱学术导航](https://nicelinks.site/post/616056a5835dda0faf03db56)。
+**推荐语：**[爱学术导航站](https://www.ixsdh.com/) 成立于 2021 年 5 月 20 日，志在成为学习和生活信噪比最高的导航网站。值得一提的是，该网站除了收录学术搜索、文献数据、科研数据、学术工具等相关网站外，还提供了些其他内容，如站内搜索、相关资讯、城市天气等内容。── 出自[倾城之链 | 爱学术导航](https://nicelinks.site/post/616056a5835dda0faf03db56)。
 
-## [即刻学术](https://nicelinks.site/redirect?url=https://www.ijkxs.com/)
+## [即刻学术](https://www.ijkxs.com/)
 
 **标签**： [`社区`](https://nicelinks.site/theme/community) · [`科技`](https://nicelinks.site/tags/%E7%A7%91%E6%8A%80) · [`资讯`](https://nicelinks.site/tags/%E8%B5%84%E8%AE%AF) · [`平台`](https://nicelinks.site/tags/%E5%B9%B3%E5%8F%B0)
 
@@ -97,7 +97,7 @@ Jenkins
 
 ![即刻学术 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ijkxs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[即刻学术](https://nicelinks.site/redirect?url=https://www.ijkxs.com/)是集科技资讯、学术资源、会议交流、视频活动以及兴趣部落社交等信噪比较高的网站，致力于打造国内技术爱好者共同的乐园。这里拥有旺盛的人气、良好的交流氛围及广阔的交流空间，已成为聚集众多技术大牛和学术大牛的学术资源、经验交流平台。── 出自[倾城之链 | 即刻学术](https://nicelinks.site/post/61605687835dda0faf03db54)。
+**推荐语：**[即刻学术](https://www.ijkxs.com/)是集科技资讯、学术资源、会议交流、视频活动以及兴趣部落社交等信噪比较高的网站，致力于打造国内技术爱好者共同的乐园。这里拥有旺盛的人气、良好的交流氛围及广阔的交流空间，已成为聚集众多技术大牛和学术大牛的学术资源、经验交流平台。── 出自[倾城之链 | 即刻学术](https://nicelinks.site/post/61605687835dda0faf03db54)。
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 

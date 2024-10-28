@@ -10,14 +10,14 @@
 
 ![倾城之链 - mdsvex - markdown in svelte!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mdsvex.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MDSvex](https://nicelinks.site/redirect?url=https://mdsvex.com/) 是一个基于 [Markdown](https://nicelinks.site/tags/Markdown) 和 [Svelte](https://nicelinks.site/tags/Svelte) 技术栈的工具，可以将 Markdown 文档转换为可交互的组件化 UI。该工具允许开发者以类似于编写 React 组件的方式编写 Markdown 文件，并支持在 Markdown 中嵌入 Svelte 组件。MDSvex 的主要特点如下：
+**推荐语**：[MDSvex](https://mdsvex.com/) 是一个基于 [Markdown](https://nicelinks.site/tags/Markdown) 和 [Svelte](https://nicelinks.site/tags/Svelte) 技术栈的工具，可以将 Markdown 文档转换为可交互的组件化 UI。该工具允许开发者以类似于编写 React 组件的方式编写 Markdown 文件，并支持在 Markdown 中嵌入 Svelte 组件。MDSvex 的主要特点如下：
 
 1.  **基于 Markdown**：MDSvex 使用 Markdown 作为文档格式，并支持 GitHub Flavored Markdown 标准。
 2.  **支持 Svelte 组件**：开发者可以在 Markdown 中嵌入 Svelte 组件，并通过 props 实现组件之间的数据传递和状态管理。
 3.  **可交互性**：由于 MDSvex 可以将 Markdown 转换为组件化 UI，因此可以实现更加丰富和动态的用户交互体验。
 4.  **灵活性**：MDSvex 支持自定义配置和插件，可以根据项目需求进行灵活扩展和定制化。
 
-[MDSvex](https://nicelinks.site/redirect?url=https://mdsvex.com/) 基本上是 Svelte 的 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) ，允许您在 markdown 中使用 Svelte 组件，或在 Svelte 组件中使用 markdown。mdsvex 支持所有 Svelte 语法和*几乎*所有 markdown 语法。有关详细信息，请参阅 [限制](https://mdsvex.com/docs/#limitations) ，下面是使用示例：
+[MDSvex](https://mdsvex.com/) 基本上是 Svelte 的 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) ，允许您在 markdown 中使用 Svelte 组件，或在 Svelte 组件中使用 markdown。mdsvex 支持所有 Svelte 语法和*几乎*所有 markdown 语法。有关详细信息，请参阅 [限制](https://mdsvex.com/docs/#limitations) ，下面是使用示例：
 
 ```html
 <script>
@@ -29,7 +29,7 @@
 <Chart />
 ```
 
-近期有基于 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 开发一款 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 相关的 Web 应用： [素问智聊斋](https://chatgpt.nicelinks.site/) ；其中 [关于](https://chatgpt.nicelinks.site/#/about) 、 [赞助](https://chatgpt.nicelinks.site/#/sponsor) 等页面，基于 Markdown、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、和 [MDSvex](https://nicelinks.site/redirect?url=https://mdsvex.com/) 来开发，配置简单，效率贼高，效果很棒，体验极好；颇为赞叹。下面是 Sponsor（赞助）页面的代码：
+近期有基于 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 开发一款 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 相关的 Web 应用： [素问智聊斋](https://chatgpt.nicelinks.site/) ；其中 [关于](https://chatgpt.nicelinks.site/#/about) 、 [赞助](https://chatgpt.nicelinks.site/#/sponsor) 等页面，基于 Markdown、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、和 [MDSvex](https://mdsvex.com/) 来开发，配置简单，效率贼高，效果很棒，体验极好；颇为赞叹。下面是 Sponsor（赞助）页面的代码：
 
 ```html
 <script>
@@ -55,7 +55,7 @@
 
 ![倾城之链 - Cursor | Build Fast](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cursor.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cursor](https://nicelinks.site/redirect?url=https://www.cursor.so/) 是一款专为 [AI](https://nicelinks.site/tags/AI) 编程而生的编辑器，配置非常简单，因为内置了 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的能力，所以下载即用，通过  `Ctrl+k`  调出对话框进行会话，输入 prompts 即可得到结果。现在 cursor 还处于早期阶段，但现在它可以帮助您做一些事情，诸如：
+**推荐语**：[Cursor](https://www.cursor.so/) 是一款专为 [AI](https://nicelinks.site/tags/AI) 编程而生的编辑器，配置非常简单，因为内置了 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的能力，所以下载即用，通过  `Ctrl+k`  调出对话框进行会话，输入 prompts 即可得到结果。现在 cursor 还处于早期阶段，但现在它可以帮助您做一些事情，诸如：
 
 - **编写**：使用比 Copilot 更智能的 AI 生成 10-100 行代码；
 - **Diff**：要求 AI 编辑一段代码，只查看建议的更改；
@@ -76,7 +76,7 @@
 
 ![倾城之链 - Welcome | Weaviate - vector database](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/weaviate.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Weaviate](https://nicelinks.site/redirect?url=https://weaviate.io/) 是一个基于向量搜索 (vector search) 和自然语言处理 (NLP) 技术的开源向量数据库。它不仅可以存储、管理和查询向量，还可以自动学习向量之间的关系和上下文，从而支持更智能的搜索和推荐。Weaviate 具有如下功能特征：
+**推荐语**：[Weaviate](https://weaviate.io/) 是一个基于向量搜索 (vector search) 和自然语言处理 (NLP) 技术的开源向量数据库。它不仅可以存储、管理和查询向量，还可以自动学习向量之间的关系和上下文，从而支持更智能的搜索和推荐。Weaviate 具有如下功能特征：
 
 ### 矢量搜索
 
@@ -94,11 +94,11 @@
 
 Weaviate 支持闪电般快速的矢量搜索，但它的功能远不止于此。它的其他一些超能力包括推荐、总结以及与神经搜索框架的集成。
 
-官方网站 [Weaviate](https://nicelinks.site/redirect?url=https://weaviate.io/) 提供了丰富的文档资料、教程和示例代码，可以帮助开发者更好地理解和使用 Weaviate。同时，官网还提供了 Weaviate Playground 工具，可以在线试用和体验 Weaviate 的功能和接口。
+官方网站 [Weaviate](https://weaviate.io/) 提供了丰富的文档资料、教程和示例代码，可以帮助开发者更好地理解和使用 Weaviate。同时，官网还提供了 Weaviate Playground 工具，可以在线试用和体验 Weaviate 的功能和接口。
 
-[Weaviate](https://nicelinks.site/redirect?url=https://weaviate.io/) 的应用场景非常广泛，可以用于各种不同的领域，如企业搜索、医疗健康、金融服务、新闻媒体等。它可以帮助企业和机构快速地找到所需的信息和数据，提高工作效率和准确率。同样地，在医疗和健康领域，它可以帮助医生和研究人员快速地查找和分析相关文献和数据，支持疾病预防和诊断。
+[Weaviate](https://weaviate.io/) 的应用场景非常广泛，可以用于各种不同的领域，如企业搜索、医疗健康、金融服务、新闻媒体等。它可以帮助企业和机构快速地找到所需的信息和数据，提高工作效率和准确率。同样地，在医疗和健康领域，它可以帮助医生和研究人员快速地查找和分析相关文献和数据，支持疾病预防和诊断。
 
-总之， [Weaviate](https://nicelinks.site/redirect?url=https://weaviate.io/) 提供了丰富的文档和的资源，帮助用户更好地理解 Weaviate 数据库的功能和优势，从而支持开发者快速构建智能应用，提高数据查询和处理的准确率。同时，由于 Weaviate 是开源项目，用户可以在 [GitHub 上获取其源代码](https://github.com/weaviate/weaviate) ，并对其进行自定义和扩展。
+总之， [Weaviate](https://weaviate.io/) 提供了丰富的文档和的资源，帮助用户更好地理解 Weaviate 数据库的功能和优势，从而支持开发者快速构建智能应用，提高数据查询和处理的准确率。同时，由于 Weaviate 是开源项目，用户可以在 [GitHub 上获取其源代码](https://github.com/weaviate/weaviate) ，并对其进行自定义和扩展。
 
 ── 出自[倾城之链 - Welcome | Weaviate - vector database](https://nicelinks.site/post/6422e0762d6c9c63445c73ed)
 
@@ -110,7 +110,7 @@ Weaviate 支持闪电般快速的矢量搜索，但它的功能远不止于此�
 
 ![倾城之链 - JavaScript Obfuscator Tool](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/obfuscator.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[JavaScript Obfuscator Tool](https://nicelinks.site/redirect?url=https://obfuscator.io/) ，是一个在线代码混淆工具，免费且高效；它可以将 [JavaScript](https://nicelinks.site/tags/JavaScript) 、 [CSS](https://nicelinks.site/tags/CSS) 和 [HTML](https://nicelinks.site/tags/HTML) 代码进行混淆，从而防止源代码被恶意利用或破解。它提供了多种混淆选项，如随机变量名、删除空格、注释等等，以此增加被攻击者解密的难度，提高代码的安全性。同时，该工具还支持在线预览和多款编码风格的选择，可以方便地查看和选择混淆后的代码风格，以及调整混淆程度。
+**推荐语**：[JavaScript Obfuscator Tool](https://obfuscator.io/) ，是一个在线代码混淆工具，免费且高效；它可以将 [JavaScript](https://nicelinks.site/tags/JavaScript) 、 [CSS](https://nicelinks.site/tags/CSS) 和 [HTML](https://nicelinks.site/tags/HTML) 代码进行混淆，从而防止源代码被恶意利用或破解。它提供了多种混淆选项，如随机变量名、删除空格、注释等等，以此增加被攻击者解密的难度，提高代码的安全性。同时，该工具还支持在线预览和多款编码风格的选择，可以方便地查看和选择混淆后的代码风格，以及调整混淆程度。
 
 值得一提的是，该网站的服务是基于**加密算法**实现的，因此不需要上传代码即可进行混淆，确保了用户的代码的隐私和安全（这也是跟类似产品如 UglifyJS、Closure Compiler 不同的地方）。另外，该网站还提供了 Chrome 插件，可以在开发过程中直接使用，非常方便。
 
@@ -128,7 +128,7 @@ Weaviate 支持闪电般快速的矢量搜索，但它的功能远不止于此�
 
 ![倾城之链 -  帮小忙，腾讯QQ浏览器在线工具箱平台 ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tool.browser.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[帮小忙](https://nicelinks.site/redirect?url=https://tool.browser.qq.com/) ，友腾讯 QQ 浏览器团队推出的在线工具箱平台，功能较为齐全，有图片加水印、数据换算、生活娱乐、教育、文本工具、证件生成、、文字提取、今天吃什么、亲戚关系计算、字帖生成、文档转换、开发工具、视频和 PDF 转换工具等等，分免费的和限时免费。类似工具聚合平台较多，诸如 [在线工具 - 程序员的工具箱](https://nicelinks.site/post/5a5cc0b60aee782ded3e7b6b) 、 [即时工具-致力打造即用即走型在线工具箱](https://nicelinks.site/post/62727acd7d02b74eba0f09d9) 等等，您可按需选择典藏、使用。
+**推荐语**：[帮小忙](https://tool.browser.qq.com/) ，友腾讯 QQ 浏览器团队推出的在线工具箱平台，功能较为齐全，有图片加水印、数据换算、生活娱乐、教育、文本工具、证件生成、、文字提取、今天吃什么、亲戚关系计算、字帖生成、文档转换、开发工具、视频和 PDF 转换工具等等，分免费的和限时免费。类似工具聚合平台较多，诸如 [在线工具 - 程序员的工具箱](https://nicelinks.site/post/5a5cc0b60aee782ded3e7b6b) 、 [即时工具-致力打造即用即走型在线工具箱](https://nicelinks.site/post/62727acd7d02b74eba0f09d9) 等等，您可按需选择典藏、使用。
 
 ── 出自[倾城之链 - 帮小忙，腾讯 QQ 浏览器在线工具箱平台 ](https://nicelinks.site/post/641e8f67abfccb2329b4e383)
 

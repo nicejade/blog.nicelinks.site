@@ -10,9 +10,9 @@
 
 ![倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bio.link.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bio Link](https://nicelinks.site/redirect?url=https://bio.link/)，一个快速创建个人主页的网站（您所有「链接」的一个集中链接）；它具有**闪电 ⚡️ 般速度**，可在几百毫秒内启动您的页面；此外还具有**永久免费**、支持**访客统计**、拥有 15+ 主题、方便快速分享。它的使用非常简单，只需要以下几步：
+**推荐语**：[Bio Link](https://bio.link/)，一个快速创建个人主页的网站（您所有「链接」的一个集中链接）；它具有**闪电 ⚡️ 般速度**，可在几百毫秒内启动您的页面；此外还具有**永久免费**、支持**访客统计**、拥有 15+ 主题、方便快速分享。它的使用非常简单，只需要以下几步：
 
-### 打开 [Bio Link](https://nicelinks.site/redirect?url=https://bio.link/) 并登录
+### 打开 [Bio Link](https://bio.link/) 并登录
 
 选择您的用户名，选择一个主题（或设计您自己的），然后发布您的页面。
 
@@ -26,7 +26,7 @@
 
 非常值得一提的是，除了支持选择主题、添加链接、社交主页（非常丰富）、嵌入（embed）外；还能支持选择链接地址（支持**自定义域名**）、添加 NSFW 警告、添加 **SEO**（在搜索引擎和社交帖子上显示的标题和描述）、谷歌分析（GA）等等，可谓是异常贴心。
 
-其同类产品有 [about.me](https://nicelinks.site/post/5ae07c3bcbf8b27043e5e9db)、[Linkyy](https://nicelinks.site/post/61657a9e265d8c6be879dd74) 等，但 [Bio Link](https://nicelinks.site/redirect?url=https://bio.link/) 要比它们更为漂亮、快捷、人性化，因此，受到成千上万的艺术家、作家、音乐家、播客、youtuber、游戏玩家、开发人员、爱好者、品牌方的喜爱，当然也包括我；当从 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 上了解这个网站，就迫不及待为自己也建立了一个：[nicejade](https://nicejade.bio.link/)，感兴趣的朋友可以了解并关注下。
+其同类产品有 [about.me](https://nicelinks.site/post/5ae07c3bcbf8b27043e5e9db)、[Linkyy](https://nicelinks.site/post/61657a9e265d8c6be879dd74) 等，但 [Bio Link](https://bio.link/) 要比它们更为漂亮、快捷、人性化，因此，受到成千上万的艺术家、作家、音乐家、播客、youtuber、游戏玩家、开发人员、爱好者、品牌方的喜爱，当然也包括我；当从 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 上了解这个网站，就迫不及待为自己也建立了一个：[nicejade](https://nicejade.bio.link/)，感兴趣的朋友可以了解并关注下。
 
 ── 出自[倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://nicelinks.site/post/627cfbf62dba1c5d9dce1f6f)
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - Acapela | All work notifications in one inbox](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/acapela.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Acapela](https://nicelinks.site/redirect?url=https://acapela.com/)，常用工作工具的中央收件箱；从一个工具中捕获、过滤和操作您的所有工作交流。想象一下收件箱零不仅适用于电子邮件......而且适用于 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、[Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab)、[GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)、[Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c)、Jira、Linear 等。更少的干扰、更少的 FOMO（社群恐慌症）、更多的深度工作时间。更详细来说，它具有以下功能特征：
+**推荐语**：[Acapela](https://acapela.com/)，常用工作工具的中央收件箱；从一个工具中捕获、过滤和操作您的所有工作交流。想象一下收件箱零不仅适用于电子邮件......而且适用于 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、[Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab)、[GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)、[Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c)、Jira、Linear 等。更少的干扰、更少的 FOMO（社群恐慌症）、更多的深度工作时间。更详细来说，它具有以下功能特征：
 
 ### 集成收件箱
 
@@ -52,9 +52,9 @@ Acapela 连接到您的日常工具。无需检查多个应用程序或处理垃
 
 收件箱视图让您高枕无忧，知道不会丢失任何东西。在您回复、暂停或解决之前，每条消息都会被计算在内。
 
-此外，[Acapela](https://nicelinks.site/redirect?url=https://acapela.com/) 还具有更多特色，如**键盘优先设计**（高效快捷，减去鼠标点击）、**闪电般的快**（预加载通知意味着流畅、即时的工作流程）、提供 Mac 应用程序（比使用网络浏览器更快、更流畅的体验）、**自定义警报**（决定哪些通知需要立即关注，哪些可以等待）、打盹按钮（等到你有更多的时间来做更多的回复时再回来）。
+此外，[Acapela](https://acapela.com/) 还具有更多特色，如**键盘优先设计**（高效快捷，减去鼠标点击）、**闪电般的快**（预加载通知意味着流畅、即时的工作流程）、提供 Mac 应用程序（比使用网络浏览器更快、更流畅的体验）、**自定义警报**（决定哪些通知需要立即关注，哪些可以等待）、打盹按钮（等到你有更多的时间来做更多的回复时再回来）。
 
-Acapela 可让您控制通知。从一个地方捕获、过滤和操作它们；以两倍的速度解锁您的团队。Acapela 免费可用（想拥有更好体验的话，需要付费）。如果您常用此类诸如 Slack、Github、Jira 等**远程工作**常用的沟通工具，那么 [Acapela](https://nicelinks.site/redirect?url=https://acapela.com/) 非常值得拥有 & 使用。
+Acapela 可让您控制通知。从一个地方捕获、过滤和操作它们；以两倍的速度解锁您的团队。Acapela 免费可用（想拥有更好体验的话，需要付费）。如果您常用此类诸如 Slack、Github、Jira 等**远程工作**常用的沟通工具，那么 [Acapela](https://acapela.com/) 非常值得拥有 & 使用。
 
 ── 出自[倾城之链 - Acapela | All work notifications in one inbox](https://nicelinks.site/post/627bb5da2dba1c5d9dce1f6b)
 
@@ -66,7 +66,7 @@ Acapela 可让您控制通知。从一个地方捕获、过滤和操作它们；
 
 ![倾城之链 - Shepherd — Guide your users through a tour of your app.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shepherdjs.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Shepherd](https://nicelinks.site/redirect?url=https://shepherdjs.dev/) 是一个 JavaScript 库，用于引导用户通过您的应用程序。它使用另一个开源库 Popper.js 来为每个游览“步骤”呈现对话框。在许多事情中，Popper 确保您的步骤永远不会离开屏幕或被溢出裁剪。它具有以下功能特性：
+**推荐语**：[Shepherd](https://shepherdjs.dev/) 是一个 JavaScript 库，用于引导用户通过您的应用程序。它使用另一个开源库 Popper.js 来为每个游览“步骤”呈现对话框。在许多事情中，Popper 确保您的步骤永远不会离开屏幕或被溢出裁剪。它具有以下功能特性：
 
 ### 可访问性
 
@@ -80,7 +80,7 @@ Shepherd 的风格保持简约，让您可以轻松自定义外观和感觉，�
 
 Shepherd 已准备好使用 React、Ember、Angular、Vue.js、ES 模块或纯 Javascript 进入您的应用程序！
 
-如果您的 Web 应用程序，功能相对复杂，那么类似引导用户熟悉应用的设计，颇有必要。而 [Shepherd](https://nicelinks.site/redirect?url=https://shepherdjs.dev/) 看起来是值得推荐的工具库，如果您想了解更多，可参见 [Shepherd 文档](https://nicelinks.site/redirect?url=https://shepherdjs.dev/docs/)。
+如果您的 Web 应用程序，功能相对复杂，那么类似引导用户熟悉应用的设计，颇有必要。而 [Shepherd](https://shepherdjs.dev/) 看起来是值得推荐的工具库，如果您想了解更多，可参见 [Shepherd 文档](https://shepherdjs.dev/docs/)。
 
 ── 出自[倾城之链 - Shepherd — Guide your users through a tour of your app.](https://nicelinks.site/post/627a5c1cac00ce3f9b11a8f1)
 
@@ -92,7 +92,7 @@ Shepherd 已准备好使用 React、Ember、Angular、Vue.js、ES 模块或纯 J
 
 ![倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.typescriptlang.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [TypeScript](https://nicelinks.site/redirect?url=https://www.typescriptlang.org/) ，是一种开源的程式语言，该语言专案由微软进行维护和管理；TypeScript 是 JavaScript 类型的超集，它可以编译成纯的 JavaScript；TypeScript 可以在任何浏览器、任何计算机和任何操作系统上运行，并且它是开源的。除了在浏览器，也可以运行在 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 、 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 或在您的应用程序中。它具有以下功能特性：
+**推荐语**： [TypeScript](https://www.typescriptlang.org/) ，是一种开源的程式语言，该语言专案由微软进行维护和管理；TypeScript 是 JavaScript 类型的超集，它可以编译成纯的 JavaScript；TypeScript 可以在任何浏览器、任何计算机和任何操作系统上运行，并且它是开源的。除了在浏览器，也可以运行在 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 、 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 或在您的应用程序中。它具有以下功能特性：
 
 ### 始于 JavaScript，归于 JavaScript
 

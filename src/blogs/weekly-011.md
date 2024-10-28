@@ -10,9 +10,9 @@
 
 ![倾城之链 - Pixel True Designs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pixeltrue.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pixel True Designs](https://nicelinks.site/redirect?url=https://www.pixeltrue.com/) 是一个平台，提供经验丰富的设计团队，每天与您合作，创造高品质的设计资产，帮助您的业务增长。零烦恼，没有合同和固定定价。[Pixel True Designs](https://nicelinks.site/redirect?url=https://www.pixeltrue.com/) 提供有 UI 设计、平面设计、应用程式设计、动画片等等；它的使用也是十分方便，您只需创建设计项目，在几个工作日内便会收到草稿设计和修订，达到您满意程度即可下载。
+**推荐语**：[Pixel True Designs](https://www.pixeltrue.com/) 是一个平台，提供经验丰富的设计团队，每天与您合作，创造高品质的设计资产，帮助您的业务增长。零烦恼，没有合同和固定定价。[Pixel True Designs](https://www.pixeltrue.com/) 提供有 UI 设计、平面设计、应用程式设计、动画片等等；它的使用也是十分方便，您只需创建设计项目，在几个工作日内便会收到草稿设计和修订，达到您满意程度即可下载。
 
-另外值得一提的是，[Pixel True Designs](https://nicelinks.site/redirect?url=https://www.pixeltrue.com/) 还提供了很多完美设计工具；如 [ Mockup Generator](https://nicelinks.site/redirect?url=https://www.pixeltrue.com/mockup-generator)，使用它，您可以在几下点击即可创建美丽的产品模型！完全免费。有超过 30 种不同的模型，您将有足够的材料来为您的项目和营销活动创建美丽的产品模型。
+另外值得一提的是，[Pixel True Designs](https://www.pixeltrue.com/) 还提供了很多完美设计工具；如 [ Mockup Generator](https://www.pixeltrue.com/mockup-generator)，使用它，您可以在几下点击即可创建美丽的产品模型！完全免费。有超过 30 种不同的模型，您将有足够的材料来为您的项目和营销活动创建美丽的产品模型。
 
 ── 出自[倾城之链 - Pixel True Designs](https://nicelinks.site/post/608ac2939947e6213fe43a9a)
 
@@ -26,7 +26,7 @@
 
 ![倾城之链 - 36氪出海 | 助力中国公司全球化](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/letschuhai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[36 氪出海](https://nicelinks.site/redirect?urlhttps://letschuhai.com/)是关注全球新经济的中文媒体品牌。他们的内容聚焦中外各大新经济行业， 力图帮助中国最具有全球视野的人群更全面地理解全球商业。除此之外，[36 氪出海](https://nicelinks.site/redirect?urlhttps://letschuhai.com/)会定期通过跨境论坛、咨询、社群交流等服务， 连接亚洲区域内的大公司、初创公司和生态中的其他重要角色， 促进更多跨境商业机遇的产生。
+**推荐语**：[36 氪出海](https://letschuhai.com/)是关注全球新经济的中文媒体品牌。他们的内容聚焦中外各大新经济行业， 力图帮助中国最具有全球视野的人群更全面地理解全球商业。除此之外，[36 氪出海](https://letschuhai.com/)会定期通过跨境论坛、咨询、社群交流等服务， 连接亚洲区域内的大公司、初创公司和生态中的其他重要角色， 促进更多跨境商业机遇的产生。
 
 ── 出自[倾城之链 - 36 氪出海 | 助力中国公司全球化](https://nicelinks.site/post/608a722d9947e6213fe43a98)
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - ImgDownloader - Bulk Download Image from Website and URL](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/imgdownloader.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ImgDownloader](https://nicelinks.site/redirect?url=https://imgdownloader.com/) 是强大的图像下载器工具，可让您从任何**网站**，**Google Images** 和 **Instagram 个人资料**下载图像！只需复制和粘贴 URL，即可立即获取所有图像，图片或视频，mp4。
+**推荐语**：[ImgDownloader](https://imgdownloader.com/) 是强大的图像下载器工具，可让您从任何**网站**，**Google Images** 和 **Instagram 个人资料**下载图像！只需复制和粘贴 URL，即可立即获取所有图像，图片或视频，mp4。
 
 ### 从网站批量下载图像
 
@@ -46,16 +46,16 @@
 
 ### 从 Google 批量下载图像
 
-通常，您可能会从 Google 图片搜索结果中查找图片，然后选择所需的最佳图片。但是，如何获取所有图像并批量下载呢？Google 图片不提供此功能，您必须一个一个地下载它们。使用 [ImgDownloader](https://nicelinks.site/redirect?url=https://imgdownloader.com/) ，您可以输入关键字并预览由 Google 图片索引的所有图片。通过单击一个按钮将它们全部下载。请注意，您应遵循图像提供者的原则和政策。检查是否可以将图像用于商业。
+通常，您可能会从 Google 图片搜索结果中查找图片，然后选择所需的最佳图片。但是，如何获取所有图像并批量下载呢？Google 图片不提供此功能，您必须一个一个地下载它们。使用 [ImgDownloader](https://imgdownloader.com/) ，您可以输入关键字并预览由 Google 图片索引的所有图片。通过单击一个按钮将它们全部下载。请注意，您应遵循图像提供者的原则和政策。检查是否可以将图像用于商业。
 
 ### 从 Instagram 个人资料下载图像
 
-Instagram 是最受欢迎的社交媒体平台，来自世界各地的用户共享他们的照片和视频。不幸的是，直接从 Instagram 下载图像或 mp4 文件可能很困难。但是，您可以使用我们的 [ImgDownloader](https://nicelinks.site/redirect?url=https://imgdownloader.com/) 并仅粘贴 URL 即可下载所需的照片或视频。我们的服务器将为您下载图像或 mp4 文件。请注意，未经所有者许可，您不能使用图像或视频。
+Instagram 是最受欢迎的社交媒体平台，来自世界各地的用户共享他们的照片和视频。不幸的是，直接从 Instagram 下载图像或 mp4 文件可能很困难。但是，您可以使用我们的 [ImgDownloader](https://imgdownloader.com/) 并仅粘贴 URL 即可下载所需的照片或视频。我们的服务器将为您下载图像或 mp4 文件。请注意，未经所有者许可，您不能使用图像或视频。
 
-提取网站上的所有图像从未如此简单， [ImgDownloader](https://nicelinks.site/redirect?url=https://imgdownloader.com/) 有以下功能特征：
+提取网站上的所有图像从未如此简单， [ImgDownloader](https://imgdownloader.com/) 有以下功能特征：
 
 - **大量下载**：只需单击一下，即可从 URL 或网站提取并下载所有图像。这个过程将很快；
-- **易于使用**：复制并粘贴 URL 和网站。 [ImgDownloader](https://nicelinks.site/redirect?url=https://imgdownloader.com/) 将抓取所有显示的图片；
+- **易于使用**：复制并粘贴 URL 和网站。 [ImgDownloader](https://imgdownloader.com/) 将抓取所有显示的图片；
 - **可用性**：使用 ImgDownloader 可以保存来自 Twitter，instagram，facebook 和您想要的所有网站的所有图片。
 
 ── 出自[倾城之链 - ImgDownloader - Bulk Download Image from Website and URL](https://nicelinks.site/post/608935919947e6213fe43a95)
@@ -70,7 +70,7 @@ An iOS app features a block-based modular editor and a private social network. L
 
 ![倾城之链 - Vary 卡片手帐 App | 创作高颜值日记卡片](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vary.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vary](https://nicelinks.site/redirect?url=https://vary.app/) 是一个定位于在熟识好友间分享生活的社交网络，重点是私密和清净（由[翁天信](https://nicelinks.site/post/5a7faec281585151907cb24e)创造）。在这里，没有网站链接，没有广告和软文，没有代购和营销，没有无谓的鸡汤，也没有繁重的人际关系。**只是在喧闹纷乱的网络世界里，一个可以安安静静地与你在乎的、真正关心你的人分享和记录自己生活的地方**。它具有以下功能特征：
+**推荐语**：[Vary](https://vary.app/) 是一个定位于在熟识好友间分享生活的社交网络，重点是私密和清净（由[翁天信](https://nicelinks.site/post/5a7faec281585151907cb24e)创造）。在这里，没有网站链接，没有广告和软文，没有代购和营销，没有无谓的鸡汤，也没有繁重的人际关系。**只是在喧闹纷乱的网络世界里，一个可以安安静静地与你在乎的、真正关心你的人分享和记录自己生活的地方**。它具有以下功能特征：
 
 - 重量级创作工具，轻量级社交网络；
 - 模块化内容排版，焕然一新的创作体验；
@@ -78,7 +78,7 @@ An iOS app features a block-based modular editor and a private social network. L
 - 丰富个性化设置，自定义每一个细节；
 - 内置小众私密的，社交网络。
 
-如果您对 [Vary](https://nicelinks.site/redirect?url=https://vary.app/) 想了解更多，请参见 [Vary | 九个月的努力](https://nicelinks.site/redirect?url=https://blog.dandyweng.com/2017/02/nine-months-of-work/)。
+如果您对 [Vary](https://vary.app/) 想了解更多，请参见 [Vary | 九个月的努力](https://blog.dandyweng.com/2017/02/nine-months-of-work/)。
 
 ── 出自[倾城之链 - Vary 卡片手帐 App | 创作高颜值日记卡片](https://nicelinks.site/post/6088efa19947e6213fe43a93)
 
@@ -92,7 +92,7 @@ An iOS app features a block-based modular editor and a private social network. L
 
 ![倾城之链 - 知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zsxq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[知识星球](https://nicelinks.site/redirect?url=https://zsxq.com/)是创作者连接铁杆粉丝，做出高品质社群，实现知识变现的工具。**创作者可以用知识星球连接铁杆粉丝，做出高品质社群，实现知识变现**。它解决的核心问题是：社群收费管理难问题，和内容不能沉淀问题。微信公众号、微博和行业专家，这些有粉丝的创作者是知识星球的核心用户，都可以用知识星球运营社群，知识变现。创作者可以创建社群后对外发布，粉丝们付费加入社群。社群的规则与玩法可以多种多样 ── 可以是互动型的大家一起畅谈，可以是问答社区，也可以是纯内容输出。所有内容最终沉淀，能分类可检索。它有以下功能特征：
+**推荐语**：[知识星球](https://zsxq.com/)是创作者连接铁杆粉丝，做出高品质社群，实现知识变现的工具。**创作者可以用知识星球连接铁杆粉丝，做出高品质社群，实现知识变现**。它解决的核心问题是：社群收费管理难问题，和内容不能沉淀问题。微信公众号、微博和行业专家，这些有粉丝的创作者是知识星球的核心用户，都可以用知识星球运营社群，知识变现。创作者可以创建社群后对外发布，粉丝们付费加入社群。社群的规则与玩法可以多种多样 ── 可以是互动型的大家一起畅谈，可以是问答社区，也可以是纯内容输出。所有内容最终沉淀，能分类可检索。它有以下功能特征：
 
 - **多种内容组织形式**：支持文字、图片、文件、音频，可加标签、设置精华、布置作业，内容长期保存；
 - **搜索筛选快速查找**：随时按关键字搜索星球内容，提供多种筛选主题条件，查找你想要的内容；
@@ -112,7 +112,7 @@ An iOS app features a block-based modular editor and a private social network. L
 
 ![倾城之链 - 1024 - 好人一生平安 - 1024.COM](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1024.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[1024.com](https://nicelinks.site/redirect?url=https://1024.com/) 是格子广告位合作出售网站。共提供 1024（32x32）个广告位，在格子上展示您的图片和网址链接，例如网站、博客、抖音号、快手号、公众号、视频号、APP、商店、二维码、小程序等，从而获取「赞助费」，每个每月 400 元。合作需提供：
+**推荐语**：[1024.com](https://1024.com/) 是格子广告位合作出售网站。共提供 1024（32x32）个广告位，在格子上展示您的图片和网址链接，例如网站、博客、抖音号、快手号、公众号、视频号、APP、商店、二维码、小程序等，从而获取「赞助费」，每个每月 400 元。合作需提供：
 
 - 链接地址
 - 展示图片

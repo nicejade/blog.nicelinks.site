@@ -10,7 +10,7 @@
 
 ![倾城之链 - sshx | A secure web-based, collaborative terminal](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sshx.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SSHX](https://nicelinks.site/redirect?url=https://sshx.io/) 基于网络的安全协作 [终端](https://nicelinks.site/tags/终端) ，让您可以在多人无限画布上通过链接与任何人共享您的终端 。它具有实时[协作](https://nicelinks.site/tags/协作)、远程光标和聊天功能。它还具有快速且端到端加密的特点，并具有用 Rust 编写的轻量级服务器。sshx 使用单个命令安装，可将其用于教学、调试或云访问。`sshx` 具有如下功能特征：
+**推荐语**：[SSHX](https://sshx.io/) 基于网络的安全协作 [终端](https://nicelinks.site/tags/终端) ，让您可以在多人无限画布上通过链接与任何人共享您的终端 。它具有实时[协作](https://nicelinks.site/tags/协作)、远程光标和聊天功能。它还具有快速且端到端加密的特点，并具有用 Rust 编写的轻量级服务器。sshx 使用单个命令安装，可将其用于教学、调试或云访问。`sshx` 具有如下功能特征：
 
 - **协作性**：通过共享安全、独特的浏览器链接来邀请其他人。
 - **跨平台**：在 macOS 和 Linux 上，不到一秒钟即可安装客户端。
@@ -45,7 +45,7 @@ curl -sSf https://sshx.io/get | sh
 
 ![倾城之链 - Sider -- ChatGPT 侧边栏、GPT-4、绘图和 Web 访问](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sider.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sider](https://nicelinks.site/redirect?url=https://sider.ai/) ：先进的 AI 助手（ [ChatGPT](https://nicelinks.site/tags/ChatGPT) 侧边栏）；它整合 ChatGPT、 [Claude](https://nicelinks.site/post/64ca4f3dd2695f11974932c4) 、Bard，优化您的工作流程，帮助您在任何网页上使用 [AI](https://nicelinks.site/tags/AI) 聊天、写作、阅读、翻译、解释、测试图像，包括 ChatGPT 3.5 / 4、Bard、New Bing 和 Claude。官方给出了如下功能特征说明：
+**推荐语**：[Sider](https://sider.ai/) ：先进的 AI 助手（ [ChatGPT](https://nicelinks.site/tags/ChatGPT) 侧边栏）；它整合 ChatGPT、 [Claude](https://nicelinks.site/post/64ca4f3dd2695f11974932c4) 、Bard，优化您的工作流程，帮助您在任何网页上使用 [AI](https://nicelinks.site/tags/AI) 聊天、写作、阅读、翻译、解释、测试图像，包括 ChatGPT 3.5 / 4、Bard、New Bing 和 Claude。官方给出了如下功能特征说明：
 
 ### 多合一聊天机器人
 
@@ -117,7 +117,7 @@ curl -sSf https://sshx.io/get | sh
 
 ![倾城之链 - MJML - The Responsive Email Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mjml.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MJML](https://nicelinks.site/redirect?url=https://mjml.io/) ：唯一使响应式 [电子邮件](https://nicelinks.site/tags/邮件) 变得简单的 [框架](https://nicelinks.site/tags/框架) ；它使得开发者更少编写，节省时间，更高效地编写代码；MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上进行响应。使用 MJML 的语义语法编写更少的代码、节省时间并更高效地编写代码。**为什么选择 MJML**？官方给出以下理由：
+**推荐语**：[MJML](https://mjml.io/) ：唯一使响应式 [电子邮件](https://nicelinks.site/tags/邮件) 变得简单的 [框架](https://nicelinks.site/tags/框架) ；它使得开发者更少编写，节省时间，更高效地编写代码；MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上进行响应。使用 MJML 的语义语法编写更少的代码、节省时间并更高效地编写代码。**为什么选择 MJML**？官方给出以下理由：
 
 ### 简单快捷
 
@@ -131,7 +131,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 借助可重用和可扩展的组件编写高级代码。
 
-`MJML` 是基于 [Mailjet](https://www.mailjet.com/) 创建的一种标记语言，旨在减少编写响应式电子邮件的难度。其语义语法使语言变得简单明了，而其丰富的标准组件库则缩短了您的开发时间并减轻了电子邮件代码库的负担。MJML 的开源引擎负责将`MJML`您编写的内容转换为响应式 HTML。值得一提的是， [倾城之链](https://nicelinks.site) 的每周邮件推送，就基于 [MJML](https://nicelinks.site/redirect?url=https://mjml.io/) 所构建，如果您对其感兴趣，可移步 [MJML 在 Github 开源仓库](https://github.com/mjmlio/mjml) ，从而了解更多。
+`MJML` 是基于 [Mailjet](https://www.mailjet.com/) 创建的一种标记语言，旨在减少编写响应式电子邮件的难度。其语义语法使语言变得简单明了，而其丰富的标准组件库则缩短了您的开发时间并减轻了电子邮件代码库的负担。MJML 的开源引擎负责将`MJML`您编写的内容转换为响应式 HTML。值得一提的是， [倾城之链](https://nicelinks.site) 的每周邮件推送，就基于 [MJML](https://mjml.io/) 所构建，如果您对其感兴趣，可移步 [MJML 在 Github 开源仓库](https://github.com/mjmlio/mjml) ，从而了解更多。
 
 ── 出自[倾城之链 - MJML - The Responsive Email Framework](https://nicelinks.site/post/654b87483341b36b38b2eb46)
 
@@ -144,7 +144,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 ![倾城之链 - Fastlane - App automation done right](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fastlane.tools.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Fastlane](https://nicelinks.site/redirect?url=https://fastlane.tools/) 是一个用于 [自动化](https://nicelinks.site/tags/自动化) iOS 和 Android 应用程序发布过程的工具集，它可以帮助开发者自动完成应用程序 [构建](https://nicelinks.site/tags/构建) 、 [测试](https://nicelinks.site/tags/测试) 、打包、签名、上传到 App Store 和 Google Play 等过程。Fastlane 由 Ruby 语言编写，其核心理念是将应用程序发布过程中的繁琐和重复的任务自动化，以提高开发者的工作效率和发布质量。
+**推荐语**：[Fastlane](https://fastlane.tools/) 是一个用于 [自动化](https://nicelinks.site/tags/自动化) iOS 和 Android 应用程序发布过程的工具集，它可以帮助开发者自动完成应用程序 [构建](https://nicelinks.site/tags/构建) 、 [测试](https://nicelinks.site/tags/测试) 、打包、签名、上传到 App Store 和 Google Play 等过程。Fastlane 由 Ruby 语言编写，其核心理念是将应用程序发布过程中的繁琐和重复的任务自动化，以提高开发者的工作效率和发布质量。
 
 **Fastlane 的主要功能包括**：
 
@@ -153,7 +153,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 3.  **签名和部署**：Fastlane 可以自动化签名和部署 iOS 和 Android 应用程序，包括证书管理、Provisioning Profile 管理、代码签名等，以确保应用程序的安全性和正确性。
 4.  **发布和管理**：Fastlane 可以自动化发布应用程序到 App Store 和 Google Play，支持多种发布选项，包括版本控制、更新说明、应用截图等，以提高发布效率和质量。
 
-总之， [Fastlane](https://nicelinks.site/redirect?url=https://fastlane.tools/) 是一款功能强大、易于使用的自动化发布工具，可以大大提高开发者的工作效率和发布质量。同时，它也是一款开源工具，拥有庞大的社区和丰富的插件库，可以满足不同开发者的需求和场景。如果您对其感兴趣，可移步 [Fastlane 在 Github 开源仓库](https://github.com/fastlane/fastlane) （截止 2023 年 11 月 08 日，已获得 37.7K+ Star） 或者 [Fastlane 开发者文档](https://docs.fastlane.tools/) ，从而了解更多。
+总之， [Fastlane](https://fastlane.tools/) 是一款功能强大、易于使用的自动化发布工具，可以大大提高开发者的工作效率和发布质量。同时，它也是一款开源工具，拥有庞大的社区和丰富的插件库，可以满足不同开发者的需求和场景。如果您对其感兴趣，可移步 [Fastlane 在 Github 开源仓库](https://github.com/fastlane/fastlane) （截止 2023 年 11 月 08 日，已获得 37.7K+ Star） 或者 [Fastlane 开发者文档](https://docs.fastlane.tools/) ，从而了解更多。
 
 ── 出自[倾城之链 - Fastlane - App automation done right](https://nicelinks.site/post/654b473a3341b36b38b2e996)
 
@@ -165,7 +165,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 ![倾城之链 - sobooks.net - sobooks 资源和信息](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sobooks.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[sobooks.net](https://nicelinks.site/redirect?url=https://sobooks.net/) ：是一个优质免费电子书下载网站，网站书籍分类包含小说文学、历史传记、人文社科、励志成功、经济管理、学习教育、生活时尚、漫画绘本等 8 大板块，而且该网站很贴心地做了很多内容标签。
+**推荐语**：[sobooks.net](https://sobooks.net/) ：是一个优质免费电子书下载网站，网站书籍分类包含小说文学、历史传记、人文社科、励志成功、经济管理、学习教育、生活时尚、漫画绘本等 8 大板块，而且该网站很贴心地做了很多内容标签。
 
 截止 2023 年 11 月，该网站提供了几万本免费电子书，你可以免费下载，不过在下载之前需要关注站长的微信公众号，名字也叫 `Sobooks`，然后在微信公众号回复验证码，获取提取密码就可以下载了（有在该网站下载《埃隆 ·马斯克传》）。想必站长也是通过这种方式为微信公众号获取粉丝，进而获取一定的广告收益。
 
@@ -179,7 +179,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 ![倾城之链 - Electron Builder | 打包和构建可立即分发的 Electron 应用程序的完整解决方案](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.electron.build.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Electron Builder](https://nicelinks.site/redirect?url=https://www.electron.build/) ，打包和 [构建](https://nicelinks.site/tags/构建) 可立即分发的 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 应用程序的完整解决方案，适用于 macOS、Windows 和 Linux，并提供开箱即用的“自动更新”支持，这对于基于 Electron、开发桌面应用程序的开发人员，能够提供积极的帮助；该项目在 [Github 仓库开源](https://github.com/electron-userland/electron-builder) ，如果您对其感兴趣，不妨移步前往从而了解更多。
+**推荐语**：[Electron Builder](https://www.electron.build/) ，打包和 [构建](https://nicelinks.site/tags/构建) 可立即分发的 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 应用程序的完整解决方案，适用于 macOS、Windows 和 Linux，并提供开箱即用的“自动更新”支持，这对于基于 Electron、开发桌面应用程序的开发人员，能够提供积极的帮助；该项目在 [Github 仓库开源](https://github.com/electron-userland/electron-builder) ，如果您对其感兴趣，不妨移步前往从而了解更多。
 
 ── 出自[倾城之链 - Electron Builder | 打包和构建可立即分发的 Electron 应用程序的完整解决方案](https://nicelinks.site/post/654a088a3341b36b38b2e29c)
 
@@ -191,7 +191,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 ![倾城之链 - Caporal | Build Awesome CLI with Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/caporal.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Caporal](https://nicelinks.site/redirect?url=https://caporal.io/) ，用于使用 [Node.js](https://nicelinks.site/tags/NodeJS) 构建命令行应用程序的全功能框架；对于开发人员非常有用；它具有如下功能特征：
+**推荐语**：[Caporal](https://caporal.io/) ，用于使用 [Node.js](https://nicelinks.site/tags/NodeJS) 构建命令行应用程序的全功能框架；对于开发人员非常有用；它具有如下功能特征：
 
 ### 便于使用
 
@@ -241,7 +241,7 @@ MJML 在设计上可在最流行的电子邮件客户端（甚至 Outlook）上�
 
 ![倾城之链 - Joplin ｜ an open source note-taking app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/joplinapp.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Joplin](https://nicelinks.site/redirect?url=https://joplinapp.org/)，是一款开源笔记应用程序，捕捉您的想法并从任何设备安全地访问它们；具有适用于 Windows、macOS、Linux、Android 和 iOS 的同步功能。它具有如下功能特征：
+**推荐语**：[Joplin](https://joplinapp.org/)，是一款开源笔记应用程序，捕捉您的想法并从任何设备安全地访问它们；具有适用于 Windows、macOS、Linux、Android 和 iOS 的同步功能。它具有如下功能特征：
 
 ### 多媒体笔记
 

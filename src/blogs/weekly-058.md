@@ -12,7 +12,7 @@
 
 ![倾城之链 - Open Broadcaster Software | OBS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/obsproject.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OBS Studio](https://nicelinks.site/redirect?url=https://obsproject.com/) (Open Broadcaster Software) 是**免费的开源软件**，用于**视频录制**和**直播**。在 Windows、Mac 或 Linux 上，可快速轻松地下载，并开始流式传输。可流媒体到 Twitch、YouTube 和许多其他供应商，或用高质量的 H264 / AAC 编码录制你自己的视频。它具有以下功能特征：
+**推荐语**：[OBS Studio](https://obsproject.com/) (Open Broadcaster Software) 是**免费的开源软件**，用于**视频录制**和**直播**。在 Windows、Mac 或 Linux 上，可快速轻松地下载，并开始流式传输。可流媒体到 Twitch、YouTube 和许多其他供应商，或用高质量的 H264 / AAC 编码录制你自己的视频。它具有以下功能特征：
 
 - 高性能实时视频/音频捕获和混合。创建由多个来源组成的场景，包括窗口捕获、图像、文本、浏览器窗口、网络摄像头、采集卡等；
 - 设置无限数量的场景，您可以通过自定义过渡无缝切换；
@@ -21,7 +21,7 @@
 - 简化的设置面板使您可以访问各种配置选项，以调整广播或录制的各个方面；
 - 模块化的 “Dock” UI 允许您完全按照自己的喜好重新排列布局。您甚至可以将每个单独的 Dock 弹出到其自己的窗口。
 
-值得一提的是，OBS Studio 配备了强大的 API，使插件和脚本能够根据您的需求提供进一步的定制和功能。利用本地插件进行高性能集成或使用 Lua 或 Python 编写的与现有源交互的脚本。与流媒体社区的开发人员合作，以无限可能获得您需要的功能。无论您是初级入门，还是专业视频创作人员，都能较为轻松的基于 [OBS Studio](https://nicelinks.site/redirect?url=https://obsproject.com/) 录制精彩视频。
+值得一提的是，OBS Studio 配备了强大的 API，使插件和脚本能够根据您的需求提供进一步的定制和功能。利用本地插件进行高性能集成或使用 Lua 或 Python 编写的与现有源交互的脚本。与流媒体社区的开发人员合作，以无限可能获得您需要的功能。无论您是初级入门，还是专业视频创作人员，都能较为轻松的基于 [OBS Studio](https://obsproject.com/) 录制精彩视频。
 
 ── 出自[倾城之链 - Open Broadcaster Software | OBS](https://nicelinks.site/post/623c7c48006c7408774a7c0e)
 
@@ -35,7 +35,7 @@
 
 ![倾城之链 - 道德经网--老子道德经全文及译文](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.daodejing.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[道德经网](https://nicelinks.site/redirect?url=https://www.daodejing.org/)，一个基于古老 Web 框架 ── ASP.NET 所搭建的网站，用以承载老子《道德经》全文及译文，以及老子其人的相关信息、智慧和故事等。
+**推荐语**：[道德经网](https://www.daodejing.org/)，一个基于古老 Web 框架 ── ASP.NET 所搭建的网站，用以承载老子《道德经》全文及译文，以及老子其人的相关信息、智慧和故事等。
 
 《道德经》，是中国古代先秦诸子分家前的一部著作，为其时诸子所共仰，传说是春秋时期的老子李耳所撰写，是道家哲学思想的重要来源。道德经分上下两篇，原文上篇《德经》、下篇《道经》，不分章，后改为《道经》在前，《德经》在后，并分为 81 章,全文共约五千字，是中国历史上首部完整的`哲学`著作。
 
@@ -55,7 +55,7 @@
 
 ![倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ampmails.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AMP mails](https://nicelinks.site/redirect?url=https://www.ampmails.com/)，可以帮助您在电子邮件中插入表单、日历、购物车、小部件等，以提高电子邮件参与度。立即在您的收件箱中收到这样一封 AMP 电子邮件。
+**推荐语**：[AMP mails](https://www.ampmails.com/)，可以帮助您在电子邮件中插入表单、日历、购物车、小部件等，以提高电子邮件参与度。立即在您的收件箱中收到这样一封 AMP 电子邮件。
 
 ### 什么是 AMP 电子邮件？
 
@@ -70,14 +70,14 @@
 - 安全技术；
 - 提高电子邮件转化率；
 
-在 [AMP mails](https://nicelinks.site/redirect?url=https://www.ampmails.com/)，您可以通过以下几个维度，了解如何实施 AMP 电子邮件，并创建 AMP 电子邮件：
+在 [AMP mails](https://www.ampmails.com/)，您可以通过以下几个维度，了解如何实施 AMP 电子邮件，并创建 AMP 电子邮件：
 
 - 💡 试驾各种 AMP 电子邮件；
 - ❤️ 了解现实生活中的用例和结果；
 - ✅ 加入论坛以分享您的问题和见解；
 - 🕹️ 阅读有关 AMP 电子邮件的博客和最新推文；
 
-如果，您想了解更多关于 AMP mails，诸如：“哪些电子邮件客户端支持 AMP 电子邮件？“、“AMP 电子邮件是否有任何限制？“、“如何开始使用 AMP 电子邮件“、“AMP 电子邮件与 HTML 电子邮件的区别“等等，可以前往 [AMP mails 常问问题](https://nicelinks.site/redirect?url=https://www.ampmails.com/)说明。
+如果，您想了解更多关于 AMP mails，诸如：“哪些电子邮件客户端支持 AMP 电子邮件？“、“AMP 电子邮件是否有任何限制？“、“如何开始使用 AMP 电子邮件“、“AMP 电子邮件与 HTML 电子邮件的区别“等等，可以前往 [AMP mails 常问问题](https://www.ampmails.com/)说明。
 
 ── 出自[倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://nicelinks.site/post/623b2921006c7408774a7c09)
 
@@ -89,17 +89,17 @@
 
 ![倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sentry.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/)，是一个基于 Django 构建的现代化的实时事件日志监控、记录和聚合平台，主要用于如何快速的发现故障。支持几乎所有主流开发语言和平台，并提供了现代化 UI；它专门用于：**监视错误**和提取执行适当的事后操作所需的所有信息，而无需使用标准用户反馈循环的任何麻烦。
+**推荐语**：[Sentry](https://www.swift.org/)，是一个基于 Django 构建的现代化的实时事件日志监控、记录和聚合平台，主要用于如何快速的发现故障。支持几乎所有主流开发语言和平台，并提供了现代化 UI；它专门用于：**监视错误**和提取执行适当的事后操作所需的所有信息，而无需使用标准用户反馈循环的任何麻烦。
 
-[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/) 不仅仅是错误监控软件。它也是**性能监控**软件。Sentry 平台可帮助每位开发人员诊断、修复和优化其代码的性能。使用 Sentry，世界各地的开发人员可以节省时间、精力，并可能节省一些治疗时间。
+[Sentry](https://www.swift.org/) 不仅仅是错误监控软件。它也是**性能监控**软件。Sentry 平台可帮助每位开发人员诊断、修复和优化其代码的性能。使用 Sentry，世界各地的开发人员可以节省时间、精力，并可能节省一些治疗时间。
 
-[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/) 支持 30 多种编码语言，比如：JavaScript、Node.js、Python、Android、Flutter、Go、`Kotlin`、ServerLess、Ruby、Unity、Swift、Java 等等，这意味着它可能支持您的。它让开发者第一时间获悉错误信息，并方便的整合进自己和团队的工作流中；官方提供 saas 版本免费版支持每天 5000 个 Event，他们还集成了一大堆有用的工具（以及一些必要的弊端），包括但绝对不限于 GitHub、Slack 和 Jira。更值得一提的是，[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/) 是一个开源项目，您还可以根据需要，部署 Sentry 在自己的服务器。
+[Sentry](https://www.swift.org/) 支持 30 多种编码语言，比如：JavaScript、Node.js、Python、Android、Flutter、Go、`Kotlin`、ServerLess、Ruby、Unity、Swift、Java 等等，这意味着它可能支持您的。它让开发者第一时间获悉错误信息，并方便的整合进自己和团队的工作流中；官方提供 saas 版本免费版支持每天 5000 个 Event，他们还集成了一大堆有用的工具（以及一些必要的弊端），包括但绝对不限于 GitHub、Slack 和 Jira。更值得一提的是，[Sentry](https://www.swift.org/) 是一个开源项目，您还可以根据需要，部署 Sentry 在自己的服务器。
 
 Sentry 支持自动收集和手动收集两种错误收集方法，我们能成功监控到 JavaScript 中的错误、异常，但是还不能捕捉到异步操作、接口请求中的错误，比如接口返回 404、500 等信息，此时我们可以通过 Sentry.caputureException() 进行主动上报。使用 Sentry 可结合两个部分，客户端与 sentry 服务端；客户端就像你需要去监听的对象，比如公司的前端项目，而服务端就是给你展示已搜集的错误信息，项目管理，组员等功能的一个服务平台。
 
 Sentry 最初是一个开源项目。其创始人的目标很简单：用一种简单的方法，来解决他们自己的错误，从而解决他们自己的问题。十年后，他们的两人激情项目成为世界领先的错误跟踪平台，在全球三个办事处拥有 130 名员工。
 
-[Sentry](https://nicelinks.site/redirect?url=https://www.swift.org/)，有非常多的客户，诸如 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911)、reddit、vmware 等等；在国内，Sentry 也是最负盛名的错误监控服务，像前公司 [DJI ｜ 大疆](https://nicelinks.site/post/59ba81e73df6765c75b77913)等采用它来统计错误。笔者所维护的[倾城之链](https://nicelinks.site/post/5aa2579e56ee0d60651820c5)、[曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)等 Web 应用，也都是使用 Sentry 来监控错误；这相当于给予我了一双`千里眼`，感谢 Sentry。
+[Sentry](https://www.swift.org/)，有非常多的客户，诸如 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911)、reddit、vmware 等等；在国内，Sentry 也是最负盛名的错误监控服务，像前公司 [DJI ｜ 大疆](https://nicelinks.site/post/59ba81e73df6765c75b77913)等采用它来统计错误。笔者所维护的[倾城之链](https://nicelinks.site/post/5aa2579e56ee0d60651820c5)、[曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)等 Web 应用，也都是使用 Sentry 来监控错误；这相当于给予我了一双`千里眼`，感谢 Sentry。
 
 **Sentry**，从错误跟踪，到性能监控，开发人员可以看到真正重要的事情，更快地解决问题，并不断了解他们的应用程序：从前端到后端。通过 Sentry 的性能监控，您可以将性能问题追溯到性能不佳的 api 调用和缓慢的数据库查询。如果您也从事应用开发，相信 Sentry 类似服务，是产品级应用不可或缺的；而这 Sentry 是您最值得选取的服务，没有之一。
 
@@ -115,7 +115,7 @@ Sentry 最初是一个开源项目。其创始人的目标很简单：用一种�
 
 ![倾城之链 - UU导航 - 学技术，找资源。一网打尽](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.daohanguu.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[UU 导航](https://nicelinks.site/redirect?url=https://www.daohanguu.com/)，创建于 2021 年 4 月，致力于：为用户提供更简单、更实用、更贴心的导航服务。通过 `UU导航`使您上网更轻松惬意、生活更便捷，是该团队努力的目标。UU 导航对收录内容做了以下分类：资源、活动、论坛、辅助、系统、社区、卡盟、发卡、支付、站长、游戏、CMS、博客、直播、IDC、下载、CDN、黑客、导航、其他。除了导航，该网站还提供了些其他内容，譬如 [UU 影视](https://nicelinks.site/redirect?url=https://cms.daohanguu.com/)，播放流畅、无广告，初步体验还可以。
+**推荐语**：[UU 导航](https://www.daohanguu.com/)，创建于 2021 年 4 月，致力于：为用户提供更简单、更实用、更贴心的导航服务。通过 `UU导航`使您上网更轻松惬意、生活更便捷，是该团队努力的目标。UU 导航对收录内容做了以下分类：资源、活动、论坛、辅助、系统、社区、卡盟、发卡、支付、站长、游戏、CMS、博客、直播、IDC、下载、CDN、黑客、导航、其他。除了导航，该网站还提供了些其他内容，譬如 [UU 影视](https://cms.daohanguu.com/)，播放流畅、无广告，初步体验还可以。
 
 ── 出自[倾城之链 - UU 导航 - 学技术，找资源。一网打尽](https://nicelinks.site/post/62372ede006c7408774a7c04)
 

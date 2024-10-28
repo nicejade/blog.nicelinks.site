@@ -10,7 +10,7 @@
 
 ![倾城之链 - Microsoft Designer - Stunning designs in a flash](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/designer.microsoft.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Microsoft Designer](https://nicelinks.site/redirect?url=https://designer.microsoft.com/)，一个图形设计应用程序（微软将要「相对于 2022/10/13」推出的设计工具），帮助您创建专业质量的社交媒体帖子、邀请函、数字明信片、图形和更多。从你的想法开始，为您创造独特的东西。只需要输入一个描述或者简单的想法，然后看着你的内容转变（Content Transform）及选择最爱的设计即可，官网称整个过程在瞬间完成（期待）。除此之外，Microsoft Designer 还提及以下功能特征：
+**推荐语**：[Microsoft Designer](https://designer.microsoft.com/)，一个图形设计应用程序（微软将要「相对于 2022/10/13」推出的设计工具），帮助您创建专业质量的社交媒体帖子、邀请函、数字明信片、图形和更多。从你的想法开始，为您创造独特的东西。只需要输入一个描述或者简单的想法，然后看着你的内容转变（Content Transform）及选择最爱的设计即可，官网称整个过程在瞬间完成（期待）。除此之外，Microsoft Designer 还提及以下功能特征：
 
 ### 为您的设计创建独一无二的图像
 
@@ -38,7 +38,7 @@ Microsoft Designer 目前尚未发布，您可以加入候补名单以提前使�
 
 ![倾城之链 - Git | 分布式版本控制软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/git-scm.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Git](https://nicelinks.site/redirect?url=https://git-scm.com/) 是一个免费和开源的分布式版本控制系统，旨在以速度和效率处理从小型到大型项目的所有内容。它最初由 Linus Torvalds（林纳斯·托瓦兹） 创作，于 2005 年以 GPL 授权条款释出；最初目的是为了更好地管理 Linux 核心开发而设计。
+**推荐语**：[Git](https://git-scm.com/) 是一个免费和开源的分布式版本控制系统，旨在以速度和效率处理从小型到大型项目的所有内容。它最初由 Linus Torvalds（林纳斯·托瓦兹） 创作，于 2005 年以 GPL 授权条款释出；最初目的是为了更好地管理 Linux 核心开发而设计。
 
 分布式相比于集中式的最大区别在于开发者可以提交到本地，每个开发者通过克隆（git clone），在本地机器上拷贝一个完整的 Git 仓库。 Git 易于学习， 占用空间小，性能快如闪电。它优于 SCM 工具，如 Subversion、CVS、Perforce 和 ClearCase，具有廉价的本地分支、方便的暂存区域和 多个工作流等功能。
 
@@ -62,13 +62,13 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 ![倾城之链 - 六个周 | enjoy day](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.liugezhou.online.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[六个周](https://nicelinks.site/redirect?url=https://blog.liugezhou.online/)，基于 [Hexo](https://nicelinks.site/post/5c4c56d5a5957e07a40b3116) 搭建的个人博客（2018 年 07 月 11）；用以承载作者技术总结、所读之书、看过的电影等等。作者在个人主页介绍到：
+**推荐语**：[六个周](https://blog.liugezhou.online/)，基于 [Hexo](https://nicelinks.site/post/5c4c56d5a5957e07a40b3116) 搭建的个人博客（2018 年 07 月 11）；用以承载作者技术总结、所读之书、看过的电影等等。作者在个人主页介绍到：
 
 - 第一爱好：**有酒必到**（Wow😯，撰写推荐语者感叹）；
 - 日常喜好：写代码、背单词、看电影  、喝鸡汤  、写周报  、突发奇想‘
 - 正在培养：读书、学英语、写读后感、跑步；
 
-作者（六个周）撰写博文，包含小程序开发、服务端开发、Web 前端开发等领域，对其感兴趣的朋友，可以前往[六个周关于页](https://nicelinks.site/redirect?url=https://blog.liugezhou.online/about/)以了解更多。
+作者（六个周）撰写博文，包含小程序开发、服务端开发、Web 前端开发等领域，对其感兴趣的朋友，可以前往[六个周关于页](https://blog.liugezhou.online/about/)以了解更多。
 
 ── 出自[倾城之链 - 六个周 | enjoy day](https://nicelinks.site/post/6347c0bbb1155e08ebc00244)
 
@@ -80,7 +80,7 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 ![倾城之链 - w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/w2solo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[w2solo - 独立开发者社区](https://nicelinks.site/redirect?url=https://w2solo.com/)， 基于 [Homeland](https://nicelinks.site/redirect?url=https://w2solo.com/) 搭建（2018 年 10 月），由众多[独立开发者](https://nicelinks.site/tags/https://w2solo.com/topics/1)参与维护，致力于搭建和维护好国内独立开发者圈子和氛围（社群官网域名：`w2solo.com` 意思是：way to solo，独立开发之路）。`w2solo` 欢迎讨论技术、想法创意、产品和成功故事以及失败经验，并倡导遵守以下要求：
+**推荐语**：[w2solo - 独立开发者社区](https://w2solo.com/)， 基于 [Homeland](https://w2solo.com/) 搭建（2018 年 10 月），由众多[独立开发者](https://nicelinks.site/tags/https://w2solo.com/topics/1)参与维护，致力于搭建和维护好国内独立开发者圈子和氛围（社群官网域名：`w2solo.com` 意思是：way to solo，独立开发之路）。`w2solo` 欢迎讨论技术、想法创意、产品和成功故事以及失败经验，并倡导遵守以下要求：
 
 1.  分享点子，集思广益；
 2.  发布和推广自己的产品；
@@ -101,7 +101,7 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 ![倾城之链 - fish shell](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fishshell.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[fish shell](https://nicelinks.site/redirect?url=https://fishshell.com/) ，一个智能和用户友好的命令行外壳（Cli Shell），适用于 Linux、macOS、Windows 和其他系统。它具有以下功能特征：
+**推荐语**：[fish shell](https://fishshell.com/) ，一个智能和用户友好的命令行外壳（Cli Shell），适用于 Linux、macOS、Windows 和其他系统。它具有以下功能特征：
 
 ### 自动建议
 
@@ -168,9 +168,9 @@ Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非
 
 ### 万维广告如何运
 
-万维广告的运行方式基于一个基本的逻辑——即**专业人士**总会聚集在专业的网站上，如果文字广告与受众高度相关，则吸引最终受众的程度和广告点击率就会远远高于随机显示和算法推荐的广告 —— 在万维广告，我们推出了可以定位特定群体的 [受众群广告](https://nicelinks.site/redirect?url=https://wwads.cn/to) ，让广告主可以一键购买 定位特定受众的 N 个垂直领域的站点广告位。更重要的是在互联网用户隐私问题日益严重的今天，我们不会给最终用户打标签，万维广告仅通过分析页面的话题和网站的类型等信息优化广告推荐算法，让广告主在**尊重最终用户隐私**  的前提下也可以精准投放广告，且展示免费，只需为效果付费！
+万维广告的运行方式基于一个基本的逻辑——即**专业人士**总会聚集在专业的网站上，如果文字广告与受众高度相关，则吸引最终受众的程度和广告点击率就会远远高于随机显示和算法推荐的广告 —— 在万维广告，我们推出了可以定位特定群体的 [受众群广告](https://wwads.cn/to) ，让广告主可以一键购买 定位特定受众的 N 个垂直领域的站点广告位。更重要的是在互联网用户隐私问题日益严重的今天，我们不会给最终用户打标签，万维广告仅通过分析页面的话题和网站的类型等信息优化广告推荐算法，让广告主在**尊重最终用户隐私**  的前提下也可以精准投放广告，且展示免费，只需为效果付费！
 
-同时我们推出了 [非侵入式广告](https://nicelinks.site/redirect?url=https://wwads.cn/secret/friendly-wwads-released/) ，这种广告样式文案简单优雅，样式优雅宜人，对网站的侵入性很小，有效阅读量更多，且与网站上下文内容更加融合。相比大型 Banner 广告，非侵入式广告不会降低包括您在内的最终用户的网站体验，即使不“喧哗夺宠”也能取得应有的效果，且更加尊重了最终用户的观感，保护了流量主网站的用户体验和广告主的品牌形象，实现了**让广告更优雅且有（效）用**。
+同时我们推出了 [非侵入式广告](https://wwads.cn/secret/friendly-wwads-released/) ，这种广告样式文案简单优雅，样式优雅宜人，对网站的侵入性很小，有效阅读量更多，且与网站上下文内容更加融合。相比大型 Banner 广告，非侵入式广告不会降低包括您在内的最终用户的网站体验，即使不“喧哗夺宠”也能取得应有的效果，且更加尊重了最终用户的观感，保护了流量主网站的用户体验和广告主的品牌形象，实现了**让广告更优雅且有（效）用**。
 
 ### 流量主为什么要加入万维广告？
 
@@ -180,7 +180,7 @@ Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非
 2.  添加广告资源及单元、获取广告代码并安装‘
 3.  开始投放广告、随时可查看广告互动统计、收益满 100 元即可提现；
 
-在 [万维广告官网](https://nicelinks.site/redirect?url=https://wwads.cn/for/publisher) ，给出了流量主为什么要加入万维广告的六大理由：
+在 [万维广告官网](https://wwads.cn/for/publisher) ，给出了流量主为什么要加入万维广告的六大理由：
 
 1.  为您的网站用户提供更有用的广告；
 2.  高于其他广告联盟的收益；
@@ -197,9 +197,9 @@ Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非
 - 更本土化的服务，更快的提现和客户服务响应；
 - 支持开启 备选广告，访客来自国外或暂无广告投放时可填充 Adsense 等网络的广告保持营收；
 
-万维广告拥有针对不同受众群体的网站广告资源，一键购买即可投放到 N 个站点，且展示免费！ 现在购买即可享受当前低价优惠的 CPC 价格，还可以随时续费或投放到多个受众群体。如果您是广告主，可以考虑购买，[轻松触达专业受众](https://nicelinks.site/redirect?url=https://wwads.cn/to)。
+万维广告拥有针对不同受众群体的网站广告资源，一键购买即可投放到 N 个站点，且展示免费！ 现在购买即可享受当前低价优惠的 CPC 价格，还可以随时续费或投放到多个受众群体。如果您是广告主，可以考虑购买，[轻松触达专业受众](https://wwads.cn/to)。
 
-Google AdSense 是很多流量网站的收入来源之一；但，互联网用户机器上，有较大概率会被 Adblock Plus 类似的广告拦截器所阻挡；另外，Google AdSense 的广告是基于机器自主插入，或有可能与网站调性不太相符相符（内容、界面）；万维广告对这些问题，都做了本土化改进，如果您是流量主，值得考虑入驻；以获取更多收益；（需要说明的是：万维广告是邀请制广告网络，您需要填写邀请码方可注册，如您没有邀请码  [可点此免费申请](https://nicelinks.site/redirect?url=https://wwads.cn/request)）。
+Google AdSense 是很多流量网站的收入来源之一；但，互联网用户机器上，有较大概率会被 Adblock Plus 类似的广告拦截器所阻挡；另外，Google AdSense 的广告是基于机器自主插入，或有可能与网站调性不太相符相符（内容、界面）；万维广告对这些问题，都做了本土化改进，如果您是流量主，值得考虑入驻；以获取更多收益；（需要说明的是：万维广告是邀请制广告网络，您需要填写邀请码方可注册，如您没有邀请码  [可点此免费申请](https://wwads.cn/request)）。
 
 ── 出自[倾城之链 - 万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)
 

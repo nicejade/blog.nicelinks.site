@@ -10,7 +10,7 @@
 
 ![倾城之链 - Laravel - The PHP Framework For Web Artisans](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/laravel.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Laravel](https://nicelinks.site/redirect?url=https://laravel.com/) ，是一个基于 PHP 语言的 Web 应用程序框架（全栈），具有表达力强、高效简洁、语法优雅等特点。Laravel 采用 MVC 设计，崇尚开发效率，它已经奠定了基础——让你不用为小事操心就可以自由创作。Laravel 团队认为，发展必须是一种享受和创造性的体验，才能真正实现。Laravel 通过简化许多 Web 项目中使用的常见任务，从而减轻开发的痛苦，例如：
+**推荐语**：[Laravel](https://laravel.com/) ，是一个基于 PHP 语言的 Web 应用程序框架（全栈），具有表达力强、高效简洁、语法优雅等特点。Laravel 采用 MVC 设计，崇尚开发效率，它已经奠定了基础——让你不用为小事操心就可以自由创作。Laravel 团队认为，发展必须是一种享受和创造性的体验，才能真正实现。Laravel 通过简化许多 Web 项目中使用的常见任务，从而减轻开发的痛苦，例如：
 
 - 简单、快速的路由引擎；
 - 强大的依赖注入容器；
@@ -38,9 +38,9 @@ Laravel 庞大的精心维护的软件包库意味着您已做好一切准备。
 
 Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是为建筑宇航员和周末黑客准备的。对于那些有学位的人和那些为了追求梦想而辍学的人。我们一起创造令人惊叹的事物。
 
-值得一提的是，知名社区网站 [LearnKu](https://nicelinks.site/post/5fccf57d0ed3200f018e1239) 便是基于 Laravel 搭建，早期名字叫「Laravel China 社区」，至今可看到 [laravel](https://nicelinks.site/redirect?url=https://learnku.com/laravel) 板块儿。
+值得一提的是，知名社区网站 [LearnKu](https://nicelinks.site/post/5fccf57d0ed3200f018e1239) 便是基于 Laravel 搭建，早期名字叫「Laravel China 社区」，至今可看到 [laravel](https://learnku.com/laravel) 板块儿。
 
-[Laravel](https://nicelinks.site/redirect?url=https://laravel.com/) 在 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源，已拥有超过 71 KB Star，目前更新至 `9.X` 版本；它提供非常完善的生态和文档，无论您是 MacOS、Linux 还是 Windows 操纵系统，都能轻松开始开发和运行 Laravel 项目（支持 Composer 和 Docker）；如果您对 laravel 感兴趣，可移步至 [Laravel 开发文档](https://nicelinks.site/redirect?url=https://laravel.com/docs/)。
+[Laravel](https://laravel.com/) 在 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源，已拥有超过 71 KB Star，目前更新至 `9.X` 版本；它提供非常完善的生态和文档，无论您是 MacOS、Linux 还是 Windows 操纵系统，都能轻松开始开发和运行 Laravel 项目（支持 Composer 和 Docker）；如果您对 laravel 感兴趣，可移步至 [Laravel 开发文档](https://laravel.com/docs/)。
 
 ── 出自[倾城之链 - Laravel - The PHP Framework For Web Artisans](https://nicelinks.site/post/633e8f7072ba4a064e24e5d0)
 
@@ -52,7 +52,7 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 ![倾城之链 - Repic App | 图片压缩工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/repic.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Repic App](https://nicelinks.site/redirect?url=https://repic.app/) ，一个完全免费的图片压缩工具，适用于 Web、macOS 和 Windows；支持压缩后缩放对比细节、一键还原等；界面优雅，交互简洁；它具有以下功能特色：
+**推荐语**：[Repic App](https://repic.app/) ，一个完全免费的图片压缩工具，适用于 Web、macOS 和 Windows；支持压缩后缩放对比细节、一键还原等；界面优雅，交互简洁；它具有以下功能特色：
 
 - **转换插件一键安装**：融合优秀压缩方案，随意搭配，按需使用，持续开启更多可能；
 - **压缩细节精准对比**：高倍缩放和拖动对比，压缩前后质量变化一目了然；
@@ -73,7 +73,7 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 ![倾城之链 - WLB Works | Find jobs for work-life balance](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wlb.works.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WLB Works](https://nicelinks.site/redirect?url=https://wlb.works/) ，找到工作以平衡工作与生活。这是一个专注于 WLB（即 Work-life balance，工作生活平衡）的职位搜集网站,，会经常发布国内外的优质 WLB 工作机会，注册登录之后也可以免费发布自己的职位。
+**推荐语**：[WLB Works](https://wlb.works/) ，找到工作以平衡工作与生活。这是一个专注于 WLB（即 Work-life balance，工作生活平衡）的职位搜集网站,，会经常发布国内外的优质 WLB 工作机会，注册登录之后也可以免费发布自己的职位。
 
 ### 为什么要建立这个网站？
 
@@ -109,7 +109,7 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 ![倾城之链 - 文武科技柜 - 文武科技社的后花园](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wangdu.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[文武科技柜](https://nicelinks.site/redirect?url=https://www.wangdu.site/)，是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)   搭建的博客网站（是[文武科技社](https://nicelinks.site/redirect?url=https://chengxuxiaohei.top/)  的附属产物）；主要用以分享一些**工具**，以及个人经验编写的**教程**；该网站是作者将  [WordPress 和公众号、小程序三者合一](https://www.wangdu.site/software/47.html) 的一种践行，对此感兴趣的朋友，或可参考下。
+**推荐语**：[文武科技柜](https://www.wangdu.site/)，是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)   搭建的博客网站（是[文武科技社](https://chengxuxiaohei.top/)  的附属产物）；主要用以分享一些**工具**，以及个人经验编写的**教程**；该网站是作者将  [WordPress 和公众号、小程序三者合一](https://www.wangdu.site/software/47.html) 的一种践行，对此感兴趣的朋友，或可参考下。
 
 ── 出自[倾城之链 - 文武科技柜 - 文武科技社的后花园](https://nicelinks.site/post/633db49272ba4a064e24da51)
 
@@ -121,7 +121,7 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 ![倾城之链 - Nginx - An HTTP and reverse proxy server](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nginx.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nginx](https://nicelinks.site/redirect?url=https://nginx.org/) ，Nginx (engine x) 是一个高性能的 HTTP 和反向代理 Web 服务器，同时也提供了 IMAP/POP3/SMTP 服务。Nginx 是由 lgor Sysoev 为俄罗斯访问量第二的 Rambler.ru 站点（俄文：Рамблер）开发的；从 2004 年发布至今，凭借开源的力量，已经接近成熟与完善。其将源代码以类 BSD 许可证的形式发布，因它的稳定性、丰富的功能集、简单的配置文件和低系统资源的消耗而闻名。2022 年 01 月 25 日，nginx 1.21.6 发布。
+**推荐语**：[Nginx](https://nginx.org/) ，Nginx (engine x) 是一个高性能的 HTTP 和反向代理 Web 服务器，同时也提供了 IMAP/POP3/SMTP 服务。Nginx 是由 lgor Sysoev 为俄罗斯访问量第二的 Rambler.ru 站点（俄文：Рамблер）开发的；从 2004 年发布至今，凭借开源的力量，已经接近成熟与完善。其将源代码以类 BSD 许可证的形式发布，因它的稳定性、丰富的功能集、简单的配置文件和低系统资源的消耗而闻名。2022 年 01 月 25 日，nginx 1.21.6 发布。
 
 Nginx 是开源、高性能、高可靠的 Web 和反向代理服务器，而且支持热部署，几乎可以做到 7 \* 24 小时不间断运行，即使运行几个月，也不需要重新启动，还能在不间断服务的情况下，对软件版本进行热更新。性能是 Nginx 最重要的考量，其占用内存少、并发能力强、能支持高达 5w 个并发连接数，最重要的是，Nginx 是免费的并可以商业化，配置使用也比较简单。
 
@@ -169,7 +169,7 @@ Nginx 是互联网上最受欢迎的开源 Web 服务器之一，它不仅提供
 
 ![倾城之链 - YARN   | Search clips by quote](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getyarn.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[YARN](https://nicelinks.site/redirect?url=https://getyarn.io/) ，一个台词搜索网站（英文），它支持按`单词`或`短语`搜索电视、电影和音乐片段或剪辑。有尝试搜索：“Jon snow, you know nothing”，将会得到相关电视剧（Game of Thrones）片段（很短，仅台词相关部分，通常 2s 左右）；您知道实际台词为：“You know nothing, Jon Snow.”，可以看出 yarn 支持模糊搜索。此外，`yarn` 支持对搜索结果进行各种操作，诸如：评价、标记喜欢、分享、生成 GIF、MAKE MEME（迷因："派生视频"/"表情包"）。
+**推荐语**：[YARN](https://getyarn.io/) ，一个台词搜索网站（英文），它支持按`单词`或`短语`搜索电视、电影和音乐片段或剪辑。有尝试搜索：“Jon snow, you know nothing”，将会得到相关电视剧（Game of Thrones）片段（很短，仅台词相关部分，通常 2s 左右）；您知道实际台词为：“You know nothing, Jon Snow.”，可以看出 yarn 支持模糊搜索。此外，`yarn` 支持对搜索结果进行各种操作，诸如：评价、标记喜欢、分享、生成 GIF、MAKE MEME（迷因："派生视频"/"表情包"）。
 
 YARN 在其关于页面谈到：他们一直在研究许多搜索、提取和分析视频内容的技术。Yarn 是他们第一款使用娱乐内容的产品，目前正在重新调整输出的用途，以便快速交流。请继续关注更复杂的搜索技术。
 

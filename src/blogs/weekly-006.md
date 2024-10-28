@@ -10,7 +10,7 @@
 
 ![倾城之链 - 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.appinn.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[小众软件](https://nicelinks.site/redirect?url=https://www.appinn.com/)是一个分享免费、小巧、有趣、实用软件的网站（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建）；在这里，你可以发现各种各样的软件：有实用的，有趣味的，有奇葩的；涵盖 Android、iOS、MacOS、Windows、Chrome、Web 等方向；他们相信任何存在的软件都是需求的表现，所以不要怀疑你很小众的软件没人用。当然，您也可以参与讨论、提交新发现；欲了解更多，可参见[关于小众软件](https://nicelinks.site/redirect?url=https://www.appinn.com/about/)。
+**推荐语**：[小众软件](https://www.appinn.com/)是一个分享免费、小巧、有趣、实用软件的网站（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建）；在这里，你可以发现各种各样的软件：有实用的，有趣味的，有奇葩的；涵盖 Android、iOS、MacOS、Windows、Chrome、Web 等方向；他们相信任何存在的软件都是需求的表现，所以不要怀疑你很小众的软件没人用。当然，您也可以参与讨论、提交新发现；欲了解更多，可参见[关于小众软件](https://www.appinn.com/about/)。
 
 ── 出自[倾城之链 - 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://nicelinks.site/post/605ca5cebffb5e532f3be237)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - HelloWorld - 专业开发者社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.helloworld.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[HelloWorld](https://nicelinks.site/redirect?url=https://www.helloworld.net/) 是基于 Vue、Node、Nginx 等技术工具搭建的开发者社区（并提供 Android 版本应用），旨在为开发者提供优质的原创内容，从而帮助开发者更好的成长；该网站于 2018 年上线，目前有**专栏**与**推荐**两个模块，设计内容有 Js、Java、Python、PHP、Swift 等编程语言，以及前端、后端、移动端、运维开发等技术方向。
+**推荐语**：[HelloWorld](https://www.helloworld.net/) 是基于 Vue、Node、Nginx 等技术工具搭建的开发者社区（并提供 Android 版本应用），旨在为开发者提供优质的原创内容，从而帮助开发者更好的成长；该网站于 2018 年上线，目前有**专栏**与**推荐**两个模块，设计内容有 Js、Java、Python、PHP、Swift 等编程语言，以及前端、后端、移动端、运维开发等技术方向。
 
 ── 出自[倾城之链 - HelloWorld - 专业开发者社区](https://nicelinks.site/post/605c9d97bffb5e532f3be235)
 
@@ -36,7 +36,7 @@
 
 ![倾城之链 - Welcome to your new HQ | Slack](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/slack.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Slack](https://nicelinks.site/redirect?url=https://slack.com/) 是一种与团队沟通的新方式。它比电子邮件更快、更有条理、更安全。 无论您从事什么工作，[Slack](https://nicelinks.site/redirect?url=https://slack.com/) 都是工作的协作中心。在这里，您可以进行对话，做出决定，而信息始终唾手可得。使用 `Slack`，您的团队可以更好地联系。它具有以下特性：
+**推荐语**：[Slack](https://slack.com/) 是一种与团队沟通的新方式。它比电子邮件更快、更有条理、更安全。 无论您从事什么工作，[Slack](https://slack.com/) 都是工作的协作中心。在这里，您可以进行对话，做出决定，而信息始终唾手可得。使用 `Slack`，您的团队可以更好地联系。它具有以下特性：
 
 - 在其专用渠道中关注与各个主题，项目或团队相关的所有内容；
 - 连接超过 2,200 个立即可用的 `Slack` 应用程序，将内部工具与 Slack API 集成；
@@ -58,7 +58,7 @@
 
 ![倾城之链 - RT-Thread, RTOS, 物联网操作系统 - RT-Thread物联网操作系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.rt-thread.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[RT-Thread](https://nicelinks.site/redirect?url=https://www.rt-thread.org/) 是一个集实时操作系统（RTOS）内核、中间件组件和开发者社区于一体的技术平台，由熊谱翔先生带领并集合开源社区力量开发而成，RT-Thread 也是一个组件完整丰富、高度可伸缩、简易开发、超低功耗、高安全性的物联网操作系统。[RT-Thread](https://nicelinks.site/redirect?url=https://www.rt-thread.org/) 具备一个 IoT OS 平台所需的所有关键组件，例如 GUI、网络协议栈、安全传输、低功耗组件等等。经过 11 年的累积发展，RT-Thread 已经拥有一个国内最大的嵌入式开源社区，同时被广泛应用于能源、车载、医疗、消费电子等多个行业，累积装机量超过** 8 亿 **台，成为国人自主开发、国内最成熟稳定和装机量最大的开源 RTOS。
+**推荐语**：[RT-Thread](https://www.rt-thread.org/) 是一个集实时操作系统（RTOS）内核、中间件组件和开发者社区于一体的技术平台，由熊谱翔先生带领并集合开源社区力量开发而成，RT-Thread 也是一个组件完整丰富、高度可伸缩、简易开发、超低功耗、高安全性的物联网操作系统。[RT-Thread](https://www.rt-thread.org/) 具备一个 IoT OS 平台所需的所有关键组件，例如 GUI、网络协议栈、安全传输、低功耗组件等等。经过 11 年的累积发展，RT-Thread 已经拥有一个国内最大的嵌入式开源社区，同时被广泛应用于能源、车载、医疗、消费电子等多个行业，累积装机量超过** 8 亿 **台，成为国人自主开发、国内最成熟稳定和装机量最大的开源 RTOS。
 
 RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工具如 GCC、Keil、IAR 等，工具链完善、友好，支持各类标准接口，如 POSIX、CMSIS、C++应用环境、Javascript 执行环境等，方便开发者移植各类应用程序。商用支持所有主流 MCU 架构，如 ARM Cortex-M/R/A, MIPS, X86, Xtensa, C-Sky, RISC-V，几乎支持市场上所有主流的 MCU 和 Wi-Fi 芯片。
 
@@ -72,7 +72,7 @@ RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工�
 
 ![倾城之链 - Generate unique SVG design assets | Haikei](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/haikei.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Haikei](https://nicelinks.site/redirect?url=https://haikei.app/) 是生成独特的 [SVG](https://nicelinks.site/tags/SVG) 设计资源工具。这是一个基于 Web 的设计工具，为网站、社交媒体、博客文章、桌面和移动壁纸、海报等生成独特的 [SVG](https://nicelinks.site/tags/SVG) 设计资产！我们的生成器允许您发现、自定义、随机化和导出生成性 `SVG` 设计资产，以便与您喜爱的设计工具一起使用；您从不断增长的生成器列表中，选择一个可视化对象，自定义、随机化并将其导出为 SVG 或 PNG。[Haikei](https://nicelinks.site/redirect?url=https://haikei.app/) 支持免费使用，无需注册，无需信用卡。
+**推荐语**：[Haikei](https://haikei.app/) 是生成独特的 [SVG](https://nicelinks.site/tags/SVG) 设计资源工具。这是一个基于 Web 的设计工具，为网站、社交媒体、博客文章、桌面和移动壁纸、海报等生成独特的 [SVG](https://nicelinks.site/tags/SVG) 设计资产！我们的生成器允许您发现、自定义、随机化和导出生成性 `SVG` 设计资产，以便与您喜爱的设计工具一起使用；您从不断增长的生成器列表中，选择一个可视化对象，自定义、随机化并将其导出为 SVG 或 PNG。[Haikei](https://haikei.app/) 支持免费使用，无需注册，无需信用卡。
 
 ── 出自[倾城之链 - Generate unique SVG design assets | Haikei](https://nicelinks.site/post/6056eb09bffb5e532f3be22f)
 
@@ -84,7 +84,7 @@ RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工�
 
 ![倾城之链 - 十六进制颜色代码表，图表及调色板 - Encycolorpedia](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/encycolorpedia.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[encycolorpedia](https://nicelinks.site/redirect?url=https://encycolorpedia.cn/) 是一款非常棒的在线调色板，不但有十六进制颜色代码表， 还有各种颜色代码的解析及配色说明，如十六进制颜色代码 **#5c4c8c**，给出的说明是：“度的**蓝品红**阴影。在 RGB 三原色光模式中，`#5c4c8c` 是由 36.08％的红色，29.8％的绿色和 54.9％的蓝色组成。在 HSL 色彩空间里，#5c4c8c 有 255 度的色调，30％ 的饱和度以及 42 ％的亮度。这种颜色的波长将近 446.2 纳米“。此外，[encycolorpedia](https://nicelinks.site/redirect?url=https://encycolorpedia.cn/) 还会给出相关（含密切、中度、较远）色彩以及命名；此外，还会列出与之相对应的**配色**列表；额外，encycolorpedia 网站还会给出 HTML & CSS 案例，展示所输入的颜色，用于 background-color、color、text-shadow 各属性下对应效果。`encycolorpedia` 不仅提供色值检索，您还可以按命名搜索如 `grey`，它会以列表形式，列出结果，供您选择。如果您有配色相关诉求，[encycolorpedia](https://nicelinks.site/redirect?url=https://encycolorpedia.cn/) 是非常值得了解 & 使用的网站。
+**推荐语**：[encycolorpedia](https://encycolorpedia.cn/) 是一款非常棒的在线调色板，不但有十六进制颜色代码表， 还有各种颜色代码的解析及配色说明，如十六进制颜色代码 **#5c4c8c**，给出的说明是：“度的**蓝品红**阴影。在 RGB 三原色光模式中，`#5c4c8c` 是由 36.08％的红色，29.8％的绿色和 54.9％的蓝色组成。在 HSL 色彩空间里，#5c4c8c 有 255 度的色调，30％ 的饱和度以及 42 ％的亮度。这种颜色的波长将近 446.2 纳米“。此外，[encycolorpedia](https://encycolorpedia.cn/) 还会给出相关（含密切、中度、较远）色彩以及命名；此外，还会列出与之相对应的**配色**列表；额外，encycolorpedia 网站还会给出 HTML & CSS 案例，展示所输入的颜色，用于 background-color、color、text-shadow 各属性下对应效果。`encycolorpedia` 不仅提供色值检索，您还可以按命名搜索如 `grey`，它会以列表形式，列出结果，供您选择。如果您有配色相关诉求，[encycolorpedia](https://encycolorpedia.cn/) 是非常值得了解 & 使用的网站。
 
 ── 出自[倾城之链 - 十六进制颜色代码表，图表及调色板 - Encycolorpedia](https://nicelinks.site/post/6055eecbbffb5e532f3be22d)
 
@@ -96,7 +96,7 @@ RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工�
 
 ![倾城之链 - Screen and camera recorder - Scre.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/scre.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Scre.io](https://nicelinks.site/redirect?url=https://scre.io/)：免费的屏幕和摄像机，支持从摄像机录制视频，或从屏幕捕获无限的视频。适用于 Mac，Windows，Chrome 和 Edge 浏览器。超过一百万的人使用 Scre.io 分享数十亿的屏幕录像。它具有以下功能特征：
+**推荐语**：[Scre.io](https://scre.io/)：免费的屏幕和摄像机，支持从摄像机录制视频，或从屏幕捕获无限的视频。适用于 Mac，Windows，Chrome 和 Edge 浏览器。超过一百万的人使用 Scre.io 分享数十亿的屏幕录像。它具有以下功能特征：
 
 - 选项卡，窗口或整个桌面的屏幕截图。
 - 使用网络摄像头或前置摄像头录制视频。

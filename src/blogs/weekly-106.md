@@ -10,7 +10,7 @@
 
 ![倾城之链 - Generate ad creatives that help you sell more. Fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.adcreative.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[adcreative.ai](https://nicelinks.site/redirect?url=https://www.adcreative.ai/) ，一款人工智能（ [AI](https://nicelinks.site/tags/AI) ：Artificial Intelligence.）驱动广告和社交创意工具；使用人工智能在几秒钟内生成注重转化的广告创意和社交媒体帖子创意。在节省时间的同时获得更好的结果。它具有如下功能特征：
+**推荐语**：[adcreative.ai](https://www.adcreative.ai/) ，一款人工智能（ [AI](https://nicelinks.site/tags/AI) ：Artificial Intelligence.）驱动广告和社交创意工具；使用人工智能在几秒钟内生成注重转化的广告创意和社交媒体帖子创意。在节省时间的同时获得更好的结果。它具有如下功能特征：
 
 ### 为合作而生
 
@@ -28,7 +28,7 @@
 
 改变 AdCreative.ai 的标志和 URL，使其真正属于你。
 
-[AdCreative.ai](https://nicelinks.site/redirect?url=https://www.adcreative.ai/) 是一种可以在几秒钟内生成即用型、高转化率广告创意和社交媒体帖子创意的生成式 AI。它还为您提供了您以前从未接触过的创造性见解。通过训练有素的人工智能生成的创意/横幅，为您的企业带来不公平的优势。对于独立创造者或个人创业者，在项目伊始，可能没办法请大量优秀设计师、运营推广工作人员，借助类似 AI 工具，或许可以缩小与巨无霸公司的差距，使得能专注于塑造打磨产品。
+[AdCreative.ai](https://www.adcreative.ai/) 是一种可以在几秒钟内生成即用型、高转化率广告创意和社交媒体帖子创意的生成式 AI。它还为您提供了您以前从未接触过的创造性见解。通过训练有素的人工智能生成的创意/横幅，为您的企业带来不公平的优势。对于独立创造者或个人创业者，在项目伊始，可能没办法请大量优秀设计师、运营推广工作人员，借助类似 AI 工具，或许可以缩小与巨无霸公司的差距，使得能专注于塑造打磨产品。
 
 ── 出自[倾城之链 - Generate ad creatives that help you sell more. Fast.](https://nicelinks.site/post/63f76626f35fb604d891d851)
 
@@ -40,7 +40,7 @@
 
 ![倾城之链 - Emotion – The Next Generation of CSS-in-JS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/emotion.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Emotion](https://nicelinks.site/redirect?url=https://emotion.sh/) 是一个性能优异且灵活的 CSS-in-JS 库。在许多其他 CSS-in-JS 库的基础上，它允许你用**字符串或对象**样式快速为应用程序设置样式。它具有可预测的组成，以避免 [CSS](https://nicelinks.site/tags/CSS) 的特殊性问题。通过源码地图（Source Map）和标签，Emotion 有很好的开发者体验，并且在生产中通过大量的缓存有很好的性能。
+**推荐语**：[Emotion](https://emotion.sh/) 是一个性能优异且灵活的 CSS-in-JS 库。在许多其他 CSS-in-JS 库的基础上，它允许你用**字符串或对象**样式快速为应用程序设置样式。它具有可预测的组成，以避免 [CSS](https://nicelinks.site/tags/CSS) 的特殊性问题。通过源码地图（Source Map）和标签，Emotion 有很好的开发者体验，并且在生产中通过大量的缓存有很好的性能。
 
 有两种使用 Emotion 的主要方法。第一个与框架无关，第二个用于 [React](https://nicelinks.site/tags/React)，分别是：
 
@@ -66,7 +66,7 @@ Emotion 支持所有流行的浏览器和 Internet Explorer 11。Web 开发中�
 
 ![倾城之链 - Home - OpenCV](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/opencv.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OpenCV](https://nicelinks.site/redirect?url=https://opencv.org/) （Open Source Computer Vision Library）是一个开源的计算机视觉和机器学习软件库；提供了一个实时优化的计算机视觉库、工具和硬件；它还支持机器学习（ML）和人工智能（AI）的模型执行。它具有如下特征：
+**推荐语**：[OpenCV](https://opencv.org/) （Open Source Computer Vision Library）是一个开源的计算机视觉和机器学习软件库；提供了一个实时优化的计算机视觉库、工具和硬件；它还支持机器学习（ML）和人工智能（AI）的模型执行。它具有如下特征：
 
 - **开源**：OpenCV 在 [Github 开源](https://github.com/opencv/opencv)（66.6K+ Star），并在 Apache 2 许可证下发布。它可免费用于商业用途；
 - **优化**：OpenCV 是一个高度优化的库，专注于实时应用程序。
@@ -88,7 +88,7 @@ OpenCV 旨在为计算机视觉应用程序提供通用基础设施，并加速�
 
 ![倾城之链 - Fyrox | a modern Rust game engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fyrox.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Fyrox](https://nicelinks.site/redirect?url=https://fyrox.rs/) ，一个功能丰富的、生产就绪的、通用的 2D /。 [3D](https://nicelinks.site/tags/3D) 游戏引擎，用 [Rust](https://nicelinks.site/tags/Rust) 编写，带有场景编辑器（以前称为 `rg3d`）。它具有如下功能特征：
+**推荐语**：[Fyrox](https://fyrox.rs/) ，一个功能丰富的、生产就绪的、通用的 2D /。 [3D](https://nicelinks.site/tags/3D) 游戏引擎，用 [Rust](https://nicelinks.site/tags/Rust) 编写，带有场景编辑器（以前称为 `rg3d`）。它具有如下功能特征：
 
 - **一流的 2D 和 3D 支持**：创建 2D 或 3D 游戏，甚至混合 2D 和 3D。
 - **高质量的灵活渲染器**：强大且可扩展的渲染器将满足您的大部分需求。
@@ -100,7 +100,7 @@ OpenCV 旨在为计算机视觉应用程序提供通用基础设施，并加速�
 - **插件和脚本**：完全用 Rust 编写您的游戏，同时能够在编辑器中运行它。使用自定义插件扩展引擎的功能。
 - **场景图**：功能齐全，具有各种节点（枢轴、相机、网格、灯光、粒子系统、精灵），包括您自己的。
 
-没有场景编辑器的**游戏引擎**会是什么呢？ [Fyrox](https://nicelinks.site/redirect?url=https://fyrox.rs/) 提供了自己的编辑器 - `FyroxEd`。它使您可以立即创建游戏场景，支持大量功能；如果您已准备好在今天创造明天的游戏，运行如下命令即可开始制作：
+没有场景编辑器的**游戏引擎**会是什么呢？ [Fyrox](https://fyrox.rs/) 提供了自己的编辑器 - `FyroxEd`。它使您可以立即创建游戏场景，支持大量功能；如果您已准备好在今天创造明天的游戏，运行如下命令即可开始制作：
 
 ```bash
 cargo new my-awesome-game
@@ -118,7 +118,7 @@ Fyrox 在 [Github 开源](https://github.com/FyroxEngine/Fyrox) ，如果您对�
 
 ![倾城之链 - Lingui | Internationalization Framework for Global Products](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lingui.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lingui](https://nicelinks.site/redirect?url=https://lingui.dev/) ，是一个简单而强大的全球项目国际化框架，用于 JavaScript 项目内部化 (i18n) 的 JavaScript 库，包括 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Node.js 和 Angular。它具有如下功能特征：
+**推荐语**：[Lingui](https://lingui.dev/) ，是一个简单而强大的全球项目国际化框架，用于 JavaScript 项目内部化 (i18n) 的 JavaScript 库，包括 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Node.js 和 Angular。它具有如下功能特征：
 
 - **通用**：随处使用。`@lingui/core` 提供适用于任何 JavaScript 项目的基本国际功能，同时 `@lingui/react` 提供组件以利用 React 渲染。
 - **清洁和可读**- 保持您的代码清洁和可读，而库在引擎盖下使用久经考验且功能强大的 **ICU MessageFormat**。
@@ -157,7 +157,7 @@ function App() {
 
 ![倾城之链 - Wasmtime | A fast and secure runtime for WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wasmtime.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wasmtime](https://nicelinks.site/redirect?url=https://wasmtime.dev/) ：**WebAssembly 的快速安全运行时**；它是一个 [字节码联盟](https://bytecodealliance.org/) 项目，它是一个独立的 wasm-only 优化运行时，用于 [WebAssembly](https://webassembly.org/) 和 [WASI](https://wasi.dev/) 。 [它在 Web 之外](https://webassembly.org/docs/non-web/) 运行 WebAssembly 代码，既可以用作命令行实用程序，也可以用作嵌入到更大应用程序中的库。可以通过以下功能特征更清晰了解 `wasmtime`：
+**推荐语**：[Wasmtime](https://wasmtime.dev/) ：**WebAssembly 的快速安全运行时**；它是一个 [字节码联盟](https://bytecodealliance.org/) 项目，它是一个独立的 wasm-only 优化运行时，用于 [WebAssembly](https://webassembly.org/) 和 [WASI](https://wasi.dev/) 。 [它在 Web 之外](https://webassembly.org/docs/non-web/) 运行 WebAssembly 代码，既可以用作命令行实用程序，也可以用作嵌入到更大应用程序中的库。可以通过以下功能特征更清晰了解 `wasmtime`：
 
 - **快速**：它建立在优化的 [Cranelift](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/README.md) 代码生成器之上，可以在运行时或提前快速生成高质量的机器代码。Wasmtime 针对高效实例化、嵌入器和 wasm 之间的低开销调用以及并发实例的可扩展性进行了优化。此外还具有安全、可配置、符合标准等特征。
 - **安全**：Wasmtime 的开发非常注重正确性和安全性。在 Rust 的运行时安全保证的基础上，Wasmtime 的每个功能都通过 RFC 程序进行仔细的审查和考虑。

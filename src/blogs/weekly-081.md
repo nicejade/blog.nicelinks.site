@@ -10,14 +10,14 @@
 
 ![倾城之链 - TinySnap: A Production-Ready Screenshot Extension Tool for Everyone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tinysnap.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TinySnap](https://nicelinks.site/redirect?url=https://tinysnap.app/) 是为每个人，特别是创造者、开发者和营销者，而创建的可生产的**屏幕截图扩展**工具；基于 TinySnap 可告别无聊的截图！你也不需要花哨的设计技能，只需简单地制作屏幕截图，然后将其变成迷人的图形。所要做的就是选择你想要的，调整 TinySnap **预览**（支持修改外边距、内边距、圆角弧度、阴影、渐变背景、边框、图像比例、位置等），然后你就可以保存或分享。TinySnap 完全免费使用，但如果您需要额外的功能，请升级到 TinySnap Pro。免费版本支持以下功能：
+**推荐语**：[TinySnap](https://tinysnap.app/) 是为每个人，特别是创造者、开发者和营销者，而创建的可生产的**屏幕截图扩展**工具；基于 TinySnap 可告别无聊的截图！你也不需要花哨的设计技能，只需简单地制作屏幕截图，然后将其变成迷人的图形。所要做的就是选择你想要的，调整 TinySnap **预览**（支持修改外边距、内边距、圆角弧度、阴影、渐变背景、边框、图像比例、位置等），然后你就可以保存或分享。TinySnap 完全免费使用，但如果您需要额外的功能，请升级到 TinySnap Pro。免费版本支持以下功能：
 
 - 无限截图；
 - 复制到剪贴板或保存到本地存储；
 - 编辑和注释屏幕截图；
 - 为屏幕截图添加渐变背景；
 
-TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在功能和设计上有很多相似之处，只不过前者基于浏览器扩展，后者是 Mac 原生应用（免费版本有产品商水印）。如果您要截取浏览器上的图片，TinySnap 是蛮不错的选择。值得一提的是该作者——[@LuoBaishun](https://nicelinks.site/redirect?url=https://twitter.com/LuoBaishun)  今年刚才开始尝试做**独立产品**，受 Indiehackers 社区的熏陶，在尝试 build in public；他还创作另一款作品：[HeyForm](https://nicelinks.site/redirect?url=https://heyform.net/)。如果您想了解更多，可移步至 [TinySnap 常见问题](https://nicelinks.site/redirect?url=https://tinysnap.app/#faq)。
+TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在功能和设计上有很多相似之处，只不过前者基于浏览器扩展，后者是 Mac 原生应用（免费版本有产品商水印）。如果您要截取浏览器上的图片，TinySnap 是蛮不错的选择。值得一提的是该作者——[@LuoBaishun](https://twitter.com/LuoBaishun)  今年刚才开始尝试做**独立产品**，受 Indiehackers 社区的熏陶，在尝试 build in public；他还创作另一款作品：[HeyForm](https://heyform.net/)。如果您想了解更多，可移步至 [TinySnap 常见问题](https://tinysnap.app/#faq)。
 
 ── 出自[倾城之链 - TinySnap: A Production-Ready Screenshot Extension Tool for Everyone](https://nicelinks.site/post/63109b3d02966b0ec183b140)
 
@@ -31,7 +31,7 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 ![倾城之链 - 千篇国学 · 万卷经典](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.qianp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[千篇国学](https://nicelinks.site/redirect?url=https://www.qianp.com/)，有「汉语字典」, 「汉语词典」,「 成语大全」三个板块儿：
+**推荐语**：[千篇国学](https://www.qianp.com/)，有「汉语字典」, 「汉语词典」,「 成语大全」三个板块儿：
 
 `汉语字典` 收录简繁汉字共 8 万多个，囊括新华字典中所有汉字。新华字典可在线查询汉字的拼音、笔画数、五笔、仓颉、郑码、电码、汉字笔顺、四角号码、UNICODE、汉字方言、汉英互译、词性变化、康熙字典解释、说文解字、English 等。
 
@@ -39,7 +39,7 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 `成语大全`（成语词典在线查询）收录四字成语等 4 万多条，提供成语解释、成语用法、成语出处、成语歇后语、成语谜语、成语故事大全、成语接龙、近义词、反义词等查询。
 
-在这里，您可以学到很多很多；就成语而言，有成语组词、成语组合、成语结构、成语字数、成语接龙.....汉语字典，可了解到二叠字、 三叠字（品 pǐn 森 sēn 晶 jīng 焱 yàn 麤 cū 刕 lí 劦 xié 厵 yuán 姦 jiān 叒 ruò）、 四叠字（燚 yì 叕 zhuó 朤 lǎng 茻 mǎng 㵘 màn）、网络流行汉字（巭 gū 孬 nāo 嫑 biáo 嘦 jiào 䨻 bèng）等，不仅可以知道具体读音、部首、释义以及康熙字典中说明。此外[千篇国学](https://nicelinks.site/redirect?url=https://www.qianp.com/) 还提供搜索功能，输入「汉字、拼音、五笔」等均可。如果您想对某些成语、词语、汉字感兴趣或了解更多，千篇国学是值得使用的网站。
+在这里，您可以学到很多很多；就成语而言，有成语组词、成语组合、成语结构、成语字数、成语接龙.....汉语字典，可了解到二叠字、 三叠字（品 pǐn 森 sēn 晶 jīng 焱 yàn 麤 cū 刕 lí 劦 xié 厵 yuán 姦 jiān 叒 ruò）、 四叠字（燚 yì 叕 zhuó 朤 lǎng 茻 mǎng 㵘 màn）、网络流行汉字（巭 gū 孬 nāo 嫑 biáo 嘦 jiào 䨻 bèng）等，不仅可以知道具体读音、部首、释义以及康熙字典中说明。此外[千篇国学](https://www.qianp.com/) 还提供搜索功能，输入「汉字、拼音、五笔」等均可。如果您想对某些成语、词语、汉字感兴趣或了解更多，千篇国学是值得使用的网站。
 
 ── 出自[倾城之链 - 千篇国学 · 万卷经典](https://nicelinks.site/post/6310b06902966b0ec183b142)
 
@@ -51,7 +51,7 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 ![倾城之链 - Free SVG generators, color tools & web design tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fffuel.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [fffuel](https://nicelinks.site/redirect?url=https://fffuel.co/) 是用于渐变、图案、纹理、形状和背景的颜色工具和免费 SVG 生成器的集合。该网站集成了非常多工具，诸如：调色板生成器、颜色选择器、流体 SVG 渐变、发光的 SVG 形状、表情制作器、网格状渐变、粒状梯度发生器、SVG 波发生器、手绘 SVG 绘图工具、噪声纹理生成器、SVG 渐变圆形图案、旋转圆圈图案、旋转几何图案、赛博朋克风格的背景、五彩纸屑发生器、SVG 箭头制造商、模糊背景生成器、爆裂线条图案、野生波浪 SVG 形状...... 凡此种种，多达数十种。
+**推荐语**： [fffuel](https://fffuel.co/) 是用于渐变、图案、纹理、形状和背景的颜色工具和免费 SVG 生成器的集合。该网站集成了非常多工具，诸如：调色板生成器、颜色选择器、流体 SVG 渐变、发光的 SVG 形状、表情制作器、网格状渐变、粒状梯度发生器、SVG 波发生器、手绘 SVG 绘图工具、噪声纹理生成器、SVG 渐变圆形图案、旋转圆圈图案、旋转几何图案、赛博朋克风格的背景、五彩纸屑发生器、SVG 箭头制造商、模糊背景生成器、爆裂线条图案、野生波浪 SVG 形状...... 凡此种种，多达数十种。
 
 🚀 在这里，您会找到一系列完全**免费的 SVG 制作**工具，用于创建炫酷的背景、无缝图案、渐变、纹理、形状和斑点。直接在网络上或您最喜欢的设计应用程序中，使用生成的矢量图案。
 
@@ -59,11 +59,11 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 ✨ SVG 是 Scalable Vector Graphics（可扩展的矢量图形） 的缩写，在网络上使用 SVG 有很多好处。例如，SVG 可以缩放到任何大小而不会损失视觉质量，它们可以稍后通过调整下划线标记进行编辑，并且它们通常可以比已保存为 PNG 或 JPEG 等光栅格式的图像更轻巧。
 
-🔧 如果您需要将生成的 SVG 转换为 PNG，您可以使用 [SVG 到 PNG 转换工具](https://nicelinks.site/redirect?url=https://fffuel.co/rrrasterize/) 。
+🔧 如果您需要将生成的 SVG 转换为 PNG，您可以使用 [SVG 到 PNG 转换工具](https://fffuel.co/rrrasterize/) 。
 
-🖼️ 如果你想使用 SVG 作为背景图案，你可以使用 [base64 编码器](https://nicelinks.site/redirect?url=https://fffuel.co/eeencode/) ，这样你就可以在你的 CSS 中添加背景图片。
+🖼️ 如果你想使用 SVG 作为背景图案，你可以使用 [base64 编码器](https://fffuel.co/eeencode/) ，这样你就可以在你的 CSS 中添加背景图片。
 
-🎨 另外，fffuel 还创建了一些工具，来帮助转换颜色代码或为您的设计挑选漂亮的颜色。例如，试用 [颜色选择器](https://nicelinks.site/redirect?url=https://fffuel.co/cccolor/) 或 [调色板生成器](https://nicelinks.site/redirect?url=https://fffuel.co/pppalette/) 。
+🎨 另外，fffuel 还创建了一些工具，来帮助转换颜色代码或为您的设计挑选漂亮的颜色。例如，试用 [颜色选择器](https://fffuel.co/cccolor/) 或 [调色板生成器](https://fffuel.co/pppalette/) 。
 
 ── 出自[倾城之链 - Free SVG generators, color tools & web design tools](https://nicelinks.site/post/6310950c02966b0ec183b13e)
 
@@ -75,7 +75,7 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 ![倾城之链 - Photosonic AI Art Generator | Create Unique Images with AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/photosonic.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Photosonic](https://nicelinks.site/redirect?url=https://photosonic.ai/) 是一款 AI 工具，可让您从想象中创造出令人惊叹的图像。 只需输入几句话来描述您想看到的内容，Photosonic 就会在几秒钟内为您生成。 无需设计技能或 Photoshop。 现在它支持免费试用（每天每台机器限制 10 次）。在 Photosonic 创始人 Sam 看来，Photosonic 不仅是一个有趣的玩具，而且是内容创建、营销、教育、娱乐等的强大工具。您可以使用 Photosonic 来：
+**推荐语**：[Photosonic](https://photosonic.ai/) 是一款 AI 工具，可让您从想象中创造出令人惊叹的图像。 只需输入几句话来描述您想看到的内容，Photosonic 就会在几秒钟内为您生成。 无需设计技能或 Photoshop。 现在它支持免费试用（每天每台机器限制 10 次）。在 Photosonic 创始人 Sam 看来，Photosonic 不仅是一个有趣的玩具，而且是内容创建、营销、教育、娱乐等的强大工具。您可以使用 Photosonic 来：
 
 - ✅ 使用与您的信息相匹配的醒目视觉效果为您的博客帖子、社交媒体帖子、新闻通讯和登录页面增添趣味；
 - ✅ 为您的个人或专业项目（例如书籍封面、海报）生成独特的原创艺术品, 标志, 壁纸, 以及更多；
@@ -106,7 +106,7 @@ Writesonic 在其官网写道：Writesonic 使命是让每个人都能以闪电�
 
 ![倾城之链 - WeNomad - A Digital Nomad Community Learning Resource](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wenomad.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WeNomad](https://nicelinks.site/redirect?url=https://wenomad.so/)，远程工作者和数字游牧民的城市指南。与领先的网站进行比较，WeNomad 没有捏造的信息，没有付费墙，更准确的数据，更详细的指南和更多评论。
+**推荐语**：[WeNomad](https://wenomad.so/)，远程工作者和数字游牧民的城市指南。与领先的网站进行比较，WeNomad 没有捏造的信息，没有付费墙，更准确的数据，更详细的指南和更多评论。
 
 如果您逛下 WeNomad 网站，就会发现它所提供的信息，至少非常之齐全。比如：夜生活、远程游牧人气 & 社区、天气、wifi 速度 and 可靠性、犯罪与安全等方面都会涉及；此外，还会较为全面地列出优缺点、特色照片等。当然，该网站支持用户自由评论。
 

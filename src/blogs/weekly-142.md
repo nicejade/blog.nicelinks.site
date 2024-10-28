@@ -10,7 +10,7 @@
 
 ![倾城之链 - Sweep: turn bugs and feature requests into code changes.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sweep.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sweep](https://nicelinks.site/redirect?url=https://sweep.dev/) 是一款 [人工智能](https://nicelinks.site/tags/AI) 代码助手，负责将错误报告和功能请求转化为代码更改。🤖 像向初级开发人员一样描述错误、小功能和重构，然后进行清理：
+**推荐语**：[Sweep](https://sweep.dev/) 是一款 [人工智能](https://nicelinks.site/tags/AI) 代码助手，负责将错误报告和功能请求转化为代码更改。🤖 像向初级开发人员一样描述错误、小功能和重构，然后进行清理：
 
 1.  读取您的代码库；
 2.  计划改变；
@@ -35,13 +35,13 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 ![倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pyflo.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PyFlo](https://nicelinks.site/redirect?url=https://pyflo.net/) ， [Python](https://nicelinks.site/tags/Python) 程序员的初学者免费 [教程](https://nicelinks.site/tags/教程) （英文）；有趣的是该教程目录是一张流程图，每个节点是一个章节，相比传统目录，这种更具流程化、可视化、人性化；每个章节，您可以标注是否学习完毕、设置书签 🔖、跳转下一章节等等。值得一提的是，作者对每节课程有做`颜色`标记，其分别代表含义如下：
+**推荐语**：[PyFlo](https://pyflo.net/) ， [Python](https://nicelinks.site/tags/Python) 程序员的初学者免费 [教程](https://nicelinks.site/tags/教程) （英文）；有趣的是该教程目录是一张流程图，每个节点是一个章节，相比传统目录，这种更具流程化、可视化、人性化；每个章节，您可以标注是否学习完毕、设置书签 🔖、跳转下一章节等等。值得一提的是，作者对每节课程有做`颜色`标记，其分别代表含义如下：
 
 - 蓝色课程（Blue Lessons）是“常规”课程。您应该按照课程流程规定的顺序完成这些内容。
 - 紫色课程（Purple Lessons）是学习分支的一部分。这些内容非常丰富，但如果需要的话可以跳过。奖励内容。
 - 橙色课程（Orange Lessons）是指导项目。这些将引导您使用之前课程中的概念逐步实施程序。
 
-初步阅读体验，能明显感到 [PyFlo](https://nicelinks.site/redirect?url=https://pyflo.net/) 这是非常棒的教程；针对想学习 Python 语言的初学者，尤其是没什么编程基础的同学，具有积极意义。如果您对其感兴趣，可移步前往从而了解更多。
+初步阅读体验，能明显感到 [PyFlo](https://pyflo.net/) 这是非常棒的教程；针对想学习 Python 语言的初学者，尤其是没什么编程基础的同学，具有积极意义。如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.site/post/65426f6f0f5a6713f81108e0)
 
@@ -55,7 +55,7 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 ![倾城之链 - vivo 办公套件 - vivo手机平板与电脑互联 | 官方下载](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pc.vivo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[vivo 办公套件](https://nicelinks.site/redirect?url=https://pc.vivo.com/) 是集合 OriginOS 生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。
+**推荐语**：[vivo 办公套件](https://pc.vivo.com/) 是集合 OriginOS 生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。
 
 **全新的跨设备协同体系，满足办公多场景需求**，诸如：笔记连续互通、超级剪贴板、vivo 远控 PC、镜像投屏、任务接力、图片视频备份、键鼠协同、数据多端同步、文件互传、专业办公软件。详细功能特征如下：
 
@@ -74,7 +74,7 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 - **数据多端同步、多设备内容浏览更流畅**：原子笔记、相册、日历日程等数据在多端实时同步，切换设备也能随时查看、编辑最新数据。
 - **文件互传，跨设备、文件传输管理更有序**：在电脑上直接访问手机/平板电脑文件夹，更方便地管理和传输手机/平板电脑的图片、视频、音频等数据。
 
-[vivo 办公套件](https://nicelinks.site/redirect?url=https://pc.vivo.com/) （“量子套件”）焕新升级，探索办公无限可能，旨在让**办公、学习、创作**更省心。如果您对其感兴趣，不妨移步其官网从而了解更多。
+[vivo 办公套件](https://pc.vivo.com/) （“量子套件”）焕新升级，探索办公无限可能，旨在让**办公、学习、创作**更省心。如果您对其感兴趣，不妨移步其官网从而了解更多。
 
 ── 出自[倾城之链 - vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
 
@@ -86,7 +86,7 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 ![倾城之链 - 蓝河操作系统 BlueOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.blueos.com.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[蓝河操作系统 BlueOS](https://nicelinks.site/redirect?url=https://www.blueos.com.cn/) ， [vivo](https://nicelinks.site/tags/vivo) 面向通用人工智能时代自主研发的智慧操作系统。于 2023 年 11 月 01 日 主题为「同心 · 同行」的 vivo 开发者大会正式对外推出。官方称 BlueOS 具有完备的开放能力，支持在健康、运动、出行、娱乐等全场景的应用的高效开发。关于 BlueOS（蓝河操作系统）更多详情如下：
+**推荐语**：[蓝河操作系统 BlueOS](https://www.blueos.com.cn/) ， [vivo](https://nicelinks.site/tags/vivo) 面向通用人工智能时代自主研发的智慧操作系统。于 2023 年 11 月 01 日 主题为「同心 · 同行」的 vivo 开发者大会正式对外推出。官方称 BlueOS 具有完备的开放能力，支持在健康、运动、出行、娱乐等全场景的应用的高效开发。关于 BlueOS（蓝河操作系统）更多详情如下：
 
 ### 功能特征
 
@@ -162,7 +162,7 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 ![倾城之链 - LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/localsend.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LocalSend](https://nicelinks.site/redirect?url=https://localsend.org/) 是一款 [免费](https://nicelinks.site/tags/免费) 、 [开源](https://nicelinks.site/tags/开源) 、 [跨平台](https://nicelinks.site/tags/跨平台) 的应用程序，`AirDrop` 的开源跨平台替代方案；具体来说，LocalSend 可让您通过本地网络与**附近的设备安全地共享文件和消息，而无需互联网连接**。它可以使用 REST API 和 HTTPS 加密实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为本地通信的快速可靠解决方案。
+**推荐语**：[LocalSend](https://localsend.org/) 是一款 [免费](https://nicelinks.site/tags/免费) 、 [开源](https://nicelinks.site/tags/开源) 、 [跨平台](https://nicelinks.site/tags/跨平台) 的应用程序，`AirDrop` 的开源跨平台替代方案；具体来说，LocalSend 可让您通过本地网络与**附近的设备安全地共享文件和消息，而无需互联网连接**。它可以使用 REST API 和 HTTPS 加密实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为本地通信的快速可靠解决方案。
 
 **LocalSend 如何工作**？LocalSend 使用安全通信协议，允许设备使用 REST API 相互通信。所有数据都通过 HTTPS 安全地发送，并且 TLS/SSL 证书在每个设备上动态生成，确保最大的安全性。有关 LocalSend 协议的更多信息，请参阅 [LocalSend 文档](https://github.com/localsend/protocol) 。如果您对该项目感兴趣，可移步 [LocalSend 在 Github 开源仓库从而了解更多](https://github.com/localsend/localsend) 。
 
@@ -176,7 +176,7 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 ![倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css-loaders.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CSS Loaders](https://nicelinks.site/redirect?url=https://css-loaders.com/) ，收集各种 [CSS](https://nicelinks.site/tags/CSS) 的页面加载特效，号称最大的加载动画集合；截止 2023 年 10 月 31 日，已收录超过 500 个使用单个元素制作的纯 CSS 加载器（CSS Loaders）；它的使用非常简单，点击即可获取 CSS 代码，这对于前端开发者非常有帮助。
+**推荐语**：[CSS Loaders](https://css-loaders.com/) ，收集各种 [CSS](https://nicelinks.site/tags/CSS) 的页面加载特效，号称最大的加载动画集合；截止 2023 年 10 月 31 日，已收录超过 500 个使用单个元素制作的纯 CSS 加载器（CSS Loaders）；它的使用非常简单，点击即可获取 CSS 代码，这对于前端开发者非常有帮助。
 
 ── 出自[倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://nicelinks.site/post/65411ead5889f74c2dbc6946)
 
@@ -188,7 +188,7 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 ![倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/appmotion.design.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[App Motion](https://nicelinks.site/redirect?url=https://appmotion.design/) ，探索最好的、精心挑选的应用程序动作设计；您可以在这里查看、检索、甚至提交应用程序动画效果（如果后续能贴出对应代码实现，那就更棒了），从而汲取灵感；作者创建这个网站，是因为他正在寻找专门针对运动/动画的应用程序[灵感](https://nicelinks.site/tags/灵感)，但找不到任何好的资源。所以作者应该创建自己的网站； 💪 **100% 免费，无需注册**。对于想要创建引人入胜且信息丰富的用户体验的应用程序设计人员来说，这是宝贵的资源。
+**推荐语**：[App Motion](https://appmotion.design/) ，探索最好的、精心挑选的应用程序动作设计；您可以在这里查看、检索、甚至提交应用程序动画效果（如果后续能贴出对应代码实现，那就更棒了），从而汲取灵感；作者创建这个网站，是因为他正在寻找专门针对运动/动画的应用程序[灵感](https://nicelinks.site/tags/灵感)，但找不到任何好的资源。所以作者应该创建自己的网站； 💪 **100% 免费，无需注册**。对于想要创建引人入胜且信息丰富的用户体验的应用程序设计人员来说，这是宝贵的资源。
 
 ── 出自[倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.site/post/653e59ca5889f74c2dbc5860)
 

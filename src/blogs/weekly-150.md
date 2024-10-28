@@ -10,7 +10,7 @@
 
 ![倾城之链 - Build with the Gemini API | Google AI for Developers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ai.google.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Google AI for Developers](https://nicelinks.site/redirect?url=https://ai.google.dev/) 是谷歌（Google）针对开发者提供的一个网站，主要关注人工智能（AI）领域的开发和应用。Google AI for Developers 提供以下功能和特点：
+**推荐语**：[Google AI for Developers](https://ai.google.dev/) 是谷歌（Google）针对开发者提供的一个网站，主要关注人工智能（AI）领域的开发和应用。Google AI for Developers 提供以下功能和特点：
 
 1.  **文档**（Documentation）：该网站提供了广泛的文档资源，包括关于谷歌的 AI 技术、框架和工具的详细说明。这些文档可以帮助开发者了解如何使用谷歌的 AI 技术构建应用程序、算法和模型。
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - Gemini Pro Chat70 Basic icons by Xicons.co](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/geminiprochat.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GeminiProChat](https://nicelinks.site/redirect?url=https://geminiprochat.com/) ，Gemini Pro Chat 的最小 Web UI，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 所构建，使用 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 部署，后台接口使用的是 Google 最新推出的免费 🆓 AI 服务——Google Gemini Pro （DeepMind 推出的多模态人工智能，可处理文本、音频、图像等） ；该项目在 [Github GeminiProChat 仓库开源](https://github.com/babaohuang/GeminiProChat) ，如果您对其或接入 Google Gemini AI 感兴趣，可移步前往从而了解更多（在为 [素问智聊斋接入 Gemini Pro API ](https://chatgpt.nicelinks.site/gemini) 时，为解决多轮对话接口报错问题，略有参考）。
+**推荐语**：[GeminiProChat](https://geminiprochat.com/) ，Gemini Pro Chat 的最小 Web UI，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 所构建，使用 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 部署，后台接口使用的是 Google 最新推出的免费 🆓 AI 服务——Google Gemini Pro （DeepMind 推出的多模态人工智能，可处理文本、音频、图像等） ；该项目在 [Github GeminiProChat 仓库开源](https://github.com/babaohuang/GeminiProChat) ，如果您对其或接入 Google Gemini AI 感兴趣，可移步前往从而了解更多（在为 [素问智聊斋接入 Gemini Pro API ](https://chatgpt.nicelinks.site/gemini) 时，为解决多轮对话接口报错问题，略有参考）。
 
 ── 出自[倾城之链 - Gemini Pro Chat70 Basic icons by Xicons.co](https://nicelinks.site/post/658d8a4bb3eaf05e8b514499)
 
@@ -42,7 +42,7 @@
 
 ![倾城之链 - Bruno - Opensource IDE for exploring and testing APIs.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.usebruno.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bruno](https://nicelinks.site/redirect?url=https://www.usebruno.com/) 是一个快速且 [Git](https://nicelinks.site/tags/Git) 友好的开源 API 客户端（用于探索和测试 Api 的开源 IDE），旨在彻底改变以 Postman、Insomnia 和类似工具为代表的现状。Bruno 将您的收藏直接存储在文件系统上的文件夹中。使用纯文本标记语言 Bru 来保存有关 API 请求的信息。
+**推荐语**：[Bruno](https://www.usebruno.com/) 是一个快速且 [Git](https://nicelinks.site/tags/Git) 友好的开源 API 客户端（用于探索和测试 Api 的开源 IDE），旨在彻底改变以 Postman、Insomnia 和类似工具为代表的现状。Bruno 将您的收藏直接存储在文件系统上的文件夹中。使用纯文本标记语言 Bru 来保存有关 API 请求的信息。
 
 您可以使用 Git 或您选择的任何版本控制来协作处理您的 API 集合。Bruno 出于重视您的数据隐私，只能离线使用，从来没有计划为 Bruno 添加云同步功能，并相信它应该保留在您的设备上。Bruno 支持 [跨平台](https://nicelinks.site/tags/跨平台) 使用，适用于 Mac、Windows 和 Linux。如果您对这款工具感兴趣，可移步至 [Bruno 在 Github 开源仓库](https://github.com/usebruno/bruno) 从而了解更多。
 
@@ -58,7 +58,7 @@
 
 ![倾城之链 - Solo 独立开发者社区-链接每一位独立开发者, 从 Solo 开始](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/solo.xin.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Solo 独立开发者社区](https://nicelinks.site/redirect?url=https://solo.xin/) ，由众多 [独立开发者](https://nicelinks.site/tags/独立开发者) 一起组建，分享最新动态、推动产品落地及运营和市场化。你能在这里找到资源和灵感，完成第一桶金的收入。其口号是：**小产品，快变现**； [Solo 社区](https://nicelinks.site/redirect?url=https://solo.xin/) 初心是**赋能独立开发者，实现个人影响与快速变现**。所以根据这这点，他们的 Solo 计划，就是致力于为独立开发者提供全方位的加速服务；整合 Solo 的内容、品牌、传播资源，再联合更大的优秀平台和资本，对独立开发者产品提供全方位的支持和扶持。根据官方社区描述，加入 [Solo 计划](https://solo.xin/solo) 你可以获得：
+**推荐语**：[Solo 独立开发者社区](https://solo.xin/) ，由众多 [独立开发者](https://nicelinks.site/tags/独立开发者) 一起组建，分享最新动态、推动产品落地及运营和市场化。你能在这里找到资源和灵感，完成第一桶金的收入。其口号是：**小产品，快变现**； [Solo 社区](https://solo.xin/) 初心是**赋能独立开发者，实现个人影响与快速变现**。所以根据这这点，他们的 Solo 计划，就是致力于为独立开发者提供全方位的加速服务；整合 Solo 的内容、品牌、传播资源，再联合更大的优秀平台和资本，对独立开发者产品提供全方位的支持和扶持。根据官方社区描述，加入 [Solo 计划](https://solo.xin/solo) 你可以获得：
 
 ### 扩展品牌
 
@@ -85,7 +85,7 @@ Solo 独立开发者社区的主要功能和特征包括：
 5.  **创业指导**：社区中的独立开发者可以获取创业经验和指导，学习如何打造成功的产品和品牌。
 6.  **实用工具**：网站上提供了一些实用工具，如在线编程环境、代码托管、数据分析等，帮助独立开发者更加高效地完成工作。
 
-总之， [Solo 独立开发者社区](https://nicelinks.site/redirect?url=https://solo.xin/) 是一个充满活力和创新的社区，为独立开发者提供了一个共同学习、分享和成长的平台。如果您独立开发产品感兴趣，不妨前往注册、发布新产品、帖子或活动，从而更多资源、灵感或关注。
+总之， [Solo 独立开发者社区](https://solo.xin/) 是一个充满活力和创新的社区，为独立开发者提供了一个共同学习、分享和成长的平台。如果您独立开发产品感兴趣，不妨前往注册、发布新产品、帖子或活动，从而更多资源、灵感或关注。
 
 ── 出自[倾城之链 - Solo 独立开发者社区-链接每一位独立开发者, 从 Solo 开始](https://nicelinks.site/post/658d0d4eb3eaf05e8b51409f)
 
@@ -97,9 +97,9 @@ Solo 独立开发者社区的主要功能和特征包括：
 
 ![倾城之链 - Aceternity UI |  Make your websites look 10 times better](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ui.aceternity.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Aceternity UI](https://nicelinks.site/redirect?url=https://ui.aceternity.com/) 它是一个平台，为建立网站提供了一系列 [组件](https://nicelinks.site/tags/组件) ， 让您的网站看起来十倍美丽。该网站提到了复制和粘贴趋势组件的能力，而不用担心样式和动画。它支持诸如 Next.js、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Tailwind CSS](https://nicelinks.site/tags/Tailwind) 和 Framer Motion 等框架。
+**推荐语**：[Aceternity UI](https://ui.aceternity.com/) 它是一个平台，为建立网站提供了一系列 [组件](https://nicelinks.site/tags/组件) ， 让您的网站看起来十倍美丽。该网站提到了复制和粘贴趋势组件的能力，而不用担心样式和动画。它支持诸如 Next.js、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Tailwind CSS](https://nicelinks.site/tags/Tailwind) 和 Framer Motion 等框架。
 
-Aceternity UI 旨在帮助用户快速提升网站外观。该网站展示了各种具有交互功能和 [动画](https://nicelinks.site/tags/动画) 的组件；诸如 [SVG](https://nicelinks.site/tags/SVG) 遮罩效果、发光背景星星卡、无限移动卡牌、打字机效果、浮动导航栏等等。用户可以浏览和选择适合他们需要的组件，然后通过**复制和粘贴**提供的代码片段，即可轻松地将它们集成到自己的网站中。总的来说， [Aceternity UI](https://nicelinks.site/redirect?url=https://ui.aceternity.com/) 对于 Web 开发人员和设计师来说是一个有价值的资源，它提供了一系列现成的组件来增强网站的美观性和功能。
+Aceternity UI 旨在帮助用户快速提升网站外观。该网站展示了各种具有交互功能和 [动画](https://nicelinks.site/tags/动画) 的组件；诸如 [SVG](https://nicelinks.site/tags/SVG) 遮罩效果、发光背景星星卡、无限移动卡牌、打字机效果、浮动导航栏等等。用户可以浏览和选择适合他们需要的组件，然后通过**复制和粘贴**提供的代码片段，即可轻松地将它们集成到自己的网站中。总的来说， [Aceternity UI](https://ui.aceternity.com/) 对于 Web 开发人员和设计师来说是一个有价值的资源，它提供了一系列现成的组件来增强网站的美观性和功能。
 
 ── 出自[倾城之链 - Aceternity UI | Make your websites look 10 times better](https://nicelinks.site/post/658d0ae7b3eaf05e8b513ff1)
 
@@ -111,7 +111,7 @@ Aceternity UI 旨在帮助用户快速提升网站外观。该网站展示了各
 
 ![倾城之链 - AI Color Palette Generator: Live Preview Colors on Real Designs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/palettemaker.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Palette Maker](https://nicelinks.site/redirect?url=https://palettemaker.com/) ，是一款面向创意专业人士和色彩爱好者的独特工具，利用 [人工智能](https://nicelinks.site/tags/AI) 创建独特的配色方案，并在真实的设计示例中看到它们变得栩栩如生；可让您创建调色板并在来自最常见创意领域（例如徽标设计、UI / UX、图案、海报等）的预制设计示例中测试其行为。`Palette Maker` 具有如下功能特征：
+**推荐语**：[Palette Maker](https://palettemaker.com/) ，是一款面向创意专业人士和色彩爱好者的独特工具，利用 [人工智能](https://nicelinks.site/tags/AI) 创建独特的配色方案，并在真实的设计示例中看到它们变得栩栩如生；可让您创建调色板并在来自最常见创意领域（例如徽标设计、UI / UX、图案、海报等）的预制设计示例中测试其行为。`Palette Maker` 具有如下功能特征：
 
 - **检查颜色行为**：了解色彩在图形设计中的各种情况下如何协同工作。
 - **人工智能调色板**：过滤不同色调和颜色数量的调色板。
@@ -128,7 +128,7 @@ Aceternity UI 旨在帮助用户快速提升网站外观。该网站展示了各
 
 创建个人调色板的方法实际上有数百种，您可以使用众所周知的颜色和谐，从照片中抓取调色板，使用在线生成器等，但是如果您希望您的调色板是手工制作的，并且每种颜色都是精心挑选的，该怎么办？请参见文章： [在 PaletteMaker.com 上创建调色板的分步指南](https://palettemaker.com/color-palette-how-to) 。
 
-总之， [Palette Maker](https://nicelinks.site/redirect?url=https://palettemaker.com/) 是一款方便的设计调色板生成的工具，可以选择不同类型的场景，搭配不同的颜色，根据自己的喜好进行选择，然后进行生成给自己使用。类似应用还有 [Khroma](https://nicelinks.site/post/5bb793f6bd0a4f27b4f46075) 。
+总之， [Palette Maker](https://palettemaker.com/) 是一款方便的设计调色板生成的工具，可以选择不同类型的场景，搭配不同的颜色，根据自己的喜好进行选择，然后进行生成给自己使用。类似应用还有 [Khroma](https://nicelinks.site/post/5bb793f6bd0a4f27b4f46075) 。
 
 ── 出自[倾城之链 - AI Color Palette Generator: Live Preview Colors on Real Designs](https://nicelinks.site/post/658a36ebb3eaf05e8b5131a0)
 
@@ -140,7 +140,7 @@ Aceternity UI 旨在帮助用户快速提升网站外观。该网站展示了各
 
 ![倾城之链 - Suno AI | is building a future where anyone can make great music](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.suno.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Suno](https://nicelinks.site/redirect?url=https://www.suno.ai/) 制作任何你能想象到的歌曲；`Suno` 正在建设一个任何人都可以创作美妙音乐的未来。无论您是歌手还是排行榜艺术家，他们都会打破您与您梦想创作的歌曲之间的障碍。不需要任何工具，只需要想象力，就可以从你的思想到 [音乐](https://nicelinks.site/tags/音乐) 。基于 Suno 创作音乐 🎵，操作非常简单（基于 Google 或 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 登录，描述您想要的歌曲风格和主题即可）；它直接连专辑封面、歌词、主唱都生成好，而且易于试听和分享。
+**推荐语**：[Suno](https://www.suno.ai/) 制作任何你能想象到的歌曲；`Suno` 正在建设一个任何人都可以创作美妙音乐的未来。无论您是歌手还是排行榜艺术家，他们都会打破您与您梦想创作的歌曲之间的障碍。不需要任何工具，只需要想象力，就可以从你的思想到 [音乐](https://nicelinks.site/tags/音乐) 。基于 Suno 创作音乐 🎵，操作非常简单（基于 Google 或 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 登录，描述您想要的歌曲风格和主题即可）；它直接连专辑封面、歌词、主唱都生成好，而且易于试听和分享。
 
 关于团队，他们是一个由音乐家和人工智能专家组成的团队，总部位于 Cambridge, MA. 他们为 Meta、TikTok 和 Kensho 等先锋科技公司的校友感到自豪，在创办 Suno 之前，其创始团队曾在这些公司工作过。他们喜欢发布代码、制作音乐和喝咖啡。公司文化是关于音乐和声音实验的——从餐厅的谈话到他们办公室的工作室。如果你是其中之一，或者没有，他们很乐意听到你的声音。
 

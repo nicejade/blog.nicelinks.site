@@ -10,7 +10,7 @@
 
 ![倾城之链 - GitHub Desktop | Simple collaboration from your desktop](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/desktop.github.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitHub Desktop](https://nicelinks.site/redirect?url=https://desktop.github.com/) ，一个开源的基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 的 GitHub 应用程序，它是用 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 编写的，并使用 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 。它让您专注于重要的事情，而不是与 Git 争吵。无论您是 Git 新手还是经验丰富的用户，GitHub Desktop 都能简化您的开发工作流程。
+**推荐语**：[GitHub Desktop](https://desktop.github.com/) ，一个开源的基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 的 GitHub 应用程序，它是用 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 编写的，并使用 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 。它让您专注于重要的事情，而不是与 Git 争吵。无论您是 Git 新手还是经验丰富的用户，GitHub Desktop 都能简化您的开发工作流程。
 
 借助 [GitHub](https://nicelinks.site/tags/GitHub) Desktop，您可以使用 GUI 而不是 [命令行](https://nicelinks.site/tags/命令行) 或 Web 浏览器与 GitHub 交互。您可以使用 GitHub Desktop 从您的桌面完成大多数 [Git](https://nicelinks.site/tags/Git) 命令，例如推送到远程存储库、从远程存储库拉取和克隆远程存储库、归属提交和创建拉取请求，并通过视觉确认更改。该项目在也 [Github 开源](https://github.com/desktop/desktop)，如果您对其感兴趣，可移步前往以了解更多。
 
@@ -24,9 +24,9 @@
 
 ![倾城之链 - Gifdeas AI ｜ The free AI powered tool that helps you to get the perfect gift](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/giftdeas.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gifdeas AI](https://nicelinks.site/redirect?url=https://giftdeas.app/) ，礼品赠送人工智能工具，帮助您挑选完美的礼物提供 [灵感](https://nicelinks.site/tags/灵感) ，完全免费；该产品采用最新的 [AI](https://nicelinks.site/tags/AI) 模型，旨在了解您的朋友、伴侣或家人的喜好，并根据他们的年龄和兴趣提出建议，让您轻松找到理想的礼物。对于难以找到合适的礼物，或希望确保他们的礼物符合收礼人的喜好的个人来说，这是一个很好的解决方案。该产品利用人工智能技术这一事实，为流程增加了额外的 [效率](https://nicelinks.site/tags/效率) 和准确性。
+**推荐语**：[Gifdeas AI](https://giftdeas.app/) ，礼品赠送人工智能工具，帮助您挑选完美的礼物提供 [灵感](https://nicelinks.site/tags/灵感) ，完全免费；该产品采用最新的 [AI](https://nicelinks.site/tags/AI) 模型，旨在了解您的朋友、伴侣或家人的喜好，并根据他们的年龄和兴趣提出建议，让您轻松找到理想的礼物。对于难以找到合适的礼物，或希望确保他们的礼物符合收礼人的喜好的个人来说，这是一个很好的解决方案。该产品利用人工智能技术这一事实，为流程增加了额外的 [效率](https://nicelinks.site/tags/效率) 和准确性。
 
-[Gifdeas AI](https://nicelinks.site/redirect?url=https://giftdeas.app/) 这款工具 🔧 使用也非常简单，只需按照提示选择或设置对方的`兴趣`、`年龄`、以及`与您关系`，即可快速生成结果；备注：礼物 🎁 购买链接是 Amazon（亚马逊）商城地址。个人感觉这是一项蛮有实际价值的工具，早前有将其纳入 [素问智聊斋](https://chatgpt.nicelinks.site/) 路线图，可惜懒惰之疾发作，至今尚未完成 ✅。
+[Gifdeas AI](https://giftdeas.app/) 这款工具 🔧 使用也非常简单，只需按照提示选择或设置对方的`兴趣`、`年龄`、以及`与您关系`，即可快速生成结果；备注：礼物 🎁 购买链接是 Amazon（亚马逊）商城地址。个人感觉这是一项蛮有实际价值的工具，早前有将其纳入 [素问智聊斋](https://chatgpt.nicelinks.site/) 路线图，可惜懒惰之疾发作，至今尚未完成 ✅。
 
 ── 出自[倾城之链 - Gifdeas AI ｜ The free AI powered tool that helps you to get the perfect gift](https://nicelinks.site/post/646629be52aed773d4811a97)
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - Dify - LLMOps platform, Define your AI-native apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dify.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dify](https://nicelinks.site/redirect?url=https://dify.ai/) 是一款开源且易用的 LLMOps 平台，简单地创建和操作，基于 GPT-4 的 AI 原生应用；旨在帮助开发者更简单、更快速地构建 [AI](https://nicelinks.site/tags/AI) 应用。它提供了可视化的 [Prompt](https://nicelinks.site/tags/Prompt) 编排、运营、数据集管理等功能，可以让用户在几分钟内创建一个 AI 应用，或将 LLM 快速集成到现有应用中，进行持续运营和改进，创造一个真正有价值的 AI 应用。
+**推荐语**：[Dify](https://dify.ai/) 是一款开源且易用的 LLMOps 平台，简单地创建和操作，基于 GPT-4 的 AI 原生应用；旨在帮助开发者更简单、更快速地构建 [AI](https://nicelinks.site/tags/AI) 应用。它提供了可视化的 [Prompt](https://nicelinks.site/tags/Prompt) 编排、运营、数据集管理等功能，可以让用户在几分钟内创建一个 AI 应用，或将 LLM 快速集成到现有应用中，进行持续运营和改进，创造一个真正有价值的 AI 应用。
 
 Dify 的名字来源于 "Define" 和 "Modify" 这两个词，代表了帮助开发人员不断改进其 AI 应用程序的愿望。它具有如下功能特征：
 
@@ -80,7 +80,7 @@ Dify 提供了多种类型应用的可视化编排，应用可开箱即用，也
 
 ![倾城之链 - KeepingYouAwake: Prevents your Mac from going to sleep](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/keepingyouawake.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[KeepingYouAwake](https://nicelinks.site/redirect?url=https://keepingyouawake.app/) ，是适用于 [MacOS](https://nicelinks.site/tags/Mac) （版本 10.13 及更新版本）的小型菜单栏实用程序，可以防止您的 Mac 在预定义的持续时间内或只要它处于激活状态就进入睡眠模式。它具有如下功能特征：
+**推荐语**：[KeepingYouAwake](https://keepingyouawake.app/) ，是适用于 [MacOS](https://nicelinks.site/tags/Mac) （版本 10.13 及更新版本）的小型菜单栏实用程序，可以防止您的 Mac 在预定义的持续时间内或只要它处于激活状态就进入睡眠模式。它具有如下功能特征：
 
 - 一键防止 Mac 进入睡眠状态；
 - 预定义的激活持续时间；
@@ -113,7 +113,7 @@ KeepingYouAwake 的灵感来自 Lighthead  Software 的 [Caffeine](http://light
 
 ![倾城之链 - Orillusion | 专业 WebGPU 引擎](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.orillusion.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Orillusion](https://nicelinks.site/redirect?url=https://www.orillusion.com/) 是一款完全基于 [WebGPU](https://nicelinks.site/tags/WebGPU) 标准开发的纯 Web3D 渲染引擎；简单易用，功能强大，为 Web3D 提供完善开发工具。旨在实现桌面级渲染效果，支持在浏览器中对复杂场景进行 3D 渲染。它具有如下功能特征：
+**推荐语**：[Orillusion](https://www.orillusion.com/) 是一款完全基于 [WebGPU](https://nicelinks.site/tags/WebGPU) 标准开发的纯 Web3D 渲染引擎；简单易用，功能强大，为 Web3D 提供完善开发工具。旨在实现桌面级渲染效果，支持在浏览器中对复杂场景进行 3D 渲染。它具有如下功能特征：
 
 ### 简单易用
 
@@ -169,7 +169,7 @@ KeepingYouAwake 的灵感来自 Lighthead  Software 的 [Caffeine](http://light
 
 ![倾城之链 - Marked Documentation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/marked.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Marked.js](https://nicelinks.site/redirect?url=https://marked.js.org/) ， [Markdown](https://nicelinks.site/tags/Markdown) 解析器和编译器，专为速度而生。它具有以下功能特征：
+**推荐语**：[Marked.js](https://marked.js.org/) ， [Markdown](https://nicelinks.site/tags/Markdown) 解析器和编译器，专为速度而生。它具有以下功能特征：
 
 - ⬇️ 用于解析 [Markdown](https://nicelinks.site/tags/Markdown) 的低级编译器，无需长时间缓存或阻塞；
 - ⚖️ 轻量级，同时实现支持的风格和规格的所有 [Markdown](https://nicelinks.site/tags/Markdown) 功能；
@@ -204,7 +204,7 @@ DOMPurify.sanitize(
 
 ![倾城之链 - Wormhole - Simple, private file sharing](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wormhole.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wormhole](https://nicelinks.site/redirect?url=https://wormhole.app/) ：简单、私密的文件分享网站，让你能以**端到端加密**和自动过期链接的方式分享文件。 所以你可以确保你分享的文件私密且不会一直留在互联网上。它的使用也非常简单，只需选择要发送的文件，或者将文件拖放至网页。
+**推荐语**：[Wormhole](https://wormhole.app/) ：简单、私密的文件分享网站，让你能以**端到端加密**和自动过期链接的方式分享文件。 所以你可以确保你分享的文件私密且不会一直留在互联网上。它的使用也非常简单，只需选择要发送的文件，或者将文件拖放至网页。
 
 **端到端加密**可以防止你的文件误落他人之手。一切都在掌控之中：文件只能使用正确的密钥解密。 当分享一个 Wormhole 链接时，密钥自动包含在链接中，你可轻松地与你想要的人分享文件，而不是任何人。
 
@@ -212,7 +212,7 @@ DOMPurify.sanitize(
 
 Wormhole 使用端到端加密来保护您的文件，因此除了您和预期的接收者之外，任何人都不会共享或查看它们。24 小时后，文件将从服务器中永久删除。虫洞在离开浏览器之前使用 128 位 AES-GCM 加密技术对所有文件进行加密。您可以阅读有关 [安全设计的](https://wormhole.app/security) 更多信息以了解更多信息。
 
-[Wormhole](https://nicelinks.site/redirect?url=https://wormhole.app/) 支持上传文件最大可达 10 GB，对于 5 GB 以内的文件，Wormhole 将在服务器上存储 24 小时。对于大于 5 GB 的文件，Wormhole 使用点对点传输，直接从你的浏览器向接收者发送文件。 所以你需要保持页面打开直到接收者下载完毕。
+[Wormhole](https://wormhole.app/) 支持上传文件最大可达 10 GB，对于 5 GB 以内的文件，Wormhole 将在服务器上存储 24 小时。对于大于 5 GB 的文件，Wormhole 使用点对点传输，直接从你的浏览器向接收者发送文件。 所以你需要保持页面打开直到接收者下载完毕。
 
 除了网站，以及 Mac 应用程序，Wormhole 团队正在开发移动应用程序！同时，Wormhole 网站在移动设备（包括 iOS 和 Android）上运行良好。如果您想对 Wormhole 产品了解更多，可移步 [Wormhole | 经常问的问题](https://wormhole.app/faq) 。
 
@@ -226,7 +226,7 @@ Wormhole 使用端到端加密来保护您的文件，因此除了您和预期�
 
 ![倾城之链 - Phosphor Icons](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/phosphoricons.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Phosphor Icons](https://nicelinks.site/redirect?url=https://phosphoricons.com/) ，是一个灵活的图标系列，可用于界面、图表、演示文稿等诸多场景。它具有以下特征：
+**推荐语**：[Phosphor Icons](https://phosphoricons.com/) ，是一个灵活的图标系列，可用于界面、图表、演示文稿等诸多场景。它具有以下特征：
 
 - 1,248 个图标并且还在增加；
 - 6 种权重：**Thin**、**Light**、**Regular**、**Bold**、**Fill** 和 **Duotone**；
@@ -259,7 +259,7 @@ Wormhole 使用端到端加密来保护您的文件，因此除了您和预期�
 
 **注意**：由于命名空间可能与内置 HTML 元素发生冲突，Vue 库中的组件名称以 为前缀 `Ph`，但其他方面遵循相同的命名约定。Pascal 和 kebab-case 约定都可以在模板中使用。
 
-[Phosphor Icons](https://nicelinks.site/redirect?url=https://phosphoricons.com/) ：适合所有人的灵活图标系列；如果您对该项目感兴趣，可移步它在 [Github 的开源仓库](https://github.com/phosphor-icons) 以便了解更多。
+[Phosphor Icons](https://phosphoricons.com/) ：适合所有人的灵活图标系列；如果您对该项目感兴趣，可移步它在 [Github 的开源仓库](https://github.com/phosphor-icons) 以便了解更多。
 
 ── 出自[倾城之链 - Phosphor Icons](https://nicelinks.site/post/6463684752aed773d481011f)
 
@@ -271,7 +271,7 @@ Wormhole 使用端到端加密来保护您的文件，因此除了您和预期�
 
 ![倾城之链 - ChatGPT Next Web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/chatgpt.nextweb.fun.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ChatGPT Next Web](https://nicelinks.site/redirect?url=https://chatgpt.nextweb.fun/) ，一款开源项目，支持一键免费部署你的私人 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 网页应用，基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 所搭建。它具有以下**功能特征**：
+**推荐语**：[ChatGPT Next Web](https://chatgpt.nextweb.fun/) ，一款开源项目，支持一键免费部署你的私人 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 网页应用，基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 所搭建。它具有以下**功能特征**：
 
 - 在 1 分钟内使用 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) **免费一键部署**；
 - 完整的 [Markdown](https://nicelinks.site/tags/Markdown) 支持：LaTex 公式、Mermaid 流程图、代码高亮等等；
@@ -306,7 +306,7 @@ Wormhole 使用端到端加密来保护您的文件，因此除了您和预期�
 
 ![倾城之链 - Fingerprint Pro - Formerly FingerprintJS - Device fingerprinting API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fingerprint.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[FingerprintJS](https://nicelinks.site/redirect?url=https://fingerprint.com/) ，一款浏览器指纹识别库，也是面向大规模应用的设备身份平台，由最准确的设备指纹技术提供支持，使工程师能够防止欺诈、改善用户体验并更好地了解他们的流量。它具有以下功能特征：
+**推荐语**：[FingerprintJS](https://fingerprint.com/) ，一款浏览器指纹识别库，也是面向大规模应用的设备身份平台，由最准确的设备指纹技术提供支持，使工程师能够防止欺诈、改善用户体验并更好地了解他们的流量。它具有以下功能特征：
 
 ### 在所有接触点识别您的用户
 
@@ -340,7 +340,7 @@ FingerprintJS 是一个浏览器指纹识别库，它查询浏览器属性并从
 
 ![倾城之链 - Pixelcut – AI Product Photos – Free Design Tool](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pixelcut.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pixelcut.AI](https://nicelinks.site/redirect?url=https://www.pixelcut.ai/) 是一个免费的在线 [设计](https://nicelinks.site/tags/设计) 工具，可以轻松地为您的网店制作产品照片、广告等。轻松地从图像中删除背景或橡皮擦对象。该产品使用 AI 将创建精美的产品照片的速度提高 10 倍，而且使用体验就像拍照一样简单。使用手机上的 AI 驱动的编辑工具，您可以快速轻松地编辑您的照片以达到完美效果。
+**推荐语**：[Pixelcut.AI](https://www.pixelcut.ai/) 是一个免费的在线 [设计](https://nicelinks.site/tags/设计) 工具，可以轻松地为您的网店制作产品照片、广告等。轻松地从图像中删除背景或橡皮擦对象。该产品使用 AI 将创建精美的产品照片的速度提高 10 倍，而且使用体验就像拍照一样简单。使用手机上的 AI 驱动的编辑工具，您可以快速轻松地编辑您的照片以达到完美效果。
 
 ── 出自[倾城之链 - Pixelcut – AI Product Photos – Free Design Tool](https://nicelinks.site/post/64609b7452aed773d480ee2a)
 
@@ -352,9 +352,9 @@ FingerprintJS 是一个浏览器指纹识别库，它查询浏览器属性并从
 
 ![倾城之链 - Chains - The Ultimate Multichain Launchpad and Cryptocurrency Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/chains.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Chains](https://nicelinks.site/redirect?url=https://chains.com/) 是一个多链多产品的 MetaFi 平台，将 CeFi、Web3 和 NFT 功能结合在一个账户下。Chains 正在开发一系列产品和服务，旨在简化您使用加密货币的方式。使用一个 [Chains.com](https://chains.com/) 帐户，您可以连接到一堆产品，让您赚取、交易、消费和投资您想要的任何货币——无需学习与底层技术交互。
+**推荐语**：[Chains](https://chains.com/) 是一个多链多产品的 MetaFi 平台，将 CeFi、Web3 和 NFT 功能结合在一个账户下。Chains 正在开发一系列产品和服务，旨在简化您使用加密货币的方式。使用一个 [Chains.com](https://chains.com/) 帐户，您可以连接到一堆产品，让您赚取、交易、消费和投资您想要的任何货币——无需学习与底层技术交互。
 
-[Chains Launchpad](https://nicelinks.site/redirect?url=https://chains.com/apply) 现在接受新的代币销售申请。Chains 拥有超过 500,000 名注册用户、KYC 和 SEC 506c 合规性，欢迎希望通过其最先进的零售友好平台发行和销售代币的项目。
+[Chains Launchpad](https://chains.com/apply) 现在接受新的代币销售申请。Chains 拥有超过 500,000 名注册用户、KYC 和 SEC 506c 合规性，欢迎希望通过其最先进的零售友好平台发行和销售代币的项目。
 
 几年前，蛮多人高喊着“Web2 已死，Web3 万岁”的时代。但现状却是，Web3 不仅没有杀死 Web2，还陷入了 Web2 用户过不来的困境。 创新和颠覆总是与用户密不可分。
 

@@ -10,7 +10,7 @@
 
 ![倾城之链 - Pagefind | Pagefind — Static low-bandwidth search at scale](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pagefind.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pagefind](https://nicelinks.site/redirect?url=https://pagefind.app/) 是一个完全静态的搜索库，旨在为大型网站提供高效 [搜索](https://nicelinks.site/tags/搜索) 功能，同时尽可能减少用户带宽的使用，并且不需要托管任何基础设施。它适用于在网站构建后运行，支持多种网站框架，如 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 、Eleventy、 [Jekyll](https://nicelinks.site/post/5c4c59c1a5957e07a40b3118) 、 [Next](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 、 [SvelteKit](https://nicelinks.site/post/62ea86c3bea86d1ae27b7bd2) 等。Pagefind 的安装过程相对简单，只需要一个包含网站构建静态文件的文件夹，大多数情况下无需额外配置即可开始使用。
+**推荐语**：[Pagefind](https://pagefind.app/) 是一个完全静态的搜索库，旨在为大型网站提供高效 [搜索](https://nicelinks.site/tags/搜索) 功能，同时尽可能减少用户带宽的使用，并且不需要托管任何基础设施。它适用于在网站构建后运行，支持多种网站框架，如 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 、Eleventy、 [Jekyll](https://nicelinks.site/post/5c4c59c1a5957e07a40b3118) 、 [Next](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 、 [SvelteKit](https://nicelinks.site/post/62ea86c3bea86d1ae27b7bd2) 等。Pagefind 的安装过程相对简单，只需要一个包含网站构建静态文件的文件夹，大多数情况下无需额外配置即可开始使用。
 
 建立索引后，Pagefind 将静态搜索包添加到您构建的文件中，这公开了可在您网站上的任何位置使用的 JavaScript 搜索 API。 Pagefind 还提供了无需配置即可使用的预构建 UI。 （您可以在本页顶部看到预构建的 UI）。
 
@@ -50,7 +50,7 @@
 
 Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览器中搜索，同时消耗尽可能少的带宽。 Pagefind 的搜索索引被分成多个块，因此在浏览器中进行搜索只需要加载搜索索引的一小部分。 Pagefind 可以在 10,000 个页面的站点上运行全文搜索，总网络负载不超过 300kB，包括 Pagefind 库本身。对于大多数站点，这将接近 100kB。
 
-近期，基于 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 的文档网站框架 ──[Starlight](https://nicelinks.site/redirect?url=https://github.com/withastro/starlight) ，其内置站内检索，使用的就是 `Pagefind`，体验了下，效果令人非常满意。如果您对这款搜索库感兴趣，可移步至 [Pagefind 在 Github 的开源仓库](https://github.com/cloudcannon/pagefind) ，从而了解更多。
+近期，基于 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 的文档网站框架 ──[Starlight](https://github.com/withastro/starlight) ，其内置站内检索，使用的就是 `Pagefind`，体验了下，效果令人非常满意。如果您对这款搜索库感兴趣，可移步至 [Pagefind 在 Github 的开源仓库](https://github.com/cloudcannon/pagefind) ，从而了解更多。
 
 ── 出自[倾城之链 - Pagefind | Pagefind — Static low-bandwidth search at scale](https://nicelinks.site/post/65d719adf4e2d519ef5c949e)
 
@@ -62,7 +62,7 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 
 ![倾城之链 - Gemini - Google DeepMind](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gemini.google.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gemini](https://nicelinks.site/redirect?url=https://gemini.google.com/) 是一个多模式语言模型的系列，由谷歌 DeepMind 开发，是 LaMDA 的后继，属于 PaLM2 系列的新一代。Gemini 包含 Gemini Ultra、Gemini Pro 和 Gemini Nano，于 2023 年 12 月 6 日面世，被定位为与 [OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 的 GPT-4 抗衡的产品系列。
+**推荐语**：[Gemini](https://gemini.google.com/) 是一个多模式语言模型的系列，由谷歌 DeepMind 开发，是 LaMDA 的后继，属于 PaLM2 系列的新一代。Gemini 包含 Gemini Ultra、Gemini Pro 和 Gemini Nano，于 2023 年 12 月 6 日面世，被定位为与 [OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 的 GPT-4 抗衡的产品系列。
 
 2023 年 12 月 6 日,谷歌在一次虚拟记者招待会上宣布推出了“Gemini 1.0”。它由三个模型组成: Gemini Ultra—用于“高度复杂的任务”，Gemini Pro—用于“广泛的任务”, 以及 Gemini Nano—用于“终端上设备的任务”。
 
@@ -72,7 +72,7 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 - **Gemini Pro**：性能最佳的模型，具有适用于各种文本和图像推理任务的功能。
 - **Gemini Nano**：专为设备上体验而构建的最高效模型，支持离线用例。免费利用设备处理能力。
 
-基于 [Gemini](https://nicelinks.site/redirect?url=https://gemini.google.com/) ，您可获取创意灵感，提升工作效率；轻松对话，让 Google AI 帮你写作、规划、学习或处理其他事务。但，即便开启科|学上网，**Gemini 目前不支持在中国地区**使用，如果您对其感兴趣，可以基于 [Gemini 素问智聊斋](https://chatgpt.nicelinks.site/gemini) （`Gemini Pro` 模型）来体验。
+基于 [Gemini](https://gemini.google.com/) ，您可获取创意灵感，提升工作效率；轻松对话，让 Google AI 帮你写作、规划、学习或处理其他事务。但，即便开启科|学上网，**Gemini 目前不支持在中国地区**使用，如果您对其感兴趣，可以基于 [Gemini 素问智聊斋](https://chatgpt.nicelinks.site/gemini) （`Gemini Pro` 模型）来体验。
 
 ── 出自[倾城之链 - Gemini - Google DeepMind](https://nicelinks.site/post/65d4a90ff4e2d519ef5c862b)
 
@@ -84,7 +84,7 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 
 ![倾城之链 - AlternativeTo - Crowdsourced software recommendations](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/alternativeto.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AlternativeTo.net](https://nicelinks.site/redirect?url=https://alternativeto.net/) 是一个可帮助人们找到自己喜欢或者讨厌的产品的其它替代品的网站。它的特点在于：您不用知道所有软件的名称，知道开始使用的软件，就可以查找功能近似的「替代品」。比如您用的是 `excel`，它会推荐 LibreOffice Calc、Google Sheets 等替代品。
+**推荐语**：[AlternativeTo.net](https://alternativeto.net/) 是一个可帮助人们找到自己喜欢或者讨厌的产品的其它替代品的网站。它的特点在于：您不用知道所有软件的名称，知道开始使用的软件，就可以查找功能近似的「替代品」。比如您用的是 `excel`，它会推荐 LibreOffice Calc、Google Sheets 等替代品。
 
 ### **产品概述**
 
@@ -111,7 +111,7 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 3.  **特定需求**：用户可以根据自己的特定需求（如操作系统兼容性、隐私保护等）寻找合适的软件。
 4.  **技术趋势**：了解当前流行的软件和新兴技术，保持与行业发展同步。
 
-[AlternativeTo.net](https://nicelinks.site/redirect?url=https://alternativeto.net/) 的核心价值在于它的社区驱动特性，它依赖于用户的参与和贡献来提供最新、最相关的软件替代品信息。通过这种方式，AlternativeTo 成为了一个强大的资源，帮助用户做出更明智的软件选择。真实体验，发现它给出的检索结果，并没有那么“智能”，比如输入 [Alfred](https://nicelinks.site/post/5ae926e67b44827edbc5c69a) ，它并没有 `GPT4` 那般给出更令人满意的结果： [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 。
+[AlternativeTo.net](https://alternativeto.net/) 的核心价值在于它的社区驱动特性，它依赖于用户的参与和贡献来提供最新、最相关的软件替代品信息。通过这种方式，AlternativeTo 成为了一个强大的资源，帮助用户做出更明智的软件选择。真实体验，发现它给出的检索结果，并没有那么“智能”，比如输入 [Alfred](https://nicelinks.site/post/5ae926e67b44827edbc5c69a) ，它并没有 `GPT4` 那般给出更令人满意的结果： [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 。
 
 ── 出自[倾城之链 - AlternativeTo - Crowdsourced software recommendations](https://nicelinks.site/post/65d49a56f4e2d519ef5c8551)
 
@@ -125,7 +125,7 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 
 ![倾城之链 - Learn foreign words with language flashcards | kartet](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/karteto.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Kartet](https://nicelinks.site/redirect?url=https://karteto.com/) ，高效、有趣地掌握外语单词；学习外语单词可能需要花费大量时间并一遍又一遍地重复它们。它必须有趣、有趣，否则效果不会很好。Karteto 通过使用**间隔重复**（在正确的时间学习）、抽认卡和有趣的设计来解决这个问题。Kartet 支持 Android、iOS 等平台，它支持一周免费试用，体验还不错。
+**推荐语**：[Kartet](https://karteto.com/) ，高效、有趣地掌握外语单词；学习外语单词可能需要花费大量时间并一遍又一遍地重复它们。它必须有趣、有趣，否则效果不会很好。Karteto 通过使用**间隔重复**（在正确的时间学习）、抽认卡和有趣的设计来解决这个问题。Kartet 支持 Android、iOS 等平台，它支持一周免费试用，体验还不错。
 
 > **间隔重复**是一种随着时间的推移优化信息保留的学习技术。它基于这样的原则：复习材料的时间对于长期记忆保留至关重要。该技术涉及以逐渐增加的间隔回顾信息，开始时重复更频繁，随着材料变得更加熟悉，间隔更长。
 

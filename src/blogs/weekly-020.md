@@ -10,7 +10,7 @@
 
 ![倾城之链 - The Agile OS for OKRs | Mooncamp](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mooncamp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mooncamp](https://nicelinks.site/redirect?url=https://mooncamp.com/) OKR 的敏捷操作系统，用于发展敏捷、参与和高绩效的团队。[Mooncamp](https://nicelinks.site/redirect?url=https://mooncamp.com/) 通过目标和 OKR 提高整个组织的透明度、一致性和生产力。让每个人都专注于产生最大影响的工作。[Mooncamp](https://nicelinks.site/redirect?url=https://mooncamp.com/) 通过定期的进度更新和情绪检查，召开更高效、准备更充分的会议。公开共享更新以创建彻底的透明度。通过将 [Mooncamp](https://nicelinks.site/redirect?url=https://mooncamp.com/) 连接到您的 SSO 提供商、最喜欢的 HRIS 和工作流应用程序，为您和您的员工创造无缝体验。
+**推荐语**：[Mooncamp](https://mooncamp.com/) OKR 的敏捷操作系统，用于发展敏捷、参与和高绩效的团队。[Mooncamp](https://mooncamp.com/) 通过目标和 OKR 提高整个组织的透明度、一致性和生产力。让每个人都专注于产生最大影响的工作。[Mooncamp](https://mooncamp.com/) 通过定期的进度更新和情绪检查，召开更高效、准备更充分的会议。公开共享更新以创建彻底的透明度。通过将 [Mooncamp](https://mooncamp.com/) 连接到您的 SSO 提供商、最喜欢的 HRIS 和工作流应用程序，为您和您的员工创造无缝体验。
 
 - **安全又可靠**：传输和静态数据加密，保护 SSO、GDPR 安全措施。
 - **世界一流的支持**：我们的客户成功团队随时为您服务：通过聊天、电子邮件或电话。
@@ -28,7 +28,7 @@
 
 ![倾城之链 - Joey - Notion extension block](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/joey.team.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Joey](https://nicelinks.site/redirect?url=https://joey.team/) ，通过 7 个交互式块，使您的 Notion 页面具有交互性（参与度），免费可以使用。此外，您可以通过电子邮件发送 Notion 页面，以便更多人可以看到它。
+**推荐语**：[Joey](https://joey.team/) ，通过 7 个交互式块，使您的 Notion 页面具有交互性（参与度），免费可以使用。此外，您可以通过电子邮件发送 Notion 页面，以便更多人可以看到它。
 
 - 💬 带有评论和问答的对话：任何人都可以发表匿名评论。无需登录。
 - 📮 访客意见表格及问卷调查：按顺序向您的用户，询问多个问题。
@@ -48,7 +48,7 @@
 
 ![倾城之链 - 唯美女生 丨 一双发现美的眼睛！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.vmgirls.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[唯美女生](https://nicelinks.site/redirect?url=https://www.vmgirls.com/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，主要用来收集分享原创高清少女美图（小姐姐、轻私房）；其热门标签有小清新、小姐姐、妹纸、轻私房、清纯、青春、摄影、女神、可爱等等。如果您是「清纯美少女」爱好者，那么[唯美女生](https://nicelinks.site/redirect?url=https://www.vmgirls.com/)是值得关注的网站。
+**推荐语**：[唯美女生](https://www.vmgirls.com/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，主要用来收集分享原创高清少女美图（小姐姐、轻私房）；其热门标签有小清新、小姐姐、妹纸、轻私房、清纯、青春、摄影、女神、可爱等等。如果您是「清纯美少女」爱好者，那么[唯美女生](https://www.vmgirls.com/)是值得关注的网站。
 
 ── 出自[倾城之链 - 唯美女生 丨 一双发现美的眼睛！](https://nicelinks.site/post/60dc6d95d234bd05e2ef0f9e)
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - SVGator: Free SVG Animation Creator Online - No Coding](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.svgator.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SVGator](https://nicelinks.site/redirect?url=https://www.svgator.com/)，一款轻松创建 SVG 动画的工具，支持**免费**使用；基于 [SVGator](https://nicelinks.site/redirect?url=https://www.svgator.com/)，您可以在线创建令人印象深刻的 SVG 动画，而无需任何编码技能；将它们轻松添加到您的网站。它具有以下优势：
+**推荐语**：[SVGator](https://www.svgator.com/)，一款轻松创建 SVG 动画的工具，支持**免费**使用；基于 [SVGator](https://www.svgator.com/)，您可以在线创建令人印象深刻的 SVG 动画，而无需任何编码技能；将它们轻松添加到您的网站。它具有以下优势：
 
 - **控制它的启动方式**：将动画设置为在单击、滚动等时开始，通过交互式 SVG 动画呈现完整的用户体验，使用始终一键即可完成的无忧动画工具。
 - **选择结束方式**：控制第二次单击或鼠标移开时发生的情况，使您的动画更具吸引力。
@@ -73,7 +73,7 @@
 - **完全时序控制**：使用缓动功能完全控制您的动画：使用预设或自定义缓动图。
 - **无缝工作流程**：微调 SVG 动画的时间、路径和速度。在几分钟内添加、删除、拖动或复制关键帧。
 
-无论您是完全的初学者还是经验丰富的专业人士，都可以毫不费力地开始您的下一个 SVG 动画项目。如果您想了解更多，可以参见 [About SVGator](https://nicelinks.site/redirect?url=https://www.svgator.com/about-us)。
+无论您是完全的初学者还是经验丰富的专业人士，都可以毫不费力地开始您的下一个 SVG 动画项目。如果您想了解更多，可以参见 [About SVGator](https://www.svgator.com/about-us)。
 
 ── 出自[倾城之链 - SVGator: Free SVG Animation Creator Online - No Coding](https://nicelinks.site/post/60d8443ed234bd05e2ef0f9c)
 
@@ -87,7 +87,7 @@
 
 ![倾城之链 - 古诗文网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gswen.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[古诗文网](https://nicelinks.site/redirect?url=https://www.gswen.cn/)提供古代经典古诗文的原文和翻译，包括唐诗三百首、宋词精选、元曲精选等；[古诗文网](https://nicelinks.site/redirect?url=https://www.gswen.cn/)站分古诗、名句、诗人、**古籍**、历史、知识、成语、文章等方向，还按照类型、诗人、朝代、形式等，做了划分；侧边栏提供有热门诗句、热门名句、古文典籍、热门成语等模块；当然也提供了检索功能。值得一提的是，该网站，不仅提供原文、译文、注释、赏析，还提供有「背写」、「拼音」、作者介绍等等，实在是业界楷模。“**酒逢知己饮，诗向会人吟**“、“谈笑有鸿儒，往来无白丁“，如果您也是「古诗文」爱好者，那么[古诗文网](https://nicelinks.site/redirect?url=https://www.gswen.cn/)是您非常值得关注的网站。
+**推荐语**：[古诗文网](https://www.gswen.cn/)提供古代经典古诗文的原文和翻译，包括唐诗三百首、宋词精选、元曲精选等；[古诗文网](https://www.gswen.cn/)站分古诗、名句、诗人、**古籍**、历史、知识、成语、文章等方向，还按照类型、诗人、朝代、形式等，做了划分；侧边栏提供有热门诗句、热门名句、古文典籍、热门成语等模块；当然也提供了检索功能。值得一提的是，该网站，不仅提供原文、译文、注释、赏析，还提供有「背写」、「拼音」、作者介绍等等，实在是业界楷模。“**酒逢知己饮，诗向会人吟**“、“谈笑有鸿儒，往来无白丁“，如果您也是「古诗文」爱好者，那么[古诗文网](https://www.gswen.cn/)是您非常值得关注的网站。
 
 ── 出自[倾城之链 - 古诗文网](https://nicelinks.site/post/60d8375fd234bd05e2ef0f99)
 
@@ -101,7 +101,7 @@
 
 ![倾城之链 - 设计工具集——收集最好用的设计工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.designtools.cc.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DesignTools 设计工具集](https://nicelinks.site/redirect?url=https://www.designtools.cc/)是基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 所构建的设计领域导航网站，旨在：**收集最好用的设计工具**。得益于互联网行业的蓬勃发展，这几年设计工具如雨后春笋一般冒出。随着竞争越来越激烈，产品迭代节奏也越来越快，而一款合适的设计工具，能帮助设计师提高效率，把更多的时间专注于用户和业务上。为了能够帮助设计师更快地选择合适的工具，[Jun](https://nicelinks.site/redirect?url=https://juuun.io/) 做了 [DesignTools 设计工具集](https://nicelinks.site/redirect?url=https://www.designtools.cc/)，收集所有设计相关的工具，并详细介绍它们。
+**推荐语**：[DesignTools 设计工具集](https://www.designtools.cc/)是基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 所构建的设计领域导航网站，旨在：**收集最好用的设计工具**。得益于互联网行业的蓬勃发展，这几年设计工具如雨后春笋一般冒出。随着竞争越来越激烈，产品迭代节奏也越来越快，而一款合适的设计工具，能帮助设计师提高效率，把更多的时间专注于用户和业务上。为了能够帮助设计师更快地选择合适的工具，[Jun](https://juuun.io/) 做了 [DesignTools 设计工具集](https://www.designtools.cc/)，收集所有设计相关的工具，并详细介绍它们。
 
 ── 出自[倾城之链 - 设计工具集——收集最好用的设计工具](https://nicelinks.site/post/60d6ff63d234bd05e2ef0f97)
 

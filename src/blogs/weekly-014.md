@@ -12,7 +12,7 @@
 
 ![倾城之链 - flomo · 浮墨笔记](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/flomoapp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[flomo · 浮墨笔记](https://nicelinks.site/redirect?url=https://flomoapp.com/)是一款思维工具（Tools for Thought），可用来帮助收集灵感，积累知识，帮助自己**更好地思考**，以及**增援未来的自己**。其官方描述说：可像发微博一样记笔记，记录你想法的川流。不同于现有的笔记工具强调文档和写作，[flomo](https://nicelinks.site/redirect?url=https://flomoapp.com/) 更专注于用卡片的方式记录，锻炼你的思维能力和决策能力，为未来积累更多的知识和想法。 `flomo`，全平台覆盖，还支持微信服务号输入。如果您想了解更多，如 Flomo 如何使用及背后理念，可以参见 [Flomo 常见问题](https://nicelinks.site/redirect?url=https://help.flomoapp.com/)。
+**推荐语**：[flomo · 浮墨笔记](https://flomoapp.com/)是一款思维工具（Tools for Thought），可用来帮助收集灵感，积累知识，帮助自己**更好地思考**，以及**增援未来的自己**。其官方描述说：可像发微博一样记笔记，记录你想法的川流。不同于现有的笔记工具强调文档和写作，[flomo](https://flomoapp.com/) 更专注于用卡片的方式记录，锻炼你的思维能力和决策能力，为未来积累更多的知识和想法。 `flomo`，全平台覆盖，还支持微信服务号输入。如果您想了解更多，如 Flomo 如何使用及背后理念，可以参见 [Flomo 常见问题](https://help.flomoapp.com/)。
 
 ── 出自[倾城之链 - flomo · 浮墨笔记](https://nicelinks.site/post/60a688d9536c1a217d53b947)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - Best Website Gallery – Web Design Inspiration](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bestwebsite.gallery.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Best Website Gallery](https://nicelinks.site/redirect?url=https://www.mingyantong.com/)一个展示优秀网站设计作品创意灵感社区。创建该站的作者 [David](https://nicelinks.site/redirect?url=http://davidhellmann.com/) 是名网页设计师，其宗旨是一直致力于收集和分享互联网中最具创意的网站作品，通过标**签分门别类**，支持颜色、主题、样式、机构等等查找自己有需要的网站，让有需要的网页设计师能够学习到优秀的网站如何制作。对于网页设计师、前端开发工程师，观摩这些国外优秀的网站设计作品，有助于提高设计眼界。同类型的网站，还有 [Awwwards](https://nicelinks.site/post/5a058b54842e2a7e1a13d56a) 等。
+**推荐语**：[Best Website Gallery](https://www.mingyantong.com/)一个展示优秀网站设计作品创意灵感社区。创建该站的作者 [David](=http://davidhellmann.com/) 是名网页设计师，其宗旨是一直致力于收集和分享互联网中最具创意的网站作品，通过标**签分门别类**，支持颜色、主题、样式、机构等等查找自己有需要的网站，让有需要的网页设计师能够学习到优秀的网站如何制作。对于网页设计师、前端开发工程师，观摩这些国外优秀的网站设计作品，有助于提高设计眼界。同类型的网站，还有 [Awwwards](https://nicelinks.site/post/5a058b54842e2a7e1a13d56a) 等。
 
 ── 出自[倾城之链 - Best Website Gallery – Web Design Inspiration](https://nicelinks.site/post/60a52dc8c9fa1b1e24b503e4)
 
@@ -38,9 +38,9 @@
 
 ![倾城之链 - 书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读与下载，取之于猿用之于猿！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bookstack.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[书栈网](https://nicelinks.site/redirect?url=https://www.bookstack.cn/)（书籍客栈，英文名是`BookStack`），IT 程序员互联网开源编程书籍阅读分享；它既是一个开源书籍和文档分享站点，也是一套使用 Go 语言开发的开源程序，助您更好地实现文档阅读管理。其 Slogan 是：“分享知识，共享智慧；知识，因分享，传承久远！“。
+**推荐语**：[书栈网](https://www.bookstack.cn/)（书籍客栈，英文名是`BookStack`），IT 程序员互联网开源编程书籍阅读分享；它既是一个开源书籍和文档分享站点，也是一套使用 Go 语言开发的开源程序，助您更好地实现文档阅读管理。其 Slogan 是：“分享知识，共享智慧；知识，因分享，传承久远！“。
 
-[书栈网](https://nicelinks.site/redirect?url=https://www.bookstack.cn/) 对内容做了分类索引，有前端、后端、移动端、数据库、云计算&大数据、网络&系统&运维、美工&设计、游戏开发、硬件&互联网、产品&运营&IDE、心灵鸡汤&必杀技等；除了分类，[书栈网](https://nicelinks.site/redirect?url=https://www.bookstack.cn/)还提供有**发现**和**榜单**模块，可以看下热门书籍或网站。当然，您发现有好书，也可以提交收录。值得一提的是，该网站开源，并提供有小程序、APP 等版本。
+[书栈网](https://www.bookstack.cn/) 对内容做了分类索引，有前端、后端、移动端、数据库、云计算&大数据、网络&系统&运维、美工&设计、游戏开发、硬件&互联网、产品&运营&IDE、心灵鸡汤&必杀技等；除了分类，[书栈网](https://www.bookstack.cn/)还提供有**发现**和**榜单**模块，可以看下热门书籍或网站。当然，您发现有好书，也可以提交收录。值得一提的是，该网站开源，并提供有小程序、APP 等版本。
 
 ── 出自[倾城之链 - 书栈网 · BookStack\_程序员 IT 互联网开源编程书籍免费阅读与下载，取之于猿用之于猿！](https://nicelinks.site/post/60a50c7322e2eb43fca1a9f5)
 
@@ -54,7 +54,7 @@
 
 ![倾城之链 - 吉他堂-吉他教程,吉他视频教学,吉他谱分享平台!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.jitatang.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[吉他堂](https://nicelinks.site/redirect?url=https://www.jitatang.com/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的网站，主要用以承载、整合优质吉他相关内容，并向广大吉他爱好者分享；目前开辟**经验**（学习吉他弹奏经验，吉他进阶技巧）、**曲谱**（流行热门歌曲图片谱、六线谱）、**教学**（热门歌曲吉他教学）、视频（优秀吉他弹唱、指弹作品）、课堂（面向初学者的吉他零基础连载视频教学）等内容。如果您或者您的孩子，是吉他 🎸 爱好者，[吉他堂](https://nicelinks.site/redirect?url=https://www.jitatang.com/)是您值得关注的网站，您可在这里学习吉他弹奏，可以分享吉他演奏，也可以发布曲谱。
+**推荐语**：[吉他堂](https://www.jitatang.com/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的网站，主要用以承载、整合优质吉他相关内容，并向广大吉他爱好者分享；目前开辟**经验**（学习吉他弹奏经验，吉他进阶技巧）、**曲谱**（流行热门歌曲图片谱、六线谱）、**教学**（热门歌曲吉他教学）、视频（优秀吉他弹唱、指弹作品）、课堂（面向初学者的吉他零基础连载视频教学）等内容。如果您或者您的孩子，是吉他 🎸 爱好者，[吉他堂](https://www.jitatang.com/)是您值得关注的网站，您可在这里学习吉他弹奏，可以分享吉他演奏，也可以发布曲谱。
 
 ── 出自[倾城之链 - 吉他堂-吉他教程,吉他视频教学,吉他谱分享平台!](https://nicelinks.site/post/60a503e522e2eb43fca1a9f3)
 
@@ -68,7 +68,7 @@
 
 ![倾城之链 - 阿酷导航 - 让世界再酷一点！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.a.cool.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[阿酷导航](https://nicelinks.site/redirect?url=https://www.a.cool/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 驱动，初衷只是想做个自用的网址导航站；在建站完善的过程中，搜集到很多站点、软件等优质资源，包含新闻资讯、内容分享、知识学习、效率提升、办公资源、在线工具等，可以为您也带来些便利。该网站也支持用户「推荐」，如果您发现好网站、好软件，都可前往提交分享。
+**推荐语**：[阿酷导航](https://www.a.cool/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 驱动，初衷只是想做个自用的网址导航站；在建站完善的过程中，搜集到很多站点、软件等优质资源，包含新闻资讯、内容分享、知识学习、效率提升、办公资源、在线工具等，可以为您也带来些便利。该网站也支持用户「推荐」，如果您发现好网站、好软件，都可前往提交分享。
 
 ── 出自[倾城之链 - 阿酷导航 - 让世界再酷一点！](https://nicelinks.site/post/60a3d12022e2eb43fca1a9ed)
 
@@ -82,7 +82,7 @@
 
 ![倾城之链 - 宝塔面板 - 简单好用的Linux/Windows服务器运维管理面板](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bt.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[宝塔](https://nicelinks.site/redirect?url=https://www.bt.cn/)：简单好用的服务器运维面板。支持一键 LAMP / LNMP /集群/监控/网站/ FTP /数据库/ JAVA 等 100 多 项服务器管理功能。。隶属广东堡塔安全技术有限公司（正式成立于 2017 年），专注于服务器运维效率及运维安全领域，主要为中小型企业及政企单位还有需要使用服务器的团队提供新一代的服务器运维产品和服务。凭借持续的研发投入及不断的创新迭代，堡塔已发展为产品体系比较完整的的服务器运维软件供应商。至今，堡塔产品经过了 200 多次的版本迭代发布，国内共有近 400 万的服务器安装量，被 1000 多个中大型企业及政企选择使用，同时堡塔发布的海外版本也被全球 200 多个国家的用户选择并使用。
+**推荐语**：[宝塔](https://www.bt.cn/)：简单好用的服务器运维面板。支持一键 LAMP / LNMP /集群/监控/网站/ FTP /数据库/ JAVA 等 100 多 项服务器管理功能。。隶属广东堡塔安全技术有限公司（正式成立于 2017 年），专注于服务器运维效率及运维安全领域，主要为中小型企业及政企单位还有需要使用服务器的团队提供新一代的服务器运维产品和服务。凭借持续的研发投入及不断的创新迭代，堡塔已发展为产品体系比较完整的的服务器运维软件供应商。至今，堡塔产品经过了 200 多次的版本迭代发布，国内共有近 400 万的服务器安装量，被 1000 多个中大型企业及政企选择使用，同时堡塔发布的海外版本也被全球 200 多个国家的用户选择并使用。
 
 ── 出自[倾城之链 - 宝塔面板 - 简单好用的 Linux/Windows 服务器运维管理面板](https://nicelinks.site/post/60a2544b22e2eb43fca1a9eb)
 
@@ -96,9 +96,9 @@
 
 ![倾城之链 - 理工酷 - 工程师的新技术社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ligongku.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[理工酷](https://nicelinks.site/redirect?url=https://www.ligongku.com/)是面向工程师的新技术社区，聚焦数字化、智能化技术内容。其初心是为了帮助工程师更加高效地获取有价值的优质内容，以免他们重复造轮子。这里的工程师既包含 IT 领域的工程师，也包含机械、土木、电子、电气等领域的工程师。目前的内容聚焦于这些领域中的数字化、智能化部分。[理工酷](https://nicelinks.site/redirect?url=https://www.ligongku.com/)内容包含源代码、图纸、模型、纯技术类报告、毕业设计、课程设计等，目前社区收录 3 万多条内容，98% 以上均为免费。
+**推荐语**：[理工酷](https://www.ligongku.com/)是面向工程师的新技术社区，聚焦数字化、智能化技术内容。其初心是为了帮助工程师更加高效地获取有价值的优质内容，以免他们重复造轮子。这里的工程师既包含 IT 领域的工程师，也包含机械、土木、电子、电气等领域的工程师。目前的内容聚焦于这些领域中的数字化、智能化部分。[理工酷](https://www.ligongku.com/)内容包含源代码、图纸、模型、纯技术类报告、毕业设计、课程设计等，目前社区收录 3 万多条内容，98% 以上均为免费。
 
-为了激发原创上传者的积极性，[理工酷](https://nicelinks.site/redirect?url=https://www.ligongku.com/)支持用户可以为原创优质内容设定小额定价，每当用户支付下载后，上传者可以获得绝大部分收益（社区抽取小部分收益用于服务器维护等费用）。另外，社区还有技术问答的版块，支持用户像知乎那样进行问答交流，但仅限于技术相关的领域。如果您是工程师，或高校的理工科师生，[理工酷](https://nicelinks.site/redirect?url=https://www.ligongku.com/)是您值得关注、并加以使用的网站。
+为了激发原创上传者的积极性，[理工酷](https://www.ligongku.com/)支持用户可以为原创优质内容设定小额定价，每当用户支付下载后，上传者可以获得绝大部分收益（社区抽取小部分收益用于服务器维护等费用）。另外，社区还有技术问答的版块，支持用户像知乎那样进行问答交流，但仅限于技术相关的领域。如果您是工程师，或高校的理工科师生，[理工酷](https://www.ligongku.com/)是您值得关注、并加以使用的网站。
 
 ── 出自[倾城之链 - 理工酷 - 工程师的新技术社区](https://nicelinks.site/post/60a1f28422e2eb43fca1a9e9)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。

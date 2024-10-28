@@ -12,7 +12,7 @@
 
 ![倾城之链 - Buy Me a Coffee](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.buymeacoffee.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Buy Me a Coffee](https://nicelinks.site/redirect?url=https://www.buymeacoffee.com/)（“给我买咖啡”），一个连接**创作者**与支持者的平台；是创作者接受粉丝一次性和每月支持的一种很好的方式。无需将 Patreon、Mailchimp 和捐赠按钮等一堆应用程序拼凑在一起，您就可以接受支持、会员资格，并与您的粉丝建立直接关系。您的粉丝会喜欢它的。**一个支持者抵得上一千个追随者**。基于 [Buy Me a Coffee](https://nicelinks.site/redirect?url=https://www.buymeacoffee.com/) 这个平台，您可以方便接受捐款，卖任何你喜欢的东西。这比你想象的要容易。它免费即可使用，只需起个名字，即可开始你的旅程；**Buy Me a Coffee**，专为**创作者**，不适合企业。 它具有以下功能特征：
+**推荐语**：[Buy Me a Coffee](https://www.buymeacoffee.com/)（“给我买咖啡”），一个连接**创作者**与支持者的平台；是创作者接受粉丝一次性和每月支持的一种很好的方式。无需将 Patreon、Mailchimp 和捐赠按钮等一堆应用程序拼凑在一起，您就可以接受支持、会员资格，并与您的粉丝建立直接关系。您的粉丝会喜欢它的。**一个支持者抵得上一千个追随者**。基于 [Buy Me a Coffee](https://www.buymeacoffee.com/) 这个平台，您可以方便接受捐款，卖任何你喜欢的东西。这比你想象的要容易。它免费即可使用，只需起个名字，即可开始你的旅程；**Buy Me a Coffee**，专为**创作者**，不适合企业。 它具有以下功能特征：
 
 - 不称他们为“客户”或交易，他们是你的**支持者**。
 - 您会立即收到付款到您的银行帐户；不再有 30 天的延误。
@@ -55,7 +55,7 @@ Svelte 将您的代码编译为微小的、无框架的 Vanilla JS——您的�
 
 > 这个框架的 API 设计是从 Ractive 那边传承过来的（自然跟 Vue 也非常像），但这不是重点。Svelte 的核心思想在于『通过静态编译减少框架运行时的代码量』。举例来说，当前的框架无论是 React Angular 还是 Vue，不管你怎么编译，使用的时候必然需要『引入』框架本身，也就是所谓的运行时 (runtime)。但是用 Svelte 就不一样，一个 Svelte 组件编译了以后，所有需要的运行时代码都包含在里面了，除了引入这个组件本身，你不需要再额外引入一个所谓的框架运行时！
 
-在 2019 年时候，有简单调研过 Svelte，书写页面和逻辑，非常快捷且灵活；迄今尚未在应用中真正使用，日后有机会，很想尝试基于 Svelte 来开发 Web 应用。Svelte [在 Github 开源](https://nicelinks.site/redirect?url=https://github.com/sveltejs/svelte)，时至今日，它已越发成熟，感兴趣的朋友不妨了解下。
+在 2019 年时候，有简单调研过 Svelte，书写页面和逻辑，非常快捷且灵活；迄今尚未在应用中真正使用，日后有机会，很想尝试基于 Svelte 来开发 Web 应用。Svelte [在 Github 开源](https://github.com/sveltejs/svelte)，时至今日，它已越发成熟，感兴趣的朋友不妨了解下。
 
 ── 出自[倾城之链 - Svelte • Cybernetically enhanced web apps](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)
 
@@ -69,7 +69,7 @@ Svelte 将您的代码编译为微小的、无框架的 Vanilla JS——您的�
 
 ![倾城之链 - 陶小桃 Blog-无限进步的优质帅气大学生！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.52txr.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[陶小桃 Blog](https://nicelinks.site/redirect?url=https://www.52txr.cn/)，基于 [Typecho](https://nicelinks.site/post/5fe209779b4e656960bd8466)、[七牛云](https://nicelinks.site/post/5b0f943be93ed2618cfac12f) 搭建的个人博展网站，用以承载技术和日常生活相关分享，主要涉及机械设计、计算机视觉、深度学习、网页设计、SEO、谷歌广告、数据库、网站开发等内容，通过接入 Google AdSense 赚取收入。值得一提的是，该博客对 [AMP](https://nicelinks.site/post/5f75ea02cda9de27bd93a919) 做了支持。
+**推荐语**：[陶小桃 Blog](https://www.52txr.cn/)，基于 [Typecho](https://nicelinks.site/post/5fe209779b4e656960bd8466)、[七牛云](https://nicelinks.site/post/5b0f943be93ed2618cfac12f) 搭建的个人博展网站，用以承载技术和日常生活相关分享，主要涉及机械设计、计算机视觉、深度学习、网页设计、SEO、谷歌广告、数据库、网站开发等内容，通过接入 Google AdSense 赚取收入。值得一提的是，该博客对 [AMP](https://nicelinks.site/post/5f75ea02cda9de27bd93a919) 做了支持。
 
 ── 出自[倾城之链 - 陶小桃 Blog-无限进步的优质帅气大学生！](https://nicelinks.site/post/62a5f7dfbcba9006a79e86a3)
 
@@ -81,7 +81,7 @@ Svelte 将您的代码编译为微小的、无框架的 Vanilla JS——您的�
 
 ![倾城之链 - designstripe | Create & customize beautiful illustrations](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/designstripe.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DesignStripe](https://nicelinks.site/redirect?url=https://designstripe.com/)，一个在线创建精美的插图的网站，无需设计技能即可使用。它具备如下功能特征：
+**推荐语**：[DesignStripe](https://designstripe.com/)，一个在线创建精美的插图的网站，无需设计技能即可使用。它具备如下功能特征：
 
 - 🎨 不断增长的可定制插 图库；
 - 💻 精美简单的在线编辑器；
@@ -89,7 +89,7 @@ Svelte 将您的代码编译为微小的、无框架的 Vanilla JS——您的�
 - ✏️ 用于调整视觉和样式的智能滑块；
 - ✨ 每天都有新的手绘插图；
 
-无论是网站还是应用程序，在特定的场景，适当植入插图，可以极大丰富应用呈现；[DesignStripe](https://nicelinks.site/redirect?url=https://designstripe.com/)，简单、强大（且有趣！）的定制工具，可以帮您创建精美插图，该编辑器免费可用。
+无论是网站还是应用程序，在特定的场景，适当植入插图，可以极大丰富应用呈现；[DesignStripe](https://designstripe.com/)，简单、强大（且有趣！）的定制工具，可以帮您创建精美插图，该编辑器免费可用。
 
 ── 出自[倾城之链 - designstripe | Create & customize beautiful illustrations](https://nicelinks.site/post/62a5be4dbcba9006a79e86a0)
 
@@ -103,7 +103,7 @@ Svelte 将您的代码编译为微小的、无框架的 Vanilla JS——您的�
 
 ![倾城之链 - 集美美图-简单纯粹的明星美女模特网红写真壁纸精选 APP](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jimeiapp.zhangbingdev.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[集美美图](https://nicelinks.site/redirect?url=https://jimeiapp.zhangbingdev.com/) ，一款简单纯粹的美女壁纸精选 APP。每一张美图均为人工精心挑选和审核，每天只更新 10 张，该团队觉得壁纸不在多而在精，且不用机器操作，也不用算法推荐。他们希望做一款精致、克制、纯粹的超高品质应用。支持 Android 和 IOS 设备。它具备以下特征：
+**推荐语**：[集美美图](https://jimeiapp.zhangbingdev.com/) ，一款简单纯粹的美女壁纸精选 APP。每一张美图均为人工精心挑选和审核，每天只更新 10 张，该团队觉得壁纸不在多而在精，且不用机器操作，也不用算法推荐。他们希望做一款精致、克制、纯粹的超高品质应用。支持 Android 和 IOS 设备。它具备以下特征：
 
 ### 沉浸式设计
 

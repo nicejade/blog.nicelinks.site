@@ -10,7 +10,7 @@
 
 ![倾城之链 - Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.babylonjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Babylon.js](https://nicelinks.site/redirect?url=https://www.babylonjs.com/) 是一个强大、美观、简单、开放的游戏和渲染引擎，封装在一个友好的 JavaScript 框架中。它是世界领先的基于 WebGL 的图形引擎之一。从一个新的可视化场景检查器，一流的基于物理的渲染，无数的性能优化，以及更多，Babylon.js 给网络上的每个人带来了强大、美丽、简单和开放的 3D。它具有以下功能特色：
+**推荐语**：[Babylon.js](https://www.babylonjs.com/) 是一个强大、美观、简单、开放的游戏和渲染引擎，封装在一个友好的 JavaScript 框架中。它是世界领先的基于 WebGL 的图形引擎之一。从一个新的可视化场景检查器，一流的基于物理的渲染，无数的性能优化，以及更多，Babylon.js 给网络上的每个人带来了强大、美丽、简单和开放的 3D。它具有以下功能特色：
 
 ### 网络 GPU
 
@@ -40,7 +40,7 @@ WebGPU 代表了浏览器到 GPU 通信的下一次演进。W3C 的 Web 社区�
 
 Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Reality Toolkit 的更新支持。这个高级库可以非常轻松地将高级 XR UX 元素添加到您的 Babylon.js 场景中，例如：全息石板、3D 滑块、触摸全息按钮、触摸网格按钮等等！
 
-以上提及的特性，用其官方团队的表述，只是**冰山一角**；如果您对 Babylon 或者 WebGL、WebXR、MR、3D 感兴趣，可以前往 [Babylon 完整的功能列表](https://nicelinks.site/redirect?url=https://www.babylonjs.com/specifications/) 以了解更多；此外，Babylon 在 [Github 开源](https://github.com/BabylonJS/Babylon.js)，您可以通过 npm 或 CDN 直接使用。
+以上提及的特性，用其官方团队的表述，只是**冰山一角**；如果您对 Babylon 或者 WebGL、WebXR、MR、3D 感兴趣，可以前往 [Babylon 完整的功能列表](https://www.babylonjs.com/specifications/) 以了解更多；此外，Babylon 在 [Github 开源](https://github.com/BabylonJS/Babylon.js)，您可以通过 npm 或 CDN 直接使用。
 
 ── 出自[倾城之链 - Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://nicelinks.site/post/6363c2ac913d6a05d4056be7)
 
@@ -54,7 +54,7 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 ![倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ表情包 - 颜文字吐个槽](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.doubilm.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[逗比联萌](https://nicelinks.site/redirect?url=https://www.doubilm.com/)，一个表情包搜索网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Nuxt.js 框架所搭建）；该网站有海量的聊天表情，微信表情包，QQ 表情包，颜文字等，而且内置「搜索」🔍 功能，支持检索想要的表情（多以搞笑为主）；此外，它还提供「图片做旧」等功能。在聊天中喜欢夹在表情的朋友，可以考虑关注下；值得说明的是，`逗比联萌`也有提供`小程序`版本。
+**推荐语**：[逗比联萌](https://www.doubilm.com/)，一个表情包搜索网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Nuxt.js 框架所搭建）；该网站有海量的聊天表情，微信表情包，QQ 表情包，颜文字等，而且内置「搜索」🔍 功能，支持检索想要的表情（多以搞笑为主）；此外，它还提供「图片做旧」等功能。在聊天中喜欢夹在表情的朋友，可以考虑关注下；值得说明的是，`逗比联萌`也有提供`小程序`版本。
 
 ── 出自[倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ 表情包 - 颜文字吐个槽](https://nicelinks.site/post/636271a7913d6a05d40561e8)
 
@@ -66,10 +66,10 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 ![倾城之链 - Dracula — Dark theme for 280+ apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/draculatheme.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dracula](https://nicelinks.site/redirect?url=https://draculatheme.com/) ，是一种用于代码编辑器和终端模拟器（Terminal emulators）的颜色方案，如 Vim、Notepad++、iTerm、VSCode、Terminal.app、ZSH 等等。Dracula 是适用于多大 280 余个应用的**深色主题**，其中 220+ 适配 Mac
-& Linux 平台、有 210 款适配于 Windows。除了常见的编辑器、终端模拟器之外，还作用于很多应用程序或平台，如：Telegram、Wallpaper、Slack、Chrome、Firefox、BetterDiscord、Steam、Github Pages、Wox、DuckDuckGo、Gitk、[Obsidian](https://nicelinks.site/redirect?url=https://draculatheme.com/obsidian)、Figma、Typora、Vimium、XChat、Github、WordPress、Plank...... 您可以在该平台检索您想作用的应用。
+**推荐语**：[Dracula](https://draculatheme.com/) ，是一种用于代码编辑器和终端模拟器（Terminal emulators）的颜色方案，如 Vim、Notepad++、iTerm、VSCode、Terminal.app、ZSH 等等。Dracula 是适用于多大 280 余个应用的**深色主题**，其中 220+ 适配 Mac
+& Linux 平台、有 210 款适配于 Windows。除了常见的编辑器、终端模拟器之外，还作用于很多应用程序或平台，如：Telegram、Wallpaper、Slack、Chrome、Firefox、BetterDiscord、Steam、Github Pages、Wox、DuckDuckGo、Gitk、[Obsidian](https://draculatheme.com/obsidian)、Figma、Typora、Vimium、XChat、Github、WordPress、Plank...... 您可以在该平台检索您想作用的应用。
 
-关于 Dracula（德古拉）起源故事，背后是一段作者在 2013 年波折经历，感兴趣的朋友可以浏览下：[Dracula 项目的起源故事](https://nicelinks.site/redirect?url=https://draculatheme.com/about)。“福兮祸之所倚，祸兮福之所伏”，很多时候一段糟糕的经历，可以成为灵感创作的源泉。作为程序员，有在 [VsCode](https://nicelinks.site/post/5af55777979f626ea3d37917) 、Chrome 以及 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 等应用中使用了 dracula 主题，感觉非常好，相信您很可能也会喜欢。
+关于 Dracula（德古拉）起源故事，背后是一段作者在 2013 年波折经历，感兴趣的朋友可以浏览下：[Dracula 项目的起源故事](https://draculatheme.com/about)。“福兮祸之所倚，祸兮福之所伏”，很多时候一段糟糕的经历，可以成为灵感创作的源泉。作为程序员，有在 [VsCode](https://nicelinks.site/post/5af55777979f626ea3d37917) 、Chrome 以及 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 等应用中使用了 dracula 主题，感觉非常好，相信您很可能也会喜欢。
 
 ── 出自[倾城之链 - Dracula — Dark theme for 280+ apps](https://nicelinks.site/post/636108c262decd06091f4ab9)
 
@@ -81,7 +81,7 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 ![倾城之链 - App Analytics | Mobile Data Analytics Tools | data.ai](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.data.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Data.ai](https://nicelinks.site/redirect?url=https://www.data.ai/) （其前身是 `App Annie` ），首家聚合数据 AI 公司，将消费者和市场数据与人工智能的力量相结合，以提高洞察力。该公司使命是提供制定基于优质洞察、规范化以及可执行性的策略，帮助品牌、发行商以及投资者在移动和数字生态系统中脱颖而出。该平台汇聚了蛮多产品，诸如：
+**推荐语**： [Data.ai](https://www.data.ai/) （其前身是 `App Annie` ），首家聚合数据 AI 公司，将消费者和市场数据与人工智能的力量相结合，以提高洞察力。该公司使命是提供制定基于优质洞察、规范化以及可执行性的策略，帮助品牌、发行商以及投资者在移动和数字生态系统中脱颖而出。该平台汇聚了蛮多产品，诸如：
 
 ### data.ai Intelligence
 

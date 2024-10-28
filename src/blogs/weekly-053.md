@@ -12,7 +12,7 @@
 
 ![倾城之链 - PPT背景图片_网页背景素材_平铺底纹纹理背景素材 - 图鱼官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.hituyu.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[图鱼](https://nicelinks.site/redirect?url=https://www.hituyu.com/)：一个专注提供高质量无缝平铺的 PPT 背景图片、网页纹理背景素材的网站；该网站建立于 2015 年 10 月。最初是方便自己做网页设计，查看平铺素材是否可以完美平铺，检测图片的连续性。在解决自己的问题之余，分享可用、好用、可完美平铺素材。该站素材来源为：站长原创、互联网搜集、购买等汇集而成。分类比较齐全，免受大家查找之苦，节省宝贵的时间。
+**推荐语**：[图鱼](https://www.hituyu.com/)：一个专注提供高质量无缝平铺的 PPT 背景图片、网页纹理背景素材的网站；该网站建立于 2015 年 10 月。最初是方便自己做网页设计，查看平铺素材是否可以完美平铺，检测图片的连续性。在解决自己的问题之余，分享可用、好用、可完美平铺素材。该站素材来源为：站长原创、互联网搜集、购买等汇集而成。分类比较齐全，免受大家查找之苦，节省宝贵的时间。
 
 ── 出自[倾城之链 - PPT 背景图片*网页背景素材*平铺底纹纹理背景素材 - 图鱼官网](https://nicelinks.site/post/620e59f53b89bf76633cb70d)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - Giters](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/giters.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Giters](https://nicelinks.site/redirect?url=https://giters.com/)，是人们构建软件的地方。超过 5000 万人使用 Giters 来发现、fork 和贡献超过 1 亿个项目。[Giters](https://nicelinks.site/redirect?url=https://giters.com/) 它其实是对 [Github](https://nicelinks.site/tags/Github) 上的内容做了汇总和划分，有推出 `推荐存储库`（变化缓慢）、`推荐主题`、`热门存储库`、`热门用户`等模块儿，并提供检索功能，您可以快速找到需要的内容。对于作为**开发者**的朋友们来说，[Giters](https://nicelinks.site/redirect?url=https://giters.com/) 这个网站值得关注：闲来摸鱼放松、焦虑寻求提升、工作检索工具，网络不佳替代 Github 等不同场景，都是非常不错的选择。
+**推荐语**：[Giters](https://giters.com/)，是人们构建软件的地方。超过 5000 万人使用 Giters 来发现、fork 和贡献超过 1 亿个项目。[Giters](https://giters.com/) 它其实是对 [Github](https://nicelinks.site/tags/Github) 上的内容做了汇总和划分，有推出 `推荐存储库`（变化缓慢）、`推荐主题`、`热门存储库`、`热门用户`等模块儿，并提供检索功能，您可以快速找到需要的内容。对于作为**开发者**的朋友们来说，[Giters](https://giters.com/) 这个网站值得关注：闲来摸鱼放松、焦虑寻求提升、工作检索工具，网络不佳替代 Github 等不同场景，都是非常不错的选择。
 
 ── 出自[倾城之链 - Giters](https://nicelinks.site/post/620dba283b89bf76633cb70b)
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - 19站目录库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.19zh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[19 站目录库](https://nicelinks.site/redirect?url=https://www.19zh.com/)，是一个导航相关的网站（基于 PHP、jQuery 所搭建，看起来颇为古老）；旨在免费收录各行业优秀网站，提供网站分类目录检索，关键字搜索，提交网站即可免费推广，增加外链，提升网站流量。此外，该网站还提供`站长资讯`、`链接交换`等服务。
+**推荐语**：[19 站目录库](https://www.19zh.com/)，是一个导航相关的网站（基于 PHP、jQuery 所搭建，看起来颇为古老）；旨在免费收录各行业优秀网站，提供网站分类目录检索，关键字搜索，提交网站即可免费推广，增加外链，提升网站流量。此外，该网站还提供`站长资讯`、`链接交换`等服务。
 
 ── 出自[倾城之链 - 19 站目录库](https://nicelinks.site/post/620b2fa43b89bf76633cb708)
 
@@ -50,9 +50,9 @@
 
 ![倾城之链 - AI Image Transformer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/transformerapp.aifinancials.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI Image Transformer](https://nicelinks.site/redirect?url=https://transformerapp.aifinancials.net/)，旨在为每个人提供一个简单的工具：使用预先训练的 AI 模型，对图像进行**卡通化**和**风格化**，并以近乎实时的方式生成结果。只需上传您的图像并下载结果，绝对没有麻烦。
+**推荐语**：[AI Image Transformer](https://transformerapp.aifinancials.net/)，旨在为每个人提供一个简单的工具：使用预先训练的 AI 模型，对图像进行**卡通化**和**风格化**，并以近乎实时的方式生成结果。只需上传您的图像并下载结果，绝对没有麻烦。
 
-计算机视觉的进步，使任何人都可以将图像变成卡通；或通过应用艺术作品的风格，将其转换为艺术作品。该应用程序（[AI Image Transformer](https://nicelinks.site/redirect?url=https://transformerapp.aifinancials.net/)）利用 Oasis Network 的可扩展且安全的计算环境（一个支持隐私的区块链平台，用于开放金融和负责任的数据经济）。用户图像存储在区块链上，它可以是用户（拥有 Oasis 帐户）而不是完全控制数据的应用程序。请注意，区块链上的计算单元是按需启动（并非总是开启），因此尽管 AI 模型本身不需要很长时间（几秒钟）来处理图像，但碰巧启动新实例的请求可能需要更长的时间（几十秒）才能得到结果。如果进度条似乎没有移动，请耐心等待。
+计算机视觉的进步，使任何人都可以将图像变成卡通；或通过应用艺术作品的风格，将其转换为艺术作品。该应用程序（[AI Image Transformer](https://transformerapp.aifinancials.net/)）利用 Oasis Network 的可扩展且安全的计算环境（一个支持隐私的区块链平台，用于开放金融和负责任的数据经济）。用户图像存储在区块链上，它可以是用户（拥有 Oasis 帐户）而不是完全控制数据的应用程序。请注意，区块链上的计算单元是按需启动（并非总是开启），因此尽管 AI 模型本身不需要很长时间（几秒钟）来处理图像，但碰巧启动新实例的请求可能需要更长的时间（几十秒）才能得到结果。如果进度条似乎没有移动，请耐心等待。
 
 ── 出自[倾城之链 - AI Image Transformer](https://nicelinks.site/post/620a38d93b89bf76633cb705)
 
@@ -64,7 +64,7 @@
 
 ![倾城之链 - NextSSH | SSH工具，不只是命令终端](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/xzhshch.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NextSSH](https://nicelinks.site/redirect?url=https://xzhshch.com/)，是一个远程连接管理工具，希望能将繁杂的 SSH 操作变得简洁且直观。它具有以下功能特性：
+**推荐语**：[NextSSH](https://xzhshch.com/)，是一个远程连接管理工具，希望能将繁杂的 SSH 操作变得简洁且直观。它具有以下功能特性：
 
 ### 终端与数据监看
 
@@ -102,7 +102,7 @@ NextSSH 拥有直观的基于 SFTP 的文件管理界面。支持双击打开文
 
 在工作区划分多个区域，随意调整大小，拖动即可改变标签页位置。
 
-[NextSSH](https://nicelinks.site/redirect?url=https://xzhshch.com/) 已经是一个完成的软件，支持免费使用；如果您想保持邮件和其他渠道的反馈和支持、维护着云同步等需要服务器的功能，可购买专业版本，只需 6 元/月。
+[NextSSH](https://xzhshch.com/) 已经是一个完成的软件，支持免费使用；如果您想保持邮件和其他渠道的反馈和支持、维护着云同步等需要服务器的功能，可购买专业版本，只需 6 元/月。
 
 ── 出自[倾城之链 - NextSSH | SSH 工具，不只是命令终端](https://nicelinks.site/post/6208d4af3b89bf76633cb702)
 

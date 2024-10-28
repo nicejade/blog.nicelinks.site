@@ -10,7 +10,7 @@
 
 ![倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/espanso.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[espanso](https://nicelinks.site/redirect?url=https://espanso.org/) 是一个用 `Rust` 编写的跨平台文本扩展器，它可以检测您何时键入特定的关键字，并用其他内容替换它。espanso 具有以下功能特征：
+**推荐语**：[espanso](https://espanso.org/) 是一个用 `Rust` 编写的跨平台文本扩展器，它可以检测您何时键入特定的关键字，并用其他内容替换它。espanso 具有以下功能特征：
 
 - 适用于**Windows**、**macOS** 和 **Linux**；
 - 适用于几乎**任何程序**；
@@ -21,14 +21,14 @@
 - **自定义脚本**支持；
 - **外壳命令**支持；
 - **特定于应用程序的**配置；
-- 支持 [表格](https://nicelinks.site/redirect?url=https://espanso.org/docs/forms/)；
+- 支持 [表格](https://espanso.org/docs/forms/)；
 - 可扩展**包**；
-- [espanso hub](https://nicelinks.site/redirect?url=https://hub.espanso.org/) 的内置**包管理**器；
+- [espanso hub](https://hub.espanso.org/) 的内置**包管理**器；
 - 基于文件的配置；
 - 支持正则表达式触发器；
 - 实验性 Wayland 支持；
 
-[Espanso](https://nicelinks.site/redirect?url=https://espanso.org/)，可以用来做什么呢？在 Github 开源仓库，有写到 Espanso 在以下方面很有用：
+[Espanso](https://espanso.org/)，可以用来做什么呢？在 Github 开源仓库，有写到 Espanso 在以下方面很有用：
 
 - 节省大量打字，扩展常用句子；
 - 创建系统范围的代码片段；
@@ -63,7 +63,7 @@
 
 Espanso 适用于大多数应用程序，因此您可以在任何地方提高工作效率。
 
-最近，就安装并使用了 Espanso （基于 Mac OS），感觉非常棒，其体验要比 Mac 自带的体验要好很多。而且，文档对于如何安装、配置、使用等，都写的全面易懂；与 Windows 平台下 [AutoHotkey](https://nicelinks.site/post/5ae83b115ecfb73d26e47296) 应用的部分功能很像。如果您也是一位基于电脑码字较多的朋友，那么 [Espanso](https://nicelinks.site/redirect?url=https://espanso.org/) 非常值得您采用，从而节省大量打字时间，以提升**效率**和**幸福感**。
+最近，就安装并使用了 Espanso （基于 Mac OS），感觉非常棒，其体验要比 Mac 自带的体验要好很多。而且，文档对于如何安装、配置、使用等，都写的全面易懂；与 Windows 平台下 [AutoHotkey](https://nicelinks.site/post/5ae83b115ecfb73d26e47296) 应用的部分功能很像。如果您也是一位基于电脑码字较多的朋友，那么 [Espanso](https://espanso.org/) 非常值得您采用，从而节省大量打字时间，以提升**效率**和**幸福感**。
 
 ── 出自[倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://nicelinks.site/post/624efb22b7bf120669dbd40c)
 
@@ -75,7 +75,7 @@ Espanso 适用于大多数应用程序，因此您可以在任何地方提高工
 
 ![倾城之链 - Warp: The terminal for the 21st century](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.warp.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WARP](https://nicelinks.site/redirect?url=https://www.warp.dev/) 是一个速度极快、基于 RUST 的终端，从头开始重新构想，可以像现代应用程序一样工作。它具有以下功能特征：
+**推荐语**：[WARP](https://www.warp.dev/) 是一个速度极快、基于 RUST 的终端，从头开始重新构想，可以像现代应用程序一样工作。它具有以下功能特征：
 
 ### 快速地
 
@@ -97,7 +97,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 - **在终端内运行您的文档**：用混合文档和 CLI 命令的本地终端笔记本替换 wiki。手写这些，或从终端输出转换它们。
 - **终端共享**：将您的会话的固定链接分享给您的团队。
 
-[WARP](https://nicelinks.site/redirect?url=https://www.warp.dev/) 是一个完全原生的、GPU 加速的、基于 Rust 的终端。没有电子或网络技术。在 4K 屏幕上为 60fps。其目标是：将**命令行**重新创建为现代应用程序，为每个人提供更实用、更人性化、最终更强大的 CLI。
+[WARP](https://www.warp.dev/) 是一个完全原生的、GPU 加速的、基于 Rust 的终端。没有电子或网络技术。在 4K 屏幕上为 60fps。其目标是：将**命令行**重新创建为现代应用程序，为每个人提供更实用、更人性化、最终更强大的 CLI。
 
 ── 出自[倾城之链 - Warp: The terminal for the 21st century](https://nicelinks.site/post/624ee3edb7bf120669dbd40a)
 
@@ -109,9 +109,9 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 ![倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/overapi.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OverAPI.com](https://nicelinks.site/redirect?url=https://overapi.com/) 是一个在线服务，旨在：**收集所有编程语言备忘单**，被业界称为： 最全的开发人员在线速查手册。它将编程语言所涉及到的**方法**，进行分门别类，并且按顺序展示于一个界面中，且对该方法做了站外链接（到具体语言方法文档）；而且提供检索过滤功能，使得用户能方便检索到要查找的方法名。
+**推荐语**：[OverAPI.com](https://overapi.com/) 是一个在线服务，旨在：**收集所有编程语言备忘单**，被业界称为： 最全的开发人员在线速查手册。它将编程语言所涉及到的**方法**，进行分门别类，并且按顺序展示于一个界面中，且对该方法做了站外链接（到具体语言方法文档）；而且提供检索过滤功能，使得用户能方便检索到要查找的方法名。
 
-该网站最令人惊叹的是，所涉及编程语言极其广泛，无论是流行的 JavaScript、Python、Java、Node.js、PHP、Ruby、CSS、HTML，[RegEx](https://nicelinks.site/redirect?url=https://overapi.com/regex) 乃至非常冷门的语言，或者 Git、SVN、Mac、CVS 等工具，也都有涉及；即便没有详细方法罗列，也会附上诸如像官方网站、`Wikipedia` 等地址。除了网站外，还提供了 Chrome 扩展：[All Cheat Sheets](https://nicelinks.site/redirect?url=https://chrome.google.com/webstore/detail/all-cheat-sheets/oedodeocfdeegliepeeoieemhdgoijod)。如果您从事某种编程语言开发不久，相信 [OverAPI.com](https://nicelinks.site/redirect?url=https://overapi.com/) 对您能够很有帮助。
+该网站最令人惊叹的是，所涉及编程语言极其广泛，无论是流行的 JavaScript、Python、Java、Node.js、PHP、Ruby、CSS、HTML，[RegEx](https://overapi.com/regex) 乃至非常冷门的语言，或者 Git、SVN、Mac、CVS 等工具，也都有涉及；即便没有详细方法罗列，也会附上诸如像官方网站、`Wikipedia` 等地址。除了网站外，还提供了 Chrome 扩展：[All Cheat Sheets](https://chrome.google.com/webstore/detail/all-cheat-sheets/oedodeocfdeegliepeeoieemhdgoijod)。如果您从事某种编程语言开发不久，相信 [OverAPI.com](https://overapi.com/) 对您能够很有帮助。
 
 ── 出自[倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://nicelinks.site/post/624d8dc0b7bf120669dbd407)
 
@@ -125,7 +125,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 ![倾城之链 - CodeMyUI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codemyui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CodeMyUI](https://nicelinks.site/redirect?url=https://codemyui.com/)，一个网页设计和 UI 灵感与代码片段的网站；这里有精心挑选的网页设计和 UI 灵感与代码片段的集合。支持 GIF 预览、 HTML CSS 复制粘贴代码。如果您从事 Web 前端开发，可以从这汲取灵感，诸如：滚动图像以更改文本视差效果、带有滚动效果的凸窗样式图像滑块、悬停时带有解释的删除线文本、图像的纯 CSS 翻页动画等等。
+**推荐语**：[CodeMyUI](https://codemyui.com/)，一个网页设计和 UI 灵感与代码片段的网站；这里有精心挑选的网页设计和 UI 灵感与代码片段的集合。支持 GIF 预览、 HTML CSS 复制粘贴代码。如果您从事 Web 前端开发，可以从这汲取灵感，诸如：滚动图像以更改文本视差效果、带有滚动效果的凸窗样式图像滑块、悬停时带有解释的删除线文本、图像的纯 CSS 翻页动画等等。
 
 ── 出自[倾城之链 - CodeMyUI](https://nicelinks.site/post/624d294bb7bf120669dbd405)
 
@@ -137,7 +137,7 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 ![倾城之链 - voidtools | Everything](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.voidtools.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Everything](https://nicelinks.site/redirect?url=https://www.voidtools.com/)，此为 Windows 桌面搜索引擎："Everything" 的官方网站。Everything 是 voidtools 开发的一款**文件搜索**工具，官网描述为“基于名称实时定位文件和目录；它体积小巧，界面简洁易用，快速建立索引，快速搜索，同时占用极低的系统资源，实时跟踪文件变化，并且还可以通过 http 或 ftp 形式分享搜索。`Everything` 具有以下功能特色：
+**推荐语**：[Everything](https://www.voidtools.com/)，此为 Windows 桌面搜索引擎："Everything" 的官方网站。Everything 是 voidtools 开发的一款**文件搜索**工具，官网描述为“基于名称实时定位文件和目录；它体积小巧，界面简洁易用，快速建立索引，快速搜索，同时占用极低的系统资源，实时跟踪文件变化，并且还可以通过 http 或 ftp 形式分享搜索。`Everything` 具有以下功能特色：
 
 - 轻量安装文件；
 - 干净简洁的用户界面；
@@ -163,11 +163,11 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 ![倾城之链 - SpaceX](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.spacex.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SpaceX](https://nicelinks.site/redirect?url=https://www.spacex.com/)（太空探索技术公司，即美国太空探索技术公司）：设计、制造和发射先进的火箭和航天器。该公司是一家由 PayPal 早期投资人埃隆·马斯克（Elon Musk）2002 年 6 月建立，旨在革新太空技术，最终目标是**让人们能够生活在其他星球上**。它开发了可部分重复使用的猎鹰 1 号和猎鹰 9 号运载火箭。SpaceX 同时开发 Dragon 系列的航天器以通过猎鹰 9 号发射到轨道。SpaceX 主要设计、测试和制造内部的部件，如 Merlin、Kestrel 和 Draco 火箭发动机。
+**推荐语**：[SpaceX](https://www.spacex.com/)（太空探索技术公司，即美国太空探索技术公司）：设计、制造和发射先进的火箭和航天器。该公司是一家由 PayPal 早期投资人埃隆·马斯克（Elon Musk）2002 年 6 月建立，旨在革新太空技术，最终目标是**让人们能够生活在其他星球上**。它开发了可部分重复使用的猎鹰 1 号和猎鹰 9 号运载火箭。SpaceX 同时开发 Dragon 系列的航天器以通过猎鹰 9 号发射到轨道。SpaceX 主要设计、测试和制造内部的部件，如 Merlin、Kestrel 和 Draco 火箭发动机。
 
 > “你想在早上醒来并认为未来会很美好 ── 这就是成为航天文明的全部意义所在。这是关于相信未来，认为未来会比过去更好。我想不出有什么比走出去，置身于群星之中更令人兴奋的事情了。”── 埃隆·马斯克
 
-在 [SpaceX](https://nicelinks.site/redirect?url=https://www.spacex.com/mission) 页面，不仅展示了 Elon Musk 美好愿景，而且介绍了其公司使命：
+在 [SpaceX](https://www.spacex.com/mission) 页面，不仅展示了 Elon Musk 美好愿景，而且介绍了其公司使命：
 
 ### 使人类多行星
 

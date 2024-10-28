@@ -11,14 +11,14 @@
 
 ![倾城之链 - 蜜蜂剪辑官网 | 人人都会用的简单视频剪辑软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/beecut.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[蜜蜂剪辑](https://nicelinks.site/redirect?url=https://beecut.cn/)，一款简单的操作，丰富的功能的视频剪辑软件（部分功能免费 🆓）；它拥有热门的特效素材，旨在塑造：轻松一剪就是大片、全民都会用的视频剪辑软件；支持 Winows、Mac、Android、iOS、Web 等平台。[蜜蜂剪辑](https://nicelinks.site/redirect?url=https://beecut.cn/)有以下功能特征：
+**推荐语**：[蜜蜂剪辑](https://beecut.cn/)，一款简单的操作，丰富的功能的视频剪辑软件（部分功能免费 🆓）；它拥有热门的特效素材，旨在塑造：轻松一剪就是大片、全民都会用的视频剪辑软件；支持 Winows、Mac、Android、iOS、Web 等平台。[蜜蜂剪辑](https://beecut.cn/)有以下功能特征：
 
 - **剪切**：分割、删除、合并一气呵成，多轨道同时剪辑，素材随意拖动，配合快捷键操作让每个人都可以享受大师级的流畅剪辑体验；
 - **字幕**：强大的字幕素材库，提供了设计师精心设计的片头，标题和字幕素材下载，实用、美观或潮流，由你做主；
 - **裁剪**：视频画面一键剪裁，剪掉画面多余或瑕疵部分，勾选保持画面宽高比，避免视频出现黑边现象，零基础也能快速上手；
 - **音乐**：内置音乐&音效素材库，打开软件即可试听选用无版权音乐，轻轻一点就能添加 BGM，还能为视频提取音频，调整音量和加上淡入淡出效果；
 
-值得一提的是，[蜜蜂剪辑](https://nicelinks.site/redirect?url=https://beecut.cn/)可以[在线操作](https://nicelinks.site/redirect?url=https://beecut.cn/online-video-editor)，支持的视频编辑功能包括：视频转 [GIF](https://nicelinks.site/tags/GIF) 、视频提取音频、视频合并、视频截取、视频旋转、视频裁剪、视频截图、视频变速、视频分段导出、视频消音等，每个功能都是非常实用，从单独的需求点延伸至全方位的解决方案，协助您打造更多创意[短视频](https://nicelinks.site/tags/短视频)。
+值得一提的是，[蜜蜂剪辑](https://beecut.cn/)可以[在线操作](https://beecut.cn/online-video-editor)，支持的视频编辑功能包括：视频转 [GIF](https://nicelinks.site/tags/GIF) 、视频提取音频、视频合并、视频截取、视频旋转、视频裁剪、视频截图、视频变速、视频分段导出、视频消音等，每个功能都是非常实用，从单独的需求点延伸至全方位的解决方案，协助您打造更多创意[短视频](https://nicelinks.site/tags/短视频)。
 
 ── 出自[倾城之链 - 蜜蜂剪辑官网 | 人人都会用的简单视频剪辑软件](https://nicelinks.site/post/6040d40f0c8e4b046a18200e)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - The prototyping tool for teams | Framer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.framer.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Framer](https://nicelinks.site/redirect?url=https://framer.com/) 是一个一体化的工具，可以帮助团队设计产品体验的每一个部分。基于 [Framer](https://nicelinks.site/redirect?url=https://framer.com/) ，您可以与团队合作，利用智能功能、拖放组件、布局工具、构建块等，无需代码，在几分钟内获得高保真原型，快速构建各种不同应用，如：移动应用、网站、电视应用、设计系统等。
+**推荐语**：[Framer](https://framer.com/) 是一个一体化的工具，可以帮助团队设计产品体验的每一个部分。基于 [Framer](https://framer.com/) ，您可以与团队合作，利用智能功能、拖放组件、布局工具、构建块等，无需代码，在几分钟内获得高保真原型，快速构建各种不同应用，如：移动应用、网站、电视应用、设计系统等。
 
 现如今，大多数设计和原型设计工具，只是在画布上描绘你的想法的系统。Framer 是唯一一款基于网络技术构建的工具，它能在更短的时间内为你提供真正的交互式和真实的输出。对于为何要选择 Framer 呢？官方给出了以下优质特征：
 
@@ -41,7 +41,7 @@
 - **每次都能分享精良的作品**：通过自定义背景、设备框架和设备指针，Framer 拥有您所需要的每一个演示设置，以确保您的作品始终准备好进行展示.最好的部分--您所要做的就是发送一个链接，与世界分享您的原型。
 - **用代码提升任何东西**：Framer 是唯一允许您利用代码，来增强工作流程和原型的工具。虽然有一套完整的可视化工具可以在画布中创建高级原型，但您可以通过使用代码，创建独特的自定义组件和功能来突破界限。
 
-做交互设计，基于 [Framer](https://nicelinks.site/redirect?url=https://framer.com/) 让你更接近真实，如果您想了解更多，可以参见 [`Get closer to real | Framer`](https://nicelinks.site/redirect?url=https://www.framer.com/why-framer/)。
+做交互设计，基于 [Framer](https://framer.com/) 让你更接近真实，如果您想了解更多，可以参见 [`Get closer to real | Framer`](https://www.framer.com/why-framer/)。
 
 ── 出自[倾城之链 - The prototyping tool for teams | Framer](https://nicelinks.site/post/6040a18e0c8e4b046a18200c)
 
@@ -71,7 +71,7 @@
 
 ![倾城之链 - 购买美术摄影作品 - SINGULART](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.xinyiparis.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Singulart | Art for Sale](https://nicelinks.site/redirect?url=https://www.xinyiparis.cn/) 是一个在线购买美术摄影作品（当代，全球公认的和新兴的艺术家的原创艺术作品）的网站。您可以在此云端画廊，发现绘画和照片，可直接从艺术家那里购买，并提供真实性证书，➽ 安全支付，➽ 免费运输和 ➽ 免费退货。值得一提的是，您可以在该网站，通过中文搜索，或者按照艺术类型、主题、类别、手法等，筛选自己想要发现的艺术 🎨 品，即便不购买，也能领略艺术结晶（当然，如果您略懂一点浏览器技术或工具，您也可以将其下载至本地欣赏）。
+**推荐语**：[Singulart | Art for Sale](https://www.xinyiparis.cn/) 是一个在线购买美术摄影作品（当代，全球公认的和新兴的艺术家的原创艺术作品）的网站。您可以在此云端画廊，发现绘画和照片，可直接从艺术家那里购买，并提供真实性证书，➽ 安全支付，➽ 免费运输和 ➽ 免费退货。值得一提的是，您可以在该网站，通过中文搜索，或者按照艺术类型、主题、类别、手法等，筛选自己想要发现的艺术 🎨 品，即便不购买，也能领略艺术结晶（当然，如果您略懂一点浏览器技术或工具，您也可以将其下载至本地欣赏）。
 
 ── 出自[倾城之链 - 购买美术摄影作品 - SINGULART](https://nicelinks.site/post/603f8a210c8e4b046a182005)
 
@@ -85,9 +85,9 @@
 
 ![倾城之链 - Redis](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/redis.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Redis](https://nicelinks.site/redirect?url=https://redis.io/) 是一个开源（BSD 授权）的内存数据结构存储，用作数据库、缓存和消息中介（Redis 由 Salvatore Sanfilippo 编写，是跨平台的非关系型数据库，其名称来自 Remote DIctionary Server 缩写）。Redis 提供了字符串、哈希、列表、集合、带范围查询的排序集、位图、超日志、地理空间索引和流等数据结构。Redis 内置了复制、Lua 脚本、LRU 驱逐、事务和不同级别的磁盘持久性，并通过 Redis Sentinel 和 Redis Cluster 自动分区提供高可用性。
+**推荐语**：[Redis](https://redis.io/) 是一个开源（BSD 授权）的内存数据结构存储，用作数据库、缓存和消息中介（Redis 由 Salvatore Sanfilippo 编写，是跨平台的非关系型数据库，其名称来自 Remote DIctionary Server 缩写）。Redis 提供了字符串、哈希、列表、集合、带范围查询的排序集、位图、超日志、地理空间索引和流等数据结构。Redis 内置了复制、Lua 脚本、LRU 驱逐、事务和不同级别的磁盘持久性，并通过 Redis Sentinel 和 Redis Cluster 自动分区提供高可用性。
 
-为了实现最高性能，[Redis](https://nicelinks.site/redirect?url=https://redis.io/) 使用内存数据集工作。根据你的使用情况，你可以通过定期将数据集转储到磁盘或将每个命令附加到基于磁盘的日志来持久化你的数据。如果你只是需要一个功能丰富、网络化的内存缓存，你也可以禁用持久化。[Redis](https://nicelinks.site/redirect?url=https://redis.io/) 还支持异步复制，具有非常快速的非阻塞式首次同步，以及在网络拆分时具有部分重新同步的自动重新连接。
+为了实现最高性能，[Redis](https://redis.io/) 使用内存数据集工作。根据你的使用情况，你可以通过定期将数据集转储到磁盘或将每个命令附加到基于磁盘的日志来持久化你的数据。如果你只是需要一个功能丰富、网络化的内存缓存，你也可以禁用持久化。[Redis](https://redis.io/) 还支持异步复制，具有非常快速的非阻塞式首次同步，以及在网络拆分时具有部分重新同步的自动重新连接。
 
 Redis 功能非常强大，可以用于非常多场景。如在缓存应用方面，因为她内存数据结构存储，因而拥有快速、稳定等特性，并且支持数据快照功能，开发人员可以通过配置文件，制定数据快照时间间隔，Redis 会将数据快照自动存放于硬盘中，这样即便服务器突然停止服务，Redis 也极少会出现丢失数据的现象。近些年来越来越多的大型物联网公司，开始使用 Rdeis 作为缓存服务器。就[倾城之链](https://nicelinks.site/)后台服务，基于 MongoDB 数据存储，使用 Redis 来缓存 API，极大提升了应用性能。如果您有开发自己的应用，Redis ── 您值得使用。
 
@@ -103,7 +103,7 @@ Redis 功能非常强大，可以用于非常多场景。如在缓存应用方�
 
 ![倾城之链 - 在线隐私保护工具，免费接码小号 - 随用随弃](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.suiyongsuiqi.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[在线隐私保护工具](https://nicelinks.site/redirect?url=https://www.suiyongsuiqi.com/)是一款[在线](https://nicelinks.site/tags/在线)工具平台，提供临时手机号接码、一次性手机短信验证码接收服务、临时邮箱服务（可自定义设定邮箱地址）等，您可以用它来保护自己的隐私。另外，该网站，还提供[短链接](https://nicelinks.site/tags/短链接)、以及阅后即焚（也支持设定有限期：10 分钟～ 365 天）的功能。
+**推荐语**：[在线隐私保护工具](https://www.suiyongsuiqi.com/)是一款[在线](https://nicelinks.site/tags/在线)工具平台，提供临时手机号接码、一次性手机短信验证码接收服务、临时邮箱服务（可自定义设定邮箱地址）等，您可以用它来保护自己的隐私。另外，该网站，还提供[短链接](https://nicelinks.site/tags/短链接)、以及阅后即焚（也支持设定有限期：10 分钟～ 365 天）的功能。
 
 ── 出自[倾城之链 - 在线隐私保护工具，免费接码小号 - 随用随弃](https://nicelinks.site/post/603db173927df32aa12de4d4)
 
@@ -117,11 +117,11 @@ Redis 功能非常强大，可以用于非常多场景。如在缓存应用方�
 
 ![倾城之链 - 牛客网-找工作神器|笔试题库|面试经验|实习招聘内推](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.nowcoder.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[牛客网](https://nicelinks.site/redirect?url=https://www.nowcoder.com/)是一款可以助力找工作、招聘的网站。对于企业和求职者，常用于**在线面试**。其官网如此写道：[牛客网](https://nicelinks.site/redirect?url=https://www.nowcoder.com/) 成立于 2014 年 9 月，是以科技和创新驱动的教育科技公司。牛客网坚持以前沿技术服务于技术、以人工智能和大数据提升学习效率，专注探索在线教育创新模式，致力于为技术求职者提供能力提升解决方案，同时为企业级用户提供更高效的招聘解决方案，并为二者搭建桥梁，构建从学习到职业的良性生态圈。它主要由以下特征：
+**推荐语**：[牛客网](https://www.nowcoder.com/)是一款可以助力找工作、招聘的网站。对于企业和求职者，常用于**在线面试**。其官网如此写道：[牛客网](https://www.nowcoder.com/) 成立于 2014 年 9 月，是以科技和创新驱动的教育科技公司。牛客网坚持以前沿技术服务于技术、以人工智能和大数据提升学习效率，专注探索在线教育创新模式，致力于为技术求职者提供能力提升解决方案，同时为企业级用户提供更高效的招聘解决方案，并为二者搭建桥梁，构建从学习到职业的良性生态圈。它主要由以下特征：
 
 ### 产业布局
 
-[牛客网](https://nicelinks.site/redirect?url=https://www.nowcoder.com/)在技术类求职备考、社群交流、企业招聘服务等多个垂直领域影响力均在行业中遥遥领先，产品矩阵包括 IT 题库、在线编程练习、线上课程、交流社区、竞赛平台、笔面试服务、ATS 系统等
+[牛客网](https://www.nowcoder.com/)在技术类求职备考、社群交流、企业招聘服务等多个垂直领域影响力均在行业中遥遥领先，产品矩阵包括 IT 题库、在线编程练习、线上课程、交流社区、竞赛平台、笔面试服务、ATS 系统等
 
 ### 用户覆盖
 

@@ -10,11 +10,11 @@
 
 ![倾城之链 - Threads - Instagram's text-based conversation app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.threads.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Threads](https://nicelinks.site/redirect?url=https://www.threads.net/) ：Instagram 旗下的基于文本的对话应用；Threads 是社区聚集在一起讨论一切的地方，从你今天关心的话题到明天的流行趋势。无论你对什么感兴趣，你都可以直接关注，并与你喜欢的创作者和其他喜欢同样事物的人联系；或者建立一个你自己的忠实粉丝，与世界分享你的想法、意见和创意。
+**推荐语**：[Threads](https://www.threads.net/) ：Instagram 旗下的基于文本的对话应用；Threads 是社区聚集在一起讨论一切的地方，从你今天关心的话题到明天的流行趋势。无论你对什么感兴趣，你都可以直接关注，并与你喜欢的创作者和其他喜欢同样事物的人联系；或者建立一个你自己的忠实粉丝，与世界分享你的想法、意见和创意。
 
 ### Threads 是什么？
 
-[Threads](https://nicelinks.site/redirect?url=https://www.threads.net/) 是 Meta 针对 Twitter 所推出的竞品，于 2023 年 07 月 06 日正式上线； [倾城之链](https://nicelinks.site) 官方平台也第一时间下载并做了简单的体验（ [TuringMind](https://www.threads.net/@turingmind) ）；Threads 在下载后可直接透过 Instagram 登入，此时画面会先跳出 Instagram 的追踪用户，可选择要追踪哪些人，并设定是否将账号设为公开。
+[Threads](https://www.threads.net/) 是 Meta 针对 Twitter 所推出的竞品，于 2023 年 07 月 06 日正式上线； [倾城之链](https://nicelinks.site) 官方平台也第一时间下载并做了简单的体验（ [TuringMind](https://www.threads.net/@turingmind) ）；Threads 在下载后可直接透过 Instagram 登入，此时画面会先跳出 Instagram 的追踪用户，可选择要追踪哪些人，并设定是否将账号设为公开。
 
 Threads 被称为 Meta 版的 twitter，被许多人视为是 Meta 用来迎战 twitter 的竞争者。发帖、看帖等交互设计，与 Twitter 都颇为相似。不过，它允许使用者发表最长 500 字(中英文同样算一个字) 的短文(官方说法是“Threads | 线程”) ，并且可以搭配最长 5 分钟的影片、照片或连结。
 
@@ -44,7 +44,7 @@ Threads 补充条款，并确认你已阅读 Meta 隐私权政策 和 Threads �
 
 ![倾城之链 - Welcome · magic-regexp](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/regexp.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[magic-regexp](https://nicelinks.site/redirect?url=https://regexp.dev/) ，一种编译后的、类型安全的、可读的 RegExp 替代品，它具有如下功能特征：
+**推荐语**：[magic-regexp](https://regexp.dev/) ，一种编译后的、类型安全的、可读的 RegExp 替代品，它具有如下功能特征：
 
 - 运行时是零依赖且超最小的；
 - 附带转换以编译为纯正则表达式；
@@ -52,7 +52,7 @@ Threads 补充条款，并确认你已阅读 Meta 隐私权政策 和 Threads �
 - 自然语言语法；
 - 生成的正则表达式在悬停时显示；
 
-[magic-regexp](https://nicelinks.site/redirect?url=https://regexp.dev/) 因为是基于「自然语言语法」，熟悉下 API 之后，使用非常简单，下面是简单示例：
+[magic-regexp](https://regexp.dev/) 因为是基于「自然语言语法」，熟悉下 API 之后，使用非常简单，下面是简单示例：
 
 ```js
 import { createRegExp, exactly } from "magic-regexp"
@@ -63,7 +63,7 @@ console.log(regExp)
 // /(?<=bar\/)foo\/test\.js/
 ```
 
-正则表达式是一种用于**匹配和操作文本**的强大工具，它是由一系列字符和特殊字符组成的模式，用于描述要匹配的文本模式。正则表达式可以在文本中查找、替换、提取和验证特定的模式。但构造正则表达式的方法和创建数学表达式的方法一样，对于不够熟悉的开发者，存在较大困难；基于 [magic-regexp](https://nicelinks.site/redirect?url=https://regexp.dev/) ，你可以使用自然语言来构建，能够起到很大帮助。该项目在 [Github 仓库开源](https://github.com/danielroe/magic-regexp) ，如果您感兴趣，可移步以了解更多。
+正则表达式是一种用于**匹配和操作文本**的强大工具，它是由一系列字符和特殊字符组成的模式，用于描述要匹配的文本模式。正则表达式可以在文本中查找、替换、提取和验证特定的模式。但构造正则表达式的方法和创建数学表达式的方法一样，对于不够熟悉的开发者，存在较大困难；基于 [magic-regexp](https://regexp.dev/) ，你可以使用自然语言来构建，能够起到很大帮助。该项目在 [Github 仓库开源](https://github.com/danielroe/magic-regexp) ，如果您感兴趣，可移步以了解更多。
 
 ── 出自[倾城之链 - Welcome · magic-regexp](https://nicelinks.site/post/64a2c26d3cd8f526b6eda707)
 
@@ -75,7 +75,7 @@ console.log(regExp)
 
 ![倾城之链 - Orama - Search, everywhere.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/oramasearch.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Orama](https://nicelinks.site/redirect?url=https://oramasearch.com/) 是一个快速、内置电池的全文 [搜索](https://nicelinks.site/tags/搜索) 引擎，完全用 [TypeScript](https://nicelinks.site/tags/TypeScript) 编写，零依赖性。它具有弹性、创新和 [开源](https://nicelinks.site/tags/开源) 的搜索体验，以实现与您的基础设施和数据无缝整合。
+**推荐语**：[Orama](https://oramasearch.com/) 是一个快速、内置电池的全文 [搜索](https://nicelinks.site/tags/搜索) 引擎，完全用 [TypeScript](https://nicelinks.site/tags/TypeScript) 编写，零依赖性。它具有弹性、创新和 [开源](https://nicelinks.site/tags/开源) 的搜索体验，以实现与您的基础设施和数据无缝整合。
 
 JavaScript 运行时是**唯一的**要求。Orama 被设计为可以在任何运行时上工作并且没有依赖性。只需几行代码即可开始，下面是创建一个 Orama 实例的例子：
 
@@ -105,7 +105,7 @@ Orama 的速度非常快，可以在一毫秒内搜索到数以百万计的内�
 
 ![倾城之链 - Markmap |  Visualize your Markdown as mindmaps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markmap.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Markmap](https://nicelinks.site/redirect?url=https://markmap.js.org/) ，是一个开源 [程序库](https://nicelinks.site/tags/程序库) ，使用 [Markmap](https://nicelinks.site/tags/Markmap) 将 Markdown [可视化](https://nicelinks.site/tags/可视化) 为思维导图。Markmap 是 Markdown 和 [思维导图](https://nicelinks.site/tags/思维导图) 的组合。它解析 Markdown 内容并提取其内在的层次结构并呈现交互式思维导图，又称**标记图**（`markmap`）。
+**推荐语**：[Markmap](https://markmap.js.org/) ，是一个开源 [程序库](https://nicelinks.site/tags/程序库) ，使用 [Markmap](https://nicelinks.site/tags/Markmap) 将 Markdown [可视化](https://nicelinks.site/tags/可视化) 为思维导图。Markmap 是 Markdown 和 [思维导图](https://nicelinks.site/tags/思维导图) 的组合。它解析 Markdown 内容并提取其内在的层次结构并呈现交互式思维导图，又称**标记图**（`markmap`）。
 
 最简单的使用方法是将 Markdown 内容加载到 [try it out](https://markmap.js.org/repl) 👉 页面。您可以在 [VSCode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) 🚀、命令行、Vim / Neovim 中使用，也可以通过 npm 工具库，在您的前端项目中进行运用。
 
@@ -121,7 +121,7 @@ Orama 的速度非常快，可以在一毫秒内搜索到数以百万计的内�
 
 ![倾城之链 - MRSK — Deploy web apps anywhere](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mrsk.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MRSK](https://nicelinks.site/redirect?url=https://mrsk.dev/) 使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 在从裸机到云虚拟机的任何地方部署 Web 应用程序，且停机时间为零。它使用**动态反向代理** Traefik 在新应用程序容器启动和旧应用程序容器停止时保存请求。它可以跨多个主机无缝工作，使用 SSHKit 执行命令。它是为 Rails 应用程序构建的，但适用于可以使用 Docker 进行容器化的任何类型的 Web 应用程序。
+**推荐语**：[MRSK](https://mrsk.dev/) 使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 在从裸机到云虚拟机的任何地方部署 Web 应用程序，且停机时间为零。它使用**动态反向代理** Traefik 在新应用程序容器启动和旧应用程序容器停止时保存请求。它可以跨多个主机无缝工作，使用 SSHKit 执行命令。它是为 Rails 应用程序构建的，但适用于可以使用 Docker 进行容器化的任何类型的 Web 应用程序。
 
 在过去的十多年里，商业产品呈爆炸式增长，使 Web 应用程序的部署变得更加容易。 [Heroku](https://www.heroku.com/) 以令人难以置信的产品拉开了序幕，该产品似乎永远在竞争中保持领先地位。如今，有了 Fly.io 和 Render 等优秀的替代品。托管 [Kubernetes](https://nicelinks.site/post/5b2cad0a34c03342fda0f37e) 也让 AWS、GCP、 [Digital Ocean](https://nicelinks.site/post/5b0ea574e93ed2618cfac12d) 和其他地方的事情变得更加容易。但这些产品都可以让您以高价租用云中的计算机。如果您想在自己的硬件上运行，或者只是将来有一个明确的迁移路径，您需要仔细考虑如何锁定这些商业平台。最好是在账单吞没你的整个生意之前！
 

@@ -10,7 +10,7 @@
 
 ![倾城之链 - Midjourney ｜  an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.midjourney.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Midjourney](https://nicelinks.site/redirect?url=https://www.midjourney.com/) ，是一款 2022 年 3 月面世的 AI 绘画工具，创始人是 David Holz。只要输入想到的文字，就能通过人工智能产出相对应的图片，耗时只有大约一分钟。推出 beta 版后，这款搭载在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 社区上的工具迅速成为讨论焦点（用户可透过 Discord 的机器人指令进行操作）。
+**推荐语**：[Midjourney](https://www.midjourney.com/) ，是一款 2022 年 3 月面世的 AI 绘画工具，创始人是 David Holz。只要输入想到的文字，就能通过人工智能产出相对应的图片，耗时只有大约一分钟。推出 beta 版后，这款搭载在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 社区上的工具迅速成为讨论焦点（用户可透过 Discord 的机器人指令进行操作）。
 
 **详细说明**：Midjourney 是一款 AI 制图工具，只要关键字，就能透过 AI 算法生成相对应的图片，只需要不到一分钟。可以选择不同画家的艺术风格，例如安迪华荷、达芬奇、达利和毕加索等，还能识别特定镜头或摄影术语。
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - Open Source Guides | Learn how to launch and grow your project.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/opensource.guide.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Open Source Guides](https://nicelinks.site/redirect?url=https://opensource.guide/) 是由 [Github](https://nicelinks.site/tags/Github) 出品的 [开源](https://nicelinks.site/tags/开源) 指南，提供了有关开源 [软件](https://nicelinks.site/tags/软件) 的详细信息、最佳实践和资源，以帮助开发者如何启动和发展他们的项目。该网站主要讲解了以下内容：
+**推荐语**：[Open Source Guides](https://opensource.guide/) 是由 [Github](https://nicelinks.site/tags/Github) 出品的 [开源](https://nicelinks.site/tags/开源) 指南，提供了有关开源 [软件](https://nicelinks.site/tags/软件) 的详细信息、最佳实践和资源，以帮助开发者如何启动和发展他们的项目。该网站主要讲解了以下内容：
 
 1.  **开源基础知识**：介绍了开源软件和开源文化的概念，以及开源社区的工作方式和价值观。
 2.  **参与开源项目**：介绍了如何参与开源项目，包括如何发现和选择开源项目、如何贡献代码、如何提交问题和请求等等。
@@ -50,7 +50,7 @@
 8.  **领导力和治理**：决策有了较正式的规则，可让开源项目迅速生长。
 9.  **行为准则**：社区的长远发展和健康成长，离不开一些行为准则，需要遵守并执行。
 
-总之， [Open Source Guides](https://nicelinks.site/redirect?url=https://opensource.guide/) 提供了开源软件和开源 [社区](https://nicelinks.site/tags/社区) 的全面指南，可以帮助人们更好地理解和参与开源工作。该网站的内容涵盖了开源基础知识、最佳实践、参与项目、社区管理和协作工具，适用于开源爱好者、 [开发者](https://nicelinks.site/tags/开发者) 和管理者等各种人群。 值得一说的是，该项目在 [Github 开源](https://github.com/github/opensource.guide) ，如果您对其感兴趣，不妨移步以了解更多。
+总之， [Open Source Guides](https://opensource.guide/) 提供了开源软件和开源 [社区](https://nicelinks.site/tags/社区) 的全面指南，可以帮助人们更好地理解和参与开源工作。该网站的内容涵盖了开源基础知识、最佳实践、参与项目、社区管理和协作工具，适用于开源爱好者、 [开发者](https://nicelinks.site/tags/开发者) 和管理者等各种人群。 值得一说的是，该项目在 [Github 开源](https://github.com/github/opensource.guide) ，如果您对其感兴趣，不妨移步以了解更多。
 
 ── 出自[倾城之链 - Open Source Guides | Learn how to launch and grow your project.](https://nicelinks.site/post/644a33aa5d123409e728a51a)
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - PicX 图床神器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picx.xpoet.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PicX](https://nicelinks.site/redirect?url=https://picx.xpoet.cn/) 是一款基于 [GitHub](https://nicelinks.site/tags/GitHub) API 开发的图床工具，提供图片上传托管、生成图片链接和常用 [图片](https://nicelinks.site/tags/图片) 工具箱服务。只需 [创建一个 GitHub Token](https://github.com/settings/tokens/new) ，在 [PicX](https://nicelinks.site/redirect?url=https://picx.xpoet.cn/) 官网使用 Token 完成图床配置即可；它具有以下功能亮点：
+**推荐语**：[PicX](https://picx.xpoet.cn/) 是一款基于 [GitHub](https://nicelinks.site/tags/GitHub) API 开发的图床工具，提供图片上传托管、生成图片链接和常用 [图片](https://nicelinks.site/tags/图片) 工具箱服务。只需 [创建一个 GitHub Token](https://github.com/settings/tokens/new) ，在 [PicX](https://picx.xpoet.cn/) 官网使用 Token 完成图床配置即可；它具有以下功能亮点：
 
 - **简单** - 无需下载，无需安装，不限平台，浏览器在线使用。
 - **免费** - PicX 巧妙结合多种开源技术搭建而成，完全免费。
@@ -93,7 +93,7 @@ PicX 基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [jsD
 
 ![倾城之链 - Sailboat UI - Modern UI component library for Tailwind CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sailboatui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sailboat UI](https://nicelinks.site/redirect?url=https://sailboatui.com/)，是一个用于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 的现代 UI 组件库；使用它提供的 150 多个开源 Tailwind CSS 组件，轻松构建您的产品。您只需要安装 Tailwind CSS 并进行配置即可，无需关注使用的框架是 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 还是 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)，具体配置示例如下：
+**推荐语**：[Sailboat UI](https://sailboatui.com/)，是一个用于 [Tailwind CSS](https://nicelinks.site/tags/Tailwind) 的现代 UI 组件库；使用它提供的 150 多个开源 Tailwind CSS 组件，轻松构建您的产品。您只需要安装 Tailwind CSS 并进行配置即可，无需关注使用的框架是 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 还是 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)，具体配置示例如下：
 
 ```js
 // tailwind.config.js
@@ -131,7 +131,7 @@ module.exports = {
 
 ![倾城之链 - Discord | Your Place to Talk and Hang Out](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/discord.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Discord](https://nicelinks.site/redirect?url=https://discord.com/) ，是一款多功能的聊天和语音通信应用程序，它可以用于个人、团队和[社区](https://nicelinks.site/tags/社区)之间的交流。它是**玩耍聊天的地方**，在这里，您可以加入校园俱乐部、游戏群组，或是世界级艺术社区。在这里，您也能邀三五好友一起共度欢乐时光。在这里，您可以轻而易举地每日谈天说地，时常消遣[娱乐](https://nicelinks.site/tags/娱乐)。Discord 主要功能包括：
+**推荐语**：[Discord](https://discord.com/) ，是一款多功能的聊天和语音通信应用程序，它可以用于个人、团队和[社区](https://nicelinks.site/tags/社区)之间的交流。它是**玩耍聊天的地方**，在这里，您可以加入校园俱乐部、游戏群组，或是世界级艺术社区。在这里，您也能邀三五好友一起共度欢乐时光。在这里，您可以轻而易举地每日谈天说地，时常消遣[娱乐](https://nicelinks.site/tags/娱乐)。Discord 主要功能包括：
 
 1.  **文字聊天**：用户可以在 Discord 上创建服务器和频道，并在其中与其他用户进行文字聊天。Discord 支持多种格式的消息，包括文本、图片、视频等等。
 2.  **语音通话**：Discord 允许用户进行语音通话和视频通话，支持多人通话和屏幕共享。用户可以在 Discord 上创建私人或公共语音频道，以便与其他用户交流。
@@ -162,14 +162,14 @@ module.exports = {
 
 ![倾城之链 - bloop | Find Code. Fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bloop.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[bloop](https://nicelinks.site/redirect?url=https://bloop.ai/) 是一个用 [Rust](https://nicelinks.site/tags/Rust) 编写的快速代码搜索引擎。它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库。bloop 具有如下功能特征：
+**推荐语**：[bloop](https://bloop.ai/) 是一个用 [Rust](https://nicelinks.site/tags/Rust) 编写的快速代码搜索引擎。它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库。bloop 具有如下功能特征：
 
 - 基于 GPT-4 的会话搜索；
 - 超快的正则表达式搜索；
 - 同步您的本地和 GitHub 存储库（即将支持更多代码主机）；
 - 复杂的查询过滤器，因此您可以缩小结果范围；
 - 使用符号搜索查找函数、变量或特征‘
-- [使用 Tree-sitter](https://nicelinks.site/redirect?url=https://tree-sitter.github.io/tree-sitter/) 构建的 10 多种最流行语言的精确代码导航；
+- [使用 Tree-sitter](https://tree-sitter.github.io/tree-sitter/) 构建的 10 多种最流行语言的精确代码导航；
 
 Tree-sitter，是一个解析器生成器工具和一个增量解析库。它可以为源文件构建一个具体的语法树，并在源文件被编辑时有效地更新语法树。树保姆的目标是：
 
@@ -190,7 +190,7 @@ bloop 站在 Rust 生态系统的肩膀上。 其搜索功能引由 [Tantivy](ht
 
 ![倾城之链 - AsciiDoc ｜ Publish presentation-rich content from a concise and comprehensive authoring format](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/asciidoc.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AsciiDoc](https://nicelinks.site/redirect?url=https://asciidoc.org/) 是一种用于编写技术内容的纯文本标记语言。它充满了语义元素，并配备了模块化和重用内容的功能。AsciiDoc 内容可以使用文本编辑器编写，在版本控制系统中管理，并发布为多种输出格式。它允许用户创建具有结构的文档，包括技术文档、书籍、 [幻灯片](https://nicelinks.site/tags/PPT) 等等。
+**推荐语**：[AsciiDoc](https://asciidoc.org/) 是一种用于编写技术内容的纯文本标记语言。它充满了语义元素，并配备了模块化和重用内容的功能。AsciiDoc 内容可以使用文本编辑器编写，在版本控制系统中管理，并发布为多种输出格式。它允许用户创建具有结构的文档，包括技术文档、书籍、 [幻灯片](https://nicelinks.site/tags/PPT) 等等。
 
 它与 [Markdown](https://nicelinks.site/tags/Markdown) 类似，当您在 AsciiDoc 中书写时，您使用的是纯文本。这意味着您键入的大部分内容都是您想要传达的文字。只有在需要编码无法以其他方式推断的含义时才添加标记字符。例如，部分标题以一系列等号（`=`）开头，无序列表项以一个或多个星号开头。
 
@@ -217,7 +217,7 @@ AsciiDoc 旨在在系统的、面向机器的语法和自然语言之间取得�
 
 ![倾城之链 - 全球珍藏 – collection.global](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/collection.global.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[全球珍藏 – Collection Global](https://nicelinks.site/redirect?url=https://collection.global/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的娱乐网站；提供诸如黄历测算、在线游戏、短视频、音乐电台、COMIC 动漫等内容。
+**推荐语**：[全球珍藏 – Collection Global](https://collection.global/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的娱乐网站；提供诸如黄历测算、在线游戏、短视频、音乐电台、COMIC 动漫等内容。
 
 ── 出自[倾城之链 - 全球珍藏 – collection.global](https://nicelinks.site/post/6444b9945d123409e7287fb5)
 

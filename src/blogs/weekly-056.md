@@ -12,11 +12,11 @@
 
 ![倾城之链 - 万兴喵影 - 视频剪辑软件_视频制作/编辑工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/miao.wondershare.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[万兴喵影](https://nicelinks.site/redirect?url=https://miao.wondershare.cn/)，是万兴科技推出的一款多平台的`视频剪辑`软件；其口号是：“**简单 智能 让剪辑更 FREE**”；它简洁易上手的同时，还支持了非常多的功能，比如：语音转字幕、智能修复、节拍检测、颜色匹配、音乐闪避等智能工具，让你无需掌握专业软件的使用，也无需花费大量时间就能制作出优秀的视频，快速向他人展示自己的创意。
+**推荐语**：[万兴喵影](https://miao.wondershare.cn/)，是万兴科技推出的一款多平台的`视频剪辑`软件；其口号是：“**简单 智能 让剪辑更 FREE**”；它简洁易上手的同时，还支持了非常多的功能，比如：语音转字幕、智能修复、节拍检测、颜色匹配、音乐闪避等智能工具，让你无需掌握专业软件的使用，也无需花费大量时间就能制作出优秀的视频，快速向他人展示自己的创意。
 
 > 万兴科技（300624.SZ）成立于 2003 年，并于 2018 年登陆 A 股创业板；该公司致力于成为全世界范围内有特色、有影响力的百年软件老店。
 
-温馨提示：以上信息或出自网络，或来自[万兴喵影](https://nicelinks.site/redirect?url=https://miao.wondershare.cn/)官网介绍，目前还未亲自使用其产品。
+温馨提示：以上信息或出自网络，或来自[万兴喵影](https://miao.wondershare.cn/)官网介绍，目前还未亲自使用其产品。
 
 ── 出自[倾城之链 - 万兴喵影 - 视频剪辑软件\_视频制作/编辑工具](https://nicelinks.site/post/622a0c6b4e5ca071558f95ba)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - 构建我的被动收入](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bmpi.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[构建我的被动收入](https://nicelinks.site/redirect?url=https://www.bmpi.dev/)，是基于 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 等工具搭建的个人博客，作者`马大伟`，长期关注**学习、技术与投资**三个领域，所分享内容涉及：学习（GTD、时间管理、知识管理、写作、财务管理）、技术创造（前端、后端、移动端、DevOps）、投资（指数投资、基金、股票、债券）、网赚项目（SEO、Affiliate、Media Buy、Niche、社交媒体）等方面。该站命名参见如下：
+**推荐语**：[构建我的被动收入](https://www.bmpi.dev/)，是基于 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 等工具搭建的个人博客，作者`马大伟`，长期关注**学习、技术与投资**三个领域，所分享内容涉及：学习（GTD、时间管理、知识管理、写作、财务管理）、技术创造（前端、后端、移动端、DevOps）、投资（指数投资、基金、股票、债券）、网赚项目（SEO、Affiliate、Media Buy、Niche、社交媒体）等方面。该站命名参见如下：
 
 > 终身学习（认知杠杆）_ 全栈技术（时间杠杆）_ 投资理财（财务杠杆） => 被动收入（人生杠杆）
 
@@ -48,7 +48,7 @@
 
 ![倾城之链 - 必剪-让创作更有趣](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bcut.drawyoo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[必剪](https://nicelinks.site/redirect?url=https://bcut.drawyoo.com/)，是 [bilibili ](https://nicelinks.site/post/5a5cccc8e05887175ee08523) 官方出品的视频剪辑应用程序，它专为 B 站 `UP 主`制作，它具有以下特色功能：
+**推荐语**：[必剪](https://bcut.drawyoo.com/)，是 [bilibili ](https://nicelinks.site/post/5a5cccc8e05887175ee08523) 官方出品的视频剪辑应用程序，它专为 B 站 `UP 主`制作，它具有以下特色功能：
 
 - **B 站热梗**：热门素材库，为创作加点料；
 - ** 语音字幕**：一键语音转字幕，自动对齐超便捷；
@@ -69,7 +69,7 @@
 
 ![倾城之链 - v1tx - 发现实用工具与软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.v1tx.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[v1tx](https://nicelinks.site/redirect?url=https://www.v1tx.com/) 一个推荐实用工具和软件的网站。它专注于发现新应用，推荐各种效率工具、软件和 APP，包括 Windows、Mac、Android、iOS、网页等多平台应用，让每个人找到适合的软件并掌握使用技巧。其所涉及的内容非常广泛，如设计、视频剪辑、笔记软件、以及各种应用软件使用教程等；其讲解也十分详尽，而且整个界面极为干净纯粹，在当今国内互联网大环境中，可谓「稀有存在」。除了网站外，您还可以关注公众号（v1tx）、或通过邮件订阅，从而获取最新分享。
+**推荐语**：[v1tx](https://www.v1tx.com/) 一个推荐实用工具和软件的网站。它专注于发现新应用，推荐各种效率工具、软件和 APP，包括 Windows、Mac、Android、iOS、网页等多平台应用，让每个人找到适合的软件并掌握使用技巧。其所涉及的内容非常广泛，如设计、视频剪辑、笔记软件、以及各种应用软件使用教程等；其讲解也十分详尽，而且整个界面极为干净纯粹，在当今国内互联网大环境中，可谓「稀有存在」。除了网站外，您还可以关注公众号（v1tx）、或通过邮件订阅，从而获取最新分享。
 
 ── 出自[倾城之链 - v1tx - 发现实用工具与软件](https://nicelinks.site/post/6226065a083a7f3765fd8fa0)
 
@@ -81,7 +81,7 @@
 
 ![倾城之链 - ahooks - React Hooks Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ahooks.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ahooks](https://nicelinks.site/redirect?url=https://ahooks.js.org/)，发音 [eɪ hʊks]，一套高质量可靠的 React Hooks 库。（_Hook_ 是 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性）。
+**推荐语**：[ahooks](https://ahooks.js.org/)，发音 [eɪ hʊks]，一套高质量可靠的 React Hooks 库。（_Hook_ 是 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性）。
 
 ### React Hooks 由来
 
@@ -97,9 +97,9 @@ function Welcome(props) {
 
 但是，这种写法有重大限制：必须是**纯函数**，不能包含状态，也不支持生命周期方法，因此无法取代类。
 
-于是乎，React Hooks 就诞生了；**其设计目的，就是加强版函数组件，完全不使用"类"，就能写出一个全功能的组件**。**Hook 和现有代码可以同时工作，你可以渐进式地使用他们**。（React 不推荐把你已有的组件全部重写，但是你可以在新组件里开始使用 Hook。）。关于其更详细的设计初衷，可参见 [React Hooks 动机](https://nicelinks.site/redirect?url=https://zh-hans.reactjs.org/docs/hooks-intro.html#motivation)。
+于是乎，React Hooks 就诞生了；**其设计目的，就是加强版函数组件，完全不使用"类"，就能写出一个全功能的组件**。**Hook 和现有代码可以同时工作，你可以渐进式地使用他们**。（React 不推荐把你已有的组件全部重写，但是你可以在新组件里开始使用 Hook。）。关于其更详细的设计初衷，可参见 [React Hooks 动机](https://zh-hans.reactjs.org/docs/hooks-intro.html#motivation)。
 
-"Hooks" 直译是 “钩子”，它并不仅是 `react`，甚至不仅是前端界的专用术语，而是整个行业所熟知的用语。通常指：系统运行到某一时期时，会调用被注册到该时机的回调函数。在 React Hooks 这里，它建议**组件尽量写成纯函数，如果需要外部功能和副作用，就用钩子把外部代码"钩"进来**。你需要什么功能，就使用什么钩子。React 默认提供了一些常用钩子，你也可以封装自己的钩子。而 [ahooks](https://nicelinks.site/redirect?url=https://ahooks.js.org/) 就是基于 React Hooks 封装的工具库，它具有以下特性：
+"Hooks" 直译是 “钩子”，它并不仅是 `react`，甚至不仅是前端界的专用术语，而是整个行业所熟知的用语。通常指：系统运行到某一时期时，会调用被注册到该时机的回调函数。在 React Hooks 这里，它建议**组件尽量写成纯函数，如果需要外部功能和副作用，就用钩子把外部代码"钩"进来**。你需要什么功能，就使用什么钩子。React 默认提供了一些常用钩子，你也可以封装自己的钩子。而 [ahooks](https://ahooks.js.org/) 就是基于 React Hooks 封装的工具库，它具有以下特性：
 
 ### ahooks 特性
 
@@ -112,7 +112,7 @@ function Welcome(props) {
 
 ### ahooks 由来
 
-> [ahooks](https://nicelinks.site/redirect?url=https://ahooks.js.org/) 是由阿里的前端团队开发，它是基于 React Hooks 的工具库，致力提供常用且高质量的 Hooks，hooks 的创建使得构建 React 组件时不再需要定义 class 类。从开发中得到证明，很早之前，React 中使用的类架构，随着项目结构的庞大，类组件的维护让我们的开发变得繁琐。经常发现自己在编写难以分解的大型复杂组件，并且组件之间极度耦合，很难再去拆分成小组件，而且相关代码分布在多个生命周期方法中，使得阅读、维护和测试变得格外棘手。此外，我们还必须绑定方法以 this 确保可以在组件中访问到 this。在处理高阶组件时会遇到过多的 prop 钻孔问题——也称为包装器地狱。由此，hooks 在前端 react 开发中渐渐兴起，阿里的开发团队将在开发中使用的 hooks 进行封装,最终得到了一套完整的 hooks 类库。
+> [ahooks](https://ahooks.js.org/) 是由阿里的前端团队开发，它是基于 React Hooks 的工具库，致力提供常用且高质量的 Hooks，hooks 的创建使得构建 React 组件时不再需要定义 class 类。从开发中得到证明，很早之前，React 中使用的类架构，随着项目结构的庞大，类组件的维护让我们的开发变得繁琐。经常发现自己在编写难以分解的大型复杂组件，并且组件之间极度耦合，很难再去拆分成小组件，而且相关代码分布在多个生命周期方法中，使得阅读、维护和测试变得格外棘手。此外，我们还必须绑定方法以 this 确保可以在组件中访问到 this。在处理高阶组件时会遇到过多的 prop 钻孔问题——也称为包装器地狱。由此，hooks 在前端 react 开发中渐渐兴起，阿里的开发团队将在开发中使用的 hooks 进行封装,最终得到了一套完整的 hooks 类库。
 
 在当前 React 项目研发过程中，一套好用的 React Hooks 库是必不可少的，希望 ahooks 能成为您的选择。
 

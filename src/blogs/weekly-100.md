@@ -10,7 +10,7 @@
 
 ![倾城之链 - Crowdbotics | Build Apps Fast, No Coding Required](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.crowdbotics.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Crowdbotics](https://nicelinks.site/redirect?url=https://www.crowdbotics.com/) ，一款快速构建**应用程序**的在线平台；包括 Web、iOS 和 Android，使用内置的 DevOps 和云托管导出完整的 React Native + Django 代码。Crowdbotics 不是低代码，而是完整的代码变得简单。通过 Crowdbotics 应用程序生成器，构建可用于业务的软件、应用程序、集成以及更多。雇佣经过认证的 PM 和开发人员，随时帮助建立你的项目。它具备一下功能特征：
+**推荐语**：[Crowdbotics](https://www.crowdbotics.com/) ，一款快速构建**应用程序**的在线平台；包括 Web、iOS 和 Android，使用内置的 DevOps 和云托管导出完整的 React Native + Django 代码。Crowdbotics 不是低代码，而是完整的代码变得简单。通过 Crowdbotics 应用程序生成器，构建可用于业务的软件、应用程序、集成以及更多。雇佣经过认证的 PM 和开发人员，随时帮助建立你的项目。它具备一下功能特征：
 
 ### 托管应用程序开发
 
@@ -44,7 +44,7 @@ Crowdbotics 引用了数百万个生产级软件包的库，以确定给定项�
 
 ![倾城之链 - CodeCrafters | Advanced programming challenges](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codecrafters.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CodeCrafters](https://nicelinks.site/redirect?url=https://codecrafters.io/)，面向经验丰富的工程师的编程课程，帮助工程师真正精通他们的手艺，重新创建 Redis、Git、Docker——用你自己的双手。通过采取行动和深入研究，向世界上最好的人学习，获得专家级的信心。
+**推荐语**：[CodeCrafters](https://codecrafters.io/)，面向经验丰富的工程师的编程课程，帮助工程师真正精通他们的手艺，重新创建 Redis、Git、Docker——用你自己的双手。通过采取行动和深入研究，向世界上最好的人学习，获得专家级的信心。
 
 > What I cannot create, I do not understand — Richard Feynman
 
@@ -60,7 +60,7 @@ CodeCrafters，在 Github 所创建仓库：[build-your-own-x](https://github.co
 
 ![倾城之链 - EarlyBird: Landing Page Builder for Startups](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/earlybird.im.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[EarlyBird](https://nicelinks.site/redirect?url=https://earlybird.im/) 是为初创企业提供的全新登陆页面构建工具，在几分钟内，就可以开始投递和验证商业想法。Early Bird 提供 [无代码](https://nicelinks.site/tags/无代码) 登录页面构建器，轻松创建、宣传和验证您的早期业务。Early Bird 具有以下功能特征：
+**推荐语**：[EarlyBird](https://earlybird.im/) 是为初创企业提供的全新登陆页面构建工具，在几分钟内，就可以开始投递和验证商业想法。Early Bird 提供 [无代码](https://nicelinks.site/tags/无代码) 登录页面构建器，轻松创建、宣传和验证您的早期业务。Early Bird 具有以下功能特征：
 
 ### 新手友好的 UI 块
 
@@ -108,7 +108,7 @@ Early Bird 其作用是避免在早期阶段浪费时间和金钱，确保您的
 
 ![倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/allthingsai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[All Things AI](https://nicelinks.site/redirect?url=https://allthingsai.com/)，人工智能（AI）工具和服务的完整资源（[AI](https://nicelinks.site/tags/AI) 资源导航网站），在这里可以发现最新的人工智能工具、服务和资源。近几年，随着 AI 的快速发展迭代，衍生出各种服务；尤其是 2022 年 11 月，OpenAI 旗下的 ChatGPT 大火之后，进一步加剧 AI 的繁荣。在该网站，可以发现：聊天机器人、编码、设计、图像生成、照片编辑、个人资料图片、写作、生物、日历、数据、电子邮件、游戏开发、合法的、楷模、电话应用程序、播客、简报、搜索、演讲、电子表格、视频等相关服务。您如果遇到过创新的人工智能产品，或者您正在开发自己的产品？也可以在 [All Things AI](https://nicelinks.site/redirect?url=https://allthingsai.com/) 分享提交，他们可能会将其列入产品的列表。
+**推荐语**：[All Things AI](https://allthingsai.com/)，人工智能（AI）工具和服务的完整资源（[AI](https://nicelinks.site/tags/AI) 资源导航网站），在这里可以发现最新的人工智能工具、服务和资源。近几年，随着 AI 的快速发展迭代，衍生出各种服务；尤其是 2022 年 11 月，OpenAI 旗下的 ChatGPT 大火之后，进一步加剧 AI 的繁荣。在该网站，可以发现：聊天机器人、编码、设计、图像生成、照片编辑、个人资料图片、写作、生物、日历、数据、电子邮件、游戏开发、合法的、楷模、电话应用程序、播客、简报、搜索、演讲、电子表格、视频等相关服务。您如果遇到过创新的人工智能产品，或者您正在开发自己的产品？也可以在 [All Things AI](https://allthingsai.com/) 分享提交，他们可能会将其列入产品的列表。
 
 ── 出自[倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://nicelinks.site/post/63be903b1d0f6a2f376e78c5)
 
@@ -120,7 +120,7 @@ Early Bird 其作用是避免在早期阶段浪费时间和金钱，确保您的
 
 ![倾城之链 - Airplane | Developer infrastructure for internal tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.airplane.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Airplane](https://nicelinks.site/redirect?url=https://www.airplane.dev/) 是一种以开发人员为中心的方法来构建内部 UI 和工作流程。它成立于 2021 年七月，愿景是通过一系列自动化工具，把公司内部系统和繁琐工作流程自动化。成立不到半年就宣布了由 Benchmark 领投的 850 万美元 A 轮融资；2022 年九月宣布了 3200 万美元的 B 轮。现今已经有 100+ 个付费客户和几千名开发人员。Airplane 具有如下功能特征：
+**推荐语**：[Airplane](https://www.airplane.dev/) 是一种以开发人员为中心的方法来构建内部 UI 和工作流程。它成立于 2021 年七月，愿景是通过一系列自动化工具，把公司内部系统和繁琐工作流程自动化。成立不到半年就宣布了由 Benchmark 领投的 850 万美元 A 轮融资；2022 年九月宣布了 3200 万美元的 B 轮。现今已经有 100+ 个付费客户和几千名开发人员。Airplane 具有如下功能特征：
 
 ### 使用 React 构建视图，减去样板文件
 
@@ -154,7 +154,7 @@ Airplane 现在的客户主要还是中小企业，其规划目标是：旨在�
 
 ![倾城之链 - SQLite Home Page](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.sqlite.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SQLite](https://nicelinks.site/redirect?url=https://www.sqlite.org/) 是一个 C 语言库，实现了一个小型、快速、独立、高可靠性、全功能的 SQL 数据库引擎。SQLite 是世界上使用最多的数据库引擎。所有手机和大多数电脑都内置了 SQLite，并捆绑在人们每天使用的无数其他应用程序中。
+**推荐语**：[SQLite](https://www.sqlite.org/) 是一个 C 语言库，实现了一个小型、快速、独立、高可靠性、全功能的 SQL 数据库引擎。SQLite 是世界上使用最多的数据库引擎。所有手机和大多数电脑都内置了 SQLite，并捆绑在人们每天使用的无数其他应用程序中。
 
 ### SQLite 的优势
 

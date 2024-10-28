@@ -12,7 +12,7 @@
 
 ![倾城之链 - Kap - Capture your screen](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getkap.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Kap](https://nicelinks.site/redirect?url=https://getkap.co/) 是一款**免费**且[开源](https://nicelinks.site/redirect?url=https://github.com/wulkano/kap)的 Mac 录屏软件（使用 Web 技术构建的开源屏幕录像机，支持 M1 芯片电脑）。它支持多种录制方式，你可以选择全屏录制，或窗口录制，也可以自定义框选录制特定区域，还支持设定特定比例和尺寸，在录制完成后，你还可以使用它自带的编辑工具设置视频的格式，比如设置开始和结束时间、尺寸大小、帧率、导出格式等，无需再导入到剪辑软件中进行处理。它具备以下功能特征：
+**推荐语**：[Kap](https://getkap.co/) 是一款**免费**且[开源](https://github.com/wulkano/kap)的 Mac 录屏软件（使用 Web 技术构建的开源屏幕录像机，支持 M1 芯片电脑）。它支持多种录制方式，你可以选择全屏录制，或窗口录制，也可以自定义框选录制特定区域，还支持设定特定比例和尺寸，在录制完成后，你还可以使用它自带的编辑工具设置视频的格式，比如设置开始和结束时间、尺寸大小、帧率、导出格式等，无需再导入到剪辑软件中进行处理。它具备以下功能特征：
 
 ### 质量更高，噪音更低
 
@@ -42,7 +42,7 @@
 
 ![倾城之链 - 免费在线学习代码重构和设计模式](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/refactoringguru.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Refactoring.Guru](https://nicelinks.site/redirect?url=https://refactoringguru.cn/)，免费、**在线**学习代码重构和设计模式的网站。在这里，  您可以免费在线学习代码重构、  设计模式、 SOLID 原则  （单一职责、  开闭原则、  里氏替换、  接口隔离以及依赖反转）  以及其他和智能编程主题相关的一切内容。该网站有写道：
+**推荐语**：[Refactoring.Guru](https://refactoringguru.cn/)，免费、**在线**学习代码重构和设计模式的网站。在这里，  您可以免费在线学习代码重构、  设计模式、 SOLID 原则  （单一职责、  开闭原则、  里氏替换、  接口隔离以及依赖反转）  以及其他和智能编程主题相关的一切内容。该网站有写道：
 
 > 我们将帮助你先从整体了解各种代码重构技巧和设计模式，  学习它们之间如何交叉、  合作和关联。  这些概念并不是我发明的，  而是过去 20 年间由无数大师级程序员提出。  但是，  我认为代码重构、  设计模式和一般编程原则之间的联系对于大部分程序开发者来说仍是非常神秘的。  这也是我为什么创建这个网站的原因。
 
@@ -58,7 +58,7 @@
 
 ![倾城之链 - VitePress | Vite & Vue Powered Static Site Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vitepress.vuejs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [VitePress](https://nicelinks.site/redirect?url=https://vitepress.vuejs.org/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) & [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（开源、简单、强大且高性能）。截止目前（2022/06/07），它正处于 `alpha` 阶段。它已经适合`开箱即用`的文档使用，但配置和主题 API 可能仍会在次要版本之间发生变化。VitePress 具有以下功能特性：
+**推荐语**： [VitePress](https://vitepress.vuejs.org/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) & [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（开源、简单、强大且高性能）。截止目前（2022/06/07），它正处于 `alpha` 阶段。它已经适合`开箱即用`的文档使用，但配置和主题 API 可能仍会在次要版本之间发生变化。VitePress 具有以下功能特性：
 
 ### Vite 无可匹敌的 DX
 
@@ -88,7 +88,7 @@
 
 ![倾城之链 - JSON Viewer - JSON Hero](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jsonhero.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[JSON Hero](https://nicelinks.site/redirect?url=https://jsonhero.io/)，是一个开源的、漂亮的网络 JSON 浏览器，可让您快速浏览、搜索和导航您的 JSON 文件。🚀 它通过为您提供包含额外功能的、干净美观的 UI，使阅读和理解 JSON 文件变得容易。JSON Hero 具有以下功能特征：
+**推荐语**：[JSON Hero](https://jsonhero.io/)，是一个开源的、漂亮的网络 JSON 浏览器，可让您快速浏览、搜索和导航您的 JSON 文件。🚀 它通过为您提供包含额外功能的、干净美观的 UI，使阅读和理解 JSON 文件变得容易。JSON Hero 具有以下功能特征：
 
 - 以您喜欢的任何方式查看 JSON：列视图、树视图、编辑器视图等；
 - 自动推断字符串的内容并提供有用的预览；
@@ -99,7 +99,7 @@
 - 支持**黑暗模式**、代码视图、VS 代码插件等；
 - 具有路径支持的可轻松共享的 URL；
 
-JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停止盯着编辑器中的千行 JSON 文件；此外，JSON Hero 使用非常的简单，只需打开网站，输入 JSON URL，或者粘贴 JSON 内容即可。另外值得一提的是，JSON Hero 免费可用，并在 [Github 完全开源](https://nicelinks.site/redirect?url=https://github.com/jsonhero-io/jsonhero-web)，感兴趣的朋友，可以了解下。
+JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停止盯着编辑器中的千行 JSON 文件；此外，JSON Hero 使用非常的简单，只需打开网站，输入 JSON URL，或者粘贴 JSON 内容即可。另外值得一提的是，JSON Hero 免费可用，并在 [Github 完全开源](https://github.com/jsonhero-io/jsonhero-web)，感兴趣的朋友，可以了解下。
 
 ── 出自[倾城之链 - JSON Viewer - JSON Hero](https://nicelinks.site/post/629f36b4f7de4036d27ffe88)
 
@@ -111,7 +111,7 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 
 ![倾城之链 - What is GraphQL Start - GraphQL Start](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphqlstart.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GraphQL Start](https://nicelinks.site/redirect?url=https://graphqlstart.com/) 是一本实用指南（该网站基于 [Gitbook](https://nicelinks.site/post/5c7d27dace377707f7f675f3) 所搭建），它解释了如何使用 JavaScript 和 [GraphQL.js](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148) 库在 Node.js 堆栈之上从头到尾构建 GraphQL API（服务器）。在本**教程**中，您将学习以下内容：
+**推荐语**：[GraphQL Start](https://graphqlstart.com/) 是一本实用指南（该网站基于 [Gitbook](https://nicelinks.site/post/5c7d27dace377707f7f675f3) 所搭建），它解释了如何使用 JavaScript 和 [GraphQL.js](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148) 库在 Node.js 堆栈之上从头到尾构建 GraphQL API（服务器）。在本**教程**中，您将学习以下内容：
 
 - 如何组织你的 GraphQL API 项目
 - 如何实现查询、突变和订阅；
@@ -132,7 +132,7 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 
 ![倾城之链 - Relay | A JavaScript Framework for building data-driven React Applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/relay.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Relay](https://nicelinks.site/redirect?url=https://relay.dev/) 是一个 JavaScript 框架，用于构建数据驱动的 React 应用程序。它专为任何规模的高性能而设计。无论您的应用程序有数十、数百或数千个组件，Relay 都可以轻松管理数据获取。并且由于 Relay 的增量编译器，即使您的应用程序增长，它也可以保持您的迭代速度；您可以从以下功能特征，进一步了解 Relay：
+**推荐语**：[Relay](https://relay.dev/) 是一个 JavaScript 框架，用于构建数据驱动的 React 应用程序。它专为任何规模的高性能而设计。无论您的应用程序有数十、数百或数千个组件，Relay 都可以轻松管理数据获取。并且由于 Relay 的增量编译器，即使您的应用程序增长，它也可以保持您的迭代速度；您可以从以下功能特征，进一步了解 Relay：
 
 - **声明式**：不再使用命令式 API 与您的数据存储进行通信。只需使用 GraphQL 声明您的数据需求，然后让 Relay 确定如何以及何时获取您的数据。
 - **托管**：查询位于依赖它们的视图旁边，因此您可以轻松地推断您的应用程序。Relay 将查询聚合为高效的网络请求，以仅获取您需要的内容。
@@ -141,7 +141,7 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 - **自动优化**：Relay 的编译器聚合和优化整个应用程序的数据需求，以便可以在单个 GraphQL 请求中有效地获取它们。Relay 处理繁重的工作，以确保以最有效的方式获取组件声明的数据。例如，通过对相同字段进行重复数据删除，以及在运行时预计算使用的信息，以及其他优化。
 - **数据一致性**：当影响它们的数据发生变化时，Relay 会自动使所有组件保持最新，并且仅在绝对必要时才有效地更新它们。这意味着没有不必要的重新渲染。Relay 还支持执行 GraphQL Mutations，可选择乐观更新和本地数据更新，同时确保屏幕上的可见数据始终保持最新。
 
-Relay 用于在 React 应用程序中获取和管理 GraphQL 数据，它强调可维护性、类型安全和运行时性能。通过结合声明性数据获取和静态构建步骤来实现这一点。通过声明性数据获取，组件声明它们需要什么数据，而 Relay 会弄清楚如何有效地获取数据。在静态构建步骤中，Relay 验证和优化查询，并预先计算工件以实现更快的运行时性能。如果您从事 Web 前端开发相关工作，并对 Relay 感兴趣，可阅读 [Relay 文档](https://nicelinks.site/redirect?url=https://relay.dev/docs/) 以便进一步了解和使用它。
+Relay 用于在 React 应用程序中获取和管理 GraphQL 数据，它强调可维护性、类型安全和运行时性能。通过结合声明性数据获取和静态构建步骤来实现这一点。通过声明性数据获取，组件声明它们需要什么数据，而 Relay 会弄清楚如何有效地获取数据。在静态构建步骤中，Relay 验证和优化查询，并预先计算工件以实现更快的运行时性能。如果您从事 Web 前端开发相关工作，并对 Relay 感兴趣，可阅读 [Relay 文档](https://relay.dev/docs/) 以便进一步了解和使用它。
 
 ── 出自[倾城之链 - Relay | A JavaScript Framework for building data-driven React Applications](https://nicelinks.site/post/629deedff7de4036d27ffe84)
 

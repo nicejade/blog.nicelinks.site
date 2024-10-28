@@ -10,7 +10,7 @@
 
 ![倾城之链 - GitHub Blocks | Reimagine repositories](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blocks.githubnext.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitHub Blocks](https://nicelinks.site/redirect?url=https://blocks.githubnext.com/) ，重新构想存储库，使用自定义的交互式块扩展您的代码库。构建丰富的文档，增强您的工作流程，并使您的存储库变得栩栩如生。以后仓库里面能展示什么内容，**取决于你的想象力和构建 block 的能力**。
+**推荐语**：[GitHub Blocks](https://blocks.githubnext.com/) ，重新构想存储库，使用自定义的交互式块扩展您的代码库。构建丰富的文档，增强您的工作流程，并使您的存储库变得栩栩如生。以后仓库里面能展示什么内容，**取决于你的想象力和构建 block 的能力**。
 
 Blocks 的目标是**让代码仓库变得生动起来**，除了代码和 README，还可以展示 3D 文件、脑图、流程图、图表、图标、字体预览、CSS 样式预览、项目运行状况的实时数据、创建可搜索的参考文档、嵌入实时演示模块等等，甚至还有可交互的模块，例如所见即所得的编辑器、可以排序和统计的表格、能够运行代码的沙箱等等。
 
@@ -28,7 +28,7 @@ Blocks 的目标是**让代码仓库变得生动起来**，除了代码和 READM
 
 ![倾城之链 - Spacedrive — A file manager from the future.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.spacedrive.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Spacedrive](https://nicelinks.site/redirect?url=https://www.spacedrive.com/) 是一个开源（[Github Spacedrive](https://github.com/spacedriveapp/spacedrive)）跨平台文件浏览器，由 Rust 编写的虚拟分布式文件系统 ( [VDFS](https://github.com/spacedriveapp/spacedrive#what-is-a-vdfs) )提供支持。它将多个设备上的文件集中在一处。从云服务到离线硬盘，Spacedrive 将您设备的存储容量和处理能力整合到一个个人分布式云中，使用起来既安全又直观。
+**推荐语**：[Spacedrive](https://www.spacedrive.com/) 是一个开源（[Github Spacedrive](https://github.com/spacedriveapp/spacedrive)）跨平台文件浏览器，由 Rust 编写的虚拟分布式文件系统 ( [VDFS](https://github.com/spacedriveapp/spacedrive#what-is-a-vdfs) )提供支持。它将多个设备上的文件集中在一处。从云服务到离线硬盘，Spacedrive 将您设备的存储容量和处理能力整合到一个个人分布式云中，使用起来既安全又直观。
 
 ### 什么是虚拟分布式文件系统？
 
@@ -52,7 +52,7 @@ VDFS 的第一个实现可以在加州大学伯克利分校李浩源的 [论文�
 
 ![倾城之链 - GSAP | Professional-grade animation for the modern web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gsap.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GSAP](https://nicelinks.site/redirect?url=https://gsap.com/) ，现代网络的专业级、高性能[动画](https://nicelinks.site/tags/动画)库；它是一个强大的 [JavaScript](https://nicelinks.site/tags/JavaScript) 工具集，可将开发人员变成动画超级英雄。构建适用于所有主要浏览器的高性能动画。动画 CSS、 [SVG](https://nicelinks.site/tags/SVG) 、canvas、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、WebGL、颜色、字符串、运动路径、通用对象...任何 JavaScript 可以触及的内容！GSAP 的 [ScrollTrigger](https://gsap.com/scroll/) 插件可让您使用最少的代码创建令人惊叹的基于滚动的动画。 [gsap.matchMedia()](<https://gsap.com/docs/v3/GSAP/gsap.matchMedia()/>) 使构建响应式、易于访问的动画变得轻而易举。GSAP 完全灵活，零依赖，您可以把它用在你想要的地方，诸如：
+**推荐语**：[GSAP](https://gsap.com/) ，现代网络的专业级、高性能[动画](https://nicelinks.site/tags/动画)库；它是一个强大的 [JavaScript](https://nicelinks.site/tags/JavaScript) 工具集，可将开发人员变成动画超级英雄。构建适用于所有主要浏览器的高性能动画。动画 CSS、 [SVG](https://nicelinks.site/tags/SVG) 、canvas、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、WebGL、颜色、字符串、运动路径、通用对象...任何 JavaScript 可以触及的内容！GSAP 的 [ScrollTrigger](https://gsap.com/scroll/) 插件可让您使用最少的代码创建令人惊叹的基于滚动的动画。 [gsap.matchMedia()](<https://gsap.com/docs/v3/GSAP/gsap.matchMedia()/>) 使构建响应式、易于访问的动画变得轻而易举。GSAP 完全灵活，零依赖，您可以把它用在你想要的地方，诸如：
 
 - **滚动**：将滚动变成丝般流畅的故事讲述。
 - **静止无功发生器**：使用我们的 SVG 插件进行移动、变形等
@@ -73,7 +73,7 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 ![倾城之链 - gulp.js | A toolkit to automate & enhance your workflow](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gulpjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gulp.js](https://nicelinks.site/redirect?url=https://gulpjs.com/) ，用于 [自动化](https://nicelinks.site/tags/自动化) 和增强您的工作流程的工具包；利用 `gulp` 和 [JavaScript](https://nicelinks.site/tags/JavaScript) 的灵活性来自动执行缓慢、重复的工作流程，并将其组合成高效的构建管道。它具有如下功能特征：
+**推荐语**：[Gulp.js](https://gulpjs.com/) ，用于 [自动化](https://nicelinks.site/tags/自动化) 和增强您的工作流程的工具包；利用 `gulp` 和 [JavaScript](https://nicelinks.site/tags/JavaScript) 的灵活性来自动执行缓慢、重复的工作流程，并将其组合成高效的构建管道。它具有如下功能特征：
 
 ### 灵活的
 
@@ -105,11 +105,11 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 ![倾城之链 - 12ft Ladder | Bypass any paywall](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/12ft.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[12ft Ladder](https://nicelinks.site/redirect?url=https://12ft.io/) ，一款绕过任何「付费墙」的在线[服务](https://nicelinks.site/tags/服务)，适用于您最喜爱的网站；将 `12ft.io` 添加到任何付费专区页面的 URL 前面，该服务将尽力删除付费专区并让您访问该文章。
+**推荐语**：[12ft Ladder](https://12ft.io/) ，一款绕过任何「付费墙」的在线[服务](https://nicelinks.site/tags/服务)，适用于您最喜爱的网站；将 `12ft.io` 添加到任何付费专区页面的 URL 前面，该服务将尽力删除付费专区并让您访问该文章。
 
 ### 为什么做出该服务？
 
-作者相信 Google Adwords（Google Ads） 杀死了网络。Google Adwords 激励网站兜售 SEO 优化的垃圾。不这样做的网站被迫针对电子邮件捕获进行优化，以便他们可以直接向您进行营销。搜索结果现在显示“新闻”、广告和 SEO 垃圾邮件，而不是显示信息。 您应该能够在 Google 上搜索某些内容并获得问题的答案，而无需注册某些时事通讯。这就是作者创建 [12ft.io](https://nicelinks.site/redirect?url=https://12ft.io/) 的原因。
+作者相信 Google Adwords（Google Ads） 杀死了网络。Google Adwords 激励网站兜售 SEO 优化的垃圾。不这样做的网站被迫针对电子邮件捕获进行优化，以便他们可以直接向您进行营销。搜索结果现在显示“新闻”、广告和 SEO 垃圾邮件，而不是显示信息。 您应该能够在 Google 上搜索某些内容并获得问题的答案，而无需注册某些时事通讯。这就是作者创建 [12ft.io](https://12ft.io/) 的原因。
 
 ### 12ft Ladder 是如何工作的？
 
@@ -125,13 +125,13 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 ![倾城之链 - Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.lalal.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[lalal.ai](https://nicelinks.site/redirect?url=https://www.lalal.ai/) ：下一代人声去除器和音乐源分离服务，可实现**快速、轻松和精确的主干提取**。删除人声、器乐、鼓、贝斯、钢琴、电吉他、原声吉他和合成器音轨，而不会造成质量损失。有网友亲测，表示效果非常好。
+**推荐语**：[lalal.ai](https://www.lalal.ai/) ：下一代人声去除器和音乐源分离服务，可实现**快速、轻松和精确的主干提取**。删除人声、器乐、鼓、贝斯、钢琴、电吉他、原声吉他和合成器音轨，而不会造成质量损失。有网友亲测，表示效果非常好。
 
 它主要用于两个场景，一个是音轨剥离，一个是声音移除，例如它可以提取人声、鼓、贝斯、吉他和弦乐等声音，也可以去除背景音乐、麦克风隆隆声以及其他不需要的噪音。
 
-[lalal.ai](https://nicelinks.site/redirect?url=https://www.lalal.ai/) 拥有一批人工智能、机器学习、数学优化和数字信号处理领域的专家团队。他们的目标是让音乐家、声音制作人、音乐工程师、视频博主、主播、转录员、翻译、记者以及许多其他专业人士和创意人员更轻松地处理音频和视频。
+[lalal.ai](https://www.lalal.ai/) 拥有一批人工智能、机器学习、数学优化和数字信号处理领域的专家团队。他们的目标是让音乐家、声音制作人、音乐工程师、视频博主、主播、转录员、翻译、记者以及许多其他专业人士和创意人员更轻松地处理音频和视频。
 
-2020 年，他们开发了一种名为 Rocknet 的独特神经网络，使用 20TB 的训练数据从歌曲中提取乐器和音轨。2021 年，他们创建了 Cassiopeia，这是一种优于 Rocknet 的下一代解决方案，可以改善分割结果，同时显着减少音频伪影。 [lalal.ai](https://nicelinks.site/redirect?url=https://www.lalal.ai/) 从 2-stem 分离器开始，在 2021 年取得了显着增长。
+2020 年，他们开发了一种名为 Rocknet 的独特神经网络，使用 20TB 的训练数据从歌曲中提取乐器和音轨。2021 年，他们创建了 Cassiopeia，这是一种优于 Rocknet 的下一代解决方案，可以改善分割结果，同时显着减少音频伪影。 [lalal.ai](https://www.lalal.ai/) 从 2-stem 分离器开始，在 2021 年取得了显着增长。
 
 2023 年，他们开发了适用于 iOS 和 Android 的移动应用程序，使 LALAL.AI 及其所有功能可以随时随地使用。此外还训练并发布了第四代神经网络 `Orion` ，它采用独特的音频分离方法。该网络不仅从混音中提取词干，还在此过程中对其进行增强，消除错误和可听缺陷，以获得尽可能最佳的质量结果。如果您对该产品或团队感兴趣，可移步 [关于 LALAL.AI](https://www.lalal.ai/about/) 从而了解更多。
 
@@ -147,7 +147,7 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 ![倾城之链 - Exping | 一款为创作者而生的地图标记工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/exping.world.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[exping](https://nicelinks.site/redirect?url=https://exping.world/) 是一款为 [创作者](https://nicelinks.site/tags/创作者) 设计的 [地图](https://nicelinks.site/tags/地图) 标记工具，与地点相关的事物都可以标记在地图上，满足创作者的各种地图创作需求，帮助创作者创作出更有价值的地图。它主要具有如下功能：
+**推荐语**：[exping](https://exping.world/) 是一款为 [创作者](https://nicelinks.site/tags/创作者) 设计的 [地图](https://nicelinks.site/tags/地图) 标记工具，与地点相关的事物都可以标记在地图上，满足创作者的各种地图创作需求，帮助创作者创作出更有价值的地图。它主要具有如下功能：
 
 ### 地点标记
 
@@ -177,7 +177,7 @@ GSAP 是一个高性能的 JavaScript 动画库，可以用于创建各种复杂
 
 你可邀请好友一起加入地图创作，实时同步编辑内容、多人实时位置共享等。
 
-[exping](https://nicelinks.site/redirect?url=https://exping.world/) 这款产品，其想法大约源于 2014 年至 2016 年左右，因为些原因，该团队直到 2021 年才落地；该软件采用 [Flutter](https://nicelinks.site/post/5b37d29e187e143b63cf01f0) 框架进行开发，使得可以在同一时间兼顾双平台开发；在前期 Web 版本也是使用 Flutter for Web 生成，但无奈依旧有许多组件未能和核心库一样运作正常，甚至可能纯文本渲染都会有些问题。只能在半路放弃重新以 Web 技术栈写了一遍。
+[exping](https://exping.world/) 这款产品，其想法大约源于 2014 年至 2016 年左右，因为些原因，该团队直到 2021 年才落地；该软件采用 [Flutter](https://nicelinks.site/post/5b37d29e187e143b63cf01f0) 框架进行开发，使得可以在同一时间兼顾双平台开发；在前期 Web 版本也是使用 Flutter for Web 生成，但无奈依旧有许多组件未能和核心库一样运作正常，甚至可能纯文本渲染都会有些问题。只能在半路放弃重新以 Web 技术栈写了一遍。
 
 该产品名字之所以叫 「exping（Exploring Expriencing Ping）」，是希望大家多去探索、体验，并在这些点和人之间进行连结。如果您对该产品该兴趣，可移步官网从而了解更多，诸如：诞生历史、产品思考、算法抉择、未来计划、如何盈利、如何处理数据等等内容。
 

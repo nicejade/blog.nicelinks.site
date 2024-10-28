@@ -12,11 +12,11 @@
 
 ![倾城之链 - Eyepetizer | 开眼视频](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/home.eyepetizer.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Eyepetizer | 开眼视频](https://nicelinks.site/redirect?url=https://home.eyepetizer.net/)，是汇聚全球优质创作者的**短视频内容社区**。他们致力于向用户提供**高级的视觉享受、传递新鲜文化和生活方式**。并欢迎追求质量、审美和创造力的全球创作者的入驻，共同为用户提供美好生活方式启迪，用好内容，传递「**开阔**」和「**向上**」的精神愉悦感。
+**推荐语**：[Eyepetizer | 开眼视频](https://home.eyepetizer.net/)，是汇聚全球优质创作者的**短视频内容社区**。他们致力于向用户提供**高级的视觉享受、传递新鲜文化和生活方式**。并欢迎追求质量、审美和创造力的全球创作者的入驻，共同为用户提供美好生活方式启迪，用好内容，传递「**开阔**」和「**向上**」的精神愉悦感。
 
-在[开眼](https://nicelinks.site/redirect?url=https://home.eyepetizer.net/)，他们**拒绝泛娱乐化沉沦**，珍惜每一位用户的碎片化时间，努力让每一次点击，每一段三五分钟的浏览，都能为用户打开一个新的世界，体会新的表达，引发新的思考。让前进的动力成为他们与用户彼此相伴的最核心理由（这种理念值得大赞 👍）。
+在[开眼](https://home.eyepetizer.net/)，他们**拒绝泛娱乐化沉沦**，珍惜每一位用户的碎片化时间，努力让每一次点击，每一段三五分钟的浏览，都能为用户打开一个新的世界，体会新的表达，引发新的思考。让前进的动力成为他们与用户彼此相伴的最核心理由（这种理念值得大赞 👍）。
 
-他们希望让每一位用户，通过观看、讨论、发布、和彼此结交，在这里找寻到精神伙伴和兴趣家园。作为用户，早在 2015 年，就开始接触并喜欢[开眼](https://nicelinks.site/redirect?url=https://home.eyepetizer.net/)（在[那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/)一文中有过记载），它要比现在那些头部短视频应用早很多年；由于它的精致有些“曲高和寡”，并不为很多人所知；但如果要为年轻人推荐一款视频相关应用，只限[开眼](https://nicelinks.site/redirect?url=https://home.eyepetizer.net/)，其他所谓各种主流平台，多用低俗诱惑、媚俗诱导、算法引导沉迷，实在不值一提；对于家长而言，应该联合坚决抵制。
+他们希望让每一位用户，通过观看、讨论、发布、和彼此结交，在这里找寻到精神伙伴和兴趣家园。作为用户，早在 2015 年，就开始接触并喜欢[开眼](https://home.eyepetizer.net/)（在[那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/)一文中有过记载），它要比现在那些头部短视频应用早很多年；由于它的精致有些“曲高和寡”，并不为很多人所知；但如果要为年轻人推荐一款视频相关应用，只限[开眼](https://home.eyepetizer.net/)，其他所谓各种主流平台，多用低俗诱惑、媚俗诱导、算法引导沉迷，实在不值一提；对于家长而言，应该联合坚决抵制。
 
 ── 出自[倾城之链 - Eyepetizer | 开眼视频](https://nicelinks.site/post/61557e56835dda0faf03db45)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - addog.vip | 广告人的网址导航 | 品牌/策划/营销/创意/文案](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.addog.vip.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[addog.vip | 广告人的网址导航](https://nicelinks.site/redirect?url=https://uidea.tools/)，是一个广告人的网址导航网站，旨在收集分享了各类网站网址，包含品牌、策划、营销、创意、文案今日热榜、大数据分析、PPT 模板、设计导航、营销策略等，是一个专业的**广告**相关网站网址大全导航。
+**推荐语**：[addog.vip | 广告人的网址导航](https://uidea.tools/)，是一个广告人的网址导航网站，旨在收集分享了各类网站网址，包含品牌、策划、营销、创意、文案今日热榜、大数据分析、PPT 模板、设计导航、营销策略等，是一个专业的**广告**相关网站网址大全导航。
 
 ── 出自[倾城之链 - addog.vip | 广告人的网址导航 | 品牌/策划/营销/创意/文案](https://nicelinks.site/post/615573e3835dda0faf03db43)
 
@@ -44,9 +44,9 @@
 
 ![倾城之链 - 办公人导航-实用的办公软件及网站网址导航！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.bgrdh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[办公人导航](https://nicelinks.site/redirect?url=https://www.bgrdh.com/)是一个分享办公人常用在线工具、常用软件、常用网站，以及其他办公人常用相关服务的导航网站，以提高办公人的**工作效率**，是办公人生活工作中的好帮手（2021.5.22 建立网站，基于 WordPress 所搭建）。
+**推荐语**：[办公人导航](https://www.bgrdh.com/)是一个分享办公人常用在线工具、常用软件、常用网站，以及其他办公人常用相关服务的导航网站，以提高办公人的**工作效率**，是办公人生活工作中的好帮手（2021.5.22 建立网站，基于 WordPress 所搭建）。
 
-[办公人导航](https://nicelinks.site/redirect?url=https://www.bgrdh.com/)所有分享均为以**用户实用**为主，对于一些软件/工具/网站功能相同，仅展示一个作为推荐，减少网站不必要的展示，如果大家需要了解更多，可以点击详细查看。该站不关注收录网站的数量，只关注收录网站对用户是否实用，是否有价值，对于一些低质量垃圾网站，无更新无维护的，本站不会收录，并对已经收录的网站会定期检查清除。
+[办公人导航](https://www.bgrdh.com/)所有分享均为以**用户实用**为主，对于一些软件/工具/网站功能相同，仅展示一个作为推荐，减少网站不必要的展示，如果大家需要了解更多，可以点击详细查看。该站不关注收录网站的数量，只关注收录网站对用户是否实用，是否有价值，对于一些低质量垃圾网站，无更新无维护的，本站不会收录，并对已经收录的网站会定期检查清除。
 
 ── 出自[倾城之链 - 办公人导航-实用的办公软件及网站网址导航！](https://nicelinks.site/post/61556921835dda0faf03db41)
 
@@ -60,7 +60,7 @@
 
 ![倾城之链 - 问卷网-免费问卷调查平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wenjuan.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[问卷网](https://nicelinks.site/redirect?url=https://www.wenjuan.com/)，免费问卷调查平台，专注于为企业和个人提供免费的问卷创建、发布、管理、收集及分析服务。根据官方说明，[问卷网](https://nicelinks.site/redirect?url=https://www.wenjuan.com/)具有以下功能特性：
+**推荐语**：[问卷网](https://www.wenjuan.com/)，免费问卷调查平台，专注于为企业和个人提供免费的问卷创建、发布、管理、收集及分析服务。根据官方说明，[问卷网](https://www.wenjuan.com/)具有以下功能特性：
 
 - 创新用户界面，流程直观合理，编辑如手写般流畅易用；
 - 海量模板库调用问卷模板，简单修改即能制作一份专业问卷；
@@ -69,7 +69,7 @@
 - 可定制提供精美的图形分析界面，并支持导出为多格式文件；
 - 自定义主题，结合丰富配色让问卷更贴合需求；
 
-除了`问卷调研`，[问卷网](https://nicelinks.site/redirect?url=https://www.wenjuan.com/)还是免费易用的`报名表单`、`考试测评`、`投票评选`、`开始测评`、`学术调研`工具；简单三步，即可获得数据；还多端支持，所有功能均免费；如果您有相关诉求，[问卷网](https://nicelinks.site/redirect?url=https://www.wenjuan.com/)未尝不是一个选择。
+除了`问卷调研`，[问卷网](https://www.wenjuan.com/)还是免费易用的`报名表单`、`考试测评`、`投票评选`、`开始测评`、`学术调研`工具；简单三步，即可获得数据；还多端支持，所有功能均免费；如果您有相关诉求，[问卷网](https://www.wenjuan.com/)未尝不是一个选择。
 
 ── 出自[倾城之链 - 问卷网-免费问卷调查平台](https://nicelinks.site/post/6151ae4c835dda0faf03db3d)
 
@@ -81,7 +81,7 @@
 
 ![倾城之链 - Emoji大全 | Emoji表情符号词典 📓 | EmojiAll中文官方网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.emojiall.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Emoji 大全](https://nicelinks.site/redirect?url=https://www.emojiall.com/)，提供最新、完整的 Emoji 搜索和相关信息，包括表情符号含义、使用示例、Unicode 代码点、高分辨率图片、复制和粘贴，以及 Emoji 大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。[Emojiall.com](https://nicelinks.site/redirect?url=https://www.emojiall.com/) 致力于推广和普及 emoji，帮助大家了解 emoji 的意思、更准确的表达自己、更方便的使用 emoji，希望 emoji 能为大家的日常生活带来更多欢乐。
+**推荐语**：[Emoji 大全](https://www.emojiall.com/)，提供最新、完整的 Emoji 搜索和相关信息，包括表情符号含义、使用示例、Unicode 代码点、高分辨率图片、复制和粘贴，以及 Emoji 大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。[Emojiall.com](https://www.emojiall.com/) 致力于推广和普及 emoji，帮助大家了解 emoji 的意思、更准确的表达自己、更方便的使用 emoji，希望 emoji 能为大家的日常生活带来更多欢乐。
 
 ── 出自[倾城之链 - Emoji 大全 | Emoji 表情符号词典 📓 | EmojiAll 中文官方网站](https://nicelinks.site/post/615067e2835dda0faf03db3b)
 

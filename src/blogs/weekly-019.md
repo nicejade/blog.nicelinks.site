@@ -10,13 +10,13 @@
 
 ![倾城之链 - Image Cutout and Background Removal – cutout.pro](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cutout.pro.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[cutout.pro](https://nicelinks.site/redirect?url=https://www.cutout.pro/) 是一款图像裁剪、背景去除工具；它 100% 自动化，支持免费在线使用，并提供编辑器功能。您手动上传、或在此处拖放文件、`CTRL+V` 粘贴图片，或图片 URL 地址，即可开启使用。它具有以下优势：
+**推荐语**：[cutout.pro](https://www.cutout.pro/) 是一款图像裁剪、背景去除工具；它 100% 自动化，支持免费在线使用，并提供编辑器功能。您手动上传、或在此处拖放文件、`CTRL+V` 粘贴图片，或图片 URL 地址，即可开启使用。它具有以下优势：
 
-- **移除背景**：[cutout.pro](https://nicelinks.site/redirect?url=https://www.cutout.pro/) 具有惊人的效果，就好像以前从未有过的东西一样。路人、杂物、遮挡物，植被、动物、车辆、图形、图标、符号等，你不喜欢的一切，一键清除， AI 自动 100% 完成。
+- **移除背景**：[cutout.pro](https://www.cutout.pro/) 具有惊人的效果，就好像以前从未有过的东西一样。路人、杂物、遮挡物，植被、动物、车辆、图形、图标、符号等，你不喜欢的一切，一键清除， AI 自动 100% 完成。
 - **免费更改背景**：提供多种元素，卡通、风景照、手绘、颜色、渐变等，支持您编辑您的图片，自由修改图片背景；
 - **3D 效果的卡通自拍**：使用人工智能的魔力，将您的肖像自动变成卡通自拍。立即上传自己的肖像，轻轻一按即可将自己卡通化（仅限于头像部分）。
 
-需要说明的是，[cutout.pro](https://nicelinks.site/redirect?url=https://www.cutout.pro/) 虽然支持免费使用，但免费下载并非高清图像；欲下载高清资源，需要获取积分（购买或做任务）。
+需要说明的是，[cutout.pro](https://www.cutout.pro/) 虽然支持免费使用，但免费下载并非高清图像；欲下载高清资源，需要获取积分（购买或做任务）。
 
 ── 出自[倾城之链 - Image Cutout and Background Removal – cutout.pro](https://nicelinks.site/post/60d48622db7006579fb126b0)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - 【抖音】记录美好生活](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.douyin.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[抖音网页版](https://nicelinks.site/redirect?url=https://www.douyin.com/)共设十个栏目，包括直播、娱乐、知识、二次元、游戏、美食、体育、时尚、音乐。用户可以通过抖音账号登录，发布个人视频，目前内容仍以视频为主，多数在 1-5 分钟之间；官方描述，[抖音网页版](https://nicelinks.site/redirect?url=https://www.douyin.com/)的推出，是希望满足好用户在不同场景下的使用需求。随着视频化创作表达成为日常，抖音上积累了不同领域的内容，很多教授、学校也在抖音上发布知识类、教学类内容。这些内容往往以横屏为主，时长一般超过 5 分钟，网页版更适合这类内容的观看和消费。从视频时长和用户上传内容的模式来看，抖音网页版更加类似海外中长视频巨头 YouTube。在国内市场上，则与 [B 站](https://nicelinks.site/post/5a5cccc8e05887175ee08523)形成一定重叠。
+**推荐语**：[抖音网页版](https://www.douyin.com/)共设十个栏目，包括直播、娱乐、知识、二次元、游戏、美食、体育、时尚、音乐。用户可以通过抖音账号登录，发布个人视频，目前内容仍以视频为主，多数在 1-5 分钟之间；官方描述，[抖音网页版](https://www.douyin.com/)的推出，是希望满足好用户在不同场景下的使用需求。随着视频化创作表达成为日常，抖音上积累了不同领域的内容，很多教授、学校也在抖音上发布知识类、教学类内容。这些内容往往以横屏为主，时长一般超过 5 分钟，网页版更适合这类内容的观看和消费。从视频时长和用户上传内容的模式来看，抖音网页版更加类似海外中长视频巨头 YouTube。在国内市场上，则与 [B 站](https://nicelinks.site/post/5a5cccc8e05887175ee08523)形成一定重叠。
 
 从内容来看，主要来自部分抖音 App 的头部账号；和多数视频类网站相似，网页版视频可以调节为 0.75、1.25、1.5 倍速播放，还支持悬浮小窗口播放模式。不同于手机版 App 的算法推荐机制，网页版对视频内容进行分类筛选，向用户推荐近期抖音社区的高点赞数内容，还设置了搜索栏窗口，更强调用户的主动性。
 
@@ -46,11 +46,11 @@
 
 ![倾城之链 - Designify - Turn any photo into awesome](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.designify.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Designify](https://nicelinks.site/redirect?url=https://www.designify.com/)，一款**免费**、在线工具，可以将任何照片变成精彩绝伦（Awesome）；[Designify](https://nicelinks.site/redirect?url=https://www.designify.com/) 100% 自动工作，您选择任何图像，并使用它来创建完美的设计。[Designify](https://nicelinks.site/redirect?url=https://www.designify.com/) 将利用“魔法“🪄，为您生成数以百计风格的照片；选择您最喜欢的结果，可立即下载或分享。
+**推荐语**：[Designify](https://www.designify.com/)，一款**免费**、在线工具，可以将任何照片变成精彩绝伦（Awesome）；[Designify](https://www.designify.com/) 100% 自动工作，您选择任何图像，并使用它来创建完美的设计。[Designify](https://www.designify.com/) 将利用“魔法“🪄，为您生成数以百计风格的照片；选择您最喜欢的结果，可立即下载或分享。
 
-[Designify](https://nicelinks.site/redirect?url=https://www.designify.com/) 是如何工作的呢？它将世界上最先进的视觉人工智（AI）能，整合到一个简单的工具中。**使用最高质量标准去除图像背景，为对象添加逼真的阴影并增强颜色，以使用人工智能创建无与伦比的设计**。更多的魔法即将到来。
+[Designify](https://www.designify.com/) 是如何工作的呢？它将世界上最先进的视觉人工智（AI）能，整合到一个简单的工具中。**使用最高质量标准去除图像背景，为对象添加逼真的阴影并增强颜色，以使用人工智能创建无与伦比的设计**。更多的魔法即将到来。
 
-除此外，[Designify](https://nicelinks.site/redirect?url=https://www.designify.com/) 还提供「智能编辑器」，通过添加徽标或任何其他图像，来编辑您的设计。智能调整阴影，或自动匹配设计元素的颜色。告别像素选择。[Designify](https://nicelinks.site/redirect?url=https://www.designify.com/) 的编辑能力不同于您以前使用过的任何东西，这实在令人兴趣大增；如果您有类似诉求，不妨一试。
+除此外，[Designify](https://www.designify.com/) 还提供「智能编辑器」，通过添加徽标或任何其他图像，来编辑您的设计。智能调整阴影，或自动匹配设计元素的颜色。告别像素选择。[Designify](https://www.designify.com/) 的编辑能力不同于您以前使用过的任何东西，这实在令人兴趣大增；如果您有类似诉求，不妨一试。
 
 ── 出自[倾城之链 - Designify - Turn any photo into awesome](https://nicelinks.site/post/60d3319cdb7006579fb126ac)
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - 众山小读书笔记软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/omynote.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[众山小读书笔记](https://nicelinks.site/redirect?url=https://omynote.com)是一款帮助你集中管理多种阅读平台（无论是 Kindle、微信读书、豆瓣阅读还是纸质书等）产生的读书笔记的软件。它支持非常方便的笔记导入导出，以及阅读时间的记录，帮助你全面记录读书相关的数据，让你更了解自己的阅读习惯，激励自己多读书，读好书。[众山小读书笔记](https://nicelinks.site/redirect?url=https://omynote.com)目前仍在非常活跃的维护中，主要功能有：
+**推荐语**：[众山小读书笔记](https://omynote.com)是一款帮助你集中管理多种阅读平台（无论是 Kindle、微信读书、豆瓣阅读还是纸质书等）产生的读书笔记的软件。它支持非常方便的笔记导入导出，以及阅读时间的记录，帮助你全面记录读书相关的数据，让你更了解自己的阅读习惯，激励自己多读书，读好书。[众山小读书笔记](https://omynote.com)目前仍在非常活跃的维护中，主要功能有：
 
 - 导入笔记：Kindle、微信读书、豆瓣阅读，更多平台开发中；
 - 导出笔记：HTML、纯文本、Markdown，更多格式开发中；
@@ -82,7 +82,7 @@
 
 ![倾城之链 - 友盟+，国内领先的第三方全域数据智能服务商](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.umeng.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[友盟+](https://nicelinks.site/redirect?url=https://www.umeng.com/)，国内第三方全域数据服务商。2010 年 4 月友盟在北京成立，是中国专业的移动开发者服务平台。2016 年 1 月 26 日友盟、CNZZ 及缔元信三家公司正式合并，业务全面整合，升级为友盟 。友盟+以“数据智能，驱动业务增长”为使命，基于技术与算法能力，结合全域数据资源，挖掘出 40+ 标签大类，15,000+ 客群标签、100+ 用户/行业分析指标，通过 AI 赋能的一站式互联网数据产品与服务体系，帮助企业实现深度用户洞察、实时业务决策和持续业务增长。
+**推荐语**：[友盟+](https://www.umeng.com/)，国内第三方全域数据服务商。2010 年 4 月友盟在北京成立，是中国专业的移动开发者服务平台。2016 年 1 月 26 日友盟、CNZZ 及缔元信三家公司正式合并，业务全面整合，升级为友盟 。友盟+以“数据智能，驱动业务增长”为使命，基于技术与算法能力，结合全域数据资源，挖掘出 40+ 标签大类，15,000+ 客群标签、100+ 用户/行业分析指标，通过 AI 赋能的一站式互联网数据产品与服务体系，帮助企业实现深度用户洞察、实时业务决策和持续业务增长。
 
 ── 出自[倾城之链 - 友盟+，国内领先的第三方全域数据智能服务商](https://nicelinks.site/post/60d32878db7006579fb126a8)
 

@@ -27,7 +27,7 @@
 
 ![倾城之链 - Gitpod - Dev environments built for the cloud](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gitpod.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gitpod](https://nicelinks.site/redirect?url=https://www.gitpod.io/) 通过在浏览器中提供由 [VS Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 提供的预建协作开发环境，简化了开发者的工作流程。Gitpod 具有以下功能特性：
+**推荐语**：[Gitpod](https://www.gitpod.io/) 通过在浏览器中提供由 [VS Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 提供的预建协作开发环境，简化了开发者的工作流程。Gitpod 具有以下功能特性：
 
 - **为开发环境集成 CI / CD**：应用程序代码，配置和基础结构都应作为机器可执行代码存储在 git 存储库中，并自动连续地应用于开发环境。
 - **与团队一起编码**：在 **Gitpod** 上进行代码审查，在一个工作空间中实时协同工作，与您的团队共享可复制的工作空间；
@@ -48,7 +48,7 @@
 
 ![倾城之链 - Defonic | A fabulous ambient noise generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/defonic.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Defonic](https://nicelinks.site/redirect?url=https://defonic.com/) 一个神奇的环境噪音发生器。基于 Defonic，您可以创建您自己独特的声音环境，无论是在家里或办公室，都能享受愉悦设定。内置大量沉浸式背景声音，如虫鸣鸟叫、潺潺流水、风吹海浪、淅沥小雨、呼呼暖火、雷声阵阵等等自然声音；也有车水马龙、校园图书馆、猫的呼声、空气风扇等非自然之音，共 20 余种；并且可以同时开启多种声音组合，也可以采用 Defonic 预设的组合类型，如冥想、生产率、放松、睡觉、禅、耳目一新等；另外，Defonic 还支持时间设定、会员高级服务等。
+**推荐语**：[Defonic](https://defonic.com/) 一个神奇的环境噪音发生器。基于 Defonic，您可以创建您自己独特的声音环境，无论是在家里或办公室，都能享受愉悦设定。内置大量沉浸式背景声音，如虫鸣鸟叫、潺潺流水、风吹海浪、淅沥小雨、呼呼暖火、雷声阵阵等等自然声音；也有车水马龙、校园图书馆、猫的呼声、空气风扇等非自然之音，共 20 余种；并且可以同时开启多种声音组合，也可以采用 Defonic 预设的组合类型，如冥想、生产率、放松、睡觉、禅、耳目一新等；另外，Defonic 还支持时间设定、会员高级服务等。
 
 ── 出自[倾城之链 - Defonic | A fabulous ambient noise generator](https://nicelinks.site/post/605336f606342c4b00e04eca)
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - Rainbow Hunt | Ultimate rain generator for relaxing or working](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rainbowhunt.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：您是否喜欢下雨天的慰藉？将此和平直接带到您的屏幕上、您的耳朵里。 [RainbowHunt](https://nicelinks.site/redirect?url=https://rainbowhunt.com/) 是一个 WebGL 雨水生成器，可重新创建舒适的工作环境（如果您喜欢雨水的声音和景象，而又不会弄湿或溺水）。RainbowHunt 支持多种类型，如小雨（Light Rain）、雨滴打在窗户上（Raindrops hitting a window）、暴雨（Rainstorm）、溅起的雨水（Splashing rainfall）、雷雨（Thunder）；并且支持这几种互相组合，而且每种类型的声音大小可设定。额外的，RainbowHunt 还支持其他设定，如白天、夜晚；屏幕雨滴数量；是否停止 ☔️ 等等，非常贴心。
+**推荐语**：您是否喜欢下雨天的慰藉？将此和平直接带到您的屏幕上、您的耳朵里。 [RainbowHunt](https://rainbowhunt.com/) 是一个 WebGL 雨水生成器，可重新创建舒适的工作环境（如果您喜欢雨水的声音和景象，而又不会弄湿或溺水）。RainbowHunt 支持多种类型，如小雨（Light Rain）、雨滴打在窗户上（Raindrops hitting a window）、暴雨（Rainstorm）、溅起的雨水（Splashing rainfall）、雷雨（Thunder）；并且支持这几种互相组合，而且每种类型的声音大小可设定。额外的，RainbowHunt 还支持其他设定，如白天、夜晚；屏幕雨滴数量；是否停止 ☔️ 等等，非常贴心。
 
 ── 出自[倾城之链 - Rainbow Hunt | Ultimate rain generator for relaxing or working](https://nicelinks.site/post/605323bd06342c4b00e04ec8)
 
@@ -74,7 +74,7 @@
 
 ![倾城之链 - 卜卜口](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mouto.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[卜卜口](https://nicelinks.site/redirect?url=https://mouto.org/)是基于[妹 Blog ](https://nicelinks.site/redirect?url=https://github.com/itorr/imouto)（一个 充分的利用缓存、模板、模块化、静态化 以及不同以往的框架结构 来实现 快速、明确、极简 呈现内容为主的博客程序）搭建的快速、明确、极简博客。博主，于零九年接触**程序**~界面~开发，遵循**极简主义**、热爱新特性~走弯路~。喜欢参与[有趣~无聊~的项目](https://nicelinks.site/redirect?url=https://mouto.org/projects)~~拖延~~，部分开源在 [GitHub](https://nicelinks.site/redirect?url=https://github.com/itorr)，其中[能不能好好说话？](https://nicelinks.site/redirect?url=https://github.com/itorr/nbnhhsh)（拼音首字母缩写翻译工具，用以理解社交平台上，通过拼音首字母缩写指代特定词句）给人留下深刻印象，现获得 Star 3.7K+；另有**不会百度么**（百度使用简易教程）等项目。
+**推荐语**：[卜卜口](https://mouto.org/)是基于[妹 Blog ](https://github.com/itorr/imouto)（一个 充分的利用缓存、模板、模块化、静态化 以及不同以往的框架结构 来实现 快速、明确、极简 呈现内容为主的博客程序）搭建的快速、明确、极简博客。博主，于零九年接触**程序**~界面~开发，遵循**极简主义**、热爱新特性~走弯路~。喜欢参与[有趣~无聊~的项目](https://mouto.org/projects)~~拖延~~，部分开源在 [GitHub](https://github.com/itorr)，其中[能不能好好说话？](https://github.com/itorr/nbnhhsh)（拼音首字母缩写翻译工具，用以理解社交平台上，通过拼音首字母缩写指代特定词句）给人留下深刻印象，现获得 Star 3.7K+；另有**不会百度么**（百度使用简易教程）等项目。
 
 ── 出自[倾城之链 - 卜卜口](https://nicelinks.site/post/6052afa406342c4b00e04ec5)
 
@@ -86,13 +86,13 @@
 
 ![倾城之链 - Coder: The Developer Workspace Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/coder.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Coder](https://nicelinks.site/redirect?url=https://coder.com/)：开发人员工作区平台；将软件开发转移到您的云中，并集中它们的创建和管理。借助云的强大功能和卓越的开发人员体验，使开发人员保持顺畅。对于编码人员，它具有以下好处：
+**推荐语**：[Coder](https://coder.com/)：开发人员工作区平台；将软件开发转移到您的云中，并集中它们的创建和管理。借助云的强大功能和卓越的开发人员体验，使开发人员保持顺畅。对于编码人员，它具有以下好处：
 
 - **一致的工作空间**：开发环境是在几秒钟内，从集中式映像存储库（Docker）创建的。可以使用该映像将基础映像的更新推送到所有环境。不再有“它可以在我的机器上能正常工作”这种问题，并且消除了频繁配置的烦恼；
 - **设计安全**：源代码和数据，可以在群集或授权存储库中保持安全；不要让任何东西放在工作站或笔记本电脑上，只需等待进入，降低源代码泄漏的风险；
 - **完全遥远**：从任何地方，在任何设备上安全地编码。唯一的要求是互联网访问和 Web 浏览器。远程访问，与本机打开应用程序感觉一样；
 
-值得一提的是，[Coder](https://nicelinks.site/redirect?url=https://coder.com/) 还开源了 [cdr/code-server](https://nicelinks.site/redirect?url=https://github.com/cdr/code-server)（VS Code in the browser）项目，它允许开发人员使用浏览器访问运行 [VS Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 的远程开发环境。[Coder](https://nicelinks.site/redirect?url=https://coder.com/) 以 [cdr/code-server](https://nicelinks.site/redirect?url=https://github.com/cdr/code-server) 的成功为基础，并增加了为企业团队设计的功能，包括对其他 [IDE](https://nicelinks.site/tags/IDE) 的支持和高级安全功能。
+值得一提的是，[Coder](https://coder.com/) 还开源了 [cdr/code-server](https://github.com/cdr/code-server)（VS Code in the browser）项目，它允许开发人员使用浏览器访问运行 [VS Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 的远程开发环境。[Coder](https://coder.com/) 以 [cdr/code-server](https://github.com/cdr/code-server) 的成功为基础，并增加了为企业团队设计的功能，包括对其他 [IDE](https://nicelinks.site/tags/IDE) 的支持和高级安全功能。
 
 ── 出自[倾城之链 - Coder: The Developer Workspace Platform](https://nicelinks.site/post/6051fe0706342c4b00e04ec3)
 
@@ -104,7 +104,7 @@
 
 ![倾城之链 - Embed.so - Make your website more personal and engaging](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/embed.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：使用 [embed.so](https://nicelinks.site/redirect?url=https://embed.so/) ，您只需要上传视频，几分钟之内即可获得嵌入代码。将代码放置到您的网站上，然后看到显示的视频；是时候升级您的网站，使其更具个性和吸引力。使用 [embed.so](https://nicelinks.site/redirect?url=https://embed.so/) 有以下特点：
+**推荐语**：使用 [embed.so](https://embed.so/) ，您只需要上传视频，几分钟之内即可获得嵌入代码。将代码放置到您的网站上，然后看到显示的视频；是时候升级您的网站，使其更具个性和吸引力。使用 [embed.so](https://embed.so/) 有以下特点：
 
 1. 轻松上传视频；
 2. 自定义嵌入视频；

@@ -10,7 +10,7 @@
 
 ![倾城之链 - Immich - High performance self-hosted photo and video backup solution](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/immich.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Immich](https://nicelinks.site/redirect?url=https://immich.app/) 高性能自托管照片和视频备份解决方案，直接从您的手机上进行。如果你想部署私有的照片或视频的托管服务，不想使用 iCloud 或者 Google photos 等云厂商的产品，不妨试试这个开源项目 Immich。
+**推荐语**：[Immich](https://immich.app/) 高性能自托管照片和视频备份解决方案，直接从您的手机上进行。如果你想部署私有的照片或视频的托管服务，不想使用 iCloud 或者 Google photos 等云厂商的产品，不妨试试这个开源项目 Immich。
 
 Immich，它是高性能自托管的照片和视频备份解决方案，使用 Dart 编写，支持多端的 APP 和 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 快速部署功能；它重视隐私、记忆，以及在易于使用和友好的界面中回顾那些时刻的乐趣。值得说明的是：该项目正在**非常积极的**开发中（`WIP`）。预计会出现错误和更改。不要将其用作存储照片和视频的**唯一方式**。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/immich-app/immich)，从而了解更多。
 
@@ -26,7 +26,7 @@ Immich，它是高性能自托管的照片和视频备份解决方案，使用 D
 
 ![倾城之链 - Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.sniffnet.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sniffnet](https://nicelinks.site/redirect?url=https://www.sniffnet.net/) 是一款**网络监控工具**，用 Rust 编写的跨平台应用程序，可帮助您轻松跟踪互联网流量，**快速**且**简单**。无论您是想**收集统计数据**，还是需要**更深入地检查**网络中发生的情况，此应用程序都能满足您的要求。
+**推荐语**：[Sniffnet](https://www.sniffnet.net/) 是一款**网络监控工具**，用 Rust 编写的跨平台应用程序，可帮助您轻松跟踪互联网流量，**快速**且**简单**。无论您是想**收集统计数据**，还是需要**更深入地检查**网络中发生的情况，此应用程序都能满足您的要求。
 
 ### 您可以用 Sniffnet 做什么？
 
@@ -67,9 +67,9 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 ![倾城之链 - Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mergeek.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mergeek.com](https://nicelinks.site/redirect?url=https://mergeek.com/) ：科技产品爱好者 [社区](https://nicelinks.site/tags/社区) ，旨在**发现并介绍**全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。如果你有很棒的产品（APP，软件，网站，硬件），该平台欢迎推荐。在 Mergeek，你可以为你的新产品找到对他们感兴趣的产品爱好者。
+**推荐语**：[Mergeek.com](https://mergeek.com/) ：科技产品爱好者 [社区](https://nicelinks.site/tags/社区) ，旨在**发现并介绍**全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。如果你有很棒的产品（APP，软件，网站，硬件），该平台欢迎推荐。在 Mergeek，你可以为你的新产品找到对他们感兴趣的产品爱好者。
 
-[Mergeek.com](https://nicelinks.site/redirect?url=https://mergeek.com/) 致力于为仍在初创期的个人或团队提供产品发布及展示机会； 当你的产品还“不为人知”的时候，选择在 Mergeek 上发布你的产品，并拥有自己的产品**公共主页**，会为你带来很多种子用户，帮助你的产品成长。
+[Mergeek.com](https://mergeek.com/) 致力于为仍在初创期的个人或团队提供产品发布及展示机会； 当你的产品还“不为人知”的时候，选择在 Mergeek 上发布你的产品，并拥有自己的产品**公共主页**，会为你带来很多种子用户，帮助你的产品成长。
 
 你也可以不断在此发布你的产品动态信息，让用户更加了解你以及你的产品； 同时，你还可以和社区用户进行交流，从而不断做出更优秀的产品。
 
@@ -87,7 +87,7 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 ![倾城之链 - GPT4All | various collection of powerful language models](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gpt4all.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GPT4All](https://nicelinks.site/redirect?url=https://gpt4all.io/) ：一个免费使用、本地运行、具有隐私意识的聊天机器人。**无需 GPU 或互联网**。所提供的桌面程序客户端，支持 Windows、Mac、Ubuntu 等平台，您可以下载以探索 GPT4All 的功能，在您自己的硬件上，诸如：
+**推荐语**：[GPT4All](https://gpt4all.io/) ：一个免费使用、本地运行、具有隐私意识的聊天机器人。**无需 GPU 或互联网**。所提供的桌面程序客户端，支持 Windows、Mac、Ubuntu 等平台，您可以下载以探索 GPT4All 的功能，在您自己的硬件上，诸如：
 
 - **回答有关世界的问题**：有任何问题都可以向 GPT4All 询问。
 - **个人写作助理**：撰写电子邮件、文档、创意故事、诗歌、歌曲和戏剧。
@@ -122,7 +122,7 @@ GPT4All 模型是一个 3GB - 8GB 文件，您可以下载该文件并将其插�
 
 ![倾城之链 - WebWhiz - ChatGPT for your website](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.webwhiz.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WebWhiz](https://nicelinks.site/redirect?url=https://www.webwhiz.ai/) ，为您的网站定制 [ChatGPT](https://nicelinks.site/tags/ChatGPT)，在您的网站数据上训练 ChatGPT 并构建可以立即回答客户查询的 AI 聊天机器人。让 AI 处理支持问题，只需几分钟即可将 chatGPT 的功能添加到您的网站。无需编码。WebWhiz 具有如下功能特征：
+**推荐语**：[WebWhiz](https://www.webwhiz.ai/) ，为您的网站定制 [ChatGPT](https://nicelinks.site/tags/ChatGPT)，在您的网站数据上训练 ChatGPT 并构建可以立即回答客户查询的 AI 聊天机器人。让 AI 处理支持问题，只需几分钟即可将 chatGPT 的功能添加到您的网站。无需编码。WebWhiz 具有如下功能特征：
 
 ### 轻松集成
 
@@ -148,7 +148,7 @@ WebWhiz 聊天机器人仅根据给定的数据进行回答。所以您总能得
 
 通过从项目仪表板进一步微调来改善结果。
 
-[WebWhiz](https://nicelinks.site/redirect?url=https://www.webwhiz.ai/) 已为您简化了所有复杂的步骤。只需几个简单的步骤即可为您的网站创建和训练聊天机器人。
+[WebWhiz](https://www.webwhiz.ai/) 已为您简化了所有复杂的步骤。只需几个简单的步骤即可为您的网站创建和训练聊天机器人。
 
 - **添加您的网站**：只需输入您的网站 URL 即可开始。WebWhiz 将自动获取并准备训练数据。
 - **在您的网站数据上训练 ChatGPT**：WebWhiz 将根据所选参数，在您的网站上自动训练 ChatGPT，并为您创建聊天机器人。
@@ -168,7 +168,7 @@ WebWhiz 是免费且开源的，支持基于 [Docker](https://nicelinks.site/pos
 
 ![倾城之链 - 明日故乡 - 中国版数字游民指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/guxiang.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[明日故乡](https://nicelinks.site/redirect?url=https://guxiang.app/) 中国版 [数字游民](https://nicelinks.site/tags/数字游民) 指南（一个中国城市数据查询器），帮您找到你的下一个定居点；它旨在通过建立一个中国版的 Nomad List（数字游民数据库），来为想要逃离北上广深等超大型城市的中国青年做出决策参考。该项目于 2023 年 6 月开始公测。
+**推荐语**：[明日故乡](https://guxiang.app/) 中国版 [数字游民](https://nicelinks.site/tags/数字游民) 指南（一个中国城市数据查询器），帮您找到你的下一个定居点；它旨在通过建立一个中国版的 Nomad List（数字游民数据库），来为想要逃离北上广深等超大型城市的中国青年做出决策参考。该项目于 2023 年 6 月开始公测。
 
 在这里，你可以通过复杂筛选来寻找自己理想中的旅居地点——比如全年晴天超过 90 天，且夏季温度不超过 30 度的城市。又或者是城镇居民收入超过 6 万，常驻人口小于 10 万人的城市。甚至是有星巴克，有麦当劳，全年雨天小于 60 天，最高气温低于 30 度的县城。
 
@@ -186,7 +186,7 @@ WebWhiz 是免费且开源的，支持基于 [Docker](https://nicelinks.site/pos
 
 ![倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.trancy.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Trancy Chrome](https://nicelinks.site/redirect?url=https://www.trancy.org/) ，一个专为语言学习者设计的全能工具，除了支 YouTube / Netflix 双语字幕，Trancy 还提供了网页 [AI](https://nicelinks.site/tags/AI) 划词翻译和全文翻译等功能，你可以巧妙地将内容转化为自己的语言学习资料。借助 Trancy，你可以体验高效且有趣的沉浸式语言学习。它具有如下功能特征：
+**推荐语**：[Trancy Chrome](https://www.trancy.org/) ，一个专为语言学习者设计的全能工具，除了支 YouTube / Netflix 双语字幕，Trancy 还提供了网页 [AI](https://nicelinks.site/tags/AI) 划词翻译和全文翻译等功能，你可以巧妙地将内容转化为自己的语言学习资料。借助 Trancy，你可以体验高效且有趣的沉浸式语言学习。它具有如下功能特征：
 
 ### 视频双语字幕
 

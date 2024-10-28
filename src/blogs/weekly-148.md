@@ -10,7 +10,7 @@
 
 ![倾城之链 - Poe | 一个提供快速且有用的人工智能聊天服务的网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/poe.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Poe](https://nicelinks.site/redirect?url=https://poe.com/) 是一个可供人们提出问题、获得即时答复并与各种人工智能机器人进行对话的大型平台，适用于 iOS、Android、 MacOS、Windows、 和 Web 等系统。该网站旨在为用户提供一个由人工智能驱动的用于各种目的的交互式聊天机器人。该网站的主要功能和选项描述如下：
+**推荐语**：[Poe](https://poe.com/) 是一个可供人们提出问题、获得即时答复并与各种人工智能机器人进行对话的大型平台，适用于 iOS、Android、 MacOS、Windows、 和 Web 等系统。该网站旨在为用户提供一个由人工智能驱动的用于各种目的的交互式聊天机器人。该网站的主要功能和选项描述如下：
 
 1.  **快速、有用的人工智能聊天**：Poe 提供了一个人工智能聊天机器人，旨在对用户的查询和请求提供快速且有用的响应。聊天机器人利用人工智能算法以对话方式理解和响应用户输入。
 
@@ -32,7 +32,7 @@ Poe 目前支持 OpenAI 的 [ChatGPT](https://poe.com/ChatGPT) 和 [GPT-4](https
 
 ![倾城之链 - Ollama | Get up and running with large language models, locally](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ollama.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ollama](https://nicelinks.site/redirect?url=https://ollama.ai/) 旨在提供大型语言模型的使用和定制化。它为用户提供了几个重要功能和特性，如下所示：
+**推荐语**：[Ollama](https://ollama.ai/) 旨在提供大型语言模型的使用和定制化。它为用户提供了几个重要功能和特性，如下所示：
 
 1.  **模型**：Ollama 提供了多个可供使用的大型语言模型。其中包括 Llama 2 和 Code Llama 等模型。用户可以通过该网站访问并使用这些模型。这些模型具有强大的语言处理能力，可用于各种自然语言处理任务。
 
@@ -56,7 +56,7 @@ Poe 目前支持 OpenAI 的 [ChatGPT](https://poe.com/ChatGPT) 和 [GPT-4](https
 
 ![倾城之链 - Atuin - Magical Shell History](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/atuin.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Atuin](https://nicelinks.site/redirect?url=https://atuin.sh/) ，一款命令行工具，将 Shell 操作历史写入 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 数据库，从而支持同步、搜索和备份 Shell 历史记录，方便统计和复用。Atuin 支持 zsh、bash、 [fish](https://nicelinks.site/post/63456d1abbfa9424bf721d6b) 这三种 Shell，同时还提供了 Shell 插件，用起来非常顺手。
+**推荐语**：[Atuin](https://atuin.sh/) ，一款命令行工具，将 Shell 操作历史写入 [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) 数据库，从而支持同步、搜索和备份 Shell 历史记录，方便统计和复用。Atuin 支持 zsh、bash、 [fish](https://nicelinks.site/post/63456d1abbfa9424bf721d6b) 这三种 Shell，同时还提供了 Shell 插件，用起来非常顺手。
 
 ### Atuin 能为您带来什么？
 
@@ -124,7 +124,7 @@ Atuin 目前支持 Bash、ZSH、Fish 和 NuShell。
 
 ![倾城之链 - Shortbread | Create comics with AI in minutes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shortbread.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Shortbread](https://nicelinks.site/redirect?url=https://shortbread.ai/) 是一个能够在几分钟内使用 [人工智能](https://nicelinks.site/tags/AI) 创建漫画的网站。Shortbread 的主要作用是让用户能够快速且轻松地 [创作](https://nicelinks.site/tags/创作) 漫画。它利用强大的人工智能技术，为用户提供多种漫画场景和角色设计，并可根据用户的输入生成对应的漫画面板和对话框。用户可以根据自己的创意和喜好，通过简单的操作来定制漫画的内容和风格。Shortbread 具有以下特征：
+**推荐语**：[Shortbread](https://shortbread.ai/) 是一个能够在几分钟内使用 [人工智能](https://nicelinks.site/tags/AI) 创建漫画的网站。Shortbread 的主要作用是让用户能够快速且轻松地 [创作](https://nicelinks.site/tags/创作) 漫画。它利用强大的人工智能技术，为用户提供多种漫画场景和角色设计，并可根据用户的输入生成对应的漫画面板和对话框。用户可以根据自己的创意和喜好，通过简单的操作来定制漫画的内容和风格。Shortbread 具有以下特征：
 
 1.  **快速创建**：Shortbread 利用人工智能算法和预设模板，使用户能够在几分钟内生成漫画页面。用户只需提供关键信息和选择喜欢的选项，即可获得相应的漫画内容。
 
@@ -150,14 +150,14 @@ Shortbread 还提供了免费和付费的套餐选择。免费套餐每月提供
 
 ![倾城之链 - WeOCR | 一个极简的 OCR 工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ocr.plantree.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WeOCR](https://nicelinks.site/redirect?url=https://ocr.plantree.me/) ，一个极简的 OCR 工具，无需安装，支持离线图片文字提取，它具有如下功能特征：
+**推荐语**：[WeOCR](https://ocr.plantree.me/) ，一个极简的 OCR 工具，无需安装，支持离线图片文字提取，它具有如下功能特征：
 
 - **易于使用**：只需上传或直接粘贴，即可识别图片文字；
 - **聚焦隐私**：无需网络访问，本地处理，专注隐私保护；
 - **可扩展引擎**：目前支持 Tesseract，后序待扩展；
 - **多语言**：支持中文，英语等多种语；
 
-[WeOCR](https://nicelinks.site/redirect?url=https://ocr.plantree.me/) 可以上传或拖拽图片，支持 jpg, png, bmp, tiff, webp, 等格式，基于 [Tesseract](https://github.com/tesseract-ocr/tesseract) （开源 OCR 引擎）所构建，识别速度很快， 对于识别结果，它可拷贝、美化。如果您手头没有趁手的 AI 工具，在电脑端识别图片文字，倒是可以考虑。值得一提的是，该项目在 [Github 仓库开源](https://github.com/plantree/ocr-pwa) ，如果您对其感兴趣，可移步前往从而了解更多。
+[WeOCR](https://ocr.plantree.me/) 可以上传或拖拽图片，支持 jpg, png, bmp, tiff, webp, 等格式，基于 [Tesseract](https://github.com/tesseract-ocr/tesseract) （开源 OCR 引擎）所构建，识别速度很快， 对于识别结果，它可拷贝、美化。如果您手头没有趁手的 AI 工具，在电脑端识别图片文字，倒是可以考虑。值得一提的是，该项目在 [Github 仓库开源](https://github.com/plantree/ocr-pwa) ，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - WeOCR | 一个极简的 OCR 工具](https://nicelinks.site/post/657897f80ab15b034b64c97b)
 
@@ -169,7 +169,7 @@ Shortbread 还提供了免费和付费的套餐选择。免费套餐每月提供
 
 ![倾城之链 - AnythingLLM | The last document chatbot you will need](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/useanything.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AnythingLLM](https://nicelinks.site/redirect?url=https://useanything.com/) ，可以与任何内容聊天的私人 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ！高效、可定制、开源的企业级文档聊天机器人解决方案。它能够把各种文档、资料或者内容转换成一种格式，让 LLM（如 ChatGPT）在聊天时可以引用这些内容；然后你就可以用它来和各种文档、内容、资料聊天，支持多个用户同时使用，还可以设置谁能看或改哪些内容。
+**推荐语**：[AnythingLLM](https://useanything.com/) ，可以与任何内容聊天的私人 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ！高效、可定制、开源的企业级文档聊天机器人解决方案。它能够把各种文档、资料或者内容转换成一种格式，让 LLM（如 ChatGPT）在聊天时可以引用这些内容；然后你就可以用它来和各种文档、内容、资料聊天，支持多个用户同时使用，还可以设置谁能看或改哪些内容。
 
 ### AnythingLLM 主要特点
 
@@ -224,7 +224,7 @@ AnythingLLM 项目包含三个主要部分：
 
 ![倾城之链 - Best speech-to-text API for apps | Deepgram](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/deepgram.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Deepgram](https://nicelinks.site/redirect?url=https://deepgram.com/) 是一家提供语音识别和语音智能解决方案的公司。Deepgram 旗下提供多种产品和服务，旨在帮助 [开发者](https://nicelinks.site/tags/开发者) 构建具有语音智能功能的应用程序。以下是 Deepgram 旗下的一些产品：
+**推荐语**：[Deepgram](https://deepgram.com/) 是一家提供语音识别和语音智能解决方案的公司。Deepgram 旗下提供多种产品和服务，旨在帮助 [开发者](https://nicelinks.site/tags/开发者) 构建具有语音智能功能的应用程序。以下是 Deepgram 旗下的一些产品：
 
 1.  **Speech-to-Text**（语音转文本）：Deepgram 的语音转文本功能具有出色的准确性、速度和成本效益。它可以将语音转换为文本，可用于自动化转录、语音分析和其他语音相关应用。
 2.  **Text-to-Speech**（文本转语音）：Deepgram 即将推出的文本转语音功能将提供逼真的、人类般的文本转语音合成技术。这将使实时 AI 代理能够更加自然地与用户进行对话。

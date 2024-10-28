@@ -10,7 +10,7 @@
 
 ![倾城之链 - Photo Lab • The easiest way to make your photos look awesome](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/photolab.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Photo Lab](https://nicelinks.site/redirect?url=https://photolab.me/)，一款让你的照片看起来很棒的工具。[Photo Lab](https://nicelinks.site/redirect?url=https://photolab.me/) 提供数以千计的顶级照片效果的组合，包含过滤器、脸部蒙太奇、卡通化、虚化等等，以点缀你的照片。[Photo Lab](https://nicelinks.site/redirect?url=https://photolab.me/) 使用非常的简单，您发现自己喜欢的组合效果示例，只需点进去，应用于您的照片（即选择您的照片），即可得到绚丽图片（带水印），您可以选择下载，或分享到社交平台。值得一提的是，除了 Web 版本，[Photo Lab](https://nicelinks.site/redirect?url=https://photolab.me/) 还提供了 Android、iOS 原生应用程序。
+**推荐语**：[Photo Lab](https://photolab.me/)，一款让你的照片看起来很棒的工具。[Photo Lab](https://photolab.me/) 提供数以千计的顶级照片效果的组合，包含过滤器、脸部蒙太奇、卡通化、虚化等等，以点缀你的照片。[Photo Lab](https://photolab.me/) 使用非常的简单，您发现自己喜欢的组合效果示例，只需点进去，应用于您的照片（即选择您的照片），即可得到绚丽图片（带水印），您可以选择下载，或分享到社交平台。值得一提的是，除了 Web 版本，[Photo Lab](https://photolab.me/) 还提供了 Android、iOS 原生应用程序。
 
 ── 出自[倾城之链 - Photo Lab • The easiest way to make your photos look awesome](https://nicelinks.site/post/61137520c4382e0655022155)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - 有道精品课 - 为你精选好课](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ke.youdao.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[有道精品课](https://nicelinks.site/redirect?url=https://ke.youdao.com/)，是网易集团旗下以技术驱动产品的教育科技公司，打造的一系列大众学习产品。目前已推出覆盖从少儿到大学全年龄段的课程，涵盖小学、初中、高中、四六级、实用英语、考研、兴趣技能、专四专八、职业、雅思托福、编程开发、小语种、少儿编程、学前教育、少儿美术等方向；据官方描述，[有道精品课](https://nicelinks.site/redirect?url=https://ke.youdao.com/)同时提供完整的技术平台，推出达尔文智能教学系统，包括：课程直播录播系统、题库系统、模考系统、作业批改系统等，用 AI 和技术实现因材施教，提高用户的学习效率（还没得到亲身验证）；从网站上看，部分内容免费；除了网站，[有道精品课](https://nicelinks.site/redirect?url=https://ke.youdao.com/)还提供有原生应用程序，感兴趣的朋友，不妨一试。
+**推荐语**：[有道精品课](https://ke.youdao.com/)，是网易集团旗下以技术驱动产品的教育科技公司，打造的一系列大众学习产品。目前已推出覆盖从少儿到大学全年龄段的课程，涵盖小学、初中、高中、四六级、实用英语、考研、兴趣技能、专四专八、职业、雅思托福、编程开发、小语种、少儿编程、学前教育、少儿美术等方向；据官方描述，[有道精品课](https://ke.youdao.com/)同时提供完整的技术平台，推出达尔文智能教学系统，包括：课程直播录播系统、题库系统、模考系统、作业批改系统等，用 AI 和技术实现因材施教，提高用户的学习效率（还没得到亲身验证）；从网站上看，部分内容免费；除了网站，[有道精品课](https://ke.youdao.com/)还提供有原生应用程序，感兴趣的朋友，不妨一试。
 
 ── 出自[倾城之链 - 有道精品课 - 为你精选好课](https://nicelinks.site/post/61151af2c4382e0655022159)
 
@@ -38,7 +38,7 @@
 
 ![倾城之链 - 网易云音乐](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/music.163.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[网易云音乐](https://nicelinks.site/redirect?url=https://music.163.com/)（英语：NetEase Cloud Music）是网易公司自 2013 年 4 月 23 日，基于网易云服务推出的一个音乐平台，除了提供主要的音乐播放、下载与查找服务外，还提供音乐社交功能，如歌曲评论、声学指纹（听歌识曲）、根据历史播放记录的歌单推荐、地理位置识别等。它具有以下功能特征：
+**推荐语**：[网易云音乐](https://music.163.com/)（英语：NetEase Cloud Music）是网易公司自 2013 年 4 月 23 日，基于网易云服务推出的一个音乐平台，除了提供主要的音乐播放、下载与查找服务外，还提供音乐社交功能，如歌曲评论、声学指纹（听歌识曲）、根据历史播放记录的歌单推荐、地理位置识别等。它具有以下功能特征：
 
 - 更大程度地利用歌单进行音乐的整理，而非传统意义上的专辑与表演者；
 - **精彩的用户评论**：评论及热评功能是云音乐不可分割的一部分。边听歌边看评论，用户可以在评论区找到听歌的共鸣；
@@ -48,7 +48,7 @@
 - **“云村”社区**：在 6.3.0 版本中，网易云在一级界面增加了“云村”入口，并增加了 Mlog、热评墙、我的消息标记已读等功能，增强了其社交属性；
 - 主播电台：用户不仅可以收听大牌 DJ 的优质节目，还可以创建属于自己的节目频道；
 
-值得一提的是，[网易云音乐](https://nicelinks.site/redirect?url=https://music.163.com/)现支持 iOS、Android、Windows、 Linux 在内的多个操作系统。截至 2017 年 11 月，网易云音乐用户数量超过 4 亿，用户创建歌单达 4 亿个，用户评论数达 4 亿个。
+值得一提的是，[网易云音乐](https://music.163.com/)现支持 iOS、Android、Windows、 Linux 在内的多个操作系统。截至 2017 年 11 月，网易云音乐用户数量超过 4 亿，用户创建歌单达 4 亿个，用户评论数达 4 亿个。
 
 ── 出自[倾城之链 - 网易云音乐](https://nicelinks.site/post/6113b4b0c4382e0655022157)
 
@@ -60,7 +60,7 @@
 
 ![倾城之链 - Anyfiddle - The easiest way to code online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.anyfiddle.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Anyfiddle](https://nicelinks.site/redirect?url=https://www.anyfiddle.com/)，简单的在线编码方式；使用它的**免费**编辑器，在几秒钟内**构建、运行和共享**代码，无需额外设置。进一步解释，[Anyfiddle](https://nicelinks.site/redirect?url=https://www.anyfiddle.com/) 是一个供开发人员在线构建、运行和共享任何语言代码的**平台**。 开始使用预先构建的模板进行编码，如 NodeJS、React、NextJS、Django、Ruby on Rails 等等，共享您的代码就像共享 url 一样简单。它具有以下特征：
+**推荐语**：[Anyfiddle](https://www.anyfiddle.com/)，简单的在线编码方式；使用它的**免费**编辑器，在几秒钟内**构建、运行和共享**代码，无需额外设置。进一步解释，[Anyfiddle](https://www.anyfiddle.com/) 是一个供开发人员在线构建、运行和共享任何语言代码的**平台**。 开始使用预先构建的模板进行编码，如 NodeJS、React、NextJS、Django、Ruby on Rails 等等，共享您的代码就像共享 url 一样简单。它具有以下特征：
 
 ### 使用预先构建的模板立即开始编码
 

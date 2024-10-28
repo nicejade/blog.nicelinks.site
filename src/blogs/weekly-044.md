@@ -12,7 +12,7 @@
 
 ![倾城之链 - Fresh Background Gradients | WebGradients.com 💎](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/webgradients.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WebGradients.com 💎](https://nicelinks.site/redirect?url=https://webgradients.com/) 是 180 个线性渐变的免费集合（同类网站还有 [uiGradients](https://nicelinks.site/redirect?url=https://uigradients.com/) ），您可以将其用作网站任何部分的**内容背景**。轻松复制 CSS3 跨浏览器代码并立即使用！他们还准备了每个渐变的 `.PNG` 版本。作为奖励，还有[Sketch](https://nicelinks.site/post/5a954cd40b0590113aa144cd) 和 `Photoshop` 包 。值得一提的是，该系列由顶级设计师策划，完全免费。发现这网站后，有在[曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)中运用，产生非常出色的效果。
+**推荐语**：[WebGradients.com 💎](https://webgradients.com/) 是 180 个线性渐变的免费集合（同类网站还有 [uiGradients](https://uigradients.com/) ），您可以将其用作网站任何部分的**内容背景**。轻松复制 CSS3 跨浏览器代码并立即使用！他们还准备了每个渐变的 `.PNG` 版本。作为奖励，还有[Sketch](https://nicelinks.site/post/5a954cd40b0590113aa144cd) 和 `Photoshop` 包 。值得一提的是，该系列由顶级设计师策划，完全免费。发现这网站后，有在[曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)中运用，产生非常出色的效果。
 
 ── 出自[倾城之链 - Fresh Background Gradients | WebGradients.com 💎](https://nicelinks.site/post/61b9f1c848f785032a2400bb)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - 来画-一站式数字创作创意平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.laihua.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[来画](https://nicelinks.site/redirect?url=https://www.laihua.com/)，一站式数字创作创意平台（隶属深圳市前海手绘科技文化有限公司（简称“来画”），于 2015 年 7 月 30 号在深圳前海注册），累计了数千万用户，产生了上千万部作品，目前是国家文化和旅游部、新华社、人民日报的合作伙伴。
+**推荐语**：[来画](https://www.laihua.com/)，一站式数字创作创意平台（隶属深圳市前海手绘科技文化有限公司（简称“来画”），于 2015 年 7 月 30 号在深圳前海注册），累计了数千万用户，产生了上千万部作品，目前是国家文化和旅游部、新华社、人民日报的合作伙伴。
 
 秉持“科技创新，让创作更简单，让创意更美好”的使命，来画着力打造了**来画动画**（动画短视频云端创作平台）、**来画演示**（创意演示工具）、**来画视频**（AR 视频演示工具）、**来画设计**（新一代设计软件）、**来画白板**（实时协作的在线白板软件）等 5 大系列工具产品，并搭建了创意服务供给平台来画梦工厂，以及数字创意职业教育培训平台**来画学园**，为企业和个人真正提供高效、卓越的数字创意服务。
 
@@ -72,17 +72,17 @@
 
 ![倾城之链 - thirdweb](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/thirdweb.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[thirdweb](https://nicelinks.site/redirect?url=https://thirdweb.com/)，轻松构建 web3 应用程序和游戏；您控制的智能合约，加速您的工作流程的工具。面向开发人员的直观 SDK 和小部件。
+**推荐语**：[thirdweb](https://thirdweb.com/)，轻松构建 web3 应用程序和游戏；您控制的智能合约，加速您的工作流程的工具。面向开发人员的直观 SDK 和小部件。
 
 - ⛏️ 生成等功能 NFT 的，商场，令牌和更多的点击几下；
 - 🧰 工具 SDK 的，窗口小部件和接口集成 WEB3 功能为您的应用程序；
 - 🕹️ 的权力游戏 blockchain，DAO 的、NFT 卡平台、生成艺术掉落等等；
 
-背景故事：Furqan（一名连续创业者）与一群试图启动 NFT 和 web3 项目的团队合作。在那段时间里，他们了解到，开发这些体验的最大障碍是学习新的编程语言和**区块链**。这就是为什么我们推出了 [thirdweb](https://nicelinks.site/redirect?url=https://thirdweb.com/)：一个让构建 web3 应用程序和游戏变得难以置信的简单的平台。通过将他们的智能合约与你的钱包（你拥有的）进行部署，来解决区块链的复杂性，并提供 SDK、小工具和接口，将 web3 功能整合到任何应用程序、游戏或 DAO 中。
+背景故事：Furqan（一名连续创业者）与一群试图启动 NFT 和 web3 项目的团队合作。在那段时间里，他们了解到，开发这些体验的最大障碍是学习新的编程语言和**区块链**。这就是为什么我们推出了 [thirdweb](https://thirdweb.com/)：一个让构建 web3 应用程序和游戏变得难以置信的简单的平台。通过将他们的智能合约与你的钱包（你拥有的）进行部署，来解决区块链的复杂性，并提供 SDK、小工具和接口，将 web3 功能整合到任何应用程序、游戏或 DAO 中。
 
-通过 [thirdweb](https://nicelinks.site/redirect?url=https://thirdweb.com/)，你可以推出 NFT，创建市场，引入新的社会代币，创建 NFT 的包等等。你可以通过团队权限、自定义版税分割，和你熟悉的语言的 SDK 来完成这些工作。Javascript, Typescript, Python, Golang, Unity 等等。目前，[thirdweb](https://nicelinks.site/redirect?url=https://thirdweb.com/) 已经在为超过 1000 名开发者、区块链游戏、市场、DAO、NFT 投放和正在建立 web3 生态系统的创作者提供加速。
+通过 [thirdweb](https://thirdweb.com/)，你可以推出 NFT，创建市场，引入新的社会代币，创建 NFT 的包等等。你可以通过团队权限、自定义版税分割，和你熟悉的语言的 SDK 来完成这些工作。Javascript, Typescript, Python, Golang, Unity 等等。目前，[thirdweb](https://thirdweb.com/) 已经在为超过 1000 名开发者、区块链游戏、市场、DAO、NFT 投放和正在建立 web3 生态系统的创作者提供加速。
 
-在 [ProductHunt](https://nicelinks.site/redirect?url=https://www.producthunt.com/posts/thirdweb) 有网友评价道：作为一个长期接触 web3 的开发者，我很高兴发现了 [thirdweb](https://nicelinks.site/redirect?url=https://thirdweb.com/)：一个直观、简单的平台，让你只需点击几下，就可以轻松地使用分散的所有权创建应用程序、游戏、体验和项目。thirdweb 消除了学习新的编码语言的头痛问题，并为你提供所需的工具，使你的业务更上一层楼！为创作者、开发游戏工作室、消费者品牌和许多许多人提供了一个完美的解决方案。
+在 [ProductHunt](https://www.producthunt.com/posts/thirdweb) 有网友评价道：作为一个长期接触 web3 的开发者，我很高兴发现了 [thirdweb](https://thirdweb.com/)：一个直观、简单的平台，让你只需点击几下，就可以轻松地使用分散的所有权创建应用程序、游戏、体验和项目。thirdweb 消除了学习新的编码语言的头痛问题，并为你提供所需的工具，使你的业务更上一层楼！为创作者、开发游戏工作室、消费者品牌和许多许多人提供了一个完美的解决方案。
 
 ── 出自[倾城之链 - thirdweb](https://nicelinks.site/post/61b9e73048f785032a2400b7)
 
@@ -94,9 +94,9 @@
 
 ![倾城之链 - Analyze Websites With Free SEO Audit & Reporting Tool - SEOptimer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.seoptimer.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SEOptimer](https://nicelinks.site/redirect?url=https://www.seoptimer.com/)，免费的 SEO 审计和报告工具分析网站，可以改善您的网站，在搜索引擎中获得更好的排名，并通过漂亮的 SEO 报告赢得更多客户。[SEOptimer](https://nicelinks.site/redirect?url=https://www.seoptimer.com/) 非常适合数字机构和 SEO 自由职业者。
+**推荐语**：[SEOptimer](https://www.seoptimer.com/)，免费的 SEO 审计和报告工具分析网站，可以改善您的网站，在搜索引擎中获得更好的排名，并通过漂亮的 SEO 报告赢得更多客户。[SEOptimer](https://www.seoptimer.com/) 非常适合数字机构和 SEO 自由职业者。
 
-[SEOptimer](https://nicelinks.site/redirect?url=https://www.seoptimer.com/) 有以下三个目标：用漂亮的白标 SEO 审计报告，给他们的客户和潜在客户留下深刻印象；通过提供定制的可嵌入审计表格，在他们的代理网站上产生新的业务线索 ；为代理提供全套 SEO 工具，而成本相对较低；该团队将根据客户反馈不断构建功能并进行产品更新；欲了解更多，你可以参考其公开路线图：[SEOptimer](https://nicelinks.site/redirect?url=https://seoptimer.upvoty.com/b/feature-requests/) 。
+[SEOptimer](https://www.seoptimer.com/) 有以下三个目标：用漂亮的白标 SEO 审计报告，给他们的客户和潜在客户留下深刻印象；通过提供定制的可嵌入审计表格，在他们的代理网站上产生新的业务线索 ；为代理提供全套 SEO 工具，而成本相对较低；该团队将根据客户反馈不断构建功能并进行产品更新；欲了解更多，你可以参考其公开路线图：[SEOptimer](https://seoptimer.upvoty.com/b/feature-requests/) 。
 
 ── 出自[倾城之链 - Analyze Websites With Free SEO Audit & Reporting Tool - SEOptimer](https://nicelinks.site/post/61b978d648f785032a2400b5)
 
@@ -108,7 +108,7 @@
 
 ![倾城之链 - Create LaTeX tables online – TablesGenerator.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tablesgenerator.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TablesGenerator.com](https://nicelinks.site/redirect?url=https://www.tablesgenerator.com/) 是一个在线表格转换工具；支持 LaTeX、Html、Text、Markdown、MediaWiki 等多种格式互相转换。Markdown 等语言越来越流行，但用 Markdown、Html 来书写表格数据，颇为不便，基于 [TablesGenerator.com](https://nicelinks.site/redirect?url=https://www.tablesgenerator.com/) 则可以解决这困难。另外值得一提的是，其体验很好，可以轻松编辑内容，支持在线预览、一键拷贝、导入、导出。
+**推荐语**：[TablesGenerator.com](https://www.tablesgenerator.com/) 是一个在线表格转换工具；支持 LaTeX、Html、Text、Markdown、MediaWiki 等多种格式互相转换。Markdown 等语言越来越流行，但用 Markdown、Html 来书写表格数据，颇为不便，基于 [TablesGenerator.com](https://www.tablesgenerator.com/) 则可以解决这困难。另外值得一提的是，其体验很好，可以轻松编辑内容，支持在线预览、一键拷贝、导入、导出。
 
 ── 出自[倾城之链 - Create LaTeX tables online – TablesGenerator.com](https://nicelinks.site/post/61b624a648f785032a2400b3)
 

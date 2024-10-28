@@ -10,7 +10,7 @@
 
 ![倾城之链 - 竹白 - 专为创作者设计的一站式工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zhubai.love.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[竹白](https://nicelinks.site/redirect?url=https://zhubai.love/) ，专为 [创作者](https://nicelinks.site/tags/创作者) 设计的一站式工具，帮助创作者触达更多紧密且忠实的读者。竹白团队认为：“创作者应该拥有众多紧密且忠实的读者，而不是转瞬即逝的流量； 创作者应该可以专注于创作有价值的内容，无需适应各平台规则来争夺短暂的注意力； 创作者应该不仅能获取到足够的读者，还能到获取到足够的收益； 创作者应该有新的选择”。`竹白`具有如下功能特征：
+**推荐语**：[竹白](https://zhubai.love/) ，专为 [创作者](https://nicelinks.site/tags/创作者) 设计的一站式工具，帮助创作者触达更多紧密且忠实的读者。竹白团队认为：“创作者应该拥有众多紧密且忠实的读者，而不是转瞬即逝的流量； 创作者应该可以专注于创作有价值的内容，无需适应各平台规则来争夺短暂的注意力； 创作者应该不仅能获取到足够的读者，还能到获取到足够的收益； 创作者应该有新的选择”。`竹白`具有如下功能特征：
 
 ### 告别嘈杂专注创作最佳内容
 
@@ -32,7 +32,7 @@
 
 **轻松获得收入**。可持续的独立创作是每个创作者的追求，竹白不仅集成了现有的主流支付工具，更有完善的内容展示范围控制，帮助创作者在获得收入的同时不放弃获得潜在付费用户。
 
-除此之外，[竹白](https://nicelinks.site/redirect?url=https://zhubai.love/) 还有其他特性诸如：多种分享形式、草稿以保证随时创作、自定义链接样式、多端样式同步、自定义主题色、内容兼容性检查、历史内容导入（开发中）、7x18 小时服务支持等等。如果您对其感兴趣，可移步 [竹白黑板报](https://news.zhubai.love/) 以了解更多。2022 年 10 月，有注册**竹白**并创建专栏： [清风明月](https://cheer.zhubai.love/) ，鲜有更迭，未掀水花。如果您有定期维护些内容，可考虑接入「竹白」以扩充订阅方式、扩大影响力。
+除此之外，[竹白](https://zhubai.love/) 还有其他特性诸如：多种分享形式、草稿以保证随时创作、自定义链接样式、多端样式同步、自定义主题色、内容兼容性检查、历史内容导入（开发中）、7x18 小时服务支持等等。如果您对其感兴趣，可移步 [竹白黑板报](https://news.zhubai.love/) 以了解更多。2022 年 10 月，有注册**竹白**并创建专栏： [清风明月](https://cheer.zhubai.love/) ，鲜有更迭，未掀水花。如果您有定期维护些内容，可考虑接入「竹白」以扩充订阅方式、扩大影响力。
 
 ── 出自[倾城之链 - 竹白 - 专为创作者设计的一站式工具](https://nicelinks.site/post/64cb3eb3d2695f1197493b14)
 
@@ -46,7 +46,7 @@
 
 ![倾城之链 - 1Link.Fun ｜ 科技周刊](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/1link.fun.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[1Link.Fun](https://nicelinks.site/redirect?url=https://1link.fun/) ， 一个分享有趣科技新闻、实用工具网站，消磨时间利器的互联网杂志（基于 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377)
+**推荐语**：[1Link.Fun](https://1link.fun/) ， 一个分享有趣科技新闻、实用工具网站，消磨时间利器的互联网杂志（基于 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377)
 、[JSDeliver](https://nicelinks.site/post/62321d8373e9e03b84d59879) 等搭建）。站长会在该网站每周更新 10 条有趣的链接, 主要包含：科技新闻、网站推荐、工具推荐（截止 2023 年 07 月 27 日，已更新至第 60 期）。
 
 取名为  `1Link`  是想做成类似  **《意林》**  这样的杂志，让你在闲暇之余消磨一下时间。你可以通过 [RSS](https://1link.fun/index.xml) 订阅更新。也可以通过 [邮箱 / 微信订阅](https://happyfire.zhubai.love/) （竹白）。您可以关注我的小红书  `1link_fun`  和 [Mastodon ｜长毛象](https://mastodon.world/@1link) 关注站长。
@@ -61,7 +61,7 @@
 
 ![倾城之链 - Claude AI | AI chatbot launched by Anthropic](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/claude.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Claude AI](https://nicelinks.site/redirect?url=https://claude.ai/) 是 Anthropic 公司开发的 AI 助手，于 2022 年 4 月首次发布（其官方网址为： [anthropic.com](https://www.anthropic.com/) ）；它是一款基于自然语言处理技术和人工智能算法的聊天机器人，可以使用自然语言理解技术来理解人类语言，并使用自然语言生成技术来进行回答和梳理。
+**推荐语**：[Claude AI](https://claude.ai/) 是 Anthropic 公司开发的 AI 助手，于 2022 年 4 月首次发布（其官方网址为： [anthropic.com](https://www.anthropic.com/) ）；它是一款基于自然语言处理技术和人工智能算法的聊天机器人，可以使用自然语言理解技术来理解人类语言，并使用自然语言生成技术来进行回答和梳理。
 
 Claude AI 可以在多个平台（如： [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233) ）上使用，例如网页聊天窗口、手机应用、社交媒体等，以满足不同用户的需求；2023 年 7 月，官方推出 Claude 2，性能得到了提高，响应时间更长，并且可以通过 API 以及面向公众的新测试版网站 [claude.ai](https://claude.ai/) 进行免费使用。
 
@@ -79,7 +79,7 @@ Claude 2，很容易交谈，清楚地解释其思维，不太可能产生有害
 
 ![倾城之链 - dumi - 为组件研发而生的静态站点框架](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/d.umijs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[dumi](https://nicelinks.site/redirect?url=https://d.umijs.org/) （中文发音嘟米）是一款为 [组件](https://nicelinks.site/tags/组件) 开发场景而生的静态站点框架，与 [father](https://github.com/umijs/father) 一起为开发者提供一站式的组件开发体验，father 负责组件源码构建，而 `dumi` 负责组件开发及组件文档生成。它具有如下功能特征：
+**推荐语**：[dumi](https://d.umijs.org/) （中文发音嘟米）是一款为 [组件](https://nicelinks.site/tags/组件) 开发场景而生的静态站点框架，与 [father](https://github.com/umijs/father) 一起为开发者提供一站式的组件开发体验，father 负责组件源码构建，而 `dumi` 负责组件开发及组件文档生成。它具有如下功能特征：
 
 - 🚀 **更好的编译性能**：通过结合使用 [Umi 4 MFSU](https://umijs.org/blog/mfsu-faster-than-vite) 、esbuild、SWC、持久缓存等方案，带来比 dumi 1.x 更快的编译速度；
 - 🔍 **内置全文搜索**：不需要接入任何三方服务，标题、正文、demo 等内容均可被搜索，支持多关键词搜索，且不会带来产物体积的增加；
@@ -88,7 +88,7 @@ Claude 2，很容易交谈，清楚地解释其思维，不太可能产生有害
 - 💡 **资产元数据 2.0**：在 1.x 及 JSON Schema 的基础上对资产属性定义结构进行全新设计，为资产的流通提供更多可能；
 - 💎 **继续为组件研发而生**：提供与全新的 NPM 包研发工具 [father 4](https://github.com/umijs/father) 集成的脚手架，为开发者提供一站式的研发体验；
 
-值得一提的是： [dumi](https://nicelinks.site/redirect?url=https://d.umijs.org/) 官方文档网站，即使用 `dumi` 所搭建，功能较为完善，诸如全文检索、多语言、自动 API 表格、暗黑主题等，一应俱全；整体体验较为良好。假如您有搭建文档（尤其组件）的诉求，或可考虑。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/umijs/dumi) ，从而了解更多。
+值得一提的是： [dumi](https://d.umijs.org/) 官方文档网站，即使用 `dumi` 所搭建，功能较为完善，诸如全文检索、多语言、自动 API 表格、暗黑主题等，一应俱全；整体体验较为良好。假如您有搭建文档（尤其组件）的诉求，或可考虑。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/umijs/dumi) ，从而了解更多。
 
 ── 出自[倾城之链 - dumi - 为组件研发而生的静态站点框架](https://nicelinks.site/post/64ca4770d2695f1197493288)
 
@@ -100,7 +100,7 @@ Claude 2，很容易交谈，清楚地解释其思维，不太可能产生有害
 
 ![倾城之链 - Mastodon | Mastodon hosted on mastodon.world](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mastodon.world.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mastodon](https://nicelinks.site/redirect?url=https://mastodon.world/) （又称乳齿象、长毛象或万象）是一个自由开源的去中心化的**分布式**微博客社交网络。它的用户界面和操作方式跟推特（Twitter）类似，但整个网络并非由单一机构运作，而是以多个由不同营运者独立运作的服务器以联邦方式交换资料而组成的去中心化社交网络。
+**推荐语**：[Mastodon](https://mastodon.world/) （又称乳齿象、长毛象或万象）是一个自由开源的去中心化的**分布式**微博客社交网络。它的用户界面和操作方式跟推特（Twitter）类似，但整个网络并非由单一机构运作，而是以多个由不同营运者独立运作的服务器以联邦方式交换资料而组成的去中心化社交网络。
 
 每个 Mastodon 的营运站点被称为“实例（Instance）”，用户可到任何开放登记的实体登记，任何一个实体上的用户可以与其他实体上的用户沟通。用户在 Mastodon 中发布的内容称为“嘟文（Toot）”，用户可以调整隐私设置限制嘟文被其他人或实体读取或查看。Mastodon 吉祥物是一个棕色或灰色的长鼻目，描绘成正在使用平板电脑或智能手机。
 
@@ -126,7 +126,7 @@ Mastodon 社区，所有用户并不是都集中在一个服务器上。任何�
 
 ![倾城之链 - AmyMind | 伴你思考的 AI 思维导图](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/amymind.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AmyMind](https://nicelinks.site/redirect?url=https://amymind.com/) 是一款打开即用的 [思维导图](https://nicelinks.site/tags/思维导图) 和 [画板](https://nicelinks.site/tags/白板) 在线工具。打开即用、无需注册、免费使用。跟其他产品不同的是，AmyMind 注入了 [AI](https://nicelinks.site/tags/AI) 加持，助你文思泉涌。作为伴你思考的 AI 思维导图，它具有如下功能特性：
+**推荐语**：[AmyMind](https://amymind.com/) 是一款打开即用的 [思维导图](https://nicelinks.site/tags/思维导图) 和 [画板](https://nicelinks.site/tags/白板) 在线工具。打开即用、无需注册、免费使用。跟其他产品不同的是，AmyMind 注入了 [AI](https://nicelinks.site/tags/AI) 加持，助你文思泉涌。作为伴你思考的 AI 思维导图，它具有如下功能特性：
 
 ### 💻 免登录，本地存储
 
@@ -176,7 +176,7 @@ AmyMind 目前暂支持 Web 网页版，将逐步覆盖全部主流平台；免�
 
 ![倾城之链 - Primo | A visual CMS that makes it a blast to build pages, manage content, and edit code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/primocms.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Primo](https://nicelinks.site/redirect?url=https://primocms.org/) 是一个可视化 CMS（内容管理系统 | Content Management System 的缩写），具有内置代码编辑器、Svelte 和静态站点生成器；它使构建**页面**、管理**内容**和编辑**代码**（一次一个块）成为一种乐趣。它具有如下功能特征：
+**推荐语**：[Primo](https://primocms.org/) 是一个可视化 CMS（内容管理系统 | Content Management System 的缩写），具有内置代码编辑器、Svelte 和静态站点生成器；它使构建**页面**、管理**内容**和编辑**代码**（一次一个块）成为一种乐趣。它具有如下功能特征：
 
 ### 拖放页面构建
 
@@ -258,7 +258,7 @@ Primo 是一种现代的整体 CMS 方法，它建立在传统整体的快速设
 
 ![倾城之链 - Locust - A modern load testing framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/locust.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Locust](https://nicelinks.site/redirect?url=https://locust.io/) 是一款易于使用、可编写脚本且可扩展的性能 [测试](https://nicelinks.site/tags/测试) 工具。您可以使用常规 Python 代码定义用户的行为，而不是受到仅假装是真实代码的 UI 或领域特定语言的限制。这使得 Locust 具有无限的可扩展性并且对开发人员非常友好。`locust` 具有如下功能特征：
+**推荐语**：[Locust](https://locust.io/) 是一款易于使用、可编写脚本且可扩展的性能 [测试](https://nicelinks.site/tags/测试) 工具。您可以使用常规 Python 代码定义用户的行为，而不是受到仅假装是真实代码的 UI 或领域特定语言的限制。这使得 Locust 具有无限的可扩展性并且对开发人员非常友好。`locust` 具有如下功能特征：
 
 ### 用普通的旧 Python 编写用户测试场景
 
@@ -278,7 +278,7 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 
 在测试过程中，策略就是一个 Locust 的蠕虫将会攻击你的网站。每一个 locust 的行为(或你使用的测试用户)是你自己定义的，并且蠕虫进程从一个网页视图中被实时监测。这样会帮助你来实现测试，在真实用户使用前定义系统的瓶颈
 
-总之，Locust 是一个容易使用、分布式的压力测试工具。它是用于网站压力测试（或其它系统）并找出多少用户一个系统可以承载。。早在 2018 年，就有使用 [Locust](https://nicelinks.site/redirect?url=https://locust.io/) 对 [倾城之链](https://nicelinks.site) 进行压测，它那良好体验，给人留下深刻印象。如果您有压测网站（或其它系统）的诉求，推荐优先考虑 Locust。
+总之，Locust 是一个容易使用、分布式的压力测试工具。它是用于网站压力测试（或其它系统）并找出多少用户一个系统可以承载。。早在 2018 年，就有使用 [Locust](https://locust.io/) 对 [倾城之链](https://nicelinks.site) 进行压测，它那良好体验，给人留下深刻印象。如果您有压测网站（或其它系统）的诉求，推荐优先考虑 Locust。
 
 ── 出自[倾城之链 - Locust - A modern load testing framework](https://nicelinks.site/post/64c7a453d95f4c06c37fff1f)
 
@@ -290,7 +290,7 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 
 ![倾城之链 - Civitai | Stable Diffusion models, embeddings, LoRAs and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/civitai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CivitAI](https://nicelinks.site/redirect?url=https://civitai.com/) 是一个让人们分享和发现 AI 艺术创作资源的平台。用户可以上传和分享他们用自己的数据训练的自定义模型，或者浏览和下载其他用户创建的模型。这些模型可以和 [AI](https://nicelinks.site/tags/AI) 艺术软件一起使用，生成独特的艺术作品。你可以在 [civitai.com](https://civitai.com/) 网站上注册免费使用，或者基于开源代码自部署。
+**推荐语**：[CivitAI](https://civitai.com/) 是一个让人们分享和发现 AI 艺术创作资源的平台。用户可以上传和分享他们用自己的数据训练的自定义模型，或者浏览和下载其他用户创建的模型。这些模型可以和 [AI](https://nicelinks.site/tags/AI) 艺术软件一起使用，生成独特的艺术作品。你可以在 [civitai.com](https://civitai.com/) 网站上注册免费使用，或者基于开源代码自部署。
 
 对于该项目，官方如此介绍到：`civitai` 的目标是创建一个平台，人们可以在其中共享稳定的扩散模型（textual inversions / 文本倒置、hypernetworks / 超网络、aesthetic gradients / 美学梯度、VAEs 以及人们为定制 AI 世代所做的任何其他疯狂的事情），与他人合作来改进它们，并从彼此的工作中学习。该平台允许用户创建帐户、上传模型以及浏览其他人共享的模型。用户还可以对彼此的模型留下评论和反馈，以促进协作和知识共享。
 
@@ -306,7 +306,7 @@ Locust 具有用户友好的 Web 界面，可以实时显示测试进度。您�
 
 ![倾城之链 - Analysis Tools and Linters to Improve Code Quality and Avoid Bugs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/analysis-tools.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Analysis Tools](https://nicelinks.site/redirect?url=https://analysis-tools.dev/) ，代码静态分析工具聚合网站。Github 开源仓库 [static-analysis](https://github.com/analysis-tools-dev/static-analysis) 列出了所有编程语言的**静态分析工具**、构建工具、配置文件等。重点是提高代码质量的工具，例如 linter 和格式化程序。 [Analysis Tools](https://nicelinks.site/redirect?url=https://analysis-tools.dev/) 基于此存储库，并为每个工具添加了排名、用户评论和视频等附加资源。
+**推荐语**：[Analysis Tools](https://analysis-tools.dev/) ，代码静态分析工具聚合网站。Github 开源仓库 [static-analysis](https://github.com/analysis-tools-dev/static-analysis) 列出了所有编程语言的**静态分析工具**、构建工具、配置文件等。重点是提高代码质量的工具，例如 linter 和格式化程序。 [Analysis Tools](https://analysis-tools.dev/) 基于此存储库，并为每个工具添加了排名、用户评论和视频等附加资源。
 
 ⚙️ 适用于所有编程语言（Java、JavaScript、PHP、Python、Ruby、C/C++、C#、Go、Swift 等）、配置文件、构建工具等的静态分析 (SAST) 工具和 linter 的精选列表。重点是提高代码质量的工具。
 

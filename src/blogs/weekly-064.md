@@ -10,20 +10,20 @@
 
 ![倾城之链 - Befront ｜ Learn design skills through practice](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/befront.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Befront.io](https://nicelinks.site/redirect?url=https://befront.io/)，一个在线**学习**网站，旨在通过小任务，在**实践中**学习 UX/UI 设计技能；更详细地说，`Befront.io` 通过对真实案例的实践，从而掌握 UI/UX 设计技能，并使用全新的、基于 AI 的 Figma 插件 Befront，获得对结果的即时自动反馈。在你面前，使用的步骤和体验如下：
+**推荐语**：[Befront.io](https://befront.io/)，一个在线**学习**网站，旨在通过小任务，在**实践中**学习 UX/UI 设计技能；更详细地说，`Befront.io` 通过对真实案例的实践，从而掌握 UI/UX 设计技能，并使用全新的、基于 AI 的 Figma 插件 Befront，获得对结果的即时自动反馈。在你面前，使用的步骤和体验如下：
 
 - **正确开始**：做简单的练习，在犯错时感到安全；
 - **通过实践学习**：接受一口大小的挑战，并对犯错误充满信心；
 - **掌握你的技能**：使用 Befront 全新的 Figma 插件学习新技能；
 
-每个人都需要设计；无论您是：毫无经验、新手、初级入门者，[Befront.io](https://nicelinks.site/redirect?url=https://befront.io/) 都可以帮助到您，使得您获得相对应的收益；`Befront.io` 有以下功能特色：
+每个人都需要设计；无论您是：毫无经验、新手、初级入门者，[Befront.io](https://befront.io/) 都可以帮助到您，使得您获得相对应的收益；`Befront.io` 有以下功能特色：
 
 - 他们的课程有测验和设计挑战，让您保持参与 - 因为**最好的学习方式是通过实践**；
 - 人工智能实时提供任务并纠正错误，快速而清晰的反馈确保更快的学习；
 - 变得时髦，成为革命性的 Befront Figma 插件的首批用户之一；
 - `Befront.io` 发明了一个学习过程并建立了一个系统，为您提供全面的方法来发展您的技能。
 
-随着时代发展，互联网对于人类生活影响，仍在继续增加；从这个角度看，拥有 UX/UI 设计技能，可让普通人在职业竞争中，更具优势。如果您有进入`设计`领域的想法，[Befront.io](https://nicelinks.site/redirect?url=https://befront.io/) 将是一个利器，它重塑设计学习方法；即使您没有任何经验，亦可帮您掌握基础知识，并协助甄别设计是否适合您；一旦您进入新手阶段，它可令您的技能更加扎实，并帮助找到一份所需要的工作。此外，值得一提的是，Befront.io 免费可用，无需信用卡。
+随着时代发展，互联网对于人类生活影响，仍在继续增加；从这个角度看，拥有 UX/UI 设计技能，可让普通人在职业竞争中，更具优势。如果您有进入`设计`领域的想法，[Befront.io](https://befront.io/) 将是一个利器，它重塑设计学习方法；即使您没有任何经验，亦可帮您掌握基础知识，并协助甄别设计是否适合您；一旦您进入新手阶段，它可令您的技能更加扎实，并帮助找到一份所需要的工作。此外，值得一提的是，Befront.io 免费可用，无需信用卡。
 
 ── 出自[倾城之链 - Befront ｜ Learn design skills through practice](https://nicelinks.site/post/6273af8c7d02b74eba0f09dc)
 
@@ -37,11 +37,11 @@
 
 ![倾城之链 - 即时工具-致力打造即用即走型在线工具箱](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.67tool.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[即时工具](https://nicelinks.site/redirect?url=https://www.67tool.com/)，致力打造安全、快捷、好用的在线工具箱（即时工具，顾名思义即用即走无需下载以及注册，直接在线使用）；该网站上线于 2020 年 9 月 10 日，已经深耕在线办公工具 600 多个日夜；主要用以解决**自媒体**、设计师、运营、产品、文员、人事、律师、医生、教师、学生等等用户，在工作或学习上一些繁琐的文件处理，无需到处寻找软件，在线处理即用即走提升生产力。
+**推荐语**：[即时工具](https://www.67tool.com/)，致力打造安全、快捷、好用的在线工具箱（即时工具，顾名思义即用即走无需下载以及注册，直接在线使用）；该网站上线于 2020 年 9 月 10 日，已经深耕在线办公工具 600 多个日夜；主要用以解决**自媒体**、设计师、运营、产品、文员、人事、律师、医生、教师、学生等等用户，在工作或学习上一些繁琐的文件处理，无需到处寻找软件，在线处理即用即走提升生产力。
 
-截止目前（05/04/2022）；现有 240+ 款自研在线工具，分为 10 大类包括`视频处理`、音频处理、图片处理、pdf 处理、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等。后续计划上线 400+ 款工具，致力打造成在线办公类全能工具箱。[即时工具](https://nicelinks.site/redirect?url=https://www.67tool.com/)致力于保护用户隐私，其中 90% 的工具，采用浏览器 HTML5 新特性，本地实现不需要上传至服务器处理文件，因此您可以放心使用。
+截止目前（05/04/2022）；现有 240+ 款自研在线工具，分为 10 大类包括`视频处理`、音频处理、图片处理、pdf 处理、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等。后续计划上线 400+ 款工具，致力打造成在线办公类全能工具箱。[即时工具](https://www.67tool.com/)致力于保护用户隐私，其中 90% 的工具，采用浏览器 HTML5 新特性，本地实现不需要上传至服务器处理文件，因此您可以放心使用。
 
-值得一提的是，[即时工具](https://nicelinks.site/redirect?url=https://www.67tool.com/)所提供的工具，真是丰富，对于普通用户而言，能想到的诉求，在这里基本都有覆盖到；诸如 Word 转换、图片调色、视频编辑（去水印）、PDF 转文本、随机生成密码、文本与摩尔斯电码互转、多语言 OCR（文字识别）、词频统计、在线画板、照片转油画、图片拼接等等，应有尽有。此外，即时工具除了网站外，还提供了 Google Chrome 扩展。
+值得一提的是，[即时工具](https://www.67tool.com/)所提供的工具，真是丰富，对于普通用户而言，能想到的诉求，在这里基本都有覆盖到；诸如 Word 转换、图片调色、视频编辑（去水印）、PDF 转文本、随机生成密码、文本与摩尔斯电码互转、多语言 OCR（文字识别）、词频统计、在线画板、照片转油画、图片拼接等等，应有尽有。此外，即时工具除了网站外，还提供了 Google Chrome 扩展。
 
 ── 出自[倾城之链 - 即时工具-致力打造即用即走型在线工具箱](https://nicelinks.site/post/62727acd7d02b74eba0f09d9)
 
@@ -53,7 +53,7 @@
 
 ![倾城之链 - Kraken.io Image Optimizer · Kraken.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kraken.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Kraken.io](https://nicelinks.site/redirect?url=https://kraken.io/)，是一款强大、超快速的图像优化器和压缩器，具有一流的算法。他们将为您节省带宽和存储空间，并将显著改善您网站的加载时间。Kraken 所服务的用户非常广泛，不仅仅针对设计师、开发人员、WordPress 和 Magento 用户，更多如自媒体工作者、图像爱好者等等，都可以使用；因为图像优化，可以给您的产品（作品）带来非常高的价值：
+**推荐语**：[Kraken.io](https://kraken.io/)，是一款强大、超快速的图像优化器和压缩器，具有一流的算法。他们将为您节省带宽和存储空间，并将显著改善您网站的加载时间。Kraken 所服务的用户非常广泛，不仅仅针对设计师、开发人员、WordPress 和 Magento 用户，更多如自媒体工作者、图像爱好者等等，都可以使用；因为图像优化，可以给您的产品（作品）带来非常高的价值：
 
 ### 减轻体积而不是质量
 
@@ -95,11 +95,11 @@
 
 ![倾城之链 - QRBTF 参数化二维码生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qrbtf.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[QRBTF.com](https://nicelinks.site/redirect?url=https://qrbtf.com/)，一款参数化`二维码`生成器，目前有 10 多种二维码样式可选；在二维码样式下方，可以对二维码进行微调，可供调整的参数有「容错率」、「图标」（图标源）、「信息点样式」、「信息点不透明度」、「信息点颜色」、「定位点颜色」和「定位点样式」等。下载二维码时，根据自己的需要，可选  **SVG 或 JPG**，SVG 格式的二维码有更大的自由度，当然也可以导出透明背景的 `PNG` 图片。
+**推荐语**：[QRBTF.com](https://qrbtf.com/)，一款参数化`二维码`生成器，目前有 10 多种二维码样式可选；在二维码样式下方，可以对二维码进行微调，可供调整的参数有「容错率」、「图标」（图标源）、「信息点样式」、「信息点不透明度」、「信息点颜色」、「定位点颜色」和「定位点样式」等。下载二维码时，根据自己的需要，可选  **SVG 或 JPG**，SVG 格式的二维码有更大的自由度，当然也可以导出透明背景的 `PNG` 图片。
 
-这些年，互联网正被变成一个个孤岛，诸如微信公众号（及类似类似产品），设计之初，就不支持跳转外部链接，当你的文章需要引用外部链时，一个比较好的方法是：**将链接转换为二维码**。这般场景或可能越来越多，因而像 [QRBTF.com](https://nicelinks.site/redirect?url=https://qrbtf.com/) 这样具有特色的`二维码`生成，就显得蛮有价值。
+这些年，互联网正被变成一个个孤岛，诸如微信公众号（及类似类似产品），设计之初，就不支持跳转外部链接，当你的文章需要引用外部链时，一个比较好的方法是：**将链接转换为二维码**。这般场景或可能越来越多，因而像 [QRBTF.com](https://qrbtf.com/) 这样具有特色的`二维码`生成，就显得蛮有价值。
 
-值得一提的是，[QRBTF.com](https://nicelinks.site/redirect?url=https://qrbtf.com/) 是两位大学生业余开发设计的产品，并在 [Github](https://nicelinks.site/redirect?url=https://github.com/ciaochaos/qrbtf) 开源，感兴趣的朋友可以前往了解更多。
+值得一提的是，[QRBTF.com](https://qrbtf.com/) 是两位大学生业余开发设计的产品，并在 [Github](https://github.com/ciaochaos/qrbtf) 开源，感兴趣的朋友可以前往了解更多。
 
 ── 出自[倾城之链 - QRBTF 参数化二维码生成器](https://nicelinks.site/post/627224547d02b74eba0f09d5)
 
@@ -113,7 +113,7 @@
 
 ![倾城之链 - 赤道365论坛-帮找课程的资源论坛 -  Powered by Discuz!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.chidao365.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[赤道 365 论坛](https://nicelinks.site/redirect?url=https://www.chidao365.com/)，一个基于 [Discuz! Q ](https://nicelinks.site/post/5fe33ded9b4e656960bd8468) 所搭建的社区，旨在**帮助寻找课程资源**。该网站有划分为论坛、资源广场、积分获取、进资源群、问答等板块，初步体验，所涉猎内容颇为丰富，诸如：阿里云网盘资源（全网首家），百度云网盘资源，各类网络课程、自学教程、大学考研课程、知识付费课程、电子书、精品软件、珍品收藏资料等等；当然，用户可以登录、发帖向站长和坛友求助，从而获取想要的资源。该网站有接入 Google AdSense，以此获得收益。此外，对于游客，24 小时内，所能浏览帖子数被限制 🚫 为 3 个，颇不友好，值得改进。
+**推荐语**：[赤道 365 论坛](https://www.chidao365.com/)，一个基于 [Discuz! Q ](https://nicelinks.site/post/5fe33ded9b4e656960bd8468) 所搭建的社区，旨在**帮助寻找课程资源**。该网站有划分为论坛、资源广场、积分获取、进资源群、问答等板块，初步体验，所涉猎内容颇为丰富，诸如：阿里云网盘资源（全网首家），百度云网盘资源，各类网络课程、自学教程、大学考研课程、知识付费课程、电子书、精品软件、珍品收藏资料等等；当然，用户可以登录、发帖向站长和坛友求助，从而获取想要的资源。该网站有接入 Google AdSense，以此获得收益。此外，对于游客，24 小时内，所能浏览帖子数被限制 🚫 为 3 个，颇不友好，值得改进。
 
 ── 出自[倾城之链 - 赤道 365 论坛-帮找课程的资源论坛 - Powered by Discuz!](https://nicelinks.site/post/627221407d02b74eba0f09d3)
 
@@ -125,7 +125,7 @@
 
 ![倾城之链 - [Array Builder]](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.arraybuilder.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Array Builder](https://nicelinks.site/redirect?url=https://www.arraybuilder.com/)，一个**可视化**数组操作输出的免费工具；它提供一个数组，在 `map` / `reduce` / `filter` 块中编写代码并在相邻列中查看结果。它简化了代码块的编写和调试链式操作，对于开发者而言，有一定价值。其使用非常简单，大致如下步骤：
+**推荐语**：[Array Builder](https://www.arraybuilder.com/)，一个**可视化**数组操作输出的免费工具；它提供一个数组，在 `map` / `reduce` / `filter` 块中编写代码并在相邻列中查看结果。它简化了代码块的编写和调试链式操作，对于开发者而言，有一定价值。其使用非常简单，大致如下步骤：
 
 1.  **在管道**中粘贴一个数组；
 2.  编写一些代码来对数组执行转换、过滤或 reduce；
@@ -134,7 +134,7 @@
 5.  一切准备就绪后，转到右上角的“显示代码”复制代码；
 6.  复制代码并享受成果 🎉；
 
-此外，[Array Builder](https://nicelinks.site/redirect?url=https://www.arraybuilder.com/) 还具有一些其他特征，诸如无限管道（pipe），支持使用 **lodash** 函数、状态保留在**本地存储中**等等。如果，您有基于**数组**，进行复杂操控的诉求，基于此工具，要比在编辑器中，通过 console.log 来调试，要高效、便捷许多。
+此外，[Array Builder](https://www.arraybuilder.com/) 还具有一些其他特征，诸如无限管道（pipe），支持使用 **lodash** 函数、状态保留在**本地存储中**等等。如果，您有基于**数组**，进行复杂操控的诉求，基于此工具，要比在编辑器中，通过 console.log 来调试，要高效、便捷许多。
 
 ── 出自[倾城之链 - [Array Builder]](https://nicelinks.site/post/627114427d02b74eba0f09d0)
 
@@ -148,7 +148,7 @@
 
 ![倾城之链 - LOGO设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.logosc.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LOGO 设计神器](https://nicelinks.site/redirect?url=https://www.logosc.cn/)  是一款智能 LOGO 在线设计生成器。只需输入品牌名称就能免费在线生成公司 logo 设计，商标设计，以及配套企业 VI 助您打造个性品牌。它具有以下功能特性：
+**推荐语**：[LOGO 设计神器](https://www.logosc.cn/)  是一款智能 LOGO 在线设计生成器。只需输入品牌名称就能免费在线生成公司 logo 设计，商标设计，以及配套企业 VI 助您打造个性品牌。它具有以下功能特性：
 
 ### 智能生成
 
@@ -162,7 +162,7 @@
 
 提供 LOGO 字体商用授权，一次购买永久授权。
 
-作为智能品牌创建平台，[LOGO 设计神器](https://nicelinks.site/redirect?url=https://www.logosc.cn/) 还将为您的 LOGO 定制生成配套名片，企业 VI，宣传海报，社交应用等全套的品牌资源。助你轻松实现品牌自动化。值得一提的是，该网站还提供一个很喜欢的功能：[「印章在线生成器」](https://nicelinks.site/redirect?url=https://www.logosc.cn/logo/badge) ，输入 4 个汉字（限制的略有些紧），一键生成个性印章免费下载（有多种样式可选）。可以将喜欢成语或箴言（如：`倾城之链`、`几暇怡情`、`会心不远`、`清风明月`、`归去来兮` 等），以印章样式生成出来，在喜欢的网站、书绘中展示出来，以寄情志，蛮有意思。
+作为智能品牌创建平台，[LOGO 设计神器](https://www.logosc.cn/) 还将为您的 LOGO 定制生成配套名片，企业 VI，宣传海报，社交应用等全套的品牌资源。助你轻松实现品牌自动化。值得一提的是，该网站还提供一个很喜欢的功能：[「印章在线生成器」](https://www.logosc.cn/logo/badge) ，输入 4 个汉字（限制的略有些紧），一键生成个性印章免费下载（有多种样式可选）。可以将喜欢成语或箴言（如：`倾城之链`、`几暇怡情`、`会心不远`、`清风明月`、`归去来兮` 等），以印章样式生成出来，在喜欢的网站、书绘中展示出来，以寄情志，蛮有意思。
 
 ── 出自[倾城之链 - LOGO 设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://nicelinks.site/post/626e6b287d02b74eba0f09c2)
 

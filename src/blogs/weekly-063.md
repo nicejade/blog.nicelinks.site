@@ -13,14 +13,14 @@
 ![倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox
 ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bulma.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bulma](https://nicelinks.site/redirect?url=https://bulma.io/)  ，是一个免费的、现代化的开源框架，它提供了现成的前端组件，您可以轻松地组合这些组件来构建响应式 Web 界面。它主张「不需要 CSS 知识」，即可轻松使用。它主要有以下功能特征：
+**推荐语**：[Bulma](https://bulma.io/)  ，是一个免费的、现代化的开源框架，它提供了现成的前端组件，您可以轻松地组合这些组件来构建响应式 Web 界面。它主张「不需要 CSS 知识」，即可轻松使用。它主要有以下功能特征：
 
 - **100% 响应**：专为移动优先而设计；
 - **模块化的**：只需导入您需要的内容；
 - **现代的**：使用 Flexbox 构建；
 - **免费**：Bulma 在 GitHub 上开源；
 
-除此之外，[Bulma](https://nicelinks.site/redirect?url=https://bulma.io/)  还有一个很棒的特色，无需 **JavaScript** 仅 CSS，因此它可以集成在**任何 JS** 环境中。Bulma 是一个 **CSS** 框架。因此，唯一的输出是一个 CSS 文件：[bulma.css](https://nicelinks.site/redirect?url=https://github.com/jgthms/bulma/blob/master/css/bulma.css) 可以使用该文件，“开箱即用”，或者下载 Sass 源文件来自定义变量。如果您想了解更多，可参见 [Github Bulma](https://github.com/jgthms/bulma) 源码。
+除此之外，[Bulma](https://bulma.io/)  还有一个很棒的特色，无需 **JavaScript** 仅 CSS，因此它可以集成在**任何 JS** 环境中。Bulma 是一个 **CSS** 框架。因此，唯一的输出是一个 CSS 文件：[bulma.css](https://github.com/jgthms/bulma/blob/master/css/bulma.css) 可以使用该文件，“开箱即用”，或者下载 Sass 源文件来自定义变量。如果您想了解更多，可参见 [Github Bulma](https://github.com/jgthms/bulma) 源码。
 
 ── 出自[倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox
 ](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
@@ -33,7 +33,7 @@
 
 ![倾城之链 - MongoDB: The Application Data Platform | MongoDB](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mongodb.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MongoDB](https://nicelinks.site/redirect?url=https://www.mongodb.com/)  ，是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。MongoDB 是一个介于关系数据库和非关系数据库之间的产品，是非关系数据库当中功能最丰富，最像关系数据库的。它支持的数据结构非常松散，是类似 Json 的 bson 格式，因此可以存储比较复杂的数据类型。MongoDB 最大的特点是它支持的查询语言非常强大，其语法有点类似于面向对象的查询语言，几乎可以实现类似关系数据库单表查询的绝大部分功能，而且还支持对数据建立索引。[MongoDB](https://nicelinks.site/redirect?url=https://www.mongodb.com/)  的特点是**高性能、易部署、易使用，存储数据非常方便**。除此之外，它主要还有以下功能特性：
+**推荐语**：[MongoDB](https://www.mongodb.com/)  ，是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。MongoDB 是一个介于关系数据库和非关系数据库之间的产品，是非关系数据库当中功能最丰富，最像关系数据库的。它支持的数据结构非常松散，是类似 Json 的 bson 格式，因此可以存储比较复杂的数据类型。MongoDB 最大的特点是它支持的查询语言非常强大，其语法有点类似于面向对象的查询语言，几乎可以实现类似关系数据库单表查询的绝大部分功能，而且还支持对数据建立索引。[MongoDB](https://www.mongodb.com/)  的特点是**高性能、易部署、易使用，存储数据非常方便**。除此之外，它主要还有以下功能特性：
 
 - 面向集合（_Collection-Oriented_）存储，易存储对象类型的数据；
 - 模式自由（schema-free），采用无模式结构存储；
@@ -59,7 +59,7 @@ MongoDB 是一个介于关系数据库和非关系数据库之间的产品，因
 2. 传统的商业智能应用。
 3. 复杂的跨文档（表）级联查询。
 
-[MongoDB](https://nicelinks.site/redirect?url=https://www.mongodb.com/)  由开发者构建，为开发者服务。它的文档数据模型与开发人员的思维和编码方式相吻合，并拥有强大、统一的查询 API，为更快、更灵活的应用开发提供动力。值得一提的是，本站（[倾城之链](https://nicelinks.site/post/5aa2579e56ee0d60651820c5)）也是采用 [MongoDB](https://nicelinks.site/redirect?url=https://www.mongodb.com/)  做数据存储、查询，配合 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 做数据缓存，从而为网站的高效访问提供支撑。
+[MongoDB](https://www.mongodb.com/)  由开发者构建，为开发者服务。它的文档数据模型与开发人员的思维和编码方式相吻合，并拥有强大、统一的查询 API，为更快、更灵活的应用开发提供动力。值得一提的是，本站（[倾城之链](https://nicelinks.site/post/5aa2579e56ee0d60651820c5)）也是采用 [MongoDB](https://www.mongodb.com/)  做数据存储、查询，配合 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 做数据缓存，从而为网站的高效访问提供支撑。
 
 ── 出自[倾城之链 - MongoDB: The Application Data Platform | MongoDB](https://nicelinks.site/post/62692add77f8270876fcb3dc)
 
@@ -73,7 +73,7 @@ MongoDB 是一个介于关系数据库和非关系数据库之间的产品，因
 
 ![倾城之链 - Billfish 素材管理工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.billfish.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Billfish 素材管理工具](https://nicelinks.site/redirect?url=https://www.billfish.cn/)  是一款免费的素材管理神器（软件，支持 Windows、Mac 系统）。可以轻松收集和整理在创意设计中涉及的灵感图片、音频、视频、源文件等各种素材，能快速收藏所见的灵感内容，有着高效的开放式素材管理模式，支持超过 61 种文件格式的解析，素材文件再多也能快速定位，适用于**所有创意工作者**。它具有以下功能特征：
+**推荐语**：[Billfish 素材管理工具](https://www.billfish.cn/)  是一款免费的素材管理神器（软件，支持 Windows、Mac 系统）。可以轻松收集和整理在创意设计中涉及的灵感图片、音频、视频、源文件等各种素材，能快速收藏所见的灵感内容，有着高效的开放式素材管理模式，支持超过 61 种文件格式的解析，素材文件再多也能快速定位，适用于**所有创意工作者**。它具有以下功能特征：
 
 ### 快速收藏所见的灵感内容：
 
@@ -87,7 +87,7 @@ MongoDB 是一个介于关系数据库和非关系数据库之间的产品，因
 
 无需担心素材文件太多的问题，Billfish 可以快速定位；支持按颜色查找、关键词搜索、多重条件筛选、快速浏览等。
 
-另外，[Billfish](https://nicelinks.site/redirect?url=https://www.billfish.cn/)  所提供的其他功能，可以帮你快速完善灵感库，如：
+另外，[Billfish](https://www.billfish.cn/)  所提供的其他功能，可以帮你快速完善灵感库，如：
 
 - 批量重命名（图片/音视频设计源文件等）；
 - 文件重复扫描（重复文件整理不占用额外空间）；
@@ -112,7 +112,7 @@ MongoDB 是一个介于关系数据库和非关系数据库之间的产品，因
 
 ![倾城之链 - Obsidian](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/obsidian.md.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Obsidian](https://nicelinks.site/redirect?url=https://obsidian.md/)  是一个强大的**知识库**、一款好用的**笔记应用**程序，位于纯文本 `Markdown` 文件的本地文件夹之上。其目标是：永远成为你第二个大脑。人脑是非线性的：人们总是从一个想法跳到另一个想法。你的第二个大脑应该同样工作。在 Obsidian 中，建立和跟随**连接**  是无摩擦的。像园丁一样照顾你的笔记；在一天结束时，坐下来惊叹于您自己的知识图谱。`Obsidian` 具有如下功能特征：
+**推荐语**：[Obsidian](https://obsidian.md/)  是一个强大的**知识库**、一款好用的**笔记应用**程序，位于纯文本 `Markdown` 文件的本地文件夹之上。其目标是：永远成为你第二个大脑。人脑是非线性的：人们总是从一个想法跳到另一个想法。你的第二个大脑应该同样工作。在 Obsidian 中，建立和跟随**连接**  是无摩擦的。像园丁一样照顾你的笔记；在一天结束时，坐下来惊叹于您自己的知识图谱。`Obsidian` 具有如下功能特征：
 
 ### 图表视图
 
@@ -148,7 +148,7 @@ Obsidian 被构建为可从头开始扩展。我们希望您构建自己的系�
 
 没有互联网？没问题。Obsidian（黑曜石）完全离线工作，互联网或服务问题，永远不会成为您的问题。随时随地享受阅读和处理笔记的乐趣。
 
-今（2022 年 4 月 25 日），从朋友处了解到 [Obsidian](https://nicelinks.site/redirect?url=https://obsidian.md/) ，初步试用之下，已经感受到它是非常棒的文档编辑应用，综合来讲，是目前所用文本编辑工具最棒；另外，它支持 Windows、Mac、Linux 等平台，而且**免费**可用；您在其他平台上享有的功能，在 Obsidian 都找到。如果您想了解更多，如 Obsidian 设计初衷等，可参见 [About Obsidian](https://nicelinks.site/redirect?url=https://obsidian.md/about) 。
+今（2022 年 4 月 25 日），从朋友处了解到 [Obsidian](https://obsidian.md/) ，初步试用之下，已经感受到它是非常棒的文档编辑应用，综合来讲，是目前所用文本编辑工具最棒；另外，它支持 Windows、Mac、Linux 等平台，而且**免费**可用；您在其他平台上享有的功能，在 Obsidian 都找到。如果您想了解更多，如 Obsidian 设计初衷等，可参见 [About Obsidian](https://obsidian.md/about) 。
 
 ── 出自[倾城之链 - Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6)
 
@@ -158,7 +158,7 @@ Obsidian 被构建为可从头开始扩展。我们希望您构建自己的系�
 
 ![倾城之链 - 卷王 | SurveyKing - 更好的调查问卷系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/surveyking.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[卷王](https://nicelinks.site/redirect?url=https://surveyking.cn/)，一款**安装简单**、**功能强大**、**界面美观**、**稳定**、**免费**的开源的调查问卷系统。它具有以下功能特性：
+**推荐语**：[卷王](https://surveyking.cn/)，一款**安装简单**、**功能强大**、**界面美观**、**稳定**、**免费**的开源的调查问卷系统。它具有以下功能特性：
 
 - 🥇 支持多种题型，如填空、选择、下拉、级联、矩阵、分页、签名、题组等；
 - 🎉 可计算，分为**逻辑计算**、**值计算**、**文本替换计算**、**必填计算**；；
@@ -174,7 +174,7 @@ Obsidian 被构建为可从头开始扩展。我们希望您构建自己的系�
 - 🙆 支持完善的 RBAC 权限控制；
 - 😊 支持**工作流**，工作流代码已全部开源；
 
-因为开源，您可以方便通过**发行版**、源码编译、Docker 等方式部署（按轧辊）在自己服务器；相比于[问卷星](https://nicelinks.site/post/5f24144ab1689d3f5f920016)、腾讯问卷等商业产品，`卷王` 在 Github 上，对主要功能点，也做了比较；目前（2022 年 4 月），版本 0.3.0-beta.13 已发布，感兴趣的朋友可前往[卷王 Github 仓库](https://nicelinks.site/redirect?url=https://github.com/javahuang/SurveyKing)了解更多。
+因为开源，您可以方便通过**发行版**、源码编译、Docker 等方式部署（按轧辊）在自己服务器；相比于[问卷星](https://nicelinks.site/post/5f24144ab1689d3f5f920016)、腾讯问卷等商业产品，`卷王` 在 Github 上，对主要功能点，也做了比较；目前（2022 年 4 月），版本 0.3.0-beta.13 已发布，感兴趣的朋友可前往[卷王 Github 仓库](https://github.com/javahuang/SurveyKing)了解更多。
 
 ── 出自[倾城之链 - 卷王 | SurveyKing - 更好的调查问卷系统](https://nicelinks.site/post/626538a177f8270876fcb3d4)
 

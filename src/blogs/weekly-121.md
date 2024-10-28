@@ -10,7 +10,7 @@
 
 ![倾城之链 - The next-generation, cross‐platform package manager](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tea.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[tea](https://nicelinks.site/redirect?url=https://tea.xyz/) 下一代跨平台包管理器。它能自动化依赖关系并无缝浏览数百个包，告别缓慢和笨重，向快速和流畅问好。，来自 Brew 的创造者（ [Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 制造商的 Homebrew 替代品）。使用 `tea`，只需键入命令，剩下的就交给它了。获取最新版本的开源工具，支持不同项目的特定工具版本，用 tea 体验更好的包裹管理。它具有以下功能特征：
+**推荐语**：[tea](https://tea.xyz/) 下一代跨平台包管理器。它能自动化依赖关系并无缝浏览数百个包，告别缓慢和笨重，向快速和流畅问好。，来自 Brew 的创造者（ [Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 制造商的 Homebrew 替代品）。使用 `tea`，只需键入命令，剩下的就交给它了。获取最新版本的开源工具，支持不同项目的特定工具版本，用 tea 体验更好的包裹管理。它具有以下功能特征：
 
 - 👆**一键安装**：而不是在混乱的文档中搜索安装说明。您可以一键安装任何软件包（以及所需的依赖项）。
 - 🆕**轻松更新**：在有新更新可用时获取通知。
@@ -20,7 +20,7 @@
 - 🌐**开源**：团队是开源的忠实信徒，拥有 60 多个活跃的贡献者并且还在不断增长。他们也有远大的目标来最终解决开源资金问题。一劳永逸。请继续关注！
 - 💪**坚固**：下面是功能强大、快速且经过实战检验的 [tea/cli](https://github.com/teaxyz/cli) 。
 
-[tea](https://nicelinks.site/redirect?url=https://tea.xyz/) 的作者在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 介绍道：“14 年前，我创建了 Homebrew，目的是创建一个工具，使开发和使用软件变得更加容易。它改变了数百万开发人员的工作方式。现在，十年后发生了变化，我又在做。我一直坚信，在构建时，工具应该让开，因为你有更重要的工作要做；我第一次尝试使用 brew，解决了安装依赖项的问题。现在，有了茶（Tea），您再也不用考虑依赖性了。2022 年 11 月，我们发布了 [tea/cli](https://github.com/teaxyz/cli) ，这是一个不可见但功能强大的程序包管理器，适用于终端爱好者。2023 年 5 月，发布了它的图形补充”。
+[tea](https://tea.xyz/) 的作者在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 介绍道：“14 年前，我创建了 Homebrew，目的是创建一个工具，使开发和使用软件变得更加容易。它改变了数百万开发人员的工作方式。现在，十年后发生了变化，我又在做。我一直坚信，在构建时，工具应该让开，因为你有更重要的工作要做；我第一次尝试使用 brew，解决了安装依赖项的问题。现在，有了茶（Tea），您再也不用考虑依赖性了。2022 年 11 月，我们发布了 [tea/cli](https://github.com/teaxyz/cli) ，这是一个不可见但功能强大的程序包管理器，适用于终端爱好者。2023 年 5 月，发布了它的图形补充”。
 
 笔者是 [MacOS](https://nicelinks.site/tags/Mac) 的忠实用户，经常使用命令行工具（Homebrew ）或 [Cakebrew](https://nicelinks.site/post/60eed3b881b2dc066ea4bd5f) 安装应用；但它的速度，在这个时代真令人颇为困惑；如今 Homebrew 的创作者亲自下场，发布革命性产品，这简直太棒了；身在距离工作场地近 5000 公里，已迫不及待下载、安装、试用了（呼伦贝尔草原，近乎现代化蒙古包中的 4G 网络，并不那么通畅，或许是检验 Tea 之强大的更好时机）。值得一提的是，该项目在 [Github 仓库开源](https://github.com/teaxyz/cli)，感兴趣的朋友可移步从而了解更多。
 
@@ -50,7 +50,7 @@
 
 ![倾城之链 - Hello 算法](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.hello-algo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：《[Hello 算法](https://nicelinks.site/redirect?url=https://www.hello-algo.com/) 》是一本动画图解、能运行、可提问的数据结构与 [算法](https://nicelinks.site/tags/算法) 入门书，支持 Java, C++, [Python](: tgagPython) , Go, JS, [TS](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) , C#, [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) , Zig 等语言。它通过**动画图解结构化**地讲解数据结构和算法知识，内容清晰易懂、学习曲线挺平滑，是很适合新手入门「数据结构与算法」的开源书籍 📚。此外《Hello 算法》 还有两个优点：
+**推荐语**：《[Hello 算法](https://www.hello-algo.com/) 》是一本动画图解、能运行、可提问的数据结构与 [算法](https://nicelinks.site/tags/算法) 入门书，支持 Java, C++, [Python](: tgagPython) , Go, JS, [TS](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) , C#, [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) , Zig 等语言。它通过**动画图解结构化**地讲解数据结构和算法知识，内容清晰易懂、学习曲线挺平滑，是很适合新手入门「数据结构与算法」的开源书籍 📚。此外《Hello 算法》 还有两个优点：
 
 - 源代码可一键运行，帮助读者在实践练习中提升编程技能，了解算法工作原理和数据结构底层实现；
 - 鼓励读者互助学习，提问与评论通常可在两日内得到回复；
@@ -69,7 +69,7 @@
 
 ![倾城之链 - Qdrant - Vector Database](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/qdrant.tech.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Qdrant](https://nicelinks.site/redirect?url=https://qdrant.tech/) ：用于下一代 [AI](https://nicelinks.site/tags/AI) 应用程序的矢量 [数据库](https://nicelinks.site/tags/数据库) ，也可在云中使用；它旨在使用先进的高性能矢量相似性 [搜索](https://nicelinks.site/tags/搜索) 技术，为下一代人工智能应用提供动力。`qdrant` 具有如下功能特征：
+**推荐语**：[Qdrant](https://qdrant.tech/) ：用于下一代 [AI](https://nicelinks.site/tags/AI) 应用程序的矢量 [数据库](https://nicelinks.site/tags/数据库) ，也可在云中使用；它旨在使用先进的高性能矢量相似性 [搜索](https://nicelinks.site/tags/搜索) 技术，为下一代人工智能应用提供动力。`qdrant` 具有如下功能特征：
 
 ### 充分利用您的非结构化数据
 
@@ -111,7 +111,7 @@ Vector payload 支持多种数据类型和查询条件，包括字符串匹配�
 
 ![倾城之链 - Gradio | 在 3 分钟内用 Python 为您的机器学习模型创建 UI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gradio.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gradio](https://nicelinks.site/redirect?url=https://www.gradio.app/) 是一个开源 [Python 库](https://nicelinks.site/tags/Python) ，用于构建 [机器学习](https://nicelinks.site/tags/机器学习) 、数据科学演示以及 Web 应用程序。它是通过友好的 Web 界面演示机器学习模型的快速方式，任何人都可以在任何地方使用它。Gradio 具有以下功能特征：
+**推荐语**：[Gradio](https://www.gradio.app/) 是一个开源 [Python 库](https://nicelinks.site/tags/Python) ，用于构建 [机器学习](https://nicelinks.site/tags/机器学习) 、数据科学演示以及 Web 应用程序。它是通过友好的 Web 界面演示机器学习模型的快速方式，任何人都可以在任何地方使用它。Gradio 具有以下功能特征：
 
 ### 快速、简单的设置
 

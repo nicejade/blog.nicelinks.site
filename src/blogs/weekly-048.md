@@ -10,7 +10,7 @@
 
 ![倾城之链 - 倾城博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.nicelinks.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[倾城博客](https://nicelinks.site/redirect?url=https://blog.nicelinks.site/)，基于 [GatsbyJS](https://nicelinks.site/redirect?url=https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://nicelinks.site/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://nicelinks.site/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://nicelinks.site/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
+**推荐语**：[倾城博客](https://blog.nicelinks.site/)，基于 [GatsbyJS](https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://nicelinks.site/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://nicelinks.site/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://nicelinks.site/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
 
 ── 出自[倾城之链 - 倾城博客](https://nicelinks.site/post/61e03d6773f9dd1533f83415)
 
@@ -24,13 +24,13 @@
 
 ![倾城之链 - AI Image Upscaler - Enlarge & Enhance your Images for Free](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.upscale.media.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI Image Upscaler](https://nicelinks.site/redirect?url=https://www.upscale.media/)，**免费的**（永久） AI 工具，可将图像分辨率提高 4 倍（big），而不会降低质量，并为您的所有个人和业务需求做好准备。其使用非常方便，上传、拖放图像或粘贴 URL，即可开始；需点击几下，就能基于强大的 AI 技术升级和增强您的图像；它支持 png、jpeg、jpg、webp 等格式。值得一提的是，它有以下独特的功能：
+**推荐语**：[AI Image Upscaler](https://www.upscale.media/)，**免费的**（永久） AI 工具，可将图像分辨率提高 4 倍（big），而不会降低质量，并为您的所有个人和业务需求做好准备。其使用非常方便，上传、拖放图像或粘贴 URL，即可开始；需点击几下，就能基于强大的 AI 技术升级和增强您的图像；它支持 png、jpeg、jpg、webp 等格式。值得一提的是，它有以下独特的功能：
 
 - **自动和快速的结果**：借助我们强大的人工智能技术，整个升级过程在几秒钟内完成；
 - **提高分辨率**：使用我们先进的计算机视觉算法，您可以将分辨率提高 4 倍；
 - **保留详细信息**：保留图像中的纹理并以在图像放大时看起来逼真的方式增强它们；
 
-[Upscale.media](https://nicelinks.site/redirect?url=https://www.upscale.media/) 适合所有人：
+[Upscale.media](https://www.upscale.media/) 适合所有人：
 
 ### 专业人士
 
@@ -44,7 +44,7 @@
 
 将来自社交媒体的压缩图像放大多达 400%；增强从未如此简单，但在人工智能的帮助下，它可以在几秒钟内完成，而无需花费昂贵的工具。
 
-借助 [Upscale.media](https://nicelinks.site/redirect?url=https://www.upscale.media/)，任何人现在都可以升级和增强图像，无论他们是专业摄影师还是新手。
+借助 [Upscale.media](https://www.upscale.media/)，任何人现在都可以升级和增强图像，无论他们是专业摄影师还是新手。
 
 ── 出自[倾城之链 - AI Image Upscaler - Enlarge & Enhance your Images for Free](https://nicelinks.site/post/61e0132273f9dd1533f83413)
 
@@ -56,16 +56,16 @@
 
 ![倾城之链 - 電腦玩物](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.playpcesor.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[電腦玩物](https://nicelinks.site/redirect?url=https://www.playpcesor.com/)，是作者 Esor Huang（异尘行者）的个人部落格；Esor，是本站唯一的作者与站长；主要涉及云端办公室、数位笔记、**时间管理**等让人生更美好工作方法；在[電腦玩物](https://nicelinks.site/redirect?url=https://www.playpcesor.com/)上可以读到 Esor 的这些文章：
+**推荐语**：[電腦玩物](https://www.playpcesor.com/)，是作者 Esor Huang（异尘行者）的个人部落格；Esor，是本站唯一的作者与站长；主要涉及云端办公室、数位笔记、**时间管理**等让人生更美好工作方法；在[電腦玩物](https://www.playpcesor.com/)上可以读到 Esor 的这些文章：
 
 1. 最新云端工具、数位软体的**真实心得分享**。
 2. 科技工具如何真正活用到生活的**具体经验**。
 3. 关于工作效率、专案管理、时间管理、习惯养成的**实作教学**或**观念反思**。
 4. 如果你是 **Google 云端办公室**、**Evernote 云端笔记**的爱用者，那么这里有最深入的应用教学。
 
-为什么在这个社群时代，作者还在努力写个人部落格（Blog 博客）呢？Esor 这样写道：“因为我希望把自己的完整想法、深入经验用精准文字记录并传播，能够跟网路上的你们彼此激荡。我期许自己在[電腦玩物](https://nicelinks.site/redirect?url=https://www.playpcesor.com/)上的文章，有别于单纯的软体和服务介绍，而是更强调软体和服务背后的「**数位工作思维及方法**」，并说明实际应用后带来的「**生活改变**」，我分享的主题将会涵盖数位应用、时间管理到生活旅游中的科技人文观察，目前部落格每日点阅数超过 8 万，累积浏览人次更已突破一亿三千万人“。
+为什么在这个社群时代，作者还在努力写个人部落格（Blog 博客）呢？Esor 这样写道：“因为我希望把自己的完整想法、深入经验用精准文字记录并传播，能够跟网路上的你们彼此激荡。我期许自己在[電腦玩物](https://www.playpcesor.com/)上的文章，有别于单纯的软体和服务介绍，而是更强调软体和服务背后的「**数位工作思维及方法**」，并说明实际应用后带来的「**生活改变**」，我分享的主题将会涵盖数位应用、时间管理到生活旅游中的科技人文观察，目前部落格每日点阅数超过 8 万，累积浏览人次更已突破一亿三千万人“。
 
-近期，因为[時間管理 Q&A：下班後如何避免滑一下手機就沒時間了？4 步驟調整習慣](https://nicelinks.site/redirect?url=https://www.playpcesor.com/2022/01/q.html)这篇文章，从而了解到[電腦玩物](https://nicelinks.site/redirect?url=https://www.playpcesor.com/)这个网站，有志于提升自己的朋友们，不妨考虑关注下，闲来品读，增加阅历，开阔思维。
+近期，因为[時間管理 Q&A：下班後如何避免滑一下手機就沒時間了？4 步驟調整習慣](https://www.playpcesor.com/2022/01/q.html)这篇文章，从而了解到[電腦玩物](https://www.playpcesor.com/)这个网站，有志于提升自己的朋友们，不妨考虑关注下，闲来品读，增加阅历，开阔思维。
 
 ── 出自[倾城之链 - 電腦玩物](https://nicelinks.site/post/61e003c973f9dd1533f83411)
 
@@ -77,14 +77,14 @@
 
 ![倾城之链 - 二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.qrdream.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[二维码梦工厂](https://nicelinks.site/redirect?url=https://www.qrdream.com/)，是一款简单、强大、实用、在线的二维码生成器，可以为文本、网址、微信公众号生成二维码；其目标是使得用户：“不会 PS、AI 也可以做出精美的艺术二维码”。
+**推荐语**：[二维码梦工厂](https://www.qrdream.com/)，是一款简单、强大、实用、在线的二维码生成器，可以为文本、网址、微信公众号生成二维码；其目标是使得用户：“不会 PS、AI 也可以做出精美的艺术二维码”。
 
 - **功能强大**：二维码梦工厂，提供优质图库、二维码模版、元素和码眼自定义、元素切割功能；
 - **效果贼好**：无需多余步骤，很容易就能制作高质量的作品；
 - **简单上手**：视频教程与常见问题应有尽有，使上手变得更加简单；
 - **长期有效识别率高**：制作的艺术二维码能保持长期有效，并且识别率超高；
 
-值得一提的是，[二维码梦工厂](https://nicelinks.site/redirect?url=https://www.qrdream.com/)不仅提供高级编辑功能，而且提供很多精选模板，对精美二维码感兴趣的朋友，可以关注下。
+值得一提的是，[二维码梦工厂](https://www.qrdream.com/)不仅提供高级编辑功能，而且提供很多精选模板，对精美二维码感兴趣的朋友，可以关注下。
 
 ── 出自[倾城之链 - 二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://nicelinks.site/post/61dfba2e73f9dd1533f8340f)
 

@@ -12,7 +12,7 @@
 
 ![倾城之链 - Hackershare -✨ Social bookmarking reinvented!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hackershare.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hackershare](https://nicelinks.site/redirect?url=https://hackershare.dev/)，一款开源的社交书签网站；旨在汇聚了极客们分享的书签，并提供搜索和标签分类功能，以供更多用户快速找到专业的工具和教程；它具有以下功能特征：
+**推荐语**：[Hackershare](https://hackershare.dev/)，一款开源的社交书签网站；旨在汇聚了极客们分享的书签，并提供搜索和标签分类功能，以供更多用户快速找到专业的工具和教程；它具有以下功能特征：
 
 - 丰富的书签分享；
 - 强大的搜索和标签分类功能；
@@ -20,7 +20,7 @@
 - 一键分享当前页面（需安装 Chrome 插件 ）；
 - 收藏、评论、关注其他极客；
 
-除了网站、Chrome 插件，[Hackershare](https://nicelinks.site/redirect?url=https://hackershare.dev/) 还提供公众号客服，用来承载每周/每月精品书签汇总。
+除了网站、Chrome 插件，[Hackershare](https://hackershare.dev/) 还提供公众号客服，用来承载每周/每月精品书签汇总。
 
 ── 出自[倾城之链 - Hackershare -✨ Social bookmarking reinvented!](https://nicelinks.site/post/616017c7835dda0faf03db50)
 
@@ -34,7 +34,7 @@
 
 ![倾城之链 - SVGPORN](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/svgporn.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SVG Porn](https://nicelinks.site/redirect?url=https://svgporn.com/) 是一个收集高品质的 SVG LOGO 标志的网站，旨在帮助设计师们找到大尺寸的、各种类型的素材 `logo`；该网站目前收录了数以千计 logo，对不同的 logo 进行了**分类**，且打了**标签**，还提供了检索功能，以方便用户找到自己心仪的素材；点击 `download` 按钮即可下载使用。
+**推荐语**：[SVG Porn](https://svgporn.com/) 是一个收集高品质的 SVG LOGO 标志的网站，旨在帮助设计师们找到大尺寸的、各种类型的素材 `logo`；该网站目前收录了数以千计 logo，对不同的 logo 进行了**分类**，且打了**标签**，还提供了检索功能，以方便用户找到自己心仪的素材；点击 `download` 按钮即可下载使用。
 
 ── 出自[倾城之链 - SVGPORN](https://nicelinks.site/post/615f109d835dda0faf03db4c)
 
@@ -48,7 +48,7 @@
 
 ![倾城之链 - Vector Logos, Logo Templates Free Download | seeklogo](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/seeklogo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Seeklogo](https://nicelinks.site/redirect?url=https://seeklogo.com/) 提供了超过四十万个矢量 logo，只要输入你想要的 logo 关键字点击 `SEEK!`，就会搜索出所有相关的 logo，搜素的结果列出了 logo 的详细信息，包括大小、格式，支持英语，法语，西班牙语等。[Seeklogo](https://nicelinks.site/redirect?url=https://seeklogo.com/) 提供了由 `A-Z` 的分类，还有你也可以通过热门关键词来搜索 logo。
+**推荐语**：[Seeklogo](https://seeklogo.com/) 提供了超过四十万个矢量 logo，只要输入你想要的 logo 关键字点击 `SEEK!`，就会搜索出所有相关的 logo，搜素的结果列出了 logo 的详细信息，包括大小、格式，支持英语，法语，西班牙语等。[Seeklogo](https://seeklogo.com/) 提供了由 `A-Z` 的分类，还有你也可以通过热门关键词来搜索 logo。
 
 ── 出自[倾城之链 - Vector Logos, Logo Templates Free Download | seeklogo](https://nicelinks.site/post/615f0a83835dda0faf03db4a)
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - 广告门 | 一个行业的跌宕起伏 | 专注于创意广告公司设计](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.adquan.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[广告门](https://nicelinks.site/redirect?url=https://www.adquan.com/)，营销传播产业的媒体。根据官方描述：[广告门](https://nicelinks.site/redirect?url=https://www.adquan.com/)根植于营销传播产业，服务于品牌、广告公司、媒体三方及其从业人员，建立起优质的资源整合平台。这里汇聚了中国最核心、最活跃的营销传播产业人才，是一个富有创造力、凝聚力的营销传播资源智库。
+**推荐语**：[广告门](https://www.adquan.com/)，营销传播产业的媒体。根据官方描述：[广告门](https://www.adquan.com/)根植于营销传播产业，服务于品牌、广告公司、媒体三方及其从业人员，建立起优质的资源整合平台。这里汇聚了中国最核心、最活跃的营销传播产业人才，是一个富有创造力、凝聚力的营销传播资源智库。
 
 广告门持续关注营销传播产业的动态，每日发布由头条+深度文章 8-12 篇，内容包含业界重大事件、案例分享、人物访谈等，开门以来的原创内容容量>10,000 篇，并于年终进行行业盘点。网站每日独立 IP 约 6 万，日均访问量 30 万。5 年来，总计超过 2 亿人次访问过广告门网站，覆盖 5,000 家广告传播公司，100 万广告、传播行业核心用户，访问人群覆盖中国经济发达地区，北京、上海、广州三地来访比例占总访问人群的 65%，其中来自北京的访问占比近 30%。读者既带有传播基因，对品牌充满感知力，富有好奇心和想象力，也是强有力的购买者。
 

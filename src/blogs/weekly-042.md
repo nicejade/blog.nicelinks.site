@@ -10,7 +10,7 @@
 
 ![倾城之链 - Wiki.js | A modern and powerful wiki app built on Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/js.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/)，一个基于 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 的**现代**、**轻量级**和**强大**的 Wiki 应用程序（值得一提的是，[Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/) 是一个开源项目）。您可以从以下几个功能特征，来领略下 [Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/) 的强大：
+**推荐语**：[Wiki.js](https://js.wiki/)，一个基于 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 的**现代**、**轻量级**和**强大**的 Wiki 应用程序（值得一提的是，[Wiki.js](https://js.wiki/) 是一个开源项目）。您可以从以下几个功能特征，来领略下 [Wiki.js](https://js.wiki/) 的强大：
 
 ### 随处安装
 
@@ -36,9 +36,9 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 无论是在微型 Raspberry Pi 上还是在云中的高性能 VM 上，Wiki.js 都可以智能地利用可用资源。
 
-除此之外，[Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/) 捆绑了您需要的一切。诸如验证（本地认证、社会认证、企业认证、2FA）、编辑（支持 Markdown、纯 HTML、API 文档等等）、历史（版本跟踪、比较版本）、本土化、媒体资产、渲染、搜索（有内置的搜索引擎，无需设置；也支持使用 Algolia、Azure 搜索等云搜索服务来增强您的 wiki 搜索功能；也可以使用您现有的 Elasticsearch（弹性搜索） 安装来增强您的 wiki 搜索功能）、储存、用户管理、主题（注入自定义 CSS / JS、黑暗模式、自定义主题等）...... 这并非所有团队都需要相同的功能集。这就是为什么 Wiki.js 提供了大量可以按需打开/关闭的模块。可以毫不夸张的说，[Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/) 是所见过**最棒的** Wiki 、Doc 相关的应用程序。
+除此之外，[Wiki.js](https://js.wiki/) 捆绑了您需要的一切。诸如验证（本地认证、社会认证、企业认证、2FA）、编辑（支持 Markdown、纯 HTML、API 文档等等）、历史（版本跟踪、比较版本）、本土化、媒体资产、渲染、搜索（有内置的搜索引擎，无需设置；也支持使用 Algolia、Azure 搜索等云搜索服务来增强您的 wiki 搜索功能；也可以使用您现有的 Elasticsearch（弹性搜索） 安装来增强您的 wiki 搜索功能）、储存、用户管理、主题（注入自定义 CSS / JS、黑暗模式、自定义主题等）...... 这并非所有团队都需要相同的功能集。这就是为什么 Wiki.js 提供了大量可以按需打开/关闭的模块。可以毫不夸张的说，[Wiki.js](https://js.wiki/) 是所见过**最棒的** Wiki 、Doc 相关的应用程序。
 
-除了现代轻量、功能强大，[Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/) 安装也十分简单，您将在几分钟内准备就绪！而且提供适用于所有平台的分步[安装指南](https://nicelinks.site/redirect?url=https://js.wiki/get-started)。最近有尝试基于 [Wiki.js](https://nicelinks.site/redirect?url=https://js.wiki/) 部署了一个服务：[清风明月阁](https://wiki.lovejade.cn/?ref=nicelinks.site)（使用 Docker Compose，具体有记载于[腾讯云服务器使用感受，及折腾笔记](https://forum.lovejade.cn/d/122)），切实感受了下 Wiki.js 的强大功能与便捷使用；在其官方网站提到：“使用 Wiki.js 漂亮而直观的界面，让编写文档成为一种乐趣！“，其**所言不虚**。
+除了现代轻量、功能强大，[Wiki.js](https://js.wiki/) 安装也十分简单，您将在几分钟内准备就绪！而且提供适用于所有平台的分步[安装指南](https://js.wiki/get-started)。最近有尝试基于 [Wiki.js](https://js.wiki/) 部署了一个服务：[清风明月阁](https://wiki.lovejade.cn/?ref=nicelinks.site)（使用 Docker Compose，具体有记载于[腾讯云服务器使用感受，及折腾笔记](https://forum.lovejade.cn/d/122)），切实感受了下 Wiki.js 的强大功能与便捷使用；在其官方网站提到：“使用 Wiki.js 漂亮而直观的界面，让编写文档成为一种乐趣！“，其**所言不虚**。
 
 ## [色影无忌\_中文影像生活门户](https://nicelinks.site/post/61a8d9b6465c2155e2d15894)
 
@@ -50,9 +50,9 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 ![倾城之链 - 色影无忌_中文影像生活门户](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ww.xitek.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[色影无忌](https://nicelinks.site/redirect?url=https://ww.xitek.com/)，创立于 2000 年 1 月 18 日，旨在为全球华人摄影爱好者提供优质的影像交流平台。早在 2000 年初，[色影无忌](https://nicelinks.site/redirect?url=https://ww.xitek.com/)率先提出“没有照相机就没有摄影”的口号，使网站汇聚了大量熟悉摄影器材的顶尖高手；近年来，着力打造优质的影像艺术平台，以在业界具有领导力为目标，同步发展摄影之下的“影像”与“器材”双重概念，现已成为全球广受欢迎的中文影像生活网站。
+**推荐语**：[色影无忌](https://ww.xitek.com/)，创立于 2000 年 1 月 18 日，旨在为全球华人摄影爱好者提供优质的影像交流平台。早在 2000 年初，[色影无忌](https://ww.xitek.com/)率先提出“没有照相机就没有摄影”的口号，使网站汇聚了大量熟悉摄影器材的顶尖高手；近年来，着力打造优质的影像艺术平台，以在业界具有领导力为目标，同步发展摄影之下的“影像”与“器材”双重概念，现已成为全球广受欢迎的中文影像生活网站。
 
-[色影无忌](https://nicelinks.site/redirect?url=https://ww.xitek.com/)网现设有网站、论坛两大板块，网站下辖器材、影像、行色、她影像四大频道。除为摄影爱好者提供专业的影像服务之外，[色影无忌](https://nicelinks.site/redirect?url=https://ww.xitek.com/)始终关注影像艺术中的专业和前沿领域，从为年轻摄影师提供支持的新锐摄影奖，到专业、高端的影像艺术家年度特展，色影无忌正在构建从爱好者到优秀艺术家、从网络快速消费到专业影像收藏的全方位影像艺术概念和格局。
+[色影无忌](https://ww.xitek.com/)网现设有网站、论坛两大板块，网站下辖器材、影像、行色、她影像四大频道。除为摄影爱好者提供专业的影像服务之外，[色影无忌](https://ww.xitek.com/)始终关注影像艺术中的专业和前沿领域，从为年轻摄影师提供支持的新锐摄影奖，到专业、高端的影像艺术家年度特展，色影无忌正在构建从爱好者到优秀艺术家、从网络快速消费到专业影像收藏的全方位影像艺术概念和格局。
 
 ── 出自[倾城之链 - 色影无忌\_中文影像生活门户](https://nicelinks.site/post/61a8d9b6465c2155e2d15894)
 
@@ -66,7 +66,7 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 ![倾城之链 - 物色 - 科学理性的购物百科](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wusebest.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[物色](https://nicelinks.site/redirect?url=https://wusebest.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的在线网站；其口号是“科学理性的购物百科“，旨在为你推荐最好的产品。该网站主要分为四个模块儿，物色精选、手机数码、智能家居、娱乐影音；其内容颇为详细，评价也较全面且中肯，只可惜近一年（2021）未曾继续更新。
+**推荐语**：[物色](https://wusebest.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的在线网站；其口号是“科学理性的购物百科“，旨在为你推荐最好的产品。该网站主要分为四个模块儿，物色精选、手机数码、智能家居、娱乐影音；其内容颇为详细，评价也较全面且中肯，只可惜近一年（2021）未曾继续更新。
 
 ── 出自[倾城之链 - 物色 - 科学理性的购物百科](https://nicelinks.site/post/61a8d318465c2155e2d15892)
 
@@ -78,7 +78,7 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 ![倾城之链 - Snapcraft - Snaps are universal Linux packages](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/snapcraft.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Snapcraft](https://nicelinks.site/redirect?url=https://snapcraft.io/) 是适用于桌面、云和物联网的应用程序包，易于安装、安全、跨平台和无依赖性。可以从 Snap Store 发现和安装 Snap，Snap Store 是一个拥有数百万用户的 Linux 应用程序商店。Snaps 不仅可以在台式机上运行，​​ 还可以在物联网设备、服务器和云上运行。更值得称赞的是，Snapcraft 支持**免费构建**、**发布**和**托管**，无论您的项目是否托管在 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 上，您都可以利用我们的构建系统构建和发布到边缘通道，确保用户始终保持最新状态。对于软件开发商，软件分发在您手中（使用 Snapcraft，您可以控制发布 Snap 的时间和方式）。
+**推荐语**：[Snapcraft](https://snapcraft.io/) 是适用于桌面、云和物联网的应用程序包，易于安装、安全、跨平台和无依赖性。可以从 Snap Store 发现和安装 Snap，Snap Store 是一个拥有数百万用户的 Linux 应用程序商店。Snaps 不仅可以在台式机上运行，​​ 还可以在物联网设备、服务器和云上运行。更值得称赞的是，Snapcraft 支持**免费构建**、**发布**和**托管**，无论您的项目是否托管在 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 上，您都可以利用我们的构建系统构建和发布到边缘通道，确保用户始终保持最新状态。对于软件开发商，软件分发在您手中（使用 Snapcraft，您可以控制发布 Snap 的时间和方式）。
 
 近期有新购一台云服务器，其中部分软件，就是基于 Snap 来安装，它给人的体验和感觉非常不错，具体操作有记载于文章：[腾讯云服务器使用感受，及折腾笔记](https://www.jeffjade.com/2021/11/27/230-talk-about-tencent-cloud-cvm/#%E5%AE%89%E8%A3%85-Docker)。
 
@@ -92,9 +92,9 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 ![倾城之链 - gitmoji | An emoji guide for your commit messages](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gitmoji.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gitmoji](https://nicelinks.site/redirect?url=https://gitmoji.dev/) **是 GitHub 提交消息的表情符号指南**。旨在成为标准化备忘单：在 GitHub 的提交消息上使用[表情符号](https://nicelinks.site/redirect?url=https://emoji.muan.co/)的指南。在**提交消息** 上**使用表情符号**提供了一种**简单的方法**来**识别提交的目的或意图，**只需查看所使用的表情符号。由于有很多不同的表情符号，该团队敏锐的发现，需要创建一个可以帮助更轻松地使用表情符号的指南。这个项目是开源的，这意味着每个人都可以参与、建议、讨论和添加新的表情符号。查看[贡献部分](https://nicelinks.site/redirect?url=https://gitmoji.dev/about#contributing-gitmoji)和[贡献指南](https://nicelinks.site/redirect?url=https://github.com/carloscuesta/gitmoji/blob/master/.github/CONTRIBUTING.md)。
+**推荐语**：[Gitmoji](https://gitmoji.dev/) **是 GitHub 提交消息的表情符号指南**。旨在成为标准化备忘单：在 GitHub 的提交消息上使用[表情符号](https://emoji.muan.co/)的指南。在**提交消息** 上**使用表情符号**提供了一种**简单的方法**来**识别提交的目的或意图，**只需查看所使用的表情符号。由于有很多不同的表情符号，该团队敏锐的发现，需要创建一个可以帮助更轻松地使用表情符号的指南。这个项目是开源的，这意味着每个人都可以参与、建议、讨论和添加新的表情符号。查看[贡献部分](https://gitmoji.dev/about#contributing-gitmoji)和[贡献指南](https://github.com/carloscuesta/gitmoji/blob/master/.github/CONTRIBUTING.md)。
 
-其使用方式，非常的简单：从命令行使用 [Gitmoji](https://nicelinks.site/redirect?url=https://gitmoji.dev/) 的一个简单解决方案，是安装 [gitmoji-cli](https://nicelinks.site/redirect?url=https://github.com/carloscuesta/gitmoji-cli)。这一个 gitmoji 交互式客户端，用于在提交消息上使用表情符号。具体操作方式如下：
+其使用方式，非常的简单：从命令行使用 [Gitmoji](https://gitmoji.dev/) 的一个简单解决方案，是安装 [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)。这一个 gitmoji 交互式客户端，用于在提交消息上使用表情符号。具体操作方式如下：
 
 ```bash
 # install
@@ -107,7 +107,7 @@ gitmoji -i
 git commit
 ```
 
-[Gitmoji](https://nicelinks.site/redirect?url=https://gitmoji.dev/)，对程序员很有用么，尤其是像我这样，喜欢用表情来区分 Git 提交的开发者。
+[Gitmoji](https://gitmoji.dev/)，对程序员很有用么，尤其是像我这样，喜欢用表情来区分 Git 提交的开发者。
 
 ── 出自[倾城之链 - gitmoji | An emoji guide for your commit messages](https://nicelinks.site/post/61a781e7465c2155e2d1588e)
 

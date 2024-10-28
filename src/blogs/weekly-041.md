@@ -10,13 +10,13 @@
 
 ![倾城之链 - AppFlowy.IO](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.appflowy.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AppFlowy.IO](https://nicelinks.site/redirect?url=https://www.appflowy.io/)，是 Notion 的开源替代品，### 专为需要更多控制和灵活性的团队而打造，您只需负责您的数据和自定义。[AppFlowy.IO](https://nicelinks.site/redirect?url=https://www.appflowy.io/) 的使命是：让任何人都可以创建适合他们需求的应用程序。根据官方描述，[AppFlowy.IO](https://nicelinks.site/redirect?url=https://www.appflowy.io/) 有以下功能特征“
+**推荐语**：[AppFlowy.IO](https://www.appflowy.io/)，是 Notion 的开源替代品，### 专为需要更多控制和灵活性的团队而打造，您只需负责您的数据和自定义。[AppFlowy.IO](https://www.appflowy.io/) 的使命是：让任何人都可以创建适合他们需求的应用程序。根据官方描述，[AppFlowy.IO](https://www.appflowy.io/) 有以下功能特征“
 
 1. **100% 控制您的数据**：在您的本地机器上下载并安装 AppFlowy。您拥有并控制您的个人数据。
 2. **可广泛扩展**：对于那些没有编码经验的人，AppFlowy 使您能够创建适合您需求的应用程序。它建立在社区驱动的工具箱上，包括模板、插件、主题等。
 3. **真正的本土体验**：支持离线模式，更快、更稳定。它还可以更好地与不同的设备集成。此外，AppFlowy 使用户能够访问网络上不可用的功能和可能性。
 
-为什么要建造 [AppFlowy.IO](https://nicelinks.site/redirect?url=https://www.appflowy.io/)？官方给出了解释：Notion 一直是他们喜欢的项目和**知识管理工具**，因为它具有美学吸引力和功能性。该团队每天都在使用它，而且正在使用它的付费计划。然而，众所周知，Notion 有其局限性。这些包括弱数据安全性和与移动设备的兼容性差。同样，替代的协作工作场所管理工具也有其局限性。所有这些局限性使得他们的使命成为必要 ── 让任何人都可以创建适合他们需求的应用程序。目前 AppFlowy 已发布 `v0.0.2` 版本，感兴趣的朋友不妨了解下。
+为什么要建造 [AppFlowy.IO](https://www.appflowy.io/)？官方给出了解释：Notion 一直是他们喜欢的项目和**知识管理工具**，因为它具有美学吸引力和功能性。该团队每天都在使用它，而且正在使用它的付费计划。然而，众所周知，Notion 有其局限性。这些包括弱数据安全性和与移动设备的兼容性差。同样，替代的协作工作场所管理工具也有其局限性。所有这些局限性使得他们的使命成为必要 ── 让任何人都可以创建适合他们需求的应用程序。目前 AppFlowy 已发布 `v0.0.2` 版本，感兴趣的朋友不妨了解下。
 
 ── 出自[倾城之链 - AppFlowy.IO](https://nicelinks.site/post/619e3b54465c2155e2d15882)
 
@@ -28,15 +28,15 @@
 
 ![倾城之链 - Hurl - Run and Test HTTP Requests](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hurl.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hurl](https://nicelinks.site/redirect?url=https://hurl.dev/) 是一个命令行工具，它运行以简单**纯文本格式**定义的 **HTTP 请求**。它可以执行请求、捕获值并评估对标头和正文响应的查询。Hurl 非常通用：它可以用于**获取数据**和**测试 HTTP** 会话；其作用类似于 `curl`，但它是特别为测试而设计的，配置文件里面允许写断言，很适合在命令行测试 HTTP 接口；而且，还可以用于测试 HTTP 端点的性能。
+**推荐语**：[Hurl](https://hurl.dev/) 是一个命令行工具，它运行以简单**纯文本格式**定义的 **HTTP 请求**。它可以执行请求、捕获值并评估对标头和正文响应的查询。Hurl 非常通用：它可以用于**获取数据**和**测试 HTTP** 会话；其作用类似于 `curl`，但它是特别为测试而设计的，配置文件里面允许写断言，很适合在命令行测试 HTTP 接口；而且，还可以用于测试 HTTP 端点的性能。
 
-为什么要使用 [Hurl](https://nicelinks.site/redirect?url=https://hurl.dev/)，官方给出以下几条优势特征：
+为什么要使用 [Hurl](https://hurl.dev/)，官方给出以下几条优势特征：
 
 - **文本格式**：对于 DevOps 和开发人员友好；
 - **快速命令行界**面：本地开发和持续集成的命令行；
 - **单二进制**： 易于安装，无需运行时间；
 
-[Hurl](https://nicelinks.site/redirect?url=https://hurl.dev/) 是一个用 Rust 编写的轻量级二进制文件，在幕后，Hurl HTTP 引擎由 libcurl（最强大、最可靠的文件传输库之一） 提供支持，凭借其文本文件格式，Hurl 添加了语法糖来运行和测试 HTTP 请求，目前（2021.11）仍处于测试阶段，初用了下，感觉这是一个蛮有用的工具。其使用方式大致如下：
+[Hurl](https://hurl.dev/) 是一个用 Rust 编写的轻量级二进制文件，在幕后，Hurl HTTP 引擎由 libcurl（最强大、最可靠的文件传输库之一） 提供支持，凭借其文本文件格式，Hurl 添加了语法糖来运行和测试 HTTP 请求，目前（2021.11）仍处于测试阶段，初用了下，感觉这是一个蛮有用的工具。其使用方式大致如下：
 
 ```bash
 # sample-test.hurl
@@ -46,7 +46,7 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/2010010
 keyword: Git
 ```
 
-只需在终端运行 `hurl sample-test.hurl`，即可得到结果。如果您对此感兴趣，想更多了解 Hurl 的文件格式或语法、功能，可以参见 [Hurl Doc](https://nicelinks.site/redirect?url=https://hurl.dev/docs/hurl-file.html)。
+只需在终端运行 `hurl sample-test.hurl`，即可得到结果。如果您对此感兴趣，想更多了解 Hurl 的文件格式或语法、功能，可以参见 [Hurl Doc](https://hurl.dev/docs/hurl-file.html)。
 
 ── 出自[倾城之链 - Hurl - Run and Test HTTP Requests](https://nicelinks.site/post/619ce835465c2155e2d1587f)
 
@@ -60,7 +60,7 @@ keyword: Git
 
 ![倾城之链 - Zhaoyun.art | 设计之路 | 我的学习笔记](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.zhaoyun.art.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zhaoyun.art](https://nicelinks.site/redirect?url=https://www.zhaoyun.art/)，一个用户体验设计师的个人博客（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建），用来承载该博主对互联网的一点迷思。知晓该网站的存在，是通过 Google 检索苏轼的那句“江海寄余生“；该网站看起来，特色设计风格、颇具文艺性内容，给我留下很不错的初次印象；抱着好奇心逛了下，发现在深耕**编程**、产品之余，学习些设计（如图像合成、数字绘景、插画等等），也是非常值得倾向的技能方向 🧭；对此感兴趣的朋友们，不妨前往了解一下。
+**推荐语**：[Zhaoyun.art](https://www.zhaoyun.art/)，一个用户体验设计师的个人博客（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建），用来承载该博主对互联网的一点迷思。知晓该网站的存在，是通过 Google 检索苏轼的那句“江海寄余生“；该网站看起来，特色设计风格、颇具文艺性内容，给我留下很不错的初次印象；抱着好奇心逛了下，发现在深耕**编程**、产品之余，学习些设计（如图像合成、数字绘景、插画等等），也是非常值得倾向的技能方向 🧭；对此感兴趣的朋友们，不妨前往了解一下。
 
 ── 出自[倾城之链 - Zhaoyun.art | 设计之路 | 我的学习笔记](https://nicelinks.site/post/619a366360f6c5569db65f25)
 
@@ -74,14 +74,14 @@ keyword: Git
 
 ![倾城之链 - NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nutui.jd.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NutUI](https://nicelinks.site/redirect?url=https://nutui.jd.com/)，京东风格的轻量级移动端 Vue 组件库，适用于移动端 Vue2、Vue3、小程序等。相比较于其他组件库，[NutUI](https://nicelinks.site/redirect?url=https://nutui.jd.com/) 具有以下亮点特色：
+**推荐语**：[NutUI](https://nutui.jd.com/)，京东风格的轻量级移动端 Vue 组件库，适用于移动端 Vue2、Vue3、小程序等。相比较于其他组件库，[NutUI](https://nutui.jd.com/) 具有以下亮点特色：
 
 - **京东风格**：遵循京东 App 10.0 设计规范；
 - **前沿技术**：基于 Vue3 Vite2.x TypeScript；
 - **适配多端**：基于 Taro 轻松开发多端小程序；
 - **组件丰富**：70+ 组件，覆盖多数业务场景；
 
-此外，一些常规功能，也都具备，诸如：支持按需引用、支持服务端渲染、支持定制主题等等。就个人感知来看，[NutUI](https://nicelinks.site/redirect?url=https://nutui.jd.com/) 相较于其他组件库，更加漂亮，可直接作用于对外产品，而不是内部管理后台。倘若，之后还将开发个人独立产品，将会选择 [NutUI](https://nicelinks.site/redirect?url=https://nutui.jd.com/) 作为首选**组件库**。
+此外，一些常规功能，也都具备，诸如：支持按需引用、支持服务端渲染、支持定制主题等等。就个人感知来看，[NutUI](https://nutui.jd.com/) 相较于其他组件库，更加漂亮，可直接作用于对外产品，而不是内部管理后台。倘若，之后还将开发个人独立产品，将会选择 [NutUI](https://nutui.jd.com/) 作为首选**组件库**。
 
 ── 出自[倾城之链 - NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://nicelinks.site/post/6199fe5760f6c5569db65f22)
 
@@ -95,11 +95,11 @@ keyword: Git
 
 ![倾城之链 - 飞书多维表格-融合表格和业务系统能力的新一代效率应用](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bitable.feishu.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[飞书多维表格](https://nicelinks.site/redirect?url=https://bitable.feishu.cn/)，是一款以表格为基础的新一代效率应用。它具备表格的轻盈和业务系统的强大，融合了在线协作、信息管理和可视化能力，能够自适应团队思维和业务发展需求，是具备个性化能力的业务管理工具。
+**推荐语**：[飞书多维表格](https://bitable.feishu.cn/)，是一款以表格为基础的新一代效率应用。它具备表格的轻盈和业务系统的强大，融合了在线协作、信息管理和可视化能力，能够自适应团队思维和业务发展需求，是具备个性化能力的业务管理工具。
 
-[飞书多维表格](https://nicelinks.site/redirect?url=https://bitable.feishu.cn/)的每一行被称为「**记录**」，每一列被称为「**字段**」。每列字段的数据格式是固定的，保证你输入的数据规范有序。多维表格提供丰富的字段类型，满足你在表格中插入多样信息的需求。你可根据项目需求，选择添加不同的字段类型，以将每列的数据类型定为：多行文本、单选、多选、人员、日期、附件、数字、复选框、公式、单向关联、双向关联等。**视图**代表信息的展现形式。在飞书多维表格中，你可使用 5 种视图整理同一份数据。每新建一个视图，就等于为该份数据新增了一个展现、汇总形式。编辑任一视图中的数据信息，都将实时改变该数据源的其他视图。
+[飞书多维表格](https://bitable.feishu.cn/)的每一行被称为「**记录**」，每一列被称为「**字段**」。每列字段的数据格式是固定的，保证你输入的数据规范有序。多维表格提供丰富的字段类型，满足你在表格中插入多样信息的需求。你可根据项目需求，选择添加不同的字段类型，以将每列的数据类型定为：多行文本、单选、多选、人员、日期、附件、数字、复选框、公式、单向关联、双向关联等。**视图**代表信息的展现形式。在飞书多维表格中，你可使用 5 种视图整理同一份数据。每新建一个视图，就等于为该份数据新增了一个展现、汇总形式。编辑任一视图中的数据信息，都将实时改变该数据源的其他视图。
 
-相较于普通表格，[多维表格](https://nicelinks.site/redirect?url=https://bitable.feishu.cn/)是一个立体的信息系统，能助你从多种维度管理项目。可从以下 4 点了解多维表格的功能特点：
+相较于普通表格，[多维表格](https://bitable.feishu.cn/)是一个立体的信息系统，能助你从多种维度管理项目。可从以下 4 点了解多维表格的功能特点：
 
 ### 规范化
 
@@ -121,7 +121,7 @@ keyword: Git
 
 你可在多维表格和多位协作者同时在线编辑，轻松解决异地、时差等远程协同难题。你也可以随时调整权限设置，保证信息安全。
 
-玩转多维表格，让数据动起来，创建属于你的多维效率工具，[飞书多维表格](https://nicelinks.site/redirect?url=https://bitable.feishu.cn/)，或可了解一下。
+玩转多维表格，让数据动起来，创建属于你的多维效率工具，[飞书多维表格](https://bitable.feishu.cn/)，或可了解一下。
 
 ── 出自[倾城之链 - 飞书多维表格-融合表格和业务系统能力的新一代效率应用](https://nicelinks.site/post/6199f84c60f6c5569db65f20)
 

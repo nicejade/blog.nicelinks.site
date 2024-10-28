@@ -10,7 +10,7 @@
 
 ![倾城之链 - Danswer - Open Source Workplace Search](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.danswer.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Danswer](https://nicelinks.site/redirect?url=https://www.danswer.ai/) ，开源、 [人工智能](https://nicelinks.site/tags/AI) 驱动的搜索引擎，涵盖公司的 [文档](https://nicelinks.site/tags/文档) 、应用程序和人员，帮您更快地找到您需要的信息；Danswer 允许您以自然语言提问并根据您团队的特定文档获取答案。如果 ChatGPT 能够访问您团队的独特知识，请考虑一下；Danswer 支持连接到所有常见的工作场所工具，例如 Slack、Google Drive、Confluence 等。
+**推荐语**：[Danswer](https://www.danswer.ai/) ，开源、 [人工智能](https://nicelinks.site/tags/AI) 驱动的搜索引擎，涵盖公司的 [文档](https://nicelinks.site/tags/文档) 、应用程序和人员，帮您更快地找到您需要的信息；Danswer 允许您以自然语言提问并根据您团队的特定文档获取答案。如果 ChatGPT 能够访问您团队的独特知识，请考虑一下；Danswer 支持连接到所有常见的工作场所工具，例如 Slack、Google Drive、Confluence 等。
 
 ### ✨ Danswer 功能价值
 
@@ -40,7 +40,7 @@
 - 将 Danswer 与您选择的法学硕士连接起来，以获得完全气隙的解决方案。
 - 轻松部署并能够在您选择的任何地方托管 Danswer。
 
-总之，[Danswer](https://nicelinks.site/redirect?url=https://www.danswer.ai/) 是跨所有工作场所工具的开源统一搜索；即将推出：组织理解和主题专家推荐、个性化搜索、代码搜索、结构化查询语言，如 SQL、Excel 公式等；值得一提的是，Danswer 可以轻松地在本地运行（甚至在笔记本电脑上）或使用单个  `docker compose` 命令部署在虚拟机上。如果您对其感兴趣，可移步至 [Danswer 在 Github 上的开源仓库](https://github.com/danswer-ai/danswer) ，从而了解更多。
+总之，[Danswer](https://www.danswer.ai/) 是跨所有工作场所工具的开源统一搜索；即将推出：组织理解和主题专家推荐、个性化搜索、代码搜索、结构化查询语言，如 SQL、Excel 公式等；值得一提的是，Danswer 可以轻松地在本地运行（甚至在笔记本电脑上）或使用单个  `docker compose` 命令部署在虚拟机上。如果您对其感兴趣，可移步至 [Danswer 在 Github 上的开源仓库](https://github.com/danswer-ai/danswer) ，从而了解更多。
 
 ── 出自[倾城之链 - Danswer - Open Source Workplace Search](https://nicelinks.site/post/65c4a7018950812ce693602e)
 
@@ -52,7 +52,7 @@
 
 ![倾城之链 - Upscayl - AI Image Upscaler](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.upscayl.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Upscayl](https://nicelinks.site/redirect?url=https://www.upscayl.org/) 是一个基于 [人工智能](https://nicelinks.site/tags/AI) 的图像放大（Upscaler）工具，它使用深度学习技术来提高图像的分辨率，同时保持或甚至提升图像的质量。这个项目的目标是通过先进的算法，使得图像在放大过程中细节得到保留，减少模糊和像素化。
+**推荐语**：[Upscayl](https://www.upscayl.org/) 是一个基于 [人工智能](https://nicelinks.site/tags/AI) 的图像放大（Upscaler）工具，它使用深度学习技术来提高图像的分辨率，同时保持或甚至提升图像的质量。这个项目的目标是通过先进的算法，使得图像在放大过程中细节得到保留，减少模糊和像素化。
 
 ### **功能特征**
 
@@ -86,7 +86,7 @@
 
 ![倾城之链 - MightyMeld for Tailwind CSS and React](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tailwindstudio.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MightyMeld Tailwind Studio](https://nicelinks.site/redirect?url=https://www.tailwindstudio.io/) ：一款超越典型 [Tailwind](https://nicelinks.site/tags/Tailwind) 编辑器的产品。研发团队为希望构建更多、更快、同时仍拥有完全控制权的前端开发人员构建了 Tailwind Studio。 Tailwind Studio 使用生成式 AI 和尖端的 MightyMeld 技术，深入研究您的代码。它基本上是编码。但它感觉就像一个应用程序构建器。如果您正在摸不着头脑并想知道这怎么可能，那么您并不孤单。 MightyMeld 是一项全新的技术，旨在改变全球前端开发者的游戏规则 🤯 💪。
+**推荐语**：[MightyMeld Tailwind Studio](https://www.tailwindstudio.io/) ：一款超越典型 [Tailwind](https://nicelinks.site/tags/Tailwind) 编辑器的产品。研发团队为希望构建更多、更快、同时仍拥有完全控制权的前端开发人员构建了 Tailwind Studio。 Tailwind Studio 使用生成式 AI 和尖端的 MightyMeld 技术，深入研究您的代码。它基本上是编码。但它感觉就像一个应用程序构建器。如果您正在摸不着头脑并想知道这怎么可能，那么您并不孤单。 MightyMeld 是一项全新的技术，旨在改变全球前端开发者的游戏规则 🤯 💪。
 
 MightyMeld Tailwind Studio 它的工作原理如下：
 
@@ -108,7 +108,7 @@ MightyMeld Tailwind Studio 它的工作原理如下：
 
 ![倾城之链 - stdlib - A standard library for JavaScript and Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/stdlib.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[stdlib](https://nicelinks.site/redirect?url=https://stdlib.io/) 是一个 [开源](https://nicelinks.site/tags/开源) 的 JavaScript 标准库项目，旨在提供一组通用的功能和工具，以帮助 [JavaScript](https://nicelinks.site/tags/JavaScript) 开发者更轻松地执行常见任务和操作。stdlib 通过提供丰富的函数和模块，为开发人员解决了许多日常编程任务，包括数据处理、数学计算、字符串操作、时间处理等。
+**推荐语**：[stdlib](https://stdlib.io/) 是一个 [开源](https://nicelinks.site/tags/开源) 的 JavaScript 标准库项目，旨在提供一组通用的功能和工具，以帮助 [JavaScript](https://nicelinks.site/tags/JavaScript) 开发者更轻松地执行常见任务和操作。stdlib 通过提供丰富的函数和模块，为开发人员解决了许多日常编程任务，包括数据处理、数学计算、字符串操作、时间处理等。
 
 ### 功能特征
 
@@ -139,7 +139,7 @@ stdlib 的独特之处在于其完全可分解的架构，允许您更换、混�
 
 ![倾城之链 - Goodreads | Meet your next favorite book](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.goodreads.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Goodreads](https://nicelinks.site/redirect?url=https://www.goodreads.com/) 是一个面向读者的 [社交](https://nicelinks.site/tags/社交) 网络平台，用户可以在上面发现、跟踪和评论自己喜欢的书籍。这个平台允许用户创建自己的个人阅读清单，记录已经阅读过的书籍，并且通过标注和评论与其他读者交流。Goodreads 也提供了一系列的推荐系统，帮助用户发现新书籍并建立书籍推荐网络。
+**推荐语**：[Goodreads](https://www.goodreads.com/) 是一个面向读者的 [社交](https://nicelinks.site/tags/社交) 网络平台，用户可以在上面发现、跟踪和评论自己喜欢的书籍。这个平台允许用户创建自己的个人阅读清单，记录已经阅读过的书籍，并且通过标注和评论与其他读者交流。Goodreads 也提供了一系列的推荐系统，帮助用户发现新书籍并建立书籍推荐网络。
 
 **Goodreads 带来的价值主要有**：
 
@@ -159,7 +159,7 @@ stdlib 的独特之处在于其完全可分解的架构，允许您更换、混�
 
 ![倾城之链 - Earthly - Make Builds Super Simple](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/earthly.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Earthly](https://nicelinks.site/redirect?url=https://earthly.dev/) 是一个多功能、平易近人的 [CI/CD](https://nicelinks.site/tags/CICD) 框架，它在容器内运行每个管道，为您提供一次编写、随处运行的可重复构建。它具有超级简单、可立即识别的语法，易于编写和理解——就像 Dockerfile 和 Makefile 一样。它利用和增强了流行的构建工具，而不是取代它们，因此无论您使用什么语言，您都不必重写所有构建。
+**推荐语**：[Earthly](https://earthly.dev/) 是一个多功能、平易近人的 [CI/CD](https://nicelinks.site/tags/CICD) 框架，它在容器内运行每个管道，为您提供一次编写、随处运行的可重复构建。它具有超级简单、可立即识别的语法，易于编写和理解——就像 Dockerfile 和 Makefile 一样。它利用和增强了流行的构建工具，而不是取代它们，因此无论您使用什么语言，您都不必重写所有构建。
 
 ### 为什么要使用 Earthly?
 
@@ -204,7 +204,7 @@ Earthly 适合在您的开发机器和 CI 中使用。它运行在 CI/CD 平台�
 
 Earthly 研发团队使用基于目标的系统来帮助用户将复杂的构建分解为可重用的部分。除了明确声明的依赖关系之外，**目标之间不共享任何内容**。没有共享意味着没有意外的竞争条件。事实上，只要有可能，构建就会并行执行，无需用户处理任何锁定或意外的环境交互。
 
-总之， [Earthly](https://nicelinks.site/redirect?url=https://earthly.dev/) 是一款超级简单的构建框架，具有快速、可重复的构建和立即熟悉的语法：就像 Dockerfile 和 Makefile 一样。它超级简单、速度超快、兼容性强、可重用性高，**非常适合 Monorepos 和 Polyrepos**（组织您的构建逻辑），如果您对其感兴趣，可移步至 [Earthly 在 Github 的开源仓库](https://github.com/earthly/earthly) 从而了解更多。
+总之， [Earthly](https://earthly.dev/) 是一款超级简单的构建框架，具有快速、可重复的构建和立即熟悉的语法：就像 Dockerfile 和 Makefile 一样。它超级简单、速度超快、兼容性强、可重用性高，**非常适合 Monorepos 和 Polyrepos**（组织您的构建逻辑），如果您对其感兴趣，可移步至 [Earthly 在 Github 的开源仓库](https://github.com/earthly/earthly) 从而了解更多。
 
 ── 出自[倾城之链 - Earthly - Make Builds Super Simple](https://nicelinks.site/post/65c0931f8950812ce6934b7b)
 

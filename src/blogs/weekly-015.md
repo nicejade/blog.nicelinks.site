@@ -10,13 +10,13 @@
 
 ![倾城之链 - Fast and reliable end-to-end testing for modern web apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/playwright.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Playwright](https://nicelinks.site/redirect?url=https://playwright.dev/) 可为现代 Web 应用程序提供可靠的端到端测试。它是由微软公司出品的开源项目，使用一个命令在本地和 CI 环境上安装 [Playwright](https://nicelinks.site/redirect?url=https://playwright.dev/) 和浏览器。然后使用 API​ ​ 启动浏览器，创建页面并自动执行页面交互。通过自动等待可靠地实现自动化，可以完成拦截网络活动，运行网页仿真操作等等。[Playwright](https://nicelinks.site/redirect?url=https://playwright.dev/) 具有以下功能特性：
+**推荐语**：[Playwright](https://playwright.dev/) 可为现代 Web 应用程序提供可靠的端到端测试。它是由微软公司出品的开源项目，使用一个命令在本地和 CI 环境上安装 [Playwright](https://playwright.dev/) 和浏览器。然后使用 API​ ​ 启动浏览器，创建页面并自动执行页面交互。通过自动等待可靠地实现自动化，可以完成拦截网络活动，运行网页仿真操作等等。[Playwright](https://playwright.dev/) 具有以下功能特性：
 
 - **在所有现代浏览器中进行测试**：单个 API 可自动执行 Chromium，Firefox 和 WebKit；
 - **自动化而无需权衡**：对依赖于现代 Web 平台的单页应用程序的自动化能力；
 - **支持您以喜欢的语言来使用**： 可在 JavaScript ＆TypeScript，Python，C＃和 Java 中使用 Playwright API。
 
-[Playwright](https://nicelinks.site/redirect?url=https://playwright.dev/) 旨在实现跨浏览器的 Web 自动化，该自动化是绿色的，功能强大的，可靠的和快速的。如果您想了解 [Playwright](https://nicelinks.site/redirect?url=https://playwright.dev/) 在 Node.js 环境使用，可以参见 [Playwright Github 源码](https://nicelinks.site/redirect?url=https://github.com/microsoft/playwright)
+[Playwright](https://playwright.dev/) 旨在实现跨浏览器的 Web 自动化，该自动化是绿色的，功能强大的，可靠的和快速的。如果您想了解 [Playwright](https://playwright.dev/) 在 Node.js 环境使用，可以参见 [Playwright Github 源码](https://github.com/microsoft/playwright)
 
 ── 出自[倾城之链 - Fast and reliable end-to-end testing for modern web apps](https://nicelinks.site/post/60afa17d219b1d7d88219d61)
 
@@ -30,7 +30,7 @@
 
 ![倾城之链 - 未央网 - 专注金融科技与创新](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.weiyangx.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[未央网](https://nicelinks.site/redirect?url=https://www.weiyangx.com/)是提供金融科技与金融创新的相关媒体网站；您可以在该网站，了解到互联网与金融相关行业见解、资讯等，如传统金融、消费金融、移动支付、P2P、大数据、区块链、共享经济等等。另外，[未央网](https://nicelinks.site/redirect?url=https://www.weiyangx.com/)有提供以下相关内容：
+**推荐语**：[未央网](https://www.weiyangx.com/)是提供金融科技与金融创新的相关媒体网站；您可以在该网站，了解到互联网与金融相关行业见解、资讯等，如传统金融、消费金融、移动支付、P2P、大数据、区块链、共享经济等等。另外，[未央网](https://www.weiyangx.com/)有提供以下相关内容：
 
 ### **国际资讯**
 
@@ -61,7 +61,7 @@
 
 ![倾城之链 - 安逸影视导航 - 做全网最全电影剧集综艺动漫视频导航](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/anee.cc.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[安逸影视导航](https://nicelinks.site/redirect?url=https://anee.cc/) 是专注于**收集电影，电视剧，综艺，动漫等在线观看和资源下载的影视导航网站**，于 2021 年 4 月正式上线；已收录多家高清在线、或蓝光片源下载网站，这对于爱追剧的朋友，非常值得收藏。值得一提的是这是非营利性网站，全站无商业广告且无盈利。
+**推荐语**：[安逸影视导航](https://anee.cc/) 是专注于**收集电影，电视剧，综艺，动漫等在线观看和资源下载的影视导航网站**，于 2021 年 4 月正式上线；已收录多家高清在线、或蓝光片源下载网站，这对于爱追剧的朋友，非常值得收藏。值得一提的是这是非营利性网站，全站无商业广告且无盈利。
 
 ── 出自[倾城之链 - 安逸影视导航 - 做全网最全电影剧集综艺动漫视频导航](https://nicelinks.site/post/60ae37b5219b1d7d88219d5c)
 
@@ -73,9 +73,9 @@
 
 ![倾城之链 - Brit + Co | Be inspired, get smarter, and feel better every week!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.brit.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Brit+Co](https://nicelinks.site/redirect?url=https://www.brit.co/) 是一个旨在为日常生活提供更多创意为目标的初创公司，用精彩的图文配合，向用户介绍各种可自己 `DIY`（do it yourself，即自己动手，创造东西）. 的创意生活小攻略。该公司主要通过在线商店贩卖 `DIY` 材料来盈利，还提供在线课程，和一个新的创业加速器来教育和激励妇女。
+**推荐语**：[Brit+Co](https://www.brit.co/) 是一个旨在为日常生活提供更多创意为目标的初创公司，用精彩的图文配合，向用户介绍各种可自己 `DIY`（do it yourself，即自己动手，创造东西）. 的创意生活小攻略。该公司主要通过在线商店贩卖 `DIY` 材料来盈利，还提供在线课程，和一个新的创业加速器来教育和激励妇女。
 
-[Brit+Co](https://nicelinks.site/redirect?url=https://www.brit.co/) 是一家媒体公司，由 Brit Morin 于 2011 年底创立，现已成为最大的女性数字媒体公司之一；它以创意精神激励，教育（从书法到美甲再到编码）和娱乐真正的女性；使得她们生活的各个方面，使用创造力和 "自己动手 "的态度：掌管她的事业，建立强大的友谊和关系，策划她自己的风格，装饰她的家，并招待人群。
+[Brit+Co](https://www.brit.co/) 是一家媒体公司，由 Brit Morin 于 2011 年底创立，现已成为最大的女性数字媒体公司之一；它以创意精神激励，教育（从书法到美甲再到编码）和娱乐真正的女性；使得她们生活的各个方面，使用创造力和 "自己动手 "的态度：掌管她的事业，建立强大的友谊和关系，策划她自己的风格，装饰她的家，并招待人群。
 
 ── 出自[倾城之链 - Brit + Co | Be inspired, get smarter, and feel better every week!](https://nicelinks.site/post/60ae2d71219b1d7d88219d5a)
 
@@ -87,15 +87,15 @@
 
 ![倾城之链 - daily.dev | All-in-one developer news reader](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/daily.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[daily.dev](https://nicelinks.site/redirect?url=https://daily.dev/) 是一款多合一的开发人员新闻阅读器，可以帮助您随时了解自己喜欢的**技术新闻**。他们通过一个新的 [Web 应用程序](https://nicelinks.site/redirect?url=https://app.daily.dev/)扩展了我们的产品套件！它具有移动友好性，完全响应性，并且可以作为 PWA 安装。无需注册。除此之外，[daily.dev](https://nicelinks.site/redirect?url=https://daily.dev/) 还具有以下功能特性：
+**推荐语**：[daily.dev](https://daily.dev/) 是一款多合一的开发人员新闻阅读器，可以帮助您随时了解自己喜欢的**技术新闻**。他们通过一个新的 [Web 应用程序](https://app.daily.dev/)扩展了我们的产品套件！它具有移动友好性，完全响应性，并且可以作为 PWA 安装。无需注册。除此之外，[daily.dev](https://daily.dev/) 还具有以下功能特性：
 
 - **永不错过新趋势**：发行后立即发现全新内容。唱歌可以轻松地使您脱颖而出，成为始终了解最新流行语的开发人员。
 - **像专业人士一样节省时间**：在 2021 年，搜索内容并不是开发人员应该做的事情。daily.dev 推荐量身定制的 dev 新闻，这样您就可以随时阅读一些有趣的内容；
-- **成为社区的一部分**：[daily.dev](https://nicelinks.site/redirect?url=https://daily.dev/) 是一个由开发人员组成的社区，他们聚集在一起发现和探索开发新闻。加入寻求增强全球开发人员成长的追求。
-- **自订您的个人供稿**：[daily.dev](https://nicelinks.site/redirect?url=https://daily.dev/) 是任何开发人员的天堂！想查看有关 Web 开发的新闻吗？没问题。机器学习？你说对了。轻松选择您想要的主题，我们将从那里开始。您还可以调整外观，以提高生产率。
+- **成为社区的一部分**：[daily.dev](https://daily.dev/) 是一个由开发人员组成的社区，他们聚集在一起发现和探索开发新闻。加入寻求增强全球开发人员成长的追求。
+- **自订您的个人供稿**：[daily.dev](https://daily.dev/) 是任何开发人员的天堂！想查看有关 Web 开发的新闻吗？没问题。机器学习？你说对了。轻松选择您想要的主题，我们将从那里开始。您还可以调整外观，以提高生产率。
 - **管理你的喜欢的内容**：保存有趣的文章，以供日后阅读和解决信息过载。daily.dev 可帮助您无缝管理内容。将您喜欢的作品加入书签，并随时在浏览器和移动设备上对其进行跟进。
 
-[daily.dev](https://nicelinks.site/redirect?url=https://daily.dev/) 从您可以想到的任何主题的最佳技术博客中，获取最热门的编码新闻。每天保持更新，并释放更多时间来做有趣的事情，放松身心或只是编写代码。如果您想立刻体验，可直接访问 [daily.dev ｜ 开发人员新闻阅读器](https://nicelinks.site/redirect?url=https://app.daily.dev/)。
+[daily.dev](https://daily.dev/) 从您可以想到的任何主题的最佳技术博客中，获取最热门的编码新闻。每天保持更新，并释放更多时间来做有趣的事情，放松身心或只是编写代码。如果您想立刻体验，可直接访问 [daily.dev ｜ 开发人员新闻阅读器](https://app.daily.dev/)。
 
 ── 出自[倾城之链 - daily.dev | All-in-one developer news reader](https://nicelinks.site/post/60acf42d219b1d7d88219d58)
 
@@ -107,7 +107,7 @@
 
 ![倾城之链 - DaisyUI - Tailwind CSS Components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/daisyui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DaisyUI](https://nicelinks.site/redirect?url=https://www.personalwebsites.top/) 是 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 的一个插件；它是一个漂亮的 CSS 组件库，带有组件类的干净的 HTML，支持高度可自定义和主题化；只有 2KB 大小，无 JavaScript，无依赖；免费可用。如果您想了解更多，可参见 [DaisyUI Components](https://daisyui.com/components/button)。
+**推荐语**：[DaisyUI](https://www.personalwebsites.top/) 是 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 的一个插件；它是一个漂亮的 CSS 组件库，带有组件类的干净的 HTML，支持高度可自定义和主题化；只有 2KB 大小，无 JavaScript，无依赖；免费可用。如果您想了解更多，可参见 [DaisyUI Components](https://daisyui.com/components/button)。
 
 ── 出自[倾城之链 - DaisyUI - Tailwind CSS Components](https://nicelinks.site/post/60aceac3219b1d7d88219d55)
 
@@ -121,7 +121,7 @@
 
 ![倾城之链 - Authing-身份云-云原生-IDaaS-单点登录-SSO-统一身份认证-多因素认证-零信任-以开发者为中心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.authing.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Authing](https://nicelinks.site/redirect?url=https://www.authing.cn/)：快速实现任何 Web、App 和企业软件的身份认证和用户管理，为你的顾客和员工提供完善的登录解决方案。根据官网描述，[Authing](https://nicelinks.site/redirect?url=https://www.authing.cn/) 只做两件事：用户身份管理、员工身份管理；
+**推荐语**：[Authing](https://www.authing.cn/)：快速实现任何 Web、App 和企业软件的身份认证和用户管理，为你的顾客和员工提供完善的登录解决方案。根据官网描述，[Authing](https://www.authing.cn/) 只做两件事：用户身份管理、员工身份管理；
 
 - **用户身份管理**：五行代码为你的客户打造安全无缝的认证体验。
 
@@ -140,11 +140,11 @@
   - 权限管理
   - 成员号码闪验
 
-[Authing](https://nicelinks.site/redirect?url=https://www.authing.cn/) 是国内首款以开发者为中心的全场景身份云产品，集成了所有主流身份认证协议，为企业和开发者提供完善安全的用户认证和访问管理服务。其主要功能包括：单点登录、用户分析、扫码登录、多因素认证、行为审计、风险控制、跨平台设备管理、IoT 身份认证等；兼容国际各类标准协议：OAuth2.0、OIDC、SAML、AD/LDAP、WS-Fed、JWT 等；此外还有基于函数计算可以无限制拓展 Authing 能力的 Pipeline 。支持云交付和私有化部署方式，帮助企业和开发者提升生产效率。如果您想了解更多，可参见 [Authing 产品优势](https://nicelinks.site/redirect?url=https://www.authing.cn/advantage)。
+[Authing](https://www.authing.cn/) 是国内首款以开发者为中心的全场景身份云产品，集成了所有主流身份认证协议，为企业和开发者提供完善安全的用户认证和访问管理服务。其主要功能包括：单点登录、用户分析、扫码登录、多因素认证、行为审计、风险控制、跨平台设备管理、IoT 身份认证等；兼容国际各类标准协议：OAuth2.0、OIDC、SAML、AD/LDAP、WS-Fed、JWT 等；此外还有基于函数计算可以无限制拓展 Authing 能力的 Pipeline 。支持云交付和私有化部署方式，帮助企业和开发者提升生产效率。如果您想了解更多，可参见 [Authing 产品优势](https://www.authing.cn/advantage)。
 
 ── 出自[倾城之链 - Authing-身份云-云原生-IDaaS-单点登录-SSO-统一身份认证-多因素认证-零信任-以开发者为中心](https://nicelinks.site/post/60acc2f4219b1d7d88219d53)
 
-## [Agora Flat：一个开源的在线互动教室](https://nicelinks.site/redirect?url=https://flat.whiteboard.agora.io/)
+## [Agora Flat：一个开源的在线互动教室](https://flat.whiteboard.agora.io/)
 
 **标签**：
 [`产品`](https://nicelinks.site/theme/product) · [`开源`](https://nicelinks.site/tags/%E5%BC%80%E6%BA%90)[`在线教育`](https://nicelinks.site/tags/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2)[`互动白板`](https://nicelinks.site/tags/%E4%BA%92%E5%8A%A8%E7%99%BD%E6%9D%BF)
@@ -155,13 +155,13 @@
 
 ![Agora Flat：一个开源的在线互动教室 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/flat.whiteboard.agora.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Agora Flat 开源教室](https://nicelinks.site/redirect?url=https://flat.whiteboard.agora.io/)，是一个前后端完全开源、可用来快速搭建简约美观的互动教室的项目；它诞生于该团队调研客户需求与用户体验过程中的一个探索项目。其目标是，借助 Flat 的**实时互动**让知识的传递变得更高效、丰富，随时随地，充满趣味性。目前提供有 Windows 与 macOS 客户端；Web、Android、iOS 等版本正在开发中。该项目具有以下特性：
+**推荐语**：[Agora Flat 开源教室](https://flat.whiteboard.agora.io/)，是一个前后端完全开源、可用来快速搭建简约美观的互动教室的项目；它诞生于该团队调研客户需求与用户体验过程中的一个探索项目。其目标是，借助 Flat 的**实时互动**让知识的传递变得更高效、丰富，随时随地，充满趣味性。目前提供有 Windows 与 macOS 客户端；Web、Android、iOS 等版本正在开发中。该项目具有以下特性：
 
 - **轻松创建丰富多样的在线教室**：多场景灵活切换，实现高质量教学；
 - **场景插件**：支持将多种功能封装成白板插件，满足多样需求；
 - **免费使用**：开始使用，每个月都将有 10000 分钟免费使用时长；
 
-如果想了解更多[Agora Flat 开源教室](https://nicelinks.site/redirect?url=https://flat.whiteboard.agora.io/)产品特性，可以参见 [Agora Flat 特性说明](https://github.com/netless-io/flat/blob/main/README-zh.md#%E7%89%B9%E6%80%A7)。── 出自[倾城之链 | Agora Flat：一个开源的在线互动教室](https://nicelinks.site/post/60a677e7536c1a217d53b945)。
+如果想了解更多[Agora Flat 开源教室](https://flat.whiteboard.agora.io/)产品特性，可以参见 [Agora Flat 特性说明](https://github.com/netless-io/flat/blob/main/README-zh.md#%E7%89%B9%E6%80%A7)。── 出自[倾城之链 | Agora Flat：一个开源的在线互动教室](https://nicelinks.site/post/60a677e7536c1a217d53b945)。
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 

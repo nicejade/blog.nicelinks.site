@@ -12,7 +12,7 @@
 
 ![倾城之链 - Swift.org - Welcome to Swift.org](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.swift.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Swift.org](https://nicelinks.site/redirect?url=https://www.swift.org/)，是一种通用的编程语言，使用现代的安全、性能和软件设计模式的方法构建。Swift 由 Apple 创建，专门用于开发原生 iOS 应用程序。它虽然于 2014 年发布，但已经在移动应用程序开发中获得了很大的吸引力。以前使用 Objective-C 进行应用程序开发的公司转而使用 Swift，以利用其灵活性、简洁性和简单性。
+**推荐语**：[Swift.org](https://www.swift.org/)，是一种通用的编程语言，使用现代的安全、性能和软件设计模式的方法构建。Swift 由 Apple 创建，专门用于开发原生 iOS 应用程序。它虽然于 2014 年发布，但已经在移动应用程序开发中获得了很大的吸引力。以前使用 Objective-C 进行应用程序开发的公司转而使用 Swift，以利用其灵活性、简洁性和简单性。
 
 创建 Swift 的主要目标是吸引更多开发人员参与 iOS 和 macOS 的开发。由于 Objective-C 相当复杂，Swift 更简单，使开发人员能够利用原生硬件特性并构建特性密集和高质量的应用程序。利用 Apple 软件的功能，公司可以使用相机、GPS、蓝牙等构建更先进的解决方案。
 
@@ -60,7 +60,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 ![倾城之链 - jsDelivr - A free, fast, and reliable CDN for open source](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.jsdelivr.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[JSDeliver](https://nicelinks.site/redirect?url=https://www.jsdelivr.com/) 是一个用于开源项目的免费公共 CDN，专注于性能、可靠性和安全性。每个人都可以免费使用，没有带宽限制。它可以直接从 npm 注册表和 GitHub 存储库提供 Web 文件，而无需任何配置。除此之外，JSDeliver 还具有以下特征：
+**推荐语**：[JSDeliver](https://www.jsdelivr.com/) 是一个用于开源项目的免费公共 CDN，专注于性能、可靠性和安全性。每个人都可以免费使用，没有带宽限制。它可以直接从 npm 注册表和 GitHub 存储库提供 Web 文件，而无需任何配置。除此之外，JSDeliver 还具有以下特征：
 
 ### 为生产而生
 
@@ -88,7 +88,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 - JSDeliver 和其他几位独立专家都彻底审查了我们的关键代码；
 - 采取保护措施，防止人们使用 jsDelivr 来提供恶意文件；
 
-如果您想了解 jsDelivr 是如何工作的，详情可参见：[How jsDelivr works](https://nicelinks.site/redirect?url=https://www.jsdelivr.com/network/infographic)。jsDelivr，对 Web 开发者尤其有用，相对于其他 CDN 服务，JSDeliver 快速而稳定，值得信赖。
+如果您想了解 jsDelivr 是如何工作的，详情可参见：[How jsDelivr works](https://www.jsdelivr.com/network/infographic)。jsDelivr，对 Web 开发者尤其有用，相对于其他 CDN 服务，JSDeliver 快速而稳定，值得信赖。
 
 ── 出自[倾城之链 - jsDelivr - A free, fast, and reliable CDN for open source](https://nicelinks.site/post/62321d8373e9e03b84d59879)
 
@@ -102,7 +102,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 ![倾城之链 - 最新电影-热播电视剧免费在线观看-视中心影院](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mhz8.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[视中心影院](https://nicelinks.site/redirect?url=https://www.mhz8.com/)，是为网友提供音影相关的娱乐网站，涵盖有电影、电视剧、综艺、动漫等内容，此外还提供有影视资讯。值得一提的是，该网站所涉及的内容，时值当下，不仅提供了详细介绍，而且在线可播放（除去优酷视频外，还有诸多其他节点）；更值得称赞的是，视频质量不错，且没有广告。初次体验，网站稳定性、访问速度这块儿，似乎有待提升。
+**推荐语**：[视中心影院](https://www.mhz8.com/)，是为网友提供音影相关的娱乐网站，涵盖有电影、电视剧、综艺、动漫等内容，此外还提供有影视资讯。值得一提的是，该网站所涉及的内容，时值当下，不仅提供了详细介绍，而且在线可播放（除去优酷视频外，还有诸多其他节点）；更值得称赞的是，视频质量不错，且没有广告。初次体验，网站稳定性、访问速度这块儿，似乎有待提升。
 
 ── 出自[倾城之链 - 最新电影-热播电视剧免费在线观看-视中心影院](https://nicelinks.site/post/6231ef5e0f09030dc18e0d9e)
 
@@ -114,7 +114,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 ![倾城之链 - [Forem] Community for Everyone](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.forem.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Forem](https://nicelinks.site/redirect?url=https://www.forem.com/)，是一个**开源**社区平台，用于培养现代、安全、独立的社区。您可以自定义和扩展 Forem 以满足您的确切需求，通过可调整的品牌、自定义页面、社区徽章等设计您的最佳用户体验；Forem 具有以下功能特色：
+**推荐语**：[Forem](https://www.forem.com/)，是一个**开源**社区平台，用于培养现代、安全、独立的社区。您可以自定义和扩展 Forem 以满足您的确切需求，通过可调整的品牌、自定义页面、社区徽章等设计您的最佳用户体验；Forem 具有以下功能特色：
 
 ### 连接
 
@@ -140,7 +140,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 该平台使您可以通过自定义页面做任何事情，从独特的静态内容到运行有数千名参与者的实时会议。
 
-[Forem](https://nicelinks.site/redirect?url=https://www.forem.com/) 为蓬勃发展的社区提供支持，例如 [DEV](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41)（一个软件开发人员社区，他们撰写文章、参与讨论并建立他们的专业档案）；基于 forem，为您的同龄人、客户、粉丝群、家人、朋友以及其他任何时间和空间建立的社区，在这些时间和空间里，人们需要聚集在一起成为集体的一部分。
+[Forem](https://www.forem.com/) 为蓬勃发展的社区提供支持，例如 [DEV](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41)（一个软件开发人员社区，他们撰写文章、参与讨论并建立他们的专业档案）；基于 forem，为您的同龄人、客户、粉丝群、家人、朋友以及其他任何时间和空间建立的社区，在这些时间和空间里，人们需要聚集在一起成为集体的一部分。
 
 ── 出自[倾城之链 - [Forem] Community for Everyone](https://nicelinks.site/post/622f3d866b1cb73bee890063)
 
@@ -154,7 +154,7 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 ![倾城之链 - 完美网址导航 - 好看实用的上网主页](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.9eip.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[完美导航](https://nicelinks.site/redirect?url=https://www.9eip.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 等搭建的网站；该站原名：9e 导航，上线于 2021 年 1 月，旨在为广大朋友搜寻收集全网最新、实用、有趣的网站平台，以及软件/工具。它有着简洁清爽的风格界面，也非常适合用做于浏览器主页；当然，该导航也支持「网址提交」。除了网站导航外，[完美导航](https://nicelinks.site/redirect?url=https://www.9eip.com/)还提供了些其他版本内容，如：实时·疫情数据、小游戏、壁纸等。
+**推荐语**：[完美导航](https://www.9eip.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 等搭建的网站；该站原名：9e 导航，上线于 2021 年 1 月，旨在为广大朋友搜寻收集全网最新、实用、有趣的网站平台，以及软件/工具。它有着简洁清爽的风格界面，也非常适合用做于浏览器主页；当然，该导航也支持「网址提交」。除了网站导航外，[完美导航](https://www.9eip.com/)还提供了些其他版本内容，如：实时·疫情数据、小游戏、壁纸等。
 
 ── 出自[倾城之链 - 完美网址导航 - 好看实用的上网主页](https://nicelinks.site/post/622c8846a2eb9379e4c960ab)
 

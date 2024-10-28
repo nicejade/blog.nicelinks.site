@@ -12,20 +12,20 @@
 
 ![倾城之链 - Image Extractor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/extract.pics.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Extract.pics](https://nicelinks.site/redirect?url=https://extract.pics/) 是一个易于使用的工具，允许您从任何公共网站提取、查看和下载图像。只需将网站的 URL 粘贴到输入字段中，然后单击“提取”即可开始该过程。完全免费使用！
+**推荐语**：[Extract.pics](https://extract.pics/) 是一个易于使用的工具，允许您从任何公共网站提取、查看和下载图像。只需将网站的 URL 粘贴到输入字段中，然后单击“提取”即可开始该过程。完全免费使用！
 
 提取过程将需要几秒钟，以确保它找到尽可能多的图像。完成后，您将在有组织的网格中看到所有图像。您现在可以通过按大小、宽度、高度或找到它们的顺序对找到的图像进行**排序**来探索找到的图像。此外，您可以按名称、大小或类型/文件格式**搜索**图像。这使得准确地找到您需要的图像变得非常容易。
 
 您现在可以使用**缩放工具在**浅色或深色背景下**检查**图像、**下载**单个图像并**复制**图像**的 URL**。如果您想一次**下载多个**图像，您可以选择所有需要的图像，然后将它们全部下载到**ZIP 存档中**。
 
-同类型的网站，还有 [Image Cyborg](https://nicelinks.site/redirect?url=https://imagecyborg.com/)
-、[ImgDownloader - Bulk Download Image from Website and URL](https://nicelinks.site/redirect?url=https://imgdownloader.com/)，有初步做了比较：
+同类型的网站，还有 [Image Cyborg](https://imagecyborg.com/)
+、[ImgDownloader - Bulk Download Image from Website and URL](https://imgdownloader.com/)，有初步做了比较：
 
-- [Image Cyborg](https://nicelinks.site/redirect?url=https://imagecyborg.com/) 批量下载网页上的所有图像。只需粘贴 URL 或链接即可获取图像。（评价：下载的图片，很全面；但，您需要创建一个免费帐户或登录才能使用此应用程序，这一点不是很方便）；
-- [ImgDownloader - Bulk Download Image from Website and URL](https://nicelinks.site/redirect?url=https://imgdownloader.com/) 强大的图像下载工具，可让您**从任何网站下载所有图像，谷歌图像**。**从 Pinterest 和 Instagram 下载所有图片和视频**！只需复制并粘贴 URL，即可立即获取所有图像、图片或视频，mp4。（评价：下载的图片，很全面；而且可以处理来自网站以外的图片）；
-- [Extract.pics](https://nicelinks.site/redirect?url=https://extract.pics/) 是一个易于使用的工具，允许您从任何公共网站提取、查看和下载图像。只需将网站的 URL 粘贴到输入字段中，然后单击“提取”即可开始该过程。（评价：下载的图片，似乎不够全面；但提供了更加强大的能力，使得您可以更快找到您需要的图像）；
+- [Image Cyborg](https://imagecyborg.com/) 批量下载网页上的所有图像。只需粘贴 URL 或链接即可获取图像。（评价：下载的图片，很全面；但，您需要创建一个免费帐户或登录才能使用此应用程序，这一点不是很方便）；
+- [ImgDownloader - Bulk Download Image from Website and URL](https://imgdownloader.com/) 强大的图像下载工具，可让您**从任何网站下载所有图像，谷歌图像**。**从 Pinterest 和 Instagram 下载所有图片和视频**！只需复制并粘贴 URL，即可立即获取所有图像、图片或视频，mp4。（评价：下载的图片，很全面；而且可以处理来自网站以外的图片）；
+- [Extract.pics](https://extract.pics/) 是一个易于使用的工具，允许您从任何公共网站提取、查看和下载图像。只需将网站的 URL 粘贴到输入字段中，然后单击“提取”即可开始该过程。（评价：下载的图片，似乎不够全面；但提供了更加强大的能力，使得您可以更快找到您需要的图像）；
 
-如果您从公共网站提取、查看和下载图像的诉求，您可按需使用相关工具；目前而言（2021 年 12 月），更推荐使用 [ImgDownloader](https://nicelinks.site/redirect?url=https://imgdownloader.com/)。
+如果您从公共网站提取、查看和下载图像的诉求，您可按需使用相关工具；目前而言（2021 年 12 月），更推荐使用 [ImgDownloader](https://imgdownloader.com/)。
 
 ── 出自[倾城之链 - Image Extractor](https://nicelinks.site/post/61b2002a48f785032a2400b0)
 
@@ -37,7 +37,7 @@
 
 ![倾城之链 - The collaborative browser based IDE](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/replit.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Replit](https://nicelinks.site/redirect?url=https://replit.com/) 是一个简单而强大的在线 IDE、编辑器、编译器、解释器和 REPL。使用 50 多种编程语言进行编码、编译、运行和托管。它具有以下功能特征：
+**推荐语**：[Replit](https://replit.com/) 是一个简单而强大的在线 IDE、编辑器、编译器、解释器和 REPL。使用 50 多种编程语言进行编码、编译、运行和托管。它具有以下功能特征：
 
 - **浏览器内 IDE**：在任何平台、操作系统和设备上使用您喜欢的语言开始编码。
 - **实时协作**：使用诸如编辑之类的 Google 文档邀请您的朋友、队友和同事直接进入您的代码。
@@ -48,7 +48,7 @@
 - **团队计划**：通过交互式文档、实时协作和零麻烦的远程面试提高您的团队的工作效率。
 - **API 和插件**：以编程方式创建应用程序、启动机器人并使用插件自定义 IDE 以满足您的需求。
 
-因为 [Replit](https://nicelinks.site/redirect?url=https://replit.com/) 直接在浏览器中编码，且支持多人协作（享受类似于 Google 文档的编辑体验，您可以在其中看到协作者的光标），因为用它来做代码相关交流、学习，看起来挺有价值。在其官方网站写道：“是为了让编程更容易上手。我们为教育者、学习者和开发者构建强大而简单的工具和平台“。
+因为 [Replit](https://replit.com/) 直接在浏览器中编码，且支持多人协作（享受类似于 Google 文档的编辑体验，您可以在其中看到协作者的光标），因为用它来做代码相关交流、学习，看起来挺有价值。在其官方网站写道：“是为了让编程更容易上手。我们为教育者、学习者和开发者构建强大而简单的工具和平台“。
 
 ── 出自[倾城之链 - The collaborative browser based IDE](https://nicelinks.site/post/61b1f5ff48f785032a2400ae)
 
@@ -60,19 +60,19 @@
 
 ![倾城之链 - 腾讯兔小巢-免费便捷的用户意见反馈服务平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/txc.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[兔小巢](https://nicelinks.site/redirect?url=https://txc.qq.com/)是腾讯推出的一款轻量、`免费`的用户意见反馈服务平台。几行代码 拥有和腾讯网一样的互动社区，让反馈变得便捷，轻巧；对运营人员（不再疲于运营）、程序员（不必自建反馈）、产品经理（微信推送回复）都能产生作用：
+**推荐语**：[兔小巢](https://txc.qq.com/)是腾讯推出的一款轻量、`免费`的用户意见反馈服务平台。几行代码 拥有和腾讯网一样的互动社区，让反馈变得便捷，轻巧；对运营人员（不再疲于运营）、程序员（不必自建反馈）、产品经理（微信推送回复）都能产生作用：
 
 - 运营人员：无需登录后台即可简单管理，你与客户的沟通平台永远简洁有序；
 - 程序员：几行代码将兔小巢放入在任何地方，包括公众号、APP、H5、网站等；
 - 产品经理：用户通过微信收到你的回复，你与用户沟通更加高效；
 
-[兔小巢](https://nicelinks.site/redirect?url=https://txc.qq.com/)可轻松定制属于自己的反馈平台，一站式满足管理、技术、客服、运营等多角色使用需求，同时享用安全稳定、高性能、高延展的底层设施。看似复杂的系统，从此触手可及。您可以从以下几个功能特征，更加全面了解[兔小巢](https://nicelinks.site/redirect?url=https://txc.qq.com/)：
+[兔小巢](https://txc.qq.com/)可轻松定制属于自己的反馈平台，一站式满足管理、技术、客服、运营等多角色使用需求，同时享用安全稳定、高性能、高延展的底层设施。看似复杂的系统，从此触手可及。您可以从以下几个功能特征，更加全面了解[兔小巢](https://txc.qq.com/)：
 
 - **数据一键导出**：方便导出所有数据，方便数据的其他使用；
 - **不介入数据**：只负责技术支撑，不介入任何产品数据；
 - **稳定可靠**：腾讯门神等多个安全系统为反馈数据保驾护航；
 
-其他如[语雀](https://nicelinks.site/post/5b40437e615bf842b6091043)也具有类似的功能，虽然功能后续更强大，只可惜不是所有用户都具有其账号；先前做的几款 Web（如[曼妙句子](https://nicelinks.site/redirect?url=https://support.qq.com/products/368784)） 也是采用[兔小巢](https://nicelinks.site/redirect?url=https://txc.qq.com/)作为反馈平台，省却很多麻烦；与用户沟通，相对要高效很多。对此感兴趣的朋友，可以查看[兔小巢接入文档](https://nicelinks.site/redirect?url=https://txc.qq.com/helper/fiveFaq)，从而了解更多。
+其他如[语雀](https://nicelinks.site/post/5b40437e615bf842b6091043)也具有类似的功能，虽然功能后续更强大，只可惜不是所有用户都具有其账号；先前做的几款 Web（如[曼妙句子](https://support.qq.com/products/368784)） 也是采用[兔小巢](https://txc.qq.com/)作为反馈平台，省却很多麻烦；与用户沟通，相对要高效很多。对此感兴趣的朋友，可以查看[兔小巢接入文档](https://txc.qq.com/helper/fiveFaq)，从而了解更多。
 
 ── 出自[倾城之链 - 腾讯兔小巢-免费便捷的用户意见反馈服务平台](https://nicelinks.site/post/61ae1bfd9b06756d7dc1a3fb)
 
@@ -86,7 +86,7 @@
 
 ![倾城之链 - Budibase | Create modern business apps in minutes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/budibase.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Budibase](https://nicelinks.site/redirect?url=https://budibase.com/)，是一个**开源**的低代码平台，是一种构建业务应用程序的更快方法，可以为团队赋能并提高生产力。[Budibase](https://nicelinks.site/redirect?url=https://budibase.com/) 汇集了构建业务应用程序所需的一切，并将最佳的开发人员体验与对速度、性能和用户体验的执着关注相结合。您可以从以下几个功能特征，来了解 [Budibase](https://nicelinks.site/redirect?url=https://budibase.com/) 的强大：
+**推荐语**：[Budibase](https://budibase.com/)，是一个**开源**的低代码平台，是一种构建业务应用程序的更快方法，可以为团队赋能并提高生产力。[Budibase](https://budibase.com/) 汇集了构建业务应用程序所需的一切，并将最佳的开发人员体验与对速度、性能和用户体验的执着关注相结合。您可以从以下几个功能特征，来了解 [Budibase](https://budibase.com/) 的强大：
 
 - **内部工具**：创建可简化操作并无缝融入您的工作流程的内部工具。
 - **形式**：使用 Budibase 一流的表单生成器公开、私下或同时收集数据。
@@ -96,9 +96,9 @@
 - **内部数据库**：Budibase 有一个内部数据库，可让您在几分钟内构建业务应用程序。
 - **公共和私人应用**：使用 Budibase，您可以轻松快速地构建公共和私有应用程序，或两者兼而有之。
 
-除上述提及的，[Budibase](https://nicelinks.site/redirect?url=https://budibase.com/) 在**数据**（连接到外部数据库、从 Rest API 提取数据、导入 CSV 或从头开始使用 Budibase 的内置数据库）、**设计**（设计适用于所有设备的精美商务应用）、**自动化**（只需单击几下即可自动执行手动流程）、部署（借助 Budibase 的开源平台，应用程序数据永远不必离开您的基础架构。通过 Kubernetes、Docker、Digital Ocean 进行部署。或者选择 Budibase Cloud，让 Budibase 为您管理一切。）等方面，也是做了出色的设定。
+除上述提及的，[Budibase](https://budibase.com/) 在**数据**（连接到外部数据库、从 Rest API 提取数据、导入 CSV 或从头开始使用 Budibase 的内置数据库）、**设计**（设计适用于所有设备的精美商务应用）、**自动化**（只需单击几下即可自动执行手动流程）、部署（借助 Budibase 的开源平台，应用程序数据永远不必离开您的基础架构。通过 Kubernetes、Docker、Digital Ocean 进行部署。或者选择 Budibase Cloud，让 Budibase 为您管理一切。）等方面，也是做了出色的设定。
 
-在 [Budibase](https://nicelinks.site/redirect?url=https://budibase.com/) 关于页面写到： Budibase 是一个专为提高速度和生产力而设计的开发平台。使用 Budibase，开发人员不再经历重复、长开发周期和挫折。相反，开发人员的工作效率更高、更快乐，并且可以在几分钟内交付他们引以为豪的应用程序。其使命是：打造全球领先的商业应用生态系统。
+在 [Budibase](https://budibase.com/) 关于页面写到： Budibase 是一个专为提高速度和生产力而设计的开发平台。使用 Budibase，开发人员不再经历重复、长开发周期和挫折。相反，开发人员的工作效率更高、更快乐，并且可以在几分钟内交付他们引以为豪的应用程序。其使命是：打造全球领先的商业应用生态系统。
 
 ── 出自[倾城之链 - Budibase | Create modern business apps in minutes](https://nicelinks.site/post/61ab30102afff60541cdbaa8)
 
@@ -110,7 +110,7 @@
 
 ![倾城之链 - Mark Text](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/marktext.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mark Text](https://nicelinks.site/redirect?url=https://marktext.app/)，一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性。适用于 Linux、macOS 和 Windows。Mark Text 是一个 MIT 许可的开源项目，最新版本将始终可以从 GitHub 发布页面免费下载。Mark Text 还在发展中，您可以从以下特征，来了解它的强大：
+**推荐语**：[Mark Text](https://marktext.app/)，一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性。适用于 Linux、macOS 和 Windows。Mark Text 是一个 MIT 许可的开源项目，最新版本将始终可以从 GitHub 发布页面免费下载。Mark Text 还在发展中，您可以从以下特征，来了解它的强大：
 
 - 实时预览 (WYSIWYG) 和干净简单的界面，以获得无干扰的写作体验。
 - 支持 CommonMark Spec、GitHub Flavored Markdown Spec 和选择性支持 Pandoc markdown。
@@ -127,7 +127,7 @@
 > - 如上所述，Mark Text 是完全免费和开源的，并将永远开源。我们希望所有 Markdown 爱好者都能贡献自己的代码，帮助将 Mark Text 开发成流行的 Markdown 编辑器。
 > - 有很多 Markdown 编辑器，它们都有自己的优点，有些具有其他人没有的功能。很难满足每个 Markdown 用户的需求，但我们希望 Mark Text 能够尽可能满足每个 markdown 用户。尽管最新的 Mark Text 仍然不完美，但我们会尽力做到最好。
 
-个人也喜欢写作，而且喜欢 [Markdown 编辑器](https://nicelinks.site/tags/Markdown)来书写 ✍️；已尝试过很多相关产品，但 [Mark Text](https://nicelinks.site/redirect?url=https://marktext.app/) 还是给我留下很深的印象，尤其是支持**直接从剪贴板粘贴图像**这一功能；对 Markdown 编辑器感兴趣的朋友，不妨尝试下。
+个人也喜欢写作，而且喜欢 [Markdown 编辑器](https://nicelinks.site/tags/Markdown)来书写 ✍️；已尝试过很多相关产品，但 [Mark Text](https://marktext.app/) 还是给我留下很深的印象，尤其是支持**直接从剪贴板粘贴图像**这一功能；对 Markdown 编辑器感兴趣的朋友，不妨尝试下。
 
 ── 出自[倾城之链 - Mark Text](https://nicelinks.site/post/61ab2c6f2afff60541cdbaa6)
 

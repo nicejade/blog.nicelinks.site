@@ -10,7 +10,7 @@
 
 ![倾城之链 - Questflow: Build AI agents for workflow automation with no-code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.questflow.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Questflow](https://nicelinks.site/redirect?url=https://www.questflow.ai/) 是一个无代码 [AI](https://nicelinks.site/tags/AI) 驱动的工作流 [自动化](https://nicelinks.site/tags/自动化) 市场；他们帮助用户发现和部署跨平台自动化的人工智能工作流。此外，Questflow 还帮助创建者定制、分发人工智能工作流，并将其货币化，而无需编码经验。它具有如下功能特征：
+**推荐语**：[Questflow](https://www.questflow.ai/) 是一个无代码 [AI](https://nicelinks.site/tags/AI) 驱动的工作流 [自动化](https://nicelinks.site/tags/自动化) 市场；他们帮助用户发现和部署跨平台自动化的人工智能工作流。此外，Questflow 还帮助创建者定制、分发人工智能工作流，并将其货币化，而无需编码经验。它具有如下功能特征：
 
 ### 与您喜爱的应用程序集成
 
@@ -40,7 +40,7 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 
 ![倾城之链 - xAI: Understand the Universe](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/x.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[xAI](: urlhttps://xhttps://nicelinks.site/redirect?url=) 是一家由埃隆-马斯克（Elon Musk）创立的新公司，2023 年 7 月 12 日宣布成立，其目标是了解宇宙的真实本质（Understand the true nature of the Universe.）。团队由 [特斯拉](https://tesla.com/) 和 [SpaceX](https://spacex.com/) 首席执行官埃隆·马斯克 (Elon Musk) 领导；成员之前曾在 [DeepMind](https://deepmind.com/) 、 [OpenAI](https://openai.com/) 、 [Google Research](https://research.google/) 、 [Microsoft Research](https://www.microsoft.com/en-us/research/) 、 [Tesla](https://tesla.com/) 和 [多伦多大学](https://www.utoronto.ca/) 工作过。他们致力于并领导该领域一些最大突破的开发，包括 AlphaStar、AlphaCode、Inception、Minerva、GPT-3.5 和 GPT-4。
+**推荐语**：[xAI](: urlhttps://x=) 是一家由埃隆-马斯克（Elon Musk）创立的新公司，2023 年 7 月 12 日宣布成立，其目标是了解宇宙的真实本质（Understand the true nature of the Universe.）。团队由 [特斯拉](https://tesla.com/) 和 [SpaceX](https://spacex.com/) 首席执行官埃隆·马斯克 (Elon Musk) 领导；成员之前曾在 [DeepMind](https://deepmind.com/) 、 [OpenAI](https://openai.com/) 、 [Google Research](https://research.google/) 、 [Microsoft Research](https://www.microsoft.com/en-us/research/) 、 [Tesla](https://tesla.com/) 和 [多伦多大学](https://www.utoronto.ca/) 工作过。他们致力于并领导该领域一些最大突破的开发，包括 AlphaStar、AlphaCode、Inception、Minerva、GPT-3.5 和 GPT-4。
 
 ── 出自[倾城之链 - xAI: Understand the Universe](https://nicelinks.site/post/64afdf0cb95cf7176299de6b)
 
@@ -54,7 +54,7 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 
 ![倾城之链 - HelpLook | 免费搭建帮助中心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.helplook.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[HelpLook](https://nicelinks.site/redirect?url=https://www.helplook.net/) 是一款快速搭建产品帮助中心、 [知识库](https://nicelinks.site/tags/知识库) 、官方博客的工具，它可以在五分钟内，为您的产品免费搭建一个帮助中心；提供简洁专业的文档编辑功能，与可定制的个性主页；从而助力企业发展，节省人力成本，提升客户满意度。HelpLook 具有如下几个特色功能：
+**推荐语**：[HelpLook](https://www.helplook.net/) 是一款快速搭建产品帮助中心、 [知识库](https://nicelinks.site/tags/知识库) 、官方博客的工具，它可以在五分钟内，为您的产品免费搭建一个帮助中心；提供简洁专业的文档编辑功能，与可定制的个性主页；从而助力企业发展，节省人力成本，提升客户满意度。HelpLook 具有如下几个特色功能：
 
 ### HelpLook 已接入 [ChatGPT](https://nicelinks.site/tags/ChatGPT)
 
@@ -80,7 +80,7 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 
 ![倾城之链 - Novu - The open-source notification infrastructure](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/novu.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Novu](https://nicelinks.site/redirect?url=https://novu.co/) ，面向开发人员的开源通知基础设施，使用单个 [API](https://nicelinks.site/tags/API) 管理多渠道通知的终极服务。它提供统一的 API，可以轻松地通过多种渠道发送通知，包括应用内、推送、电子邮件、短信和聊天。借助 Novu，您可以创建自定义工作流程并为每个渠道定义条件，确保以最有效的方式传递您的通知。
+**推荐语**：[Novu](https://novu.co/) ，面向开发人员的开源通知基础设施，使用单个 [API](https://nicelinks.site/tags/API) 管理多渠道通知的终极服务。它提供统一的 API，可以轻松地通过多种渠道发送通知，包括应用内、推送、电子邮件、短信和聊天。借助 Novu，您可以创建自定义工作流程并为每个渠道定义条件，确保以最有效的方式传递您的通知。
 
 ### Novu 功能特征
 
@@ -109,7 +109,7 @@ Novu 的目标是：帮助开发人员在产品与其用户之间，创建有意
 
 使用 Novu API 和管理面板，您可以轻松地将实时通知中心添加到您的 Web 应用程序，而无需自行构建。您可以使用 Novu 的 React / Vue / Angular 组件或 iframe 嵌入。
 
-[Novu](https://nicelinks.site/redirect?url=https://novu.co/) 是一个开源通知基础设施，专为工程团队构建，帮助他们构建丰富的产品通知体验，而无需不断重新发明轮子。它功能强大、易于使用；您可以使用 `docker-compose` 在本地服务器部署，也可以 Novu 提供的免费托管服务。如果您对 `novu` 感兴趣，可[移步 Github 开源](https://github.com/novuhq/novu)仓库（截止 2023 年 07 月 12 日，已收货 21K+ Star）从而了解更多。
+[Novu](https://novu.co/) 是一个开源通知基础设施，专为工程团队构建，帮助他们构建丰富的产品通知体验，而无需不断重新发明轮子。它功能强大、易于使用；您可以使用 `docker-compose` 在本地服务器部署，也可以 Novu 提供的免费托管服务。如果您对 `novu` 感兴趣，可[移步 Github 开源](https://github.com/novuhq/novu)仓库（截止 2023 年 07 月 12 日，已收货 21K+ Star）从而了解更多。
 
 ── 出自[倾城之链 - Novu - The open-source notification infrastructure](https://nicelinks.site/post/64ae9adcb95cf7176299d15f)
 
@@ -121,7 +121,7 @@ Novu 的目标是：帮助开发人员在产品与其用户之间，创建有意
 
 ![倾城之链 - VS Code Themes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vscodethemes.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[VS Code Themes](https://nicelinks.site/redirect?url=https://vscodethemes.com/) ，从 VS Code Marketplace 搜索并预览 VS Code 主题，使用 Remix 和 Cloudflare Workers 构建。VS Code Themes 扫描 Visual Studio Marketplace 并维护可搜索的主题数据库。在该网站遇见非常喜欢的主题—— [Andromeda](https://vscodethemes.com/e/eliverlara.andromeda/andromeda?language=javascript) （Dark theme with a taste of the universe |带有宇宙味道的黑暗主题；早先喜欢的主题是： [Dracula](https://nicelinks.site/post/636108c262decd06091f4ab9) ），可以直接通过**网页按钮**拉起 Visual Studio Code 应用程序，从而快速安装主题；该项目在 [Github 仓库开源](https://github.com/vscodethemes/web) ，如果您对其感兴趣，可移步以了解更多。
+**推荐语**：[VS Code Themes](https://vscodethemes.com/) ，从 VS Code Marketplace 搜索并预览 VS Code 主题，使用 Remix 和 Cloudflare Workers 构建。VS Code Themes 扫描 Visual Studio Marketplace 并维护可搜索的主题数据库。在该网站遇见非常喜欢的主题—— [Andromeda](https://vscodethemes.com/e/eliverlara.andromeda/andromeda?language=javascript) （Dark theme with a taste of the universe |带有宇宙味道的黑暗主题；早先喜欢的主题是： [Dracula](https://nicelinks.site/post/636108c262decd06091f4ab9) ），可以直接通过**网页按钮**拉起 Visual Studio Code 应用程序，从而快速安装主题；该项目在 [Github 仓库开源](https://github.com/vscodethemes/web) ，如果您对其感兴趣，可移步以了解更多。
 
 ── 出自[倾城之链 - VS Code Themes](https://nicelinks.site/post/64ae965eb95cf7176299d108)
 
@@ -133,9 +133,9 @@ Novu 的目标是：帮助开发人员在产品与其用户之间，创建有意
 
 ![倾城之链 - Bento - A Link in Bio, but Rich and Beautiful.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bento.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bento](https://nicelinks.site/redirect?url=https://bento.me/) ，一个快速创建 [个人主页](https://nicelinks.site/tags/个人主页) 的 Web 应用，展示您的一切和创造的一切，简介中的链接，丰富又美丽，免费可用，专为创意人士打造。它展示的内容足够丰富，可以是您的视频、播客、音乐、链接、地图、相片、时事通讯、付费产品、日历等等，让您的所有内容都集成到您的个人页面中。 不再将您的内容隐藏在链接后面。
+**推荐语**：[Bento](https://bento.me/) ，一个快速创建 [个人主页](https://nicelinks.site/tags/个人主页) 的 Web 应用，展示您的一切和创造的一切，简介中的链接，丰富又美丽，免费可用，专为创意人士打造。它展示的内容足够丰富，可以是您的视频、播客、音乐、链接、地图、相片、时事通讯、付费产品、日历等等，让您的所有内容都集成到您的个人页面中。 不再将您的内容隐藏在链接后面。
 
-有基于 [Bento](https://nicelinks.site/redirect?url=https://bento.me/) 创建新的个人主页： [杨轩帅](https://bento.me/nicejade) ；为它提供的人性化体验感到**赞叹**；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，更是体贴异常；就以插入个人链接来说，只需提供域名，其他内容都有服务自动抓取、您只需关注它的外观、位置即可，而且操作极为简单。如果您创造出较多内容，强烈推荐您基于 [Bento](https://nicelinks.site/redirect?url=https://bento.me/) 创建您的个人主页，以便其他人快速了解这一切。
+有基于 [Bento](https://bento.me/) 创建新的个人主页： [杨轩帅](https://bento.me/nicejade) ；为它提供的人性化体验感到**赞叹**；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，更是体贴异常；就以插入个人链接来说，只需提供域名，其他内容都有服务自动抓取、您只需关注它的外观、位置即可，而且操作极为简单。如果您创造出较多内容，强烈推荐您基于 [Bento](https://bento.me/) 创建您的个人主页，以便其他人快速了解这一切。
 
 ── 出自[倾城之链 - Bento - A Link in Bio, but Rich and Beautiful.](https://nicelinks.site/post/64a97be5b95cf7176299b2da)
 
@@ -149,13 +149,13 @@ Novu 的目标是：帮助开发人员在产品与其用户之间，创建有意
 
 ![倾城之链 - Download subtitles from Youtube, Viki, Viu, Kocowa, Wetv and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/downsub.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DownSub](https://nicelinks.site/redirect?url=https://downsub.com/) 是一款免费的网络应用程序，可以直接从 Youtube、VIU、Viki、Vlive 等下载字幕。我们支持下载所有字幕格式，例如：SRT、TXT、VTT。DownSub 使用起来非常方便，仅需要如下三部即可：
+**推荐语**：[DownSub](https://downsub.com/) 是一款免费的网络应用程序，可以直接从 Youtube、VIU、Viki、Vlive 等下载字幕。我们支持下载所有字幕格式，例如：SRT、TXT、VTT。DownSub 使用起来非常方便，仅需要如下三部即可：
 
 1.  **粘贴**您要下载字幕的视频链接。
 1.  单击**“下载”**按钮开始提取字幕。
 1.  选择您要下载的字幕格式和语言，然后单击**“下载”**按钮。
 
-[DownSub](https://nicelinks.site/redirect?url=https://downsub.com/) 不会强迫他们的用户下载或安装任何类型的扩展或第三方软件。他们提供在线下载字幕的方法，只需输入视频的 URL 并单击“下载”即可。DownSub 还提供一种更便捷的使用方式：在 URL 之前添加 `subtitle.to/` 并按 Enter。
+[DownSub](https://downsub.com/) 不会强迫他们的用户下载或安装任何类型的扩展或第三方软件。他们提供在线下载字幕的方法，只需输入视频的 URL 并单击“下载”即可。DownSub 还提供一种更便捷的使用方式：在 URL 之前添加 `subtitle.to/` 并按 Enter。
 
 ── 出自[倾城之链 - Download subtitles from Youtube, Viki, Viu, Kocowa, Wetv and more](https://nicelinks.site/post/64a975beb95cf7176299b2a3)
 

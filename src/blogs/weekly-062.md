@@ -12,7 +12,7 @@
 
 ![倾城之链 - Frontend developer tools, all-in-one place!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/devtooly.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[devtooly.com](https://nicelinks.site/redirect?url=https://devtooly.com/)（为开发者而生），一个面向**前端开发人员**的工具目录，按**类别**组织以方便使用。其中聚合类别（方向）很多，诸如：CSS 效果生成器、渐变调色板 🎨、图标、插图、动画库、产品模型、学习资源、设计理念、无代码（No Code）、Chrome 扩展等等；每个方向，也都收录了很多业界较好的产品（看起来都是以英文为主）；对网站地址、描述，收录日期，推荐人等信息，也做了说明。如果您从事 Web 前端开发，或收藏下，在相关方向工具选取上，以做参考。
+**推荐语**：[devtooly.com](https://devtooly.com/)（为开发者而生），一个面向**前端开发人员**的工具目录，按**类别**组织以方便使用。其中聚合类别（方向）很多，诸如：CSS 效果生成器、渐变调色板 🎨、图标、插图、动画库、产品模型、学习资源、设计理念、无代码（No Code）、Chrome 扩展等等；每个方向，也都收录了很多业界较好的产品（看起来都是以英文为主）；对网站地址、描述，收录日期，推荐人等信息，也做了说明。如果您从事 Web 前端开发，或收藏下，在相关方向工具选取上，以做参考。
 
 ── 出自[倾城之链 - Frontend developer tools, all-in-one place!](https://nicelinks.site/post/626144f296c4c82f728e8434)
 
@@ -24,11 +24,11 @@
 
 ![倾城之链 - Uptime Kuma](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/uptime.kuma.pet.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Uptime Kuma](https://nicelinks.site/redirect?url=https://uptime.kuma.pet/)，是一个类似于“Uptime Robot”的自托管监控工具（开源项目）。它支持灵活配置，拥有漂亮的界面，支持任何人托管部署，针对监控 Web 网站或者后台接口，有非常高的价值。它具有以下功能特征：
+**推荐语**：[Uptime Kuma](https://uptime.kuma.pet/)，是一个类似于“Uptime Robot”的自托管监控工具（开源项目）。它支持灵活配置，拥有漂亮的界面，支持任何人托管部署，针对监控 Web 网站或者后台接口，有非常高的价值。它具有以下功能特征：
 
 - 监控 HTTP(s) / TCP / HTTP(s) 关键字 / Ping / DNS 记录 / 推送 / Steam 游戏服务器的正常运行时间。
 - 花哨的、反应式的、快速的 UI/UX。
-- 通过 Telegram、Discord、Gotify、Slack、Pushover、电子邮件 (SMTP) 和 [70 多种通知服务发送通知，请单击此处查看完整列表](https://nicelinks.site/redirect?url=https://github.com/louislam/uptime-kuma/tree/master/src/components/notifications)。
+- 通过 Telegram、Discord、Gotify、Slack、Pushover、电子邮件 (SMTP) 和 [70 多种通知服务发送通知，请单击此处查看完整列表](https://github.com/louislam/uptime-kuma/tree/master/src/components/notifications)。
 - 默认 20 秒间隔；
 - 支持多种语言；
 - 简单状态页面；
@@ -37,7 +37,7 @@
 
 ### 如何安装？
 
-[Uptime Kuma](https://nicelinks.site/redirect?url=https://uptime.kuma.pet/) 支持 Docker、基于 Node.js 工具链（外加 Git、 pm2）等方式部署，以下是基于 Docker（目前最近版本：[louislam/uptime-kuma](https://nicelinks.site/redirect?url=https://hub.docker.com/r/louislam/uptime-kuma/tags) 为 `v1.14.1`） 的安装方式：
+[Uptime Kuma](https://uptime.kuma.pet/) 支持 Docker、基于 Node.js 工具链（外加 Git、 pm2）等方式部署，以下是基于 Docker（目前最近版本：[louislam/uptime-kuma](https://hub.docker.com/r/louislam/uptime-kuma/tags) 为 `v1.14.1`） 的安装方式：
 
 ```bash
 docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
@@ -45,7 +45,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 当然，您如果喜欢，也可以基于 Docker Compose 来安装，详情可参见文章：[如何基于 Docker 部署 Uptime Kuma 服务？](https://forum.lovejade.cn/d/166-docker-uptime-kuma)。
 
-[Uptime Kuma](https://nicelinks.site/redirect?url=https://uptime.kuma.pet/) 服务，在我来看非常有价值；可将其部署起来，监控正在维护的各种服务（如[倾城之链](https://nicelinks.site/)、[曼妙句子](https://read.lovejade.cn/)）；倘若应用出现问题，使得我能在第一时间知道，从而快速排查并修复，从而最大限度降低损失。
+[Uptime Kuma](https://uptime.kuma.pet/) 服务，在我来看非常有价值；可将其部署起来，监控正在维护的各种服务（如[倾城之链](https://nicelinks.site/)、[曼妙句子](https://read.lovejade.cn/)）；倘若应用出现问题，使得我能在第一时间知道，从而快速排查并修复，从而最大限度降低损失。
 
 ── 出自[倾城之链 - Uptime Kuma](https://nicelinks.site/post/625eb42bac29ce06470af87d)
 
@@ -59,7 +59,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 ![倾城之链 - Puppeteer | Headless Chrome Node.js API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pptr.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Puppeteer](https://nicelinks.site/redirect?url=https://pptr.dev/)，是 Google Chrome 团队官方的无界面（Headless）Chrome **开源工具**，它是一个 `Node` 库，提供了一个高级的 API 来控制 DevTools 协议上的无头版 Chrome 。也可以配置为使用完整（非无头）的 Chrome。`Chrome` 素来在浏览器界稳执牛耳，因此，Chrome Headless 必将成为 Web 应用**自动化测试**的行业标杆。使用 `Puppeteer`，相当于同时具有 Linux 和 Chrome 双端的操作能力，应用场景可谓非常之多。
+**推荐语**：[Puppeteer](https://pptr.dev/)，是 Google Chrome 团队官方的无界面（Headless）Chrome **开源工具**，它是一个 `Node` 库，提供了一个高级的 API 来控制 DevTools 协议上的无头版 Chrome 。也可以配置为使用完整（非无头）的 Chrome。`Chrome` 素来在浏览器界稳执牛耳，因此，Chrome Headless 必将成为 Web 应用**自动化测试**的行业标杆。使用 `Puppeteer`，相当于同时具有 Linux 和 Chrome 双端的操作能力，应用场景可谓非常之多。
 
 ### Puppeteer 能做些什么呢？
 
@@ -76,7 +76,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 早在 2017 年，就有使用 `Puppeteer`，并写了诸如：[大前端神器安利之 Puppeteer](https://www.jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/) 等文章，时隔多年，`Puppeteer` 已经更新至 `V1.17.0`，其丰富的 API，基本上可以覆盖用户在浏览器进行的任何操作；如果您的工作，涉及到浏览器操作，完全可以基于 Puppeteer 工具，来使其**自动化**运转，从而提升工作效率、减少时间消耗、改善生活品质。
 
-另外，值得一提的是，`Puppeteer` 是基于 Node.js 的工具库，您只需会写 JavaScript 代码，即可轻松玩转，详情可参见 [Puppeteer 文档](https://nicelinks.site/redirect?url=https://pptr.dev/)说明。当然，`写代码`并不是必须的，[Headless Recorder](https://nicelinks.site/redirect?url=https://github.com/checkly/headless-recorder)：是一个 Chrome 扩展程序，可以记录您的浏览器交互（操作），并生成 Playwright 或 Puppeteer 脚本，您完全可以基于这款 Chrome 扩展，来辅助您生成自动化脚本；如此一来，无论您是否会编码，皆能轻松基于 Puppeteer 开启您的自动化之旅。关于 Puppeteer 更多使用场景、以及使用方法，后续将会总结更多文章分享，敬请期待。
+另外，值得一提的是，`Puppeteer` 是基于 Node.js 的工具库，您只需会写 JavaScript 代码，即可轻松玩转，详情可参见 [Puppeteer 文档](https://pptr.dev/)说明。当然，`写代码`并不是必须的，[Headless Recorder](https://github.com/checkly/headless-recorder)：是一个 Chrome 扩展程序，可以记录您的浏览器交互（操作），并生成 Playwright 或 Puppeteer 脚本，您完全可以基于这款 Chrome 扩展，来辅助您生成自动化脚本；如此一来，无论您是否会编码，皆能轻松基于 Puppeteer 开启您的自动化之旅。关于 Puppeteer 更多使用场景、以及使用方法，后续将会总结更多文章分享，敬请期待。
 
 ── 出自[倾城之链 - Puppeteer | Headless Chrome Node.js API](https://nicelinks.site/post/625c3735ac29ce06470af877)
 
@@ -90,14 +90,14 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 ![倾城之链 - 印象笔记 | 工作必备效率应用](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.yinxiang.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[印象笔记](https://nicelinks.site/redirect?url=https://www.yinxiang.com/)，由北京印象笔记科技有限公司出品，从建立之初就致力于做用户的“第二大脑”。在信息快速增长更迭的时代，印象笔记帮助用户聚焦高价值信息，是对高价值信息进行获取、收藏、梳理、分享和协作的平台， 帮用户保存记忆，激发灵感，创想未来。它具有以下功能特征：
+**推荐语**：[印象笔记](https://www.yinxiang.com/)，由北京印象笔记科技有限公司出品，从建立之初就致力于做用户的“第二大脑”。在信息快速增长更迭的时代，印象笔记帮助用户聚焦高价值信息，是对高价值信息进行获取、收藏、梳理、分享和协作的平台， 帮用户保存记忆，激发灵感，创想未来。它具有以下功能特征：
 
 - **多端同步**：随时随地查看和备份信息；
 - **内容收藏**：一键储存高价值网页和文章；
 - **资料管理**：全面支持 Office、PDF 等格式；
 - **信息共享**：快捷共享笔记，高效完成协作；
 
-记录整理信息，是人类永恒且越来越重要的需求，[印象笔记](https://nicelinks.site/redirect?url=https://www.yinxiang.com/)愿景与使命：**是为中国个人及企业团队用户提供智能、便捷、安全的产品和服务，成为无处不在的“第二大脑”，融汇无限信息，拓展人类思维边界。**。因此，印象笔记具有如下功能特性：
+记录整理信息，是人类永恒且越来越重要的需求，[印象笔记](https://www.yinxiang.com/)愿景与使命：**是为中国个人及企业团队用户提供智能、便捷、安全的产品和服务，成为无处不在的“第二大脑”，融汇无限信息，拓展人类思维边界。**。因此，印象笔记具有如下功能特性：
 
 ### 轻松收集一切
 
@@ -113,7 +113,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 > 2008 年 Evernote 在硅谷创立，创始人斯泰潘·帕奇科夫(Stepan Pachikov)是硅谷的科技先锋，也是第一个研究出如何将手写字迹输入到电脑中的人。他一生致力于解开人类记忆之谜，试图创造人类大脑的延伸，他的理念成就了 Evernote。2012 年，Evernote 进入中国，发布中文版产品：印象笔记，成为最早在中国部署数据服务器、为中国用户提供专属服务，并与中国互联网服务充分对接的硅谷公司。
 
-[印象笔记](https://nicelinks.site/redirect?url=https://www.yinxiang.com/)功能极其丰，譬如：云端同步（多设备管理资料）、剪藏（一键存储网页和文章）、搜索（智能检索全文及附件）、模板（海量模版库一键套用）、清单（高效管理待办事项）、超级笔记（新一代在线编辑器）、OCR 扫描（拍图识字、快捷存储）、思维导图（高效梳理思路和信息）、桌面便签（随时记录灵感想法）、支持 Markdown（简单高效的沉浸式写作体验）、分享（笔记快速共享和协作）、协作（多人多屏动态编辑）、空间（全新知识管理结构）、知识星图（AI 赋能第二大脑）、支持所有设备（在所有设备上安装印象笔记，无需担心电脑不在身边，随时随地保存和查阅信息。）等等。
+[印象笔记](https://www.yinxiang.com/)功能极其丰，譬如：云端同步（多设备管理资料）、剪藏（一键存储网页和文章）、搜索（智能检索全文及附件）、模板（海量模版库一键套用）、清单（高效管理待办事项）、超级笔记（新一代在线编辑器）、OCR 扫描（拍图识字、快捷存储）、思维导图（高效梳理思路和信息）、桌面便签（随时记录灵感想法）、支持 Markdown（简单高效的沉浸式写作体验）、分享（笔记快速共享和协作）、协作（多人多屏动态编辑）、空间（全新知识管理结构）、知识星图（AI 赋能第二大脑）、支持所有设备（在所有设备上安装印象笔记，无需担心电脑不在身边，随时随地保存和查阅信息。）等等。
 
 早在 2014 年左右，有接触并高频使用`印象笔记`，后续，记录相关就渐渐转移至**个人博客**；多年过去，它的功能已经到了如此丰富的地步；有需要的朋友，可以尝试使用。
 

@@ -10,7 +10,7 @@
 
 ![倾城之链 - Device Frames - 3D Device Mockup Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/deviceframes.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Device Frames](https://nicelinks.site/redirect?url=https://deviceframes.com/) ，3D 设备模型（[Mockup](https://nicelinks.site/tags/mockups)）生成器，支持在 Web 浏览器中创建自定义 3D 设备模型，可用于完美的演示文稿，构建 3D 设备场景以展示应用程序。它的使用非常简单，只需要以下三步即可：
+**推荐语**：[Device Frames](https://deviceframes.com/) ，3D 设备模型（[Mockup](https://nicelinks.site/tags/mockups)）生成器，支持在 Web 浏览器中创建自定义 3D 设备模型，可用于完美的演示文稿，构建 3D 设备场景以展示应用程序。它的使用非常简单，只需要以下三步即可：
 
 ### 选择您的设备
 
@@ -24,7 +24,7 @@
 
 以高保真（4K）图像和视频格式导出最终设备模型。
 
-[Device Frames](https://nicelinks.site/redirect?url=https://deviceframes.com/) 提供了浏览预先制作的模板，生成漂亮的 3D 设备场景以展示您的应用程序 UI。非常适合登陆页面、社交媒体、广告、演讲平台、内容营销、应用程序宣传视频等。
+[Device Frames](https://deviceframes.com/) 提供了浏览预先制作的模板，生成漂亮的 3D 设备场景以展示您的应用程序 UI。非常适合登陆页面、社交媒体、广告、演讲平台、内容营销、应用程序宣传视频等。
 
 ── 出自[倾城之链 - Device Frames - 3D Device Mockup Generator](https://nicelinks.site/post/63d343a5ac46415757ac5a55)
 
@@ -36,7 +36,7 @@
 
 ![倾城之链 - Zaap | A Single Page For Your Links | Linktree + Gumroad Alternative](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.zaap.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Znaplink](https://nicelinks.site/redirect?url=https://www.zaap.ai/) 是排名第一的免费 Linktree 替代品。创建一个免费的在线主页，将您的内容、链接和社区连接到一个易于管理的网站，并提供一个简短的链接供您共享。它具有如下功能特征：
+**推荐语**：[Znaplink](https://www.zaap.ai/) 是排名第一的免费 Linktree 替代品。创建一个免费的在线主页，将您的内容、链接和社区连接到一个易于管理的网站，并提供一个简短的链接供您共享。它具有如下功能特征：
 
 ### 为你所有的链接建立一个页面
 
@@ -74,7 +74,7 @@
 
 ![倾城之链 - Machine Learning In Your Database Using SQL](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mindsdb.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MindsDB](https://nicelinks.site/redirect?url=https://mindsdb.com/) ，专为现代全栈开发人员打造，用以快速构建 ML（ [机器学习](https://nicelinks.site/tags/机器学习) ） 驱动的应用程序。将数据库的功能与流行的 ML 框架相结合，以从根本上简化将机器学习应用于应用程序的过程。它具有如下功能特征：
+**推荐语**：[MindsDB](https://mindsdb.com/) ，专为现代全栈开发人员打造，用以快速构建 ML（ [机器学习](https://nicelinks.site/tags/机器学习) ） 驱动的应用程序。将数据库的功能与流行的 ML 框架相结合，以从根本上简化将机器学习应用于应用程序的过程。它具有如下功能特征：
 
 - 开发人员可以快速将 AI 功能添加到应用程序中。
 - 数据科学家可以通过将 ML 模型部署为 AI 表来简化 MLOps。
@@ -92,7 +92,7 @@ AI 表的行为与标准数据库表一样。使用熟悉的 SQL 语句，可以
 
 ![倾城之链 - GitHub 中文社区 | GitHub 中文网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.githubs.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitHub 中文社区](https://nicelinks.site/redirect?url=https://www.githubs.cn/) 是一个致力于分享和传播 [GitHub](https://nicelinks.site/tags/GitHub) （是世界上最大的代码托管平台，超 7 千万开发者正在使用）上优质开源项目的中文社区平台，基于它可以帮您发现 GitHub 上优质开源项目；它提供 GitHub 趋势，GitHub 排行榜，GitHub 分类检索，中文翻译等实用功能。**工欲善其事，必先利其器**，善于利用工具能让您事半功倍。如果您从事编程相关工作，强烈推荐收藏、常逛，以及时获得 Github 有价值项目。
+**推荐语**：[GitHub 中文社区](https://www.githubs.cn/) 是一个致力于分享和传播 [GitHub](https://nicelinks.site/tags/GitHub) （是世界上最大的代码托管平台，超 7 千万开发者正在使用）上优质开源项目的中文社区平台，基于它可以帮您发现 GitHub 上优质开源项目；它提供 GitHub 趋势，GitHub 排行榜，GitHub 分类检索，中文翻译等实用功能。**工欲善其事，必先利其器**，善于利用工具能让您事半功倍。如果您从事编程相关工作，强烈推荐收藏、常逛，以及时获得 Github 有价值项目。
 
 ── 出自[倾城之链 - GitHub 中文社区 | GitHub 中文网](https://nicelinks.site/post/63d11c2bac46415757ac4b71)
 

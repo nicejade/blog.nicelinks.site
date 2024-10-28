@@ -10,7 +10,7 @@
 
 ![倾城之链 - Zapier | The easiest way to automate your workMicrosoft Logo](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zapier.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zapier](https://nicelinks.site/redirect?url=https://zapier.com/) 是连接您的应用程序并自动化工作流程工具。它的存在，方便忙碌的人实现自动化。 Zapier 会自动在 Web 应用程序之间传递信息，因此您可以专注于最重要的工作。目前，[Zapier](https://nicelinks.site/redirect?url=https://zapier.com/)有聚合超过 3000 款应用，诸如 Dropbox、[Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、Gmail、谷歌表格、谷歌文档等等，它具有以下功能特征：
+**推荐语**：[Zapier](https://zapier.com/) 是连接您的应用程序并自动化工作流程工具。它的存在，方便忙碌的人实现自动化。 Zapier 会自动在 Web 应用程序之间传递信息，因此您可以专注于最重要的工作。目前，[Zapier](https://zapier.com/)有聚合超过 3000 款应用，诸如 Dropbox、[Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、Gmail、谷歌表格、谷歌文档等等，它具有以下功能特征：
 
 ### 整合
 
@@ -34,7 +34,7 @@
 
 ![倾城之链 - Paged.js — Paged.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pagedjs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Paged.js](https://nicelinks.site/redirect?url=https://www.pagedjs.org/) 是一个免费且开源的 JavaScript 库，它可以在浏览器中对内容进行分页，从任何 HTML 内容中创建 [PDF](https://nicelinks.site/tags/PDF) 输出。这意味着你可以使用 HTML 和 CSS 来设计印刷作品（例如书籍）！[Paged.js](https://nicelinks.site/redirect?url=https://www.pagedjs.org/) 遵循 W3C 发布的 Paged Media 标准（即分页媒体模块，以及**分页**媒体模块的生成内容）。实际上，Paged.js 的作用是为 CSS 模块提供了一个多角填充，以便使用浏览器尚未支持的功能来打印内容。关于的使用，可以参见教程指南： [Beautiful PDFs from HTML](https://nicelinks.site/post/606ac1ca00d67605dca7de60)。
+**推荐语**：[Paged.js](https://www.pagedjs.org/) 是一个免费且开源的 JavaScript 库，它可以在浏览器中对内容进行分页，从任何 HTML 内容中创建 [PDF](https://nicelinks.site/tags/PDF) 输出。这意味着你可以使用 HTML 和 CSS 来设计印刷作品（例如书籍）！[Paged.js](https://www.pagedjs.org/) 遵循 W3C 发布的 Paged Media 标准（即分页媒体模块，以及**分页**媒体模块的生成内容）。实际上，Paged.js 的作用是为 CSS 模块提供了一个多角填充，以便使用浏览器尚未支持的功能来打印内容。关于的使用，可以参见教程指南： [Beautiful PDFs from HTML](https://nicelinks.site/post/606ac1ca00d67605dca7de60)。
 
 ── 出自[倾城之链 - Paged.js — Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62)
 
@@ -46,7 +46,7 @@
 
 ![倾城之链 - Beautiful PDFs from HTML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pdf.math.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 提供了一个天才的想法，它可以填充所需的功能，允许浏览器以本机方式处理分页媒体，而不必从头构建整个呈现引擎。[Beautiful PDFs from HTML](https://nicelinks.site/redirect?url=https://pdf.math.dev/) 网站，介绍了 [Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 的安装、使用、基本特征、高级功能，以及其他注意事项。值得一提的是，该网站，即是使用 [Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 参与处理，可以访问查看效果。
+**推荐语**：[Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 提供了一个天才的想法，它可以填充所需的功能，允许浏览器以本机方式处理分页媒体，而不必从头构建整个呈现引擎。[Beautiful PDFs from HTML](https://pdf.math.dev/) 网站，介绍了 [Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 的安装、使用、基本特征、高级功能，以及其他注意事项。值得一提的是，该网站，即是使用 [Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 参与处理，可以访问查看效果。
 
 ── 出自[倾城之链 - Beautiful PDFs from HTML](https://nicelinks.site/post/606ac1ca00d67605dca7de60)
 
@@ -58,7 +58,7 @@
 
 ![倾城之链 - 独立个人博客推荐 - BlogHub](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bloghub.fun.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[BlogHub](https://nicelinks.site/redirect?url=https://bloghub.fun/) 是一个开源的，中文独立博客导航站（基于 [React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 所搭建，支持 RSS 订阅）。希望能帮助大家探索更多有趣的独立博客，发现其中蕴藏的有趣灵魂。
+**推荐语**：[BlogHub](https://bloghub.fun/) 是一个开源的，中文独立博客导航站（基于 [React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 所搭建，支持 RSS 订阅）。希望能帮助大家探索更多有趣的独立博客，发现其中蕴藏的有趣灵魂。
 
 ── 出自[倾城之链 - 独立个人博客推荐 - BlogHub](https://nicelinks.site/post/606aa9c700d67605dca7de5e)
 
@@ -70,9 +70,9 @@
 
 ![倾城之链 - The Go Programming Language](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/golang.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Go](https://nicelinks.site/redirect?url=https://golang.org/)，又称 **Golang**，是 Google 开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的、开源的编程语言。它能让构造简单、可靠且高效的软件变得容易。Go 是从 2007 年末由 Robert Griesemer, Rob Pike, Ken Thompson 主持开发，后来还加入了 Ian Lance Taylor, Russ Cox 等人，并最终于 2009 年 11 月开源，在 2012 年早些时候发布了 `Go 1` 稳定版本。如今，[Go](https://nicelinks.site/redirect?url=https://golang.org/) 的开发已经是完全开放，并且拥有一个活跃的社区。
+**推荐语**：[Go](https://golang.org/)，又称 **Golang**，是 Google 开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的、开源的编程语言。它能让构造简单、可靠且高效的软件变得容易。Go 是从 2007 年末由 Robert Griesemer, Rob Pike, Ken Thompson 主持开发，后来还加入了 Ian Lance Taylor, Russ Cox 等人，并最终于 2009 年 11 月开源，在 2012 年早些时候发布了 `Go 1` 稳定版本。如今，[Go](https://golang.org/) 的开发已经是完全开放，并且拥有一个活跃的社区。
 
-[Go](https://nicelinks.site/redirect?url=https://golang.org/) 的语法接近 C 语言，但对于变量的声明有所不同。Go 支持垃圾回收功能。与 C++ 相比，Go 并不包括如枚举、异常处理、继承、断言、虚函数等功能，但增加了 切片(Slice) 型、并发、管道、垃圾回收功能、接口等特性的语言级支持。
+[Go](https://golang.org/) 的语法接近 C 语言，但对于变量的声明有所不同。Go 支持垃圾回收功能。与 C++ 相比，Go 并不包括如枚举、异常处理、继承、断言、虚函数等功能，但增加了 切片(Slice) 型、并发、管道、垃圾回收功能、接口等特性的语言级支持。
 
 ### Go 语言特色
 
@@ -94,7 +94,7 @@ Go 语言被设计成一门应用于搭载 Web 服务器，存储集群或类似
 
 ![倾城之链 - Rust Programming Language                ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.rust-lang.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rust](https://nicelinks.site/redirect?url=https://www.rust-lang.org/) 是一门系统编程语言 ，专注于安全 ，尤其是并发安全，支持函数式和命令式以及泛型等编程范式的多范式语言。[Rust](https://nicelinks.site/redirect?url=https://www.rust-lang.org/) 在语法上和 `C++` 类似 ，但是设计者想要在保证性能的同时提供更好的内存安全。 [Rust](https://nicelinks.site/redirect?url=https://www.rust-lang.org/) 最初是由 Mozilla 研究院的 Graydon Hoare 设计创造，然后在 Dave Herman, Brendan Eich 以及很多其他人的贡献下逐步完善。为什么选择 [Rust](https://nicelinks.site/redirect?url=https://www.rust-lang.org/)？官方给出了以下几个主要原因：
+**推荐语**：[Rust](https://www.rust-lang.org/) 是一门系统编程语言 ，专注于安全 ，尤其是并发安全，支持函数式和命令式以及泛型等编程范式的多范式语言。[Rust](https://www.rust-lang.org/) 在语法上和 `C++` 类似 ，但是设计者想要在保证性能的同时提供更好的内存安全。 [Rust](https://www.rust-lang.org/) 最初是由 Mozilla 研究院的 Graydon Hoare 设计创造，然后在 Dave Herman, Brendan Eich 以及很多其他人的贡献下逐步完善。为什么选择 [Rust](https://www.rust-lang.org/)？官方给出了以下几个主要原因：
 
 ### 高性能
 
@@ -108,7 +108,7 @@ Rust 丰富的类型系统和所有权模型保证了内存安全和线程安全
 
 Rust 拥有出色的文档、友好的编译器和清晰的错误提示信息， 还集成了一流的工具——包管理器和构建工具， 智能地自动补全和类型检验的多编辑器支持， 以及自动格式化代码等等。
 
-2018 年，Rust 社区决定在几个不同的领域中提升编程体验（见 [2018 年路线图](https://nicelinks.site/redirect?url=https://blog.rust-lang.org/2018/03/12/roadmap.html)）。您可以找到许多高质量的 crates 和一些精彩的入门指南。如今，用 Rust 构建应用，已经可以在多领域实施，如：
+2018 年，Rust 社区决定在几个不同的领域中提升编程体验（见 [2018 年路线图](https://blog.rust-lang.org/2018/03/12/roadmap.html)）。您可以找到许多高质量的 crates 和一些精彩的入门指南。如今，用 Rust 构建应用，已经可以在多领域实施，如：
 
 ### 命令行
 
@@ -131,7 +131,7 @@ Rust 拥有出色的文档、友好的编译器和清晰的错误提示信息，
 ── 出自[倾城之链 - Rust Programming Language ](https://nicelinks.site/post/606a826800d67605dca7de5a)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。
 
-## [Foxmail for Windows &amp; Mac](https://nicelinks.site/redirect?url=https://www.foxmail.com/)
+## [Foxmail for Windows &amp; Mac](https://www.foxmail.com/)
 
 [产品](https://nicelinks.site/theme/product) [邮箱 ](https://nicelinks.site/tags/%E9%82%AE%E7%AE%B1)[软件](https://nicelinks.site/tags/%E8%BD%AF%E4%BB%B6)
 
@@ -141,7 +141,7 @@ Rust 拥有出色的文档、友好的编译器和清晰的错误提示信息，
 
 ![Foxmail for Windows & Mac 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.foxmail.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[Foxmail](https://nicelinks.site/redirect?url=https://www.foxmail.com/) 邮件客户端（支持 Mac、Windows），简捷易用的邮件管理专家。最初在 1997 年 1 月由华中科技大学毕业生张小龙开发，其名字取自金庸武侠小说《笑傲江湖》中的人物令狐冲。2000 年 4 月 18 日，Foxmail 以 1200 万元的价格卖给了博大公司，随后于 2005 年 3 月 16 日被腾讯控股收购。它具有以下三个关键特征：
+**推荐语：**[Foxmail](https://www.foxmail.com/) 邮件客户端（支持 Mac、Windows），简捷易用的邮件管理专家。最初在 1997 年 1 月由华中科技大学毕业生张小龙开发，其名字取自金庸武侠小说《笑傲江湖》中的人物令狐冲。2000 年 4 月 18 日，Foxmail 以 1200 万元的价格卖给了博大公司，随后于 2005 年 3 月 16 日被腾讯控股收购。它具有以下三个关键特征：
 
 - **恰到好处的简单**：简单，在于外观，更在于体验。所以你一定会喜欢全新的 Foxmail，它会给你简洁畅快的使用感受，而不需要过多的思考压力。恰到好处的简单，你一用便知。
 - **超大附件服务**：无论生活与工作，总有发送大文件的需求。使用 Foxmail 的超大附件功能 ①，你将不再受困于邮件服务器对于附件大小的限制，更加便捷的发送大容量附件。

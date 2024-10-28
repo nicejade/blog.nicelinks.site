@@ -10,7 +10,7 @@
 
 ![倾城之链 - Buddymove](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/buddymove.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Buddymove](https://nicelinks.site/redirect?url=https://buddymove.app/)，一款 MacOS 应用程序，用来帮助您保持健康并感觉良好；其工作原理是：[Buddymove](https://nicelinks.site/redirect?url=https://buddymove.app/) 应用程序，会不断分析您在计算机上工作了多长时间，并为您选择了一个完美的休息时间，在此期间，它将为您显示一系列**练习**，以帮助您感觉工作更健康（所有这些特别练习，都是由物理治疗师与国际联合会合作开发的，以确保达到肌肉骨骼健康的最高临床和学术标准；其中包括肌筋膜松解、有氧运动、强化、姿势、神经动员、眼睛）。
+**推荐语**：[Buddymove](https://buddymove.app/)，一款 MacOS 应用程序，用来帮助您保持健康并感觉良好；其工作原理是：[Buddymove](https://buddymove.app/) 应用程序，会不断分析您在计算机上工作了多长时间，并为您选择了一个完美的休息时间，在此期间，它将为您显示一系列**练习**，以帮助您感觉工作更健康（所有这些特别练习，都是由物理治疗师与国际联合会合作开发的，以确保达到肌肉骨骼健康的最高临床和学术标准；其中包括肌筋膜松解、有氧运动、强化、姿势、神经动员、眼睛）。
 
 值得一提的是：许多研究说**坐着很危险**。坐得太久会增加您患慢性健康问题的风险，例如心脏病，糖尿病甚至癌症。此外，坐得更多的人患焦虑和抑郁的风险也更高。也许您已经有背部，颈部或手部疼痛？即使您没有，如果您有久坐的工作，将来您可能也会遇到与久坐不动的生活方式有关的问题。不要等到这一刻！
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - Home | Slidev    ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sli.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SliDev](https://nicelinks.site/redirect?url=https://sli.dev/) 是一个基于网络的幻灯片制作和演示工具，由 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 驱动。它是为开发人员设计的，可以专注于用 Markdown 编写内容，同时也有 HTML 和 Vue 组件的力量，可以在你的演示中提供像素级的完美布局和设计，并嵌入互动演示；目前处于公开测试版 🎉（2021.05 仍在大力发展中。API 和用法尚未确定。）；它的诞生来源于两个痛点：花太多时间在样式和布局上；需要共享代码片段时，需要将代码转化生成图像；因此，作为前端开发人员，决心以适应他所擅长的方式，创建 [SliDev](https://nicelinks.site/redirect?url=https://github.com/slidevjs/slidev) 项目，来解决这个问题。该项目具有以下功能特征：
+**推荐语**：[SliDev](https://sli.dev/) 是一个基于网络的幻灯片制作和演示工具，由 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 驱动。它是为开发人员设计的，可以专注于用 Markdown 编写内容，同时也有 HTML 和 Vue 组件的力量，可以在你的演示中提供像素级的完美布局和设计，并嵌入互动演示；目前处于公开测试版 🎉（2021.05 仍在大力发展中。API 和用法尚未确定。）；它的诞生来源于两个痛点：花太多时间在样式和布局上；需要共享代码片段时，需要将代码转化生成图像；因此，作为前端开发人员，决心以适应他所擅长的方式，创建 [SliDev](https://github.com/slidevjs/slidev) 项目，来解决这个问题。该项目具有以下功能特征：
 
 - 📝 **基于 Markdown-**使用您喜欢的编辑器和工作流程；
 - 🎨 **Themable-**主题可以与 npm 软件包共享并使用；
@@ -35,7 +35,7 @@
 - ⚡️ **快速**-由 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 即时加载；
 - 🛠 **可入侵**-使用 Vite 插件和任何 npm 软件包；
 
-[SliDev](https://nicelinks.site/redirect?url=https://sli.dev/) 对于开发人员非常友好，为开发人员提供了对代码段的一流支持。它同时支持 [Prism](https://nicelinks.site/redirect?url=https://prismjs.com/) 和 [Shiki](https://nicelinks.site/redirect?url=https://github.com/shikijs/shiki) 以获得像素完美的语法高亮显示，同时仍然能够随时修改代码。借助内置的 [Monaco 编辑器](https://nicelinks.site/redirect?url=https://microsoft.github.io/monaco-editor/)，它还使您能够通过自动补全，类型悬停甚至 TypeScript 类型检查支持在演示文稿中进行实时编码/演示。除此之外，可以编写自定义 Vue 组件，并直接在 markdown 文件中使用它们；甚至于可借助网络技术，[SliDev](https://nicelinks.site/redirect?url=https://sli.dev/) 可以在网络应用程序中完成任何操作。例如，WebGL，API 请求，iframe，甚至实时共享。这取决于您的想象力！与了解更多，可参见 [为什么选择 Slidev ](https://nicelinks.site/redirect?url=https://sli.dev/guide/why.html)。
+[SliDev](https://sli.dev/) 对于开发人员非常友好，为开发人员提供了对代码段的一流支持。它同时支持 [Prism](https://prismjs.com/) 和 [Shiki](https://github.com/shikijs/shiki) 以获得像素完美的语法高亮显示，同时仍然能够随时修改代码。借助内置的 [Monaco 编辑器](https://microsoft.github.io/monaco-editor/)，它还使您能够通过自动补全，类型悬停甚至 TypeScript 类型检查支持在演示文稿中进行实时编码/演示。除此之外，可以编写自定义 Vue 组件，并直接在 markdown 文件中使用它们；甚至于可借助网络技术，[SliDev](https://sli.dev/) 可以在网络应用程序中完成任何操作。例如，WebGL，API 请求，iframe，甚至实时共享。这取决于您的想象力！与了解更多，可参见 [为什么选择 Slidev ](https://sli.dev/guide/why.html)。
 
 ── 出自[倾城之链 - Home | Slidev ](https://nicelinks.site/post/6093e6809947e6213fe43aa6)
 
@@ -47,9 +47,9 @@
 
 ![倾城之链 - A List of 100+ Handpicked Personal Websites](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.personalwebsites.top.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Personal Websites.Top](https://nicelinks.site/redirect?url=https://www.personalwebsites.top/) 提供超过 100 个精心挑选的个人网站的列表。该列表包含所属人的姓名，专业，网站 URL，使用的技术，以及网站的首屏截图。除了按照标签 🏷️ 过滤外，该网站提供检索，您可以提供名称或描述，检索相对应的内容。
+**推荐语**：[Personal Websites.Top](https://www.personalwebsites.top/) 提供超过 100 个精心挑选的个人网站的列表。该列表包含所属人的姓名，专业，网站 URL，使用的技术，以及网站的首屏截图。除了按照标签 🏷️ 过滤外，该网站提供检索，您可以提供名称或描述，检索相对应的内容。
 
-如果您想建立您的个人网站，可以从这些个人网站中获取设计灵感，相信可以为您节省大量时间。值得一提的是，该网站所列出的网站非常多元化，涵盖有投资人、设计师、自由职业者、作家、教练、运动员、记者等诸多行业。有访问一些网站，设计各异，且非常有意思，值得学习参考。另外值得一提的是，[Personal Websites.Top](https://nicelinks.site/redirect?url=https://www.personalwebsites.top/) 也提供了 「Submit a Website」功能，您可以提交自己喜欢或创建的网站。
+如果您想建立您的个人网站，可以从这些个人网站中获取设计灵感，相信可以为您节省大量时间。值得一提的是，该网站所列出的网站非常多元化，涵盖有投资人、设计师、自由职业者、作家、教练、运动员、记者等诸多行业。有访问一些网站，设计各异，且非常有意思，值得学习参考。另外值得一提的是，[Personal Websites.Top](https://www.personalwebsites.top/) 也提供了 「Submit a Website」功能，您可以提交自己喜欢或创建的网站。
 
 ── 出自[倾城之链 - A List of 100+ Handpicked Personal Websites](https://nicelinks.site/post/6093df2b9947e6213fe43aa4)
 
@@ -61,7 +61,7 @@
 
 ![倾城之链 - Find The Best SEO Tools | SEO Toolbelt](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/seotoolbelt.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SEO Toolbelt](https://nicelinks.site/redirect?url=https://seotoolbelt.co/) 一个致力于帮助您找到最佳 [SEO](https://nicelinks.site/tags/SEO) 工具的网站。它由行业专家创建，提供 200 多种 SEO 工具，保持不断更新，并且无外界影响。您可以在这里寻找免费 SEO 工具、SEO 审核工具、关键字研究工具、算法监控工具、SEO 竞争对手分析工具、内容营销工具、排名追踪工具、SEO 报告工具、网站速度工具等等等等，可谓极其全面。另外，该网站还提供「推荐功能」，您可以只需提供「工具名称」、「工具地址」，即可向该网站发起推荐。
+**推荐语**：[SEO Toolbelt](https://seotoolbelt.co/) 一个致力于帮助您找到最佳 [SEO](https://nicelinks.site/tags/SEO) 工具的网站。它由行业专家创建，提供 200 多种 SEO 工具，保持不断更新，并且无外界影响。您可以在这里寻找免费 SEO 工具、SEO 审核工具、关键字研究工具、算法监控工具、SEO 竞争对手分析工具、内容营销工具、排名追踪工具、SEO 报告工具、网站速度工具等等等等，可谓极其全面。另外，该网站还提供「推荐功能」，您可以只需提供「工具名称」、「工具地址」，即可向该网站发起推荐。
 
 ── 出自[倾城之链 - Find The Best SEO Tools | SEO Toolbelt](https://nicelinks.site/post/6093d2769947e6213fe43aa2)
 
@@ -73,7 +73,7 @@
 
 ![倾城之链 - SkylineWebcams | Live HD Cams from the World!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.skylinewebcams.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SkylineWebcams](https://nicelinks.site/redirect?url=https://www.skylinewebcams.com/) 是一个开放式的摄像头实时监控站点，通过它可以观看全球大部分国家的开放式共享监控。在线网页不限制设备，虽说有其他国家的摄像头，但无需辅助工具就可以打开，等于说足不出户就可以看到全国的景点。SkylineWebcams 实况摄像头，分类非常详细，有沙滩、城市、风景、冲浪、动物、火山、码头、湖泊等，甚至还有一些真人秀；SkylineWebcams 支持观看的国家是很多，其中包含中国、美国、日本、土耳其、泰国、巴西、意大利、奥地利、法国等等。如果您对靓丽风景感兴趣，却不能前往，[SkylineWebcams](https://nicelinks.site/redirect?url=https://www.skylinewebcams.com/) 是非常值得关注的网站。
+**推荐语**：[SkylineWebcams](https://www.skylinewebcams.com/) 是一个开放式的摄像头实时监控站点，通过它可以观看全球大部分国家的开放式共享监控。在线网页不限制设备，虽说有其他国家的摄像头，但无需辅助工具就可以打开，等于说足不出户就可以看到全国的景点。SkylineWebcams 实况摄像头，分类非常详细，有沙滩、城市、风景、冲浪、动物、火山、码头、湖泊等，甚至还有一些真人秀；SkylineWebcams 支持观看的国家是很多，其中包含中国、美国、日本、土耳其、泰国、巴西、意大利、奥地利、法国等等。如果您对靓丽风景感兴趣，却不能前往，[SkylineWebcams](https://www.skylinewebcams.com/) 是非常值得关注的网站。
 
 ── 出自[倾城之链 - SkylineWebcams | Live HD Cams from the World!](https://nicelinks.site/post/60937b5b9947e6213fe43aa0)
 
@@ -85,7 +85,7 @@
 
 ![倾城之链 - The State of JavaScript Survey](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/stateofjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[The State of JavaScript Survey](https://nicelinks.site/redirect?url=https://stateofjs.com/) 是关于 JavaScript 开发现状调查问卷；它自 2016 年开始，是由 Sacha Greif 和 Raphaël Benitte 创建和维护的。该调查问卷，所涵盖的内容，非常广泛，包括使用人数、最新 Features（语言特性、API 等）、各种相关框架和库、以及其他工具、资料和想法。如果您从事 Web 前端开发，[The State of JavaScript Survey](https://nicelinks.site/redirect?url=https://stateofjs.com/) 值得关注，可以让您对前言技术以及现状，有所了解。当然，您也可以参与问卷填写，这对问卷人群分布多样性，很有帮助。
+**推荐语**：[The State of JavaScript Survey](https://stateofjs.com/) 是关于 JavaScript 开发现状调查问卷；它自 2016 年开始，是由 Sacha Greif 和 Raphaël Benitte 创建和维护的。该调查问卷，所涵盖的内容，非常广泛，包括使用人数、最新 Features（语言特性、API 等）、各种相关框架和库、以及其他工具、资料和想法。如果您从事 Web 前端开发，[The State of JavaScript Survey](https://stateofjs.com/) 值得关注，可以让您对前言技术以及现状，有所了解。当然，您也可以参与问卷填写，这对问卷人群分布多样性，很有帮助。
 
 ── 出自[倾城之链 - The State of JavaScript Survey](https://nicelinks.site/post/6092c5e59947e6213fe43a9e)
 
@@ -99,7 +99,7 @@
 
 ![倾城之链 - 达人内推](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.referme.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[达人内推](https://nicelinks.site/redirect?url=https://www.referme.cn/) 是通过 [heap.io](https://nicelinks.site/redirect?url=https://heap.io/) 搭建的平台，用来承互联网公司内部推荐（**内推**）相关信息，包括社招、校招、实习等。您可在此发布内推相关信息，也可以浏览相关内容。这对于「求职」和「招聘」的双方，都比较有帮助。
+**推荐语**：[达人内推](https://www.referme.cn/) 是通过 [heap.io](https://heap.io/) 搭建的平台，用来承互联网公司内部推荐（**内推**）相关信息，包括社招、校招、实习等。您可在此发布内推相关信息，也可以浏览相关内容。这对于「求职」和「招聘」的双方，都比较有帮助。
 
 ── 出自[倾城之链 - 达人内推](https://nicelinks.site/post/608c2cdd9947e6213fe43a9c)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。

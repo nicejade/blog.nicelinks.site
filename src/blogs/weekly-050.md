@@ -10,16 +10,16 @@
 
 ![倾城之链 - Fig](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fig.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Fig](https://nicelinks.site/redirect?url=https://fig.io/) 将 VSCode 样式的**可视化自动完成**添加到您的终端，无需任何配置，可以让您的操作更加快捷。支持数百个 CLI 工具，当您键入时，Fig 会在您现有的 macOS 终端中弹出子命令、选项和上下文相关的参数；有下载安装初步尝试了下，实在是丝滑，提示也非常贴合所想。[Fig](https://nicelinks.site/redirect?url=https://fig.io/) 适用于 iTerm、Hyper、VSCode 和 macOS 终端，具有以下功能特性：
+**推荐语**：[Fig](https://fig.io/) 将 VSCode 样式的**可视化自动完成**添加到您的终端，无需任何配置，可以让您的操作更加快捷。支持数百个 CLI 工具，当您键入时，Fig 会在您现有的 macOS 终端中弹出子命令、选项和上下文相关的参数；有下载安装初步尝试了下，实在是丝滑，提示也非常贴合所想。[Fig](https://fig.io/) 适用于 iTerm、Hyper、VSCode 和 macOS 终端，具有以下功能特性：
 
-- **为速度而生**：您的终端速度很快，基于 [Fig](https://nicelinks.site/redirect?url=https://fig.io/)也一样；
+- **为速度而生**：您的终端速度很快，基于 [Fig](https://fig.io/)也一样；
 - **键盘优先**：但是，如果您愿意，可以使用鼠标；
 - **开源**：完成规范是开源的，由社区构建；
 - **个人和团队**：将 Fig 用于公共 CLI 工具或您团队的内部工具；
 - **本地的**：Fig 加载一次然后完全保持本地；
 - **私人的**：永远不会跟踪敏感数据；
 
-[Fig](https://nicelinks.site/redirect?url=https://fig.io/) 的完成都是开源的，并由社区的贡献提供支持。更值得称赞的是，使用 Fig.js API，可构建您自己的应用程序，详情可参见：[Fig 文档](https://nicelinks.site/redirect?url=https://fig.io/docs/getting-started)。如果您也是终端操作爱好者，那么 [Fig](https://nicelinks.site/redirect?url=https://fig.io/) 即将成为您的最爱工具。
+[Fig](https://fig.io/) 的完成都是开源的，并由社区的贡献提供支持。更值得称赞的是，使用 Fig.js API，可构建您自己的应用程序，详情可参见：[Fig 文档](https://fig.io/docs/getting-started)。如果您也是终端操作爱好者，那么 [Fig](https://fig.io/) 即将成为您的最爱工具。
 
 ── 出自[倾城之链 - Fig](https://nicelinks.site/post/61f2984c68ba114abbae6037)
 
@@ -33,7 +33,7 @@
 
 ![倾城之链 - 美叶](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.meiye.art.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[美叶](https://nicelinks.site/redirect?url=https://www.meiye.art/)，为设计师，创意人提供有价值的设计参考，让灵感获取变轻松。[美叶](https://nicelinks.site/redirect?url=https://www.meiye.art/)目前有上线**应用墙**（精美应用截屏推荐）、**读课学堂**（设计师入门进阶课堂）、**标志库**（优秀标志分类展示）、**插画师**（优秀插画师及作品推荐）等版块儿。
+**推荐语**：[美叶](https://www.meiye.art/)，为设计师，创意人提供有价值的设计参考，让灵感获取变轻松。[美叶](https://www.meiye.art/)目前有上线**应用墙**（精美应用截屏推荐）、**读课学堂**（设计师入门进阶课堂）、**标志库**（优秀标志分类展示）、**插画师**（优秀插画师及作品推荐）等版块儿。
 
 ── 出自[倾城之链 - 美叶](https://nicelinks.site/post/61f2283d68ba114abbae6035)
 
@@ -45,11 +45,11 @@
 
 ![倾城之链 - LibHunt - Trending open-source projects and their alternatives](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.libhunt.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LibHunt](https://nicelinks.site/redirect?url=https://www.libhunt.com/)，发现流行的开源项目和它们的替代品。其目标是成为开发者寻找库和开源项目以完成其工作的首选网站。它监测 Reddit、HackerNews 和 [Dev.to](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41) 上发布的所有信息（几乎是实时的）。然后，如果一个开源资源库被提及，我们就会记录下来，并利用它来编制流行和类似项目的清单。
+**推荐语**：[LibHunt](https://www.libhunt.com/)，发现流行的开源项目和它们的替代品。其目标是成为开发者寻找库和开源项目以完成其工作的首选网站。它监测 Reddit、HackerNews 和 [Dev.to](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41) 上发布的所有信息（几乎是实时的）。然后，如果一个开源资源库被提及，我们就会记录下来，并利用它来编制流行和类似项目的清单。
 
-@StanBright：“作为一个拥有 15 年以上经验的软件工程师，我经历了许多编程语言，我注意到每一种新语言都有类似的需求模式。总的来说，[LibHunt](https://nicelinks.site/redirect?url=https://www.libhunt.com/) 是满足我自己需求的一个体现，它的想法是让它对更多的软件开发者同伴有用。我的想法是，它可以有足够的帮助和普及，这样我就可以从中赚到足够的钱（通过赞助）来支持和改进它，直到可预见的几十年“。
+@StanBright：“作为一个拥有 15 年以上经验的软件工程师，我经历了许多编程语言，我注意到每一种新语言都有类似的需求模式。总的来说，[LibHunt](https://www.libhunt.com/) 是满足我自己需求的一个体现，它的想法是让它对更多的软件开发者同伴有用。我的想法是，它可以有足够的帮助和普及，这样我就可以从中赚到足够的钱（通过赞助）来支持和改进它，直到可预见的几十年“。
 
-如果您对编程语言的流行度感兴趣，您应该查看最流行的编程语言的 [LibHunt](https://nicelinks.site/redirect?url=https://www.libhunt.com/) 索引。
+如果您对编程语言的流行度感兴趣，您应该查看最流行的编程语言的 [LibHunt](https://www.libhunt.com/) 索引。
 
 ── 出自[倾城之链 - LibHunt - Trending open-source projects and their alternatives](https://nicelinks.site/post/61ed1f353bc51624375150ae)
 
@@ -61,7 +61,7 @@
 
 ![倾城之链 - Iconoir | Free Icons](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iconoir.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Iconoir](https://nicelinks.site/redirect?url=https://iconoir.com/)，简单而权威的手工制作的 SVG 图标库；它是最大的开源库之一，目前拥有 1000 多个 SVG 图标，设计在 24x24 像素的网格上。您可以检索想要的图标，下载即可直接使用，当然也可以通过安装 npm 包来使用；没有高级图标，没有新闻通讯，不需要电子邮件注册。
+**推荐语**：[Iconoir](https://iconoir.com/)，简单而权威的手工制作的 SVG 图标库；它是最大的开源库之一，目前拥有 1000 多个 SVG 图标，设计在 24x24 像素的网格上。您可以检索想要的图标，下载即可直接使用，当然也可以通过安装 npm 包来使用；没有高级图标，没有新闻通讯，不需要电子邮件注册。
 
 ── 出自[倾城之链 - Iconoir | Free Icons](https://nicelinks.site/post/61ed19343bc51624375150ac)
 

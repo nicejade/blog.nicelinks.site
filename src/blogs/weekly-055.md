@@ -10,11 +10,11 @@
 
 ![倾城之链 - VEED - Online Video Editor - Video Editing Made Simple](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.veed.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[VEED](https://nicelinks.site/redirect?url=https://www.veed.io/)，在线视频编辑器，让视频编辑变得简单。告别笨重的视频软件，迎接**在线**一键编辑。只需单击一下即可制作令人惊叹的视频，无需培训，无需账户，立即免费试用。您可以进行，剪切、修剪、裁剪、添加字幕等，这是其众多功能的冰山一角。下面再列举些，以领略 `VEED` 功能的强大：
+**推荐语**：[VEED](https://www.veed.io/)，在线视频编辑器，让视频编辑变得简单。告别笨重的视频软件，迎接**在线**一键编辑。只需单击一下即可制作令人惊叹的视频，无需培训，无需账户，立即免费试用。您可以进行，剪切、修剪、裁剪、添加字幕等，这是其众多功能的冰山一角。下面再列举些，以领略 `VEED` 功能的强大：
 
 为视频添加字幕、将音频添加到视频、将表情符号添加到视频、将照片添加到视频、为视频添加贴纸、将文本添加到视频、注释视频、音频翻译、音频到文本、在线自动字幕生成器、裁剪视频、翻转视频、绿屏编辑器、循环视频、音乐展示台、在线视频编辑器、进度条生成器、从视频中删除音频、从音频中去除背景噪音、从视频中去除背景噪音、调整视频、旋转视频、屏幕录像机、分享视频、字幕转换器、字幕编辑器、字幕翻译、提词器、转录、视频亮度编辑器、视频压缩器、视频切割机、视频编辑器效果、视频编辑器过渡、视频过滤器、视频帧率转换器、视频托管、视频木匠、在线视频叠加、视频播放器、视频速度控制器、视频分配器、视频翻译器、视频转文字、录音机、网络摄像头录像机、YouTube 转 GIF 等等。
 
-`VEED`，简单的工具，强大的效果。无论您是营销人员、教师、还是创意人员，都可以基于 [VEED](https://nicelinks.site/redirect?url=https://www.veed.io/) 制作精美视频，从而让您的作品，更为大众所接受。当然，这款应用虽然可以免费使用，但须知免费版功能有限，且有诸多限制 🚫。对于需要简单的在线视频编辑功能的个人，需要支付 12 美元/月，望知悉。
+`VEED`，简单的工具，强大的效果。无论您是营销人员、教师、还是创意人员，都可以基于 [VEED](https://www.veed.io/) 制作精美视频，从而让您的作品，更为大众所接受。当然，这款应用虽然可以免费使用，但须知免费版功能有限，且有诸多限制 🚫。对于需要简单的在线视频编辑功能的个人，需要支付 12 美元/月，望知悉。
 
 ── 出自[倾城之链 - VEED - Online Video Editor - Video Editing Made Simple](https://nicelinks.site/post/6220ac939d58ff38419a3e6a)
 
@@ -28,7 +28,7 @@
 
 ![倾城之链 - DAC 导航-让校园生活更加精彩！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nwuzmed.ga.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DAC 导航](https://nicelinks.site/redirect?url=https://nwuzmed.ga/)，是专为在校大学生创建的导航网站；它属于个人小站，多数站点是在站长在学习、工作的实际经历中收集整理的；搭建网站除了花费时间精力外，没有任何成本，因此也永远不会开启打赏、付费、广告等盈利模式。
+**推荐语**：[DAC 导航](https://nwuzmed.ga/)，是专为在校大学生创建的导航网站；它属于个人小站，多数站点是在站长在学习、工作的实际经历中收集整理的；搭建网站除了花费时间精力外，没有任何成本，因此也永远不会开启打赏、付费、广告等盈利模式。
 
 > `DAC`在此处是 Direct Air Capture 的缩写，它是指一种从大气中直接捕集二氧化碳（CO2）的技术，是大规模点源捕集 CO2 的重要补充，因而也是实现碳达峰、碳中和目标的重要技术手段。DAC 技术从空气中过滤和捕集 CO2，再将高纯度的 CO2 气体用于各种用途，例如种植蔬菜、制作碳中性燃料、碳酸饮料，或进行地下储存等，从而使大气中 CO2 含量维持现有水平甚至有所降低。在当前环境空气中，CO2 浓度约为 400ppm（0.04%），但对地球气候的影响巨大。
 
@@ -42,7 +42,7 @@ DAC 在提供网站指引和导航的同时，也免费提供资源搜索、下�
 
 > 有几年，也会因为没有被爱、没有收获、没有进步，而觉得无辜的时光都变得面目可憎。这两年体会了，生活不会任你予取予求，但只要是你的都会给到你，一切都不白费，或早或晚，且等它来。
 
-如果，你想更充分了解「DAC 导航」（如何使用、部分网站无法访问的原因等），您可以移步至 [DAC 导航 ｜ 网站简介及使用说明](https://nicelinks.site/redirect?url=https://nwuzmed.ga/media/about/cn/about.html)。
+如果，你想更充分了解「DAC 导航」（如何使用、部分网站无法访问的原因等），您可以移步至 [DAC 导航 ｜ 网站简介及使用说明](https://nwuzmed.ga/media/about/cn/about.html)。
 
 ── 出自[倾城之链 - DAC 导航-让校园生活更加精彩！](https://nicelinks.site/post/62209f6b9d58ff38419a3e68)
 
@@ -56,7 +56,7 @@ DAC 在提供网站指引和导航的同时，也免费提供资源搜索、下�
 
 ![倾城之链 - TDesign - 开源的企业级设计体系](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tdesign.tencent.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TDesign](https://nicelinks.site/redirect?url=https://tdesign.tencent.com/)，是腾讯**开源**的企业级设计体系，提供一致的设计语言和视觉风格，帮助用户形成连续、统一的体验认知。在此基础上，TDesign 提供了开箱即用的 UI 组件库（涉及桌面端、移动端、小程序等；包括 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) / [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) / 小程序等技术栈；就目前（2022.03）而言，部分仍处于 Beta、Alpha、待上线状态），设计指南和相关设计资产，以高效的方式，将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。用于构建 设计统一 / 跨端多技术栈 的前端应用时，TDesign 颇有优势。它具有以下特征：
+**推荐语**：[TDesign](https://tdesign.tencent.com/)，是腾讯**开源**的企业级设计体系，提供一致的设计语言和视觉风格，帮助用户形成连续、统一的体验认知。在此基础上，TDesign 提供了开箱即用的 UI 组件库（涉及桌面端、移动端、小程序等；包括 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) / [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) / 小程序等技术栈；就目前（2022.03）而言，部分仍处于 Beta、Alpha、待上线状态），设计指南和相关设计资产，以高效的方式，将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。用于构建 设计统一 / 跨端多技术栈 的前端应用时，TDesign 颇有优势。它具有以下特征：
 
 ### 开放
 
@@ -103,7 +103,7 @@ TDesign 同步上线了一款开箱即用的中后台框架 TDesign Starter Kit�
 
 ![倾城之链 - Free Website Builder | Create a Free Website | Wix.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wix.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wix.com](https://nicelinks.site/redirect?url=https://www.wix.com/)，一个知名的**网站建设**平台，让你自由地创建、设计、管理和发展你的网站，完全按照你想要的方式。无论您是在推广您的业务、展示您的作品、开设商店还是创建博客，您都可以使用 Wix 网站构建器来完成这一切。
+**推荐语**：[Wix.com](https://www.wix.com/)，一个知名的**网站建设**平台，让你自由地创建、设计、管理和发展你的网站，完全按照你想要的方式。无论您是在推广您的业务、展示您的作品、开设商店还是创建博客，您都可以使用 Wix 网站构建器来完成这一切。
 
 要创建您自己的网站，请按照下列步骤操作：
 
@@ -123,7 +123,7 @@ TDesign 同步上线了一款开箱即用的中后台框架 TDesign Starter Kit�
 
 回答一些关于您的网站、位置和关键字的问题，并获得个性化的 SEO 计划，以便在网上找到。
 
-[Wix.com](https://nicelinks.site/redirect?url=https://www.wix.com/)，具有以下特色功能：
+[Wix.com](https://www.wix.com/)，具有以下特色功能：
 
 ### 专业设计的网站模板
 
@@ -156,7 +156,7 @@ TDesign 同步上线了一款开箱即用的中后台框架 TDesign Starter Kit�
 5. 发布您的网站并上线。开始建立您的专业在线形象。
 6. 为您的网站带来流量。使用先进的 SEO 工具和整合营销解决方案。
 
-[Wix.com](https://nicelinks.site/redirect?url=https://www.wix.com/) 是拥有全球数百万使用者的领先云端式开发平台。他们帮助每个人都能轻松架构出专业迷人的网页风采。促销您的业务、展示您的艺术、建置网路商店或只是测试一下新的构想。Wix 网站帮手可提供一切元素，让您制作完全个人化、高品质的免费网站。
+[Wix.com](https://www.wix.com/) 是拥有全球数百万使用者的领先云端式开发平台。他们帮助每个人都能轻松架构出专业迷人的网页风采。促销您的业务、展示您的艺术、建置网路商店或只是测试一下新的构想。Wix 网站帮手可提供一切元素，让您制作完全个人化、高品质的免费网站。
 
 ── 出自[倾城之链 - Free Website Builder | Create a Free Website | Wix.com](https://nicelinks.site/post/621f498e9d58ff38419a3e64)
 

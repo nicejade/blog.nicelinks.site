@@ -10,7 +10,7 @@
 
 ![倾城之链 - Penpot | Free Open-Source Design & Prototyping For Teams](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/penpot.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Penpot](https://nicelinks.site/redirect?url=https://penpot.app/) ：开源设计和原型平台，旨在为您的产品团队带来设计自由，其使命是提供一个 [开源](https://nicelinks.site/tags/开源) 和开放标准平台，将设计师和开发人员之间的协作提升到一个新的水平。Penpot 不依赖于操作系统，基于 Web 并采用开放标准 (SVG)。Penpot 使世界上每个团队都可以进行设计和原型制作。为什么选择 Penpot？官方给出以下几点理由：
+**推荐语**：[Penpot](https://penpot.app/) ：开源设计和原型平台，旨在为您的产品团队带来设计自由，其使命是提供一个 [开源](https://nicelinks.site/tags/开源) 和开放标准平台，将设计师和开发人员之间的协作提升到一个新的水平。Penpot 不依赖于操作系统，基于 Web 并采用开放标准 (SVG)。Penpot 使世界上每个团队都可以进行设计和原型制作。为什么选择 Penpot？官方给出以下几点理由：
 
 ### 对于跨域团队
 
@@ -40,7 +40,7 @@ Penpot 是 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 替代�
 
 ![倾城之链 - 资源熊 - 专注互联网免费优质资源分享](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ziyuanxiong.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[资源熊](https://nicelinks.site/redirect?url=https://ziyuanxiong.cn/) ，专注互联网免费优质资源分享的网站（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建），致力分享绿色软件、 [免费](https://nicelinks.site/tags/免费) 游戏、活动线报、网站源码、网络课程、油猴脚本、浏览器插件、影视资源、破解软件、网站搭建、SEO 优化、IT 资讯新闻、Windows 工具等免费资源，专注于分享网络技术资源，努力为各位网友呈现最好的资源。您也可以注册帐号、登录发布您想要分享的内容。
+**推荐语**：[资源熊](https://ziyuanxiong.cn/) ，专注互联网免费优质资源分享的网站（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建），致力分享绿色软件、 [免费](https://nicelinks.site/tags/免费) 游戏、活动线报、网站源码、网络课程、油猴脚本、浏览器插件、影视资源、破解软件、网站搭建、SEO 优化、IT 资讯新闻、Windows 工具等免费资源，专注于分享网络技术资源，努力为各位网友呈现最好的资源。您也可以注册帐号、登录发布您想要分享的内容。
 
 ── 出自[倾城之链 - 资源熊 - 专注互联网免费优质资源分享](https://nicelinks.site/post/65314a3ecdc44a66cdfb7465)
 
@@ -52,7 +52,7 @@ Penpot 是 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 替代�
 
 ![倾城之链 - Gitness: Open-Source Code Hosting & CI/CD Pipeline Engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gitness.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gitness](https://nicelinks.site/redirect?url=https://gitness.com/) 是一个开源开发者平台，具有源代码控制管理、持续集成和持续交付功能；它是最新出现的 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源替代品，您可以用于自己架设服务，托管代码。Gitness 具有如下功能特征：
+**推荐语**：[Gitness](https://gitness.com/) 是一个开源开发者平台，具有源代码控制管理、持续集成和持续交付功能；它是最新出现的 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源替代品，您可以用于自己架设服务，托管代码。Gitness 具有如下功能特征：
 
 ### 熟悉的 Git 体验。包含基本功能
 
@@ -82,7 +82,7 @@ Gitness 的目标是最终在管道功能方面与 Drone 完全同等，允许�
 
 ![倾城之链 - Creatosaurus - All in One Creative & Marketing Platform | Storytelling at Scale](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.creatosaurus.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Creatosaurus](https://nicelinks.site/redirect?url=https://www.creatosaurus.io/) ，可让您在一个地方轻松策划创意、设计图形、编写 AI 内容、编辑视频、安排帖子、搜索主题标签、制作文章、管理分析、生成报告、应用程序等。人们正处于一个新的创造者时代。想象一个世界，混乱被空闲时间、 创造性工作和故事所取代。Creatosaurus 是一个讲故事的平台。专为拥有分布式团队和全球创意人员的公司而打造。它把您喜爱的功能集中到一处：
+**推荐语**：[Creatosaurus](https://www.creatosaurus.io/) ，可让您在一个地方轻松策划创意、设计图形、编写 AI 内容、编辑视频、安排帖子、搜索主题标签、制作文章、管理分析、生成报告、应用程序等。人们正处于一个新的创造者时代。想象一个世界，混乱被空闲时间、 创造性工作和故事所取代。Creatosaurus 是一个讲故事的平台。专为拥有分布式团队和全球创意人员的公司而打造。它把您喜爱的功能集中到一处：
 
 - ✍🏻**人工智能内容作家**：使用 Creatosaurus 提供的人工智能文案生成器在几分钟内创建营销文案。
 - 🖼**创建漂亮的图形**：Creatosaurus 易于使用的综合设计编辑器可让您创建令人惊叹的设计。

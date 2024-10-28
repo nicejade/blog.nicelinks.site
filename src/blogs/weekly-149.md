@@ -10,7 +10,7 @@
 
 ![倾城之链 - Digi | AI Romance, Reimagined.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/digi.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Digi](https://nicelinks.site/redirect?url=https://digi.ai/) ：人工智能，真实浪漫（陪伴型 [AI](https://nicelinks.site/tags/AI) 聊天应用）；这不仅仅是一个聊天机器人，而是对未来浪漫伴侣关系的一次飞跃。Digi 将栩栩如生的互动、令人惊叹的头像以及安全、体贴的连接融为一体。探索真正理解您并与您共同成长的人工智能伴侣。它具有如下功能特征：
+**推荐语**：[Digi](https://digi.ai/) ：人工智能，真实浪漫（陪伴型 [AI](https://nicelinks.site/tags/AI) 聊天应用）；这不仅仅是一个聊天机器人，而是对未来浪漫伴侣关系的一次飞跃。Digi 将栩栩如生的互动、令人惊叹的头像以及安全、体贴的连接融为一体。探索真正理解您并与您共同成长的人工智能伴侣。它具有如下功能特征：
 
 ### 无与伦比的逼真对话
 
@@ -44,7 +44,7 @@ Digi 的各种友好、妩媚和迷人的声音让您着迷。他们最先进的
 
 ![倾城之链 - DomoAI | AI-Powered Art Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/domoai.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DomoAI](https://nicelinks.site/redirect?url=https://domoai.app/) ，一个 [人工智能](https://nicelinks.site/tags/AI) 驱动的艺术生成 [平台](https://nicelinks.site/tags/平台) 。展示了使用 DomoAI 快速、稳定地创建高质量视觉效果的功能和优势，并提到了在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 中开始创作过程，并提供了生成艺术作品的提示，例如在森林背景下描绘一位身着巫师服装、留着白胡子的老人，或在阳光照射下描绘一位棕色短发、金色眼睛、穿着泳装的女孩在水下游泳。
+**推荐语**：[DomoAI](https://domoai.app/) ，一个 [人工智能](https://nicelinks.site/tags/AI) 驱动的艺术生成 [平台](https://nicelinks.site/tags/平台) 。展示了使用 DomoAI 快速、稳定地创建高质量视觉效果的功能和优势，并提到了在 [Discord](https://nicelinks.site/post/644908595d123409e7289c1a) 中开始创作过程，并提供了生成艺术作品的提示，例如在森林背景下描绘一位身着巫师服装、留着白胡子的老人，或在阳光照射下描绘一位棕色短发、金色眼睛、穿着泳装的女孩在水下游泳。
 
 在 [AI](https://nicelinks.site/tags/AI) 的加持下，一段视频也可以千变万化；只需要给 AI 一些原始视频，DomoAI 它就可以帮你把视频改成你想要的风格，比如动漫风、像素风或者 3D 卡通风格；🚀 使用也很简单：
 
@@ -72,7 +72,7 @@ DomoAI 旨在通过促进快速实验和提供快速结果来提高创造力，�
 
 ![倾城之链 - aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aitools.fyi.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[aitools.fyi](https://nicelinks.site/redirect?url=https://aitools.fyi/zh) 是一个聚合网站，提供一系列 [人工智能](https://nicelinks.site/tags/AI) 工具，旨在让您的生活更轻松。该网站提供各种类别的人工智能工具，包括内容创建、聊天机器人、设计、图像生成、自动化、音频生成、网络应用程序和教育等。以下是网站上提到的一些人工智能工具：
+**推荐语**：[aitools.fyi](https://aitools.fyi/zh) 是一个聚合网站，提供一系列 [人工智能](https://nicelinks.site/tags/AI) 工具，旨在让您的生活更轻松。该网站提供各种类别的人工智能工具，包括内容创建、聊天机器人、设计、图像生成、自动化、音频生成、网络应用程序和教育等。以下是网站上提到的一些人工智能工具：
 
 1.  AdCreative AI：此工具允许您只需输入几个单词并单击几个按钮即可为您的小型企业创建广告创意。它消除了昂贵的外包的需要。
 
@@ -90,7 +90,7 @@ DomoAI 旨在通过促进快速实验和提供快速结果来提高创造力，�
 
 8.  Labnify：Labnify 提供一套全面的电子邮件营销工具，帮助企业最大限度地提高覆盖范围和转化率。
 
-这些只是 [aitools.fyi](https://nicelinks.site/redirect?url=https://aitools.fyi/) 上提供的人工智能工具的几个示例；该网站提供免费增值和付费工具，使您可以选择最适合您需求的选项。此外还提供内置检索，以便您快速找到需要的工具。当然，该网站也支持自主提交（需要付费）。
+这些只是 [aitools.fyi](https://aitools.fyi/) 上提供的人工智能工具的几个示例；该网站提供免费增值和付费工具，使您可以选择最适合您需求的选项。此外还提供内置检索，以便您快速找到需要的工具。当然，该网站也支持自主提交（需要付费）。
 
 ── 出自[倾城之链 - aitools.fyi - Find Best AI Tools That Make Your Life Easy!](https://nicelinks.site/post/6581b1917b9ec3450a09f85a)
 
@@ -102,7 +102,7 @@ DomoAI 旨在通过促进快速实验和提供快速结果来提高创造力，�
 
 ![倾城之链 - Librum | 一款旨在让每个人都能轻松愉快地阅读的应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/librumreader.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Librum](https://nicelinks.site/redirect?url=https://librumreader.com/) 是一款旨在让每个人都能轻松愉快地 [阅读](https://nicelinks.site/tags/阅读) 的应用程序。轻松阅读、探索、Excel，在任何设备上以简洁而强大的方式阅读和管理电子书。它不仅仅是电子书阅读器。使用 Librum，您可以管理自己的在线图书馆并随时随地从任何设备访问它。它具有记笔记、书签和突出显示等功能，同时提供定制功能，使其按照您的意愿个性化。
+**推荐语**：[Librum](https://librumreader.com/) 是一款旨在让每个人都能轻松愉快地 [阅读](https://nicelinks.site/tags/阅读) 的应用程序。轻松阅读、探索、Excel，在任何设备上以简洁而强大的方式阅读和管理电子书。它不仅仅是电子书阅读器。使用 Librum，您可以管理自己的在线图书馆并随时随地从任何设备访问它。它具有记笔记、书签和突出显示等功能，同时提供定制功能，使其按照您的意愿个性化。
 
 Librum 支持对超过 70,000 本书的免费访问和个人阅读统计数据，同时免费且完全开源。Librum 提供一种简洁而强大的方式，可在任何设备上阅读和管理电子书。该网站强调以下功能：
 
@@ -130,7 +130,7 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 ![倾城之链 - Magnific AI — The magic image Upscaler & Enhancer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/magnific.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Magnific AI](https://nicelinks.site/redirect?url=https://magnific.ai/) 神奇的图像放大器和增强器，像魔法一样。该网站提供先进的 [人工智能](https://nicelinks.site/tags/AI) 技术，用于放大和增强图像，可实现疯狂的高分辨率升级。它允许用户使用自然语言提示指导缩放过程，并提供 "创意 "滑块等控制功能，以生成新的细节和增强图像。
+**推荐语**：[Magnific AI](https://magnific.ai/) 神奇的图像放大器和增强器，像魔法一样。该网站提供先进的 [人工智能](https://nicelinks.site/tags/AI) 技术，用于放大和增强图像，可实现疯狂的高分辨率升级。它允许用户使用自然语言提示指导缩放过程，并提供 "创意 "滑块等控制功能，以生成新的细节和增强图像。
 
 该网站提供了各种类别的图片放大和增强前后的示例，包括肖像、插图、视频游戏、风景、科幻小说、幻想、电影、平面设计、建筑、室内设计和食品摄影。值得一提的是，`Magnific AI` 支持使用 AI 增强 [3D](https://nicelinks.site/tags/3D) 渲染，👩‍🚀 非常适合奇幻、科幻小说和科幻小说恐怖。
 
@@ -146,7 +146,7 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 ![倾城之链 - 一起用 AI | AI 副业搞钱套路集合站点](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/17yongai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[一起用 AI](https://nicelinks.site/redirect?url=https://17yongai.com/) ：AI 副业搞钱套路集合站点；该网站初衷是期望打破 [AI](https://nicelinks.site/tags/AI) 信息茧房，推广 AI 智能化方案做副业赚钱，帮助更多普通人在 AI 浪潮中创造额外副业收益。其具体做法是：在全网搜索并整理 AI 副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道，并收录于 Github 仓库： [AI 副业赚钱资讯合集](https://github.com/bleedline/aimoneyhunter)（截止 2023 年 12 月 19 日，已获得 2K+ Star）；同时提供该网站，对各种依靠 AI 赚钱方案，分门别类，做了详细说明（涵盖：**适合人群**、上手难度、学习周期、推荐评价、教程出处、核心关键词等）。如果您有打算基于 AI 搞些副业，或可考虑关注从而汲取灵感或经验。
+**推荐语**：[一起用 AI](https://17yongai.com/) ：AI 副业搞钱套路集合站点；该网站初衷是期望打破 [AI](https://nicelinks.site/tags/AI) 信息茧房，推广 AI 智能化方案做副业赚钱，帮助更多普通人在 AI 浪潮中创造额外副业收益。其具体做法是：在全网搜索并整理 AI 副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道，并收录于 Github 仓库： [AI 副业赚钱资讯合集](https://github.com/bleedline/aimoneyhunter)（截止 2023 年 12 月 19 日，已获得 2K+ Star）；同时提供该网站，对各种依靠 AI 赚钱方案，分门别类，做了详细说明（涵盖：**适合人群**、上手难度、学习周期、推荐评价、教程出处、核心关键词等）。如果您有打算基于 AI 搞些副业，或可考虑关注从而汲取灵感或经验。
 
 ── 出自[倾城之链 - 一起用 AI | AI 副业搞钱套路集合站点](https://nicelinks.site/post/65813fdc7b9ec3450a09f415)
 
@@ -159,7 +159,7 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 ![倾城之链 - FAL.AI ｜ AI Inference, faster than you can type](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.fal.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[FAL.AI](https://nicelinks.site/redirect?url=https://www.fal.ai/) 是一个提供 [AI](https://nicelinks.site/tags/AI) 推理和模型部署相关服务的网站，构建具有闪电般快速推理（低于约 120 毫秒）的实时 AI 应用程序；消除了冷启动，并提供即用即付模式，确保您只需为实际使用的内容付费。该网站提供多种特性和功能，如下所述：
+**推荐语**：[FAL.AI](https://www.fal.ai/) 是一个提供 [AI](https://nicelinks.site/tags/AI) 推理和模型部署相关服务的网站，构建具有闪电般快速推理（低于约 120 毫秒）的实时 AI 应用程序；消除了冷启动，并提供即用即付模式，确保您只需为实际使用的内容付费。该网站提供多种特性和功能，如下所述：
 
 1.  登录和注册：用户可以选择登录现有帐户或注册新帐户来访问 FAL.AI 提供的服务。
 
@@ -195,7 +195,7 @@ Librum 主要功能有：现代化的电子阅读器、可个性化定制的图�
 
 ![倾城之链 - v0 by Vercel | 通过简单的文本提示生成用户界面](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/v0.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[v0](https://nicelinks.site/redirect?url=https://v0.dev/) 是 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 基于人工智能的生成式用户界面系统。它基于 [shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 生成复制和粘贴友好的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 代码，供人们在自己的项目中使用。
+**推荐语**：[v0](https://v0.dev/) 是 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 基于人工智能的生成式用户界面系统。它基于 [shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 生成复制和粘贴友好的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 代码，供人们在自己的项目中使用。
 
 随着 AI 日渐强大，前端代码自动生成的时代也悄然来临；2023 年 12 月，Vercel v0 已向所有人开放。现在，每个人都能通过文本或图像生成代码化的用户界面。以下是网友发现的关于 Vercel v0 ”惊人“使用方式：
 
@@ -221,7 +221,7 @@ Vercel 的产品经过他们团队编写的自定义代码与开源和合成数�
 
 随着团队继续构建 v0 并为全面发布做准备，他们将添加对其他 UI 库的支持。这可能包括 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 或纯 [HTML](https://nicelinks.site/tags/HTML) 等工具。
 
-总之，[v0](https://nicelinks.site/redirect?url=https://v0.dev/) ，不仅仅是一个常规的网页设计工具，它还结合了 AI 技术，只需告诉它你心中想要的页面效果，它便能够智能地为你生成相应的网页或组件。随着 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的兴起，应用开始从传统的 GUI 转向了 LLM。尤其是很多专业软件，它们逐渐放弃了原本以 GUI 为中心的设计，转而采用以 LLM 为主的界面。未来智能化趋势，已愈发清晰。
+总之，[v0](https://v0.dev/) ，不仅仅是一个常规的网页设计工具，它还结合了 AI 技术，只需告诉它你心中想要的页面效果，它便能够智能地为你生成相应的网页或组件。随着 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的兴起，应用开始从传统的 GUI 转向了 LLM。尤其是很多专业软件，它们逐渐放弃了原本以 GUI 为中心的设计，转而采用以 LLM 为主的界面。未来智能化趋势，已愈发清晰。
 
 ── 出自[倾城之链 - v0 by Vercel | 通过简单的文本提示生成用户界面](https://nicelinks.site/post/657d84cb0ab15b034b64eaa3)
 

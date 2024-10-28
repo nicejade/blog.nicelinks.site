@@ -10,7 +10,7 @@
 
 ![倾城之链 - StackShare - Tech Stack Intelligence](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/stackshare.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[StackShare](https://nicelinks.site/redirect?url=https://stackshare.io/) 是一个提供技术栈智能 [分析](https://nicelinks.site/tags/分析) 的 [平台](https://nicelinks.site/tags/平台) ，旨在**帮助企业和技术团队更好地理解和管理他们的技术栈**。它通过提供实时的、数据驱动的洞察，帮助企业做出更明智的技术决策，优化 [技术](https://nicelinks.site/tags/技术) 治理，并提高开发效率。以下是 StackShare 的主要服务和特点：
+**推荐语**：[StackShare](https://stackshare.io/) 是一个提供技术栈智能 [分析](https://nicelinks.site/tags/分析) 的 [平台](https://nicelinks.site/tags/平台) ，旨在**帮助企业和技术团队更好地理解和管理他们的技术栈**。它通过提供实时的、数据驱动的洞察，帮助企业做出更明智的技术决策，优化 [技术](https://nicelinks.site/tags/技术) 治理，并提高开发效率。以下是 StackShare 的主要服务和特点：
 
 1.  **技术栈智能分析**：StackShare 提供实时的、深入到版本级别的技术栈分析，覆盖所有内部使用的开发者工具、服务和包，这些信息可以从所有 Git 仓库中获取。
 
@@ -38,7 +38,7 @@
 
 2023 年 12 月 31 日，StackShare 汇总了超过 **100 万个技术堆栈**的使用情况 ，超过  **1000 万个关注者** ，以及更多的开发者评论、评论和投票，梳理大量数据集，在文章 [2023 年 100 多个最佳开发者工具](https://stackshare.io/posts/top-developer-tools-2023) 呈现出来；AI 工具放到了第一，诸如 [LangChain](https://nicelinks.site/post/65a92d572c315d2784ce66b9) 、 [Auto-GPT](https://nicelinks.site/post/6453ac5fc6f2367a83e8699f) 、 [Pinecone](https://nicelinks.site/post/659fdc6eae8b2b2d0a974cb2) 、Chroma 均有上榜，2024 年学习、折腾的方向，可见一斑。
 
-总之，StackShare 能够帮助企业和技术团队更好地理解和管理他们的技术栈；您可以定期检查以监控个人或整个公司的未偿技术债务，从而快速做出调整、部署； [StackShare](https://nicelinks.site/redirect?url=https://stackshare.io/) 的官网提供了详细的信息，包括如何使用平台、企业版和社区版的介绍、用户评价、以及如何开始使用 StackShare 的指南。此外，官网还提供了关于 StackShare 的新闻、博客文章和工作机会等资源。
+总之，StackShare 能够帮助企业和技术团队更好地理解和管理他们的技术栈；您可以定期检查以监控个人或整个公司的未偿技术债务，从而快速做出调整、部署； [StackShare](https://stackshare.io/) 的官网提供了详细的信息，包括如何使用平台、企业版和社区版的介绍、用户评价、以及如何开始使用 StackShare 的指南。此外，官网还提供了关于 StackShare 的新闻、博客文章和工作机会等资源。
 
 ── 出自[倾城之链 - StackShare - Tech Stack Intelligence](https://nicelinks.site/post/65bb80a68950812ce6932c83)
 
@@ -50,7 +50,7 @@
 
 ![倾城之链 - Wave Terminal | An open-source, cross-platform terminal for seamless workflows](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.waveterm.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wave Terminal](https://nicelinks.site/redirect?url=https://www.waveterm.dev/) 是一个 [开源](https://nicelinks.site/tags/开源) 的、 [跨平台](https://nicelinks.site/tags/跨平台) 的 [终端](https://nicelinks.site/tags/终端) 模拟器，它旨在为用户提供无缝的工作流程体验。它基于现代的 Web 技术构建，提供了一些创新的功能，以提高开发者的生产力。以下是 Wave Terminal 的一些主要特点和优势：
+**推荐语**：[Wave Terminal](https://www.waveterm.dev/) 是一个 [开源](https://nicelinks.site/tags/开源) 的、 [跨平台](https://nicelinks.site/tags/跨平台) 的 [终端](https://nicelinks.site/tags/终端) 模拟器，它旨在为用户提供无缝的工作流程体验。它基于现代的 Web 技术构建，提供了一些创新的功能，以提高开发者的生产力。以下是 Wave Terminal 的一些主要特点和优势：
 
 ### 主要特点
 
@@ -93,7 +93,7 @@
 
 ![倾城之链 - Kimi Chat - 帮你看更大的世界](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kimi.moonshot.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Kimi Chat](https://nicelinks.site/redirect?url=https://kimi.moonshot.cn/) ，是北京月之暗面科技有限公司推出的**支持输入 20 万汉字**的智能助手产品。成立仅半年的大模型初创公司 ──[Moonshot AI](https://nicelinks.site/redirect?url=https://www.moonshot.cn/) 宣布在“长文本”领域实现了突破，推出了首个支持输入 20 万汉字的智能助手产品 ──Kimi Chat（有着超大“内存”的智能助手）。
+**推荐语**：[Kimi Chat](https://kimi.moonshot.cn/) ，是北京月之暗面科技有限公司推出的**支持输入 20 万汉字**的智能助手产品。成立仅半年的大模型初创公司 ──[Moonshot AI](https://www.moonshot.cn/) 宣布在“长文本”领域实现了突破，推出了首个支持输入 20 万汉字的智能助手产品 ──Kimi Chat（有着超大“内存”的智能助手）。
 
 据悉，Kimi Chat 是目前全球市场上能够产品化使用的大模型服务中所能支持的最长上下文输入长度，标志着 Moonshot AI 在这一重要技术上具有世界领先水平。相比当前市面上以英文为基础训练的大模型服务，Kimi Chat 具备较强的多语言能力。例如，Kimi Chat 在中文上具备显著优势，实际使用效果能够支持约 20 万汉字的上下文，比 Anthropic 公司的 Claude-100k 和 OpenAI 公司的 GPT-4-32k 的中文处理能力更强（2024 年 01 月 30 日）。
 
@@ -126,7 +126,7 @@ Kimi Chat 拥有大容量知识，可以进行智能闲聊、解答问题、提�
 
 ![倾城之链 - Vapor | The future of web development](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vapor.codes.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vapor](https://nicelinks.site/redirect?url=https://vapor.codes/) 是一个基于 [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) 语言编写的开源 Web [框架](https://nicelinks.site/tags/框架) ，专为服务器端开发设计。它基于 Apple 的 SwiftNIO 库，这是一个非阻塞、事件驱动的网络框架。Vapor 的目标是让开发者能够使用 Swift 语言的强大功能来构建高性能的 Web 应用、API、 [HTTP](https://nicelinks.site/tags/HTTP) 服务器和后端服务。以下是 Vapor 的一些关键特性和优势：
+**推荐语**：[Vapor](https://vapor.codes/) 是一个基于 [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) 语言编写的开源 Web [框架](https://nicelinks.site/tags/框架) ，专为服务器端开发设计。它基于 Apple 的 SwiftNIO 库，这是一个非阻塞、事件驱动的网络框架。Vapor 的目标是让开发者能够使用 Swift 语言的强大功能来构建高性能的 Web 应用、API、 [HTTP](https://nicelinks.site/tags/HTTP) 服务器和后端服务。以下是 Vapor 的一些关键特性和优势：
 
 1.  **非阻塞和事件驱动**：Vapor 利用 SwiftNIO 的非阻塞特性，可以处理大量的并发连接，这对于构建高性能的 Web 服务至关重要。
 2.  **Swift 语言**：Vapor 使用 Swift 语言，它以其安全性、易学性和现代编程特性而闻名。Swift 的类型安全和协议导向设计使得编写和维护服务器端代码更加容易。
@@ -138,7 +138,7 @@ Kimi Chat 拥有大容量知识，可以进行智能闲聊、解答问题、提�
 8.  **赞助支持**：Vapor 通过 GitHub Sponsors 接受赞助，所有贡献都会用于支持框架的发展。赞助者还可以获得一些奖励。
 9.  **合作伙伴**：Vapor 与一些公司建立了合作伙伴关系，如 Broken Hands（提供 Vapor 培训和咨询服务）和 Emerge Tools（提供移动应用开发工具）。
 
-Vapor 的官方网站提供了 [快速入门指南](https://nicelinks.site/redirect?url=https://docs.vapor.codes/) 、API 文档、教程和社区资源，帮助开发者开始使用 Vapor 进行服务器端开发。Vapor 是一个值得考虑的选择，如果你对使用 Swift 进行服务器端开发感兴趣，可移步至 [Vapor 在 Github 开源仓库](https://github.com/vapor/vapor) ，了解更多。
+Vapor 的官方网站提供了 [快速入门指南](https://docs.vapor.codes/) 、API 文档、教程和社区资源，帮助开发者开始使用 Vapor 进行服务器端开发。Vapor 是一个值得考虑的选择，如果你对使用 Swift 进行服务器端开发感兴趣，可移步至 [Vapor 在 Github 开源仓库](https://github.com/vapor/vapor) ，了解更多。
 
 ── 出自[倾城之链 - Vapor | The future of web development](https://nicelinks.site/post/65b8e2488950812ce69314c4)
 
@@ -152,7 +152,7 @@ Vapor 的官方网站提供了 [快速入门指南](https://nicelinks.site/redir
 
 ![倾城之链 - AI 红包封面生成器 ｜ AI Cover](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aicover.design.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI 红包封面生成器](https://nicelinks.site/redirect?url=https://aicover.design/) ，是一款借助 [AI](https://nicelinks.site/tags/AI) 生成 [红包](https://nicelinks.site/tags/红包) 封面的在线工具，可以用来制作精美的红包封面（微信）。一般用于庆祝中国新年。顺便说一句，虽然说这是一款付费应用，但同时它也是一个开源项目：它基于 [NextJs](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 全栈开发、 采用 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 编写前端 CSS 样式、supabase 来做数据存储，依赖 [Open AI dalle-3](https://nicelinks.site/post/6391e22878b7a1291995ff86) 处理图片生成， 采用 clerk 谷歌登录， aws s3 图片上传、 [Stripe](https://nicelinks.site/post/64524b8ac6f2367a83e85f7e) 付费支付....，如果您对该项目感兴趣， [可移步至 AI Cover 在 Github 开源仓库](https://github.com/all-in-aigc/aicover) ，从而了解更多。
+**推荐语**：[AI 红包封面生成器](https://aicover.design/) ，是一款借助 [AI](https://nicelinks.site/tags/AI) 生成 [红包](https://nicelinks.site/tags/红包) 封面的在线工具，可以用来制作精美的红包封面（微信）。一般用于庆祝中国新年。顺便说一句，虽然说这是一款付费应用，但同时它也是一个开源项目：它基于 [NextJs](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 全栈开发、 采用 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 编写前端 CSS 样式、supabase 来做数据存储，依赖 [Open AI dalle-3](https://nicelinks.site/post/6391e22878b7a1291995ff86) 处理图片生成， 采用 clerk 谷歌登录， aws s3 图片上传、 [Stripe](https://nicelinks.site/post/64524b8ac6f2367a83e85f7e) 付费支付....，如果您对该项目感兴趣， [可移步至 AI Cover 在 Github 开源仓库](https://github.com/all-in-aigc/aicover) ，从而了解更多。
 
 ── 出自[倾城之链 - AI 红包封面生成器 ｜ AI Cover](https://nicelinks.site/post/65b88d398950812ce693105b)
 
@@ -164,7 +164,7 @@ Vapor 的官方网站提供了 [快速入门指南](https://nicelinks.site/redir
 
 ![倾城之链 - Microsoft Clarity - Free Heatmaps & Session Recordings](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/clarity.microsoft.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Clarity](https://nicelinks.site/redirect?url=https://clarity.microsoft.com/) 是一款由微软提供的免费工具，用于捕获用户使用网站。安装非常简单，可以在数分钟内开始获取 [数据](https://nicelinks.site/tags/数据) 。这样，你就能根据真正的用户行为来改进网站，让用户体验更好。而且，设置非常简单（与接入 Google Analytics 类似），永久免费（官方承诺：以绝对零成本享受 Clarity 的所有功能。永远不会遇到流量限制或被迫升级到付费版本）！Clarity 主要具有以下功能特征：
+**推荐语**：[Clarity](https://clarity.microsoft.com/) 是一款由微软提供的免费工具，用于捕获用户使用网站。安装非常简单，可以在数分钟内开始获取 [数据](https://nicelinks.site/tags/数据) 。这样，你就能根据真正的用户行为来改进网站，让用户体验更好。而且，设置非常简单（与接入 Google Analytics 类似），永久免费（官方承诺：以绝对零成本享受 Clarity 的所有功能。永远不会遇到流量限制或被迫升级到付费版本）！Clarity 主要具有以下功能特征：
 
 1.  **热图**：自动为你的所有页面生成热图，展示用户点击的位置、忽略的内容以及滚动的距离。
 2.  **会话录制**：观察人们如何使用你的网站，探索哪些工作有效，学习哪些需要改进，并测试新想法。
@@ -174,7 +174,7 @@ Vapor 的官方网站提供了 [快速入门指南](https://nicelinks.site/redir
 
 Clarity 支持与移动应用程序的整合，提供了对原生 Android、React Native on Android、Cordova 和 Ionic 的支持，未来还会支持更多平台。此外，Clarity 扩展允许你在实时网站上直接查看**热图**，并为你正在浏览的任何页面观看最新的录制，使分析变得前所未有的简单。
 
-总之， [Clarity](https://nicelinks.site/redirect?url=https://clarity.microsoft.com/) 它**能录下人们在你网站上都做了什么**，比如：用户点了按钮，滚动到哪里，还能看到哪些地方让访客困惑。这个工具特别适合零售商、内容发布者、小企业主等，帮助他们汇总用户行为，发现趋势，共同为用户打造更好的网站体验。
+总之， [Clarity](https://clarity.microsoft.com/) 它**能录下人们在你网站上都做了什么**，比如：用户点了按钮，滚动到哪里，还能看到哪些地方让访客困惑。这个工具特别适合零售商、内容发布者、小企业主等，帮助他们汇总用户行为，发现趋势，共同为用户打造更好的网站体验。
 
 ── 出自[倾城之链 - Microsoft Clarity - Free Heatmaps & Session Recordings](https://nicelinks.site/post/65b86e388950812ce6930e5f)
 
@@ -188,7 +188,7 @@ Clarity 支持与移动应用程序的整合，提供了对原生 Android、Reac
 
 ![倾城之链 - AI工具集 | 700+ AI工具集合官网，国内外AI工具集导航大全](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ai-bot.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI 工具集](https://nicelinks.site/redirect?url=https://ai-bot.cn/) ：收录了国内外数百个 [AI](https://nicelinks.site/tags/AI) 工具，包括 AI 写作工具、AI 图像生成和背景移除、AI 视频制作、AI 音频转录、AI 辅助编程、AI 音乐生成、AI 绘画设计、AI 对话聊天等 AI 工具集合大全，以及 AI 学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！
+**推荐语**：[AI 工具集](https://ai-bot.cn/) ：收录了国内外数百个 [AI](https://nicelinks.site/tags/AI) 工具，包括 AI 写作工具、AI 图像生成和背景移除、AI 视频制作、AI 音频转录、AI 辅助编程、AI 音乐生成、AI 绘画设计、AI 对话聊天等 AI 工具集合大全，以及 AI 学习开发的常用网站、框架和模型，帮助你加入人工智能浪潮，自动化高效完成任务！
 
 探索 AI 工具集在 AI 工具集网站，你可以探索到有关于 AI 的多个方面：
 
@@ -196,7 +196,7 @@ Clarity 支持与移动应用程序的整合，提供了对原生 Android、Reac
 - **AI 教程和指南**： 通过我们简单易懂的教程、指南、百科了解人工智能的来龙去脉，即使你是初学者或完全不懂 AI，也能帮助你在不断发展的人工智能领域，开发新的技能并增加你的知识。
 - **AI 新闻和快讯**： AI 工具集采用每月 3 期的 AI 快讯版面，几乎每日更新 AI 行业的大事件，让你随时了解人工智能领域的最新趋势、突破和事件，为你带来人工智能领域最重要和最令人兴奋的更新！
 
-总之， [AI 工具集](https://nicelinks.site/redirect?url=https://ai-bot.cn/) 专注于收录和推荐国内外热门、创意、有趣、前沿的 AI 工具和网站，致力于为大家提供一个快速访问任意人工智能网站的门户和入口。我们的目标是让所有人都方便快捷地探索 AI 技术，让你在个人学习、生活和工作中充分利用人工智能的潜力。该网站通过广告实现盈利；若您对广告投放感兴趣的话，请查看 [广告合作详情页](https://nicelinks.site/redirect?url=https://ai-bot.cn/advertisement/) 。
+总之， [AI 工具集](https://ai-bot.cn/) 专注于收录和推荐国内外热门、创意、有趣、前沿的 AI 工具和网站，致力于为大家提供一个快速访问任意人工智能网站的门户和入口。我们的目标是让所有人都方便快捷地探索 AI 技术，让你在个人学习、生活和工作中充分利用人工智能的潜力。该网站通过广告实现盈利；若您对广告投放感兴趣的话，请查看 [广告合作详情页](https://ai-bot.cn/advertisement/) 。
 
 ── 出自[倾城之链 - AI 工具集 | 700+ AI 工具集合官网，国内外 AI 工具集导航大全](https://nicelinks.site/post/65b7901b8950812ce6930a62)
 
@@ -208,7 +208,7 @@ Clarity 支持与移动应用程序的整合，提供了对原生 Android、Reac
 
 ![倾城之链 - Moodist: Ambient Sounds for Focus and Calm](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/moodist.vercel.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Moodist](https://nicelinks.site/redirect?url=https://moodist.vercel.app/) 是一个 [免费](https://nicelinks.site/tags/免费) 的在线环境 [声音发生器](https://nicelinks.site/tags/噪音生成器) ，用于专注和平静，提供 35 种不同类别的精心挑选的声音，从大自然的宁静旋律到城市生活的舒缓氛围（包含自然、下雨、动物、城市、地点、运输等多类情境选择）。相比其他类似网站或应用，Moodist 支持制造多种特别的白噪音并叠加，还能调节噪音音量；在午休、看书或失眠的时候加入，应该很棒；值得说明的是，该项目在 [Github 仓库开源](https://github.com/geekyouth/moodist) ，并支持基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 自行部署。如果您对该项目获该网站该兴趣，不妨移步前往从而了解更多。
+**推荐语**：[Moodist](https://moodist.vercel.app/) 是一个 [免费](https://nicelinks.site/tags/免费) 的在线环境 [声音发生器](https://nicelinks.site/tags/噪音生成器) ，用于专注和平静，提供 35 种不同类别的精心挑选的声音，从大自然的宁静旋律到城市生活的舒缓氛围（包含自然、下雨、动物、城市、地点、运输等多类情境选择）。相比其他类似网站或应用，Moodist 支持制造多种特别的白噪音并叠加，还能调节噪音音量；在午休、看书或失眠的时候加入，应该很棒；值得说明的是，该项目在 [Github 仓库开源](https://github.com/geekyouth/moodist) ，并支持基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 自行部署。如果您对该项目获该网站该兴趣，不妨移步前往从而了解更多。
 
 ── 出自[倾城之链 - Moodist: Ambient Sounds for Focus and Calm](https://nicelinks.site/post/65b529a4c101ec2afe84ac3f)
 

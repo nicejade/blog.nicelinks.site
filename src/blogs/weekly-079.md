@@ -75,7 +75,7 @@ Superblog 对您的博客进行智能优化。它预先构建您的整个博客�
 
 ### 如何安装？
 
-HTTPie 推出了用于 Web 和桌面的 HTTPie（目前处于**公测**中），终端版本的所有用户友好性，现在都包含在一个时尚的图形界面中。所以，如果您愿意的话，可以直接 [在线使用](https://nicelinks.site/redirect?url=https://httpie.io/app) ；而终端版本的 HTTPie，您可以基于太多工具来安装它，如 brew、snap、apt 等等，如果您想了解更多安装方式，可参见： [HTTPie Install](https://nicelinks.site/redirect?url=https://httpie.io/docs/cli/installation) 。
+HTTPie 推出了用于 Web 和桌面的 HTTPie（目前处于**公测**中），终端版本的所有用户友好性，现在都包含在一个时尚的图形界面中。所以，如果您愿意的话，可以直接 [在线使用](https://httpie.io/app) ；而终端版本的 HTTPie，您可以基于太多工具来安装它，如 brew、snap、apt 等等，如果您想了解更多安装方式，可参见： [HTTPie Install](https://httpie.io/docs/cli/installation) 。
 
 ```bsh
 # brew，MacOS
@@ -204,7 +204,7 @@ Yandex 的历史始于 1990 年代初——远在公司成立之前。Yandex 作
 
 Yandex 几乎一半的收入来自上下文广告，它根据网络用户的需求为产品和服务投放广告。其中 Yandex.Direct 服务是俄罗斯第一个，也是最大的基于文本的广告投放系统。除了在搜索结果页面上投放广告外，还在构成 Yandex 广告网络的数千个第三方网站上投放广告。该公司于 2002 年开始盈利，此后收入一直在持续增长。2011 年 5 月，Yandex 在纳斯达克证券交易所上市，股票代码为 YNDX。
 
-搜索一直是并且仍然是 Yandex 的核心产品，但现在我们对它的作用有了更广泛的理解：它是一种万能辅助工具、助手，是我们周围一切事物的指南。这是关于在正确的地点和时间给出正确的建议，帮助做出选择，以及完成事情的可能性。Yandex 在其网站说到：其所有产品都旨在让人们的生活更轻松、更美好。每个都可以帮助用户做一些曾经看似不可能的事情。知道 Yandex 网站的存在，是因为发现[倾城之链](https://nicelinks.site/)越来越多流量来自于 Yandex 搜索；如果您想了解更多，可移步 [Yandex — Mission](https://nicelinks.site/redirect?url=https://yandex.com/company/general_info/yandex_today)。
+搜索一直是并且仍然是 Yandex 的核心产品，但现在我们对它的作用有了更广泛的理解：它是一种万能辅助工具、助手，是我们周围一切事物的指南。这是关于在正确的地点和时间给出正确的建议，帮助做出选择，以及完成事情的可能性。Yandex 在其网站说到：其所有产品都旨在让人们的生活更轻松、更美好。每个都可以帮助用户做一些曾经看似不可能的事情。知道 Yandex 网站的存在，是因为发现[倾城之链](https://nicelinks.site/)越来越多流量来自于 Yandex 搜索；如果您想了解更多，可移步 [Yandex — Mission](https://yandex.com/company/general_info/yandex_today)。
 
 ── 出自[倾城之链 - Yandex](https://nicelinks.site/post/62fa2a0b28190628135d675a)
 

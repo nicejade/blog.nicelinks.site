@@ -12,7 +12,7 @@
 
 ![倾城之链 - Create beautiful images of your code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ray.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Create beautiful images of your code](https://nicelinks.site/redirect?url=https://ray.so/) 是一个可以帮助你**创建和分享**源代码美丽图像的小工具；类似于 [Carbon](https://nicelinks.site/post/5a92df875894d742c4050c90)。它由 [Raycast](https://nicelinks.site/redirect?url=https://raycast.com/) 团队构建，支持从多种语法颜色中进行选择，隐藏或显示背景，修改 Padding 颜色，拖拽改变图片宽度，以及在深色和浅色窗口之间切换；另外，您还可以使用键盘快捷键来加快处理速度。
+**推荐语**：[Create beautiful images of your code](https://ray.so/) 是一个可以帮助你**创建和分享**源代码美丽图像的小工具；类似于 [Carbon](https://nicelinks.site/post/5a92df875894d742c4050c90)。它由 [Raycast](https://raycast.com/) 团队构建，支持从多种语法颜色中进行选择，隐藏或显示背景，修改 Padding 颜色，拖拽改变图片宽度，以及在深色和浅色窗口之间切换；另外，您还可以使用键盘快捷键来加快处理速度。
 
 ── 出自[倾城之链 - Create beautiful images of your code](https://nicelinks.site/post/609d1c43a0289c0663f94dc4)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - 分享笔记 · ShareNote](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sharenote.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[分享笔记 · ShareNote](https://nicelinks.site/redirect?url=https://sharenote.app/) 是一个简单好用的文字分享工具（目前仍在测试阶段）。该工具起源在于，作者认为“在社交平台上想要优雅地分享一段文字，经常非常头疼“。有受到代码片段分享工具 [ray.so](https://nicelinks.site/redirect?url=https://ray.so/) 的启发，该作者做了一款**文字生成图片**的分享工具。提供多种主题样式，支持移动端样式、添加头图（顶部图片）、日期 📅 等显示效果。
+**推荐语**：[分享笔记 · ShareNote](https://sharenote.app/) 是一个简单好用的文字分享工具（目前仍在测试阶段）。该工具起源在于，作者认为“在社交平台上想要优雅地分享一段文字，经常非常头疼“。有受到代码片段分享工具 [ray.so](https://ray.so/) 的启发，该作者做了一款**文字生成图片**的分享工具。提供多种主题样式，支持移动端样式、添加头图（顶部图片）、日期 📅 等显示效果。
 
 ── 出自[倾城之链 - 分享笔记 · ShareNote](https://nicelinks.site/post/609d1730a0289c0663f94dc2)
 
@@ -36,7 +36,7 @@
 
 ![倾城之链 - Video chat with real-time collaboration - DucklyMenu icon](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/duckly.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Deathly](https://nicelinks.site/redirect?url=https://duckly.com/) 是一个为软件团队打造的视频聊天工具，可以让你实时交谈和协作，超越屏幕共享和聊天功能。[Deathly](https://nicelinks.site/redirect?url=https://duckly.com/) 使团队能够实时地与任何网站，localhost，IDE 或甚至终端会话的类似 [Figma](https://nicelinks.site/tags/Figma) 的体验，达成快速共享和合作。[Deathly](https://nicelinks.site/redirect?url=https://duckly.com/) 具有以下功能特征：
+**推荐语**：[Deathly](https://duckly.com/) 是一个为软件团队打造的视频聊天工具，可以让你实时交谈和协作，超越屏幕共享和聊天功能。[Deathly](https://duckly.com/) 使团队能够实时地与任何网站，localhost，IDE 或甚至终端会话的类似 [Figma](https://nicelinks.site/tags/Figma) 的体验，达成快速共享和合作。[Deathly](https://duckly.com/) 具有以下功能特征：
 
 ### 共同浏览
 
@@ -58,9 +58,9 @@
 
 ![倾城之链 - Quickchat - AI Assistants that talk like a Human](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.quickchat.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Quickchat](https://nicelinks.site/redirect?url=https://www.quickchat.ai/) 是像人类一样说话的多语言 AI 助手，它开箱即用，伴随着惊人的会话技巧和一般知识。通过提供有关公司，产品或项目的知识来培训您的用例。不需要编码！[Quickchat](https://nicelinks.site/redirect?url=https://www.quickchat.ai/) 可与任何网站，Messenger，Whatsapp 和更多集成。
+**推荐语**：[Quickchat](https://www.quickchat.ai/) 是像人类一样说话的多语言 AI 助手，它开箱即用，伴随着惊人的会话技巧和一般知识。通过提供有关公司，产品或项目的知识来培训您的用例。不需要编码！[Quickchat](https://www.quickchat.ai/) 可与任何网站，Messenger，Whatsapp 和更多集成。
 
-[Quickchat](https://nicelinks.site/redirect?url=https://www.quickchat.ai/) 是一款完全对话和多语言的 AI 助手，由 [Open AI](https://nicelinks.site/redirect?url=https://openai.com/) GPT-3（一种具有 1750 亿个参数的最新语言模型）提供支持。Quickchat 聊天机器人可以识别并说出您的母语。您可以使用它来自动化您的客户支持，在线应用程序，搜索内部知识库和许多其他任务 ── 有无穷 ∞ 多可能性；如果您想了解更多，可参见 [Quickchat 产品说明](https://nicelinks.site/redirect?url=https://www.quickchat.ai/product)。
+[Quickchat](https://www.quickchat.ai/) 是一款完全对话和多语言的 AI 助手，由 [Open AI](https://openai.com/) GPT-3（一种具有 1750 亿个参数的最新语言模型）提供支持。Quickchat 聊天机器人可以识别并说出您的母语。您可以使用它来自动化您的客户支持，在线应用程序，搜索内部知识库和许多其他任务 ── 有无穷 ∞ 多可能性；如果您想了解更多，可参见 [Quickchat 产品说明](https://www.quickchat.ai/product)。
 
 ── 出自[倾城之链 - Quickchat - AI Assistants that talk like a Human](https://nicelinks.site/post/609bd280a0289c0663f94dbe)
 
@@ -72,11 +72,11 @@
 
 ![倾城之链 - Free online photo editor - PhotoKit.com](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/photokit.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Photokit](https://nicelinks.site/redirect?url=https://photokit.com/) 是基于 AI 的在线照片编辑器；[Photokit](https://nicelinks.site/redirect?url=https://photokit.com/) 集成了功能强大的在线照片编辑器，智能画笔，图像质量增强，曝光修复和图像滤镜，拼接，裁切，变换，绘画，调整大小，并且可以添加文本，形状，标签，框架，圆角等。无需下载，您可以一键在线剪切，修改和修饰图像。它具有以下特性功能：
+**推荐语**：[Photokit](https://photokit.com/) 是基于 AI 的在线照片编辑器；[Photokit](https://photokit.com/) 集成了功能强大的在线照片编辑器，智能画笔，图像质量增强，曝光修复和图像滤镜，拼接，裁切，变换，绘画，调整大小，并且可以添加文本，形状，标签，框架，圆角等。无需下载，您可以一键在线剪切，修改和修饰图像。它具有以下特性功能：
 
 ### 删除图像的背景。
 
-[Photokit](https://nicelinks.site/redirect?url=https://photokit.com/) 具有更丰富的前景识别类型和更精细的边缘细节。一键单击将在 5 秒钟内自动删除 100％ 的背景。
+[Photokit](https://photokit.com/) 具有更丰富的前景识别类型和更精细的边缘细节。一键单击将在 5 秒钟内自动删除 100％ 的背景。
 
 ### 神奇地从图像中删除对象
 
@@ -102,7 +102,7 @@ PhotoKit 曝光修复可以通过一键控制曝光量，使被摄对象的亮�
 
 ![倾城之链 - 古诗名句_诗词名句大全_古诗词大全_古诗词网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.gushici.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[古诗词网](https://nicelinks.site/redirect?url=https://www.gushici.com/)是提供古诗词内容相关网站；您可以根据自己需要检索诗词；网站按照诗词类型、朝代、作者、形式（诗、词、曲、文言文）做了分类；除此外，还依据诗词、作者、名句做了推荐。更棒的是，该网站不仅对收录的诗词，做了插图、译文以及注释，而且还讲明了创作背景和鉴赏。更棒的是，还根据当前的诗词，做了相关推荐。如果您是古诗词爱好者，[古诗词网](https://nicelinks.site/redirect?url=https://www.gushici.com/)是您非常值得关注的网站。
+**推荐语**：[古诗词网](https://www.gushici.com/)是提供古诗词内容相关网站；您可以根据自己需要检索诗词；网站按照诗词类型、朝代、作者、形式（诗、词、曲、文言文）做了分类；除此外，还依据诗词、作者、名句做了推荐。更棒的是，该网站不仅对收录的诗词，做了插图、译文以及注释，而且还讲明了创作背景和鉴赏。更棒的是，还根据当前的诗词，做了相关推荐。如果您是古诗词爱好者，[古诗词网](https://www.gushici.com/)是您非常值得关注的网站。
 
 ── 出自[倾城之链 - 古诗名句*诗词名句大全*古诗词大全\_古诗词网](https://nicelinks.site/post/609bc08ea0289c0663f94dba)
 
@@ -114,7 +114,7 @@ PhotoKit 曝光修复可以通过一键控制曝光量，使被摄对象的亮�
 
 ![倾城之链 - 兴趣小组](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.xqxz.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[兴趣小组](https://nicelinks.site/redirect?url=https://www.xqxz.cn/)是一个聚集各种各样兴趣爱好的小社区，我们聚集在此，只因为有着同样的兴趣与爱好，在这里我们都是互相的同学，我们互相分享、学习、交流、一起成长！其愿景是：构建一个理想的社区（真诚、诚实、善良），像是图书馆一样，做好归类分组后，由你选择阅读，而不会使用推荐算法，控制你的阅读偏好（不讨论娱乐八卦新闻）。
+**推荐语**：[兴趣小组](https://www.xqxz.cn/)是一个聚集各种各样兴趣爱好的小社区，我们聚集在此，只因为有着同样的兴趣与爱好，在这里我们都是互相的同学，我们互相分享、学习、交流、一起成长！其愿景是：构建一个理想的社区（真诚、诚实、善良），像是图书馆一样，做好归类分组后，由你选择阅读，而不会使用推荐算法，控制你的阅读偏好（不讨论娱乐八卦新闻）。
 
 ── 出自[倾城之链 - 兴趣小组](https://nicelinks.site/post/6096a17a9947e6213fe43aac)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道，或添加如下客服微信），🤲 。

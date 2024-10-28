@@ -2,7 +2,7 @@
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [f.lux: software to make your life better](https://nicelinks.site/redirect?url=https://justgetflux.com/)
+## [f.lux: software to make your life better](https://justgetflux.com/)
 
 **标签**：[产品](https://nicelinks.site/theme/product)  · [软件](https://nicelinks.site/tags/%E8%BD%AF%E4%BB%B6) · [产品](https://nicelinks.site/tags/%E4%BA%A7%E5%93%81) · [健康](https://nicelinks.site/tags/%E5%81%A5%E5%BA%B7)
 
@@ -10,13 +10,13 @@
 
 ![f.lux: software to make your life better 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/justgetflux.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：** [f.lux](https://nicelinks.site/redirect?url=https://justgetflux.com/) ，是一个免费电脑软件，它根据用户定义的`经纬度`、邮编或**城市名称所在的位置**，以及一天当中的**时间**，来调整电脑显示器的**色温**。软件被设计用来减少夜晚由使用电脑所产生的睡眠紊乱和失眠现象，并在白天使人保持兴奋的状态。该兼容绝大多数主流操作系统（如：Windows、Mac OS X、Linux 以及 iOS 版本（需越狱）），作者是 Michael 和 Lorna Herf。
+**推荐语：** [f.lux](https://justgetflux.com/) ，是一个免费电脑软件，它根据用户定义的`经纬度`、邮编或**城市名称所在的位置**，以及一天当中的**时间**，来调整电脑显示器的**色温**。软件被设计用来减少夜晚由使用电脑所产生的睡眠紊乱和失眠现象，并在白天使人保持兴奋的状态。该兼容绝大多数主流操作系统（如：Windows、Mac OS X、Linux 以及 iOS 版本（需越狱）），作者是 Michael 和 Lorna Herf。
 
 f.lux 能够全天候使电脑屏幕与所在环境的光线协调一致。当太阳落山，它会使屏幕看起来就像室内光线一样柔和。而在白天，它又能使屏幕看起来和日光一样明亮。它的工作方式是：调节电脑显示器的颜色，使之适应使用者一天内的生物钟规律，夜晚使用**祥和的暖色调**，白天则是像日光一样爽快的白色。
 
-f.lux 只调节色温而对屏幕的亮度、饱和度、对比度等对视力损伤较大的硬件指标没有影响。因此它在保护视力方面效果并不突出，其主要的作用是：**通过颜色来影响人的情绪，进而调节人的内分泌，稳定生物节律，改善睡眠质量，提高工作活力**。虽然说 f.lux 传递的这种理念，有待科学作证；但多年编程工作以来，有  [f.lux](https://nicelinks.site/redirect?url=https://justgetflux.com/)  陪伴左右，感觉良好。如果您也需要长时间使用电脑、手机屏幕，强烈推荐尝试。 ── 出自[倾城之链 | f.lux: software to make your life better](https://nicelinks.site/post/6321b95b6d57c401f21d6723)。
+f.lux 只调节色温而对屏幕的亮度、饱和度、对比度等对视力损伤较大的硬件指标没有影响。因此它在保护视力方面效果并不突出，其主要的作用是：**通过颜色来影响人的情绪，进而调节人的内分泌，稳定生物节律，改善睡眠质量，提高工作活力**。虽然说 f.lux 传递的这种理念，有待科学作证；但多年编程工作以来，有  [f.lux](https://justgetflux.com/)  陪伴左右，感觉良好。如果您也需要长时间使用电脑、手机屏幕，强烈推荐尝试。 ── 出自[倾城之链 | f.lux: software to make your life better](https://nicelinks.site/post/6321b95b6d57c401f21d6723)。
 
-## [Ditto clipboard manager](https://nicelinks.site/redirect?url=https://ditto-cp.sourceforge.io/)
+## [Ditto clipboard manager](https://ditto-cp.sourceforge.io/)
 
 **标签**：[利器](https://nicelinks.site/theme/tools) · [Windows](https://nicelinks.site/tags/Windows) · [剪贴板](https://nicelinks.site/tags/%E5%89%AA%E8%B4%B4%E6%9D%BF) · [高效](https://nicelinks.site/tags/%E9%AB%98%E6%95%88)
 
@@ -26,7 +26,7 @@ f.lux 只调节色温而对屏幕的亮度、饱和度、对比度等对视力�
 
 ![Ditto clipboard manager 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ditto-cp.sourceforge.io.png?x-oss-process=style/png2jpg)
 
-**推荐语：** [Ditto](https://nicelinks.site/redirect?url=https://ditto-cp.sourceforge.io/)  是标准 Windows 系统**剪贴板**的扩展。它保存放置在剪贴板上的每个项目，以便您以后访问这些项目中的任何一个。Ditto 允许您保存可以放在剪贴板上的任何类型的信息、文本、富文本、图像、html、自定义格式；它具有以下功能特征：
+**推荐语：** [Ditto](https://ditto-cp.sourceforge.io/)  是标准 Windows 系统**剪贴板**的扩展。它保存放置在剪贴板上的每个项目，以便您以后访问这些项目中的任何一个。Ditto 允许您保存可以放在剪贴板上的任何类型的信息、文本、富文本、图像、html、自定义格式；它具有以下功能特征：
 
 - 易于使用的界面；
 - 搜索并粘贴以前的副本条目；
@@ -42,7 +42,7 @@ f.lux 只调节色温而对屏幕的亮度、饱和度、对比度等对视力�
 
 尽管 Windows 不断在升级，系统自带的**剪贴板**功能却仍然是不尽如人意，它只能保留一条记录，没有剪贴板历史，需要重复粘贴内容时效率非常低。`ditto`  是 Windows 一款免费开源的剪贴板增强软件，支持主流系统，支持中文，并且提供免安装绿色版。你只需像往常一些复制东西，然后按下  ` Ctrl + `` `  (数字 1 前面那个按键)，就能唤出它的界面，里面记录了所有历史复制内容，你可以选择性进行粘贴，非常搞笑，而且能避免丢失数据。除此之外，它还提供了「**剪贴板搜索**」功能，从而避免了保存内容过多，难以选择的痛点。如果，您使用 Windows 系统，`ditto`  可以算是一款工作必备软件。── 出自[倾城之链 | Ditto clipboard manager](https://nicelinks.site/post/6321b8746d57c401f21d6721)。
 
-## [WantWords 反向词典](https://nicelinks.site/redirect?url=https://wantwords.net/)
+## [WantWords 反向词典](https://wantwords.net/)
 
 **标签**：[利器](https://nicelinks.site/theme/tools)  · [服务](https://nicelinks.site/tags/%E6%9C%8D%E5%8A%A1)[AI](https://nicelinks.site/tags/AI) · [工具](https://nicelinks.site/tags/%E5%B7%A5%E5%85%B7)
 
@@ -52,7 +52,7 @@ f.lux 只调节色温而对屏幕的亮度、饱和度、对比度等对视力�
 
 ![WantWords 反向词典 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wantwords.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WantWords 反向词典](https://nicelinks.site/redirect?url=https://wantwords.net/) ，是一款支持中文及中英跨语言查询的**反向词典系统**，即可以通过**描述意思**来查找词语（一般是通过`词语`来查询意思）。WantWords 由清华大学自然语言处理实验室出品，基于先进的人工智能（AI）和自然语言处理算法实现。
+**推荐语**：[WantWords 反向词典](https://wantwords.net/) ，是一款支持中文及中英跨语言查询的**反向词典系统**，即可以通过**描述意思**来查找词语（一般是通过`词语`来查询意思）。WantWords 由清华大学自然语言处理实验室出品，基于先进的人工智能（AI）和自然语言处理算法实现。
 
 具体来说，输入“感觉身体被掏空”这句，就可以得出 100 个相关词语，比如：空虚、枵、索索、空空洞洞、阒、洫、悬、空怀、虚、空心、干、豁、失落感等等（从给出的答案来看，似乎并不能及时跟上其时代性语意）。再比如输入“早上睡不醒”，可得到：睡懒觉、打瞌睡、瞌睡、发困、失眠、夜不成寐、熬夜、犯困、困觉、小睡等词语。
 
@@ -66,7 +66,7 @@ WantWords，对于给出的结果，支持以词性（名词、动词、形容�
 
 ![倾城之链 - SolidJS | Simple and performant reactivity for building user interfaces](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.solidjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SolidJS](https://nicelinks.site/redirect?url=https://www.solidjs.com/) 是用于构建用户界面的**声明式**、高效且灵活的 JavaScript 库。它没有使用`虚拟 DOM`（Virtual dom），而是将其模板编译为真实的 DOM 节点，并使用细粒度的反应更新它们。声明你的状态，并在整个应用程序中使用它，当一个状态发生变化时，只有依赖它的代码会重新运行。它具有以下功能特征：
+**推荐语**：[SolidJS](https://www.solidjs.com/) 是用于构建用户界面的**声明式**、高效且灵活的 JavaScript 库。它没有使用`虚拟 DOM`（Virtual dom），而是将其模板编译为真实的 DOM 节点，并使用细粒度的反应更新它们。声明你的状态，并在整个应用程序中使用它，当一个状态发生变化时，只有依赖它的代码会重新运行。它具有以下功能特征：
 
 - 对真实 DOM 的细粒度更新；
 - **声明性数据**：将您的状态建模为具有反应原语的系统；
@@ -80,7 +80,7 @@ WantWords，对于给出的结果，支持以词性（名词、动词、形容�
 - 通用：编写自定义渲染器以在任何地方使用 Solid；
 - 一个不断发展的社区和生态系统，拥有积极的核心团队支持；
 
-在 Web 开发领域，已经有了 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 等流行框架；为何要选择 [SolidJS](https://nicelinks.site/redirect?url=https://www.solidjs.com/) ？官方给出了以下答案：
+在 Web 开发领域，已经有了 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 等流行框架；为何要选择 [SolidJS](https://www.solidjs.com/) ？官方给出了以下答案：
 
 ### 高性能
 
@@ -98,7 +98,7 @@ Solid 功能齐全，具备现代框架所能提供的一切功能。上下文�
 
 Solid 建立在 JSX 和 TypeScript 等成熟工具之上，并与 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 生态系统集成。Solid 的裸机、最小抽象让您可以直接访问 DOM，从而轻松使用您喜欢的原生 JavaScript 库，如 D3。Solid 生态系统正在快速发展，具有自定义原语、组件库和构建时实用程序，可让您以新的方式编写 Solid 代码。
 
-Solid 站在巨人的肩膀上，尤其是 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 和 Knockout。如果您之前使用过 React Hooks 进行开发，Solid 应该看起来很自然。事实上，Solid 的模型更自然，没有 Hook 规则，更简单。每个组件都会执行一次，而 Hooks 和绑定会随着它们的依赖关系更新而执行多次。Solid 遵循与 React 相同的理念，具有单向数据流、读/写隔离和不可变接口。然而，它有一个完全不同的实现，它放弃了使用虚拟 DOM。如果您对 Solid 感兴趣，可以前往 [Solid 入门指南](https://nicelinks.site/redirect?url=https://www.solidjs.com/guides/getting-started) ，以了解更多。
+Solid 站在巨人的肩膀上，尤其是 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 和 Knockout。如果您之前使用过 React Hooks 进行开发，Solid 应该看起来很自然。事实上，Solid 的模型更自然，没有 Hook 规则，更简单。每个组件都会执行一次，而 Hooks 和绑定会随着它们的依赖关系更新而执行多次。Solid 遵循与 React 相同的理念，具有单向数据流、读/写隔离和不可变接口。然而，它有一个完全不同的实现，它放弃了使用虚拟 DOM。如果您对 Solid 感兴趣，可以前往 [Solid 入门指南](https://www.solidjs.com/guides/getting-started) ，以了解更多。
 
 ── 出自[倾城之链 - SolidJS | Simple and performant reactivity for building user interfaces](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)
 
@@ -110,7 +110,7 @@ Solid 站在巨人的肩膀上，尤其是 [React](https://nicelinks.site/post/5
 
 ![倾城之链 - Day.js · 2kB JavaScript date utility library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/day.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Day.js](https://nicelinks.site/redirect?url=https://day.js.org/) ，Day.js 是一个极简的 JavaScript 库，它解析、验证、操作和显示现代浏览器的日期和时间；具有很大程度上与 Moment.js 兼容的 API，是 Moment.js 的替代品。如果您使用 Moment.js，那么您已经知道如何使用 Day.js。**为什么推荐使用 Day.js**？因为它具有以下优点：
+**推荐语**：[Day.js](https://day.js.org/) ，Day.js 是一个极简的 JavaScript 库，它解析、验证、操作和显示现代浏览器的日期和时间；具有很大程度上与 Moment.js 兼容的 API，是 Moment.js 的替代品。如果您使用 Moment.js，那么您已经知道如何使用 Day.js。**为什么推荐使用 Day.js**？因为它具有以下优点：
 
 ### 体积小，仅 2kB
 
@@ -128,7 +128,7 @@ Day.js 是一个极简的 JavaScript 库，它解析、验证、操作和显示�
 
 Day.js 对国际化有很大的支持。但是除非您使用它们，否则它们都不会包含在您的构建中。
 
-Moment.js 是知名 JavaScript 日期处理类库，但它那巨大包体积，令负责任的前端开发者望而却步；相比之下，强烈推荐的 [Day.js](https://nicelinks.site/redirect?url=https://day.js.org/) ——不仅具有以上优点，而且 👫 支持所有浏览器，即便是在`小程序`、[快应用](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)开发中，同样适用。
+Moment.js 是知名 JavaScript 日期处理类库，但它那巨大包体积，令负责任的前端开发者望而却步；相比之下，强烈推荐的 [Day.js](https://day.js.org/) ——不仅具有以上优点，而且 👫 支持所有浏览器，即便是在`小程序`、[快应用](https://nicelinks.site/post/5b5fb5bc615bf842b609105f)开发中，同样适用。
 
 ── 出自[倾城之链 - Day.js · 2kB JavaScript date utility library](https://nicelinks.site/post/632857507d17c63098aa7082)
 

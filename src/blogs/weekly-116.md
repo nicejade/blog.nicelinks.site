@@ -10,7 +10,7 @@
 
 ![倾城之链 - Auto-GPT | An experimental open-source attempt to make GPT-4 fully autonomous](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/agpt.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 是一个实验性 [开源](https://nicelinks.site/tags/开源) 应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM（Large Language Model：大语言模型） 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 [AI](https://nicelinks.site/tags/AI) 的可能性界限。官方描述它具有以下特征：
+**推荐语**：[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 是一个实验性 [开源](https://nicelinks.site/tags/开源) 应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM（Large Language Model：大语言模型） 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 [AI](https://nicelinks.site/tags/AI) 的可能性界限。官方描述它具有以下特征：
 
 - 🌐 用于搜索和信息收集的 Internet 访问；
 - 💾 长期和短期记忆管理；
@@ -19,9 +19,9 @@
 - 🗃️ 使用 GPT-3.5 进行文件存储和汇总；
 - 🔌 插件的可扩展性；
 
-关于 [Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 更详尽的介绍：它利用 GPT4 作为大脑，利用 langchain 的链接思想，把 Google 等工具链接起来，以完成人类给予的任务。人类只需要给它设置一个目标，它就会自主规划出任务，并一步步地执行任务。如果在执行任务中遇到问题，会自主地拆解子任务，并一步步地执行。
+关于 [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 更详尽的介绍：它利用 GPT4 作为大脑，利用 langchain 的链接思想，把 Google 等工具链接起来，以完成人类给予的任务。人类只需要给它设置一个目标，它就会自主规划出任务，并一步步地执行任务。如果在执行任务中遇到问题，会自主地拆解子任务，并一步步地执行。
 
-短短一月时间， [Auto-GPT](https://nicelinks.site/redirect?url=https://github.com/Significant-Gravitas/Auto-GPT) 在 Github 获得的 Star 就从三位数，飙升至六位数 ──123K（2023/05/04）而且在持续上涨中；业界人员更是争相推荐，其火热程度可见一斑；尽管大家认为这只是个开始。
+短短一月时间， [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 在 Github 获得的 Star 就从三位数，飙升至六位数 ──123K（2023/05/04）而且在持续上涨中；业界人员更是争相推荐，其火热程度可见一斑；尽管大家认为这只是个开始。
 
 ### 如何快速开始
 
@@ -44,7 +44,7 @@
   - 搜索：可以用 Google、Bing 等搜索；
   - 学习：靠观察 Google 的结果自己进行分析推理；
   - 记忆：可以用向量数据库，有了记忆就可以 Reflection，解决 LLM 的单向输出问题；
-  - 干活：充分利用网络现成 API、工具、 [HuggingFace](https://nicelinks.site/redirect?url=https://huggingface.co/) 上成熟模型等；
+  - 干活：充分利用网络现成 API、工具、 [HuggingFace](https://huggingface.co/) 上成熟模型等；
 
 AutoGPT 所做的事情就是把电脑的控制权、向量空间的云存储、各种工具的 API 交给了 AI。
 
@@ -84,7 +84,7 @@ python scripts/main.py --gpt3only
 
 ![倾城之链 - Taxonomy | 使用 Next.js 13 服务器组件构建的示例应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tx.shadcn.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Taxonomy](https://nicelinks.site/redirect?url=https://tx.shadcn.com/) ，使用 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 13 服务器组件构建的示例应用程序，该项目是一个实验，旨在了解具有身份验证、订阅、API 路由和静态页面等功能的现代应用程序如何在 Next.js 13 应用程序目录中工作。它具有以下特征：
+**推荐语**：[Taxonomy](https://tx.shadcn.com/) ，使用 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 13 服务器组件构建的示例应用程序，该项目是一个实验，旨在了解具有身份验证、订阅、API 路由和静态页面等功能的现代应用程序如何在 Next.js 13 应用程序目录中工作。它具有以下特征：
 
 - Next.js 13：应用程序目录、路由、布局、加载 UI 和 API 路由。
 - [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 18：服务器和客户端组件。使用挂钩。
@@ -105,7 +105,7 @@ Taxonomy 还包括一个博客和一个使用 [Contentlayer](https://www.content
 
 ![倾城之链 - Free Online Form Builder | Tally](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tally.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tally](https://nicelinks.site/redirect?url=https://tally.so/) ，免费在线表单生成器；它是创建免费表单和问卷调查的最简单方法。在几秒钟内创建任何类型的表单，不需要懂得编码，即可免费使用；它提供强大的功能，譬如：无限形式、无限提交、收款、上传文件、自定义“谢谢”页面、电子邮件通知、完成时重定向、形式逻辑、计算器、隐藏字段、回答管道、安排一个截止日期、关闭提交限制、自定义关闭消息、概念整合、空气表整合、Zapier 集成、进行整合、谷歌表格集成、网络钩子等等。 [Tally](https://nicelinks.site/redirect?url=https://tally.so/) 具有以下功能特征：
+**推荐语**：[Tally](https://tally.so/) ，免费在线表单生成器；它是创建免费表单和问卷调查的最简单方法。在几秒钟内创建任何类型的表单，不需要懂得编码，即可免费使用；它提供强大的功能，譬如：无限形式、无限提交、收款、上传文件、自定义“谢谢”页面、电子邮件通知、完成时重定向、形式逻辑、计算器、隐藏字段、回答管道、安排一个截止日期、关闭提交限制、自定义关闭消息、概念整合、空气表整合、Zapier 集成、进行整合、谷歌表格集成、网络钩子等等。 [Tally](https://tally.so/) 具有以下功能特征：
 
 ### 收集任何类型的数据
 
@@ -123,7 +123,7 @@ Taxonomy 还包括一个博客和一个使用 [Contentlayer](https://www.content
 
 组织工作区中的表单，与您的团队协作并管理访问权限。
 
-[Tally](https://nicelinks.site/redirect?url=https://tally.so/) ，使每个人（创作者、产品、营销、人力资源部、办公室、个人旅游规划）都可以使用表单构建。根据您的需要探索、挑选和自定义模板。Tally 完全免费使用，如果您想为事情增添趣味，可使用 Tally Pro（29 美元/月 或 290 美元/年）。如果您对 Tally 这款产品感兴趣，可以移步 [Tally FAQ](https://tally.so/help/faq) 以了解更多。
+[Tally](https://tally.so/) ，使每个人（创作者、产品、营销、人力资源部、办公室、个人旅游规划）都可以使用表单构建。根据您的需要探索、挑选和自定义模板。Tally 完全免费使用，如果您想为事情增添趣味，可使用 Tally Pro（29 美元/月 或 290 美元/年）。如果您对 Tally 这款产品感兴趣，可以移步 [Tally FAQ](https://tally.so/help/faq) 以了解更多。
 
 ── 出自[倾城之链 - Free Online Form Builder | Tally](https://nicelinks.site/post/645364ffc6f2367a83e86778)
 
@@ -135,7 +135,7 @@ Taxonomy 还包括一个博客和一个使用 [Contentlayer](https://www.content
 
 ![倾城之链 - DeepLearning.AI: Start or Advance Your Career in AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.deeplearning.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DeepLearning.AI](https://nicelinks.site/redirect?url=https://www.deeplearning.ai/) 是一家教育技术公司，通过世界一流的教育、实践培训和协作社区，让全球员工能够构建人工智能驱动的未来。该品牌由 [机器学习](https://nicelinks.site/tags/机器学习) 和教育先驱吴恩达于 2017 年创立，旨在满足世界级人工智能教育的需求。
+**推荐语**：[DeepLearning.AI](https://www.deeplearning.ai/) 是一家教育技术公司，通过世界一流的教育、实践培训和协作社区，让全球员工能够构建人工智能驱动的未来。该品牌由 [机器学习](https://nicelinks.site/tags/机器学习) 和教育先驱吴恩达于 2017 年创立，旨在满足世界级人工智能教育的需求。
 
 DeepLearning.AI 在 Coursera 上创建了高质量的 [人工智能](https://nicelinks.site/tags/AI) 程序，在全球范围内获得了广泛的关注。通过提供教育平台和培养紧密联系的社区，DeepLearning.AI 已成为任何希望从事 AI 职业的人的途径。
 
@@ -151,7 +151,7 @@ DeepLearning.AI 提供的课程有： [面向开发人员的 ChatGPT 提示工�
 
 ![倾城之链 - Prisma | Next-generation ORM for Node.js & TypeScript](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.prisma.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Prisma](https://nicelinks.site/redirect?url=https://www.prisma.io/) ，用于 Node.js 和 TypeScript 的下一代 ORM（Object / Relational Mapping）它可以帮助开发者以更快的开发速度和更少的错误来管理数据库，适用于 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB。由于其直观的数据模型、自动迁移、类型安全和自动完成，Prisma 在使用数据库时将**开发人员体验提升到一个新的水平**。Prisma 由以下工具组成：
+**推荐语**：[Prisma](https://www.prisma.io/) ，用于 Node.js 和 TypeScript 的下一代 ORM（Object / Relational Mapping）它可以帮助开发者以更快的开发速度和更少的错误来管理数据库，适用于 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB。由于其直观的数据模型、自动迁移、类型安全和自动完成，Prisma 在使用数据库时将**开发人员体验提升到一个新的水平**。Prisma 由以下工具组成：
 
 - **Prisma Client**：是一个为您的模式量身定制的查询构建器。Prisma 团队将其 API 设计得非常直观，既适合 SQL 老手，也适合刚接触数据库的开发人员。自动完成功能可帮助您在不需要文档的情况下找出您的查询。
 - **Prisma Migrate**：从您的 Prisma 模式自动生成 SQL 迁移。这些迁移文件是完全可定制的，为您提供从本地开发到生产环境的完全控制和最大的灵活性。
@@ -174,7 +174,7 @@ Prisma 是一款新一代的开源数据库 ORM 工具，旨在提供更好的�
 - 性能优化：Prisma 提供了优化的查询 API，使得查询数据库的效率更高。
 - 开放源代码：Prisma 是一款开源工具，可以在 GitHub 上找到其代码和文档。
 
-总之， [Prisma](https://nicelinks.site/redirect?url=https://www.prisma.io/) 是一款新一代的开源数据库 ORM 工具，旨在提供更好的数据管理和查询功能。Prisma 提供了强大的数据建模和查询 API，使得开发人员可以更轻松地处理数据库对象，并将其转换为类型安全的对象。Prisma 还具有灵活性和性能优化等特点，是一款值得开发人员使用的工具。如果您对 Prisma 感兴趣，可移步 [Prisma 在 Github 开源仓库](https://github.com/prisma/prisma) 以了解更多。
+总之， [Prisma](https://www.prisma.io/) 是一款新一代的开源数据库 ORM 工具，旨在提供更好的数据管理和查询功能。Prisma 提供了强大的数据建模和查询 API，使得开发人员可以更轻松地处理数据库对象，并将其转换为类型安全的对象。Prisma 还具有灵活性和性能优化等特点，是一款值得开发人员使用的工具。如果您对 Prisma 感兴趣，可移步 [Prisma 在 Github 开源仓库](https://github.com/prisma/prisma) 以了解更多。
 
 ── 出自[倾城之链 - Prisma | Next-generation ORM for Node.js & TypeScript](https://nicelinks.site/post/64531bfdc6f2367a83e863ff)
 
@@ -186,7 +186,7 @@ Prisma 是一款新一代的开源数据库 ORM 工具，旨在提供更好的�
 
 ![倾城之链 - AItoolkit - The best AI Tools & Resources Directory](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aitoolkit.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI Tools](https://nicelinks.site/redirect?url=https://www.aitoolkit.org/) ，人工智能（ [AI](https://nicelinks.site/tags/AI) ）工具导航网站：一个精心策划的顶级人工智能工具和资源目录，旨在帮助你简化流程，提高生产力，并推动创新。目前已经汇聚 1400 多个 AI 工具，您可以简单向下滚动查看，也可以通过网站提供的过滤器筛选类别（诸如：图像改善、营销、灵感、文案、翻译、头像、生成代码、动作捕捉、聊天、播客、生成视频、文字转视频等等）；此外， [AI Tools](https://nicelinks.site/redirect?url=https://www.aitoolkit.org/) 有根据网站的付费模型做了区分（免费、免费增值、付费），使得用户可以更快找到匹配工具。该网站目前尚在积极更新迭代中，如果您对其感兴趣，可移步 [AI Tools 推特](https://twitter.com/ai_toolkit) 以了解更多。
+**推荐语**：[AI Tools](https://www.aitoolkit.org/) ，人工智能（ [AI](https://nicelinks.site/tags/AI) ）工具导航网站：一个精心策划的顶级人工智能工具和资源目录，旨在帮助你简化流程，提高生产力，并推动创新。目前已经汇聚 1400 多个 AI 工具，您可以简单向下滚动查看，也可以通过网站提供的过滤器筛选类别（诸如：图像改善、营销、灵感、文案、翻译、头像、生成代码、动作捕捉、聊天、播客、生成视频、文字转视频等等）；此外， [AI Tools](https://www.aitoolkit.org/) 有根据网站的付费模型做了区分（免费、免费增值、付费），使得用户可以更快找到匹配工具。该网站目前尚在积极更新迭代中，如果您对其感兴趣，可移步 [AI Tools 推特](https://twitter.com/ai_toolkit) 以了解更多。
 
 ── 出自[倾城之链 - AItoolkit - The best AI Tools & Resources Directory](https://nicelinks.site/post/64531370c6f2367a83e86338)
 
@@ -198,7 +198,7 @@ Prisma 是一款新一代的开源数据库 ORM 工具，旨在提供更好的�
 
 ![倾城之链 - Stripe | Payment Processing Platform for the Internet](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/stripe.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Stripe](https://nicelinks.site/redirect?url=https://stripe.com/) 是一款在线支付处理平台，旨在为企业提供安全、简单、高效的支付解决方案。Stripe 提供了以下主要功能：
+**推荐语**：[Stripe](https://stripe.com/) 是一款在线支付处理平台，旨在为企业提供安全、简单、高效的支付解决方案。Stripe 提供了以下主要功能：
 
 1.  在线支付处理：Stripe 可以处理各种支付方式，包括信用卡、借记卡、银行转账等等。Stripe 提供了简单易用的 API，使得商家可以轻松地将 Stripe 集成到他们的网站或应用程序中。
 

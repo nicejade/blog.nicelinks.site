@@ -10,7 +10,7 @@
 
 ![倾城之链 - doyoudo | 学习可以很有趣](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.doyoudo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 一个设计领域的在线学习平台。在线教育产品中，这是一个另类的存在；确切来讲，[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 像是几个有共同爱好的伙伴，共同维护的团队博客，时不时地分享些原创的、有价值视频教程，给到想有所提升的朋友们。他们以「**学习可以很有趣**」为核心，视频教程以幽默、有趣为主调；其教程涉及不同的领域，包括平面设计、视频剪辑、动画包装、音乐制作等等；每个教程都是一个实例，看完就能跟着做出效果。值得一提的是，[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 虽然也提供付费教程，更多则是**免费**，业界良心。除了网站外，[doyoudo](https://nicelinks.site/redirect?url=https://www.doyoudo.com/) 还维护微信公众号，哔哩哔哩、YouTube 等平台账号。
+**推荐语**：[doyoudo](https://www.doyoudo.com/) 一个设计领域的在线学习平台。在线教育产品中，这是一个另类的存在；确切来讲，[doyoudo](https://www.doyoudo.com/) 像是几个有共同爱好的伙伴，共同维护的团队博客，时不时地分享些原创的、有价值视频教程，给到想有所提升的朋友们。他们以「**学习可以很有趣**」为核心，视频教程以幽默、有趣为主调；其教程涉及不同的领域，包括平面设计、视频剪辑、动画包装、音乐制作等等；每个教程都是一个实例，看完就能跟着做出效果。值得一提的是，[doyoudo](https://www.doyoudo.com/) 虽然也提供付费教程，更多则是**免费**，业界良心。除了网站外，[doyoudo](https://www.doyoudo.com/) 还维护微信公众号，哔哩哔哩、YouTube 等平台账号。
 
 ── 出自[倾城之链 - doyoudo | 学习可以很有趣](https://nicelinks.site/post/60b8e141f1837606905e1fa5)
 
@@ -24,7 +24,7 @@
 
 ![倾城之链 - TickTick: 一个帮你高效完成任务和规划时间的应用](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ticktick.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TickTick](https://nicelinks.site/redirect?url=https://ticktick.com/) 一个帮你高效完成任务和规划时间的应用，一款易于使用的一体化生产力应用程序；它通过管理待办事项、在日历上安排日程、记笔记以及将注意力集中在一个地方，帮助人们充分利用他们的生活。具体来讲，使用 [TickTick](https://nicelinks.site/redirect?url=https://ticktick.com/) 可以帮您的工作和生活，带来如下效率提升：
+**推荐语**：[TickTick](https://ticktick.com/) 一个帮你高效完成任务和规划时间的应用，一款易于使用的一体化生产力应用程序；它通过管理待办事项、在日历上安排日程、记笔记以及将注意力集中在一个地方，帮助人们充分利用他们的生活。具体来讲，使用 [TickTick](https://ticktick.com/) 可以帮您的工作和生活，带来如下效率提升：
 
 - **轻松记录大小事务**：不管是工作计划、备忘提醒，还是购物清单、旅行安排，你都能记录到 TickTick 并有序规划。
 - **再也不会忘记任何事情**：永远不必担忧错过提醒。即便是“每月最后一天还信用卡”、“到超市时提醒我买牛奶”，TickTick 都会及时提醒你。
@@ -41,7 +41,7 @@
 
 ![倾城之链 - 突字幕](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/2zimu.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[突字幕](https://nicelinks.site/redirect?url=https://2zimu.com/)是一款极简的自动加字幕工具，由[北京毛线球科技有限公司](https://nicelinks.site/redirect?url=https://www.niucodata.com/)出品（[倾城](https://nicelinks.site/)所收录的[面包多](https://nicelinks.site/post/601165ca0c71de1fb957b650)（为创作者创收）也是该公司所生产）；用户上传视频，在几分钟内即可得到字幕；它具有以下功能特征：
+**推荐语**：[突字幕](https://2zimu.com/)是一款极简的自动加字幕工具，由[北京毛线球科技有限公司](https://www.niucodata.com/)出品（[倾城](https://nicelinks.site/)所收录的[面包多](https://nicelinks.site/post/601165ca0c71de1fb957b650)（为创作者创收）也是该公司所生产）；用户上传视频，在几分钟内即可得到字幕；它具有以下功能特征：
 
 - 🚀 极速识别文字和时间轴 ，支持中文 🇨🇳/英语 🇬🇧/日语 🇯🇵；
 - 💰 超低价格，现在注册免费试用，且长期优惠；
@@ -60,9 +60,9 @@
 
 ![倾城之链 - Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fuchsia-china.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Fuchsia OS 中文社区](https://nicelinks.site/redirect?url=https://fuchsia-china.com/)是关注 Google 全新物联网操作系统 Fuchsia OS 的中文社区，提供一个完全非营利、旨在帮助学习、了解 Fuchsia OS 的开发和使用、关注最新开发进度、汇整学习教程、分享资料的一个交流社区。同时关注的内容包括 Fuchsia 系统开发、Zircon 内核、基于 Fuchsia/Flutter/Dart 的 App 开发、学习、生态搭建等等，并且负责维护 [Fuchsia 中文论坛](https://nicelinks.site/redirect?url=https://forum.fuchsia-china.com/)与 [Fuchsia 国内镜像](https://nicelinks.site/redirect?url=https://mirrors.hexang.com/)。
+**推荐语**：[Fuchsia OS 中文社区](https://fuchsia-china.com/)是关注 Google 全新物联网操作系统 Fuchsia OS 的中文社区，提供一个完全非营利、旨在帮助学习、了解 Fuchsia OS 的开发和使用、关注最新开发进度、汇整学习教程、分享资料的一个交流社区。同时关注的内容包括 Fuchsia 系统开发、Zircon 内核、基于 Fuchsia/Flutter/Dart 的 App 开发、学习、生态搭建等等，并且负责维护 [Fuchsia 中文论坛](https://forum.fuchsia-china.com/)与 [Fuchsia 国内镜像](https://mirrors.hexang.com/)。
 
-[Fuchsia](https://nicelinks.site/redirect?url=https://fuchsia.dev/) 是一套全新的操作系统，其项目定位一直在发展变化。它最初于 2016 年首次亮相于谷歌代码库与 GitHub，完全开源（项目代码可参见 [Git repositories on fuchsia](https://nicelinks.site/redirect?url=https://fuchsia.googlesource.com/)）；2017 年，谷歌 Android 工程副总裁 Dave Burke 介绍：Fuchsia 是一个早期实验项目；2018 年内部开发者证实 Fuchsia 不是一个玩具项目；2021 年 5 月，谷歌工具 Fuchsia OS 正式公开可用；Fuchsia 它有几个明显特点：并非基于 Linux 内核；其核心独立于硬件规格，使用模块化方法；因此，在未来或将有更大更多可能性。
+[Fuchsia](https://fuchsia.dev/) 是一套全新的操作系统，其项目定位一直在发展变化。它最初于 2016 年首次亮相于谷歌代码库与 GitHub，完全开源（项目代码可参见 [Git repositories on fuchsia](https://fuchsia.googlesource.com/)）；2017 年，谷歌 Android 工程副总裁 Dave Burke 介绍：Fuchsia 是一个早期实验项目；2018 年内部开发者证实 Fuchsia 不是一个玩具项目；2021 年 5 月，谷歌工具 Fuchsia OS 正式公开可用；Fuchsia 它有几个明显特点：并非基于 Linux 内核；其核心独立于硬件规格，使用模块化方法；因此，在未来或将有更大更多可能性。
 
 ── 出自[倾城之链 - Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://nicelinks.site/post/60b77405f1837606905e1f9f)
 
@@ -76,7 +76,7 @@
 
 ![倾城之链 - dowebok - 做好网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dowebok.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dowebok](https://nicelinks.site/redirect?url=https://www.dowebok.com/) 是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，旨在为用户提供代码、素材、特效、教程、模板等建站服务。从粗略体验上看，所提供的代码，主要是前端相关，如小程序、Vue、Html5 等。对于该网站所提供的「**素材**」，表示挺不错；一来是因为制作精良；二来，[Dowebok](https://nicelinks.site/redirect?url=https://www.dowebok.com/) 提供多种不同下载方式（百度网盘、本地下载、借助城通网盘会员下载等）；三，对于资源并没有做严格限制（如添加水印等），直接保存亦能使用，可以说在这个物欲横流的时代，十分良心了。
+**推荐语**：[Dowebok](https://www.dowebok.com/) 是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，旨在为用户提供代码、素材、特效、教程、模板等建站服务。从粗略体验上看，所提供的代码，主要是前端相关，如小程序、Vue、Html5 等。对于该网站所提供的「**素材**」，表示挺不错；一来是因为制作精良；二来，[Dowebok](https://www.dowebok.com/) 提供多种不同下载方式（百度网盘、本地下载、借助城通网盘会员下载等）；三，对于资源并没有做严格限制（如添加水印等），直接保存亦能使用，可以说在这个物欲横流的时代，十分良心了。
 
 ── 出自[倾城之链 - dowebok - 做好网站](https://nicelinks.site/post/60b58e5cf1837606905e1f9a)
 
@@ -90,7 +90,7 @@
 
 ![倾城之链 - 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ixigua.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[西瓜视频](https://nicelinks.site/redirect?url=https://www.ixigua.com/)是字节跳动旗下的中视频平台 ，2016 年 5 月正式上线；它以“点亮对生活的好奇心”为 Slogan。西瓜视频通过人工智能个性化推荐，源源不断地为不同人群提供优质内容，同时鼓励多样化创作，帮助每个人发现自己喜欢的视频，并帮助视频创作人们轻松地向全世界分享自己的视频作品。其视频分为：音乐、财经、影视、VLOG、农人、游戏、美食、儿童、生活、体育、文化、时尚、科技等品类。
+**推荐语**：[西瓜视频](https://www.ixigua.com/)是字节跳动旗下的中视频平台 ，2016 年 5 月正式上线；它以“点亮对生活的好奇心”为 Slogan。西瓜视频通过人工智能个性化推荐，源源不断地为不同人群提供优质内容，同时鼓励多样化创作，帮助每个人发现自己喜欢的视频，并帮助视频创作人们轻松地向全世界分享自己的视频作品。其视频分为：音乐、财经、影视、VLOG、农人、游戏、美食、儿童、生活、体育、文化、时尚、科技等品类。
 
 ── 出自[倾城之链 - 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://nicelinks.site/post/60b46c13219b1d7d88219d65)
 
@@ -102,15 +102,15 @@
 
 ![倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/houxu.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[后续](https://nicelinks.site/redirect?url=https://houxu.app/)旨在塑造有记忆的新闻。这是一个能够帮助你持续关注，并实时追踪热点事件的新闻工具。在「[后续](https://nicelinks.site/redirect?url=https://houxu.app/)」里，你可以看到当下引起广泛讨论的热点新闻，点击相关的标题可以看到具体事件的描述、相关人物和时间线。「后续」的特色就是将同一新闻事件的持续进展作为事件的推进依据，按照时间线顺序进行了整理和展示，让你能够更快、更直观地了解事件的历史和当前的状态。
+**推荐语**：[后续](https://houxu.app/)旨在塑造有记忆的新闻。这是一个能够帮助你持续关注，并实时追踪热点事件的新闻工具。在「[后续](https://houxu.app/)」里，你可以看到当下引起广泛讨论的热点新闻，点击相关的标题可以看到具体事件的描述、相关人物和时间线。「后续」的特色就是将同一新闻事件的持续进展作为事件的推进依据，按照时间线顺序进行了整理和展示，让你能够更快、更直观地了解事件的历史和当前的状态。
 
-「[后续](https://nicelinks.site/redirect?url=https://houxu.app/)」的新闻来源，皆为经过认证的官方可信信息源；包括但不限于：有新闻采编资质的各大媒体稿及视频、政府部门和公检法系统的公告、通报、经认证的事件当事人及相关专业人士的发言等，并辅以人工筛选编辑机制，所以你大可不必担心在 App 中接收到虚假新闻。
+「[后续](https://houxu.app/)」的新闻来源，皆为经过认证的官方可信信息源；包括但不限于：有新闻采编资质的各大媒体稿及视频、政府部门和公检法系统的公告、通报、经认证的事件当事人及相关专业人士的发言等，并辅以人工筛选编辑机制，所以你大可不必担心在 App 中接收到虚假新闻。
 
-[后续](https://nicelinks.site/redirect?url=https://houxu.app/) App 中的「专栏」板块，提供了后续团队悉心整理的重大且有意义的社会事件，如果你只是想简单了解「这个社会又干了些啥」，这是一个比较适合你的地方。
+[后续](https://houxu.app/) App 中的「专栏」板块，提供了后续团队悉心整理的重大且有意义的社会事件，如果你只是想简单了解「这个社会又干了些啥」，这是一个比较适合你的地方。
 
 为了节省读者追踪事件进展的精力，你可以在「后续」中关注感兴趣的事件，它会实时抓取并推送相关信息到你的「关注」信息流中，让你得以「主动在 App 中被动跟进热点新闻」。与此同时，你还能在应用中通过「趋势」一栏查看时下的热门话题，这儿你能了解到国内外发生的更多更具影响力和价值的新闻事件。
 
-需要注意的是，「后续」本身不提供任何内容，**它所呈现的大部分信息，都是通过机器人自动抓取获得，辅以部分人工编辑整合**；原则上，[后续](https://nicelinks.site/redirect?url=https://houxu.app/)不会输出基于新闻和事实以外的价值观。如何在新闻原文中，分辨观点和事实，这就要读者自己个儿了。
+需要注意的是，「后续」本身不提供任何内容，**它所呈现的大部分信息，都是通过机器人自动抓取获得，辅以部分人工编辑整合**；原则上，[后续](https://houxu.app/)不会输出基于新闻和事实以外的价值观。如何在新闻原文中，分辨观点和事实，这就要读者自己个儿了。
 
 ── 出自[倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://nicelinks.site/post/60b3a63e219b1d7d88219d63)
 

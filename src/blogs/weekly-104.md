@@ -12,7 +12,7 @@
 
 ![倾城之链 - Markdown for the component era | MDX](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mdxjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MDX](https://nicelinks.site/redirect?url=https://mdxjs.com/) ，**组件时代**的 [Markdown](https://nicelinks.site/tags/Markdown)，允许你在 markdown 内容中使用 JSX。您可以导入组件，例如交互式图表或警报，并将它们嵌入到您的内容中。这使得使用组件编写长篇内容成为一种乐趣。经过多年的努力，MDX 的第 2 版发布了，并且有很多改进。以下是亮点：
+**推荐语**：[MDX](https://mdxjs.com/) ，**组件时代**的 [Markdown](https://nicelinks.site/tags/Markdown)，允许你在 markdown 内容中使用 JSX。您可以导入组件，例如交互式图表或警报，并将它们嵌入到您的内容中。这使得使用组件编写长篇内容成为一种乐趣。经过多年的努力，MDX 的第 2 版发布了，并且有很多改进。以下是亮点：
 
 - ❤️**强大**：MDX 融合了 markdown 和 JSX 语法，完美适合基于 JSX 的项目；
 - 💻**万物皆组件**：在您的 MDX 中使用现有组件并将其他 MDX 文件导入为组件；
@@ -27,7 +27,7 @@
 - 🏃‍♀️ 编译速度至少提高 `25%`；
 - 🚴 生成的代码运行速度是原来的两倍（快 `100%`）；
 
-Markdown 是一种轻量级标记语言（该文件后缀为 `.md`），可用于将格式元素添加到纯文本文档，现在是世界上最流行的标记语言之一，Markdown 使在网络上写作变得快速和容易，任何人都能轻易学会。 [MDX](https://nicelinks.site/redirect?url=https://mdxjs.com/) （结合了 Markdown 和 JSX）允许你在 markdown 内容中使用 JSX。对于诸如强调或标题之类的常见内容，Markdown 通常感觉比 HTML 或 JSX 更自然，Markdown 通常看起来更符合预期并且更简洁，而不是 HTML；在 Web 前端项目中，尤其文档类，可以让您的工作效率、开发体验更上一层楼。
+Markdown 是一种轻量级标记语言（该文件后缀为 `.md`），可用于将格式元素添加到纯文本文档，现在是世界上最流行的标记语言之一，Markdown 使在网络上写作变得快速和容易，任何人都能轻易学会。 [MDX](https://mdxjs.com/) （结合了 Markdown 和 JSX）允许你在 markdown 内容中使用 JSX。对于诸如强调或标题之类的常见内容，Markdown 通常感觉比 HTML 或 JSX 更自然，Markdown 通常看起来更符合预期并且更简洁，而不是 HTML；在 Web 前端项目中，尤其文档类，可以让您的工作效率、开发体验更上一层楼。
 
 ── 出自[倾城之链 - Markdown for the component era | MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686)
 
@@ -39,9 +39,9 @@ Markdown 是一种轻量级标记语言（该文件后缀为 `.md`），可用�
 
 ![倾城之链 - Nextra – Next.js Static Site Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nextra.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nextra](https://nicelinks.site/redirect?url=https://nextra.site/) ，基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) （ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) ） 和 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) 的静态网站生成器，可制作漂亮的网站；它简单、强大和灵活的站点生成框架，包含您喜欢的 Next.js 的一切。Next.js，一个用于 生产环境的 React 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。
+**推荐语**：[Nextra](https://nextra.site/) ，基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) （ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) ） 和 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686) 的静态网站生成器，可制作漂亮的网站；它简单、强大和灵活的站点生成框架，包含您喜欢的 Next.js 的一切。Next.js，一个用于 生产环境的 React 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。
 
-[Nextra](https://nicelinks.site/redirect?url=https://nextra.site/) 在 Next.js 基础上再封装，引入 [pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)、[Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、[MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686)、[flexsearch](https://github.com/nextapps-de/flexsearch)、[Turbo](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)、[Shiki](https://shiki.matsu.io/)（漂亮的语法高亮库）等，使得开发更加高效、便捷，而且对链接、图片、全文搜索、暗黑主题、多语言等做了优化，开箱即用。如果您有基于 React 搭建网站的诉求，推荐 [Nextra](https://nicelinks.site/redirect?url=https://nextra.site/) 进入您首选考虑范畴。
+[Nextra](https://nextra.site/) 在 Next.js 基础上再封装，引入 [pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)、[Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、[MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686)、[flexsearch](https://github.com/nextapps-de/flexsearch)、[Turbo](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)、[Shiki](https://shiki.matsu.io/)（漂亮的语法高亮库）等，使得开发更加高效、便捷，而且对链接、图片、全文搜索、暗黑主题、多语言等做了优化，开箱即用。如果您有基于 React 搭建网站的诉求，推荐 [Nextra](https://nextra.site/) 进入您首选考虑范畴。
 
 ── 出自[倾城之链 - Nextra – Next.js Static Site Generator](https://nicelinks.site/post/63e4db7ee63ccd089dee6599)
 
@@ -53,7 +53,7 @@ Markdown 是一种轻量级标记语言（该文件后缀为 `.md`），可用�
 
 ![倾城之链 - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mobyproject.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Moby](https://nicelinks.site/redirect?url=https://mobyproject.org/) ，是 [Docker](https://nicelinks.site/tags/Docker) 创建的一个开放框架，用于组装专门的容器系统，而无需重新发明轮子。它提供了一个由数十个标准组件组成的“乐高集”，以及一个将它们组装到定制平台的框架。Moby 的核心是一个用于组装专用容器系统的框架，它提供：
+**推荐语**：[Moby](https://mobyproject.org/) ，是 [Docker](https://nicelinks.site/tags/Docker) 创建的一个开放框架，用于组装专门的容器系统，而无需重新发明轮子。它提供了一个由数十个标准组件组成的“乐高集”，以及一个将它们组装到定制平台的框架。Moby 的核心是一个用于组装专用容器系统的框架，它提供：
 
 ### 成分（Components）
 
@@ -98,9 +98,9 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 ![倾城之链 - Rectangle Mac](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rectangleapp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rectangle](https://nicelinks.site/redirect?url=https://rectangleapp.com/) 一款免费开源的 Mac 分屏软件；使用键盘快捷键或捕捉区域在 macOS 中移动和调整窗口大小。在安装和配置好 Rectangle 后，你会在菜单栏上看到它的图标，该按钮提供了常用的分屏功能，比如左右分屏、上下分屏、四角分屏、左中右分屏以及窗口大小设置等，只需要选中需要分屏的窗口，再点击相关选项就可以快速分屏。
+**推荐语**：[Rectangle](https://rectangleapp.com/) 一款免费开源的 Mac 分屏软件；使用键盘快捷键或捕捉区域在 macOS 中移动和调整窗口大小。在安装和配置好 Rectangle 后，你会在菜单栏上看到它的图标，该按钮提供了常用的分屏功能，比如左右分屏、上下分屏、四角分屏、左中右分屏以及窗口大小设置等，只需要选中需要分屏的窗口，再点击相关选项就可以快速分屏。
 
-你也可以使用快捷键来实现分屏，Rectangle 默认已经为每个分屏选项提供了快捷键，但是你还可以到软件的偏好设置中定制自己的快捷键；如果想要更方便地分屏，你还可以使用拖拽的方式管理分屏，将窗口拖动到屏幕边缘，Rectangle 就会自动为你分屏，还可以快速恢复原窗口。如果你需要在 Mac 上进行分屏操作，推荐尝试使用 [Rectangle](https://nicelinks.site/redirect?url=https://rectangleapp.com/) 。
+你也可以使用快捷键来实现分屏，Rectangle 默认已经为每个分屏选项提供了快捷键，但是你还可以到软件的偏好设置中定制自己的快捷键；如果想要更方便地分屏，你还可以使用拖拽的方式管理分屏，将窗口拖动到屏幕边缘，Rectangle 就会自动为你分屏，还可以快速恢复原窗口。如果你需要在 Mac 上进行分屏操作，推荐尝试使用 [Rectangle](https://rectangleapp.com/) 。
 
 ── 出自[倾城之链 - Rectangle Mac](https://nicelinks.site/post/63e393dce7eec03b5eaceb34)
 
@@ -112,7 +112,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 ![倾城之链 - Frond - A better way to build community online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/frond.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Frond](https://nicelinks.site/redirect?url=https://frond.com/) 是一个新的在线社区平台。因为它是从线程而不是聊天构建的，所以对话更深入、更容易跟进并自动扩展。Frond 团队相信社区是一种超级力量。无论您的目标是什么，一个有意义的社区都会让您更快地到达那里，并让旅程充满乐趣。这就是为什么他们要重新设想如何**建立在线社区**。在 Frond 中设置需要几秒钟，任何人都可以通过一个简单的链接被邀请。 [Frond](https://nicelinks.site/redirect?url=https://frond.com/) 具备以下功能特征：
+**推荐语**：[Frond](https://frond.com/) 是一个新的在线社区平台。因为它是从线程而不是聊天构建的，所以对话更深入、更容易跟进并自动扩展。Frond 团队相信社区是一种超级力量。无论您的目标是什么，一个有意义的社区都会让您更快地到达那里，并让旅程充满乐趣。这就是为什么他们要重新设想如何**建立在线社区**。在 Frond 中设置需要几秒钟，任何人都可以通过一个简单的链接被邀请。 [Frond](https://frond.com/) 具备以下功能特征：
 
 - **提醒**：有每日或每周线程吗？我们的反复提醒确保对话永远不会平息。
 - **社区模板**：我们知道你需要什么。一切都恰到好处，快速启动您的社区。
@@ -134,7 +134,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 作者对当今的社区工具感到失望：社交媒体强调我们的差异，因为它的目的是关注而不是社区。聊天工具在开始时运行良好，但随着它们的发展变得混乱和难以抗拒。并且认为社区值得更好。于是构建了 Frond——在线社区平台。
 
-[Frond](https://nicelinks.site/redirect?url=https://frond.com/) 将对话组织成线程（threads）的原因，每个线程都以比聊天更丰富的内容开始：照片、视频、链接或只是长篇写作。更好的对话，更容易理解。线程被组织成组（groups），您的社区可以随着它的发展而形成。无论是烹饪、法国新浪潮电影还是可爱的柯基犬照片，您的小组都会引发丰富的对话。值得一提的是，所有在 2023 年 4 月 30 日之前注册 Frond Beta 的社区都将永久免费访问 Frond。如果您有意搭建属于自己的社区，不妨即刻取尝试 & 体验。
+[Frond](https://frond.com/) 将对话组织成线程（threads）的原因，每个线程都以比聊天更丰富的内容开始：照片、视频、链接或只是长篇写作。更好的对话，更容易理解。线程被组织成组（groups），您的社区可以随着它的发展而形成。无论是烹饪、法国新浪潮电影还是可爱的柯基犬照片，您的小组都会引发丰富的对话。值得一提的是，所有在 2023 年 4 月 30 日之前注册 Frond Beta 的社区都将永久免费访问 Frond。如果您有意搭建属于自己的社区，不妨即刻取尝试 & 体验。
 
 ── 出自[倾城之链 - Frond - A better way to build community online](https://nicelinks.site/post/63e251895769b373841a6065)
 
@@ -146,7 +146,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 ![倾城之链 - Open-Source UI elements - made with CSS and HTML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/uiverse.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[uiverse.io](https://nicelinks.site/redirect?url=https://uiverse.io/) ，免费和可定制的 [HTML](https://nicelinks.site/tags/HTML) 和 [CSS](https://nicelinks.site/tags/CSS) UI 元素库，让您的网站更独特。涉及元素颇为丰富，涵盖卡片、开关、输入框、复选框 ☑️、加载动画、按钮（Button）等，使用非常简单，复制粘贴即可。它完全是开源的，免费供给个人和商业使用，可以给你的项目增加一些有趣的元素，为你的下一个项目节省许多花在构建和定制 UI 组件上的时间。
+**推荐语**：[uiverse.io](https://uiverse.io/) ，免费和可定制的 [HTML](https://nicelinks.site/tags/HTML) 和 [CSS](https://nicelinks.site/tags/CSS) UI 元素库，让您的网站更独特。涉及元素颇为丰富，涵盖卡片、开关、输入框、复选框 ☑️、加载动画、按钮（Button）等，使用非常简单，复制粘贴即可。它完全是开源的，免费供给个人和商业使用，可以给你的项目增加一些有趣的元素，为你的下一个项目节省许多花在构建和定制 UI 组件上的时间。
 
 ── 出自[倾城之链 - Open-Source UI elements - made with CSS and HTML](https://nicelinks.site/post/63e23bda5769b373841a5fa0)
 
@@ -158,7 +158,7 @@ Moby 项目不是作为 Docker 产品的支持或功能请求的位置，而是�
 
 ![倾城之链 - Godot Engine - Free and open source 2D and 3D game engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/godotengine.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Godot](https://nicelinks.site/redirect?url=https://godotengine.org/) 引擎是一款免费的一体化跨平台游戏引擎，可让您轻松创建 2D 和 3D 游戏；可运行于 Windows、macOS、Linux 等多种操作系统。而其创建的游戏可运行于 PC、Android、iOS、HTML5 等平台。Godot 旨在提供另一种制作游戏的方式，
+**推荐语**：[Godot](https://godotengine.org/) 引擎是一款免费的一体化跨平台游戏引擎，可让您轻松创建 2D 和 3D 游戏；可运行于 Windows、macOS、Linux 等多种操作系统。而其创建的游戏可运行于 PC、Android、iOS、HTML5 等平台。Godot 旨在提供另一种制作游戏的方式，
 
 ### 创新设计
 
@@ -200,7 +200,7 @@ Godot 最初于 2007 年开始开发，2014 年 12 月 15 日，Godot 迎来了�
 
 ![倾城之链 - Cocos - The world's top 2D&3D engine, game / smart cockpit /AR/VR/ virtual character / education](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cocos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Cocos](https://nicelinks.site/redirect?url=https://www.cocos.com/) 是由厦门雅基软件有限公司推出的数字内容开发一站式解决方案，具备开源、免费、轻量、高性能等特点，服务了 2D 和 3D 游戏开发、智能座舱、在线教育、XR、数字人、数字孪生、数字文创等领域开发者。Cocos 在全球 203 个国家和地区，拥有 150 万开发者，覆盖全球超过 16 亿终端用户。
+**推荐语**： [Cocos](https://www.cocos.com/) 是由厦门雅基软件有限公司推出的数字内容开发一站式解决方案，具备开源、免费、轻量、高性能等特点，服务了 2D 和 3D 游戏开发、智能座舱、在线教育、XR、数字人、数字孪生、数字文创等领域开发者。Cocos 在全球 203 个国家和地区，拥有 150 万开发者，覆盖全球超过 16 亿终端用户。
 
 Cocos 成立于 2010 年，核心产品包括开源引擎框架 Cocos2d-x、编辑器 Cocos Creator、游戏加速框架 Cocos Runtime、智能座舱解决方案 Cocos HMI、互动课件编辑器 Cocos ICE、XR 方向创作工具 Cocos Creator XR 等等。Cocos 产品具有以下优势：
 

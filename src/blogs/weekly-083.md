@@ -12,7 +12,7 @@
 
 ![倾城之链 - 渐构 Modevol](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.modevol.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [渐构 Modevol](https://nicelinks.site/redirect?url=https://www.modevol.com/) ， 一款新颖、有趣 [视频](https://nicelinks.site/tags/视频) 学习型网站；由西安电子科技大学教师   YJango（Bilibili 《学习观》UP 主 [@YJango](https://nicelinks.site/redirect?url=https://space.bilibili.com/344849038) ） 搭建；它以可交互的**视频**形式，告诉大家学习存在的误区，以及该如何消除大众对学习的误区与偏见。
+**推荐语**： [渐构 Modevol](https://www.modevol.com/) ， 一款新颖、有趣 [视频](https://nicelinks.site/tags/视频) 学习型网站；由西安电子科技大学教师   YJango（Bilibili 《学习观》UP 主 [@YJango](https://space.bilibili.com/344849038) ） 搭建；它以可交互的**视频**形式，告诉大家学习存在的误区，以及该如何消除大众对学习的误区与偏见。
 
 ### 搭建「渐构」动机
 
@@ -36,15 +36,15 @@
 
 中文名叫「渐构」，「渐」代表「逐渐演变（evolve）」，与「构」共同表达「迭代式建构」的意思。网站域名：`modevol.com`，「modevol」是「model（建模）」和「evolve（演化）」两个单词合成的动词。因为这两个词很好地描述了学习行为最核心的两个特征：学习不是复制信息，而是在「用片面的材料来建构全面的认识」，好比是在用几张平面照片来建构立体模型；而这种建构过程也并非是一次性的，会随着新经验、新材料的纳入，不断迭代更新，变得越来越立体，如同生命的一次次演化。
 
-[渐构 Modevol](https://nicelinks.site/redirect?url=https://www.modevol.com/) 所要实现的直接目的是：「**用工具让学习变得更容易**」，为此他们对学习行为进行了建模，即在宏观上，将「线上知识分享」抽象为「通过网络将知识从一个大脑迁移到另一个大脑」，迁移的实现需要一种「载体」，相当于软件安装包，我们统称为「学习材料（materials）」，简称「材料」，而围绕学习材料，又可将分享过程拆成三个环节：
+[渐构 Modevol](https://www.modevol.com/) 所要实现的直接目的是：「**用工具让学习变得更容易**」，为此他们对学习行为进行了建模，即在宏观上，将「线上知识分享」抽象为「通过网络将知识从一个大脑迁移到另一个大脑」，迁移的实现需要一种「载体」，相当于软件安装包，我们统称为「学习材料（materials）」，简称「材料」，而围绕学习材料，又可将分享过程拆成三个环节：
 
 1.  由传授者制作学习材料；
 2.  由网络媒介呈现学习材料；
 3.  由学习者用学习材料建构知识；
 
-那么，想用工具让学习变得更容易，自然也就是针对这三个环节来做优化。而 [渐构 Modevol](https://nicelinks.site/redirect?url=https://www.modevol.com/) 所做的最主要的事情，便是对「媒介（medium）呈现环节」的优化；而这也是「渐构」给我第一印象是新奇的原因。
+那么，想用工具让学习变得更容易，自然也就是针对这三个环节来做优化。而 [渐构 Modevol](https://www.modevol.com/) 所做的最主要的事情，便是对「媒介（medium）呈现环节」的优化；而这也是「渐构」给我第一印象是新奇的原因。
 
-除此之外， [渐构 Modevol](https://nicelinks.site/redirect?url=https://www.modevol.com/) 有非常多值得称赞的点，比如：内容优质，值得学习；可以展开视频内容文本；双击文本区内容，可以跳转至该进度；支持摘抄以及注释；视频拥有 PPT 一样的目录，可拖动、操作（双击则跳转至该段视频）；支持多种方式生成**派生视频**；.... 实在太多，感兴趣朋友，可前往 [网站使用教程 ｜ 渐构 Modevol](https://www.modevol.com/episode/cl3gp8ns7004h01s8179zhpre) 了解更多。`渐构` 一款很棒的网站，设计理念和功能颇为复杂，但想要做好关于它的推荐介绍，实在有些疲惫；想知道葡萄什么味儿，最好的方式是尝起来；朋友们 [渐构 Modevol](https://nicelinks.site/redirect?url=https://www.modevol.com/) 值得你“尝”起来。
+除此之外， [渐构 Modevol](https://www.modevol.com/) 有非常多值得称赞的点，比如：内容优质，值得学习；可以展开视频内容文本；双击文本区内容，可以跳转至该进度；支持摘抄以及注释；视频拥有 PPT 一样的目录，可拖动、操作（双击则跳转至该段视频）；支持多种方式生成**派生视频**；.... 实在太多，感兴趣朋友，可前往 [网站使用教程 ｜ 渐构 Modevol](https://www.modevol.com/episode/cl3gp8ns7004h01s8179zhpre) 了解更多。`渐构` 一款很棒的网站，设计理念和功能颇为复杂，但想要做好关于它的推荐介绍，实在有些疲惫；想知道葡萄什么味儿，最好的方式是尝起来；朋友们 [渐构 Modevol](https://www.modevol.com/) 值得你“尝”起来。
 
 ── 出自[倾城之链 - 渐构 Modevol](https://nicelinks.site/post/632334e56d57c401f21d6727)
 
@@ -58,11 +58,11 @@
 
 ![倾城之链 - Hacker Talk ｜ 黑客说](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hackertalk.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[黑客说（HackerTalk）](https://nicelinks.site/redirect?url=https://hackertalk.net/) ，是一个为开发者定制的交流平台，基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 而构建，由深圳市通感科技有限公司提供的互联网技术服务，2021 年 6 月 6 日 正式上线。该团队希望通过`技术驱动`优质交流，高度定制的编辑器和一对一的实时聊天，会给你全新的交流体验。
+**推荐语**：[黑客说（HackerTalk）](https://hackertalk.net/) ，是一个为开发者定制的交流平台，基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 而构建，由深圳市通感科技有限公司提供的互联网技术服务，2021 年 6 月 6 日 正式上线。该团队希望通过`技术驱动`优质交流，高度定制的编辑器和一对一的实时聊天，会给你全新的交流体验。
 
 ### 背景故事
 
-网站创始人，考虑到同类型的网站已经很多，但都不能满足**程序员群体的定制**需求，或多或少存在些许问题，譬如说：不能很好地支持 Markdown、实时性不够、关注点分散，容易跑偏话题（知乎）、交互性不强（掘金、SegmentFault、CSDN ）、设计交互体验不足题（V2ex）等等。基于想要解决这些问题，故而才会做 [黑客说（HackerTalk）](https://nicelinks.site/redirect?url=https://hackertalk.net/) 这样一个新网站。
+网站创始人，考虑到同类型的网站已经很多，但都不能满足**程序员群体的定制**需求，或多或少存在些许问题，譬如说：不能很好地支持 Markdown、实时性不够、关注点分散，容易跑偏话题（知乎）、交互性不强（掘金、SegmentFault、CSDN ）、设计交互体验不足题（V2ex）等等。基于想要解决这些问题，故而才会做 [黑客说（HackerTalk）](https://hackertalk.net/) 这样一个新网站。
 
 ### 网站亮点
 
@@ -70,7 +70,7 @@
 2.  **更加现代化的 UI**：充分展示信息、更友好的回复体验、暗黑模式等；
 3.  **更加公平、透明、友好的用户管理**（赞 👍）；
 
-近期，有注册并初步体验；提及其他平台存在的问题，在 [HackerTalk](https://nicelinks.site/redirect?url=https://hackertalk.net/) 确实已得到解决，而且吸取了值得学习部分；在人性化设计、访问性能、公平透明用户管理都做得较好，值得称赞；此外，它专属于为 [程序员](https://nicelinks.site/tags/程序员) 定制社区，如果您也从事编程开发，可以考虑入驻，以便与志同道合的朋友畅聊。
+近期，有注册并初步体验；提及其他平台存在的问题，在 [HackerTalk](https://hackertalk.net/) 确实已得到解决，而且吸取了值得学习部分；在人性化设计、访问性能、公平透明用户管理都做得较好，值得称赞；此外，它专属于为 [程序员](https://nicelinks.site/tags/程序员) 定制社区，如果您也从事编程开发，可以考虑入驻，以便与志同道合的朋友畅聊。
 
 ── 出自[倾城之链 - Hacker Talk ｜ 黑客说](https://nicelinks.site/post/6321f3336d57c401f21d6725)
 
@@ -84,11 +84,11 @@
 
 ![倾城之链 - 九歌](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jiuge.thunlp.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[九歌](https://nicelinks.site/redirect?url=http://jiuge.thunlp.org/) ，人工智能（AI）诗歌写作系统，由清华大学自然语言处理与社会人文计算实验室研发；该系统采用最新的深度学习技术，结合多个为诗歌生成专门设计的模型，基于超过 80 万首人类诗人创作的诗歌，进行训练学习。
+**推荐语**：[九歌](=http://jiuge.thunlp.org/) ，人工智能（AI）诗歌写作系统，由清华大学自然语言处理与社会人文计算实验室研发；该系统采用最新的深度学习技术，结合多个为诗歌生成专门设计的模型，基于超过 80 万首人类诗人创作的诗歌，进行训练学习。
 
-区别于其他诗歌生成系统，[九歌](https://nicelinks.site/redirect?url=http://jiuge.thunlp.org/) 具有多模态输入、多体裁多风格、人机交互创作模式等特点。九歌系统及其研发团队，致力于探索 AI 技术和人文领域的结合，助力 AI 赋能文学教育，为中华优秀诗词文化的传承与发展贡献力量。
+区别于其他诗歌生成系统，[九歌](=http://jiuge.thunlp.org/) 具有多模态输入、多体裁多风格、人机交互创作模式等特点。九歌系统及其研发团队，致力于探索 AI 技术和人文领域的结合，助力 AI 赋能文学教育，为中华优秀诗词文化的传承与发展贡献力量。
 
-[九歌](https://nicelinks.site/redirect?url=http://jiuge.thunlp.org/)，可以创作`绝句`、`风格绝句`（分五言、七言；可选意境有：萧瑟凄凉、忆旧感喟、孤寂惆怅、思乡忧老、渺远孤逸）、`藏头诗`（五言、七言）、`律诗`（五言、七言）、`集句`以及`词`等体裁。只需要输入 1 ～ 4 字，点击「生成诗歌」按钮，几秒钟就能得到结果。而且，还会给出机器评分（由 A ～ D），关于通顺性、连贯性、新颖性、意境四个不同维度。其中，**藏头诗**，还给出“情感控制”的选项，由悲伤、中性、到喜悦，分五个等级；倘若不通诗文音律，用这工具，为心仪之人，选造一首好的藏头诗，想来也蛮有意思。
+[九歌](=http://jiuge.thunlp.org/)，可以创作`绝句`、`风格绝句`（分五言、七言；可选意境有：萧瑟凄凉、忆旧感喟、孤寂惆怅、思乡忧老、渺远孤逸）、`藏头诗`（五言、七言）、`律诗`（五言、七言）、`集句`以及`词`等体裁。只需要输入 1 ～ 4 字，点击「生成诗歌」按钮，几秒钟就能得到结果。而且，还会给出机器评分（由 A ～ D），关于通顺性、连贯性、新颖性、意境四个不同维度。其中，**藏头诗**，还给出“情感控制”的选项，由悲伤、中性、到喜悦，分五个等级；倘若不通诗文音律，用这工具，为心仪之人，选造一首好的藏头诗，想来也蛮有意思。
 
 有输入“`轩帅`”二字玩儿下，得 `绝句` 两三首，其前两首读来略有些意思，在此分享给朋友们：
 
@@ -106,7 +106,7 @@
 
 机器评分：通顺性：A；连贯性：B；新颖性：A； 意境：D。
 
-值得一提的是，[九歌](https://nicelinks.site/redirect?url=http://jiuge.thunlp.org/) 对于生成的诗词，还可以做额外操作，如根据推荐做局部修改，隐藏相似古人诗作、分享诗歌、诗词评价等。玩味之下，虽有勉强押韵、达意不通之作；但亦有对仗工整、意境深远的上品，颇有些古诗之风；整体而言，超出预期。感兴趣的朋友，闲来无事，或可品玩。
+值得一提的是，[九歌](=http://jiuge.thunlp.org/) 对于生成的诗词，还可以做额外操作，如根据推荐做局部修改，隐藏相似古人诗作、分享诗歌、诗词评价等。玩味之下，虽有勉强押韵、达意不通之作；但亦有对仗工整、意境深远的上品，颇有些古诗之风；整体而言，超出预期。感兴趣的朋友，闲来无事，或可品玩。
 
 ── 出自[倾城之链 - 九歌](https://nicelinks.site/post/6321a34a6d57c401f21d671d)
 
@@ -120,7 +120,7 @@
 
 ![倾城之链 - WantQuotes 据意查句](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wantquotes.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WantQuotes](https://nicelinks.site/redirect?url=https://wantquotes.net/) ，是一款可通过描述的意思（或关键字），来查找名句（包括名人名言、古诗词和文言文名句、谚语俗语歇后语等）的 Web 应用。WantQuotes 基于先进的人工智能（AI）算法实现，由清华大学自然语言处理实验室出品。
+**推荐语**：[WantQuotes](https://wantquotes.net/) ，是一款可通过描述的意思（或关键字），来查找名句（包括名人名言、古诗词和文言文名句、谚语俗语歇后语等）的 Web 应用。WantQuotes 基于先进的人工智能（AI）算法实现，由清华大学自然语言处理实验室出品。
 
 ### WantQuotes 可以做些什么？
 
@@ -137,7 +137,7 @@ WantQuotes 可以根据你输入描述的意思，来查找相应的名言名句
 
 如今（2022.09）WantQuotes 仍为测试版本，可能会出现维护、停机更新等不稳定的情况，望知悉；此外，您可以给语义相关的名句进行操作，诸如：点赞 👍、复制、在某度进行搜索、查找此句的近义句、反馈名句的错误等等；如果您对网站有何意见或建议，可直接在网站上进行「反馈」，以促进 WantQuotes 变得更好。
 
-有输入些测试性文字/句子，诸如：`休息`、`养身`、`工作`、“如何让人生具有价值”等，[WantQuotes](https://nicelinks.site/redirect?url=https://wantquotes.net/) 所给出的结果，个人感觉是比「搜索引擎」给出的要好，也略高于预期；如果您是学生、或文字工作者，我想 WantQuotes 应该会有所帮助。
+有输入些测试性文字/句子，诸如：`休息`、`养身`、`工作`、“如何让人生具有价值”等，[WantQuotes](https://wantquotes.net/) 所给出的结果，个人感觉是比「搜索引擎」给出的要好，也略高于预期；如果您是学生、或文字工作者，我想 WantQuotes 应该会有所帮助。
 
 ── 出自[倾城之链 - WantQuotes 据意查句](https://nicelinks.site/post/6321a24e6d57c401f21d671b)
 
@@ -151,15 +151,15 @@ WantQuotes 可以根据你输入描述的意思，来查找相应的名言名句
 
 ![倾城之链 - Lock Launcher - An iOS 16 Lock Screen widget.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/locklauncher.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lock Launcher](https://nicelinks.site/redirect?url=https://locklauncher.com/) ，是一款快速的 [iOS](https://nicelinks.site/tags/iOS) 16 锁屏启动器（一款基于 [iOS](https://nicelinks.site/tags/iOS) 16 锁屏小组件产品）；您可以在锁定屏幕上添加任何内容，只需轻轻一按即可立即启动。它完美支持各种应用程序、网站、快捷方式和自定义 URL 方案。一键享受所有动作。比如可一键启动：**健康码** / **行程码** / 付款码 / 快捷指令 / `Web Apps` / URL Scheme 等，让锁屏界面更强大。
+**推荐语**：[Lock Launcher](https://locklauncher.com/) ，是一款快速的 [iOS](https://nicelinks.site/tags/iOS) 16 锁屏启动器（一款基于 [iOS](https://nicelinks.site/tags/iOS) 16 锁屏小组件产品）；您可以在锁定屏幕上添加任何内容，只需轻轻一按即可立即启动。它完美支持各种应用程序、网站、快捷方式和自定义 URL 方案。一键享受所有动作。比如可一键启动：**健康码** / **行程码** / 付款码 / 快捷指令 / `Web Apps` / URL Scheme 等，让锁屏界面更强大。
 
-近期，因为司空见惯的原因，需要较为频繁出示 `健康码`、核酸码、付款码，以及在各种场景下 `扫码` 等，基于 [Lock Launcher](https://nicelinks.site/redirect?url=https://locklauncher.com/) 来配置下快速打开方式，亲测有效，确实能省些不必要的步骤。当然，它的使用，对于没怎么玩儿过小组件朋友，显得略有些繁琐，探索了下，如下步骤可快速顺利启动：
+近期，因为司空见惯的原因，需要较为频繁出示 `健康码`、核酸码、付款码，以及在各种场景下 `扫码` 等，基于 [Lock Launcher](https://locklauncher.com/) 来配置下快速打开方式，亲测有效，确实能省些不必要的步骤。当然，它的使用，对于没怎么玩儿过小组件朋友，显得略有些繁琐，探索了下，如下步骤可快速顺利启动：
 
 1.  打开 App Store，搜索 `Lock Launcher` 并下载；
 2.  打开应用，设置「锁屏启动」项（按需、跟着引导操作即可）；
 3.  打开「设置」=> 「墙纸」，自定义，将添加的小组件到桌面；
 
-具体操作和最终运行效果，可参加 [Lock Launcher](https://nicelinks.site/redirect?url=https://locklauncher.com/) 官网录制的视频（或者直接打开 [Lock Launcher 使用及效果视频[.MP4]](https://lovejade.oss-cn-shenzhen.aliyuncs.com/LockLauncherRunAction.mp4)）；当然，也可以添加小组件到`正一屏`，从这里打开也方便。感兴趣的朋友，可以下载体验（目前@2022/09/13，该应用新上架，正在做双限免活动，包含下载和内购 ）。
+具体操作和最终运行效果，可参加 [Lock Launcher](https://locklauncher.com/) 官网录制的视频（或者直接打开 [Lock Launcher 使用及效果视频[.MP4]](https://lovejade.oss-cn-shenzhen.aliyuncs.com/LockLauncherRunAction.mp4)）；当然，也可以添加小组件到`正一屏`，从这里打开也方便。感兴趣的朋友，可以下载体验（目前@2022/09/13，该应用新上架，正在做双限免活动，包含下载和内购 ）。
 
 ── 出自[倾城之链 - Lock Launcher - An iOS 16 Lock Screen widget.](https://nicelinks.site/post/632086ee6d57c401f21d6717)
 
@@ -173,15 +173,15 @@ WantQuotes 可以根据你输入描述的意思，来查找相应的名言名句
 
 ![倾城之链 - 线圈 - 创意交汇之处 | 最有趣的作品与创意都在这里](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/xquan.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 是一个将人与项目连线，通过  **“发现”**  与  **“分享”**  的内核孵化出的创意交流圈。简单来说的话，你可以将 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 当成是一个能够展示你个人、以及项目的**平台**，甚至将其当成你的`互联网名片`来使用也没有问题。可以在这里创建、发现有趣的项目、点子，发表你的评论，自行构筑只属于你一个人的个人中心。
+**推荐语**：[线圈](https://xquan.net/) 是一个将人与项目连线，通过  **“发现”**  与  **“分享”**  的内核孵化出的创意交流圈。简单来说的话，你可以将 [线圈](https://xquan.net/) 当成是一个能够展示你个人、以及项目的**平台**，甚至将其当成你的`互联网名片`来使用也没有问题。可以在这里创建、发现有趣的项目、点子，发表你的评论，自行构筑只属于你一个人的个人中心。
 
 ### 线圈创作背景
 
-创作者的心头恨是什么？**那就是做出来的东西没人看，没人用，没人玩，没地方展示**。 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 想要实现的是：一个面向国内全体创作者的、能够让他们方便快捷的记录项目进展，展示进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的平台。**不让创意蒙尘**，是 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 的核心追求。
+创作者的心头恨是什么？**那就是做出来的东西没人看，没人用，没人玩，没地方展示**。 [线圈](https://xquan.net/) 想要实现的是：一个面向国内全体创作者的、能够让他们方便快捷的记录项目进展，展示进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的平台。**不让创意蒙尘**，是 [线圈](https://xquan.net/) 的核心追求。
 
 ### 解决哪些痛点？
 
-[线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 创作团队认为，目前市场上的、服务创作者的产品有好些痛点没有被满足，诸如以下几点：
+[线圈](https://xquan.net/) 创作团队认为，目前市场上的、服务创作者的产品有好些痛点没有被满足，诸如以下几点：
 
 - 固然国内近几年冒出了几个打通创作者和粉丝关系的订阅制付费平台，但他们在本质上还只能说是一个工具，而不能称之为社区。
 - 许多项目没有一个类似于“应用商店”的   主页   来承载项目详情，导致许多人都需要以图文的形式来第三方平台发布。
@@ -189,26 +189,26 @@ WantQuotes 可以根据你输入描述的意思，来查找相应的名言名句
 - 除自媒体外，很难有能做到可以全方位展示   创作者本身这个人   的产品，展示欲难以释放。
 - 无处寻求战友、寻求组织，在业余领域和爱好者领域中往团队中招募成员是非常困难的。归根结底，还是上边提到的没有根据地的原因。
 
-[线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 旨在想要针对这些痛点去尝试解决。实打实地去让那些创意工作者们有一个可以立足的根据地。  并可以和一群志同道合的人聚集在一起。`线圈`在此提供了多样化、展示友好且易传播的个人/项目主页构筑方案。助力**创作**、助力**展示**、助力**营销**。
+[线圈](https://xquan.net/) 旨在想要针对这些痛点去尝试解决。实打实地去让那些创意工作者们有一个可以立足的根据地。  并可以和一群志同道合的人聚集在一起。`线圈`在此提供了多样化、展示友好且易传播的个人/项目主页构筑方案。助力**创作**、助力**展示**、助力**营销**。
 
 ### 用户在线圈可得到什么？
 
-1.  你可以在 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 观看、浏览、并且和人一起讨论这个世界上的所有创意，还能够以你自己的形式去支持他；
-2.  你可以在 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 构筑全网独一无二的的个性化主页，互联网名片；
+1.  你可以在 [线圈](https://xquan.net/) 观看、浏览、并且和人一起讨论这个世界上的所有创意，还能够以你自己的形式去支持他；
+2.  你可以在 [线圈](https://xquan.net/) 构筑全网独一无二的的个性化主页，互联网名片；
 3.  如你自身有需要宣传、分享的作品或项目，你可以方便且简单的搭建出定制化的  “项目详情” 。
 
 ### 什么样的人会需要线圈？
 
-[线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 创作团队认为，在当今这个人人都是创作者的时代，其实任何人都可以使用线圈；因为无论是多么不起眼，多么小的作品也好，都能在此进行分享，从而让更多人知晓。不过，如果你是以下类型的创意工作者的话，那么可能你会更需要一些。譬如：、**自媒体**、**写作爱好者、作家**、**独立开发者**、**独立游戏制作人**、**绘画师、设计师**、**视频特效、剪辑、字幕能力持有者**、**剧本家**、**摄影爱好者**、**音乐人**、**配音工作者**等等。
+[线圈](https://xquan.net/) 创作团队认为，在当今这个人人都是创作者的时代，其实任何人都可以使用线圈；因为无论是多么不起眼，多么小的作品也好，都能在此进行分享，从而让更多人知晓。不过，如果你是以下类型的创意工作者的话，那么可能你会更需要一些。譬如：、**自媒体**、**写作爱好者、作家**、**独立开发者**、**独立游戏制作人**、**绘画师、设计师**、**视频特效、剪辑、字幕能力持有者**、**剧本家**、**摄影爱好者**、**音乐人**、**配音工作者**等等。
 
-[线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 不仅不会禁止你营销，甚至还会鼓励你、将线圈站内的用户引导至外部（比如你的自媒体账号、开发的游戏/软件等）。就比如以下几个很简单的场景：
+[线圈](https://xquan.net/) 不仅不会禁止你营销，甚至还会鼓励你、将线圈站内的用户引导至外部（比如你的自媒体账号、开发的游戏/软件等）。就比如以下几个很简单的场景：
 
 - 某画师/设计师想要展示自己的作品；
 - 某自媒体工作者想要展示自己的创作的某个系列视频；
 - 某独立游戏制作人，想要展示自己的游戏；
 - 某独立开发者，想要推广自己的应用程序；
 
-创造者完全可以在 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 建立一个页面，快捷方便的对外宣传展现。 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 创作团队欲要在这个时代，绽放终极的互联网精神。笔者近期有注册 ®️ 并使用 [线圈](https://nicelinks.site/redirect?url=https://xquan.net/) （发布项目：[倾城之链 NICE LINKS](https://xquan.net/@main/nicelinks)），无论是作为`用户`访问探索，亦或者`创作者`发布项目（动态），体验堪称优良，颇有 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 之风；此外，几乎可以说没什么限制，无论是软件应用、音乐视频、专栏文章，甚至是一个公众号、一幅画、一个动态壁纸，皆可在[线圈](https://nicelinks.site/redirect?url=https://xquan.net/) 进行分享；如果您对线圈感兴趣，并期望了解更多，可参见：[新人指南 & 项目提交指南 - 线圈](https://nicelinks.site/redirect?url=https://xquan.net/help?tab=submit-guide)。
+创造者完全可以在 [线圈](https://xquan.net/) 建立一个页面，快捷方便的对外宣传展现。 [线圈](https://xquan.net/) 创作团队欲要在这个时代，绽放终极的互联网精神。笔者近期有注册 ®️ 并使用 [线圈](https://xquan.net/) （发布项目：[倾城之链 NICE LINKS](https://xquan.net/@main/nicelinks)），无论是作为`用户`访问探索，亦或者`创作者`发布项目（动态），体验堪称优良，颇有 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 之风；此外，几乎可以说没什么限制，无论是软件应用、音乐视频、专栏文章，甚至是一个公众号、一幅画、一个动态壁纸，皆可在[线圈](https://xquan.net/) 进行分享；如果您对线圈感兴趣，并期望了解更多，可参见：[新人指南 & 项目提交指南 - 线圈](https://xquan.net/help?tab=submit-guide)。
 
 ── 出自[倾城之链 - 线圈 - 创意交汇之处 | 最有趣的作品与创意都在这里](https://nicelinks.site/post/631ebcae6d57c401f21d6713)
 
@@ -222,7 +222,7 @@ WantQuotes 可以根据你输入描述的意思，来查找相应的名言名句
 
 ![倾城之链 - TOP云-尊享顶级云计算服务，云服务器、物理服务器租用，阿里云、腾讯云、华为云、天翼云核心代理商-拓普云](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/topyun.vip.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TOP 云](https://nicelinks.site/redirect?url=https://topyun.vip/) 隶属于尊托云数科技旗下的云计算服务平台，`TOP 云`专注为个人开发者用户、中小型、大型企业用户提供一站式核心网络云端部署服务，促使用户云端部署化简为零，轻松快捷运用云计算。
+**推荐语**：[TOP 云](https://topyun.vip/) 隶属于尊托云数科技旗下的云计算服务平台，`TOP 云`专注为个人开发者用户、中小型、大型企业用户提供一站式核心网络云端部署服务，促使用户云端部署化简为零，轻松快捷运用云计算。
 
 TOP 云为用户提供低价高性能云计算产品，致力于云计算应用的易用性开发，并引导云计算在国内普及。目前公司研发以及运营云服务基础设施服务平台（LaaS）以及企业智能云建站平台（SaaS），面向全球客户提供基于云计算的 IT 解决方案与客户服务，拥有丰富的国内 BGP、双线高防、香港 CN2 等优质的 IDC 资源。
 
@@ -258,9 +258,9 @@ TOP 企业云与合作伙伴一起为广大中小企业用户提供一流的企�
 
 ![倾城之链 - Ava Maker - Free Avatar Maker Online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/avamake.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ava Maker](https://nicelinks.site/redirect?url=https://avamake.com/) 是一个制作**卡通头像**的免费线上工具；提供四种卡通类型，支持细化调整以建立出独特、与众不同且**个性化虚拟头像**。可自订脸型、肤色、发型、眉毛、眼睛、嘴巴、衣服、性别及鼻子等，而且可以调整每个部位的颜色；让使用者通过鼠标自由选择搭配，只需短短时间，就可以组合出一个具有独特风格的头像。
+**推荐语**：[Ava Maker](https://avamake.com/) 是一个制作**卡通头像**的免费线上工具；提供四种卡通类型，支持细化调整以建立出独特、与众不同且**个性化虚拟头像**。可自订脸型、肤色、发型、眉毛、眼睛、嘴巴、衣服、性别及鼻子等，而且可以调整每个部位的颜色；让使用者通过鼠标自由选择搭配，只需短短时间，就可以组合出一个具有独特风格的头像。
 
-如果没有想法也没关系，[Ava Maker](https://nicelinks.site/redirect?url=https://avamake.com/) 提供随机组合产生器，可快速建立各种外观。另外值的一提的是，[Ava Maker](https://nicelinks.site/redirect?url=https://avamake.com/) 有 PNG 或 SVG 两种格式，可供用户选择下载（100% 免费，界面清爽无广告）；下载也无须注册，头像内容也没有水印，让后续的应用更为简便，实在业界良心。如果您有创建卡通虚拟头像的需求，`ava maker` 是笔者强烈推荐的首选工具。
+如果没有想法也没关系，[Ava Maker](https://avamake.com/) 提供随机组合产生器，可快速建立各种外观。另外值的一提的是，[Ava Maker](https://avamake.com/) 有 PNG 或 SVG 两种格式，可供用户选择下载（100% 免费，界面清爽无广告）；下载也无须注册，头像内容也没有水印，让后续的应用更为简便，实在业界良心。如果您有创建卡通虚拟头像的需求，`ava maker` 是笔者强烈推荐的首选工具。
 
 ── 出自[倾城之链 - Ava Maker - Free Avatar Maker Online](https://nicelinks.site/post/631cb6d692583d0ec9c367bf)
 
@@ -274,7 +274,7 @@ TOP 企业云与合作伙伴一起为广大中小企业用户提供一流的企�
 
 ![倾城之链 - 梦想导航 | nav.dreamthere.cn](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nav.dreamthere.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[梦想导航](https://nicelinks.site/redirect?url=https://nav.dreamthere.cn/)，基于 jQuery、Bootstrap 等工具库搭建的网站；旨在：**搜集小众新站，推荐优质网站**。该站主要分为发现、精品、热搜等板块。对收录的每条网站，提供有标题、链接、描述、ICON 以及相似网站推荐。此外，梦想导航提供站内搜索 🔍，您可以根据关键字，检索您想要的内容。
+**推荐语**：[梦想导航](https://nav.dreamthere.cn/)，基于 jQuery、Bootstrap 等工具库搭建的网站；旨在：**搜集小众新站，推荐优质网站**。该站主要分为发现、精品、热搜等板块。对收录的每条网站，提供有标题、链接、描述、ICON 以及相似网站推荐。此外，梦想导航提供站内搜索 🔍，您可以根据关键字，检索您想要的内容。
 
 ── 出自[倾城之链 - 梦想导航 | nav.dreamthere.cn](https://nicelinks.site/post/631ca82292583d0ec9c367bd)
 

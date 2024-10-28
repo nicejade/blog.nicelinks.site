@@ -10,7 +10,7 @@
 
 ![倾城之链 - htop - an interactive process viewer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/htop.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[htop](https://nicelinks.site/redirect?url=https://htop.dev/) 是一个跨平台的交互式系统 [监控](https://nicelinks.site/tags/监控) 工具，用于查看系统资源利用情况并管理运行中的进程（基于 C 语言编写）。它可以代替传统的 top 命令，提供更加直观、易用的界面以及更多功能。
+**推荐语**：[htop](https://htop.dev/) 是一个跨平台的交互式系统 [监控](https://nicelinks.site/tags/监控) 工具，用于查看系统资源利用情况并管理运行中的进程（基于 C 语言编写）。它可以代替传统的 top 命令，提供更加直观、易用的界面以及更多功能。
 
 ### htop 作用
 
@@ -44,7 +44,7 @@
 
 ![倾城之链 - Outline – Team knowledge base & wiki](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.getoutline.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Outline](https://nicelinks.site/redirect?url=https://www.getoutline.com/) ，适用于成长型团队的最快 [知识库](https://nicelinks.site/tags/知识库) 。美观、实时协作、功能丰富、兼容 Markdown。如果您迷失在混乱的文档中？不太确定谁有权访问？同事在聊天中反复请求相同的信息？是时候整理团队的知识了。官方有列出为什么您会喜欢使用 Outline 的理由：
+**推荐语**：[Outline](https://www.getoutline.com/) ，适用于成长型团队的最快 [知识库](https://nicelinks.site/tags/知识库) 。美观、实时协作、功能丰富、兼容 Markdown。如果您迷失在混乱的文档中？不太确定谁有权访问？同事在聊天中反复请求相同的信息？是时候整理团队的知识了。官方有列出为什么您会喜欢使用 Outline 的理由：
 
 - **漂亮的文档，甚至无需尝试**：直观的编辑器，支持 Markdown、斜线命令、丰富的嵌入等等；
 - **直观的编辑体验**：一个极快的编辑器，支持 Markdown、斜线命令、嵌入等等…
@@ -61,7 +61,7 @@
 - **开源**：Outline 的 [源代码是公开的](https://github.com/outline) ，开发是公开完成的。更喜欢托管在您自己的基础设施上？没问题。
 - **可定制**：自定义域允许您拥有 **docs.yourteam.com**。带有您自己的品牌和颜色的白色标签。
 
-总之， [Outline](https://nicelinks.site/redirect?url=https://www.getoutline.com/) 是一款适合团队使用的知识库产品，可看做是 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 的开源平替；值得说明的是，Outline 支持基于 Docker 等方式，在您自己的服务器上自托管。如果您对这款产品感兴趣，不妨移步至 [Outline 在 Github 开源仓库](https://github.com/outline/outline) 从而了解更多。
+总之， [Outline](https://www.getoutline.com/) 是一款适合团队使用的知识库产品，可看做是 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 的开源平替；值得说明的是，Outline 支持基于 Docker 等方式，在您自己的服务器上自托管。如果您对这款产品感兴趣，不妨移步至 [Outline 在 Github 开源仓库](https://github.com/outline/outline) 从而了解更多。
 
 ── 出自[倾城之链 - Outline – Team knowledge base & wiki](https://nicelinks.site/post/6570a0ace0a430450f06229e)
 
@@ -73,7 +73,7 @@
 
 ![倾城之链 - Awesome Selfhosted](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/awesome-selfhosted.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Awesome Selfhosted](https://nicelinks.site/redirect?url=https://awesome-selfhosted.net/) ，在您自己的服务器上 [自托管](https://nicelinks.site/tags/自托管) 的自由软件网络服务和 Web 应用程序的列表，涵盖数据分析、自动化、备份、博客平台、内容管理系统（CMS）、域名系统、文件传输同步、知识管理工具、监控、静态站点生成器、网址缩短器、视频监控、网络服务器、数据库管理等数十个方向；自托管是在您自己的服务器上托管和管理应用程序的做法，而不是从 SaaSS 提供商处使用应用程序。如果您注重隐私、安全，选择开源服务，并自托管于自己的服务器，是更棒的选择；而这 [Awesome Selfhosted](https://nicelinks.site/redirect?url=https://awesome-selfhosted.net/) 列表，可以为您提供很棒的参考。
+**推荐语**：[Awesome Selfhosted](https://awesome-selfhosted.net/) ，在您自己的服务器上 [自托管](https://nicelinks.site/tags/自托管) 的自由软件网络服务和 Web 应用程序的列表，涵盖数据分析、自动化、备份、博客平台、内容管理系统（CMS）、域名系统、文件传输同步、知识管理工具、监控、静态站点生成器、网址缩短器、视频监控、网络服务器、数据库管理等数十个方向；自托管是在您自己的服务器上托管和管理应用程序的做法，而不是从 SaaSS 提供商处使用应用程序。如果您注重隐私、安全，选择开源服务，并自托管于自己的服务器，是更棒的选择；而这 [Awesome Selfhosted](https://awesome-selfhosted.net/) 列表，可以为您提供很棒的参考。
 
 ── 出自[倾城之链 - Awesome Selfhosted](https://nicelinks.site/post/656b3460e328cf0450af8f06)
 
@@ -85,7 +85,7 @@
 
 ![倾城之链 - TryEmoji | Turn emoji into amazing artwork via AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tryemoji.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TryEmoji](https://nicelinks.site/redirect?url=https://www.tryemoji.com/) ，通过人工智能（ [AI](https://nicelinks.site/tags/AI) ）将表情符号变成令人惊叹的艺术品；使用非常简单，选择你喜欢的 Emoji，接下来交给 AI 就好；非常迅速就能生成，可以下载至本地或者分享（尺寸：`512*512`，格式：`.jpeg`）；它支持您选择不同的风格（如：Pixar、Minecraft、Vincent van Gogh、8 Bit pixel、Claude Monet、Pablo Picasso 等等）；值得一提的是，该项目 [在 Github 仓库开源](https://github.com/leptonai/tryemoji) ，如果您对其感兴趣，可移步前往从而了解更多。
+**推荐语**：[TryEmoji](https://www.tryemoji.com/) ，通过人工智能（ [AI](https://nicelinks.site/tags/AI) ）将表情符号变成令人惊叹的艺术品；使用非常简单，选择你喜欢的 Emoji，接下来交给 AI 就好；非常迅速就能生成，可以下载至本地或者分享（尺寸：`512*512`，格式：`.jpeg`）；它支持您选择不同的风格（如：Pixar、Minecraft、Vincent van Gogh、8 Bit pixel、Claude Monet、Pablo Picasso 等等）；值得一提的是，该项目 [在 Github 仓库开源](https://github.com/leptonai/tryemoji) ，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - TryEmoji | Turn emoji into amazing artwork via AI](https://nicelinks.site/post/656b07710ee17473c38d72fb)
 
@@ -99,7 +99,7 @@
 
 ![倾城之链 - Articles about Software Engineering, AI, DevOps, Cloud and more        ](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ataiva.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ataiva.com](https://nicelinks.site/redirect?url=https://ataiva.com/) ，英国程序员 `Andrew O` 的个人网站，承载关于软件工程、 [人工智能](https://nicelinks.site/tags/AI) 、DevOps、AWS、GO、云计算、 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 、机器学习、 [Python](https://nicelinks.site/tags/Python) 等的文章；如果您对其感兴趣，可以前往作者 [Github 主页](https://github.com/ao/) 了解更多。
+**推荐语**：[ataiva.com](https://ataiva.com/) ，英国程序员 `Andrew O` 的个人网站，承载关于软件工程、 [人工智能](https://nicelinks.site/tags/AI) 、DevOps、AWS、GO、云计算、 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 、机器学习、 [Python](https://nicelinks.site/tags/Python) 等的文章；如果您对其感兴趣，可以前往作者 [Github 主页](https://github.com/ao/) 了解更多。
 
 ── 出自[倾城之链 - Articles about Software Engineering, AI, DevOps, Cloud and more ](https://nicelinks.site/post/656b044f0ee17473c38d728b)
 

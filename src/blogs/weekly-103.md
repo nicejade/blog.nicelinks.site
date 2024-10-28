@@ -10,7 +10,7 @@
 
 ![倾城之链 - Vercel: Develop. Preview. Ship. For the best frontend teams](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vercel.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vercel](https://nicelinks.site/redirect?url=https://vercel.com/) 一个免费的、针对前端开发人员的网站托管平台，## 提供创新者在灵感迸发时所需的速度和可靠性。它将开发人员从拖慢工作速度的耗时、不必要的流程中解放出来，这样您和您的团队就可以专注于创作。它具有如下功能特征：
+**推荐语**：[Vercel](https://vercel.com/) 一个免费的、针对前端开发人员的网站托管平台，## 提供创新者在灵感迸发时所需的速度和可靠性。它将开发人员从拖慢工作速度的耗时、不必要的流程中解放出来，这样您和您的团队就可以专注于创作。它具有如下功能特征：
 
 ### 灵感来袭时构建
 
@@ -56,7 +56,7 @@ Next.js 和 Vercel 协同工作，为您的最终用户提供最佳性能，同�
 
 分析日志、了解流量和使用情况并轻松优化您的应用程序，无需额外的工具或代码。
 
-[Vercel](https://nicelinks.site/redirect?url=https://vercel.com/) 类似于 Github Page，但远比它还强大，速度也快得多，而且将 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 授权给 vercel 后，基于其内置 CI/CD，可以达到最优雅的发布体验：只需将代码推送，项目就自动更新部署。`vercel` 还支持部署 [ServerLess](https://nicelinks.site/post/5bc4c2136d02e84b14b5e4cb) 接口。那代表着，其不仅仅可以部署静态网站，甚至可以**部署动态网站**，而这些功能，统统是免费的。Vercel 提供了免费的域名，省去了申请域名的问题，如果拥有自己的域名，还可以将域名解析到 Vercel 平台；更棒的 vercel 还支持自动配置 `https`，不用自己去申请免费 SSL 证书，更是省去了一大堆证书的配置，简直是懒人的福利。如果您有部署网站服务，[Vercel](https://nicelinks.site/redirect?url=https://vercel.com/) 绝对当下首选平台。
+[Vercel](https://vercel.com/) 类似于 Github Page，但远比它还强大，速度也快得多，而且将 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 授权给 vercel 后，基于其内置 CI/CD，可以达到最优雅的发布体验：只需将代码推送，项目就自动更新部署。`vercel` 还支持部署 [ServerLess](https://nicelinks.site/post/5bc4c2136d02e84b14b5e4cb) 接口。那代表着，其不仅仅可以部署静态网站，甚至可以**部署动态网站**，而这些功能，统统是免费的。Vercel 提供了免费的域名，省去了申请域名的问题，如果拥有自己的域名，还可以将域名解析到 Vercel 平台；更棒的 vercel 还支持自动配置 `https`，不用自己去申请免费 SSL 证书，更是省去了一大堆证书的配置，简直是懒人的福利。如果您有部署网站服务，[Vercel](https://vercel.com/) 绝对当下首选平台。
 
 ── 出自[倾城之链 - Vercel: Develop. Preview. Ship. For the best frontend teams](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)
 
@@ -68,7 +68,7 @@ Next.js 和 Vercel 协同工作，为您的最终用户提供最佳性能，同�
 
 ![倾城之链 - AdonisJS - A fully featured web framework for Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/adonisjs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AdonisJS](https://nicelinks.site/redirect?url=https://adonisjs.com/) ，功能齐全的  Node.js、 Web 框架，号称包含创建功能齐全的网络应用程序或 API 服务器所需的一切，使用 AdonisJS，从第一天起就可以高效工作。同类型的框架有 [Express](https://nicelinks.site/redirect?url=https://expressjs.com/)（一个最小且灵活的 Node.js Web 应用程序框架）、[Koa2](https://nicelinks.site/redirect?url=https://koajs.com/) （用于 node.js 的下一代 Web 框架，[倾城之链](https://nicelinks.site)后台用的便是 `Koa2`）、[Egg.js](https://nicelinks.site/redirect?url=https://www.eggjs.org/) （为企业级框架和应用而生）等等。
+**推荐语**：[AdonisJS](https://adonisjs.com/) ，功能齐全的  Node.js、 Web 框架，号称包含创建功能齐全的网络应用程序或 API 服务器所需的一切，使用 AdonisJS，从第一天起就可以高效工作。同类型的框架有 [Express](https://expressjs.com/)（一个最小且灵活的 Node.js Web 应用程序框架）、[Koa2](https://koajs.com/) （用于 node.js 的下一代 Web 框架，[倾城之链](https://nicelinks.site)后台用的便是 `Koa2`）、[Egg.js](https://www.eggjs.org/) （为企业级框架和应用而生）等等。
 
 AdonisJS 是一个后端框架，它专注于**人体工程学和速度**的全栈 Web 框架。它解决了很多 Web 开发难题，为您提供干净稳定的 API 来构建 Web 应用程序和微服务；可以帮助您创建数据驱动的动态 Web 应用程序。使用 AdonisJS，您可以**处理 HTTP 请求**、**查询数据库**、**验证用户**、**上传文件**、**发送电子邮件**，以及做更多的事情。
 
@@ -84,7 +84,7 @@ AdonisJS 是一个后端框架，它专注于**人体工程学和速度**的全�
 
 ![倾城之链 - Dockhunt - What's in your dock?](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dockhunt.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dockhunt](https://nicelinks.site/redirect?url=https://www.dockhunt.com/)，发现每个人都在停靠（Docking）的应用程序，即发现其他人 macOS dock（程序坞）；如果要添加您自己的 dock（程序坞），只需在您的终端中运行“npx dockhunt”，或运行他们的桌面应用程序，它是 100% 开源的。
+**推荐语**：[Dockhunt](https://www.dockhunt.com/)，发现每个人都在停靠（Docking）的应用程序，即发现其他人 macOS dock（程序坞）；如果要添加您自己的 dock（程序坞），只需在您的终端中运行“npx dockhunt”，或运行他们的桌面应用程序，它是 100% 开源的。
 
 Dockhunt 是一个很妙的想法，如同为优质网站或 AI 产品做的导航，只不过它针对的是 MacOS Dock；粗略浏览会发现、Chrome、[Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab)、[Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、[Visual Studio Code](https://nicelinks.site/post/5af55777979f626ea3d37917)、[Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c)、以及生产力相关应用出现频率很高，可见分享者多是互联网从业人员（程序员、设计师）。在分享同时，您可以发现其他人的选择（好些应用程序未曾听闻），或可以为您带来效率提升、应用参考、乃至创造灵感。
 
@@ -100,7 +100,7 @@ Dockhunt 是一个很妙的想法，如同为优质网站或 AI 产品做的导�
 
 ![倾城之链 - 500+ ChatGPT and GPT-3 Examples, Demos, Apps, Showcase, and AI Use-cases | Discover AI use cases](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gpt3demo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GPT-3 DEMO](https://nicelinks.site/redirect?url=https://gpt3demo.com/)，承载 ChatGPT、AI 和 GPT-3 应用程序和用例的网站。`GPT-3` （**Generative Pre-trained Transformer 3**）是世界上最复杂的自然语言技术，您可以在该网站获取灵感，并了解各公司如何实施人工智能以推动新的用例（Use Cases）。截止目前（2023 年 01 月 31 日），该网站已收录超过 580 款应用，涵盖 A/B 测试、广告生成、聊天机器人、GPT-3 替代大型语言模型 (LLM)、ChatGPT 替代品、编码助理、人工智能文案、决策助手、创意生成器、图片生成、游戏开发等仅百个类别，可见智能化发展之快，涉及范围之广。
+**推荐语**：[GPT-3 DEMO](https://gpt3demo.com/)，承载 ChatGPT、AI 和 GPT-3 应用程序和用例的网站。`GPT-3` （**Generative Pre-trained Transformer 3**）是世界上最复杂的自然语言技术，您可以在该网站获取灵感，并了解各公司如何实施人工智能以推动新的用例（Use Cases）。截止目前（2023 年 01 月 31 日），该网站已收录超过 580 款应用，涵盖 A/B 测试、广告生成、聊天机器人、GPT-3 替代大型语言模型 (LLM)、ChatGPT 替代品、编码助理、人工智能文案、决策助手、创意生成器、图片生成、游戏开发等仅百个类别，可见智能化发展之快，涉及范围之广。
 
 Generative Pre-trained Transformer 3 ( GPT-3 ) 是 2020 年发布的一种自回归 语言模型，它使用深度学习来生成类似人类的文本。给定初始文本作为提示，它将生成继续提示的文本。
 
@@ -118,7 +118,7 @@ Generative Pre-trained Transformer 3 ( GPT-3 ) 是 2020 年发布的一种自回
 
 ![倾城之链 - shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ui.shadcn.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[shadcn/ui](https://nicelinks.site/redirect?url=https://ui.shadcn.com/)，使用 Radix UI 和 Tailwind CSS 构建的设计精美的组件库；您可以将可访问和可自定义的组件复制并粘贴到您的应用程序中。完全开源，自由使用，Next.js 13 已准备就绪。直接目前已提供 30 余种组件，样式精美，可直接用于生产，支持黑暗模式、[Lucide](https://lucide.dev/) 的图标等等。如果你有意基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 框架搭建网站，[shadcn/ui](https://nicelinks.site/redirect?url=https://ui.shadcn.com/) 组件库非常值得考虑；如果您对其感兴趣，可移步 Github 开源仓库 [shadcn/ui](https://github.com/shadcn/ui)以了解更多。
+**推荐语**：[shadcn/ui](https://ui.shadcn.com/)，使用 Radix UI 和 Tailwind CSS 构建的设计精美的组件库；您可以将可访问和可自定义的组件复制并粘贴到您的应用程序中。完全开源，自由使用，Next.js 13 已准备就绪。直接目前已提供 30 余种组件，样式精美，可直接用于生产，支持黑暗模式、[Lucide](https://lucide.dev/) 的图标等等。如果你有意基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 框架搭建网站，[shadcn/ui](https://ui.shadcn.com/) 组件库非常值得考虑；如果您对其感兴趣，可移步 Github 开源仓库 [shadcn/ui](https://github.com/shadcn/ui)以了解更多。
 
 ── 出自[倾城之链 - shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://nicelinks.site/post/63d9140a3b0bd5224de204a9)
 
@@ -130,9 +130,9 @@ Generative Pre-trained Transformer 3 ( GPT-3 ) 是 2020 年发布的一种自回
 
 ![倾城之链 - 数字游民部落](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jarodise.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[数字游民部落](https://nicelinks.site/redirect?url=https://jarodise.com/) ，为数字游民 [Jarod](https://github.com/jarodise) （内容创作者，数字游民生活方式倡导者与践行者）所创建；承载中文互联网数字游民生活方式相关分享内容。**数字游民**（英语：Digital Nomads）这个词首次由前日立公司的 CEO 牧本次雄在其 1997 年出版的同名著作中提出；它是指通过电信技术(尤其是互联网）来移动办公，以支持生活和旅行的一种生活方式。
+**推荐语**：[数字游民部落](https://jarodise.com/) ，为数字游民 [Jarod](https://github.com/jarodise) （内容创作者，数字游民生活方式倡导者与践行者）所创建；承载中文互联网数字游民生活方式相关分享内容。**数字游民**（英语：Digital Nomads）这个词首次由前日立公司的 CEO 牧本次雄在其 1997 年出版的同名著作中提出；它是指通过电信技术(尤其是互联网）来移动办公，以支持生活和旅行的一种生活方式。
 
-中文数字游民生活方式主题博客 [数字游民部落](https://nicelinks.site/redirect?url=https://jarodise.com/) 给这种生活方式下了一个更为具体的定义: 数字游民是一种被数字信息技术赋能的全新生活方式，它的受众特指那些完全依靠互联网创造收入，并借此打破工作与工作地点间的强关系，达成地理位置自由和时间自由，并尽享地理套利红利，全球移动生活的人群。
+中文数字游民生活方式主题博客 [数字游民部落](https://jarodise.com/) 给这种生活方式下了一个更为具体的定义: 数字游民是一种被数字信息技术赋能的全新生活方式，它的受众特指那些完全依靠互联网创造收入，并借此打破工作与工作地点间的强关系，达成地理位置自由和时间自由，并尽享地理套利红利，全球移动生活的人群。
 
 数字游民们通常在不同的城市，甚至在不同的国家进行远程工作。他们可能在咖啡店、公共图书馆、公用办公空间甚至露营车工作。他们通过使用连接互联网的计算机、智能手机进行工作。成功的数字游民一般具有对应各种紧急状态的财务缓冲能力，同时也具有较好的自力更生和自律能力。
 
@@ -152,7 +152,7 @@ Generative Pre-trained Transformer 3 ( GPT-3 ) 是 2020 年发布的一种自回
 
 ![倾城之链 - ZipTool - View zip file online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ziptool.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ZipTool](https://nicelinks.site/redirect?url=https://ziptool.app/) ，在线查看压缩文件的网站（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 等框架搭建）。一键拖动 zip 文件至网页，或「**点击选择**」按钮选择本地 zip 文件 📃，即可快速查看该压缩文件（支持预览图片、视频、PDF、文本、音频）。它具有以下功能特征：
+**推荐语**：[ZipTool](https://ziptool.app/) ，在线查看压缩文件的网站（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 等框架搭建）。一键拖动 zip 文件至网页，或「**点击选择**」按钮选择本地 zip 文件 📃，即可快速查看该压缩文件（支持预览图片、视频、PDF、文本、音频）。它具有以下功能特征：
 
 - **瞬间快速**：无需上传；
 - **100% 隐私安全**：一切都发生在您的浏览器中；
@@ -162,7 +162,7 @@ Generative Pre-trained Transformer 3 ( GPT-3 ) 是 2020 年发布的一种自回
 
 ZIP 是**一种广泛使用的存档文件格式，用于将一个或多个文件压缩到一个位置，从而减小整体大小，并使得文件更易于传输**。 ZIP 文件的工作方式与您电脑上的标准文件夹基本上相同。 但是，对于 ZIP 压缩文件而言，文件夹的内容经过了压缩，因而减小了电脑使用的数据量。
 
-ZIP 是目前比较主流的压缩**文件**格式。不能直接打开，需要借助一个支持 `.zip` 解压缩工具才能**打开**，才能提取里面的文件出来。如果您的设备上未安装解压工具，[ZipTool](https://nicelinks.site/redirect?url=https://ziptool.app/) ，可以为您提供很大便利。
+ZIP 是目前比较主流的压缩**文件**格式。不能直接打开，需要借助一个支持 `.zip` 解压缩工具才能**打开**，才能提取里面的文件出来。如果您的设备上未安装解压工具，[ZipTool](https://ziptool.app/) ，可以为您提供很大便利。
 
 ── 出自[倾城之链 - ZipTool - View zip file online](https://nicelinks.site/post/63d61a89ac46415757ac769f)
 

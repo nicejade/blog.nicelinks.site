@@ -10,7 +10,7 @@
 
 ![倾城之链 - Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jami.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Jami](https://nicelinks.site/redirect?url=https://jami.net/) 是一款由 Savoir-faire Linux 开发的开源通讯软件，它提供了一种去中心化的通讯方式，支持实时语音通话、视频、文件传输、消息等功能，用户可以在不泄露个人数据的情况下，安全、私密地进行通讯。它具有以下功能特征：
+**推荐语**：[Jami](https://jami.net/) 是一款由 Savoir-faire Linux 开发的开源通讯软件，它提供了一种去中心化的通讯方式，支持实时语音通话、视频、文件传输、消息等功能，用户可以在不泄露个人数据的情况下，安全、私密地进行通讯。它具有以下功能特征：
 
 - **分布式**：Jami 是完全点对点的，不需要服务器在用户之间中继数据；
 - **自由**：Jami 是由自由软件基金会支持的 GNU 项目，并在 GPLv3 许可证下进行分发；
@@ -38,7 +38,7 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 
 ![倾城之链 - BlueQubit App](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/app.bluequbit.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[BlueQubit App](https://nicelinks.site/redirect?url=https://app.bluequbit.io/) 是一个基于云的量子计算平台，提供云端的量子计算服务和智能算法工具，旨在帮助用户进行量子计算模拟和开发。该平台使用了最先进的量子计算技术，包括量子门模拟、量子纠缠和量子误差校正等，使得用户可以在云端进行量子计算的实验和研究。
+**推荐语**：[BlueQubit App](https://app.bluequbit.io/) 是一个基于云的量子计算平台，提供云端的量子计算服务和智能算法工具，旨在帮助用户进行量子计算模拟和开发。该平台使用了最先进的量子计算技术，包括量子门模拟、量子纠缠和量子误差校正等，使得用户可以在云端进行量子计算的实验和研究。
 
 量子计算与经典计算根本不同，因为它使用**叠加**和**纠缠**等概念。这使得量子计算机的功能呈指数级增长。普通计算机的构建块是位：0 和 1。在量子世界中，它们的对应物是**量子比特**（`qubits`）——量子位（`quantum bits`）。
 
@@ -67,7 +67,7 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 
 ![倾城之链 - Products, Tools and Resources for Developers & Designers | Resource.fyi](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/resource.fyi.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Resource.fyi](https://nicelinks.site/redirect?url=https://resource.fyi/) ，是一个互动 [平台](https://nicelinks.site/tags/平台) ，为开发人员、设计师、营销人员和技术专业人士策划的资源、产品和工具。该网站提供了大量的技能学习资源，包括编程语言、设计工具、数据科学、自我提高、工具和资源等，它们都是经过筛选和认可的高质量资源。
+**推荐语**：[Resource.fyi](https://resource.fyi/) ，是一个互动 [平台](https://nicelinks.site/tags/平台) ，为开发人员、设计师、营销人员和技术专业人士策划的资源、产品和工具。该网站提供了大量的技能学习资源，包括编程语言、设计工具、数据科学、自我提高、工具和资源等，它们都是经过筛选和认可的高质量资源。
 
 该网站的主要特点是其简洁和易于浏览的设计。每个资源都有一个简短的描述和评级，以及链接到该资源的详细信息页面。这些详细信息页面包括资源的类型、难度、费用和其他相关信息。此外，用户还可以为每个资源提供反馈和评论。
 
@@ -83,7 +83,7 @@ Resource.fyi 还提供了许多有用的工具，例如自动化和人工智能�
 
 ![倾城之链 - Style Component | Visual primitives for the component age](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/styled-components.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Styled Components](https://nicelinks.site/redirect?url=https://styled-components.com/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 库的 CSS in JS 库，提供了一种在 React 组件中编写 CSS 样式的全新方式。在传统的 React 组件中，我们通常使用外部样式表或者内联样式来定义样式，但是这种方式会导致样式表分散在不同文件或者组件中，造成管理难度和维护困难的问题。而使用 Styled Components，所有的样式都定义在组件内部，使得代码更加简洁、易于维护。
+**推荐语**：[Styled Components](https://styled-components.com/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 库的 CSS in JS 库，提供了一种在 React 组件中编写 CSS 样式的全新方式。在传统的 React 组件中，我们通常使用外部样式表或者内联样式来定义样式，但是这种方式会导致样式表分散在不同文件或者组件中，造成管理难度和维护困难的问题。而使用 Styled Components，所有的样式都定义在组件内部，使得代码更加简洁、易于维护。
 
 Styled Components 提供了一个诸如 CSS 的语言来定义样式，并使用模板字符串和 JavaScript 对象来创建组件样式。它还支持动态样式和样式的继承，方便开发人员根据组件状态或者数据动态地修改样式。
 
@@ -123,7 +123,7 @@ Styled Components 是一个 CSS in JS 库，它提供了一种在 React 组件�
 
 ![倾城之链 - Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/morioh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Morioh](https://nicelinks.site/redirect?url=https://morioh.com/) 是一个技术社区网站，提供各种 IT 技术和开发教程、资源和文章。它包括了开发者感兴趣的领域，如前端、后端、人工智能、机器学习、数据科学、区块链等等，涵盖面非常广。Morioh 的目标是为开发人员提供最新、最实用、最有价值的技术内容，并帮助技术人员更好地应对日益复杂的技术挑战。
+**推荐语**：[Morioh](https://morioh.com/) 是一个技术社区网站，提供各种 IT 技术和开发教程、资源和文章。它包括了开发者感兴趣的领域，如前端、后端、人工智能、机器学习、数据科学、区块链等等，涵盖面非常广。Morioh 的目标是为开发人员提供最新、最实用、最有价值的技术内容，并帮助技术人员更好地应对日益复杂的技术挑战。
 
 Morioh 的特点在于它使用非常简洁、直观的界面设计，用户可以轻松地找到自己想要的内容，该网站还拥有一个强大的搜索功能，方便用户根据关键词查询。
 

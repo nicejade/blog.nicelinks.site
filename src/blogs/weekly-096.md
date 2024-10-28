@@ -10,7 +10,7 @@
 
 ![倾城之链 - D-ID | The #1 Choice for AI Generated Video Creation Platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.d-id.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[D-ID](https://nicelinks.site/redirect?url=https://www.d-id.com/) ，**面向未来的生成人工智能平台**，只需按一下按钮，即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。它具有以下功能特征：
+**推荐语**：[D-ID](https://www.d-id.com/) ，**面向未来的生成人工智能平台**，只需按一下按钮，即可制作带有会说话的头像的定制视频，为企业和创作者提供超能力。它具有以下功能特征：
 
 ### **人类想象力的数字创作**
 
@@ -34,7 +34,7 @@ D-ID 的 Generative AI 使用户能够将任何图片或视频转化为非凡的
 
 ![倾城之链 - Umami | Own your website analytics](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/umami.is.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Umami](https://nicelinks.site/redirect?url=https://umami.is/) 是一个开源、注重隐私的平台，谷歌分析（Google Analytics）的替代方案（尤其是在 2023 年 7 月，谷歌全面切换至 `GA4`——目前来看其体验颇为欠佳）。其创立理念是，用户应该通过他们使用的软件获得授权，而不应该为了交换而放弃隐私和数据所有权等基本权利。`umami` 具有以下功能特征：
+**推荐语**：[Umami](https://umami.is/) 是一个开源、注重隐私的平台，谷歌分析（Google Analytics）的替代方案（尤其是在 2023 年 7 月，谷歌全面切换至 `GA4`——目前来看其体验颇为欠佳）。其创立理念是，用户应该通过他们使用的软件获得授权，而不应该为了交换而放弃隐私和数据所有权等基本权利。`umami` 具有以下功能特征：
 
 ### 尊重数据隐私
 
@@ -66,7 +66,7 @@ Umami 是一个自行托管的网络分析解决方案。有许多不同的方�
 
 ![倾城之链 - vivo 招聘](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hr.vivo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[vivo](https://nicelinks.site/post/5b3ce12a615bf842b609103f) 是一家以设计驱动创造伟大产品，以智能终端和智慧服务为核心的科技公司。其愿景是：成为更健康、更长久的世界一流企业；“本分、用户导向、设计驱动、学习、团队”是其核心价值观。 [vivo 招聘](https://nicelinks.site/redirect?url=https://hr.vivo.com/) 是 vivo 官方招聘平台（含社会招聘、校园招聘），旨在诚邀精英共创智能未来。
+**推荐语**：[vivo](https://nicelinks.site/post/5b3ce12a615bf842b609103f) 是一家以设计驱动创造伟大产品，以智能终端和智慧服务为核心的科技公司。其愿景是：成为更健康、更长久的世界一流企业；“本分、用户导向、设计驱动、学习、团队”是其核心价值观。 [vivo 招聘](https://hr.vivo.com/) 是 vivo 官方招聘平台（含社会招聘、校园招聘），旨在诚邀精英共创智能未来。
 
 ### 工作介绍
 
@@ -76,7 +76,7 @@ Umami 是一个自行托管的网络分析解决方案。有许多不同的方�
 
 让员工 Happy，是 vivo 的责任之一。因此，vivo 会认真对待每个人的辛苦付出，提供有竞争力的薪酬和各种资源，帮助你收获健康、快乐与成长。
 
-vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供应链类、营销类、市场类、公共类、品质类、产品运营类等；把握机会就现在，在 [vivo 招聘](https://nicelinks.site/redirect?url=https://hr.vivo.com/) 探索你擅长或感兴趣的工作领域，让 vivo 发现优秀的你。无论你是应届生、还是职场达人，都能在此大放异彩。
+vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供应链类、营销类、市场类、公共类、品质类、产品运营类等；把握机会就现在，在 [vivo 招聘](https://hr.vivo.com/) 探索你擅长或感兴趣的工作领域，让 vivo 发现优秀的你。无论你是应届生、还是职场达人，都能在此大放异彩。
 
 ── 出自[倾城之链 - vivo 招聘](https://nicelinks.site/post/6399b464e524a8432ed1ddea)
 
@@ -88,7 +88,7 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 ![倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/yew.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Yew](https://nicelinks.site/redirect?url=https://yew.rs/) 是一个现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端 Web 应用程序；能够达成前后端都使用 Rust 开发；它使用类似 React JSX 的语法开发页面，同时支持 class 和函数式两种组件编写方式（据悉，性能尚不如 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、[SolidJS](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 这些）。它具有以下功能特性：
+**推荐语**：[Yew](https://yew.rs/) 是一个现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端 Web 应用程序；能够达成前后端都使用 Rust 开发；它使用类似 React JSX 的语法开发页面，同时支持 class 和函数式两种组件编写方式（据悉，性能尚不如 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、[SolidJS](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 这些）。它具有以下功能特性：
 
 ### 基于组件
 
@@ -110,7 +110,7 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 支持 [JavaScript](https://nicelinks.site/tags/JavaScript) 互操作性，允许开发人员利用 NPM 包并与现有 JavaScript 应用程序集成。
 
-[Yew](https://nicelinks.site/redirect?url=https://yew.rs/) 是一个受 Elm 和 React 启发的现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端应用程序。该项目在 [Github 开源](https://github.com/yewstack/yew) （截止 2022 年 12 月 13 日，Yew 尚未达到 `1.0`，经常有激进的 API 更改或重构）；如果您想了解更多，可以参见 [Awesome Yew](https://github.com/jetli/awesome-yew) （精心策划的与 `yew` 有关的精彩事物列表）。
+[Yew](https://yew.rs/) 是一个受 Elm 和 React 启发的现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端应用程序。该项目在 [Github 开源](https://github.com/yewstack/yew) （截止 2022 年 12 月 13 日，Yew 尚未达到 `1.0`，经常有激进的 API 更改或重构）；如果您想了解更多，可以参见 [Awesome Yew](https://github.com/jetli/awesome-yew) （精心策划的与 `yew` 有关的精彩事物列表）。
 
 ── 出自[倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://nicelinks.site/post/6398874ae524a8432ed1d43e)
 
@@ -122,7 +122,7 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 ![倾城之链 - V8 JavaScript engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/v8.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[V8](https://nicelinks.site/redirect?url=https://v8.dev/) 是 Google 的开源高性能 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 引擎，用 C++ 编写。它用于 Chrome、Node.js、和 [快应用](https://nicelinks.site/tags/快应用) 等。它实现了 ECMAScript 和 WebAssembly，并运行在 Windows 7 或更高版本、macOS 10.12+ 和使用 x64、IA-32、ARM 或 MIPS 处理器的 Linux 系统上。V8 可以独立运行，也可以嵌入到任何 C++ 应用程序中。
+**推荐语**：[V8](https://v8.dev/) 是 Google 的开源高性能 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 引擎，用 C++ 编写。它用于 Chrome、Node.js、和 [快应用](https://nicelinks.site/tags/快应用) 等。它实现了 ECMAScript 和 WebAssembly，并运行在 Windows 7 或更高版本、macOS 10.12+ 和使用 x64、IA-32、ARM 或 MIPS 处理器的 Linux 系统上。V8 可以独立运行，也可以嵌入到任何 C++ 应用程序中。
 
 V8 编译和执行 JavaScript 源代码，处理对象的内存分配，以及垃圾收集它不再需要的对象。V8 的 stop-the-world、generation、精确的垃圾收集器是 V8 性能的关键之一。
 
@@ -130,7 +130,7 @@ JavaScript 通常用于浏览器中的客户端脚本，例如被用来操作文
 
 V8 使任何 C++ 应用程序能够将自己的对象和函数暴露给 JavaScript 代码。这取决于你决定哪些对象和函数是你想暴露给 JavaScript 的。
 
-[v8.dev](https://nicelinks.site/redirect?url=https://v8.dev/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Firebase 搭建的网站；用以承载 V8 开发者博客、V8 文档、JavaScript / WebAssembly 特征等内容。如果您对 `v8` 或 WebAssembly 相关内容感兴趣，`v8.dev` 非常值得关注。
+[v8.dev](https://v8.dev/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Firebase 搭建的网站；用以承载 V8 开发者博客、V8 文档、JavaScript / WebAssembly 特征等内容。如果您对 `v8` 或 WebAssembly 相关内容感兴趣，`v8.dev` 非常值得关注。
 
 ── 出自[倾城之链 - V8 JavaScript engine](https://nicelinks.site/post/63986e3ce524a8432ed1d256)
 

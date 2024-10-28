@@ -10,7 +10,7 @@
 
 ![倾城之链 - Free screen recorder for Mac and PC | Loom](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.loom.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Loom](https://nicelinks.site/redirect?url=https://www.loom.com/) 是一款线上会议 [录制视屏](https://nicelinks.site/tags/录制视屏) 工具，公司创立于 2015 年，只是一个 Chrome 插件，后来陆续发布了桌面端和手机端。它会把你的录屏自动发到云端，生成一个链接，你把这个 URL 发给其他人，对方就能在 Loom 的网站看到这个视频；它对企业用户非常有用，有些事情说不清，录一段屏就能让别人明白。
+**推荐语**：[Loom](https://www.loom.com/) 是一款线上会议 [录制视屏](https://nicelinks.site/tags/录制视屏) 工具，公司创立于 2015 年，只是一个 Chrome 插件，后来陆续发布了桌面端和手机端。它会把你的录屏自动发到云端，生成一个链接，你把这个 URL 发给其他人，对方就能在 Loom 的网站看到这个视频；它对企业用户非常有用，有些事情说不清，录一段屏就能让别人明白。
 
 他们的愿景是：「是让工作中的每个人无论身在何处都能更有效地沟通。」。\除了影音画面的录制外，Loom 还支援简单的编辑功能，比如裁切、加入逐字稿等，档案会自动上传到云端资料夹，录制完就可以直接分享影片连结，或者下载档案给他人。Loom 官方总结了以下功能特征：
 
@@ -50,7 +50,7 @@
 
 ![倾城之链 - DBeaver Community | Free Universal Database Tool](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dbeaver.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DBeaver Community](https://nicelinks.site/redirect?url=https://dbeaver.io/) 是一个 [免费](https://nicelinks.site/tags/免费) 的跨平台 [数据库](https://nicelinks.site/tags/数据库) 工具，适用于开发人员、数据库管理员、分析师和所有使用数据的人。它支持所有流行的 SQL 数据库，如 [MySQL](https://nicelinks.site/post/64294043778bb32004faa324) , MariaDB, [PostgreSQL](https://nicelinks.site/post/6427c63b2d6c9c63445ca2d8) , [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) , Apache Family 等。`dbeaver` 它具有如下功能特性：
+**推荐语**：[DBeaver Community](https://dbeaver.io/) 是一个 [免费](https://nicelinks.site/tags/免费) 的跨平台 [数据库](https://nicelinks.site/tags/数据库) 工具，适用于开发人员、数据库管理员、分析师和所有使用数据的人。它支持所有流行的 SQL 数据库，如 [MySQL](https://nicelinks.site/post/64294043778bb32004faa324) , MariaDB, [PostgreSQL](https://nicelinks.site/post/6427c63b2d6c9c63445ca2d8) , [SQLite](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022) , Apache Family 等。`dbeaver` 它具有如下功能特性：
 
 - 拥有很多功能，包括元数据编辑器、SQL 编辑器、丰富的数据编辑器、ERD、数据导出/导入/迁移、SQL 执行计划等。
 - 基于 Eclipse 平台。
@@ -70,7 +70,7 @@
 
 ![倾城之链 - 映相 Swapr | AI 换脸](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/swapr.lol.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Swapr](https://nicelinks.site/redirect?url=https://swapr.lol/) 是一款基于 [AI](https://nicelinks.site/tags/AI) 技术的颠覆性换脸软件，与其他传统换脸应用不同的是，Swapr 基于大模型训练而来，这使得 Swapr 具有更真实的换脸效果。除此之外，Swapr 还内置了 Text To Emoji 的功能，你可以用文本创造任何可爱的 Emoji 。😁 Swapr 具有如下功能特性：
+**推荐语**：[Swapr](https://swapr.lol/) 是一款基于 [AI](https://nicelinks.site/tags/AI) 技术的颠覆性换脸软件，与其他传统换脸应用不同的是，Swapr 基于大模型训练而来，这使得 Swapr 具有更真实的换脸效果。除此之外，Swapr 还内置了 Text To Emoji 的功能，你可以用文本创造任何可爱的 Emoji 。😁 Swapr 具有如下功能特性：
 
 ### 创新思维
 
@@ -100,9 +100,9 @@ Swapr 提供了隐私保护功能，可以对交换后的图片进行加密，�
 
 ![倾城之链 - Wanderlog: best free travel itinerary & road trip planner app](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wanderlog.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wanderlog](https://nicelinks.site/redirect?url=https://wanderlog.com/) ，一款适合您想要的任何 [旅行](https://nicelinks.site/tags/旅行) 的最佳免费计划应用程序。通过 Web 或移动应用程序（Android 和 iOS），与您的朋友一起使用最好的旅行计划器标记路线、计划和地图，计划您的假期或公路旅行。
+**推荐语**：[Wanderlog](https://wanderlog.com/) ，一款适合您想要的任何 [旅行](https://nicelinks.site/tags/旅行) 的最佳免费计划应用程序。通过 Web 或移动应用程序（Android 和 iOS），与您的朋友一起使用最好的旅行计划器标记路线、计划和地图，计划您的假期或公路旅行。
 
-使用 [Wanderlog](https://nicelinks.site/redirect?url=https://wanderlog.com/) ，您的行程和地图一目了然，不再需要在不同的应用程序、选项卡和工具之间切换来跟踪您的旅行计划。官方给出如下功能特征：
+使用 [Wanderlog](https://wanderlog.com/) ，您的行程和地图一目了然，不再需要在不同的应用程序、选项卡和工具之间切换来跟踪您的旅行计划。官方给出如下功能特征：
 
 ### 一键添加指南中的地点
 
@@ -142,7 +142,7 @@ Wanderlog 已抓取网络，因此您无需这样做。轻松保存提到的地�
 
 ![倾城之链 - Zero to Sold | How to Start, Run, and Sell a Bootstrapped Business](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zerotosold.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zero to Sold](https://nicelinks.site/redirect?url=https://zerotosold.com/) （从零到销售），一本关于”如何创办、经营和出售自力更生的企业“的书籍 📚；《Zero to Sold | 从零到销售》是一本全面且可操作的指南，涵盖了自力更生企业的四个阶段：**准备**、**生存**、**稳定**和**增长**。该书讲述了 Feedback Panda 的故事，这是一家可持续发展的、自力更生的软件公司，在被收购之前已发展到拥有数千名客户。
+**推荐语**：[Zero to Sold](https://zerotosold.com/) （从零到销售），一本关于”如何创办、经营和出售自力更生的企业“的书籍 📚；《Zero to Sold | 从零到销售》是一本全面且可操作的指南，涵盖了自力更生企业的四个阶段：**准备**、**生存**、**稳定**和**增长**。该书讲述了 Feedback Panda 的故事，这是一家可持续发展的、自力更生的软件公司，在被收购之前已发展到拥有数千名客户。
 
 如果你想建立一家自筹资金的企业，让你的财务安全得到保障，那么这本书就适合你。**这本书对您有什么好处**？官方网站给出以下几个观点：
 
@@ -182,7 +182,7 @@ Wanderlog 已抓取网络，因此您无需这样做。轻松保存提到的地�
 
 ![倾城之链 - 600+  Free Illustrations | llustrations.so](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/illustration.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[llustrations.so](https://nicelinks.site/redirect?url=http://illustration.so) ：一个提供了 600 多张免费 [插画](https://nicelinks.site/tags/插图) 的网站，适合您的下一个营销、设计或任何项目。网站由专业人士创建，包含 35 个独特的插画包，涵盖旅行、购物、节日、科技、宠物、食物等插画。这些插画全部免费且可用于商业用途，支持 SVG 和 PNG 格式。
+**推荐语**：[llustrations.so](=http://illustration.so) ：一个提供了 600 多张免费 [插画](https://nicelinks.site/tags/插图) 的网站，适合您的下一个营销、设计或任何项目。网站由专业人士创建，包含 35 个独特的插画包，涵盖旅行、购物、节日、科技、宠物、食物等插画。这些插画全部免费且可用于商业用途，支持 SVG 和 PNG 格式。
 
 ── 出自[倾城之链 - 600+ Free Illustrations | llustrations.so](https://nicelinks.site/post/65338dc6cdc44a66cdfb8453)
 

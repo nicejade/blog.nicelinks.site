@@ -28,7 +28,7 @@
 
 ![倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.makeswift.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/)，一个优雅的无代码、基于 Next.js 的网站构建器；您不需要学习 HTML 和 CSS 即可使用，[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/) 适合那些厌倦了权衡取舍，并准备快速行动并制作东西的建筑商。[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/)，具有**设计工具**的功能和细节。现在，您可以停止尝试将您的想法融入僵化模板的约束中，让您的创造力变为现实。值得一提的是，您的实时网站是一个 Next.js 应用程序，使用熟悉的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件构建，在 Vercel 的极速边缘网络上运行。在每个屏幕上都很完美。在每台设备上轻松完全控制您的设计。单击即可重构布局，并在不同的屏幕尺寸上快速预览您的设计（官方描述）。除此之外，[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/) 还具有以下特色：
+**推荐语**：[Makeswift](https://www.makeswift.com/)，一个优雅的无代码、基于 Next.js 的网站构建器；您不需要学习 HTML 和 CSS 即可使用，[Makeswift](https://www.makeswift.com/) 适合那些厌倦了权衡取舍，并准备快速行动并制作东西的建筑商。[Makeswift](https://www.makeswift.com/)，具有**设计工具**的功能和细节。现在，您可以停止尝试将您的想法融入僵化模板的约束中，让您的创造力变为现实。值得一提的是，您的实时网站是一个 Next.js 应用程序，使用熟悉的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件构建，在 Vercel 的极速边缘网络上运行。在每个屏幕上都很完美。在每台设备上轻松完全控制您的设计。单击即可重构布局，并在不同的屏幕尺寸上快速预览您的设计（官方描述）。除此之外，[Makeswift](https://www.makeswift.com/) 还具有以下特色：
 
 - **即时布局**：快速放入导航栏、Hero 部分、功能内容等，大大加快您的工作流程；
 - **全平台设计系统**：添加站点范围的色板和可重复使用的排版，以在每个设备上的页面上保持样式一致；
@@ -41,7 +41,7 @@
 - **使用 Zapier 实现自动化**：使用我们的 Zapier 集成将表单与 2000 多个应用程序无缝集成；
 - **自定义名称和 ID**：在任何元素上设置自定义 ID 属性，以在您的自定义代码片段中定位。
 
-[Makeswift](https://nicelinks.site/redirect?url=https://www.makeswift.com/) 在您构建时是免费的，创建一个帐户就能立即开始构建！注册时无需信用卡，只需在您准备好发布网站时付款。当然，如果您有创建网站的诉求，有在[网站生成器 | 倾城](https://nicelinks.site/tags/网站生成器)，收录了非常多工具或产品，您可以对比择优使用。
+[Makeswift](https://www.makeswift.com/) 在您构建时是免费的，创建一个帐户就能立即开始构建！注册时无需信用卡，只需在您准备好发布网站时付款。当然，如果您有创建网站的诉求，有在[网站生成器 | 倾城](https://nicelinks.site/tags/网站生成器)，收录了非常多工具或产品，您可以对比择优使用。
 
 ── 出自[倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://nicelinks.site/post/614334cf48b293062990b34f)
 
@@ -53,9 +53,9 @@
 
 ![倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jsnice.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[JS NICE](https://nicelinks.site/redirect?url=http://jsnice.org/)，一款在线 JavaScript 代码美化服务工具（该服务由苏黎世联邦理工学院计算机科学系的安全、可靠和智能系统实验室提供，并且是免费的），它支持**变量重命名**、**类型推断**和**反混淆**；比目前 [Pretttier](https://nicelinks.site/post/5c16083e819ae45de1453caa)、及常见的 Beautify JavaScript 工具都要强大。
+**推荐语**：[JS NICE](=http://jsnice.org/)，一款在线 JavaScript 代码美化服务工具（该服务由苏黎世联邦理工学院计算机科学系的安全、可靠和智能系统实验室提供，并且是免费的），它支持**变量重命名**、**类型推断**和**反混淆**；比目前 [Pretttier](https://nicelinks.site/post/5c16083e819ae45de1453caa)、及常见的 Beautify JavaScript 工具都要强大。
 
-### [JSNice](https://nicelinks.site/redirect?url=http://jsnice.org/) 有什么新东西？
+### [JSNice](=http://jsnice.org/) 有什么新东西？
 
 - 支持 ECMASCRIPT 6。
 - 内置封隔器检测器。
@@ -63,15 +63,15 @@
 - 提高预测精度。
 - 能够提供有关 JSNice 预测的直接反馈。
 
-### [JSNice](https://nicelinks.site/redirect?url=http://jsnice.org/) 可为您做什么？
+### [JSNice](=http://jsnice.org/) 可为您做什么？
 
 - 使混淆的 JavaScript 代码有更高可读性。
 - 将变量和参数重命名，从数千个开源项目中学到的名称。
 - 推断类型注释。
 - 覆盖 JSNice 建议的名称（通过在设置中启用“交互式重命名”）。
-- 单击[此处](https://nicelinks.site/redirect?url=http://plml.ethz.ch/)了解有关苏黎世联邦理工学院 SRI 实验室所做研究的更多信息，该实验室产生了 JSNice 和其他基于机器学习的系统。
+- 单击[此处](=http://plml.ethz.ch/)了解有关苏黎世联邦理工学院 SRI 实验室所做研究的更多信息，该实验室产生了 JSNice 和其他基于机器学习的系统。
 
-如果您想分析一段经过混淆过的 JavaScript 代码，或者优化一些糟糕写法的 JavaScript 代码片段，[JS NICE](https://nicelinks.site/redirect?url=http://jsnice.org/) 是值得您首选的工具。
+如果您想分析一段经过混淆过的 JavaScript 代码，或者优化一些糟糕写法的 JavaScript 代码片段，[JS NICE](=http://jsnice.org/) 是值得您首选的工具。
 
 ── 出自[倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.site/post/6141f77f48b293062990b34d)
 
@@ -85,14 +85,14 @@
 
 ![倾城之链 - 微信服务平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fuwu.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[微信服务平台](https://nicelinks.site/redirect?url=https://fuwu.weixin.qq.com/)是微信出品的`小程序`相关服务、服务商的推荐及撮合平台（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建）；用户可以在这里搜索行业、服务、服务商等；主要涉及的服务有以下内容：
+**推荐语**：[微信服务平台](https://fuwu.weixin.qq.com/)是微信出品的`小程序`相关服务、服务商的推荐及撮合平台（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建）；用户可以在这里搜索行业、服务、服务商等；主要涉及的服务有以下内容：
 
 - **做个小程序**：可信服务商，助你直击行业核心场景；
 - **内容运营**：直播、短视频、公众号代运营；
 - **开发者资源**：接口、插件与其他开发者工具资源
 - **服务商激励活动**：助力服务商拓展业务；
 
-值得一提的是，[微信服务平台](https://nicelinks.site/redirect?url=https://fuwu.weixin.qq.com/)所涉及的领域非常丰富，诸如：线下零售、旅游住宿、餐饮、电商平台、生活服务、教育、鞋服运动、出行交通、食品饮料、家居、奢侈品/配饰、美妆、母婴玩具、家电数码、医疗、汽车、休闲娱乐、房地产等等。
+值得一提的是，[微信服务平台](https://fuwu.weixin.qq.com/)所涉及的领域非常丰富，诸如：线下零售、旅游住宿、餐饮、电商平台、生活服务、教育、鞋服运动、出行交通、食品饮料、家居、奢侈品/配饰、美妆、母婴玩具、家电数码、医疗、汽车、休闲娱乐、房地产等等。
 
 ── 出自[倾城之链 - 微信服务平台](https://nicelinks.site/post/61417ef9fb71863f906415a7)
 
@@ -106,7 +106,7 @@
 
 ![倾城之链 - 腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/docs.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[腾讯文档](https://nicelinks.site/redirect?url=https://docs.qq.com/)，是一款可多人协作的在线文档（支持多人同时在线编辑。内容实时同步，随时随地高效协作，轻松创作）。支持在线 Word / Excel / PPT / PDF 和收集表类型。打开网页就能查看和编辑，云端实时保存，权限安全可控。提供打卡签到、考勤、远程办公、在线教育、简历等海量免费模板资源。根据官方更详细的介绍，[腾讯文档](https://nicelinks.site/redirect?url=https://docs.qq.com/)有以下功能特色：
+**推荐语**：[腾讯文档](https://docs.qq.com/)，是一款可多人协作的在线文档（支持多人同时在线编辑。内容实时同步，随时随地高效协作，轻松创作）。支持在线 Word / Excel / PPT / PDF 和收集表类型。打开网页就能查看和编辑，云端实时保存，权限安全可控。提供打卡签到、考勤、远程办公、在线教育、简历等海量免费模板资源。根据官方更详细的介绍，[腾讯文档](https://docs.qq.com/)有以下功能特色：
 
 - **可多人同时编辑的在线文档**：提供完善的编辑能力，轻松设置文字样式和段落格式，添加图片、链接和表格等，可快速导入导出 word 文档，便捷追溯历史版本，随时随地与他人协作，轻松制作生动的文档；
   - **内容智能翻译**：自动识别语言，实时翻译全文，迅速准确；
@@ -127,7 +127,7 @@
 - **轻松绘制精美图形的在线流程图**:支持基础、Flowchart、UML 等 10 种常用图形，轻松在线绘制各种专业流程图，多平台同步和查看；支持导入 Visio 文档，导出为 PNG、PDF、POS 等多种格式；让你的逻辑呈现更清晰；
 - **随时在线查看的电子文档**：支持导入 100MB 以内的 PDF 文档，文档格式和内容完整显示，多平台在线查看，便捷将链接分享给 QQ/微信好友。
 
-[腾讯文档](https://nicelinks.site/redirect?url=https://docs.qq.com/)，从模板开始，即可立即开始使用，诸如工作周报、班级通讯录、分析报告、考勤打卡等等；同类型的产品，还有[「语雀」](https://nicelinks.site/redirect?url=https://yuque.com/)、[石墨文档](https://nicelinks.site/redirect?url=https://shimo.im/)等产品，您可以比对，择优使用。
+[腾讯文档](https://docs.qq.com/)，从模板开始，即可立即开始使用，诸如工作周报、班级通讯录、分析报告、考勤打卡等等；同类型的产品，还有[「语雀」](https://yuque.com/)、[石墨文档](https://shimo.im/)等产品，您可以比对，择优使用。
 
 ── 出自[倾城之链 - 腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
 

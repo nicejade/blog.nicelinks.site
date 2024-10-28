@@ -10,13 +10,13 @@
 
 ![倾城之链 - Wasp | Develop full-stack web apps faster](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wasp-lang.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wasp](https://nicelinks.site/redirect?url=https://wasp-lang.dev/) （Web Application Specification：Web 应用程序规范）是一个类似 Rails 的 React、Node.js 和 [Prisma](https://nicelinks.site/post/64531bfdc6f2367a83e863ff) 框架，在一天之内构建您的应用程序并使用单个 CLI 命令进行部署；**为什么 Wasp 很棒**？官方给出以下说明：
+**推荐语**：[Wasp](https://wasp-lang.dev/) （Web Application Specification：Web 应用程序规范）是一个类似 Rails 的 React、Node.js 和 [Prisma](https://nicelinks.site/post/64531bfdc6f2367a83e863ff) 框架，在一天之内构建您的应用程序并使用单个 CLI 命令进行部署；**为什么 Wasp 很棒**？官方给出以下说明：
 
 - 🚀**快速入门**：由于其表现力，您可以从头开始创建和部署一个生产就绪的 Web 应用程序，只需很少行简洁、一致的声明性代码。
 - 😌**无样板代码**：通过抽象出复杂的全栈功能，可以减少样板代码。这意味着需要维护和理解的代码更少！这也意味着更容易升级。
 - 🔓**无锁定**：您可以在任何您喜欢的地方部署 Wasp 应用程序。没有锁定特定的提供者，您可以完全控制代码（如果您感兴趣，可以在 .wasp/ dir 中实际查看它）。
 
-[Wasp](https://nicelinks.site/redirect?url=https://wasp-lang.dev/) 具有如下功能特征：
+[Wasp](https://wasp-lang.dev/) 具有如下功能特征：
 
 ### 开源
 
@@ -64,7 +64,7 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 
 ![倾城之链 - Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/filamentphp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Filament](https://nicelinks.site/redirect?url=https://filamentphp.com/) 是用于加速 [Laravel](https://nicelinks.site/post/633e8f7072ba4a064e24e5d0) 开发的全栈组件的集合。使用 Livewire、 [Alpine.js](https://nicelinks.site/post/63b55fdc1653425ab90b40d9) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 。它们设计精美、使用直观且可完全扩展——是您下一个 Laravel 应用程序的完美起点。为什么要浪费时间一遍又一遍地构建相同的功能呢？Filament 包含如下内容：
+**推荐语**：[Filament](https://filamentphp.com/) 是用于加速 [Laravel](https://nicelinks.site/post/633e8f7072ba4a064e24e5d0) 开发的全栈组件的集合。使用 Livewire、 [Alpine.js](https://nicelinks.site/post/63b55fdc1653425ab90b40d9) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 。它们设计精美、使用直观且可完全扩展——是您下一个 Laravel 应用程序的完美起点。为什么要浪费时间一遍又一遍地构建相同的功能呢？Filament 包含如下内容：
 
 - **面板生成器**：构建 Laravel 管理面板、面向客户的应用程序、SaaS 或任何您能想象到的东西。
 - **表格生成器**：使用超过 25 个开箱即用的组件轻松构建令人惊叹的 Livewire 驱动表单。
@@ -114,7 +114,7 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 
 ![倾城之链 - Welcome to nix.dev — nix.dev  documentation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nix.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[nix.dev](https://nicelinks.site/redirect?url=https://nix.dev/) 是 [Nix](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc) 生态系统官方文档的所在地。**开发者能用 Nix 做什么**？以下几点说明了 Nix 生态系统可以实现的目标：
+**推荐语**：[nix.dev](https://nix.dev/) 是 [Nix](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc) 生态系统官方文档的所在地。**开发者能用 Nix 做什么**？以下几点说明了 Nix 生态系统可以实现的目标：
 
 - 可重复的开发环境。
 - 通过 URL 轻松安装软件。
@@ -130,7 +130,7 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 - 远程部署。
 - 原子升级和回滚。
 
-[Nix](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc) 这个名字源自荷兰语 `niks`，意思是\_“什么都没有”；构建操作看不到任何未明确声明为输入的内容。在 [nix.dev](https://nicelinks.site/redirect?url=https://nix.dev/) 您可以学到如何安装 Nix、Nix 语言基础知识、部署 NixOS、交叉编译（Cross Compilation）等内容；值得一提的是，该 [文档项目在 Github 上开源](https://github.com/NixOS/nix.dev) ，如果您对其感兴趣，可移步前往从而了解更多。
+[Nix](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc) 这个名字源自荷兰语 `niks`，意思是\_“什么都没有”；构建操作看不到任何未明确声明为输入的内容。在 [nix.dev](https://nix.dev/) 您可以学到如何安装 Nix、Nix 语言基础知识、部署 NixOS、交叉编译（Cross Compilation）等内容；值得一提的是，该 [文档项目在 Github 上开源](https://github.com/NixOS/nix.dev) ，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - Welcome to nix.dev — nix.dev documentation](https://nicelinks.site/post/651f807f9bdacb5ca44f6b88)
 
@@ -142,7 +142,7 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 
 ![倾城之链 - Nix & NixOS | Reproducible builds and deployments](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nixos.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nix](https://nicelinks.site/redirect?url=https://nixos.org/) 是一款功能强大的纯粹功能型的软件包管理系统，为可靠且可重复的软件包管理而设计，按照 GNU LGPLv2.1 的条款发布。它是一款不太知名的 [Linux](https://nicelinks.site/tags/Linux) 发行版 NixOS 中主要的软件包管理系统。它具有如下功能特征：
+**推荐语**：[Nix](https://nixos.org/) 是一款功能强大的纯粹功能型的软件包管理系统，为可靠且可重复的软件包管理而设计，按照 GNU LGPLv2.1 的条款发布。它是一款不太知名的 [Linux](https://nicelinks.site/tags/Linux) 发行版 NixOS 中主要的软件包管理系统。它具有如下功能特征：
 
 ### 可重现
 
@@ -176,7 +176,7 @@ Nix 还有多用户支持，这意味着普通(或非特权)系统用户可以�
 
 ![倾城之链 - Syncthing | A continuous file synchronization program](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/syncthing.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Syncthing](https://nicelinks.site/redirect?url=https://syncthing.net/) 是一个**连续文件同步**程序。它可以在两台或多台计算机之间实时同步文件，并安全地防止窥探。您的数据只是您的数据，您应该选择其存储位置、是否与第三方共享以及如何通过互联网传输。它具有如下功能特征：
+**推荐语**：[Syncthing](https://syncthing.net/) 是一个**连续文件同步**程序。它可以在两台或多台计算机之间实时同步文件，并安全地防止窥探。您的数据只是您的数据，您应该选择其存储位置、是否与第三方共享以及如何通过互联网传输。它具有如下功能特征：
 
 ### 私密且安全
 
@@ -195,7 +195,7 @@ Nix 还有多用户支持，这意味着普通(或非特权)系统用户可以�
 - **开源**：所有源代码都可以在 [GitHub 上获得](https://github.com/syncthing/syncthing)——所见即所得，没有隐藏的有趣的事情。
 - **开放式开发**：任何发现的错误都可供任何人立即浏览——没有隐藏的缺陷。
 
-假设您需要在两台计算机要在它们之间同步文件，[Syncthing](https://nicelinks.site/redirect?url=https://syncthing.net/) 是很棒的选择，它不需要云服务，可以很好保证您的隐私。值得一提的是，该项目在 [Github 仓库开源](https://github.com/syncthing/syncthing)，如果您对其感兴趣，可移步前往从而了解更多。
+假设您需要在两台计算机要在它们之间同步文件，[Syncthing](https://syncthing.net/) 是很棒的选择，它不需要云服务，可以很好保证您的隐私。值得一提的是，该项目在 [Github 仓库开源](https://github.com/syncthing/syncthing)，如果您对其感兴趣，可移步前往从而了解更多。
 
 ── 出自[倾城之链 - Syncthing | A continuous file synchronization program](https://nicelinks.site/post/651d431d9bdacb5ca44f62a1)
 
@@ -207,7 +207,7 @@ Nix 还有多用户支持，这意味着普通(或非特权)系统用户可以�
 
 ![倾城之链 - 代码空间](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.codespace.vip.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[代码空间](https://nicelinks.site/redirect?url=https://www.codespace.vip/) ，是基于 [Nginx](https://nicelinks.site/post/6339a6aa35a9c117dacf2363)、PHP、JQuery 等技术栈构建的在线社区网站；旨在汇聚全球优秀的编程资源，为探索创新的代码解决方案提供平台，帮助开发者解决实际遇到的技术问题，同时发现和分享编程带来的乐趣。该网站通过接入外部广告、用户充值金币（上传资源可免费获得金币）等方式获取收入。
+**推荐语**：[代码空间](https://www.codespace.vip/) ，是基于 [Nginx](https://nicelinks.site/post/6339a6aa35a9c117dacf2363)、PHP、JQuery 等技术栈构建的在线社区网站；旨在汇聚全球优秀的编程资源，为探索创新的代码解决方案提供平台，帮助开发者解决实际遇到的技术问题，同时发现和分享编程带来的乐趣。该网站通过接入外部广告、用户充值金币（上传资源可免费获得金币）等方式获取收入。
 
 ── 出自[倾城之链 - 代码空间](https://nicelinks.site/post/6517a66c9bdacb5ca44f4fcd)
 

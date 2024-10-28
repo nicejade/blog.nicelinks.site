@@ -56,7 +56,7 @@
 
 ![倾城之链 - Aimart - Uncover AI's Best](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aimart.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Aimart](https://nicelinks.site/redirect?url=https://aimart.app/) ，是您的人工智能百科全书。他们为您提供范围广泛的 [AI](https://nicelinks.site/tags/AI) 工具、最新消息和简单易懂的教程。与 Aimart 一起在人工智能领域保持领先地位。`aimart` 它对内容，按照基于文本、基于图片、基于视频音频等类型做了划分，您可以选择性浏览；而且支持您提交分享您所发现的或正在创造的新产品。值得一提的是，Aimart 还提供了微信公众号，如果您感兴趣，可以考虑关注，从而获取最新的人工智能工具和资讯更新。
+**推荐语**：[Aimart](https://aimart.app/) ，是您的人工智能百科全书。他们为您提供范围广泛的 [AI](https://nicelinks.site/tags/AI) 工具、最新消息和简单易懂的教程。与 Aimart 一起在人工智能领域保持领先地位。`aimart` 它对内容，按照基于文本、基于图片、基于视频音频等类型做了划分，您可以选择性浏览；而且支持您提交分享您所发现的或正在创造的新产品。值得一提的是，Aimart 还提供了微信公众号，如果您感兴趣，可以考虑关注，从而获取最新的人工智能工具和资讯更新。
 
 ── 出自[倾城之链 - Aimart - Uncover AI's Best](https://nicelinks.site/post/649421f59f337d36c1ef3c66)
 
@@ -68,7 +68,7 @@
 
 ![倾城之链 - Magician for Figma](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/magician.design.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Magician for Figma](https://nicelinks.site/redirect?url=https://magician.design/) ，由 [AI](https://nicelinks.site/tags/AI) 提供支持的 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 神奇设计工具，由 [Diagram](https://nicelinks.site/post/649412729f337d36c1ef3ab2) 团队出品。借助 AI 的力量，它所做的每一件小事都是神奇的，官方指出该工具拥有以下功能特征：
+**推荐语**：[Magician for Figma](https://magician.design/) ，由 [AI](https://nicelinks.site/tags/AI) 提供支持的 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 神奇设计工具，由 [Diagram](https://nicelinks.site/post/649412729f337d36c1ef3ab2) 团队出品。借助 AI 的力量，它所做的每一件小事都是神奇的，官方指出该工具拥有以下功能特征：
 
 ### 挥舞你的魔杖
 
@@ -82,7 +82,7 @@
 
 使用更智能的设计工具更具创意，诸如： [Automator](https://automator.design/) （自动机）、 [Prototyper](https://prototyper.design/) （原型机）。
 
-截止 2023 年 06 月 22 日， [Magician for Figma](https://nicelinks.site/redirect?url=https://magician.design/) 尚处于 `beta`（公开测试版），您可以在 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 上安装使用，售价为 5 美元 / 月。
+截止 2023 年 06 月 22 日， [Magician for Figma](https://magician.design/) 尚处于 `beta`（公开测试版），您可以在 [Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c) 上安装使用，售价为 5 美元 / 月。
 
 ── 出自[倾城之链 - Magician for Figma](https://nicelinks.site/post/649414949f337d36c1ef3b31)
 
@@ -94,9 +94,9 @@
 
 ![倾城之链 - Diagram · Design tools from the future.Diagram • Design tools from the future.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/diagram.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Diagram](https://nicelinks.site/redirect?url=https://diagram.com/) 是一家 [设计](https://nicelinks.site/tags/设计) 工具公司，在生成 [AI](https://nicelinks.site/tags/AI) 时代重新构想 UI 设计。他们是一个由构建者、创意者和原型制作者组成的小团队，希望单独和共同成长。他们的愿景是创建极其强大的工具来改善 UI 设计师的生活，并让新人能够设计他们的数字世界。结合智能系统和高雅的执行力，他们认为我们可以让设计变得更加有趣、更具包容性和创造性。
+**推荐语**：[Diagram](https://diagram.com/) 是一家 [设计](https://nicelinks.site/tags/设计) 工具公司，在生成 [AI](https://nicelinks.site/tags/AI) 时代重新构想 UI 设计。他们是一个由构建者、创意者和原型制作者组成的小团队，希望单独和共同成长。他们的愿景是创建极其强大的工具来改善 UI 设计师的生活，并让新人能够设计他们的数字世界。结合智能系统和高雅的执行力，他们认为我们可以让设计变得更加有趣、更具包容性和创造性。
 
-[Diagram](https://nicelinks.site/redirect?url=https://diagram.com/) 旗下有多款产品：
+[Diagram](https://diagram.com/) 旗下有多款产品：
 
 - [Automator](https://automator.design/) 允许设计人员创建自己的自动化工具，而无需编写代码。数万名设计师和数百个团队正在使用 Automator 来加快他们的设计工作流程。
 - [Magician](https://magician.design/) ，它是一组人工智能工具，可让设计师快速为其设计制作原型副本、字形和图像。它将很快解决以前棘手的问题，例如自动命名您的层，并添加您将帮助定义的新功能，打包为可以快速制作原型和发布的单独“法术”。
@@ -114,7 +114,7 @@ Diagram：专为 UI 而生的 AI 模型，其官方网站写到：**来自未来
 
 ![倾城之链 - Novel – Notion-style WYSIWYG editor with AI-powered autocompletions](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/novel.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Novel](https://nicelinks.site/redirect?url=https://novel.sh/) 是一个 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 风格的 WYSIWYG [编辑器](https://nicelinks.site/tags/编辑器)，具有人工智能（[AI](https://nicelinks.site/tags/AI)）驱动的自动完成功能。基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146)(框架)、Tiptap（文本编辑器）、[OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) (AI 完成情况)、Vercel AI SDK (人工智能库)、[Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) (部署）、[TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)（样式）、Cal Sans (字体)所构建。值得一提的是，该项目在 Github 仓库开源，如果您需要，您可以一键将自己的 Novel 版本部署到 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)。
+**推荐语**：[Novel](https://novel.sh/) 是一个 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 风格的 WYSIWYG [编辑器](https://nicelinks.site/tags/编辑器)，具有人工智能（[AI](https://nicelinks.site/tags/AI)）驱动的自动完成功能。基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146)(框架)、Tiptap（文本编辑器）、[OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) (AI 完成情况)、Vercel AI SDK (人工智能库)、[Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) (部署）、[TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)（样式）、Cal Sans (字体)所构建。值得一提的是，该项目在 Github 仓库开源，如果您需要，您可以一键将自己的 Novel 版本部署到 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)。
 
 ── 出自[倾城之链 - Novel – Notion-style WYSIWYG editor with AI-powered autocompletions](https://nicelinks.site/post/6492cee59f337d36c1ef3319)
 
@@ -128,7 +128,7 @@ Diagram：专为 UI 而生的 AI 模型，其官方网站写到：**来自未来
 
 ![倾城之链 - BarberGPT | Your Personal AI Barber is Here](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.barbergpt.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[BarberGPT](https://nicelinks.site/redirect?url=https://www.barbergpt.ai/) ，一款基于 [AI](https://nicelinks.site/tags/AI) 换发型工具；通过 [BarberGPT.ai](https://www.barbergpt.ai/) 拥抱发型设计的未来。只需上传您的照片，突出您的头发，见证惊人的转变；目前免费可用。它具有如下功能特征：
+**推荐语**：[BarberGPT](https://www.barbergpt.ai/) ，一款基于 [AI](https://nicelinks.site/tags/AI) 换发型工具；通过 [BarberGPT.ai](https://www.barbergpt.ai/) 拥抱发型设计的未来。只需上传您的照片，突出您的头发，见证惊人的转变；目前免费可用。它具有如下功能特征：
 
 - **快如闪电**：瞬间改变你的头发；
 - **安全和私密**：你的照片是你的事，平台保证他们的安全；
