@@ -172,14 +172,14 @@ instance.mark(keyword, {
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 53 期）- 倾城之链](https://blog.nicelinks.site/weekly-053/)
-- [优质网站同好者周刊（第 52 期）- 倾城之链](https://blog.nicelinks.site/weekly-052/)
-- [优质网站同好者周刊（第 51 期）- 倾城之链](https://blog.nicelinks.site/weekly-051/)
-- [优质网站同好者周刊（第 50 期）- 倾城之链](https://blog.nicelinks.site/weekly-050/)
-- [优质网站同好者周刊（第 49 期）- 倾城之链](https://blog.nicelinks.site/weekly-049/)
-- [优质网站同好者周刊（第 48 期）- 倾城之链](https://blog.nicelinks.site/weekly-048/)
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
-- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046/)
+- [优质网站同好者周刊（第 53 期）- 倾城之链](https://link.niceshare.site/weekly-053/)
+- [优质网站同好者周刊（第 52 期）- 倾城之链](https://link.niceshare.site/weekly-052/)
+- [优质网站同好者周刊（第 51 期）- 倾城之链](https://link.niceshare.site/weekly-051/)
+- [优质网站同好者周刊（第 50 期）- 倾城之链](https://link.niceshare.site/weekly-050/)
+- [优质网站同好者周刊（第 49 期）- 倾城之链](https://link.niceshare.site/weekly-049/)
+- [优质网站同好者周刊（第 48 期）- 倾城之链](https://link.niceshare.site/weekly-048/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://link.niceshare.site/weekly-046/)
 - [优质网站同好者周刊（第 45 期）- 倾城之链](https://forum.lovejade.cn/d/132-45)
 - [优质网站同好者周刊（第 44 期）- 倾城之链](https://forum.lovejade.cn/d/130-44)
 - [优质网站同好者周刊（第 43 期）- 倾城之链](https://forum.lovejade.cn/d/127-43)

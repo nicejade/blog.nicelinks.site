@@ -10,7 +10,7 @@
 
 ![倾城之链 - 倾城博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.nicelinks.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[倾城博客](https://blog.nicelinks.site/)，基于 [GatsbyJS](https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://nicelinks.site/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://nicelinks.site/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://nicelinks.site/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
+**推荐语**：[倾城博客](https://link.niceshare.site/)，基于 [GatsbyJS](https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://nicelinks.site/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://nicelinks.site/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://nicelinks.site/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
 
 ── 出自[倾城之链 - 倾城博客](https://nicelinks.site/post/61e03d6773f9dd1533f83415)
 
@@ -98,8 +98,8 @@
 
 ### 您可能感兴趣的文章
 
-- [优质网站同好者周刊（第 47 期）- 倾城之链](https://blog.nicelinks.site/weekly-047/)
-- [优质网站同好者周刊（第 46 期）- 倾城之链](https://blog.nicelinks.site/weekly-046/)
+- [优质网站同好者周刊（第 47 期）- 倾城之链](https://link.niceshare.site/weekly-047/)
+- [优质网站同好者周刊（第 46 期）- 倾城之链](https://link.niceshare.site/weekly-046/)
 - [优质网站同好者周刊（第 45 期）- 倾城之链](https://forum.lovejade.cn/d/132-45)
 - [优质网站同好者周刊（第 44 期）- 倾城之链](https://forum.lovejade.cn/d/130-44)
 - [优质网站同好者周刊（第 43 期）- 倾城之链](https://forum.lovejade.cn/d/127-43)
