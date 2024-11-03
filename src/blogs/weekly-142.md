@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Sweep: turn bugs and feature requests into code changes.](https://nicelinks.site/post/6543a77039136e1052f8ca0e)
+## [Sweep: turn bugs and feature requests into code changes.](https://site.lovejade.cn/post/6543a77039136e1052f8ca0e)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`代码`](https://nicelinks.site/tags/代码) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`代码`](https://site.lovejade.cn/tags/代码) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 > Sweep is an AI code assistant that turns GitHub issues into GitHub pull requests.
 
 ![倾城之链 - Sweep: turn bugs and feature requests into code changes.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sweep.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Sweep](https://sweep.dev/) 是一款 [人工智能](https://nicelinks.site/tags/AI) 代码助手，负责将错误报告和功能请求转化为代码更改。🤖 像向初级开发人员一样描述错误、小功能和重构，然后进行清理：
+**推荐语**：[Sweep](https://sweep.dev/) 是一款 [人工智能](https://site.lovejade.cn/tags/AI) 代码助手，负责将错误报告和功能请求转化为代码更改。🤖 像向初级开发人员一样描述错误、小功能和重构，然后进行清理：
 
 1.  读取您的代码库；
 2.  计划改变；
@@ -23,19 +23,19 @@ Sweep 具有如下功能特征：
 - 使用基于嵌入的代码和在线文档搜索；
 - 使用 GitHub Actions 和自我审查验证其更改；
 
-Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/post/6453ac5fc6f2367a83e8699f) ：Sweep 是为了改进现有的代码库而构建的，与生成样板相比，这是一个更频繁和更高的需求，而样板基本上是一个已解决的问题，因为您可以只分叉现有的样板。值得一提的是，您可以使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 镜像自行托管 [Sweep](https://hub.docker.com/r/sweepai/sweep) 。
+Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://site.lovejade.cn/post/6453ac5fc6f2367a83e8699f) ：Sweep 是为了改进现有的代码库而构建的，与生成样板相比，这是一个更频繁和更高的需求，而样板基本上是一个已解决的问题，因为您可以只分叉现有的样板。值得一提的是，您可以使用 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 镜像自行托管 [Sweep](https://hub.docker.com/r/sweepai/sweep) 。
 
-── 出自[倾城之链 - Sweep: turn bugs and feature requests into code changes.](https://nicelinks.site/post/6543a77039136e1052f8ca0e)
+── 出自[倾城之链 - Sweep: turn bugs and feature requests into code changes.](https://site.lovejade.cn/post/6543a77039136e1052f8ca0e)
 
-## [PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.site/post/65426f6f0f5a6713f81108e0)
+## [PyFlo | 成为 Python 程序员的初学者指南](https://site.lovejade.cn/post/65426f6f0f5a6713f81108e0)
 
-**标签**：[`Python`](https://nicelinks.site/tags/Python) · [`教程`](https://nicelinks.site/tags/教程) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`Python`](https://site.lovejade.cn/tags/Python) · [`教程`](https://site.lovejade.cn/tags/教程) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > PyFlo, The beginners guide to becoming a Python programmer .
 
 ![倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pyflo.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PyFlo](https://pyflo.net/) ， [Python](https://nicelinks.site/tags/Python) 程序员的初学者免费 [教程](https://nicelinks.site/tags/教程) （英文）；有趣的是该教程目录是一张流程图，每个节点是一个章节，相比传统目录，这种更具流程化、可视化、人性化；每个章节，您可以标注是否学习完毕、设置书签 🔖、跳转下一章节等等。值得一提的是，作者对每节课程有做`颜色`标记，其分别代表含义如下：
+**推荐语**：[PyFlo](https://pyflo.net/) ， [Python](https://site.lovejade.cn/tags/Python) 程序员的初学者免费 [教程](https://site.lovejade.cn/tags/教程) （英文）；有趣的是该教程目录是一张流程图，每个节点是一个章节，相比传统目录，这种更具流程化、可视化、人性化；每个章节，您可以标注是否学习完毕、设置书签 🔖、跳转下一章节等等。值得一提的是，作者对每节课程有做`颜色`标记，其分别代表含义如下：
 
 - 蓝色课程（Blue Lessons）是“常规”课程。您应该按照课程流程规定的顺序完成这些内容。
 - 紫色课程（Purple Lessons）是学习分支的一部分。这些内容非常丰富，但如果需要的话可以跳过。奖励内容。
@@ -43,11 +43,11 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 初步阅读体验，能明显感到 [PyFlo](https://pyflo.net/) 这是非常棒的教程；针对想学习 Python 语言的初学者，尤其是没什么编程基础的同学，具有积极意义。如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://nicelinks.site/post/65426f6f0f5a6713f81108e0)
+── 出自[倾城之链 - PyFlo | 成为 Python 程序员的初学者指南](https://site.lovejade.cn/post/65426f6f0f5a6713f81108e0)
 
-## [vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
+## [vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://site.lovejade.cn/post/6541e0267448ba21e9b1b8d0)
 
-**标签**：[`vivo`](https://nicelinks.site/tags/vivo) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`工作效率`](https://nicelinks.site/tags/工作效率)
+**标签**：[`vivo`](https://site.lovejade.cn/tags/vivo) · [`跨平台`](https://site.lovejade.cn/tags/跨平台) · [`工作效率`](https://site.lovejade.cn/tags/工作效率)
 
 **关键字**：量子套件电脑版, 量子套件客户端, vivo 电脑互传, 原子笔记, vivo 办公套件, vivo 办公套件电脑版, vivo 远控 PC, 键鼠协同, 超级剪贴板, 办公套件, 量子套件, vivo 助手, vivo 手机连电脑, 互传 vivo 电脑版, 互传 vivo 电脑
 
@@ -76,17 +76,17 @@ Sweep 与 GPT 工程师、Smol 开发人员和 [AutoGPT](https://nicelinks.site/
 
 [vivo 办公套件](https://pc.vivo.com/) （“量子套件”）焕新升级，探索办公无限可能，旨在让**办公、学习、创作**更省心。如果您对其感兴趣，不妨移步其官网从而了解更多。
 
-── 出自[倾城之链 - vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://nicelinks.site/post/6541e0267448ba21e9b1b8d0)
+── 出自[倾城之链 - vivo 办公套件 - vivo 手机平板与电脑互联 | 官方下载](https://site.lovejade.cn/post/6541e0267448ba21e9b1b8d0)
 
-## [蓝河操作系统 BlueOS](https://nicelinks.site/post/6541cf0d7448ba21e9b1b688)
+## [蓝河操作系统 BlueOS](https://site.lovejade.cn/post/6541cf0d7448ba21e9b1b688)
 
-**标签**：[`vivo`](https://nicelinks.site/tags/vivo) · [`OS`](https://nicelinks.site/tags/OS) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`vivo`](https://site.lovejade.cn/tags/vivo) · [`OS`](https://site.lovejade.cn/tags/OS) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > BlueOS，vivo 面向通用人工智能时代自主研发的智慧操作系统。
 
 ![倾城之链 - 蓝河操作系统 BlueOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.blueos.com.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[蓝河操作系统 BlueOS](https://www.blueos.com.cn/) ， [vivo](https://nicelinks.site/tags/vivo) 面向通用人工智能时代自主研发的智慧操作系统。于 2023 年 11 月 01 日 主题为「同心 · 同行」的 vivo 开发者大会正式对外推出。官方称 BlueOS 具有完备的开放能力，支持在健康、运动、出行、娱乐等全场景的应用的高效开发。关于 BlueOS（蓝河操作系统）更多详情如下：
+**推荐语**：[蓝河操作系统 BlueOS](https://www.blueos.com.cn/) ， [vivo](https://site.lovejade.cn/tags/vivo) 面向通用人工智能时代自主研发的智慧操作系统。于 2023 年 11 月 01 日 主题为「同心 · 同行」的 vivo 开发者大会正式对外推出。官方称 BlueOS 具有完备的开放能力，支持在健康、运动、出行、娱乐等全场景的应用的高效开发。关于 BlueOS（蓝河操作系统）更多详情如下：
 
 ### 功能特征
 
@@ -152,45 +152,45 @@ Runtime 执行引擎做了技术突破，同时还将前端框架下沉，针对
 
 蓝河 SDK 是蓝河系统软件开发工具包，是一组软件开发工具和资源的集合；用于开发蓝河应用；包括 API、库文件等。
 
-── 出自[倾城之链 - 蓝河操作系统 BlueOS](https://nicelinks.site/post/6541cf0d7448ba21e9b1b688)
+── 出自[倾城之链 - 蓝河操作系统 BlueOS](https://site.lovejade.cn/post/6541cf0d7448ba21e9b1b688)
 
-## [LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://nicelinks.site/post/654125a25889f74c2dbc6a26)
+## [LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://site.lovejade.cn/post/654125a25889f74c2dbc6a26)
 
-**标签**：[`文件传输`](https://nicelinks.site/tags/文件传输) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`文件传输`](https://site.lovejade.cn/tags/文件传输) · [`跨平台`](https://site.lovejade.cn/tags/跨平台) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.
 
 ![倾城之链 - LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/localsend.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LocalSend](https://localsend.org/) 是一款 [免费](https://nicelinks.site/tags/免费) 、 [开源](https://nicelinks.site/tags/开源) 、 [跨平台](https://nicelinks.site/tags/跨平台) 的应用程序，`AirDrop` 的开源跨平台替代方案；具体来说，LocalSend 可让您通过本地网络与**附近的设备安全地共享文件和消息，而无需互联网连接**。它可以使用 REST API 和 HTTPS 加密实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为本地通信的快速可靠解决方案。
+**推荐语**：[LocalSend](https://localsend.org/) 是一款 [免费](https://site.lovejade.cn/tags/免费) 、 [开源](https://site.lovejade.cn/tags/开源) 、 [跨平台](https://site.lovejade.cn/tags/跨平台) 的应用程序，`AirDrop` 的开源跨平台替代方案；具体来说，LocalSend 可让您通过本地网络与**附近的设备安全地共享文件和消息，而无需互联网连接**。它可以使用 REST API 和 HTTPS 加密实现设备之间的安全通信。与其他依赖外部服务器的消息应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为本地通信的快速可靠解决方案。
 
 **LocalSend 如何工作**？LocalSend 使用安全通信协议，允许设备使用 REST API 相互通信。所有数据都通过 HTTPS 安全地发送，并且 TLS/SSL 证书在每个设备上动态生成，确保最大的安全性。有关 LocalSend 协议的更多信息，请参阅 [LocalSend 文档](https://github.com/localsend/protocol) 。如果您对该项目感兴趣，可移步 [LocalSend 在 Github 开源仓库从而了解更多](https://github.com/localsend/localsend) 。
 
-── 出自[倾城之链 - LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://nicelinks.site/post/654125a25889f74c2dbc6a26)
+── 出自[倾城之链 - LocalSend | 将文件共享到附近的设备。 免费、开源、跨平台](https://site.lovejade.cn/post/654125a25889f74c2dbc6a26)
 
-## [CSS Loaders: A collection of more than 500 loading animations](https://nicelinks.site/post/65411ead5889f74c2dbc6946)
+## [CSS Loaders: A collection of more than 500 loading animations](https://site.lovejade.cn/post/65411ead5889f74c2dbc6946)
 
-**标签**：[`动画`](https://nicelinks.site/tags/动画) · [`CSS`](https://nicelinks.site/tags/CSS) · [`前端开发`](https://nicelinks.site/tags/前端开发)
+**标签**：[`动画`](https://site.lovejade.cn/tags/动画) · [`CSS`](https://site.lovejade.cn/tags/CSS) · [`前端开发`](https://site.lovejade.cn/tags/前端开发)
 
 > The biggest collection of CSS-only loaders. More than 500 loading animations made by Temani Afif using a single element.
 
 ![倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css-loaders.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[CSS Loaders](https://css-loaders.com/) ，收集各种 [CSS](https://nicelinks.site/tags/CSS) 的页面加载特效，号称最大的加载动画集合；截止 2023 年 10 月 31 日，已收录超过 500 个使用单个元素制作的纯 CSS 加载器（CSS Loaders）；它的使用非常简单，点击即可获取 CSS 代码，这对于前端开发者非常有帮助。
+**推荐语**：[CSS Loaders](https://css-loaders.com/) ，收集各种 [CSS](https://site.lovejade.cn/tags/CSS) 的页面加载特效，号称最大的加载动画集合；截止 2023 年 10 月 31 日，已收录超过 500 个使用单个元素制作的纯 CSS 加载器（CSS Loaders）；它的使用非常简单，点击即可获取 CSS 代码，这对于前端开发者非常有帮助。
 
-── 出自[倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://nicelinks.site/post/65411ead5889f74c2dbc6946)
+── 出自[倾城之链 - CSS Loaders: A collection of more than 500 loading animations](https://site.lovejade.cn/post/65411ead5889f74c2dbc6946)
 
-## [App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.site/post/653e59ca5889f74c2dbc5860)
+## [App Motion | 探索最好的、精心挑选的应用程序动作设计](https://site.lovejade.cn/post/653e59ca5889f74c2dbc5860)
 
-**标签**：[`灵感`](https://nicelinks.site/tags/灵感) · [`应用`](https://nicelinks.site/tags/应用) · [`动画`](https://nicelinks.site/tags/动画)
+**标签**：[`灵感`](https://site.lovejade.cn/tags/灵感) · [`应用`](https://site.lovejade.cn/tags/应用) · [`动画`](https://site.lovejade.cn/tags/动画)
 
 > Explore the best, hand-picked mobile app motion design
 
 ![倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/appmotion.design.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[App Motion](https://appmotion.design/) ，探索最好的、精心挑选的应用程序动作设计；您可以在这里查看、检索、甚至提交应用程序动画效果（如果后续能贴出对应代码实现，那就更棒了），从而汲取灵感；作者创建这个网站，是因为他正在寻找专门针对运动/动画的应用程序[灵感](https://nicelinks.site/tags/灵感)，但找不到任何好的资源。所以作者应该创建自己的网站； 💪 **100% 免费，无需注册**。对于想要创建引人入胜且信息丰富的用户体验的应用程序设计人员来说，这是宝贵的资源。
+**推荐语**：[App Motion](https://appmotion.design/) ，探索最好的、精心挑选的应用程序动作设计；您可以在这里查看、检索、甚至提交应用程序动画效果（如果后续能贴出对应代码实现，那就更棒了），从而汲取灵感；作者创建这个网站，是因为他正在寻找专门针对运动/动画的应用程序[灵感](https://site.lovejade.cn/tags/灵感)，但找不到任何好的资源。所以作者应该创建自己的网站； 💪 **100% 免费，无需注册**。对于想要创建引人入胜且信息丰富的用户体验的应用程序设计人员来说，这是宝贵的资源。
 
-── 出自[倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://nicelinks.site/post/653e59ca5889f74c2dbc5860)
+── 出自[倾城之链 - App Motion | 探索最好的、精心挑选的应用程序动作设计](https://site.lovejade.cn/post/653e59ca5889f74c2dbc5860)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

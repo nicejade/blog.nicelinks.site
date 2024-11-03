@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [Zapier | The easiest way to automate your workMicrosoft Logo](https://zapier.com/?utm_source=nicelinks.site)
 
-**标签**：[`效率`](https://nicelinks.site/tags/效率) · [`工作`](https://nicelinks.site/tags/工作) · [`自动化`](https://nicelinks.site/tags/自动化)
+**标签**：[`效率`](https://site.lovejade.cn/tags/效率) · [`工作`](https://site.lovejade.cn/tags/工作) · [`自动化`](https://site.lovejade.cn/tags/自动化)
 
 > Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.
 
 ![倾城之链 - Zapier | The easiest way to automate your workMicrosoft Logo](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/zapier.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zapier](https://zapier.com/) 是连接您的应用程序并自动化工作流程工具。它的存在，方便忙碌的人实现自动化。 Zapier 会自动在 Web 应用程序之间传递信息，因此您可以专注于最重要的工作。目前，[Zapier](https://zapier.com/)有聚合超过 3000 款应用，诸如 Dropbox、[Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、Gmail、谷歌表格、谷歌文档等等，它具有以下功能特征：
+**推荐语**：[Zapier](https://zapier.com/) 是连接您的应用程序并自动化工作流程工具。它的存在，方便忙碌的人实现自动化。 Zapier 会自动在 Web 应用程序之间传递信息，因此您可以专注于最重要的工作。目前，[Zapier](https://zapier.com/)有聚合超过 3000 款应用，诸如 Dropbox、[Slack](https://site.lovejade.cn/post/605b4055bffb5e532f3be233)、Gmail、谷歌表格、谷歌文档等等，它具有以下功能特征：
 
 ### 整合
 
@@ -24,47 +24,47 @@
 
 更快地构建流程并完成更多工作，无需代码。
 
-── 出自[倾城之链 - Zapier | The easiest way to automate your workMicrosoft Logo](https://nicelinks.site/post/606ef48f00d67605dca7de64)
+── 出自[倾城之链 - Zapier | The easiest way to automate your workMicrosoft Logo](https://site.lovejade.cn/post/606ef48f00d67605dca7de64)
 
 ## [Paged.js — Paged.js](https://www.pagedjs.org/?utm_source=nicelinks.site)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`HTML5`](https://nicelinks.site/tags/HTML5) · [`PDF`](https://nicelinks.site/tags/PDF)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`HTML5`](https://site.lovejade.cn/tags/HTML5) · [`PDF`](https://site.lovejade.cn/tags/PDF)
 
 > The home of paged.js, the library to turn HTML into PDF
 
 ![倾城之链 - Paged.js — Paged.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pagedjs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Paged.js](https://www.pagedjs.org/) 是一个免费且开源的 JavaScript 库，它可以在浏览器中对内容进行分页，从任何 HTML 内容中创建 [PDF](https://nicelinks.site/tags/PDF) 输出。这意味着你可以使用 HTML 和 CSS 来设计印刷作品（例如书籍）！[Paged.js](https://www.pagedjs.org/) 遵循 W3C 发布的 Paged Media 标准（即分页媒体模块，以及**分页**媒体模块的生成内容）。实际上，Paged.js 的作用是为 CSS 模块提供了一个多角填充，以便使用浏览器尚未支持的功能来打印内容。关于的使用，可以参见教程指南： [Beautiful PDFs from HTML](https://nicelinks.site/post/606ac1ca00d67605dca7de60)。
+**推荐语**：[Paged.js](https://www.pagedjs.org/) 是一个免费且开源的 JavaScript 库，它可以在浏览器中对内容进行分页，从任何 HTML 内容中创建 [PDF](https://site.lovejade.cn/tags/PDF) 输出。这意味着你可以使用 HTML 和 CSS 来设计印刷作品（例如书籍）！[Paged.js](https://www.pagedjs.org/) 遵循 W3C 发布的 Paged Media 标准（即分页媒体模块，以及**分页**媒体模块的生成内容）。实际上，Paged.js 的作用是为 CSS 模块提供了一个多角填充，以便使用浏览器尚未支持的功能来打印内容。关于的使用，可以参见教程指南： [Beautiful PDFs from HTML](https://site.lovejade.cn/post/606ac1ca00d67605dca7de60)。
 
-── 出自[倾城之链 - Paged.js — Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62)
+── 出自[倾城之链 - Paged.js — Paged.js](https://site.lovejade.cn/post/606ac24900d67605dca7de62)
 
 ## [Beautiful PDFs from HTML](https://pdf.math.dev/?utm_source=nicelinks.site)
 
-**标签**：[`PDF`](https://nicelinks.site/tags/PDF) · [`教程`](https://nicelinks.site/tags/教程)
+**标签**：[`PDF`](https://site.lovejade.cn/tags/PDF) · [`教程`](https://site.lovejade.cn/tags/教程)
 
 > This guide provides a basic tutorial to using paged.js, about how to generate beautiful PDFs from HTML.
 
 ![倾城之链 - Beautiful PDFs from HTML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pdf.math.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 提供了一个天才的想法，它可以填充所需的功能，允许浏览器以本机方式处理分页媒体，而不必从头构建整个呈现引擎。[Beautiful PDFs from HTML](https://pdf.math.dev/) 网站，介绍了 [Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 的安装、使用、基本特征、高级功能，以及其他注意事项。值得一提的是，该网站，即是使用 [Paged.js](https://nicelinks.site/post/606ac24900d67605dca7de62) 参与处理，可以访问查看效果。
+**推荐语**：[Paged.js](https://site.lovejade.cn/post/606ac24900d67605dca7de62) 提供了一个天才的想法，它可以填充所需的功能，允许浏览器以本机方式处理分页媒体，而不必从头构建整个呈现引擎。[Beautiful PDFs from HTML](https://pdf.math.dev/) 网站，介绍了 [Paged.js](https://site.lovejade.cn/post/606ac24900d67605dca7de62) 的安装、使用、基本特征、高级功能，以及其他注意事项。值得一提的是，该网站，即是使用 [Paged.js](https://site.lovejade.cn/post/606ac24900d67605dca7de62) 参与处理，可以访问查看效果。
 
-── 出自[倾城之链 - Beautiful PDFs from HTML](https://nicelinks.site/post/606ac1ca00d67605dca7de60)
+── 出自[倾城之链 - Beautiful PDFs from HTML](https://site.lovejade.cn/post/606ac1ca00d67605dca7de60)
 
 ## [独立个人博客推荐 - BlogHub](https://bloghub.fun/?utm_source=nicelinks.site)
 
-**标签**：[`个人博客`](https://nicelinks.site/tags/个人博客) · [`导航`](https://nicelinks.site/tags/导航) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`个人博客`](https://site.lovejade.cn/tags/个人博客) · [`导航`](https://site.lovejade.cn/tags/导航) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > 一群自由而有趣的灵魂，终将在此相遇
 
 ![倾城之链 - 独立个人博客推荐 - BlogHub](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bloghub.fun.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[BlogHub](https://bloghub.fun/) 是一个开源的，中文独立博客导航站（基于 [React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 所搭建，支持 RSS 订阅）。希望能帮助大家探索更多有趣的独立博客，发现其中蕴藏的有趣灵魂。
+**推荐语**：[BlogHub](https://bloghub.fun/) 是一个开源的，中文独立博客导航站（基于 [React.js](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)、[Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) 所搭建，支持 RSS 订阅）。希望能帮助大家探索更多有趣的独立博客，发现其中蕴藏的有趣灵魂。
 
-── 出自[倾城之链 - 独立个人博客推荐 - BlogHub](https://nicelinks.site/post/606aa9c700d67605dca7de5e)
+── 出自[倾城之链 - 独立个人博客推荐 - BlogHub](https://site.lovejade.cn/post/606aa9c700d67605dca7de5e)
 
 ## [The Go Programming Language](https://golang.org/?utm_source=nicelinks.site)
 
-**标签**：[`Go`](https://nicelinks.site/tags/Go) · [`编程`](https://nicelinks.site/tags/编程) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`Go`](https://site.lovejade.cn/tags/Go) · [`编程`](https://site.lovejade.cn/tags/编程) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 
@@ -84,11 +84,11 @@
 
 Go 语言被设计成一门应用于搭载 Web 服务器，存储集群或类似用途的巨型中央服务器的系统编程语言。对于高性能分布式系统领域而言，Go 语言无疑比大多数其它语言有着更高的开发效率。它提供了海量并行的支持，这对于游戏服务端的开发而言是再好不过了。
 
-── 出自[倾城之链 - The Go Programming Language](https://nicelinks.site/post/606aa86a00d67605dca7de5c)
+── 出自[倾城之链 - The Go Programming Language](https://site.lovejade.cn/post/606aa86a00d67605dca7de5c)
 
 ## [Rust Programming Language ](https://www.rust-lang.org/?utm_source=nicelinks.site)
 
-**标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`编程`](https://nicelinks.site/tags/编程) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`Rust`](https://site.lovejade.cn/tags/Rust) · [`编程`](https://site.lovejade.cn/tags/编程) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > A language empowering everyone to build reliable and efficient software.
 
@@ -128,12 +128,12 @@ Rust 拥有出色的文档、友好的编译器和清晰的错误提示信息，
 
 全世界已有数百家公司**在生产环境**中使用 Rust，以达到快速、跨平台、低资源占用的目的。很多著名且受欢迎的软件，例如 Firefox、 Dropbox 和 Cloudflare 都在使用 Rust。从初创公司到大型企业，从嵌入式设备到可扩展的 Web 服务，Rust 都完全合适。
 
-── 出自[倾城之链 - Rust Programming Language ](https://nicelinks.site/post/606a826800d67605dca7de5a)
+── 出自[倾城之链 - Rust Programming Language ](https://site.lovejade.cn/post/606a826800d67605dca7de5a)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 
 ## [Foxmail for Windows &amp; Mac](https://www.foxmail.com/)
 
-[产品](https://nicelinks.site/theme/product) [邮箱 ](https://nicelinks.site/tags/%E9%82%AE%E7%AE%B1)[软件](https://nicelinks.site/tags/%E8%BD%AF%E4%BB%B6)
+[产品](https://site.lovejade.cn/theme/product) [邮箱 ](https://site.lovejade.cn/tags/%E9%82%AE%E7%AE%B1)[软件](https://site.lovejade.cn/tags/%E8%BD%AF%E4%BB%B6)
 
 **关键字：** Foxmail 邮件客户端, foxmail 官方下载, 电子邮箱管理, QQ 邮箱客户端, 企业邮箱客户端, 十大国产软件, 办公邮箱, 企业邮箱
 
@@ -147,7 +147,7 @@ Rust 拥有出色的文档、友好的编译器和清晰的错误提示信息，
 - **超大附件服务**：无论生活与工作，总有发送大文件的需求。使用 Foxmail 的超大附件功能 ①，你将不再受困于邮件服务器对于附件大小的限制，更加便捷的发送大容量附件。
 - **腾讯企业邮箱专享**：自动配置帐号、企业地址本、邮件撤回 ②……添加腾讯企业邮箱帐户，Foxmail 已经为你准备好腾讯企业邮箱的专属云端服务。丰富的商务功能，让你的工作更加高效。
 
-注：① 发送超大附件，需要授权您的腾讯邮箱服务。 ② 可能需要您的企业邮箱管理员开通相应权限。── 出自[倾城之链 | Foxmail for Windows &amp; Mac](https://nicelinks.site/post/60670a5cbffb5e532f3be250)。
+注：① 发送超大附件，需要授权您的腾讯邮箱服务。 ② 可能需要您的企业邮箱管理员开通相应权限。── 出自[倾城之链 | Foxmail for Windows &amp; Mac](https://site.lovejade.cn/post/60670a5cbffb5e532f3be250)。
 
 ## 本期文末寄语
 

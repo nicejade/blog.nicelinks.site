@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Pagefind | Pagefind — Static low-bandwidth search at scale](https://nicelinks.site/post/65d719adf4e2d519ef5c949e)
+## [Pagefind | Pagefind — Static low-bandwidth search at scale](https://site.lovejade.cn/post/65d719adf4e2d519ef5c949e)
 
-**标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`全文搜索`](https://nicelinks.site/tags/全文搜索) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`搜索`](https://site.lovejade.cn/tags/搜索) · [`全文搜索`](https://site.lovejade.cn/tags/全文搜索) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Pagefind is a fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure.
 
 ![倾城之链 - Pagefind | Pagefind — Static low-bandwidth search at scale](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pagefind.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pagefind](https://pagefind.app/) 是一个完全静态的搜索库，旨在为大型网站提供高效 [搜索](https://nicelinks.site/tags/搜索) 功能，同时尽可能减少用户带宽的使用，并且不需要托管任何基础设施。它适用于在网站构建后运行，支持多种网站框架，如 [Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 、Eleventy、 [Jekyll](https://nicelinks.site/post/5c4c59c1a5957e07a40b3118) 、 [Next](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 、 [SvelteKit](https://nicelinks.site/post/62ea86c3bea86d1ae27b7bd2) 等。Pagefind 的安装过程相对简单，只需要一个包含网站构建静态文件的文件夹，大多数情况下无需额外配置即可开始使用。
+**推荐语**：[Pagefind](https://pagefind.app/) 是一个完全静态的搜索库，旨在为大型网站提供高效 [搜索](https://site.lovejade.cn/tags/搜索) 功能，同时尽可能减少用户带宽的使用，并且不需要托管任何基础设施。它适用于在网站构建后运行，支持多种网站框架，如 [Hugo](https://site.lovejade.cn/post/5c36d7b2589b2a35f579f377) 、Eleventy、 [Jekyll](https://site.lovejade.cn/post/5c4c59c1a5957e07a40b3118) 、 [Next](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 、 [Astro](https://site.lovejade.cn/post/63788ad1049fa51046c4a5bd) 、 [SvelteKit](https://site.lovejade.cn/post/62ea86c3bea86d1ae27b7bd2) 等。Pagefind 的安装过程相对简单，只需要一个包含网站构建静态文件的文件夹，大多数情况下无需额外配置即可开始使用。
 
 建立索引后，Pagefind 将静态搜索包添加到您构建的文件中，这公开了可在您网站上的任何位置使用的 JavaScript 搜索 API。 Pagefind 还提供了无需配置即可使用的预构建 UI。 （您可以在本页顶部看到预构建的 UI）。
 
@@ -50,19 +50,19 @@
 
 Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览器中搜索，同时消耗尽可能少的带宽。 Pagefind 的搜索索引被分成多个块，因此在浏览器中进行搜索只需要加载搜索索引的一小部分。 Pagefind 可以在 10,000 个页面的站点上运行全文搜索，总网络负载不超过 300kB，包括 Pagefind 库本身。对于大多数站点，这将接近 100kB。
 
-近期，基于 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 的文档网站框架 ──[Starlight](https://github.com/withastro/starlight) ，其内置站内检索，使用的就是 `Pagefind`，体验了下，效果令人非常满意。如果您对这款搜索库感兴趣，可移步至 [Pagefind 在 Github 的开源仓库](https://github.com/cloudcannon/pagefind) ，从而了解更多。
+近期，基于 [Astro](https://site.lovejade.cn/post/63788ad1049fa51046c4a5bd) 的文档网站框架 ──[Starlight](https://github.com/withastro/starlight) ，其内置站内检索，使用的就是 `Pagefind`，体验了下，效果令人非常满意。如果您对这款搜索库感兴趣，可移步至 [Pagefind 在 Github 的开源仓库](https://github.com/cloudcannon/pagefind) ，从而了解更多。
 
-── 出自[倾城之链 - Pagefind | Pagefind — Static low-bandwidth search at scale](https://nicelinks.site/post/65d719adf4e2d519ef5c949e)
+── 出自[倾城之链 - Pagefind | Pagefind — Static low-bandwidth search at scale](https://site.lovejade.cn/post/65d719adf4e2d519ef5c949e)
 
-## [Gemini - Google DeepMind](https://nicelinks.site/post/65d4a90ff4e2d519ef5c862b)
+## [Gemini - Google DeepMind](https://site.lovejade.cn/post/65d4a90ff4e2d519ef5c862b)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`Google`](https://nicelinks.site/tags/Google) · [`LLM`](https://nicelinks.site/tags/LLM)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`Google`](https://site.lovejade.cn/tags/Google) · [`LLM`](https://site.lovejade.cn/tags/LLM)
 
 > Gemini is built from the ground up for multimodality — reasoning seamlessly across image, video, audio, and code.
 
 ![倾城之链 - Gemini - Google DeepMind](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gemini.google.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gemini](https://gemini.google.com/) 是一个多模式语言模型的系列，由谷歌 DeepMind 开发，是 LaMDA 的后继，属于 PaLM2 系列的新一代。Gemini 包含 Gemini Ultra、Gemini Pro 和 Gemini Nano，于 2023 年 12 月 6 日面世，被定位为与 [OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 的 GPT-4 抗衡的产品系列。
+**推荐语**：[Gemini](https://gemini.google.com/) 是一个多模式语言模型的系列，由谷歌 DeepMind 开发，是 LaMDA 的后继，属于 PaLM2 系列的新一代。Gemini 包含 Gemini Ultra、Gemini Pro 和 Gemini Nano，于 2023 年 12 月 6 日面世，被定位为与 [OpenAI](https://site.lovejade.cn/post/6391e22878b7a1291995ff86) 的 GPT-4 抗衡的产品系列。
 
 2023 年 12 月 6 日,谷歌在一次虚拟记者招待会上宣布推出了“Gemini 1.0”。它由三个模型组成: Gemini Ultra—用于“高度复杂的任务”，Gemini Pro—用于“广泛的任务”, 以及 Gemini Nano—用于“终端上设备的任务”。
 
@@ -74,11 +74,11 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 
 基于 [Gemini](https://gemini.google.com/) ，您可获取创意灵感，提升工作效率；轻松对话，让 Google AI 帮你写作、规划、学习或处理其他事务。但，即便开启科|学上网，**Gemini 目前不支持在中国地区**使用，如果您对其感兴趣，可以基于 [Gemini 素问智聊斋](https://chatgpt.nicelinks.site/gemini) （`Gemini Pro` 模型）来体验。
 
-── 出自[倾城之链 - Gemini - Google DeepMind](https://nicelinks.site/post/65d4a90ff4e2d519ef5c862b)
+── 出自[倾城之链 - Gemini - Google DeepMind](https://site.lovejade.cn/post/65d4a90ff4e2d519ef5c862b)
 
-## [AlternativeTo - Crowdsourced software recommendations](https://nicelinks.site/post/65d49a56f4e2d519ef5c8551)
+## [AlternativeTo - Crowdsourced software recommendations](https://site.lovejade.cn/post/65d49a56f4e2d519ef5c8551)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`软件`](https://nicelinks.site/tags/软件) · [`产品推荐`](https://nicelinks.site/tags/产品推荐)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`软件`](https://site.lovejade.cn/tags/软件) · [`产品推荐`](https://site.lovejade.cn/tags/产品推荐)
 
 > AlternativeTo lets you find apps and software for Windows, Mac, Linux, iPhone, iPad, Android, Android Tablets, Web Apps, Online, Windows Tablets and more by recommending alternatives to apps you already know.
 
@@ -111,13 +111,13 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 3.  **特定需求**：用户可以根据自己的特定需求（如操作系统兼容性、隐私保护等）寻找合适的软件。
 4.  **技术趋势**：了解当前流行的软件和新兴技术，保持与行业发展同步。
 
-[AlternativeTo.net](https://alternativeto.net/) 的核心价值在于它的社区驱动特性，它依赖于用户的参与和贡献来提供最新、最相关的软件替代品信息。通过这种方式，AlternativeTo 成为了一个强大的资源，帮助用户做出更明智的软件选择。真实体验，发现它给出的检索结果，并没有那么“智能”，比如输入 [Alfred](https://nicelinks.site/post/5ae926e67b44827edbc5c69a) ，它并没有 `GPT4` 那般给出更令人满意的结果： [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 。
+[AlternativeTo.net](https://alternativeto.net/) 的核心价值在于它的社区驱动特性，它依赖于用户的参与和贡献来提供最新、最相关的软件替代品信息。通过这种方式，AlternativeTo 成为了一个强大的资源，帮助用户做出更明智的软件选择。真实体验，发现它给出的检索结果，并没有那么“智能”，比如输入 [Alfred](https://site.lovejade.cn/post/5ae926e67b44827edbc5c69a) ，它并没有 `GPT4` 那般给出更令人满意的结果： [Raycast](https://site.lovejade.cn/post/6378d324049fa51046c4ac75) 。
 
-── 出自[倾城之链 - AlternativeTo - Crowdsourced software recommendations](https://nicelinks.site/post/65d49a56f4e2d519ef5c8551)
+── 出自[倾城之链 - AlternativeTo - Crowdsourced software recommendations](https://site.lovejade.cn/post/65d49a56f4e2d519ef5c8551)
 
-## [Learn foreign words with language flashcards | kartet](https://nicelinks.site/post/65ce3d3cf4e2d519ef5c4bef)
+## [Learn foreign words with language flashcards | kartet](https://site.lovejade.cn/post/65ce3d3cf4e2d519ef5c4bef)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`教育`](https://nicelinks.site/tags/教育) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`教育`](https://site.lovejade.cn/tags/教育) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：Language learning, flashcards, foreign words, learn languages
 
@@ -133,7 +133,7 @@ Pagefind 的目标是拥有数万个页面的网站应该可供用户在浏览�
 
 **Kartet 是如何工作的**？当每个人学习一个新单词时，自然地，一段时间后开始忘记它。首先，我们忘记得很快，然后忘记得越多，速度就越慢,重复。 Karteto 预测最佳时间重复一个单词并提醒你。从 Karteto 精心策划的学习包中学习单词，或者添加你自己的，以获得最大的灵活性。研究表明学习必须有趣才能有效，Karteto 的诞生是为了让学习更有趣。
 
-── 出自[倾城之链 - Learn foreign words with language flashcards | kartet](https://nicelinks.site/post/65ce3d3cf4e2d519ef5c4bef)
+── 出自[倾城之链 - Learn foreign words with language flashcards | kartet](https://site.lovejade.cn/post/65ce3d3cf4e2d519ef5c4bef)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

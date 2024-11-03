@@ -1,22 +1,22 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://www.appinn.com/?utm_source=nicelinks.site)
 
-**标签**：[`分享`](https://nicelinks.site/tags/分享) · [`互联网`](https://nicelinks.site/tags/互联网) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`分享`](https://site.lovejade.cn/tags/分享) · [`互联网`](https://site.lovejade.cn/tags/互联网) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > 小众软件是一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
 
 ![倾城之链 - 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.appinn.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[小众软件](https://www.appinn.com/)是一个分享免费、小巧、有趣、实用软件的网站（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建）；在这里，你可以发现各种各样的软件：有实用的，有趣味的，有奇葩的；涵盖 Android、iOS、MacOS、Windows、Chrome、Web 等方向；他们相信任何存在的软件都是需求的表现，所以不要怀疑你很小众的软件没人用。当然，您也可以参与讨论、提交新发现；欲了解更多，可参见[关于小众软件](https://www.appinn.com/about/)。
+**推荐语**：[小众软件](https://www.appinn.com/)是一个分享免费、小巧、有趣、实用软件的网站（基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 搭建）；在这里，你可以发现各种各样的软件：有实用的，有趣味的，有奇葩的；涵盖 Android、iOS、MacOS、Windows、Chrome、Web 等方向；他们相信任何存在的软件都是需求的表现，所以不要怀疑你很小众的软件没人用。当然，您也可以参与讨论、提交新发现；欲了解更多，可参见[关于小众软件](https://www.appinn.com/about/)。
 
-── 出自[倾城之链 - 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://nicelinks.site/post/605ca5cebffb5e532f3be237)
+── 出自[倾城之链 - 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件](https://site.lovejade.cn/post/605ca5cebffb5e532f3be237)
 
 ## [HelloWorld - 专业开发者社区](https://www.helloworld.net/?utm_source=nicelinks.site)
 
-**标签**：[`开发者`](https://nicelinks.site/tags/开发者) · [`社区`](https://nicelinks.site/tags/社区) · [`技术`](https://nicelinks.site/tags/技术)
+**标签**：[`开发者`](https://site.lovejade.cn/tags/开发者) · [`社区`](https://site.lovejade.cn/tags/社区) · [`技术`](https://site.lovejade.cn/tags/技术)
 
 **关键字**：Helloworld, Helloworld 开发者社区, Helloworld 专栏, Helloworld 博客, Helloworld 教程
 
@@ -26,11 +26,11 @@
 
 **推荐语**：[HelloWorld](https://www.helloworld.net/) 是基于 Vue、Node、Nginx 等技术工具搭建的开发者社区（并提供 Android 版本应用），旨在为开发者提供优质的原创内容，从而帮助开发者更好的成长；该网站于 2018 年上线，目前有**专栏**与**推荐**两个模块，设计内容有 Js、Java、Python、PHP、Swift 等编程语言，以及前端、后端、移动端、运维开发等技术方向。
 
-── 出自[倾城之链 - HelloWorld - 专业开发者社区](https://nicelinks.site/post/605c9d97bffb5e532f3be235)
+── 出自[倾城之链 - HelloWorld - 专业开发者社区](https://site.lovejade.cn/post/605c9d97bffb5e532f3be235)
 
 ## [Welcome to your new HQ | Slack](https://slack.com/?utm_source=nicelinks.site)
 
-**标签**：[`沟通`](https://nicelinks.site/tags/沟通) · [`效率`](https://nicelinks.site/tags/效率) · [`工作`](https://nicelinks.site/tags/工作)
+**标签**：[`沟通`](https://site.lovejade.cn/tags/沟通) · [`效率`](https://site.lovejade.cn/tags/效率) · [`工作`](https://site.lovejade.cn/tags/工作)
 
 > Slack is a new way to communicate with your team. It’s faster, better organized, and more secure than email.
 
@@ -46,11 +46,11 @@
 - 通过将所有的工作交流集中到一个地方，保持在同一页面上，并更快地做出决定；
 - 借助功能全面的邮件归档和所有工作工具，您只需动动指尖，即可花更少的时间整理标签。
 
-── 出自[倾城之链 - Welcome to your new HQ | Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)
+── 出自[倾城之链 - Welcome to your new HQ | Slack](https://site.lovejade.cn/post/605b4055bffb5e532f3be233)
 
 ## [RT-Thread, RTOS, 物联网操作系统 - RT-Thread 物联网操作系统](https://www.rt-thread.org/?utm_source=nicelinks.site)
 
-**标签**：[`物联网`](https://nicelinks.site/tags/物联网) · [`平台`](https://nicelinks.site/tags/平台) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`物联网`](https://site.lovejade.cn/tags/物联网) · [`平台`](https://site.lovejade.cn/tags/平台) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 **关键字**：RT-Thread, RTOS, IoT, 物联网，MCU，君正，全志，Realtek, FreeRTOS, UCOS
 
@@ -62,23 +62,23 @@
 
 RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工具如 GCC、Keil、IAR 等，工具链完善、友好，支持各类标准接口，如 POSIX、CMSIS、C++应用环境、Javascript 执行环境等，方便开发者移植各类应用程序。商用支持所有主流 MCU 架构，如 ARM Cortex-M/R/A, MIPS, X86, Xtensa, C-Sky, RISC-V，几乎支持市场上所有主流的 MCU 和 Wi-Fi 芯片。
 
-── 出自[倾城之链 - RT-Thread, RTOS, 物联网操作系统 - RT-Thread 物联网操作系统](https://nicelinks.site/post/605b2552bffb5e532f3be231)
+── 出自[倾城之链 - RT-Thread, RTOS, 物联网操作系统 - RT-Thread 物联网操作系统](https://site.lovejade.cn/post/605b2552bffb5e532f3be231)
 
 ## [Generate unique SVG design assets | Haikei](https://haikei.app/?utm_source=nicelinks.site)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`工具`](https://nicelinks.site/tags/工具) · [`设计`](https://nicelinks.site/tags/设计)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`工具`](https://site.lovejade.cn/tags/工具) · [`设计`](https://site.lovejade.cn/tags/设计)
 
 > A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
 
 ![倾城之链 - Generate unique SVG design assets | Haikei](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/haikei.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Haikei](https://haikei.app/) 是生成独特的 [SVG](https://nicelinks.site/tags/SVG) 设计资源工具。这是一个基于 Web 的设计工具，为网站、社交媒体、博客文章、桌面和移动壁纸、海报等生成独特的 [SVG](https://nicelinks.site/tags/SVG) 设计资产！我们的生成器允许您发现、自定义、随机化和导出生成性 `SVG` 设计资产，以便与您喜爱的设计工具一起使用；您从不断增长的生成器列表中，选择一个可视化对象，自定义、随机化并将其导出为 SVG 或 PNG。[Haikei](https://haikei.app/) 支持免费使用，无需注册，无需信用卡。
+**推荐语**：[Haikei](https://haikei.app/) 是生成独特的 [SVG](https://site.lovejade.cn/tags/SVG) 设计资源工具。这是一个基于 Web 的设计工具，为网站、社交媒体、博客文章、桌面和移动壁纸、海报等生成独特的 [SVG](https://site.lovejade.cn/tags/SVG) 设计资产！我们的生成器允许您发现、自定义、随机化和导出生成性 `SVG` 设计资产，以便与您喜爱的设计工具一起使用；您从不断增长的生成器列表中，选择一个可视化对象，自定义、随机化并将其导出为 SVG 或 PNG。[Haikei](https://haikei.app/) 支持免费使用，无需注册，无需信用卡。
 
-── 出自[倾城之链 - Generate unique SVG design assets | Haikei](https://nicelinks.site/post/6056eb09bffb5e532f3be22f)
+── 出自[倾城之链 - Generate unique SVG design assets | Haikei](https://site.lovejade.cn/post/6056eb09bffb5e532f3be22f)
 
 ## [十六进制颜色代码表，图表及调色板 - Encycolorpedia](https://encycolorpedia.cn/?utm_source=nicelinks.site)
 
-**标签**：[`配色`](https://nicelinks.site/tags/配色) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`配色`](https://site.lovejade.cn/tags/配色) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > 搜索十六进制色码表，图标，调色板及色转换。
 
@@ -86,11 +86,11 @@ RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工�
 
 **推荐语**：[encycolorpedia](https://encycolorpedia.cn/) 是一款非常棒的在线调色板，不但有十六进制颜色代码表， 还有各种颜色代码的解析及配色说明，如十六进制颜色代码 **#5c4c8c**，给出的说明是：“度的**蓝品红**阴影。在 RGB 三原色光模式中，`#5c4c8c` 是由 36.08％的红色，29.8％的绿色和 54.9％的蓝色组成。在 HSL 色彩空间里，#5c4c8c 有 255 度的色调，30％ 的饱和度以及 42 ％的亮度。这种颜色的波长将近 446.2 纳米“。此外，[encycolorpedia](https://encycolorpedia.cn/) 还会给出相关（含密切、中度、较远）色彩以及命名；此外，还会列出与之相对应的**配色**列表；额外，encycolorpedia 网站还会给出 HTML & CSS 案例，展示所输入的颜色，用于 background-color、color、text-shadow 各属性下对应效果。`encycolorpedia` 不仅提供色值检索，您还可以按命名搜索如 `grey`，它会以列表形式，列出结果，供您选择。如果您有配色相关诉求，[encycolorpedia](https://encycolorpedia.cn/) 是非常值得了解 & 使用的网站。
 
-── 出自[倾城之链 - 十六进制颜色代码表，图表及调色板 - Encycolorpedia](https://nicelinks.site/post/6055eecbbffb5e532f3be22d)
+── 出自[倾城之链 - 十六进制颜色代码表，图表及调色板 - Encycolorpedia](https://site.lovejade.cn/post/6055eecbbffb5e532f3be22d)
 
 ## [Screen and camera recorder - Scre.io](https://scre.io/?utm_source=nicelinks.site)
 
-**标签**：[`录制视频`](https://nicelinks.site/tags/录制视频) · [`免费`](https://nicelinks.site/tags/免费) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`录制视频`](https://site.lovejade.cn/tags/录制视频) · [`免费`](https://site.lovejade.cn/tags/免费) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Record videos from the camera or capture from the screen. Free screen and camera recorder. Capture unlimited videos. Available for Mac, Windows, Chrome and Edge browsers.
 
@@ -104,7 +104,7 @@ RT-Thread 拥有良好的软件生态，支持市面上所有主流的编译工�
 - 安全并支持离线工作。
 - 简单易用。
 
-── 出自[倾城之链 - Screen and camera recorder - Scre.io](https://nicelinks.site/post/6055eb8cbffb5e532f3be22b)
+── 出自[倾城之链 - Screen and camera recorder - Scre.io](https://site.lovejade.cn/post/6055eb8cbffb5e532f3be22b)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 
 ## 本期文末寄语

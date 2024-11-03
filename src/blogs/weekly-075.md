@@ -1,30 +1,30 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [You.com | The search engine you control](https://nicelinks.site/post/62d947dd65fb1506218fa5e5)
+## [You.com | The search engine you control](https://site.lovejade.cn/post/62d947dd65fb1506218fa5e5)
 
-**标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`搜索`](https://site.lovejade.cn/tags/搜索) · [`引擎`](https://site.lovejade.cn/tags/引擎) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > You.com is an ad-free, private search engine that you control. Customize search results with 150 apps alongside web results. Access a zero-trace private mode.
 
 ![倾城之链 - You.com | The search engine you control](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/you.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[You.com](https://you.com/) 是一个无广告的私人搜索引擎，由你控制，免费使用；进入零跟踪的私人模式。它用 150+ 个应用程序和网页结果，一起定制搜索结果。在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 介绍到：You.com 的 YouCode 是为开发者提供的搜索引擎。可以基于她复制代码片段，用人工智能编写代码，验证 JSON，并以比传统搜索引擎快 10 倍的速度，找到文档、技巧、窍门和实用工具。
+**推荐语**：[You.com](https://you.com/) 是一个无广告的私人搜索引擎，由你控制，免费使用；进入零跟踪的私人模式。它用 150+ 个应用程序和网页结果，一起定制搜索结果。在 [Product Hunt](https://site.lovejade.cn/post/5f40d0bf15435e0906a0a26f) 介绍到：You.com 的 YouCode 是为开发者提供的搜索引擎。可以基于她复制代码片段，用人工智能编写代码，验证 JSON，并以比传统搜索引擎快 10 倍的速度，找到文档、技巧、窍门和实用工具。
 
 世界最大的问答网站 Stack Overflow，每年举办一次全世界程序员调查，2022 增加了一个问题："哪些因素会影响你的工作效率？它们频繁发生吗？会花费你多少时间？"。68% 的程序员说，**最影响工作效率的是找不到答案**。
 
 遇到问题，要么没人可问，要么没有文档，工作就被迫卡在那里，无法进行下去。越是高级程序员，给出这个回答的百分比越高。也就是说，水平高的人更苦于找不到答案，因为遇到的都是非典型问题，很少有人提到过。程序员用来找答案的时间，每天平均 30 分钟，25% 的人更是超过一个小时。这对个人和公司，都是很大的损耗。如能很好解决此问题，将能带来巨大价值，并产生无法估量的利润。
 
-对于程序员而言，Goolge、Stack Overflow 以及国内的 [SegmentFault](https://nicelinks.site/post/59c8e9208f066a5dda100f4b)，都是解决这一问题的工具。有用户评论 you.com 是真正挖掘领域优化搜索体验的想法——超越 StackOverflow 为开发人员提供搜索工具，是一个聪明而精明的角度。
+对于程序员而言，Goolge、Stack Overflow 以及国内的 [SegmentFault](https://site.lovejade.cn/post/59c8e9208f066a5dda100f4b)，都是解决这一问题的工具。有用户评论 you.com 是真正挖掘领域优化搜索体验的想法——超越 StackOverflow 为开发人员提供搜索工具，是一个聪明而精明的角度。
 
 作为不怎么记忆 API 的编程开发人员，初步体验 You.com，感觉这是值得使用的产品，它能快速根据我的「关键字」，快速且准确找到我想要的内容，而且对「中文」支持的相当好；此外还做了些特色优化，诸如在结果列表中，清晰的展示了页面地址、以及层级路径（譬如 [nicelinks.site > about](https://you.com/search?q=倾城之链)）。除了 Web 应用，适用于 iOS 和 Android 的应用程序，以及 Chrome 扩展。如果您对 you.com 感兴趣，可以参见 [You.com 入门](https://about.you.com/hc-category/getting-started/)。
 
-── 出自[倾城之链 - You.com | The search engine you control](https://nicelinks.site/post/62d947dd65fb1506218fa5e5)
+── 出自[倾城之链 - You.com | The search engine you control](https://site.lovejade.cn/post/62d947dd65fb1506218fa5e5)
 
-## [JS: The Right Way](https://nicelinks.site/post/62d7f92a65fb1506218fa5e3)
+## [JS: The Right Way](https://site.lovejade.cn/post/62d7f92a65fb1506218fa5e3)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`教程`](https://nicelinks.site/tags/教程) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`教程`](https://site.lovejade.cn/tags/教程) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > A quick reference to best practices for writing JavaScript -- links to code patterns and tutorials from around the web .
 
@@ -34,11 +34,11 @@
 
 [JS: The Right Way](https://jstherightway.org/) 所涉及的内容非常丰富，包含：JavaScript 入门，代码风格、特色功能、设计模式、各种框架、测试工具、游戏引擎，以及相关方面的推荐文章、新闻。如果您从事，或打算从事 Web 前端开发，相信 [JS: The Right Way](https://jstherightway.org/) 都能带来或多或少的帮助。
 
-── 出自[倾城之链 - JS: The Right Way](https://nicelinks.site/post/62d7f92a65fb1506218fa5e3)
+── 出自[倾城之链 - JS: The Right Way](https://site.lovejade.cn/post/62d7f92a65fb1506218fa5e3)
 
-## [Strapi - Open source Node.js Headless CMS 🚀](https://nicelinks.site/post/62d6a53a65fb1506218fa5e1)
+## [Strapi - Open source Node.js Headless CMS 🚀](https://site.lovejade.cn/post/62d6a53a65fb1506218fa5e1)
 
-**标签**：[`开源`](https://nicelinks.site/tags/开源) · [`CMS`](https://nicelinks.site/tags/CMS) · [`API`](https://nicelinks.site/tags/API)
+**标签**：[`开源`](https://site.lovejade.cn/tags/开源) · [`CMS`](https://site.lovejade.cn/tags/CMS) · [`API`](https://site.lovejade.cn/tags/API)
 
 > Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.
 
@@ -75,11 +75,11 @@ npx create-strapi-app my-project --quickstart
 
 长期以来，大多数网站内容通过浏览器（通常是网页）发布。 但是新的互联设备层出不穷。如今，受众通过具有不同形状系数的新设备界面（例如智能手机、可穿戴设备、支持 AI 的语音助理、乃至虚拟现实耳机）使用内容。Headless CMS 架构，对于应对这些新的内容挑战，具有基础性的作用。这意味着您可以轻松创建和管理更多内容，并将其发布到更多位置。[Strapi](https://strapi.io/) 让开发人员可以自由使用他们最喜欢的工具和框架，同时允许编辑人员轻松管理他们的内容，并将其分发到任何地方。
 
-── 出自[倾城之链 - Strapi - Open source Node.js Headless CMS 🚀](https://nicelinks.site/post/62d6a53a65fb1506218fa5e1)
+── 出自[倾城之链 - Strapi - Open source Node.js Headless CMS 🚀](https://site.lovejade.cn/post/62d6a53a65fb1506218fa5e1)
 
-## [Smashing Magazine — For Web Designers And DevelopersClear SearchBack to top](https://nicelinks.site/post/62d69eb465fb1506218fa5df)
+## [Smashing Magazine — For Web Designers And DevelopersClear SearchBack to top](https://site.lovejade.cn/post/62d69eb465fb1506218fa5df)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`设计`](https://nicelinks.site/tags/设计)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`设计`](https://site.lovejade.cn/tags/设计)
 
 > Articles all around CSS, JavaScript, front-end, UX and design. For designers and web developers.
 
@@ -87,11 +87,11 @@ npx create-strapi-app my-project --quickstart
 
 **推荐语**： [Smashing Magazine](https://www.smashingmagazine.com/) ，于 2006 年 9 月在德国成立，为网页设计师和 Web 开发人员提供可靠、有用但最重要的实用文章，围绕 CSS、JavaScript、前端、用户体验和设计等方面（内容十分丰富）。该团队小而精，他们真正在意自己的工作，热情而专注，诚实和尊重；他们不关心趋势，关心在实际项目中成功或失败的事情；10 多年以来，始终坚持**高质量的内容**，致力于提高生产力、提高设计、开发技能以及**平衡工作与生活**。通过互相学习，一起变得更好——这就是该团队多年来，一直奉行的精神（`赞`）。事实上，他们做到了，在这里读到了蛮多精品内容分享，如果您从事前端开发，或网页设计相关工作，Smashing 是非常值得关注的网站。
 
-── 出自[倾城之链 - Smashing Magazine — For Web Designers And DevelopersClear SearchBack to top](https://nicelinks.site/post/62d69eb465fb1506218fa5df)
+── 出自[倾城之链 - Smashing Magazine — For Web Designers And DevelopersClear SearchBack to top](https://site.lovejade.cn/post/62d69eb465fb1506218fa5df)
 
-## [免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间](https://nicelinks.site/post/62d5153f65fb1506218fa5dd)
+## [免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间](https://site.lovejade.cn/post/62d5153f65fb1506218fa5dd)
 
-**标签**：[`免费`](https://nicelinks.site/tags/免费) · [`资源`](https://nicelinks.site/tags/资源)
+**标签**：[`免费`](https://site.lovejade.cn/tags/免费) · [`资源`](https://site.lovejade.cn/tags/资源)
 
 **关键字**：免费主机, 免费 PHP 主机, 免费虚拟空间, 免费 MYSQL 数据库, 永久免费空间, 海外免备案主机, freehost
 
@@ -101,7 +101,7 @@ npx create-strapi-app my-project --quickstart
 
 **推荐语**： [freehost.cc](https://www.freehost.cc/) 提供专业的免费主机服务，采用服务器集群技术，是互联网领先的免费云虚拟主机提供商。在这里注册的免费高速 PHP 主机和 MYSQL 数据库包含一个免费的二级域名，他提供一个强大的、且易于使用的控制面板来管理你的网站，这个控制面板包含几百个强大的功能，包含：一键建站工具、电子邮件、FTP 具，并且提供 SSH/HTTPS 来保护每一个域名。使用他们的免费主机服务您的个人网站，会更安全，以及更好的搜索引擎排名（以上内容，完全出自 freehost.cc 网站介绍，还未切实去体验，感兴趣的朋友，请自行判断）。
 
-── 出自[倾城之链 - 免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间](https://nicelinks.site/post/62d5153f65fb1506218fa5dd)
+── 出自[倾城之链 - 免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间](https://site.lovejade.cn/post/62d5153f65fb1506218fa5dd)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [OpenAI ｜ AI research and deployment company](https://nicelinks.site/post/6391e22878b7a1291995ff86)
+## [OpenAI ｜ AI research and deployment company](https://site.lovejade.cn/post/6391e22878b7a1291995ff86)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`机器学习`](https://nicelinks.site/tags/机器学习) · [`强化学习`](https://nicelinks.site/tags/强化学习)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`机器学习`](https://site.lovejade.cn/tags/机器学习) · [`强化学习`](https://site.lovejade.cn/tags/强化学习)
 
 > OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.
 
@@ -12,17 +12,17 @@
 
 **推荐语**：[OpenAI](https://openai.com/) 是一个人工智慧（AI）研究实验室，由营利组织 OpenAI LP 与母公司非营利组织 OpenAI Inc 所组成，目的是**促进和发展友好的人工智慧，使人类整体受益**。OpenAI 成立于 2015 年底，总部位于旧金山，组织目标是通过与其他机构和研究者的「自由合作」，向公众开放专利和研究成果。创始人[伊隆·马斯克](https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B "伊隆·马斯克")以及[山姆·柯曼](https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%A7%86%C2%B7%E6%9F%AF%E6%9B%BC "山姆·柯曼")的动机是出于对强人工智慧潜在风险的担忧。
 
-[ChatGPT](https://openai.com/blog/chatgpt/) 是由 OpenAI 开发的一个**人工智能聊天机器人程序**，于 2022 年 11 月推出（异常火爆）。该程序使用基于 GPT-3.5 架构的大型语言模型，并通过人类反馈的 [强化学习](https://nicelinks.site/tags/强化学习) 进行训练。这种通过人类参与干预以增强 [机器学习](https://nicelinks.site/tags/机器学习) 的效果，从而获得更为逼真的结果。在训练过程中，人类训练师扮演着用户与人工智能助手的角色。模型在 Microsoft Azure 的超级计算机上训练，并通过近端策略优化算法（proximal policy optimization）进行微调。这种策略优化算法比信任域策略优化（trust region policy optimization）算法更为高效。
+[ChatGPT](https://openai.com/blog/chatgpt/) 是由 OpenAI 开发的一个**人工智能聊天机器人程序**，于 2022 年 11 月推出（异常火爆）。该程序使用基于 GPT-3.5 架构的大型语言模型，并通过人类反馈的 [强化学习](https://site.lovejade.cn/tags/强化学习) 进行训练。这种通过人类参与干预以增强 [机器学习](https://site.lovejade.cn/tags/机器学习) 的效果，从而获得更为逼真的结果。在训练过程中，人类训练师扮演着用户与人工智能助手的角色。模型在 Microsoft Azure 的超级计算机上训练，并通过近端策略优化算法（proximal policy optimization）进行微调。这种策略优化算法比信任域策略优化（trust region policy optimization）算法更为高效。
 
 与其他多数聊天机器人不同的是， [ChatGPT](https://chat.openai.com/) 能够记住与用户之前的对话内容和给它的提示。此外，为了防止 ChatGPT 接受或生成冒犯性言论，输入内容会由审核 API 进行过滤，以减少潜在的种族主义或性别歧视等内容。ChatGPT 也存在一些局限。其奖励模型围绕人类监督而设计，可能导致过度优化，从而影响性能。
 
 在研究预览期间，ChatGPT 的使用是免费的；因此，有让身在海外的朋友帮着注册了账号，并实际体验（很好支持中文，回复内容偏长会骤然截断）；尽管它可能存在些谬误，但与之相聊甚欢；其回复让我感到满意；同时，由于对普通人类的未来思考尚不深彻，也免令人心怀忧虑（有陆续记载于 [半缘修道观](https://memo.lovejade.cn/?shortcutId=2) ）。目前感悟：无论是作为开发人员或普通工作者，在努力提升自己同时，类似新的技术，有必要进行了解和思考，并提前“布局”，以便未来`崭新时代`到来之际，你我皆可从容应对。
 
-── 出自[倾城之链 - OpenAI ｜ AI research and deployment company](https://nicelinks.site/post/6391e22878b7a1291995ff86)
+── 出自[倾城之链 - OpenAI ｜ AI research and deployment company](https://site.lovejade.cn/post/6391e22878b7a1291995ff86)
 
-## [Quicklink ｜ ⚡️Faster subsequent page-loads](https://nicelinks.site/post/638f3a4978b7a1291995e8cf)
+## [Quicklink ｜ ⚡️Faster subsequent page-loads](https://site.lovejade.cn/post/638f3a4978b7a1291995e8cf)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`开源`](https://nicelinks.site/tags/开源) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`开源`](https://site.lovejade.cn/tags/开源) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Faster subsequent page-loads by prefetching in-viewport links during idle time.
 
@@ -61,11 +61,11 @@ Google 浏览器团队开发了一个 [Chrome 扩展程序](https://chrome.googl
 
 您可能想到的顾虑，Google 团队已为您事先考虑；比如，您或可能担心过度预取，`quicklink` 提供了多种不同的方式，来限制预取链接的数量，从而为您的应用提供保障。再比如，您可能担心预取广告链接，导致无意中计算针对这些广告展示位置的点击次数，对于 quicklink 也做了考虑（如果是同源广告，即不再 **iframe** 内部，开发人员需要明确告诉 Quicklink 避免预取这些链接）。更多说明及参数设定，可以参见 [Github quicklink README](https://github.com/GoogleChromeLabs/quicklink) 。假如可以判定网页内，用户大概率会点击某些外部网站，基于 `Quicklink` 预取或预渲染机制，可以起到很不错的优化效果。
 
-── 出自[倾城之链 - Quicklink ｜ ⚡️Faster subsequent page-loads](https://nicelinks.site/post/638f3a4978b7a1291995e8cf)
+── 出自[倾城之链 - Quicklink ｜ ⚡️Faster subsequent page-loads](https://site.lovejade.cn/post/638f3a4978b7a1291995e8cf)
 
-## [Dash | a modern server dashboard](https://nicelinks.site/post/638de4912b7d801bbed26e24)
+## [Dash | a modern server dashboard](https://site.lovejade.cn/post/638de4912b7d801bbed26e24)
 
-**标签**：[`运维`](https://nicelinks.site/tags/运维) · [`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管)
+**标签**：[`运维`](https://site.lovejade.cn/tags/运维) · [`开源`](https://site.lovejade.cn/tags/开源) · [`自托管`](https://site.lovejade.cn/tags/自托管)
 
 > dash. is a modern and responsive dashboard for your server
 
@@ -81,17 +81,17 @@ Google 浏览器团队开发了一个 [Chrome 扩展程序](https://chrome.googl
 
 Dash：代服务器仪表板；即支持通过浏览器查看服务器信息，包括服务器操作系统、运行时长、处理器、存储、内存、网络等信息；对于个人服务器维护颇有价值。该项目在 [Github 开源](https://github.com/MauriceNino/dashdot)，支持自托管，可基于 Docker、Docker Compose、源代码（Node.js、Yarn）快速部署；感兴趣的朋友，可移步至官网以了解更多。
 
-── 出自[倾城之链 - Dash | a modern server dashboard](https://nicelinks.site/post/638de4912b7d801bbed26e24)
+── 出自[倾城之链 - Dash | a modern server dashboard](https://site.lovejade.cn/post/638de4912b7d801bbed26e24)
 
-## [Extism - make all software programmable. Extend from within.](https://nicelinks.site/post/638ddc102b7d801bbed26d79)
+## [Extism - make all software programmable. Extend from within.](https://site.lovejade.cn/post/638ddc102b7d801bbed26d79)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`插件`](https://nicelinks.site/tags/插件) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`插件`](https://site.lovejade.cn/tags/插件) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > Extism is the open source, universal plug-in system. Extend all the software everywhere! Powered by WebAssembly.
 
 ![倾城之链 - Extism - make all software programmable. Extend from within.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/extism.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Extism](https://extism.org/) ，基于 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 开源的、通用的插件系统，支持在任何地方扩展所有的软件。支持 JavaScript、C、C++、Python、PHP、Node.js、Ruby、Rust 等编程语言。它具有以下功能特性：
+**推荐语**：[Extism](https://extism.org/) ，基于 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 开源的、通用的插件系统，支持在任何地方扩展所有的软件。支持 JavaScript、C、C++、Python、PHP、Node.js、Ruby、Rust 等编程语言。它具有以下功能特性：
 
 ### 便于使用
 
@@ -115,7 +115,7 @@ Extism 支持为您的项目添加一个灵活、安全的插件系统。服务�
 
 需要注意 ⚠️ 的是，该项目仍在积极开发中，但它是可用的。该项目在 [Github 开源](https://github.com/extism/extism)；如果您想利于 WebAssembly 几何其他编程语言，以优化应用性能，`extism` 或可参考。
 
-── 出自[倾城之链 - Extism - make all software programmable. Extend from within.](https://nicelinks.site/post/638ddc102b7d801bbed26d79)
+── 出自[倾城之链 - Extism - make all software programmable. Extend from within.](https://site.lovejade.cn/post/638ddc102b7d801bbed26d79)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

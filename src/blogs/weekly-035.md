@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://nicelinks.site/post/61683936265d8c6be879dd78)
+## [PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://site.lovejade.cn/post/61683936265d8c6be879dd78)
 
-**标签**：[`PDF`](https://nicelinks.site/tags/PDF) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`PDF`](https://site.lovejade.cn/tags/PDF) · [`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > PDF Online gives you free, secure & accurate tools to work with PDFs. Drop in your files to merge, convert, edit, compress PDFs & much more - completely free!
 
@@ -12,26 +12,26 @@
 
 **推荐语**：[PDF Online](https://pdf.online/)，一款 PDF 在线工具，为您提供完全免费、安全和准确的服务，来处理 `PDF` 文件。上传您的文件，即快速完成来 PDF 的合并、转换（包含 PDF 转换为 `JPG`、`PNG`、`Word`、`HTML` 等文件；也支持由 `JPG`、`PNG`、`Excel`、`Word`、`PPT`、`DICOM` 等转换为 `PDF`）、编辑、压缩、剪裁及更多（如文本提取、删除页面等）。
 
-── 出自[倾城之链 - PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://nicelinks.site/post/61683936265d8c6be879dd78)
+── 出自[倾城之链 - PDF Online - Free PDF Tools to Merge, Convert & Edit PDFs](https://site.lovejade.cn/post/61683936265d8c6be879dd78)
 
-## [Linkyy. A simple, yet cool place for all your links](https://nicelinks.site/post/61657a9e265d8c6be879dd74)
+## [Linkyy. A simple, yet cool place for all your links](https://site.lovejade.cn/post/61657a9e265d8c6be879dd74)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`个人主页`](https://nicelinks.site/tags/个人主页)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`个人主页`](https://site.lovejade.cn/tags/个人主页)
 
 > Linkyy. A simple, yet cool place for all your links.
 
 ![倾城之链 - Linkyy. A simple, yet cool place for all your links](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/linkyy.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Linkyy](https://linkyy.co/)，是您所有链接（社交媒体、网站、博客等）的地方；基于 [Linkyy](https://linkyy.co/) 可以创建您自己的个性化页面，并方便与他人分享；与 [about.me](https://nicelinks.site/post/5ae07c3bcbf8b27043e5e9db) 的功能极为相似。它的特色是，注册和使用，都极其简单。
+**推荐语**：[Linkyy](https://linkyy.co/)，是您所有链接（社交媒体、网站、博客等）的地方；基于 [Linkyy](https://linkyy.co/) 可以创建您自己的个性化页面，并方便与他人分享；与 [about.me](https://site.lovejade.cn/post/5ae07c3bcbf8b27043e5e9db) 的功能极为相似。它的特色是，注册和使用，都极其简单。
 
-── 出自[倾城之链 - Linkyy. A simple, yet cool place for all your links](https://nicelinks.site/post/61657a9e265d8c6be879dd74)
+── 出自[倾城之链 - Linkyy. A simple, yet cool place for all your links](https://site.lovejade.cn/post/61657a9e265d8c6be879dd74)
 
 ## [
 
 Jenkins
-](https://nicelinks.site/post/61641ee477a8ce5e114ce55b)
+](https://site.lovejade.cn/post/61641ee477a8ce5e114ce55b)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`自动化`](https://nicelinks.site/tags/自动化) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`自动化`](https://site.lovejade.cn/tags/自动化) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 > Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software
 
@@ -53,11 +53,11 @@ Jenkins
 
 ── 出自[倾城之链 -
 Jenkins
-](https://nicelinks.site/post/61641ee477a8ce5e114ce55b)
+](https://site.lovejade.cn/post/61641ee477a8ce5e114ce55b)
 
-## [GIPHY - Be Animated](https://nicelinks.site/post/61641bbf77a8ce5e114ce559)
+## [GIPHY - Be Animated](https://site.lovejade.cn/post/61641bbf77a8ce5e114ce559)
 
-**标签**：[`GIF`](https://nicelinks.site/tags/GIF) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`GIF`](https://site.lovejade.cn/tags/GIF) · [`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：GIF search engine, GIF search engine, animated GIFs, best GIFs, GIF, GIFs, funny GIFs, movie GIFs, tv GIFs, reaction GIFs, cat GIFs, girl GIFs, happy GIFs, breaking bad GIFs, anime GIFs, sad GIFs, fail GIFs, star wars GIFs, memes, yes GIFs, no GIFs, create GIFs, GIF maker
 
@@ -73,11 +73,11 @@ Jenkins
 
 值得一提的是，[GIPHY.COM](https://giphy.com/) 还 [GIPHY Capture](https://giphy.com/apps/giphycapture) 创建 GIF 工具。这个免费的应用程序简单、强大，而且对几乎任何人来说都足够简单。只需点击几下即可创建您的 GIF，超级简单的编辑让您快速获得创意，支持快速保存和分享。
 
-── 出自[倾城之链 - GIPHY - Be Animated](https://nicelinks.site/post/61641bbf77a8ce5e114ce559)
+── 出自[倾城之链 - GIPHY - Be Animated](https://site.lovejade.cn/post/61641bbf77a8ce5e114ce559)
 
 ## [爱学术导航](https://www.ixsdh.com/)
 
-**标签**：[`利器`](https://nicelinks.site/theme/tools) · [`发现`](https://nicelinks.site/tags/%E5%8F%91%E7%8E%B0) · [`导航`](https://nicelinks.site/tags/%E5%AF%BC%E8%88%AA) · [`网站`](https://nicelinks.site/tags/%E7%BD%91%E7%AB%99)
+**标签**：[`利器`](https://site.lovejade.cn/theme/tools) · [`发现`](https://site.lovejade.cn/tags/%E5%8F%91%E7%8E%B0) · [`导航`](https://site.lovejade.cn/tags/%E5%AF%BC%E8%88%AA) · [`网站`](https://site.lovejade.cn/tags/%E7%BD%91%E7%AB%99)
 
 **关键字：** 谷歌学术, sci-hub, 科研导航, 学术导航, 学术搜索, 学术网站大全, 数据库导航, 科研工具, science nature database 学术资源 科研资源 论文 实验室 学术会议, 学术工具, 数据库, 科研基础设施, 科研仪器, 科学院, 中科院, 中国科学院, 社会科学院, 科技部
 
@@ -85,11 +85,11 @@ Jenkins
 
 ![爱学术导航 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ixsdh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[爱学术导航站](https://www.ixsdh.com/) 成立于 2021 年 5 月 20 日，志在成为学习和生活信噪比最高的导航网站。值得一提的是，该网站除了收录学术搜索、文献数据、科研数据、学术工具等相关网站外，还提供了些其他内容，如站内搜索、相关资讯、城市天气等内容。── 出自[倾城之链 | 爱学术导航](https://nicelinks.site/post/616056a5835dda0faf03db56)。
+**推荐语：**[爱学术导航站](https://www.ixsdh.com/) 成立于 2021 年 5 月 20 日，志在成为学习和生活信噪比最高的导航网站。值得一提的是，该网站除了收录学术搜索、文献数据、科研数据、学术工具等相关网站外，还提供了些其他内容，如站内搜索、相关资讯、城市天气等内容。── 出自[倾城之链 | 爱学术导航](https://site.lovejade.cn/post/616056a5835dda0faf03db56)。
 
 ## [即刻学术](https://www.ijkxs.com/)
 
-**标签**： [`社区`](https://nicelinks.site/theme/community) · [`科技`](https://nicelinks.site/tags/%E7%A7%91%E6%8A%80) · [`资讯`](https://nicelinks.site/tags/%E8%B5%84%E8%AE%AF) · [`平台`](https://nicelinks.site/tags/%E5%B9%B3%E5%8F%B0)
+**标签**： [`社区`](https://site.lovejade.cn/theme/community) · [`科技`](https://site.lovejade.cn/tags/%E7%A7%91%E6%8A%80) · [`资讯`](https://site.lovejade.cn/tags/%E8%B5%84%E8%AE%AF) · [`平台`](https://site.lovejade.cn/tags/%E5%B9%B3%E5%8F%B0)
 
 **关键字：** 科技资讯, 学术资源, 会议交流, 视频活动, 学术会议, it 交流, 站长交流, 论文编译, 论文翻译, 投稿支持, 版权服务
 
@@ -97,7 +97,7 @@ Jenkins
 
 ![即刻学术 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ijkxs.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[即刻学术](https://www.ijkxs.com/)是集科技资讯、学术资源、会议交流、视频活动以及兴趣部落社交等信噪比较高的网站，致力于打造国内技术爱好者共同的乐园。这里拥有旺盛的人气、良好的交流氛围及广阔的交流空间，已成为聚集众多技术大牛和学术大牛的学术资源、经验交流平台。── 出自[倾城之链 | 即刻学术](https://nicelinks.site/post/61605687835dda0faf03db54)。
+**推荐语：**[即刻学术](https://www.ijkxs.com/)是集科技资讯、学术资源、会议交流、视频活动以及兴趣部落社交等信噪比较高的网站，致力于打造国内技术爱好者共同的乐园。这里拥有旺盛的人气、良好的交流氛围及广阔的交流空间，已成为聚集众多技术大牛和学术大牛的学术资源、经验交流平台。── 出自[倾城之链 | 即刻学术](https://site.lovejade.cn/post/61605687835dda0faf03db54)。
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

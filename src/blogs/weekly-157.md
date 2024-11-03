@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Learn foreign words with language flashcards | kartet](https://nicelinks.site/post/65ce3d3cf4e2d519ef5c4bef)
+## [Learn foreign words with language flashcards | kartet](https://site.lovejade.cn/post/65ce3d3cf4e2d519ef5c4bef)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`教育`](https://nicelinks.site/tags/教育) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`教育`](https://site.lovejade.cn/tags/教育) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：Language learning, flashcards, foreign words, learn languages
 
@@ -20,19 +20,19 @@
 
 **Kartet 是如何工作的**？当每个人学习一个新单词时，自然地，一段时间后开始忘记它。首先，我们忘记得很快，然后忘记得越多，速度就越慢,重复。 Karteto 预测最佳时间重复一个单词并提醒你。从 Karteto 精心策划的学习包中学习单词，或者添加你自己的，以获得最大的灵活性。研究表明学习必须有趣才能有效，Karteto 的诞生是为了让学习更有趣。
 
-── 出自[倾城之链 - Learn foreign words with language flashcards | kartet](https://nicelinks.site/post/65ce3d3cf4e2d519ef5c4bef)
+── 出自[倾城之链 - Learn foreign words with language flashcards | kartet](https://site.lovejade.cn/post/65ce3d3cf4e2d519ef5c4bef)
 
-## [GitButler | Git Branching, Refined](https://nicelinks.site/post/65ce30fff4e2d519ef5c4b9d)
+## [GitButler | Git Branching, Refined](https://site.lovejade.cn/post/65ce30fff4e2d519ef5c4b9d)
 
-**标签**：[`Git`](https://nicelinks.site/tags/Git) · [`开发者`](https://nicelinks.site/tags/开发者) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`Git`](https://site.lovejade.cn/tags/Git) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > A Git client for simultaneous branches on top of your existing workflow..
 
 ![倾城之链 - GitButler | Git Branching, Refined](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gitbutler.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitButler](https://gitbutler.com/) 是一个 [Git](https://nicelinks.site/tags/Git) 客户端，可让您同时在多个分支上工作。它允许您快速将文件更改组织到单独的分支中，同时仍然将它们应用到您的工作目录。然后，您可以将分支单独推送到远程，或直接创建拉取请求。简而言之，它是 `git add -p` 和的更灵活版本 `git rebase -i`，允许您跨分支高效地执行多任务。
+**推荐语**：[GitButler](https://gitbutler.com/) 是一个 [Git](https://site.lovejade.cn/tags/Git) 客户端，可让您同时在多个分支上工作。它允许您快速将文件更改组织到单独的分支中，同时仍然将它们应用到您的工作目录。然后，您可以将分支单独推送到远程，或直接创建拉取请求。简而言之，它是 `git add -p` 和的更灵活版本 `git rebase -i`，允许您跨分支高效地执行多任务。
 
-GitButler 是一个基于 [Tauri](https://nicelinks.site/post/62cc1748ac177b7aff5e1a6c) 的应用程序。它的 UI 是使用 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 用 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 编写的，后端是用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 编写的。
+GitButler 是一个基于 [Tauri](https://site.lovejade.cn/post/62cc1748ac177b7aff5e1a6c) 的应用程序。它的 UI 是使用 [TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef) 用 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 编写的，后端是用 [Rust](https://site.lovejade.cn/post/606a826800d67605dca7de5a) 编写的。
 
 ### GitButler 是如何工作的？
 
@@ -46,7 +46,7 @@ GitButler 跟踪 Git 之上的一层中未提交的更改。对文件或文件�
 - **轻松提交管理**
   - 通过拖放来撤消、修改和挤压提交；
 - **GitHub 集成**
-  - 向 [GitHub](https://nicelinks.site/tags/GitHub) 进行身份验证以打开拉取请求、列出分支和状态等
+  - 向 [GitHub](https://site.lovejade.cn/tags/GitHub) 进行身份验证以打开拉取请求、列出分支和状态等
 - **轻松的 SSH 密钥管理**
   - GitButler 可以自动生成 SSH 密钥上传到 GitHub；
 - **人工智能工具**
@@ -61,11 +61,11 @@ GitButler 最初是一个非常简单的观察，即开发者今天使用 Git �
 
 总之，GitButler 客户端是一个 Git 客户端，它不仅尝试将按钮映射到所有 Git 命令，而且尝试思考您真正想要做什么并解决新问题。他们的首要重点是一种全新的分支机构同步工作方式。您不必选择在分支 A 或分支 B 上工作并在它们之间来回切换。您可以同时应用两者，添加它们，提交它们，将它们推送到 GitHub，而不会让它们纠缠在一起。 [GitButler 项目在 GitHub 上公开](https://github.com/gitbutlerapp/gitbutler) ，如果您对该项目感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - GitButler | Git Branching, Refined](https://nicelinks.site/post/65ce30fff4e2d519ef5c4b9d)
+── 出自[倾城之链 - GitButler | Git Branching, Refined](https://site.lovejade.cn/post/65ce30fff4e2d519ef5c4b9d)
 
-## [Dev Hunt – The best new Dev Tools every day.](https://nicelinks.site/post/65ce299cf4e2d519ef5c4b32)
+## [Dev Hunt – The best new Dev Tools every day.](https://site.lovejade.cn/post/65ce299cf4e2d519ef5c4b32)
 
-**标签**：[`开发者`](https://nicelinks.site/tags/开发者) · [`平台`](https://nicelinks.site/tags/平台) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`开发者`](https://site.lovejade.cn/tags/开发者) · [`平台`](https://site.lovejade.cn/tags/平台) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > A launchpad for dev tools, built by developers for developers, open source, and fair.
 
@@ -79,11 +79,11 @@ Dev Hunt 的使用场景可以是开发者在寻找特定类型的工具或解�
 
 总的来说，Dev Hunt 是一个面向开发者的平台，旨在为他们提供每天最佳的新型开发工具，帮助他们发现、使用和分享最新的技术和解决方案。通过 Dev Hunt，开发者可以更加高效地开发应用程序，并与其他开发者社区进行交流和互动。
 
-── 出自[倾城之链 - Dev Hunt – The best new Dev Tools every day.](https://nicelinks.site/post/65ce299cf4e2d519ef5c4b32)
+── 出自[倾城之链 - Dev Hunt – The best new Dev Tools every day.](https://site.lovejade.cn/post/65ce299cf4e2d519ef5c4b32)
 
-## [人工智能计算领域的领导者 | NVIDIA](https://nicelinks.site/post/65ce26cdf4e2d519ef5c4b13)
+## [人工智能计算领域的领导者 | NVIDIA](https://site.lovejade.cn/post/65ce26cdf4e2d519ef5c4b13)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`高科技`](https://nicelinks.site/tags/高科技) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`高科技`](https://site.lovejade.cn/tags/高科技) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 **关键字**：gpu, graphics card, 显卡, gaming, 游戏, high performance computing, 高性能计算, autonomous vehicles, 自动驾驶汽车, robotics, 机器人开发, nvidia
 
@@ -113,11 +113,11 @@ Nvidia 是迄今为止最著名的半导体芯片技术生产商。投资者不�
 
 总的来说，NVIDIA 作为一家全球领先的计算技术公司，通过创新的图形处理器和人工智能计算平台，为各个行业带来了巨大的价值和创新机会。如果您 Nvidia 公司或股票感兴趣，不妨移步至他们官网，从而了解更多。
 
-── 出自[倾城之链 - 人工智能计算领域的领导者 | NVIDIA](https://nicelinks.site/post/65ce26cdf4e2d519ef5c4b13)
+── 出自[倾城之链 - 人工智能计算领域的领导者 | NVIDIA](https://site.lovejade.cn/post/65ce26cdf4e2d519ef5c4b13)
 
-## [Superlist: Home to all your lists](https://nicelinks.site/post/65cce5248950812ce6939b93)
+## [Superlist: Home to all your lists](https://site.lovejade.cn/post/65cce5248950812ce6939b93)
 
-**标签**：[`任务管理器`](https://nicelinks.site/tags/任务管理器) · [`工作效率`](https://nicelinks.site/tags/工作效率) · [`协作`](https://nicelinks.site/tags/协作)
+**标签**：[`任务管理器`](https://site.lovejade.cn/tags/任务管理器) · [`工作效率`](https://site.lovejade.cn/tags/工作效率) · [`协作`](https://site.lovejade.cn/tags/协作)
 
 > For team work, personal projects, and everything in between.
 
@@ -141,7 +141,7 @@ Superlist 提供了一个集中管理任务和清单的平台，无论是个人�
 
 Superlist 适用于各种场景，无论是个人日常任务管理，还是团队协作项目。它可以帮助您更好地组织和追踪任务、项目和清单，提高工作效率和团队协作能力。Superlist 免费可用， Pro 版本需要收费，如果您对其感兴趣，可移步至 [Superlist | Product Hunt](https://www.producthunt.com/posts/superlist-3) ，从而了解更多。
 
-── 出自[倾城之链 - Superlist: Home to all your lists](https://nicelinks.site/post/65cce5248950812ce6939b93)
+── 出自[倾城之链 - Superlist: Home to all your lists](https://site.lovejade.cn/post/65cce5248950812ce6939b93)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

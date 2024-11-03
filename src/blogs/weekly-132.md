@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Capacities – A studio for your mind](https://nicelinks.site/post/64e77b73378eb0199b988dc4)
+## [Capacities – A studio for your mind](https://site.lovejade.cn/post/64e77b73378eb0199b988dc4)
 
-**标签**：[`知识库`](https://nicelinks.site/tags/知识库) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`知识库`](https://site.lovejade.cn/tags/知识库) · [`跨平台`](https://site.lovejade.cn/tags/跨平台) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 > A powerful note-taking tool. All your ideas – typed and connected.
 
 ![倾城之链 - Capacities – A studio for your mind](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/capacities.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Capacities](https://capacities.io/) 是个人 [知识管理](https://nicelinks.site/tags/知识库) 工具，一个思考和创造持久知识的地方；您可以用它来创造令人惊奇的事物，开始专注于对你来说重要的事情。它同时结合了 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 与 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 的优点，具有数据库、双链、云端使用、本地备份等特点，适合愿意花更多时间在输出上，而非调整工作区上的用户。Capacities 支持免费 🆓 使用，但需要注册帐号；截止 2023 年 08 月，可以在 Web、Windows、Mac 桌面应用等平台使用（手机版正在内测）。
+**推荐语**： [Capacities](https://capacities.io/) 是个人 [知识管理](https://site.lovejade.cn/tags/知识库) 工具，一个思考和创造持久知识的地方；您可以用它来创造令人惊奇的事物，开始专注于对你来说重要的事情。它同时结合了 [Notion](https://site.lovejade.cn/post/5cbd4e8b7855f80ea42ea6ab) 与 [Obsidian](https://site.lovejade.cn/post/6266999577f8270876fcb3d6) 的优点，具有数据库、双链、云端使用、本地备份等特点，适合愿意花更多时间在输出上，而非调整工作区上的用户。Capacities 支持免费 🆓 使用，但需要注册帐号；截止 2023 年 08 月，可以在 Web、Windows、Mac 桌面应用等平台使用（手机版正在内测）。
 
 **Capacities 所有的笔记都是 Object，所有的笔记都有属性**。Capacities 的每一个单位都是一个 Object，可以简单的理解成，每一个单位都是一个独立的个体，它们有属于他们的独立的属性。创建一个 Page 对象，你可以创建人员、书籍、会议以及工作所需的一切对象。每种类型都有其可自定义的属性和独特的设计，以最好地支持你的特定用途。
 
@@ -18,23 +18,23 @@ Capacities 附带了基本类型，如图像、推文、Web 链接或 PDF，它�
 
 **你所做的一切都与时间有关**：在 Capacities 中，时间是一个很基本也很重要的维度。在 Calendar 中，你能够看到你每天写的东西。他并不只是一个日历，你可以以每天、每三天、每周或者每个月为间隔获得一个类似时间线的视图。如果您对 Capacities 这款跨平台应用感兴趣，可移步 [Capacities FAQ](https://capacities.io/) 从而了解过更多。
 
-── 出自[倾城之链 - Capacities – A studio for your mind](https://nicelinks.site/post/64e77b73378eb0199b988dc4)
+── 出自[倾城之链 - Capacities – A studio for your mind](https://site.lovejade.cn/post/64e77b73378eb0199b988dc4)
 
-## [Hyper™ ｜ An Electron-based terminal](https://nicelinks.site/post/64e76739378eb0199b988af4)
+## [Hyper™ ｜ An Electron-based terminal](https://site.lovejade.cn/post/64e76739378eb0199b988af4)
 
-**标签**：[`终端`](https://nicelinks.site/tags/终端) · [`Electron`](https://nicelinks.site/tags/Electron) · [`TypeScript`](https://nicelinks.site/tags/TypeScript)
+**标签**：[`终端`](https://site.lovejade.cn/tags/终端) · [`Electron`](https://site.lovejade.cn/tags/Electron) · [`TypeScript`](https://site.lovejade.cn/tags/TypeScript)
 
 > A terminal built on web technologies.
 
 ![倾城之链 - Hyper™ ｜ An Electron-based terminal](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hyper.is.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hyper](https://hyper.is/) 是一个基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 的终端，基于 HTML、CSS、 [TypeScript](https://nicelinks.site/tags/TypeScript) 构建，完全可扩展，支持从命令行安装主题和插件；该项目的目标是为基于开放 Web 标准的命令行界面用户创建美观且可扩展的体验。一开始，他们的重点将主要围绕速度、稳定性以及为扩展作者开发正确的 API。未来，该团队预计社区将提出创新的补充，以增强最简单、最强大且经过充分测试的生产力界面。 [Hyper 在 Github 仓库开源](https://github.com/vercel/hyper) ，截止 2023 年 08 月，已获得 41K+ Star，如果您对该项目感兴趣，可移步前往从而了解更多。
+**推荐语**：[Hyper](https://hyper.is/) 是一个基于 [Electron](https://site.lovejade.cn/post/5b17d4a597006c5273505e1b) 的终端，基于 HTML、CSS、 [TypeScript](https://site.lovejade.cn/tags/TypeScript) 构建，完全可扩展，支持从命令行安装主题和插件；该项目的目标是为基于开放 Web 标准的命令行界面用户创建美观且可扩展的体验。一开始，他们的重点将主要围绕速度、稳定性以及为扩展作者开发正确的 API。未来，该团队预计社区将提出创新的补充，以增强最简单、最强大且经过充分测试的生产力界面。 [Hyper 在 Github 仓库开源](https://github.com/vercel/hyper) ，截止 2023 年 08 月，已获得 41K+ Star，如果您对该项目感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Hyper™ ｜ An Electron-based terminal](https://nicelinks.site/post/64e76739378eb0199b988af4)
+── 出自[倾城之链 - Hyper™ ｜ An Electron-based terminal](https://site.lovejade.cn/post/64e76739378eb0199b988af4)
 
-## [Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://nicelinks.site/post/64e74ed5378eb0199b988596)
+## [Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://site.lovejade.cn/post/64e74ed5378eb0199b988596)
 
-**标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`在线`](https://nicelinks.site/tags/在线) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`编辑器`](https://site.lovejade.cn/tags/编辑器) · [`在线`](https://site.lovejade.cn/tags/在线) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI (powered by Codey and PaLM 2), and full-fidelity app previews, powered by cloud emulators.
 
@@ -58,17 +58,17 @@ Project IDX 官网如此介绍道：
 - **使用流行的框架和语言进行开发**：Project IDX 可以让您更轻松地使用适用于流行框架（例如 Angular、Next.js、React、Svelte 和 Flutter）的各种模板来开始构建跨多个平台运行的应用程序，并且即将推出对 Python 和 Go 的支持。您还可以从 GitHub 导入现有应用程序，并支持大多数技术堆栈。
 - **跨平台优化您的应用**：Project IDX 允许您预览用户所看到的全栈、多平台应用程序，并且即将支持内置多浏览器 Web 预览、Android 模拟器和 iOS 模拟器。
 - **利用生成式 AI 更快地编码**：利用 Google 内置的 AI 帮助快速高效地工作，包括代码生成、代码完成、在编程语言之间翻译代码、解释代码等，所有这些均由 Codey 提供支持，Codey 是一个基于代码训练并基于 PaLM 2 构建的基础 AI 模型。
-- **导入您现有的应用程序，或开始新的应用程序**：Project IDX 允许您从 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 导入现有项目，以便您可以从上次停下的地方继续。您还可以使用流行框架的预制模板创建新项目，包括 [Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf)、[Flutter](https://nicelinks.site/post/5b37d29e187e143b63cf01f0)、Next.js、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 以及 [JavaScript](https://nicelinks.site/tags/JavaScript)、Dart 和（即将推出）Python、Go 等语言。团队还积极努力为更多项目类型和框架提供一流的支持。
+- **导入您现有的应用程序，或开始新的应用程序**：Project IDX 允许您从 [GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 导入现有项目，以便您可以从上次停下的地方继续。您还可以使用流行框架的预制模板创建新项目，包括 [Angular](https://site.lovejade.cn/post/5b2b7f663bd7ef3847a3fadf)、[Flutter](https://site.lovejade.cn/post/5b37d29e187e143b63cf01f0)、Next.js、[React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)、[Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0)、[Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 以及 [JavaScript](https://site.lovejade.cn/tags/JavaScript)、Dart 和（即将推出）Python、Go 等语言。团队还积极努力为更多项目类型和框架提供一流的支持。
 
 虽然今天的软件开发比以往任何时候都更容易实现，但它也更加复杂。Project IDX 已经在探索简化和加速整个工作流程的其他方法，例如更丰富的协作工具、跨环境同步、配对调试、代码审查等，所有这些都由最新的人工智能技术提供支持。
 
 很显然他们或任何工具研发团队都无法独自做到这一点；Project IDX 团队希望在构建 Project IDX 时听到您的意见，并重新构想更好的工作流程来构建、发布和管理应用程序。如果您想成为第一批尝试并提供反馈的人之一，可以考虑加入 Project IDX 候补名单，跟其团队一起改善开发工作流程。
 
-── 出自[倾城之链 - Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://nicelinks.site/post/64e74ed5378eb0199b988596)
+── 出自[倾城之链 - Project IDX | 一个完全基于 Web 的全栈应用程序开发工作区](https://site.lovejade.cn/post/64e74ed5378eb0199b988596)
 
-## [Workout.lol | The easiest way to create a workout routine](https://nicelinks.site/post/64e744c4378eb0199b98837c)
+## [Workout.lol | The easiest way to create a workout routine](https://site.lovejade.cn/post/64e744c4378eb0199b98837c)
 
-**标签**：[`免费`](https://nicelinks.site/tags/免费) · [`健康`](https://nicelinks.site/tags/健康) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`免费`](https://site.lovejade.cn/tags/免费) · [`健康`](https://site.lovejade.cn/tags/健康) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > A small web application to create workouts based on your available equipment and the muscles you want to train.
 
@@ -82,11 +82,11 @@ Project IDX 官网如此介绍道：
 
 当今社会，太多人因为超长时间工作、不健康娱乐方式、随意性饮食习惯等束缚，而不能正常使用、调理身体，导致处于亚健康，身材也随之走样；根据实际体验，健身房跑路已屡见不鲜，健身教练之骚操更难以枚举；如果您变成型男（女）， [Workout.lol](https://workout.lol/) 或是您首选平台，简单易用、免费实用。
 
-── 出自[倾城之链 - Workout.lol | The easiest way to create a workout routine](https://nicelinks.site/post/64e744c4378eb0199b98837c)
+── 出自[倾城之链 - Workout.lol | The easiest way to create a workout routine](https://site.lovejade.cn/post/64e744c4378eb0199b98837c)
 
-## [Tremor – The React library to build dashboards fast](https://nicelinks.site/post/64e715a5378eb0199b988221)
+## [Tremor – The React library to build dashboards fast](https://site.lovejade.cn/post/64e715a5378eb0199b988221)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`React`](https://nicelinks.site/tags/React) · [`程序库`](https://nicelinks.site/tags/程序库)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/组件库) · [`React`](https://site.lovejade.cn/tags/React) · [`程序库`](https://site.lovejade.cn/tags/程序库)
 
 **关键字**：tremor, dashboard, charts, data, visualization
 
@@ -94,7 +94,7 @@ Project IDX 官网如此介绍道：
 
 ![倾城之链 - Tremor – The React library to build dashboards fast](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tremor.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tremor](https://www.tremor.so/) ，用于快速构建仪表板的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 库，可让您创建简单的模块化组件，轻松构建富有洞察力的仪表板。完全开源，由数据科学家和软件工程师制作，具有最佳设计优势。Tremor 具有如下功能特征：
+**推荐语**：[Tremor](https://www.tremor.so/) ，用于快速构建仪表板的 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 库，可让您创建简单的模块化组件，轻松构建富有洞察力的仪表板。完全开源，由数据科学家和软件工程师制作，具有最佳设计优势。Tremor 具有如下功能特征：
 
 ### 极快的工作流程
 
@@ -108,13 +108,13 @@ Project IDX 官网如此介绍道：
 
 连接到您的数据库、编写查询并构建交互式仪表板。全部集中在一处，速度极快。
 
-Tremor，建议使用 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 13.4+；并在项目中设置 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) ，以便您能更好处理样式；值得一提的是， [Tremor 在 Github 开源](https://github.com/tremorlabs/tremor) ，如果您对其感兴趣，不妨移步前往从而了解更多。
+Tremor，建议使用 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 13.4+；并在项目中设置 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) ，以便您能更好处理样式；值得一提的是， [Tremor 在 Github 开源](https://github.com/tremorlabs/tremor) ，如果您对其感兴趣，不妨移步前往从而了解更多。
 
-── 出自[倾城之链 - Tremor – The React library to build dashboards fast](https://nicelinks.site/post/64e715a5378eb0199b988221)
+── 出自[倾城之链 - Tremor – The React library to build dashboards fast](https://site.lovejade.cn/post/64e715a5378eb0199b988221)
 
-## [Umbrel — The ultimate home server and OS for self-hosting](https://nicelinks.site/post/64e6f4e2378eb0199b987f02)
+## [Umbrel — The ultimate home server and OS for self-hosting](https://site.lovejade.cn/post/64e6f4e2378eb0199b987f02)
 
-**标签**：[`自托管`](https://nicelinks.site/tags/自托管) · [`OS`](https://nicelinks.site/tags/OS) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`自托管`](https://site.lovejade.cn/tags/自托管) · [`OS`](https://site.lovejade.cn/tags/OS) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：umbrel, umbrell, umbrel home, umbrelOS, umbrelos, umbrel os, home server, self-host, self-hosting self hosted, self hosting, self host, raspberry pi, personal server
 
@@ -122,7 +122,7 @@ Tremor，建议使用 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d
 
 ![倾城之链 - Umbrel — The ultimate home server and OS for self-hosting](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/umbrel.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Umbrel](https://umbrel.com/) 是一个支持 [自托管](https://nicelinks.site/tags/自托管) 的漂亮的个人服务系统，用于文件存储、VPN、媒体服务器、比特币节点等；可以安装在 [Raspberry Pi ｜ 树莓派](https://nicelinks.site/post/5fa54687ac6b5718fc48ac0e) 或任何运行 Linux 的硬件（或云）上。它可以让每个人访问 Nextcloud、Matrix、比特币/闪电节点、Pi-hole、HomeAssistant 等自托管应用程序。
+**推荐语**：[Umbrel](https://umbrel.com/) 是一个支持 [自托管](https://site.lovejade.cn/tags/自托管) 的漂亮的个人服务系统，用于文件存储、VPN、媒体服务器、比特币节点等；可以安装在 [Raspberry Pi ｜ 树莓派](https://site.lovejade.cn/post/5fa54687ac6b5718fc48ac0e) 或任何运行 Linux 的硬件（或云）上。它可以让每个人访问 Nextcloud、Matrix、比特币/闪电节点、Pi-hole、HomeAssistant 等自托管应用程序。
 
 Umbrel 官网写道：**如今，我们所有的数据都存储在大公司拥有的服务器上，然后将其拍卖给出价最高的人来监视我们，是时候收回控制权了**。Umbrel 定位是您的家庭服务器，无需任何技术技能，30 秒内即可启动并运行。它具有如下功能特征：
 
@@ -152,17 +152,17 @@ Umbrel 官网写道：**如今，我们所有的数据都存储在大公司拥�
 
 Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了一款名为 `Umbrel Home` 的硬件产品，售价 599 美元。关于 Umbrel，还有很多特点，诸如：无需外部显示器、鼠标或键盘。从浏览器中使用 umbrelOS；Umbrel 有一个完整的应用程序商店，在 Umbrel App Store 中发现令人惊叹的自托管应用程序，并一键安装它们；在任何地方免费安装 umbrelOS，Raspberry Pi、homelab、VM、RockPro、NUC —凡是你能想到的。值得一提的是， [Umbrel 在 Github 仓库开源](https://github.com/getumbrel/umbrel) ，如果您对其感兴趣，不妨前往从而了解更多。
 
-── 出自[倾城之链 - Umbrel — The ultimate home server and OS for self-hosting](https://nicelinks.site/post/64e6f4e2378eb0199b987f02)
+── 出自[倾城之链 - Umbrel — The ultimate home server and OS for self-hosting](https://site.lovejade.cn/post/64e6f4e2378eb0199b987f02)
 
-## [Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://nicelinks.site/post/64e6d61a378eb0199b987c1e)
+## [Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://site.lovejade.cn/post/64e6d61a378eb0199b987c1e)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 > Trace pixels to vectors in full color using AI.
 
 ![倾城之链 - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vectorizer.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vectorizer.AI](https://vectorizer.ai/) ，能快速轻松地将 JPEG 和 PNG 位图转换为 SVG 矢量，使用 [AI](https://nicelinks.site/tags/AI) 将像素追踪为全彩矢量。可无限量放大，目前支持的最大图像像素大小为 2 万像素；截止 2023 年 08 月，该网站处于测试版本（测试版期间免费可用）；亲测实用，效果令人满意。
+**推荐语**：[Vectorizer.AI](https://vectorizer.ai/) ，能快速轻松地将 JPEG 和 PNG 位图转换为 SVG 矢量，使用 [AI](https://site.lovejade.cn/tags/AI) 将像素追踪为全彩矢量。可无限量放大，目前支持的最大图像像素大小为 2 万像素；截止 2023 年 08 月，该网站处于测试版本（测试版期间免费可用）；亲测实用，效果令人满意。
 
 ### Vectorizer 是如何运行？
 
@@ -199,11 +199,11 @@ Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了�
 
 [Vectorizer.AI](https://vectorizer.ai/) 将于 2023 年 9 月 15 日结束测试，届时将开始向 API 客户收取访问费用。届时他们不会开始对基于 Web 的交互式应用程序收费，因此暂时仍可免费以非 API 方式使用。如果您对该应用感兴趣，不妨移步官网体验，从而了解更多。
 
-── 出自[倾城之链 - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://nicelinks.site/post/64e6d61a378eb0199b987c1e)
+── 出自[倾城之链 - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI - Vectorizer.AI](https://site.lovejade.cn/post/64e6d61a378eb0199b987c1e)
 
-## [Type Challenges | Collection of TypeScript type challenges with online judge](https://nicelinks.site/post/64e5f5de376468370b8bbbb1)
+## [Type Challenges | Collection of TypeScript type challenges with online judge](https://site.lovejade.cn/post/64e5f5de376468370b8bbbb1)
 
-**标签**：[`TypeScript`](https://nicelinks.site/tags/TypeScript) · [`编码`](https://nicelinks.site/tags/编码) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`TypeScript`](https://site.lovejade.cn/tags/TypeScript) · [`编码`](https://site.lovejade.cn/tags/编码) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Collection of TypeScript type challenges with OJ
 
@@ -213,23 +213,23 @@ Umbrel 不仅构建一个漂亮的家庭服务器操作系统，而且出品了�
 
 TypeScript Challenge 这个项目旨在：**帮助您更好地了解类型系统的工作原理、编写自己的实用程序，或者只是享受挑战的乐趣**。该团队还试图建立一个社区，您可以在其中提出您在现实世界中遇到的问题并获得答案 ——它们可能成为挑战的一部分。该项目在 [Github 仓库开源](https://github.com/type-challenges/type-challenges) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Type Challenges | Collection of TypeScript type challenges with online judge](https://nicelinks.site/post/64e5f5de376468370b8bbbb1)
+── 出自[倾城之链 - Type Challenges | Collection of TypeScript type challenges with online judge](https://site.lovejade.cn/post/64e5f5de376468370b8bbbb1)
 
-## [Joy of Code | A digital garden growing curious minds](https://nicelinks.site/post/64e5f08a376468370b8bbb71)
+## [Joy of Code | A digital garden growing curious minds](https://site.lovejade.cn/post/64e5f08a376468370b8bbb71)
 
-**标签**：[`网页设计`](https://nicelinks.site/tags/网页设计) · [`Svelte`](https://nicelinks.site/tags/Svelte) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`网页设计`](https://site.lovejade.cn/tags/网页设计) · [`Svelte`](https://site.lovejade.cn/tags/Svelte) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Digital garden growing curious minds with content related to web development and design.
 
 ![倾城之链 - Joy of Code | A digital garden growing curious minds](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/joyofcode.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Joy of Code](https://joyofcode.xyz/) 是一个数字花园，培养专注于网页开发和网页设计的好奇心；该网站基于 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 开发，并分享了些许 Svelte 相关文章。如果您对该往感兴趣，可移步 [Github 开源仓库](https://github.com/mattcroat/joy-of-code)，以便了解更多。作者是来自 🇭🇷 克罗地亚的 Matija，他对事物的工作原理无限好奇，但最热衷于 ☕ JavaScript 和  🎨 **UI/UX 设计**。
+**推荐语**：[Joy of Code](https://joyofcode.xyz/) 是一个数字花园，培养专注于网页开发和网页设计的好奇心；该网站基于 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 开发，并分享了些许 Svelte 相关文章。如果您对该往感兴趣，可移步 [Github 开源仓库](https://github.com/mattcroat/joy-of-code)，以便了解更多。作者是来自 🇭🇷 克罗地亚的 Matija，他对事物的工作原理无限好奇，但最热衷于 ☕ JavaScript 和  🎨 **UI/UX 设计**。
 
 > “Talent is a pursued interest. Anything that you're willing to practice, you can do.”（天赋是一种追求的兴趣。只要你愿意练习，你就能做到）。— Bob Ross。
 
 作者创建了 Joy of Code，是因为他认为很多教程并不能帮助你学习如何解决问题，而只是阅读文档并从 A 点到 B 点。他想**通过分享所学到的知识，以及我如何思考解决问题来向您展示 A 和 B 之间的步骤**。他正在尝试创造一些我希望存在的东西——这更像是有一个朋友来帮助你，而不是有人在你的脑海里说话。
 
-── 出自[倾城之链 - Joy of Code | A digital garden growing curious minds](https://nicelinks.site/post/64e5f08a376468370b8bbb71)
+── 出自[倾城之链 - Joy of Code | A digital garden growing curious minds](https://site.lovejade.cn/post/64e5f08a376468370b8bbb71)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

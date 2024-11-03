@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Welcome to Python.org](https://nicelinks.site/post/6286492e7df0390637b5f3ca)
+## [Welcome to Python.org](https://site.lovejade.cn/post/6286492e7df0390637b5f3ca)
 
-**标签**：[`编程语言`](https://nicelinks.site/tags/编程语言) · [`Python`](https://nicelinks.site/tags/Python) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`Python`](https://site.lovejade.cn/tags/Python) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 **关键字**：Python programming language object oriented web free open source software license documentation download community
 
@@ -18,11 +18,11 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 [Python](https://www.python.org/) 不仅入门容易、功能强大；而且适用领域极为广泛；对于前端工程师而言，使用它能够很容易构建 Web 应用，依托于它强大的功能库，也能快速打造些趁手工具；随着大前端的日益演进，在完成模块化、工程化之后，走向自动化、智能化也是必然趋势；鉴于这一点，则更有必要对 Python、算法、数学等加以学习。如果您对 Python 感兴趣，可以参见 [与时俱进版资源教程 ｜ Python](https://github.com/nicejade/nice-front-end-tutorial/blob/master/tutorial/python-tutorial.md) 。
 
-── 出自[倾城之链 - Welcome to Python.org](https://nicelinks.site/post/6286492e7df0390637b5f3ca)
+── 出自[倾城之链 - Welcome to Python.org](https://site.lovejade.cn/post/6286492e7df0390637b5f3ca)
 
-## [Nawvel](https://nicelinks.site/post/6284efb77df0390637b5f3c7)
+## [Nawvel](https://site.lovejade.cn/post/6284efb77df0390637b5f3c7)
 
-**标签**：[`聚合`](https://nicelinks.site/tags/聚合) · [`分享`](https://nicelinks.site/tags/分享) · [`效率`](https://nicelinks.site/tags/效率)
+**标签**：[`聚合`](https://site.lovejade.cn/tags/聚合) · [`分享`](https://site.lovejade.cn/tags/分享) · [`效率`](https://site.lovejade.cn/tags/效率)
 
 > Build an audience by sharing links
 
@@ -38,11 +38,11 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 有初步体验 [Nawvel](https://nawvel.com/)，使用非常简单，只需基于账号登录，设定名字和头像，就能来到其 `discover` 页面，有 60 多个不同方向主题/章节（多是与互联网相关），每个主题/章节下有汇聚些资源，直接链接于外部网站。另外值得一提的是，您可以建立属于自己的章节（`chapters`），可自由设置为公开（public）或私有（private）；在您的章节（`chapters`）中，您可以添加资源（`Resources`），只需填写标题跟链接即可；如此一来，就相当于有了「网络书签」功能；整体来看，这 Nawvel 与本站[倾城之链](https://nicelinks.site)的**设计哲学**很相似，感兴趣的朋不妨了解下。
 
-── 出自[倾城之链 - Nawvel](https://nicelinks.site/post/6284efb77df0390637b5f3c7)
+── 出自[倾城之链 - Nawvel](https://site.lovejade.cn/post/6284efb77df0390637b5f3c7)
 
-## [Code to Image Converter](https://nicelinks.site/post/6284e8977df0390637b5f3c5)
+## [Code to Image Converter](https://site.lovejade.cn/post/6284e8977df0390637b5f3c5)
 
-**标签**：[`代码`](https://nicelinks.site/tags/代码) · [`工具`](https://nicelinks.site/tags/工具) · [`美图`](https://nicelinks.site/tags/美图)
+**标签**：[`代码`](https://site.lovejade.cn/tags/代码) · [`工具`](https://site.lovejade.cn/tags/工具) · [`美图`](https://site.lovejade.cn/tags/美图)
 
 **关键字**：codetoimg, codeimg, image, code, developer, developer tool, image generator, code snippets, snippets, code to image, converter, image converter, convert code to images, code to img, code image
 
@@ -50,13 +50,13 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 ![倾城之链 - Code to Image Converter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/codetoimg.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Code to Image Converter](https://codetoimg.com/) 是一个设计精美的应用程序，可帮助您生成漂亮且可自定义的代码片段图像，诸如背景色、模糊程度、阴影、字体、padding、代码行号、编程语言等，都是可以自行调节的。这是由开发人员为开发人员构建的。如果您想与任何人或在任何社交媒体上共享您的代码，这就是您需要的应用程序。值得一提的是，该项目在 [Github 开源](https://github.com/rohidisdev/code-to-img)，您可以基于 Docker 或 Docker-compose 快速将其部署于自己的服务器。同类的产品还有 [Carbon](https://nicelinks.site/post/5a92df875894d742c4050c90)、[ray.so](https://nicelinks.site/post/609d1c43a0289c0663f94dc4)，基于这样的小工具，可帮助创建和分享源代码美丽图像，在写 PPT 时，用来展示关键代码，非常实用。
+**推荐语**：[Code to Image Converter](https://codetoimg.com/) 是一个设计精美的应用程序，可帮助您生成漂亮且可自定义的代码片段图像，诸如背景色、模糊程度、阴影、字体、padding、代码行号、编程语言等，都是可以自行调节的。这是由开发人员为开发人员构建的。如果您想与任何人或在任何社交媒体上共享您的代码，这就是您需要的应用程序。值得一提的是，该项目在 [Github 开源](https://github.com/rohidisdev/code-to-img)，您可以基于 Docker 或 Docker-compose 快速将其部署于自己的服务器。同类的产品还有 [Carbon](https://site.lovejade.cn/post/5a92df875894d742c4050c90)、[ray.so](https://site.lovejade.cn/post/609d1c43a0289c0663f94dc4)，基于这样的小工具，可帮助创建和分享源代码美丽图像，在写 PPT 时，用来展示关键代码，非常实用。
 
-── 出自[倾城之链 - Code to Image Converter](https://nicelinks.site/post/6284e8977df0390637b5f3c5)
+── 出自[倾城之链 - Code to Image Converter](https://site.lovejade.cn/post/6284e8977df0390637b5f3c5)
 
-## [Fengari](https://nicelinks.site/post/6283870a7df0390637b5f3c3)
+## [Fengari](https://site.lovejade.cn/post/6283870a7df0390637b5f3c3)
 
-**标签**：[`Lua`](https://nicelinks.site/tags/Lua) · [`框架`](https://nicelinks.site/tags/框架) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`Lua`](https://site.lovejade.cn/tags/Lua) · [`框架`](https://site.lovejade.cn/tags/框架) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 **关键字**：Fengari, Lua, Lua VM, JS, ES6, Node, browser, 浏览器, 协程, 编码, 嵌入
 
@@ -64,7 +64,7 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 ![倾城之链 - Fengari](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fengari.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Fengari](=http://fengari.io/) ，（希腊文中的月亮 🌛Moon）是用 JavaScript 编写的 [Lua](https://nicelinks.site/post/62837dc52dba1c5d9dce1f73) VM，以浏览器为主要目标（当然也可以用于 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) ）。它使用 JavaScript 的垃圾收集器，因此与 DOM 的互操作性是无泄漏的。它带有一个简单的模块，可以使与 JavaScript 和 DOM 的任何交互变得透明：
+**推荐语**： [Fengari](=http://fengari.io/) ，（希腊文中的月亮 🌛Moon）是用 JavaScript 编写的 [Lua](https://site.lovejade.cn/post/62837dc52dba1c5d9dce1f73) VM，以浏览器为主要目标（当然也可以用于 [Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) ）。它使用 JavaScript 的垃圾收集器，因此与 DOM 的互操作性是无泄漏的。它带有一个简单的模块，可以使与 JavaScript 和 DOM 的任何交互变得透明：
 
 ```lua
 local js = require "js"
@@ -101,15 +101,15 @@ end)()
 
 Fengari 的目标是 100% 符合最新的 Lua 语义。它尽可能接近 Lua 的代码库，如果你熟悉它，你会很容易理解 Fengari。目前已涵盖 Lua 99% 的范围，因此您应该能够运行任何 Lua 项目，只需稍作调整。
 
-使用 C API（而不是 JS API），您可以决定用 Lua 编写所有内容，或者将其用作调用 JS 代码库来完成繁重工作的高级语言。这也意味着您可以将您的代码隔离在单独的绝缘 Lua 状态中。您还可以使用 [fengari-interop](https://github.com/fengari-lua/fengari-interop) 模块直接从您的 Lua 代码与 JS 端进行交互。它确保操作 JS 对象或函数始终按照您期望的方式运行。值得一提的是，[Fengari](=http://fengari.io/) 这个网站，其逻辑代码即采用 [Lua](https://nicelinks.site/post/62837dc52dba1c5d9dce1f73) 编写，而 JS 仅用于创建 Lua 状态并运行主脚本。
+使用 C API（而不是 JS API），您可以决定用 Lua 编写所有内容，或者将其用作调用 JS 代码库来完成繁重工作的高级语言。这也意味着您可以将您的代码隔离在单独的绝缘 Lua 状态中。您还可以使用 [fengari-interop](https://github.com/fengari-lua/fengari-interop) 模块直接从您的 Lua 代码与 JS 端进行交互。它确保操作 JS 对象或函数始终按照您期望的方式运行。值得一提的是，[Fengari](=http://fengari.io/) 这个网站，其逻辑代码即采用 [Lua](https://site.lovejade.cn/post/62837dc52dba1c5d9dce1f73) 编写，而 JS 仅用于创建 Lua 状态并运行主脚本。
 
-事实上，在浏览器中，使用 JavaScript 以外的语言，已经是业界潜在已久的共识（愿望）；而且已经有很好的方案，诸如 [Web Assembly](https://nicelinks.site/post/618b8df4a18dec25673723ae)，但距离在生产环境中可用，看起来还有很长的路要走，并且仍然不允许与所有 Web api 进行完全交互。鉴于类似及相关诉求考量，于是该团队便有了 Fengari 这个项目，详情可参见：[为什么我们用 JS 重写 Lua](https://hackernoon.com/why-we-rewrote-lua-in-js-a66529a8278d)。
+事实上，在浏览器中，使用 JavaScript 以外的语言，已经是业界潜在已久的共识（愿望）；而且已经有很好的方案，诸如 [Web Assembly](https://site.lovejade.cn/post/618b8df4a18dec25673723ae)，但距离在生产环境中可用，看起来还有很长的路要走，并且仍然不允许与所有 Web api 进行完全交互。鉴于类似及相关诉求考量，于是该团队便有了 Fengari 这个项目，详情可参见：[为什么我们用 JS 重写 Lua](https://hackernoon.com/why-we-rewrote-lua-in-js-a66529a8278d)。
 
-── 出自[倾城之链 - Fengari](https://nicelinks.site/post/6283870a7df0390637b5f3c3)
+── 出自[倾城之链 - Fengari](https://site.lovejade.cn/post/6283870a7df0390637b5f3c3)
 
-## [The Programming Language Lua](https://nicelinks.site/post/62837dc52dba1c5d9dce1f73)
+## [The Programming Language Lua](https://site.lovejade.cn/post/62837dc52dba1c5d9dce1f73)
 
-**标签**：[`编程语言`](https://nicelinks.site/tags/编程语言) · [`Lua`](https://nicelinks.site/tags/Lua) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`Lua`](https://site.lovejade.cn/tags/Lua) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 **关键字**：lua, language, extension, embedding, configuration, scripting, rapid prototyping, free, source, portable
 
@@ -139,7 +139,7 @@ Fengari 的目标是 100% 符合最新的 Lua 语义。它尽可能接近 Lua �
 
 Lua 的目标是：成为一个很容易嵌入其它语言中使用的语言，事实上它做到了。毕业后第一家公司，从事移动设备棋牌类游戏开发，便是实用 Lua 作为主要语言，来写业务逻辑，配合自制引擎绘制页面等等。Lua 上手十分简单，比于 JavaScript 有过之无不及，感兴趣的朋友不妨了解下。
 
-── 出自[倾城之链 - The Programming Language Lua](https://nicelinks.site/post/62837dc52dba1c5d9dce1f73)
+── 出自[倾城之链 - The Programming Language Lua](https://site.lovejade.cn/post/62837dc52dba1c5d9dce1f73)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

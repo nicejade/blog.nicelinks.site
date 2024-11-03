@@ -38,9 +38,15 @@ const List = () => {
     <div className="content">
       {allArticleArr.map(item => {
         const { slug, num } = getWeeklySlugAndNum(item.fields.slug)
+        const imgPath = `https://image.lovejade.cn/jpg/nice-links-${num}.jpg?imageView2/1/w/512/h/288/interlace/1/ignore-error/1`
         return (
           <section className="article-card" key={slug}>
             <Link className="link" to={slug} key={slug}>
+              <img
+                className="card-picture image-placeholder"
+                src={imgPath}
+                alt={getTitleBySlug(slug)}
+              />
               <h2 className="title">{getTitleBySlug(slug)}</h2>
             </Link>
           </section>

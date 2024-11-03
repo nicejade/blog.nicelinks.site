@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Tabby - a terminal for a more modern age](https://nicelinks.site/post/63514daf80eb7b118fa7fba3)
+## [Tabby - a terminal for a more modern age](https://site.lovejade.cn/post/63514daf80eb7b118fa7fba3)
 
-**标签**：[`终端`](https://nicelinks.site/tags/终端) · [`SSH`](https://nicelinks.site/tags/SSH) · [`效率`](https://nicelinks.site/tags/效率)
+**标签**：[`终端`](https://site.lovejade.cn/tags/终端) · [`SSH`](https://site.lovejade.cn/tags/SSH) · [`效率`](https://site.lovejade.cn/tags/效率)
 
 **关键字**：Tabby, 免费, 开源, SSH, Telnet, 客户端, shell, iTerm
 
@@ -12,7 +12,7 @@
 
 ![倾城之链 - Tabby - a terminal for a more modern age](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tabby.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：Tabby （以前称为 **Terminus** ）是一个**免费的开源** [SSH](https://nicelinks.site/tags/SSH)，串行客户端和终端仿真器，其中包含您所需要的一切；适用于 Windows、macOS 和 Linux；它除了**高度可配置**，还具有以下功能特征：
+**推荐语**：Tabby （以前称为 **Terminus** ）是一个**免费的开源** [SSH](https://site.lovejade.cn/tags/SSH)，串行客户端和终端仿真器，其中包含您所需要的一切；适用于 Windows、macOS 和 Linux；它除了**高度可配置**，还具有以下功能特征：
 
 - 集成 SSH 和 Telnet 客户端和连接管理器；
 - 集成串口终端；
@@ -20,19 +20,19 @@
 - 完全可配置的快捷键和多和弦快捷键；
 - 通过 Zmodem 从/向 SSH 会话直接传输文件；
 - 完整的 Unicode 支持，包括双角字符；
-- [Windows](https://nicelinks.site/tags/Windows) 上的正确 shell 体验，包括选项卡完成（通过 Clink）；
+- [Windows](https://site.lovejade.cn/tags/Windows) 上的正确 shell 体验，包括选项卡完成（通过 Clink）；
 - 用于 SSH 机密和配置的集成加密容器；
 - SSH、SFTP 和 Telnet 客户端可作为 Web 应用程序使用；
 
 Tabby 是 Windows 标准终端 (conhost)、PowerShell ISE、PuTTY、macOS Terminal.app 和 iTerm 的替代品；Tabby 不是新的 shell 或 MinGW 或 Cygwin 的替代品。它也不是轻量级的 - 如果 RAM 使用很重要，请考虑 [Conemu](https://conemu.github.io/) 或 [Alacritty](https://github.com/jwilm/alacritty) 。
 
-Tabby 是一个无限可定制的跨平台终端应用程序，用于本地 shell、串行、SSH 和 Telnet 连接。无论是作为终端、`SSH 客户端 `，抑或是串行终端，`tabby` （更现代的终端）不仅具备丰富的功能，而且便携，支持编写插件和主题；作为 MacOS 爱好者，之前总是用 [iTerm2](https://nicelinks.site/post/628b9fd935bb417da9ed231b) ，如今接触到 Tabby，顿时被其所吸引，相信进一步深入熟悉和使用，很可能“移情别恋”；更棒的是 Tabby 在全平台可用，且在 [Github 开源](https://github.com/Eugeny/tabby) ，如果您对它感兴趣，可前往 [Tabby 特征](https://tabby.sh/about/features) 以了解更多。
+Tabby 是一个无限可定制的跨平台终端应用程序，用于本地 shell、串行、SSH 和 Telnet 连接。无论是作为终端、`SSH 客户端 `，抑或是串行终端，`tabby` （更现代的终端）不仅具备丰富的功能，而且便携，支持编写插件和主题；作为 MacOS 爱好者，之前总是用 [iTerm2](https://site.lovejade.cn/post/628b9fd935bb417da9ed231b) ，如今接触到 Tabby，顿时被其所吸引，相信进一步深入熟悉和使用，很可能“移情别恋”；更棒的是 Tabby 在全平台可用，且在 [Github 开源](https://github.com/Eugeny/tabby) ，如果您对它感兴趣，可前往 [Tabby 特征](https://tabby.sh/about/features) 以了解更多。
 
-── 出自[倾城之链 - Tabby - a terminal for a more modern age](https://nicelinks.site/post/63514daf80eb7b118fa7fba3)
+── 出自[倾城之链 - Tabby - a terminal for a more modern age](https://site.lovejade.cn/post/63514daf80eb7b118fa7fba3)
 
-## [Dragonfly](https://nicelinks.site/post/634f74ab309ddd5ca75b9481)
+## [Dragonfly](https://site.lovejade.cn/post/634f74ab309ddd5ca75b9481)
 
-**标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`编程语言`](https://nicelinks.site/tags/编程语言) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`数据库`](https://site.lovejade.cn/tags/数据库) · [`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：dragonfly, in-memory, datastore, scale, memory store, redis
 
@@ -40,7 +40,7 @@ Tabby 是一个无限可定制的跨平台终端应用程序，用于本地 shel
 
 ![倾城之链 - Dragonfly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dragonflydb.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dragonfly](https://dragonflydb.io/) （蜻蜓）是一种现代的、可扩展的内存数据存储，与 Redis 和 Memcached API 完全兼容。Dragonfly 在多线程、无共享的体系结构之上实现了新的算法和数据结构。因此，与 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 相比，吞吐量增加了 16 倍，达到 25 倍。，并且在单个实例上支持数百万 QPS。Dragonfly 的核心属性使其成为经济高效、易于使用的 Redis 替代品。它具有以下功能特征：
+**推荐语**：[Dragonfly](https://dragonflydb.io/) （蜻蜓）是一种现代的、可扩展的内存数据存储，与 Redis 和 Memcached API 完全兼容。Dragonfly 在多线程、无共享的体系结构之上实现了新的算法和数据结构。因此，与 [Redis](https://site.lovejade.cn/post/603e39560c8e4b046a182003) 相比，吞吐量增加了 16 倍，达到 25 倍。，并且在单个实例上支持数百万 QPS。Dragonfly 的核心属性使其成为经济高效、易于使用的 Redis 替代品。它具有以下功能特征：
 
 ### 易于理解的
 
@@ -72,11 +72,11 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 值得一提是，Dragonfly 使用简单，并且在 [Github dragonflydb](https://github.com/dragonflydb/dragonfly) 开源，感兴趣的朋友可以前往，以了解更多。
 
-── 出自[倾城之链 - Dragonfly](https://nicelinks.site/post/634f74ab309ddd5ca75b9481)
+── 出自[倾城之链 - Dragonfly](https://site.lovejade.cn/post/634f74ab309ddd5ca75b9481)
 
-## [一帧秒创 - AI 视频创作，图文转视频](https://nicelinks.site/post/634e6d2d309ddd5ca75b8ab2)
+## [一帧秒创 - AI 视频创作，图文转视频](https://site.lovejade.cn/post/634e6d2d309ddd5ca75b8ab2)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`视频`](https://nicelinks.site/tags/视频) · [`创作者`](https://nicelinks.site/tags/创作者)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`视频`](https://site.lovejade.cn/tags/视频) · [`创作者`](https://site.lovejade.cn/tags/创作者)
 
 **关键字**：图文转视频, 文章转视频, word 转视频, AI 视频, AIGC, 智能 AI 配音, AI 语音, 一键转视频, 智能配音, 智能配音, 图文成片, AI
 
@@ -84,7 +84,7 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 ![倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aigc.yizhentv.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[一帧秒创](https://aigc.yizhentv.com/) ，是一个以 AIGC 为基础的效率工具，为图文 [创作者](https://nicelinks.site/tags/创作者) 和营销机构提供一键图文转视频（TTV）服务，通过对优质素材、智能 [AI](https://nicelinks.site/tags/AI) 语音、智能字幕、BGM、LOGO 等匹配设置，无需剪辑，一键成片，零门槛创作视频。它使用非常简单，具体流程如下：
+**推荐语**：[一帧秒创](https://aigc.yizhentv.com/) ，是一个以 AIGC 为基础的效率工具，为图文 [创作者](https://site.lovejade.cn/tags/创作者) 和营销机构提供一键图文转视频（TTV）服务，通过对优质素材、智能 [AI](https://site.lovejade.cn/tags/AI) 语音、智能字幕、BGM、LOGO 等匹配设置，无需剪辑，一键成片，零门槛创作视频。它使用非常简单，具体流程如下：
 
 - **准备文稿**：输入文字或者粘贴自媒体文章链接，一键导入文稿；
 - **文本处理**：AI 引擎会为您的文稿，进行智能语义分析与摘要提取；
@@ -117,11 +117,11 @@ Dragonfly 是一种新的内存引擎，针对吞吐量进行了优化，使用�
 
 [一帧秒创](https://aigc.yizhentv.com/) ，是一键式 AI 智能图文转视频的生成神器。您只需将文章或自媒体账号文章链接导入工具，即可进行一键图文转视频（TTV）。全自动 AI 智能配视频、配图片、配场景、配语音、配字幕、配背景音乐素材等，一帧秒创全面赋能图文创作者，一键导入，无需剪辑，零门槛视频创作。在后疫情时代，`一帧秒创`赋能图文创作者，增加第二流量和收益曲线，让**创作者**轻松从自媒体平台找到价值。
 
-── 出自[倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://nicelinks.site/post/634e6d2d309ddd5ca75b8ab2)
+── 出自[倾城之链 - 一帧秒创 - AI 视频创作，图文转视频](https://site.lovejade.cn/post/634e6d2d309ddd5ca75b8ab2)
 
-## [PICO 官方网站](https://nicelinks.site/post/634d69f3309ddd5ca75b81d1)
+## [PICO 官方网站](https://site.lovejade.cn/post/634d69f3309ddd5ca75b81d1)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`VR`](https://nicelinks.site/tags/VR) · [`XR`](https://nicelinks.site/tags/XR)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`VR`](https://site.lovejade.cn/tags/VR) · [`XR`](https://site.lovejade.cn/tags/XR)
 
 **关键字**：PICO，Standalone，all-in-one VR，Enterprise VR, VR for business, VR for Medical, VR for Education
 
@@ -148,17 +148,17 @@ PICO 最新产品更新至 [pico4](https://www.picoxr.com/cn/products/pico4) （
 
 由于一篇名为「元宇宙：从 AR / VR 眼镜到数字虚拟人」的分享，从而得知 PICO 的存在，大致了解目下 AR / VR 除了软硬件有待加强之外，存在“内容存短板、盈利不清晰”等困难；而 Meta（前 Facebook）的 Oculus Quest 产品及平台，相比 PICO 表现更为出色；未来，无论 VR、乃至**元宇宙**布局，期待能不断有更出彩的产品与称赞的内容。
 
-── 出自[倾城之链 - PICO 官方网站](https://nicelinks.site/post/634d69f3309ddd5ca75b81d1)
+── 出自[倾城之链 - PICO 官方网站](https://site.lovejade.cn/post/634d69f3309ddd5ca75b81d1)
 
-## [The podcast hosting platform for creators | Castos](https://nicelinks.site/post/634acfdeb1155e08ebc0227e)
+## [The podcast hosting platform for creators | Castos](https://site.lovejade.cn/post/634acfdeb1155e08ebc0227e)
 
-**标签**：[`创作者`](https://nicelinks.site/tags/创作者) · [`播客`](https://nicelinks.site/tags/播客) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`创作者`](https://site.lovejade.cn/tags/创作者) · [`播客`](https://site.lovejade.cn/tags/播客) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Castos is the podcast hosting platform for creators. We give you all the tools to grow your audience and monetize your content.
 
 ![倾城之链 - The podcast hosting platform for creators | Castos](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/castos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Castos](https://castos.com/) 是创作者的播客托管平台。他们为您提供了所有工具来增加您的受众并将您的内容货币化。他们的目标很简单：让 [播客](https://nicelinks.site/tags/播客) 变得容易，让所有人都可以访问。Castos 具有以下功能特征：
+**推荐语**：[Castos](https://castos.com/) 是创作者的播客托管平台。他们为您提供了所有工具来增加您的受众并将您的内容货币化。他们的目标很简单：让 [播客](https://site.lovejade.cn/tags/播客) 变得容易，让所有人都可以访问。Castos 具有以下功能特征：
 
 ### 自动驾驶仪上的转录
 
@@ -176,13 +176,13 @@ Castos 通过其托管平台和 WordPress 插件集成来实现这一点。该�
 
 通过在 Castos 托管平台上安装 30000 多个严重简单播客插件和数万名活跃客户，该团队学到了一些关于如何帮助您设置播客成功的知识。Castos 的团队拥有数十年的集体播客经验，Castos 通过他们的产品、服务和免费培训内容直接为您提供播客。
 
-Castos 创作团队认为，好奇心、求知欲和不断追求进步与知识和经验同样重要（如果不是更重要的话）。Castos 是创作者的播客平台。在这里，你可以轻松地增加你的观众和赚钱播客。 [科技双眼啤](https://nicelinks.site/post/634aca0cb1155e08ebc02238) 便是基于 Castos 构建的一个科技`播客`平台；如果您有创建播客的想法，不妨可以基于 Castos 尝试下。
+Castos 创作团队认为，好奇心、求知欲和不断追求进步与知识和经验同样重要（如果不是更重要的话）。Castos 是创作者的播客平台。在这里，你可以轻松地增加你的观众和赚钱播客。 [科技双眼啤](https://site.lovejade.cn/post/634aca0cb1155e08ebc02238) 便是基于 Castos 构建的一个科技`播客`平台；如果您有创建播客的想法，不妨可以基于 Castos 尝试下。
 
-── 出自[倾城之链 - The podcast hosting platform for creators | Castos](https://nicelinks.site/post/634acfdeb1155e08ebc0227e)
+── 出自[倾城之链 - The podcast hosting platform for creators | Castos](https://site.lovejade.cn/post/634acfdeb1155e08ebc0227e)
 
-## [科技双眼啤](https://nicelinks.site/post/634aca0cb1155e08ebc02238)
+## [科技双眼啤](https://site.lovejade.cn/post/634aca0cb1155e08ebc02238)
 
-**标签**：[`创作者`](https://nicelinks.site/tags/创作者) · [`播客`](https://nicelinks.site/tags/播客) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`创作者`](https://site.lovejade.cn/tags/创作者) · [`播客`](https://site.lovejade.cn/tags/播客) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > 由开发者 Cali 与设计师 Rather 共同主持的「科技双眼啤」，我们是一档对互联网软件硬件从开发与设计不同视角深入探讨的科技播客。
 
@@ -192,9 +192,9 @@ Castos 创作团队认为，好奇心、求知欲和不断追求进步与知识�
 
 > 佐声道主理人 `Cali` 在留美期间，有丰富的工作经验，对于产品有极度的热爱以及不同的体验经历；设计师 Rather 一直在国内从事着 UI 设计师的工作，并在这一行有着不同的独特见解。同为苹果粉的两人一拍即合，他们也将自己对于产品的解读认知、对设计的严谨态度都延续到了他们所有的节目当中。
 
-科技双眼啤，基于 [Castos](https://nicelinks.site/post/634acfdeb1155e08ebc0227e) 所构建，您可以通过 Spotify、Apple、Google Podcasts 等平台订阅，也可以在小宇宙、喜马拉雅等平台收听。
+科技双眼啤，基于 [Castos](https://site.lovejade.cn/post/634acfdeb1155e08ebc0227e) 所构建，您可以通过 Spotify、Apple、Google Podcasts 等平台订阅，也可以在小宇宙、喜马拉雅等平台收听。
 
-── 出自[倾城之链 - 科技双眼啤](https://nicelinks.site/post/634aca0cb1155e08ebc02238)
+── 出自[倾城之链 - 科技双眼啤](https://site.lovejade.cn/post/634aca0cb1155e08ebc02238)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

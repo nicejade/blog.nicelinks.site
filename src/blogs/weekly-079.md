@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Superblog: Fast, light, and beautiful blogging platform](https://nicelinks.site/post/62fe5b3828190628135d6764)
+## [Superblog: Fast, light, and beautiful blogging platform](https://site.lovejade.cn/post/62fe5b3828190628135d6764)
 
-**标签**：[`博客`](https://nicelinks.site/tags/博客) · [`SEO`](https://nicelinks.site/tags/SEO) · [`网站生成器`](https://nicelinks.site/tags/网站生成器)
+**标签**：[`博客`](https://site.lovejade.cn/tags/博客) · [`SEO`](https://site.lovejade.cn/tags/SEO) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器)
 
 **关键字**：WordPress alternative, Medium alternative, Fast blogging platform, Light-weight blogging platform, Simple blog platform, Ghost Alternative, Easy blogging platform, Minimal blogging platform
 
@@ -12,7 +12,7 @@
 
 ![倾城之链 - Superblog: Fast, light, and beautiful blogging platform](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/superblog.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：Superblog 一个速度极快的博客平台，内置了最佳实践；是 WordPress 和 Medium 博客的快速替代品。针对 [SEO](https://nicelinks.site/tags/SEO)、转换和速度进行了自动优化，无需设置、维护，以便您可以专注于编写内容。它具有以下功能特色：
+**推荐语**：Superblog 一个速度极快的博客平台，内置了最佳实践；是 WordPress 和 Medium 博客的快速替代品。针对 [SEO](https://site.lovejade.cn/tags/SEO)、转换和速度进行了自动优化，无需设置、维护，以便您可以专注于编写内容。它具有以下功能特色：
 
 ### 读者愿意阅读更多
 
@@ -49,13 +49,13 @@ Superblog 具有内置分析功能，可帮助您了解哪些博客文章表现�
 
 Superblog 对您的博客进行智能优化。它预先构建您的整个博客，并将页面、图像存储在世界各地的许多服务器上。每当用户访问您的网站时，您网站的预构建缓存副本都会显示在距用户位置最近的服务器上。Superblog 是一个 JAMStack 博客平台。
 
-使用 Superblog，您无需担心最佳实践、SEO 审核和管理您的服务器。您可以完全专注于编写内容。其余全部由超级博客自动处理。您可以在不到 5 分钟的时间内，从 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、[Ghost](https://nicelinks.site/post/5c3f3151a5957e07a40b30ff)、[Medium](https://nicelinks.site/post/5a7586d3ff655e7a265b8e93) 和 Blogger 迁移到 Superblog（超级博客）。值得说明的是 Superblog 仅支持 7 天免费可用，其针对个人和爱好项目所提供的基本（BASIC）版本，$9 每月。
+使用 Superblog，您无需担心最佳实践、SEO 审核和管理您的服务器。您可以完全专注于编写内容。其余全部由超级博客自动处理。您可以在不到 5 分钟的时间内，从 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1)、[Ghost](https://site.lovejade.cn/post/5c3f3151a5957e07a40b30ff)、[Medium](https://site.lovejade.cn/post/5a7586d3ff655e7a265b8e93) 和 Blogger 迁移到 Superblog（超级博客）。值得说明的是 Superblog 仅支持 7 天免费可用，其针对个人和爱好项目所提供的基本（BASIC）版本，$9 每月。
 
-── 出自[倾城之链 - Superblog: Fast, light, and beautiful blogging platform](https://nicelinks.site/post/62fe5b3828190628135d6764)
+── 出自[倾城之链 - Superblog: Fast, light, and beautiful blogging platform](https://site.lovejade.cn/post/62fe5b3828190628135d6764)
 
-## [HTTPie – API testing client that flows with you](https://nicelinks.site/post/62fe257028190628135d6762)
+## [HTTPie – API testing client that flows with you](https://site.lovejade.cn/post/62fe257028190628135d6762)
 
-**标签**：[`HTTP`](https://nicelinks.site/tags/HTTP) · [`命令行`](https://nicelinks.site/tags/命令行) · [`API`](https://nicelinks.site/tags/API)
+**标签**：[`HTTP`](https://site.lovejade.cn/tags/HTTP) · [`命令行`](https://site.lovejade.cn/tags/命令行) · [`API`](https://site.lovejade.cn/tags/API)
 
 > Making APIs simple and intuitive for those building the tools of our time.
 
@@ -116,13 +116,13 @@ http PUT pie.dev/put X-API-Token:123 name=John
 http pie.dev/image/png > image.png
 ```
 
-与 HTTPie 同类型的工具还有 [Curl](https://nicelinks.site/post/62556c92f3a35106466b76fe) 以及 [Hurl](https://nicelinks.site/post/619ce835465c2155e2d1587f)，只不过侧重点有所不同。HTTPie 更偏向于 API 测试；如果您的工作中较多涉及到 API 测试相关，相信 HTTPie 能够俘获您的心 ❤️。
+与 HTTPie 同类型的工具还有 [Curl](https://site.lovejade.cn/post/62556c92f3a35106466b76fe) 以及 [Hurl](https://site.lovejade.cn/post/619ce835465c2155e2d1587f)，只不过侧重点有所不同。HTTPie 更偏向于 API 测试；如果您的工作中较多涉及到 API 测试相关，相信 HTTPie 能够俘获您的心 ❤️。
 
-── 出自[倾城之链 - HTTPie – API testing client that flows with you](https://nicelinks.site/post/62fe257028190628135d6762)
+── 出自[倾城之链 - HTTPie – API testing client that flows with you](https://site.lovejade.cn/post/62fe257028190628135d6762)
 
-## [Browse Your Life in Pictures – PhotoPrism](https://nicelinks.site/post/62fde83d28190628135d6760)
+## [Browse Your Life in Pictures – PhotoPrism](https://site.lovejade.cn/post/62fde83d28190628135d6760)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片) · [`程序`](https://nicelinks.site/tags/程序)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片) · [`程序`](https://site.lovejade.cn/tags/程序)
 
 **关键字**：alternative, self-hosted, photo management, cloud, web3, decentralized, google photos, artificial intelligence, face recognition
 
@@ -130,7 +130,7 @@ http pie.dev/image/png > image.png
 
 ![倾城之链 - Browse Your Life in Pictures – PhotoPrism](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/photoprism.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：PhotoPrism® 是用于**去中心化**网络的 [AI](https://nicelinks.site/tags/AI) 驱动的照片应用程序。它利用最新技术自动标记和查找图片，而不会妨碍您。您可以在家里、私人服务器或云端运行它。
+**推荐语**：PhotoPrism® 是用于**去中心化**网络的 [AI](https://site.lovejade.cn/tags/AI) 驱动的照片应用程序。它利用最新技术自动标记和查找图片，而不会妨碍您。您可以在家里、私人服务器或云端运行它。
 
 > **去中心化**是与中心化相对的一个概念，简单的来说中心化的意思，是中心决定节点。节点必须依赖中心，节点离开了中心就无法生存。去中心化恰恰相反，在一个分布有众多节点的系统中，每个节点都具有高度自治的特征，每一个节点都是一个“小中心”。该想法提出重组互联网，以移除集中式数据托管服务，转而使用点对点基础设施。由于各种原因，对网络维护组织缺乏信任，人们对去中心化网络产生了兴趣。随着网络服务形态的多元化，去中心化网络模型越来越清晰，也越来越成为可能。
 
@@ -148,13 +148,13 @@ PhotoPrism 的使命是：提供对用户和隐私最友好的解决方案，以
 - 使用 PhotoSync 在后台安全备份 iOS 和 Android 手机；
 - WebDAV 客户端（如 Microsoft 的 Windows Explorer 和 Apple 的 Finder）可以直接连接到 PhotoPrism，让您可以像在本地一样打开、编辑和删除计算机中的文件；
 
-PhotoPrism 项目在 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源，如果您对自己拥有的图片或视频，有较好的管理和较强的隐私要求，基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 在您的私人服务器部署一套 PhotoPrism 程序，在目前看来是很棒的选择。
+PhotoPrism 项目在 [Github](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 开源，如果您对自己拥有的图片或视频，有较好的管理和较强的隐私要求，基于 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 在您的私人服务器部署一套 PhotoPrism 程序，在目前看来是很棒的选择。
 
-── 出自[倾城之链 - Browse Your Life in Pictures – PhotoPrism](https://nicelinks.site/post/62fde83d28190628135d6760)
+── 出自[倾城之链 - Browse Your Life in Pictures – PhotoPrism](https://site.lovejade.cn/post/62fde83d28190628135d6760)
 
-## [Wins - Bring System-level Arrange Window features to Mac](https://nicelinks.site/post/62fcd16128190628135d675e)
+## [Wins - Bring System-level Arrange Window features to Mac](https://site.lovejade.cn/post/62fcd16128190628135d675e)
 
-**标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`高效`](https://nicelinks.site/tags/高效)
+**标签**：[`Mac`](https://site.lovejade.cn/tags/Mac) · [`工具`](https://site.lovejade.cn/tags/工具) · [`高效`](https://site.lovejade.cn/tags/高效)
 
 > Bring System-level Arrange Window features to Mac.
 
@@ -188,11 +188,11 @@ Wins 非常在意功耗，内存占用低于 30M，CPU 使用低于 10%，大多
 
 Mac 是我最喜欢的生产力工具，没有之一；如果您需要经常操纵图形化界面，推荐看下 Wins 所展示的功能效果视频，相信有这样的工具加持，会让您的操作更加得心应手，效率也将随之提升。需要说明的是，Wins 支持 7 天免费试用；支付  13.99 美元，便能得到永久授权。
 
-── 出自[倾城之链 - Wins - Bring System-level Arrange Window features to Mac](https://nicelinks.site/post/62fcd16128190628135d675e)
+── 出自[倾城之链 - Wins - Bring System-level Arrange Window features to Mac](https://site.lovejade.cn/post/62fcd16128190628135d675e)
 
-## [Yandex](https://nicelinks.site/post/62fa2a0b28190628135d675a)
+## [Yandex](https://site.lovejade.cn/post/62fa2a0b28190628135d675a)
 
-**标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`机器学习`](https://nicelinks.site/tags/机器学习)
+**标签**：[`搜索`](https://site.lovejade.cn/tags/搜索) · [`引擎`](https://site.lovejade.cn/tags/引擎) · [`机器学习`](https://site.lovejade.cn/tags/机器学习)
 
 > Yandex is a search engine and web portal. Yandex offers internet search and other services like maps, navigator, public transport, taxi, weather, news, music, TV program, translation, online shopping, and more. Free email service and cloud storage.
 
@@ -204,13 +204,13 @@ Yandex 的历史始于 1990 年代初——远在公司成立之前。Yandex 作
 
 Yandex 几乎一半的收入来自上下文广告，它根据网络用户的需求为产品和服务投放广告。其中 Yandex.Direct 服务是俄罗斯第一个，也是最大的基于文本的广告投放系统。除了在搜索结果页面上投放广告外，还在构成 Yandex 广告网络的数千个第三方网站上投放广告。该公司于 2002 年开始盈利，此后收入一直在持续增长。2011 年 5 月，Yandex 在纳斯达克证券交易所上市，股票代码为 YNDX。
 
-搜索一直是并且仍然是 Yandex 的核心产品，但现在我们对它的作用有了更广泛的理解：它是一种万能辅助工具、助手，是我们周围一切事物的指南。这是关于在正确的地点和时间给出正确的建议，帮助做出选择，以及完成事情的可能性。Yandex 在其网站说到：其所有产品都旨在让人们的生活更轻松、更美好。每个都可以帮助用户做一些曾经看似不可能的事情。知道 Yandex 网站的存在，是因为发现[倾城之链](https://nicelinks.site/)越来越多流量来自于 Yandex 搜索；如果您想了解更多，可移步 [Yandex — Mission](https://yandex.com/company/general_info/yandex_today)。
+搜索一直是并且仍然是 Yandex 的核心产品，但现在我们对它的作用有了更广泛的理解：它是一种万能辅助工具、助手，是我们周围一切事物的指南。这是关于在正确的地点和时间给出正确的建议，帮助做出选择，以及完成事情的可能性。Yandex 在其网站说到：其所有产品都旨在让人们的生活更轻松、更美好。每个都可以帮助用户做一些曾经看似不可能的事情。知道 Yandex 网站的存在，是因为发现[倾城之链](https://site.lovejade.cn/)越来越多流量来自于 Yandex 搜索；如果您想了解更多，可移步 [Yandex — Mission](https://yandex.com/company/general_info/yandex_today)。
 
-── 出自[倾城之链 - Yandex](https://nicelinks.site/post/62fa2a0b28190628135d675a)
+── 出自[倾城之链 - Yandex](https://site.lovejade.cn/post/62fa2a0b28190628135d675a)
 
-## [Next-generation ES module bundler ｜ Rollup](https://nicelinks.site/post/62f8b9e030be9b2450762124)
+## [Next-generation ES module bundler ｜ Rollup](https://site.lovejade.cn/post/62f8b9e030be9b2450762124)
 
-**标签**：[`构建`](https://nicelinks.site/tags/构建) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`构建`](https://site.lovejade.cn/tags/构建) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the standardized ES module format for code, instead of previous idiosyncratic solutions such as CommonJS and AMD.
 
@@ -224,9 +224,9 @@ Rollup 和 Webpack、Parcel、Vite 等工具很类似，但专注于 ES6 的模�
 - Rollup 生态链还不完善，体验不如 Webpack；
 - Rollup 功能不如 Webpack 完善，但其配置和使用更加简单；
 
-当然，Rollup 也存在一些不可忽视的缺点，诸如：开发服务器不能实现模块热更新，调试繁琐。Rollup 在用于打包 JavaScript 库时比 Webpack 更加有优势，因为其打包出来的代码更小更快。因此，如果需要构建一个类库，且只需要导入很少第三方库，推荐使用 Rollup；如果需要构建一个复杂的应用，需要集成很多第三方库，并且需要代码分拆、HMR（热更新） 等功能，推荐使用 Webpack；如果您对开发时构建速度有要求，那  [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)  值得尝试。
+当然，Rollup 也存在一些不可忽视的缺点，诸如：开发服务器不能实现模块热更新，调试繁琐。Rollup 在用于打包 JavaScript 库时比 Webpack 更加有优势，因为其打包出来的代码更小更快。因此，如果需要构建一个类库，且只需要导入很少第三方库，推荐使用 Rollup；如果需要构建一个复杂的应用，需要集成很多第三方库，并且需要代码分拆、HMR（热更新） 等功能，推荐使用 Webpack；如果您对开发时构建速度有要求，那  [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e)  值得尝试。
 
-── 出自[倾城之链 - Next-generation ES module bundler ｜ Rollup](https://nicelinks.site/post/62f8b9e030be9b2450762124)
+── 出自[倾城之链 - Next-generation ES module bundler ｜ Rollup](https://site.lovejade.cn/post/62f8b9e030be9b2450762124)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

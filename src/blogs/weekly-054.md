@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [SVG Viewer - View, save, and optimize SVGs](https://nicelinks.site/post/621739aa2d17f22050cf1a31)
+## [SVG Viewer - View, save, and optimize SVGs](https://site.lovejade.cn/post/621739aa2d17f22050cf1a31)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：svg, svg tool, svg viewer, online svg, svg to jsx, svg to react, svg to react native, svg optimize
 
@@ -12,9 +12,9 @@
 
 ![倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.svgviewer.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SVG Viewer](https://www.svgviewer.dev/)，是一个在线工具，用于查看（预览）和优化 [SVG](https://nicelinks.site/tags/SVG)，这对 **Web 开发**相关从业人员，颇为有用。在介绍该网站功能之前，有必要对 `SVG` 做一个大致科普：
+**推荐语**：[SVG Viewer](https://www.svgviewer.dev/)，是一个在线工具，用于查看（预览）和优化 [SVG](https://site.lovejade.cn/tags/SVG)，这对 **Web 开发**相关从业人员，颇为有用。在介绍该网站功能之前，有必要对 `SVG` 做一个大致科普：
 
-> [SVG](https://nicelinks.site/tags/SVG)：**可缩放矢量图形**（Scalable Vector Graphics，SVG），是一种用于描述二维的**矢量**图形，基于 XML 的标记语言。作为一个基于文本的开放网络标准，SVG 能够优雅而简洁地渲染不同大小的图形，并和 CSS，DOM，JavaScript 和 SMIL 等其他网络标准无缝衔接。本质上，**SVG 相对于图像，就好比 HTML 相对于文本**。
+> [SVG](https://site.lovejade.cn/tags/SVG)：**可缩放矢量图形**（Scalable Vector Graphics，SVG），是一种用于描述二维的**矢量**图形，基于 XML 的标记语言。作为一个基于文本的开放网络标准，SVG 能够优雅而简洁地渲染不同大小的图形，并和 CSS，DOM，JavaScript 和 SMIL 等其他网络标准无缝衔接。本质上，**SVG 相对于图像，就好比 HTML 相对于文本**。
 >
 > SVG 图像及其相关行为被定义于 XML 文本文件之中，这意味着可以对它们进行搜索、索引、编写脚本以及压缩。此外，这也意味着可以使用任何文本编辑器和绘图软件来创建和编辑它们。
 >
@@ -24,17 +24,17 @@
 
 再说回 [SVG Viewer](https://www.svgviewer.dev/)，因为可以方便预览 SVG 内容和美化（Prettify）SVG 代码，您可以基于该网站来编写 SVG（支持清除（Clear）、调整大小（Resize）、以及大量可选项设置（Options））；还支持一键转换为 React、React Native 代码及 PNG 图片；此外，您可以一键**下载**和**分享**您所创建的 SVG。如果您有操作 SVG 相关诉求，[SVG Viewer](https://www.svgviewer.dev/) 是您值得关注且典藏的网站。
 
-── 出自[倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://nicelinks.site/post/621739aa2d17f22050cf1a31)
+── 出自[倾城之链 - SVG Viewer - View, save, and optimize SVGs](https://site.lovejade.cn/post/621739aa2d17f22050cf1a31)
 
-## [VueUse](https://nicelinks.site/post/6217279e2d17f22050cf1a2f)
+## [VueUse](https://site.lovejade.cn/post/6217279e2d17f22050cf1a2f)
 
-**标签**：[`Vue`](https://nicelinks.site/tags/Vue) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`Vue`](https://site.lovejade.cn/tags/Vue) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects.
 
 ![倾城之链 - VueUse](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vueuse.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[VueUse](https://vueuse.org/)，是一组基于 Vue Composition API 的实用函数（常用工具集）；支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 2 和 3。它的初衷是：将一切原本并不支持响应式的 JS API，变得支持响应式，省去程序员自己写相关代码。目前 [VueUse](https://vueuse.org/) 已提供几十个解决方案，适用于常见的开发者用例，如跟踪 Ref 变化、检测元素可见性、简化常见的 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 模式、键盘/鼠标输入等。使用 `VueUse` 是一个节省开发时间的好方法，因为您不必自己添加所有这些标准功能。它具有以下功能特征：
+**推荐语**：[VueUse](https://vueuse.org/)，是一组基于 Vue Composition API 的实用函数（常用工具集）；支持 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 2 和 3。它的初衷是：将一切原本并不支持响应式的 JS API，变得支持响应式，省去程序员自己写相关代码。目前 [VueUse](https://vueuse.org/) 已提供几十个解决方案，适用于常见的开发者用例，如跟踪 Ref 变化、检测元素可见性、简化常见的 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 模式、键盘/鼠标输入等。使用 `VueUse` 是一个节省开发时间的好方法，因为您不必自己添加所有这些标准功能。它具有以下功能特征：
 
 - 🎛 **功能丰富**：140+功能供您选择；
 - 🕶 **无缝迁移**：适用于 Vue 3 和 2；
@@ -90,11 +90,11 @@ export default {
 
 [VueUse](https://vueuse.org/) 很大程度启发于 `react-use`、`vue-hooks、react-hooks` 等项目。Vue Compostion API 支持了更好的逻辑分离，让这些常用的工具可以被复用，能够让你快速地构建丰富的应用。VueUse 中的大多数函数都会返回一个**refs 对象**，您可以使用 ES6 的对象解构语法来获取您需要的内容。
 
-── 出自[倾城之链 - VueUse](https://nicelinks.site/post/6217279e2d17f22050cf1a2f)
+── 出自[倾城之链 - VueUse](https://site.lovejade.cn/post/6217279e2d17f22050cf1a2f)
 
-## [Ruby on Rails — A web-app Framework ](https://nicelinks.site/post/621646542d17f22050cf1a2d)
+## [Ruby on Rails — A web-app Framework ](https://site.lovejade.cn/post/621646542d17f22050cf1a2d)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`程序`](https://nicelinks.site/tags/程序) · [`框架`](https://nicelinks.site/tags/框架)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`程序`](https://site.lovejade.cn/tags/程序) · [`框架`](https://site.lovejade.cn/tags/框架)
 
 > A web-app framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
 
@@ -108,11 +108,11 @@ export default {
 
 Ruby on Rails 的数千个程序已经在线上得到应用。包括 Twitter、Airbnb、GitLab、Shopify 等知名网站。如果您对其感兴趣，不妨前往其官网了解一下。
 
-── 出自[倾城之链 - Ruby on Rails — A web-app Framework ](https://nicelinks.site/post/621646542d17f22050cf1a2d)
+── 出自[倾城之链 - Ruby on Rails — A web-app Framework ](https://site.lovejade.cn/post/621646542d17f22050cf1a2d)
 
-## [npm ｜ the package manager for Node.js](https://nicelinks.site/post/6216392f2d17f22050cf1a2b)
+## [npm ｜ the package manager for Node.js](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b)
 
-**标签**：[`npm`](https://nicelinks.site/tags/npm) · [`Node.js`](https://nicelinks.site/tags/Node.js) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`npm`](https://site.lovejade.cn/tags/npm) · [`Node.js`](https://site.lovejade.cn/tags/Node.js) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > npm is the package manager for Node.js. It was created in 2009 as an open source project to help JavaScript developers easily share packaged modules of code.
 
@@ -126,15 +126,15 @@ Ruby on Rails 的数千个程序已经在线上得到应用。包括 Twitter、A
 
 GitHub 现在已经保证 npm 将永远免费。截至 2020 年 3 月 17 日，npm 为大约 1200 万开发人员，提供了 130 万个软件包，这些开发人员每月下载这些软件包达 750 亿次。
 
-新版的 [Node.js](https://nicelinks.site/tags/Node.js) 已经集成了 npm；如果您有安装 Node.js，那么 npm 也一并安装好了。您可以通过输入 `npm -v` 来测试是否成功安装。
+新版的 [Node.js](https://site.lovejade.cn/tags/Node.js) 已经集成了 npm；如果您有安装 Node.js，那么 npm 也一并安装好了。您可以通过输入 `npm -v` 来测试是否成功安装。
 
 [NPM](https://www.npmjs.com/) 是一种重用其他开发人员的代码的方法，也是一种与他人共享代码的方式，并且可以很容易地管理不同版本的代码。`npm` 开始作为 Node 包管理器，所以你会发现很多模块可以在服务器端使用。也有很多的包添加命令供您在命令行中使用。如果您从事**前端开发**相关工作，想必 `npm` 是您必不可少的工具；当然，您也可以使用其替代性产品 `yarn`，详情可参见文章 ──[Npm vs Yarn 之备忘详单](https://www.jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/)。
 
-── 出自[倾城之链 - npm ｜ the package manager for Node.js](https://nicelinks.site/post/6216392f2d17f22050cf1a2b)
+── 出自[倾城之链 - npm ｜ the package manager for Node.js](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b)
 
-## [mark.js – JavaScript keyword highlight](https://nicelinks.site/post/6213944196847213f2febb08)
+## [mark.js – JavaScript keyword highlight](https://site.lovejade.cn/post/6213944196847213f2febb08)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`前端开发`](https://nicelinks.site/tags/前端开发) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`前端开发`](https://site.lovejade.cn/tags/前端开发) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Search term highlighting intended for every use case. Can be used with plain JavaScript or as jQuery plugin.
 
@@ -160,7 +160,7 @@ instance.mark(keyword, {
 
 如果您有打算做**本地搜索**功能，那么 [mark.js](https://markjs.io/) 工具库非常拥有，可以帮您**高亮**关键字。
 
-── 出自[倾城之链 - mark.js – JavaScript keyword highlight](https://nicelinks.site/post/6213944196847213f2febb08)
+── 出自[倾城之链 - mark.js – JavaScript keyword highlight](https://site.lovejade.cn/post/6213944196847213f2febb08)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

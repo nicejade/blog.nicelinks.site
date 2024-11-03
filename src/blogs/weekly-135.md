@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [ Collaboration software for software, IT and business teams ](https://nicelinks.site/post/6502fcd8717dd244bc3ea1e0)
+## [ Collaboration software for software, IT and business teams ](https://site.lovejade.cn/post/6502fcd8717dd244bc3ea1e0)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`软件`](https://nicelinks.site/tags/软件) · [`工作效率`](https://nicelinks.site/tags/工作效率)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`软件`](https://site.lovejade.cn/tags/软件) · [`工作效率`](https://site.lovejade.cn/tags/工作效率)
 
 > Atlassian`s team collaboration software like Jira, Confluence and Trello help teams organize, discuss, and complete shared work.
 
@@ -12,7 +12,7 @@
 
 **推荐语**：[Atlassian](https://www.atlassian.com/) 是一家澳大利亚软件公司，由 Mike Cannon-Brookes 和 Scott Farquhar 创建于 2002 年（ Jira 1.0 的推出），总部位于悉尼，在美国、英国、荷兰、菲律宾、巴西、日本等地设有分支机构；截止 2023 年 09 月，拥有 7000 名员工，遍布在 13 个国家和地区，客户超过 200000 家，在 Marketplace 中的应用超过 4,000 个，社区成员超过 400 万。
 
-他们主要开发和销售企业级软件，包括团队协作、项目管理、软件开发等领域的产品。其中比较知名的产品有 [Jira](https://www.atlassian.com/zh/software/jira/work-management) 、 [Confluence](https://www.atlassian.com/zh/software/confluence) 、 [Atlas](https://www.atlassian.com/zh/software/atlas) 、 [Trello](https://nicelinks.site/post/5ce69c6746395f0822df9d6b) 等。这些产品可以帮助企业提高工作效率、协作效果和项目管理能力（如果您从事软硬件开发，想必多半有使用过他们提供的产品）。
+他们主要开发和销售企业级软件，包括团队协作、项目管理、软件开发等领域的产品。其中比较知名的产品有 [Jira](https://www.atlassian.com/zh/software/jira/work-management) 、 [Confluence](https://www.atlassian.com/zh/software/confluence) 、 [Atlas](https://www.atlassian.com/zh/software/atlas) 、 [Trello](https://site.lovejade.cn/post/5ce69c6746395f0822df9d6b) 等。这些产品可以帮助企业提高工作效率、协作效果和项目管理能力（如果您从事软硬件开发，想必多半有使用过他们提供的产品）。
 
 - `Jira`：Jira Work Management 助力业务团队一站式轻松完成协作、协调和交付工作（团队开发中常用）。
 - `Confluence`：是适合远程操作的团队工作区，可有效融合**知识与协作**（工作中极为常用）。
@@ -21,11 +21,11 @@
 
 **生存价值观**：他们独有的价值观从最基本的层面描述了他们持有的信念。“**开放的公司，绝无虚言**、**作为一个团队 开展工作**、**用心构建，寻求平衡**、**真诚对待客户**、**实现您寻求的改变**”这五大价值观塑造了他们的文化，并影响着我们本身、他们所做的事乃至他们雇用员工的标准。这些价值观植根于他们产品的基因之中，而且在他们不断发展的过程中将始终保持不变。
 
-── 出自[倾城之链 - Collaboration software for software, IT and business teams ](https://nicelinks.site/post/6502fcd8717dd244bc3ea1e0)
+── 出自[倾城之链 - Collaboration software for software, IT and business teams ](https://site.lovejade.cn/post/6502fcd8717dd244bc3ea1e0)
 
-## [Lucide | Beautiful & consistent icon toolkit made by the community](https://nicelinks.site/post/6502f710717dd244bc3ea19b)
+## [Lucide | Beautiful & consistent icon toolkit made by the community](https://site.lovejade.cn/post/6502f710717dd244bc3ea19b)
 
-**标签**：[`图标`](https://nicelinks.site/tags/图标) · [`免费`](https://nicelinks.site/tags/免费) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`图标`](https://site.lovejade.cn/tags/图标) · [`免费`](https://site.lovejade.cn/tags/免费) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
@@ -59,17 +59,17 @@ Lucide 在 GitHub 和 Discord 上拥有活跃的社区。
 
 除此之外，Lucide 提供了主流框架匹配的 npm 工具库，您可以方便地在 Svelte、React、Vue、Flutter、SolidJS 等框架中使用；Lucide 有很多自定义选项，可以将图标与您的 UI 相匹配。Lucide 试图尽可能地扩展图标集，同时忠实于最初简单的设计语言。该项目 [在 Github 仓库开源](https://lucide.dev/) ，如果您对其感兴趣，不妨移步前往从而了解更多。
 
-── 出自[倾城之链 - Lucide | Beautiful & consistent icon toolkit made by the community](https://nicelinks.site/post/6502f710717dd244bc3ea19b)
+── 出自[倾城之链 - Lucide | Beautiful & consistent icon toolkit made by the community](https://site.lovejade.cn/post/6502f710717dd244bc3ea19b)
 
-## [Home Assistant | Open source home automation that puts local control and privacy first](https://nicelinks.site/post/6501baf2717dd244bc3e9830)
+## [Home Assistant | Open source home automation that puts local control and privacy first](https://site.lovejade.cn/post/6501baf2717dd244bc3e9830)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`树莓派`](https://nicelinks.site/tags/树莓派) · [`自托管`](https://nicelinks.site/tags/自托管)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`树莓派`](https://site.lovejade.cn/tags/树莓派) · [`自托管`](https://site.lovejade.cn/tags/自托管)
 
 > Home Assistant, Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 
 ![倾城之链 - Home Assistant | Open source home automation that puts local control and privacy first](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.home-assistant.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Home Assistant](https://www.home-assistant.io/) 将本地控制和隐私放在首位的开源家庭 [自动化](https://nicelinks.site/tags/自动化) 。由全球修补匠和 DIY 爱好者社区提供支持。非常适合在 [Raspberry Pi | 树莓派](https://nicelinks.site/tags/树莓派) 或本地服务器上运行。它具有如下功能特征：
+**推荐语**：[Home Assistant](https://www.home-assistant.io/) 将本地控制和隐私放在首位的开源家庭 [自动化](https://site.lovejade.cn/tags/自动化) 。由全球修补匠和 DIY 爱好者社区提供支持。非常适合在 [Raspberry Pi | 树莓派](https://site.lovejade.cn/tags/树莓派) 或本地服务器上运行。它具有如下功能特征：
 
 ### 与 1000 多个品牌合作
 
@@ -106,11 +106,11 @@ Home Assistant 集成了一千多种不同的设备和服务。启动后，Home 
 
 Home Assistant 系统采用模块化方法构建，因此可以轻松实现对其他设备或操作的支持。该应用在 [Github 仓库开源](https://github.com/home-assistant/core) ，如果您对打造家庭自动化感兴趣，不妨移步前往从而了解更多。如果您在使用 Home Assistant 或开发组件时遇到问题，请查看 Home Assistant 官方网站的 [帮助部分以获取更多帮助和信息](https://home-assistant.io/help/) 。
 
-── 出自[倾城之链 - Home Assistant | Open source home automation that puts local control and privacy first](https://nicelinks.site/post/6501baf2717dd244bc3e9830)
+── 出自[倾城之链 - Home Assistant | Open source home automation that puts local control and privacy first](https://site.lovejade.cn/post/6501baf2717dd244bc3e9830)
 
-## [Tools for better thinking | Untools](https://nicelinks.site/post/6501a525717dd244bc3e9584)
+## [Tools for better thinking | Untools](https://site.lovejade.cn/post/6501a525717dd244bc3e9584)
 
-**标签**：[`聚合`](https://nicelinks.site/tags/聚合) · [`工具`](https://nicelinks.site/tags/工具) · [`生活指南`](https://nicelinks.site/tags/生活指南)
+**标签**：[`聚合`](https://site.lovejade.cn/tags/聚合) · [`工具`](https://site.lovejade.cn/tags/工具) · [`生活指南`](https://site.lovejade.cn/tags/生活指南)
 
 > Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
@@ -124,17 +124,17 @@ Home Assistant 系统采用模块化方法构建，因此可以轻松实现对�
 
 更详尽的介绍， [Untools](https://untools.co/) 主要提供关于系统思考、决策、解决问题、沟通等方面所涉及的**思维工具**之介绍和使用；如作用于**决策**的 [Eisenhower Matrix 艾森豪威尔矩阵](https://untools.co/eisenhower-matrix) 、着力于**解决问题**的 [First principles | 第一性原理](https://untools.co/first-principles) 、诉诸于**系统思**考的 [Iceberg Model | 冰山模型](https://untools.co/iceberg-model) 、让您**沟通**更加高效、清晰的 [Minto Pyramid 明托金字塔](https://untools.co/minto-pyramid) 等等；如果您想在这些点有所改进，不妨考虑关注、认真阅读、深入思考，勤加使用，相信必有所获。除了思维工具集合之外，Untools 还提供[工具指南](https://untools.co/thinking-tools-guide/)、模版以及应用程序（现处于测试版本）。
 
-── 出自[倾城之链 - Tools for better thinking | Untools](https://nicelinks.site/post/6501a525717dd244bc3e9584)
+── 出自[倾城之链 - Tools for better thinking | Untools](https://site.lovejade.cn/post/6501a525717dd244bc3e9584)
 
-## [Learn C++ – Skill up with our free tutorials](https://nicelinks.site/post/650053db717dd244bc3e8a9c)
+## [Learn C++ – Skill up with our free tutorials](https://site.lovejade.cn/post/650053db717dd244bc3e8a9c)
 
-**标签**：[`编程`](https://nicelinks.site/tags/编程) · [`教程`](https://nicelinks.site/tags/教程) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`编程`](https://site.lovejade.cn/tags/编程) · [`教程`](https://site.lovejade.cn/tags/教程) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.
 
 ![倾城之链 - Learn C++ – Skill up with our free tutorials](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.learncpp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LearnCpp.com](https://www.learncpp.com/) 是一个 [免费](https://nicelinks.site/tags/免费) 网站，致力于教您如何使用 `C++` 进行 [编程](https://nicelinks.site/tags/编程) 。无论您之前是否有任何编程经验，此站点上的教程都将引导您完成编写、编译和调试 C++ 程序的所有步骤，所有步骤都带有大量示例。该网站重要目标如下：
+**推荐语**：[LearnCpp.com](https://www.learncpp.com/) 是一个 [免费](https://site.lovejade.cn/tags/免费) 网站，致力于教您如何使用 `C++` 进行 [编程](https://site.lovejade.cn/tags/编程) 。无论您之前是否有任何编程经验，此站点上的教程都将引导您完成编写、编译和调试 C++ 程序的所有步骤，所有步骤都带有大量示例。该网站重要目标如下：
 
 - **涵盖编程主题**以及 C++。传统教科书在教授给定编程语言的基础知识方面做得相当不错，但它们通常不涵盖该语言附带的相关编程主题。例如，书籍将省略有关编程风格、常见陷阱、调试、好/坏编程实践和测试的部分。因此，当你读完这本书时，你可能会了解如何用一种语言进行编程，但你也可能养成了坏习惯，这些坏习惯稍后会反过来咬你一口！这些教程的目标之一是确保在自然有意义的讨论部分中涵盖所有这些附带主题。完成后，您不仅会知道如何使用 C++ 进行编程，还会知道如何不使用 C++ 进行编程，这可以说同样重要。
 
@@ -144,13 +144,13 @@ Home Assistant 系统采用模块化方法构建，因此可以轻松实现对�
 
 - **最重要的是**：玩得开心。编程可以很有趣，如果你通常没有乐趣，那么你就没有以正确的心态进行编程。疲惫或不快乐的程序员会犯错误，而调试代码往往比一开始就正确编写代码花费的时间要长得多！通常，您可以通过上床睡觉、睡个好觉并在早上继续处理问题来节省一些时间。
 
-《庄子·天道》中有记录 [轮扁斫轮](https://memo.lovejade.cn/m/266) 之典故；其中，轮扁所提到的那些无法传授的知识，其实是真正影响我们认知和能力的决定性因素，那就是体验，因为所有的知识全都要亲自体验才能明白。时至今日，固然有 ChatGPT 等一众强大 [AI](https://nicelinks.site/tags/AI) 工具，可以帮使用者获取很多知识、解决诸多问题；但真正掌握强大技术，仍需要深入原理，亲身实践；须知：”纸上来得终觉浅，绝知此事要躬行“。成为专家不会一蹴而就，但只要有一点耐心，你就会成功。LearnCpp.com 将为您指明方向。
+《庄子·天道》中有记录 [轮扁斫轮](https://memo.lovejade.cn/m/266) 之典故；其中，轮扁所提到的那些无法传授的知识，其实是真正影响我们认知和能力的决定性因素，那就是体验，因为所有的知识全都要亲自体验才能明白。时至今日，固然有 ChatGPT 等一众强大 [AI](https://site.lovejade.cn/tags/AI) 工具，可以帮使用者获取很多知识、解决诸多问题；但真正掌握强大技术，仍需要深入原理，亲身实践；须知：”纸上来得终觉浅，绝知此事要躬行“。成为专家不会一蹴而就，但只要有一点耐心，你就会成功。LearnCpp.com 将为您指明方向。
 
-── 出自[倾城之链 - Learn C++ – Skill up with our free tutorials](https://nicelinks.site/post/650053db717dd244bc3e8a9c)
+── 出自[倾城之链 - Learn C++ – Skill up with our free tutorials](https://site.lovejade.cn/post/650053db717dd244bc3e8a9c)
 
-## [Oh My Zsh - a delightful & open source framework for Zsh](https://nicelinks.site/post/64ff0863beb19d739ba5fa31)
+## [Oh My Zsh - a delightful & open source framework for Zsh](https://site.lovejade.cn/post/64ff0863beb19d739ba5fa31)
 
-**标签**：[`命令行`](https://nicelinks.site/tags/命令行) · [`开源`](https://nicelinks.site/tags/开源) · [`Shell`](https://nicelinks.site/tags/Shell)
+**标签**：[`命令行`](https://site.lovejade.cn/tags/命令行) · [`开源`](https://site.lovejade.cn/tags/开源) · [`Shell`](https://site.lovejade.cn/tags/Shell)
 
 > Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 
@@ -181,13 +181,13 @@ sh -c“$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/in
 
 > 目前常用的 Linux 系统和 OS X 系统的默认 Shell 都是 bash，但是真正强大的 Shell 是深藏不露的 zsh， 这货绝对是马车中的跑车，跑车中的飞行车，史称『终极 Shell』，但是由于配置过于复杂，所以初期无人问津，很多人跑过来看看 zsh 的配置指南，什么都不说转身就走了。直到有一天，国外有个穷极无聊的程序员开发出了一个能够让你快速上手的 zsh 项目，叫做「oh my zsh」，Github 网址是： [oh-my-zsh | Github](https://github.com/robbyrussell/oh-my-zsh) 。这玩意就像「X 天叫你学会 C++」系列，可以让你神功速成，而且是真的。
 
-这些年来终端、Shell 工具都接触蛮多；终端诸如： [Hyper](https://nicelinks.site/post/64e76739378eb0199b988af4) 、 [Warp](https://nicelinks.site/post/624ee3edb7bf120669dbd40a) 、 [Fig](https://nicelinks.site/post/61f2984c68ba114abbae6037) 、 [Tabby](https://nicelinks.site/post/63514daf80eb7b118fa7fba3) ；Shell 工具如 [fish](https://nicelinks.site/post/63456d1abbfa9424bf721d6b) ，虽然各有特色，但最长用的还是 [iTerm2](https://nicelinks.site/post/628b9fd935bb417da9ed231b) 和 ZSH（当然，得配上这 Oh My ZSH）；引用该平台的说法：”Oh My Zsh 不会让你成为 10 倍的开发者……但你可能会感觉像这样“。值得一提的是，该项目在 [Github 仓库开源](https://github.com/ohmyzsh/ohmyzsh) （截止 2023 年 09 月 11 日 共获得超过 162K Star），如果您对其感兴趣，不妨移步前往从而了解更多。
+这些年来终端、Shell 工具都接触蛮多；终端诸如： [Hyper](https://site.lovejade.cn/post/64e76739378eb0199b988af4) 、 [Warp](https://site.lovejade.cn/post/624ee3edb7bf120669dbd40a) 、 [Fig](https://site.lovejade.cn/post/61f2984c68ba114abbae6037) 、 [Tabby](https://site.lovejade.cn/post/63514daf80eb7b118fa7fba3) ；Shell 工具如 [fish](https://site.lovejade.cn/post/63456d1abbfa9424bf721d6b) ，虽然各有特色，但最长用的还是 [iTerm2](https://site.lovejade.cn/post/628b9fd935bb417da9ed231b) 和 ZSH（当然，得配上这 Oh My ZSH）；引用该平台的说法：”Oh My Zsh 不会让你成为 10 倍的开发者……但你可能会感觉像这样“。值得一提的是，该项目在 [Github 仓库开源](https://github.com/ohmyzsh/ohmyzsh) （截止 2023 年 09 月 11 日 共获得超过 162K Star），如果您对其感兴趣，不妨移步前往从而了解更多。
 
-── 出自[倾城之链 - Oh My Zsh - a delightful & open source framework for Zsh](https://nicelinks.site/post/64ff0863beb19d739ba5fa31)
+── 出自[倾城之链 - Oh My Zsh - a delightful & open source framework for Zsh](https://site.lovejade.cn/post/64ff0863beb19d739ba5fa31)
 
-## [AIHub – 免费齐全的 AI 工具箱 | 精选 800+ AI 工具集合网站导航](https://nicelinks.site/post/64fdaf9f6de3e95b7e26e06b)
+## [AIHub – 免费齐全的 AI 工具箱 | 精选 800+ AI 工具集合网站导航](https://site.lovejade.cn/post/64fdaf9f6de3e95b7e26e06b)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`AI`](https://nicelinks.site/tags/AI) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`AI`](https://site.lovejade.cn/tags/AI) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：AIHub, AIHub 官网, AI 工具, AI 工具箱, AI 工具集, AI 工具导航, AI 工具大全, AI 网站大全, AI 软件大全, AI 工具库, AI 工具集导航
 
@@ -195,15 +195,15 @@ sh -c“$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/in
 
 ![倾城之链 - AIHub – 免费齐全的 AI 工具箱 | 精选 800+ AI 工具集合网站导航](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aihub.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AIHub](https://www.aihub.cn/) ，免费齐全的 AI [工具](https://nicelinks.site/tags/工具) 箱，精选国内外 800+ 优质 [AI](https://nicelinks.site/tags/AI) 工具、资源和 [资讯](https://nicelinks.site/tags/资讯) ，包括 AI 绘画工具、AI 写作工具、AI 对话聊天工具、AI 音视频工具、AI 办公工具、AI 游戏制作工具、AI 营销工具等 AI 工具大全。
+**推荐语**：[AIHub](https://www.aihub.cn/) ，免费齐全的 AI [工具](https://site.lovejade.cn/tags/工具) 箱，精选国内外 800+ 优质 [AI](https://site.lovejade.cn/tags/AI) 工具、资源和 [资讯](https://site.lovejade.cn/tags/资讯) ，包括 AI 绘画工具、AI 写作工具、AI 对话聊天工具、AI 音视频工具、AI 办公工具、AI 游戏制作工具、AI 营销工具等 AI 工具大全。
 
 AIHub 的目标就是帮助大家更好地了解和使用 AI 工具，让每一个人轻松使用 AI。不管你是刚刚接触 AI，还是已经有一些基础，想要进一步学习的朋友，AIHub 都希望能为你提供帮助。AIHub 的团队都是一些热爱 AI 和技术的人，每天都在努力更新和维护网站，确保他们提供的信息都是准确和及时的。
 
-── 出自[倾城之链 - AIHub – 免费齐全的 AI 工具箱 | 精选 800+ AI 工具集合网站导航](https://nicelinks.site/post/64fdaf9f6de3e95b7e26e06b)
+── 出自[倾城之链 - AIHub – 免费齐全的 AI 工具箱 | 精选 800+ AI 工具集合网站导航](https://site.lovejade.cn/post/64fdaf9f6de3e95b7e26e06b)
 
-## [Topaz Labs: AI Image Quality Software](https://nicelinks.site/post/64fc25af41aa9b054b284c35)
+## [Topaz Labs: AI Image Quality Software](https://site.lovejade.cn/post/64fc25af41aa9b054b284c35)
 
-**标签**：[`图像优化`](https://nicelinks.site/tags/图像优化) · [`AI`](https://nicelinks.site/tags/AI) · [`视频`](https://nicelinks.site/tags/视频)
+**标签**：[`图像优化`](https://site.lovejade.cn/tags/图像优化) · [`AI`](https://site.lovejade.cn/tags/AI) · [`视频`](https://site.lovejade.cn/tags/视频)
 
 > Photo and video enhancement software powered by deep learning gets you the best image quality available for noise reduction, sharpening, upscaling, and more.
 
@@ -227,13 +227,13 @@ Topaz Video AI 还将充分利用您的现代工作站，因为 Topaz 团队直�
 - **获得更自然的结果**：传统的升级通常会导致伪影。我们通过从多个帧中获取新信息来缓解这些问题。
 - **接受过视频训练**：Topaz Video AI 专门针对视频剪辑而不是静态图像进行训练。
 
-总之，Topaz Labs 旨在利用 [AI](https://nicelinks.site/tags/AI) 最大限度地提高视觉质量（ [图像优化](https://nicelinks.site/tags/图像优化) 、视频优化），照片和视频增强软件的黄金标准，专为专业人士设计并针对您的本地工作站进行了优化。支持免费试用，两款产品售价分别是 159 美金、299 美金；购买任何 Topaz 产品一次，终身拥有您的版本，包括一年免费升级。如果您对该产品感兴趣，不妨移步官网从而了解更多。
+总之，Topaz Labs 旨在利用 [AI](https://site.lovejade.cn/tags/AI) 最大限度地提高视觉质量（ [图像优化](https://site.lovejade.cn/tags/图像优化) 、视频优化），照片和视频增强软件的黄金标准，专为专业人士设计并针对您的本地工作站进行了优化。支持免费试用，两款产品售价分别是 159 美金、299 美金；购买任何 Topaz 产品一次，终身拥有您的版本，包括一年免费升级。如果您对该产品感兴趣，不妨移步官网从而了解更多。
 
-── 出自[倾城之链 - Topaz Labs: AI Image Quality Software](https://nicelinks.site/post/64fc25af41aa9b054b284c35)
+── 出自[倾城之链 - Topaz Labs: AI Image Quality Software](https://site.lovejade.cn/post/64fc25af41aa9b054b284c35)
 
-## [DocHub 分享优质文档](https://nicelinks.site/post/64fc1a1f41aa9b054b2847a7)
+## [DocHub 分享优质文档](https://site.lovejade.cn/post/64fc1a1f41aa9b054b2847a7)
 
-**标签**：[`文档`](https://nicelinks.site/tags/文档) · [`平台`](https://nicelinks.site/tags/平台) · [`聚合`](https://nicelinks.site/tags/聚合)
+**标签**：[`文档`](https://site.lovejade.cn/tags/文档) · [`平台`](https://site.lovejade.cn/tags/平台) · [`聚合`](https://site.lovejade.cn/tags/聚合)
 
 **关键字**：DocHub, 优质文档共享, 飞书文档, 腾讯文档, Notion
 
@@ -241,13 +241,13 @@ Topaz Video AI 还将充分利用您的现代工作站，因为 Topaz 团队直�
 
 ![倾城之链 - DocHub 分享优质文档](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dochub.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DocHub](https://www.dochub.wiki/) ，您的一站式优质文章和文档 [聚合](https://nicelinks.site/tags/聚合) 站点。它致力于提供一个 [平台](https://nicelinks.site/tags/平台) ，汇集了互联网上各类优秀的文章与 [文档](https://nicelinks.site/tags/文档) ，成为各行各业人士获取知识和信息的重要渠道。无论是业界的最新趋势，还是深度的技术文章，还是实用的教程指南，DocHub 都一网打尽。DocHub 的目标是将知识的力量释放出来，让每一个寻求学习与成长的人都能从中受益。
+**推荐语**：[DocHub](https://www.dochub.wiki/) ，您的一站式优质文章和文档 [聚合](https://site.lovejade.cn/tags/聚合) 站点。它致力于提供一个 [平台](https://site.lovejade.cn/tags/平台) ，汇集了互联网上各类优秀的文章与 [文档](https://site.lovejade.cn/tags/文档) ，成为各行各业人士获取知识和信息的重要渠道。无论是业界的最新趋势，还是深度的技术文章，还是实用的教程指南，DocHub 都一网打尽。DocHub 的目标是将知识的力量释放出来，让每一个寻求学习与成长的人都能从中受益。
 
 DocHub 搜罗了腾讯文档、飞书文档、Notion 等众多平台的公开分享的优质资料，涵盖了技术、商业、艺术、学术等各个领域，构建了一座广博而深厚的知识库。同时，DocHub 欢迎全球的用户提交优质的文章或文档，共享知识，共创价值。
 
 DocHub 严格筛选提交的资料，确保每一份都是真正的优质内容。您也可以通过「 [提交文档](https://www.dochub.wiki/add-doc) 」帮助 DocHub 补充更加优质的内容；您提交的内容将在 24 小时内审核并补充到站点，让更多的人能够及时获取到高质量的知识资料。在这个信息爆炸的时代，DocHub 将成为你的知识灯塔，帮你筛选出有价值的内容，让你更专注于学习和提升。
 
-── 出自[倾城之链 - DocHub 分享优质文档](https://nicelinks.site/post/64fc1a1f41aa9b054b2847a7)
+── 出自[倾城之链 - DocHub 分享优质文档](https://site.lovejade.cn/post/64fc1a1f41aa9b054b2847a7)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

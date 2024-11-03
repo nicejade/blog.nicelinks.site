@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Photo Lab • The easiest way to make your photos look awesome](https://nicelinks.site/post/61137520c4382e0655022155)
+## [Photo Lab • The easiest way to make your photos look awesome](https://site.lovejade.cn/post/61137520c4382e0655022155)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`工具`](https://nicelinks.site/tags/工具) · [`照片`](https://nicelinks.site/tags/照片)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`工具`](https://site.lovejade.cn/tags/工具) · [`照片`](https://site.lovejade.cn/tags/照片)
 
 > Thousands of combinations of top-notch photo effects, filters & face montages to garnish your photos. Join our community and start creating your own edits.
 
@@ -12,11 +12,11 @@
 
 **推荐语**：[Photo Lab](https://photolab.me/)，一款让你的照片看起来很棒的工具。[Photo Lab](https://photolab.me/) 提供数以千计的顶级照片效果的组合，包含过滤器、脸部蒙太奇、卡通化、虚化等等，以点缀你的照片。[Photo Lab](https://photolab.me/) 使用非常的简单，您发现自己喜欢的组合效果示例，只需点进去，应用于您的照片（即选择您的照片），即可得到绚丽图片（带水印），您可以选择下载，或分享到社交平台。值得一提的是，除了 Web 版本，[Photo Lab](https://photolab.me/) 还提供了 Android、iOS 原生应用程序。
 
-── 出自[倾城之链 - Photo Lab • The easiest way to make your photos look awesome](https://nicelinks.site/post/61137520c4382e0655022155)
+── 出自[倾城之链 - Photo Lab • The easiest way to make your photos look awesome](https://site.lovejade.cn/post/61137520c4382e0655022155)
 
-## [有道精品课 - 为你精选好课](https://nicelinks.site/post/61151af2c4382e0655022159)
+## [有道精品课 - 为你精选好课](https://site.lovejade.cn/post/61151af2c4382e0655022159)
 
-**标签**：[`教育`](https://nicelinks.site/tags/教育) · [`平台`](https://nicelinks.site/tags/平台) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`教育`](https://site.lovejade.cn/tags/教育) · [`平台`](https://site.lovejade.cn/tags/平台) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：有道, 有道精品课, 网易, 网易有道, youdao, 网易公开课, 作业, 学习, 网课, 教育, 课堂, 课程, 名师, 听课, 辅导, 英语, 数学, 语文, 大学, 初中, 高中, 小学, 考研, 学英语, 学习辅导, 学习软件, 空中课堂, 直播课, 学英语软件, 背单词, 口语, 英语音标, 四级, 六级, 四六级, TED 英语演讲, 英语单词, 英语语法, 英语四级, 英语 4 级, 托福, 雅思, 逻辑英语, 英语作文, 英语讲课, 英语课程, 大学生 mooc, 大学英语四级, 大学资源网, 考研核心词速记, 考神有道, 考试点考研, 英语六级词汇, 英语四级作文, 英语直播课, 英语笔译, 英语网课, 英语考试, 英语考试题, 英语语法时态介词, 英语语法软件, 英语课, 英语课文, 英语题,
 
@@ -26,11 +26,11 @@
 
 **推荐语**：[有道精品课](https://ke.youdao.com/)，是网易集团旗下以技术驱动产品的教育科技公司，打造的一系列大众学习产品。目前已推出覆盖从少儿到大学全年龄段的课程，涵盖小学、初中、高中、四六级、实用英语、考研、兴趣技能、专四专八、职业、雅思托福、编程开发、小语种、少儿编程、学前教育、少儿美术等方向；据官方描述，[有道精品课](https://ke.youdao.com/)同时提供完整的技术平台，推出达尔文智能教学系统，包括：课程直播录播系统、题库系统、模考系统、作业批改系统等，用 AI 和技术实现因材施教，提高用户的学习效率（还没得到亲身验证）；从网站上看，部分内容免费；除了网站，[有道精品课](https://ke.youdao.com/)还提供有原生应用程序，感兴趣的朋友，不妨一试。
 
-── 出自[倾城之链 - 有道精品课 - 为你精选好课](https://nicelinks.site/post/61151af2c4382e0655022159)
+── 出自[倾城之链 - 有道精品课 - 为你精选好课](https://site.lovejade.cn/post/61151af2c4382e0655022159)
 
-## [网易云音乐](https://nicelinks.site/post/6113b4b0c4382e0655022157)
+## [网易云音乐](https://site.lovejade.cn/post/6113b4b0c4382e0655022157)
 
-**标签**：[`音乐`](https://nicelinks.site/tags/音乐) · [`分享`](https://nicelinks.site/tags/分享) · [`网易`](https://nicelinks.site/tags/网易)
+**标签**：[`音乐`](https://site.lovejade.cn/tags/音乐) · [`分享`](https://site.lovejade.cn/tags/分享) · [`网易`](https://site.lovejade.cn/tags/网易)
 
 **关键字**：网易云音乐，音乐，播放器，网易，下载，播放，DJ，免费，明星，精选，歌单，识别音乐，收藏，分享音乐，音乐互动，高音质，320K，音乐社交，官网，music.163.com
 
@@ -50,11 +50,11 @@
 
 值得一提的是，[网易云音乐](https://music.163.com/)现支持 iOS、Android、Windows、 Linux 在内的多个操作系统。截至 2017 年 11 月，网易云音乐用户数量超过 4 亿，用户创建歌单达 4 亿个，用户评论数达 4 亿个。
 
-── 出自[倾城之链 - 网易云音乐](https://nicelinks.site/post/6113b4b0c4382e0655022157)
+── 出自[倾城之链 - 网易云音乐](https://site.lovejade.cn/post/6113b4b0c4382e0655022157)
 
-## [Anyfiddle - The easiest way to code online](https://nicelinks.site/post/6113477dc4382e0655022153)
+## [Anyfiddle - The easiest way to code online](https://site.lovejade.cn/post/6113477dc4382e0655022153)
 
-**标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`代码`](https://nicelinks.site/tags/代码) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`编辑器`](https://site.lovejade.cn/tags/编辑器) · [`代码`](https://site.lovejade.cn/tags/代码) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > Build, run and share code in seconds with our free online code editor
 
@@ -78,7 +78,7 @@
 
 这一切都在云端，可以从任何地方访问。您的代码只需点击几下。获得与 VSCode 类似的编辑体验并获得完整的终端访问权限，所有这些都在 Web 浏览器中。
 
-── 出自[倾城之链 - Anyfiddle - The easiest way to code online](https://nicelinks.site/post/6113477dc4382e0655022153)
+── 出自[倾城之链 - Anyfiddle - The easiest way to code online](https://site.lovejade.cn/post/6113477dc4382e0655022153)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

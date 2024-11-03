@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Frontend developer tools, all-in-one place!](https://nicelinks.site/post/626144f296c4c82f728e8434)
+## [Frontend developer tools, all-in-one place!](https://site.lovejade.cn/post/626144f296c4c82f728e8434)
 
-**标签**：[`前端开发`](https://nicelinks.site/tags/前端开发) · [`开发者`](https://nicelinks.site/tags/开发者) · [`聚合`](https://nicelinks.site/tags/聚合)
+**标签**：[`前端开发`](https://site.lovejade.cn/tags/前端开发) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`聚合`](https://site.lovejade.cn/tags/聚合)
 
 **关键字**：web developer, developer, website design, web designer, webdev tools, indie maker
 
@@ -14,11 +14,11 @@
 
 **推荐语**：[devtooly.com](https://devtooly.com/)（为开发者而生），一个面向**前端开发人员**的工具目录，按**类别**组织以方便使用。其中聚合类别（方向）很多，诸如：CSS 效果生成器、渐变调色板 🎨、图标、插图、动画库、产品模型、学习资源、设计理念、无代码（No Code）、Chrome 扩展等等；每个方向，也都收录了很多业界较好的产品（看起来都是以英文为主）；对网站地址、描述，收录日期，推荐人等信息，也做了说明。如果您从事 Web 前端开发，或收藏下，在相关方向工具选取上，以做参考。
 
-── 出自[倾城之链 - Frontend developer tools, all-in-one place!](https://nicelinks.site/post/626144f296c4c82f728e8434)
+── 出自[倾城之链 - Frontend developer tools, all-in-one place!](https://site.lovejade.cn/post/626144f296c4c82f728e8434)
 
-## [Uptime Kuma](https://nicelinks.site/post/625eb42bac29ce06470af87d)
+## [Uptime Kuma](https://site.lovejade.cn/post/625eb42bac29ce06470af87d)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`工具`](https://nicelinks.site/tags/工具) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`工具`](https://site.lovejade.cn/tags/工具) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > A self-hosted monitoring tool.
 
@@ -45,13 +45,13 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 当然，您如果喜欢，也可以基于 Docker Compose 来安装，详情可参见文章：[如何基于 Docker 部署 Uptime Kuma 服务？](https://forum.lovejade.cn/d/166-docker-uptime-kuma)。
 
-[Uptime Kuma](https://uptime.kuma.pet/) 服务，在我来看非常有价值；可将其部署起来，监控正在维护的各种服务（如[倾城之链](https://nicelinks.site/)、[曼妙句子](https://read.lovejade.cn/)）；倘若应用出现问题，使得我能在第一时间知道，从而快速排查并修复，从而最大限度降低损失。
+[Uptime Kuma](https://uptime.kuma.pet/) 服务，在我来看非常有价值；可将其部署起来，监控正在维护的各种服务（如[倾城之链](https://site.lovejade.cn/)、[曼妙句子](https://read.lovejade.cn/)）；倘若应用出现问题，使得我能在第一时间知道，从而快速排查并修复，从而最大限度降低损失。
 
-── 出自[倾城之链 - Uptime Kuma](https://nicelinks.site/post/625eb42bac29ce06470af87d)
+── 出自[倾城之链 - Uptime Kuma](https://site.lovejade.cn/post/625eb42bac29ce06470af87d)
 
-## [Puppeteer | Headless Chrome Node.js API](https://nicelinks.site/post/625c3735ac29ce06470af877)
+## [Puppeteer | Headless Chrome Node.js API](https://site.lovejade.cn/post/625c3735ac29ce06470af877)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`Chrome`](https://nicelinks.site/tags/Chrome) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`Chrome`](https://site.lovejade.cn/tags/Chrome) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 **关键字**：Puppeteer, Headless Chrome, Node.js API, Node library, Web, DevTools Protocol, Chromium, 开发者工具, 测试, 自动化, 爬虫, 浏览器
 
@@ -72,17 +72,17 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 - 创建一个最新的自动化测试环境；
 - 捕获您的网站的时间线跟踪，以帮助诊断性能问题；
 
-就拿本站[倾城之链](https://nicelinks.site/)（基于 Vue 所开发的单页应用（SPA））来讲，很多场景就运用了 `Puppeteer` ；比如：SEO 优化，就有使用到 Puppeteer。针对浏览器蜘蛛爬取，则返回 `Puppeteer` 抓取并预先呈现的内容。此外，用户所提交的网站，在后台审核通过后，也是基于 `Puppeteer` 来自动截图网站首页图片并保存。
+就拿本站[倾城之链](https://site.lovejade.cn/)（基于 Vue 所开发的单页应用（SPA））来讲，很多场景就运用了 `Puppeteer` ；比如：SEO 优化，就有使用到 Puppeteer。针对浏览器蜘蛛爬取，则返回 `Puppeteer` 抓取并预先呈现的内容。此外，用户所提交的网站，在后台审核通过后，也是基于 `Puppeteer` 来自动截图网站首页图片并保存。
 
 早在 2017 年，就有使用 `Puppeteer`，并写了诸如：[大前端神器安利之 Puppeteer](https://www.jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/) 等文章，时隔多年，`Puppeteer` 已经更新至 `V1.17.0`，其丰富的 API，基本上可以覆盖用户在浏览器进行的任何操作；如果您的工作，涉及到浏览器操作，完全可以基于 Puppeteer 工具，来使其**自动化**运转，从而提升工作效率、减少时间消耗、改善生活品质。
 
 另外，值得一提的是，`Puppeteer` 是基于 Node.js 的工具库，您只需会写 JavaScript 代码，即可轻松玩转，详情可参见 [Puppeteer 文档](https://pptr.dev/)说明。当然，`写代码`并不是必须的，[Headless Recorder](https://github.com/checkly/headless-recorder)：是一个 Chrome 扩展程序，可以记录您的浏览器交互（操作），并生成 Playwright 或 Puppeteer 脚本，您完全可以基于这款 Chrome 扩展，来辅助您生成自动化脚本；如此一来，无论您是否会编码，皆能轻松基于 Puppeteer 开启您的自动化之旅。关于 Puppeteer 更多使用场景、以及使用方法，后续将会总结更多文章分享，敬请期待。
 
-── 出自[倾城之链 - Puppeteer | Headless Chrome Node.js API](https://nicelinks.site/post/625c3735ac29ce06470af877)
+── 出自[倾城之链 - Puppeteer | Headless Chrome Node.js API](https://site.lovejade.cn/post/625c3735ac29ce06470af877)
 
-## [印象笔记 | 工作必备效率应用](https://nicelinks.site/post/625be4cbac29ce06470af875)
+## [印象笔记 | 工作必备效率应用](https://site.lovejade.cn/post/625be4cbac29ce06470af875)
 
-**标签**：[`思维导图`](https://nicelinks.site/tags/思维导图) · [`时间管理`](https://nicelinks.site/tags/时间管理) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`思维导图`](https://site.lovejade.cn/tags/思维导图) · [`时间管理`](https://site.lovejade.cn/tags/时间管理) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 **关键字**：印象笔记, 笔记软件, 云笔记, 思维导图, 脑图, 办公软件, 在线笔记, markdown, OCR, 便签, 笔记, 记事本, 头脑风暴, 时间管理, 日志, todo, 知识管理, 任务管理, 扫描, 扫描全能王网页版, 工作效率, office, 在线文档, yinxiang, evernote, 协同办公, OKR, 超级笔记, 在线编辑, 大纲笔记, 文档管理, PDF 编辑, 清单, 日记, 有道云笔记, 幕布, Xmind, Markdown 在线编辑器
 
@@ -117,7 +117,7 @@ docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name upti
 
 早在 2014 年左右，有接触并高频使用`印象笔记`，后续，记录相关就渐渐转移至**个人博客**；多年过去，它的功能已经到了如此丰富的地步；有需要的朋友，可以尝试使用。
 
-── 出自[倾城之链 - 印象笔记 | 工作必备效率应用](https://nicelinks.site/post/625be4cbac29ce06470af875)
+── 出自[倾城之链 - 印象笔记 | 工作必备效率应用](https://site.lovejade.cn/post/625be4cbac29ce06470af875)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

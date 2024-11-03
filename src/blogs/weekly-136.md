@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Swiper - The Most Modern Mobile Touch Slider](https://nicelinks.site/post/650c50faec1421174455c2fc)
+## [Swiper - The Most Modern Mobile Touch Slider](https://site.lovejade.cn/post/650c50faec1421174455c2fc)
 
-**标签**：[`组件`](https://nicelinks.site/tags/组件) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`组件`](https://site.lovejade.cn/tags/组件) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
@@ -27,11 +27,11 @@
 
 除此之外，循环模式、自动播放、键盘控制、鼠标滚轮控制、嵌套滑块、历史导航、哈希导航、断点配置等功能；需要说明的是：Swiper 并不与所有平台兼容，它是一种现代触摸滑块，仅专注于现代应用程序/平台，以带来最佳体验和简单性。Swiper 号称最现代的移动触摸滑块，具有硬件加速转换功能，该项目在 [Github 仓库开源](https://github.com/nolimits4web/swiper) （截止 2023 年 09 月 21 日已获得超过 36.5K+ Star），如果您对其感兴趣，不妨移步前往从而了解更多。
 
-── 出自[倾城之链 - Swiper - The Most Modern Mobile Touch Slider](https://nicelinks.site/post/650c50faec1421174455c2fc)
+── 出自[倾城之链 - Swiper - The Most Modern Mobile Touch Slider](https://site.lovejade.cn/post/650c50faec1421174455c2fc)
 
-## [Loopple: Template Builder for Modern Websites & Dashboards](https://nicelinks.site/post/650c343cec1421174455c1fa)
+## [Loopple: Template Builder for Modern Websites & Dashboards](https://site.lovejade.cn/post/650c343cec1421174455c1fa)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`网站`](https://nicelinks.site/tags/网站)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`Tailwind`](https://site.lovejade.cn/tags/Tailwind) · [`网站`](https://site.lovejade.cn/tags/网站)
 
 > Unlock your design potential with our Template Builder. Create modern website and dashboard templates effortlessly and elevate your projects.
 
@@ -43,13 +43,13 @@
 - **网站模板生成器**：选择一种风格，并使用 Loopple 流行的框架轻松创建令人惊叹的网站或登陆页面。
 - **高品质响应式网站和仪表板模板**：发现多种设计，找到适合您需求的完美响应式网站或仪表板模板。轻松自定义图像、内容和风格，使其成为您自己的。
 
-**Loopple 是怎么运行的**？Loopple 可帮助您更快地构建仪表板和网站模板，从而显着缩短您的开发时间。我们的平台使您能够使用 [Bootstrap](https://nicelinks.site/post/64354a42bde7286cc29df2b7) 、 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 和 Chakra UI 等流行框架创建模板，从而实现更大的灵活性和定制性。
+**Loopple 是怎么运行的**？Loopple 可帮助您更快地构建仪表板和网站模板，从而显着缩短您的开发时间。我们的平台使您能够使用 [Bootstrap](https://site.lovejade.cn/post/64354a42bde7286cc29df2b7) 、 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 和 Chakra UI 等流行框架创建模板，从而实现更大的灵活性和定制性。
 
-── 出自[倾城之链 - Loopple: Template Builder for Modern Websites & Dashboards](https://nicelinks.site/post/650c343cec1421174455c1fa)
+── 出自[倾城之链 - Loopple: Template Builder for Modern Websites & Dashboards](https://site.lovejade.cn/post/650c343cec1421174455c1fa)
 
-## [Kyugo | Your personal time-assistant](https://nicelinks.site/post/650c27d1ec1421174455c0e2)
+## [Kyugo | Your personal time-assistant](https://site.lovejade.cn/post/650c27d1ec1421174455c0e2)
 
-**标签**：[`时间管理`](https://nicelinks.site/tags/时间管理) · [`工作效率`](https://nicelinks.site/tags/工作效率) · [`生活`](https://nicelinks.site/tags/生活)
+**标签**：[`时间管理`](https://site.lovejade.cn/tags/时间管理) · [`工作效率`](https://site.lovejade.cn/tags/工作效率) · [`生活`](https://site.lovejade.cn/tags/生活)
 
 > It’s time to reinvent the calendar. Take control of your day with ease. Kyugo guards your work-life balance that always seemed just outside of your grasp, until now. It automatically solves your schedule for work, meetings, and your free time.
 
@@ -72,11 +72,11 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 除了上述之外，Kyugo 即将推出共多功能；如果您对其感兴趣，可以下载体验，或者前往官网了解更多。总而言之，Kyugo 是您的私人时间助手，是您工作与生活平衡的守护者。它会自动在会议之间有意义地分配您的一天，从而实现不间断的工作和愉快的生活。
 
-── 出自[倾城之链 - Kyugo | Your personal time-assistant](https://nicelinks.site/post/650c27d1ec1421174455c0e2)
+── 出自[倾城之链 - Kyugo | Your personal time-assistant](https://site.lovejade.cn/post/650c27d1ec1421174455c0e2)
 
-## [WebContainers - Dev environments. In your web app](https://nicelinks.site/post/650837b4ec1421174455af59)
+## [WebContainers - Dev environments. In your web app](https://site.lovejade.cn/post/650837b4ec1421174455af59)
 
-**标签**：[`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`NodeJS`](https://site.lovejade.cn/tags/NodeJS) · [`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Build the future of web based coding experiences, from interactive tutorials to instant production-ready dev environments.
 
@@ -98,7 +98,7 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 ### 积累以前不可能的丰富开发经验
 
-- **互动教程**：学习 [SvelteKit](https://nicelinks.site/post/62ea86c3bea86d1ae27b7bd2) ，一个完整的堆栈框架，在其自定义编辑器中，在 WebContainers 上运行，所有这些都在浏览器中进行。
+- **互动教程**：学习 [SvelteKit](https://site.lovejade.cn/post/62ea86c3bea86d1ae27b7bd2) ，一个完整的堆栈框架，在其自定义编辑器中，在 WebContainers 上运行，所有这些都在浏览器中进行。
 - **低代码/无代码**：一个无压力的编辑器，使非技术贡献者能够通过实时、一次性预览来制作自己的 PR，以确认无错误的构建。
 - **人工智能应用**：正在为 AI 原生 IDE 奠定基础 - 其副驾驶可以跨服务器和客户端理解并在完整的运行时上下文中进行操作。
 
@@ -108,19 +108,19 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 - **削减服务器成本**：WebContainer API 仅需要本地 CPU 和浏览器的计算能力，消除了管理远程服务器的成本和开销。
 - 发货更快：无需构建或维护额外的团队。将技术支持交给 WebContainer，专注于实际运送您的产品。
 
-[StackBlitz](https://nicelinks.site/post/5bc182876d02e84b14b5e4c9) 对外发布的 WebContainer API，使得开发环境 在您的网络应用程序中；它使用 [WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae) 将 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 编译成一个 `.wasm` 文件，直接跑在了浏览器上。从而达成**不依赖后端环境，在浏览器直接起一个 Node.js 应用程序**。如果您对其感兴趣，不妨移步官网从而了解更多。
+[StackBlitz](https://site.lovejade.cn/post/5bc182876d02e84b14b5e4c9) 对外发布的 WebContainer API，使得开发环境 在您的网络应用程序中；它使用 [WebAssembly](https://site.lovejade.cn/post/618b8df4a18dec25673723ae) 将 [Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) 编译成一个 `.wasm` 文件，直接跑在了浏览器上。从而达成**不依赖后端环境，在浏览器直接起一个 Node.js 应用程序**。如果您对其感兴趣，不妨移步官网从而了解更多。
 
-── 出自[倾城之链 - WebContainers - Dev environments. In your web app](https://nicelinks.site/post/650837b4ec1421174455af59)
+── 出自[倾城之链 - WebContainers - Dev environments. In your web app](https://site.lovejade.cn/post/650837b4ec1421174455af59)
 
-## [Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.site/post/65058172ec1421174455a3ec)
+## [Instant GraphQL APIs on your data | Built-in Authz & Caching](https://site.lovejade.cn/post/65058172ec1421174455a3ec)
 
-**标签**：[`GraphQL`](https://nicelinks.site/tags/GraphQL) · [`数据库`](https://nicelinks.site/tags/数据库) · [`API`](https://nicelinks.site/tags/API)
+**标签**：[`GraphQL`](https://site.lovejade.cn/tags/GraphQL) · [`数据库`](https://site.lovejade.cn/tags/数据库) · [`API`](https://site.lovejade.cn/tags/API)
 
 > Hasura gives you instant GraphQL and REST APIs on new and existing data sources. Connect Hasura to your data & get APIs in under a minute.
 
 ![倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hasura.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hasura](https://hasura.io/) 是一款开源产品，可立即为您提供带有内置数据授权的 [GraphQL](https://nicelinks.site/tags/GraphQL) 或 REST API，从而将 API 开发速度加快 10 倍。它提供数据库上的超快速、即时实时 GraphQL API 具有细粒度的访问控制，还可触发数据库事件的 Webhooks。Hasura 具有如下功能特征：
+**推荐语**：[Hasura](https://hasura.io/) 是一款开源产品，可立即为您提供带有内置数据授权的 [GraphQL](https://site.lovejade.cn/tags/GraphQL) 或 REST API，从而将 API 开发速度加快 10 倍。它提供数据库上的超快速、即时实时 GraphQL API 具有细粒度的访问控制，还可触发数据库事件的 Webhooks。Hasura 具有如下功能特征：
 
 - **进行强大的查询**：内置过滤、分页、模式搜索、批量插入、更新、删除突变；
 - **可与现有的实时数据库配合使用**：将其指向现有数据库以立即获取即用型 GraphQL API；
@@ -133,7 +133,7 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 - **管理 UI 和迁移**：管理 UI 和 Rails 启发的架构迁移；
 - **支持的数据库**：支持 PostgreSQL（及其版本）、MS SQL Server 和 Big Query。即将推出对更多[数据库](https://hasura.io/graphql/database/)的支持。
 
-**自动化 API 开发的 #1 平台**：Hasura 是您的数据 [API](https://nicelinks.site/tags/API) 平台，可自动处理 80% 的构建、保护、优化和部署 GraphQL 和 REST API 的繁琐工作，以便您的团队可以专注于更快地取得成功。
+**自动化 API 开发的 #1 平台**：Hasura 是您的数据 [API](https://site.lovejade.cn/tags/API) 平台，可自动处理 80% 的构建、保护、优化和部署 GraphQL 和 REST API 的繁琐工作，以便您的团队可以专注于更快地取得成功。
 
 **适用于 100 多个数据源的即时 API**：使开发人员能够通过连接到现有数据库、GraphQL 和 REST API 轻松生成 API，从而无需手动创建 API，同时实现快速、可扩展的应用程序开发。
 
@@ -145,7 +145,7 @@ Kyugo 可以让您为会议、工作时间和生活创建固定的日常块，�
 
 [Hasura](https://hasura.io/) 允许数据所有者立即在其域数据上构建和发布网络规模的 API，而不会陷入微服务的复杂性中。通过灵活且可组合的 GraphQL API 快速开放访问权限，从而解锁产品团队，而不会影响安全性或质量。该项目 [在 Github 仓库开源](https://github.com/hasura/graphql-engine) （截止 2023 年 09 月 16 日，已获得 30.1K+ Star），如果您对其感兴趣，不妨移步前往从而了解更多。
 
-── 出自[倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://nicelinks.site/post/65058172ec1421174455a3ec)
+── 出自[倾城之链 - Instant GraphQL APIs on your data | Built-in Authz & Caching](https://site.lovejade.cn/post/65058172ec1421174455a3ec)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

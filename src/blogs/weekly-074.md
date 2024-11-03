@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Discover and get early access to tomorrow's startups | BetaList](https://nicelinks.site/post/62d01a5f65fb1506218fa5da)
+## [Discover and get early access to tomorrow's startups | BetaList](https://site.lovejade.cn/post/62d01a5f65fb1506218fa5da)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`创业者`](https://nicelinks.site/tags/创业者) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`创业者`](https://site.lovejade.cn/tags/创业者) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 > BetaList provides an overview of upcoming internet startups. Discover and get early access to the future.
 
@@ -14,11 +14,11 @@
 
 对于更多普通用户，您可以在 BetaList 了解当年一些创业的想法和实现，从而汲取灵感，相信无论对于您创业，或者高效工作、快乐生活，都有一定参考价值。如果您想了解更多关于 BetaList，可以参见 [BetaList FAQ](https://betalist.com/faq) 。
 
-── 出自[倾城之链 - Discover and get early access to tomorrow's startups | BetaList](https://nicelinks.site/post/62d01a5f65fb1506218fa5da)
+── 出自[倾城之链 - Discover and get early access to tomorrow's startups | BetaList](https://site.lovejade.cn/post/62d01a5f65fb1506218fa5da)
 
-## [Beat procrastination with a gamified habit tracker - Habits Garden](https://nicelinks.site/post/62d00b7765fb1506218fa5d8)
+## [Beat procrastination with a gamified habit tracker - Habits Garden](https://site.lovejade.cn/post/62d00b7765fb1506218fa5d8)
 
-**标签**：[`有趣`](https://nicelinks.site/tags/有趣) · [`独立开发者`](https://nicelinks.site/tags/独立开发者) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`有趣`](https://site.lovejade.cn/tags/有趣) · [`独立开发者`](https://site.lovejade.cn/tags/独立开发者) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 **关键字**：habits, habits tracker, build habits, habit tracker, consistency, be consistent, create habit, good habit, atomic habits, garden, habits garden, procrastination
 
@@ -30,11 +30,11 @@
 
 [Habits Garden](https://habitsgarden.com/) 界面设计非常简洁好看，还有音效和动画；作者不打算提供 IOS 或 Android 应用，您可以将 Habits Garden **添加到您的主屏幕**（通过`浏览器`），它的行为就像一个原生应用程序。您可以在智能手机、平板电脑和笔记本电脑上，使用习惯追踪器。habits garden 免费可用，当免费试用期（7 天）结束后，游戏功能被锁定（花园、任务、奖励等），您的帐户被切换到 Free-Forever Habit Tracker Plan。您可以免费使用最令人满意的习惯跟踪器，继续完成您的日常习惯！值得一提的是：该产品是作者（ @marc_louvion ）独立完成，目前在巴厘岛，天天冲浪，这个产品。每月给他带来数百美元的收入。
 
-── 出自[倾城之链 - Beat procrastination with a gamified habit tracker - Habits Garden](https://nicelinks.site/post/62d00b7765fb1506218fa5d8)
+── 出自[倾城之链 - Beat procrastination with a gamified habit tracker - Habits Garden](https://site.lovejade.cn/post/62d00b7765fb1506218fa5d8)
 
-## [Decohack-独立开发者灵感周刊](https://nicelinks.site/post/62cedc0b65fb1506218fa5d3)
+## [Decohack-独立开发者灵感周刊](https://site.lovejade.cn/post/62cedc0b65fb1506218fa5d3)
 
-**标签**：[`独立开发者`](https://nicelinks.site/tags/独立开发者) · [`分享`](https://nicelinks.site/tags/分享) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`独立开发者`](https://site.lovejade.cn/tags/独立开发者) · [`分享`](https://site.lovejade.cn/tags/分享) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 **关键字**：独立开发者, 全栈开发, UI 设计, DecoHack
 
@@ -66,11 +66,11 @@ DecoHack 的定位是：帮助独立开发者发现新产品方向（国内国�
 
 DecoHack，会在每周一早上 9 点，通过微信及邮件推送，也会在「竹白」上发布。熟悉 RSS 订阅的朋友，也可以在 RSS 来订阅。
 
-── 出自[倾城之链 - Decohack-独立开发者灵感周刊](https://nicelinks.site/post/62cedc0b65fb1506218fa5d3)
+── 出自[倾城之链 - Decohack-独立开发者灵感周刊](https://site.lovejade.cn/post/62cedc0b65fb1506218fa5d3)
 
-## [Appwrite - Open-Source End-to-End Backend Server](https://nicelinks.site/post/62cd24bbac177b7aff5e1a70)
+## [Appwrite - Open-Source End-to-End Backend Server](https://site.lovejade.cn/post/62cd24bbac177b7aff5e1a70)
 
-**标签**：[`服务`](https://nicelinks.site/tags/服务) · [`开源`](https://nicelinks.site/tags/开源) · [`Flutter`](https://nicelinks.site/tags/Flutter)
+**标签**：[`服务`](https://site.lovejade.cn/tags/服务) · [`开源`](https://site.lovejade.cn/tags/开源) · [`Flutter`](https://site.lovejade.cn/tags/Flutter)
 
 > Appwrite provides web and mobile developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.
 
@@ -108,25 +108,25 @@ DecoHack，会在每周一早上 9 点，通过微信及邮件推送，也会在
 
 为传输中和静止的后端 API 提供端到端的安全性；
 
-Appwrite，功能强大，且具备安全性和灵活性；您可以利用 Appwrite 服务加速您在任何平台上的开发。值得一提的是，Appwrite 后端服务器设计为在容器环境中运行。运行服务器就像从终端运行一个命令一样简单。您可以使用 docker-compose 在本地主机上运行 Appwrite，也可以在任何其他容器编排工具（如 [Kubernetes](https://nicelinks.site/post/5b2cad0a34c03342fda0f37e)、[Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) Swarm 或 Rancher）上运行 Appwrite。此外，Appwrite 设计合理，使用简单，可快速上手，没有额外依赖，文档详细，跨平台一致性良好。如果您有兴趣了解更多，可参见：[Appwrite Github](https://github.com/appwrite/appwrite)。
+Appwrite，功能强大，且具备安全性和灵活性；您可以利用 Appwrite 服务加速您在任何平台上的开发。值得一提的是，Appwrite 后端服务器设计为在容器环境中运行。运行服务器就像从终端运行一个命令一样简单。您可以使用 docker-compose 在本地主机上运行 Appwrite，也可以在任何其他容器编排工具（如 [Kubernetes](https://site.lovejade.cn/post/5b2cad0a34c03342fda0f37e)、[Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) Swarm 或 Rancher）上运行 Appwrite。此外，Appwrite 设计合理，使用简单，可快速上手，没有额外依赖，文档详细，跨平台一致性良好。如果您有兴趣了解更多，可参见：[Appwrite Github](https://github.com/appwrite/appwrite)。
 
-── 出自[倾城之链 - Appwrite - Open-Source End-to-End Backend Server](https://nicelinks.site/post/62cd24bbac177b7aff5e1a70)
+── 出自[倾城之链 - Appwrite - Open-Source End-to-End Backend Server](https://site.lovejade.cn/post/62cd24bbac177b7aff5e1a70)
 
-## [Ryan Dahl](https://nicelinks.site/post/62cc2079ac177b7aff5e1a6e)
+## [Ryan Dahl](https://site.lovejade.cn/post/62cc2079ac177b7aff5e1a6e)
 
-**标签**：[`Deno`](https://nicelinks.site/tags/Deno) · [`个人博客`](https://nicelinks.site/tags/个人博客) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`Deno`](https://site.lovejade.cn/tags/Deno) · [`个人博客`](https://site.lovejade.cn/tags/个人博客) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Ryan's Blog, built and deployed on Deno.
 
 ![倾城之链 - Ryan Dahl](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tinyclouds.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ryan's Blog](https://tinyclouds.org/) ，基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 构建和部署， [在 Github 开源](https://github.com/ry/tinyclouds) ，可在不到 10 秒的时间内完成部署。Ryan Dahl，出生于 1981 年，美国的软件工程师，是 “[Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899)”、“[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)” 的开发者，使得编程语言 JavaScript 可运行在非浏览器环境，为 Web 前端发展做出了巨大贡献。在 [Ryan's Blog](https://tinyclouds.org/) ，您可以读到 Ryan Dahl 关于 Deno、技术、思想等内容。
+**推荐语**：[Ryan's Blog](https://tinyclouds.org/) ，基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 构建和部署， [在 Github 开源](https://github.com/ry/tinyclouds) ，可在不到 10 秒的时间内完成部署。Ryan Dahl，出生于 1981 年，美国的软件工程师，是 “[Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899)”、“[Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591)” 的开发者，使得编程语言 JavaScript 可运行在非浏览器环境，为 Web 前端发展做出了巨大贡献。在 [Ryan's Blog](https://tinyclouds.org/) ，您可以读到 Ryan Dahl 关于 Deno、技术、思想等内容。
 
-── 出自[倾城之链 - Ryan Dahl](https://nicelinks.site/post/62cc2079ac177b7aff5e1a6e)
+── 出自[倾城之链 - Ryan Dahl](https://site.lovejade.cn/post/62cc2079ac177b7aff5e1a6e)
 
-## [Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://nicelinks.site/post/62cc1748ac177b7aff5e1a6c)
+## [Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://site.lovejade.cn/post/62cc1748ac177b7aff5e1a6c)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`Electron`](https://nicelinks.site/tags/Electron) · [`跨平台`](https://nicelinks.site/tags/跨平台)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`Electron`](https://site.lovejade.cn/tags/Electron) · [`跨平台`](https://site.lovejade.cn/tags/跨平台)
 
 > Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface.
 
@@ -175,9 +175,9 @@ Tauri 团队的首要任务是推动我们的最高优先事项和最大的创�
 
 除此之外，`tauri` 还具备自动更新、原生通知、数据存储、核心插件系统等。Tauri 是一个工具包，可帮助开发人员为主要桌面平台制作应用程序；几乎使用现有的任何前端框架。核心是用 Rust 构建的，CLI 利用 Node.js 使 Tauri 成为一种真正的多语言方法来创建和维护出色的应用程序。
 
-在基于前端技术，而构建桌面应用工具中，[Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 无疑是其中的佼佼者；`tauri` 则有意成为 Electron 替代品，主张使用 Web 前端构建更小、更快、更安全的桌面应用程序。对 Tauri 和 Electron 区别感兴趣的朋友，可参见 [Tauri 和 Electron 的比较](https://github.com/tauri-apps/tauri#comparison-between-tauri-and-electron)。
+在基于前端技术，而构建桌面应用工具中，[Electron](https://site.lovejade.cn/post/5b17d4a597006c5273505e1b) 无疑是其中的佼佼者；`tauri` 则有意成为 Electron 替代品，主张使用 Web 前端构建更小、更快、更安全的桌面应用程序。对 Tauri 和 Electron 区别感兴趣的朋友，可参见 [Tauri 和 Electron 的比较](https://github.com/tauri-apps/tauri#comparison-between-tauri-and-electron)。
 
-── 出自[倾城之链 - Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://nicelinks.site/post/62cc1748ac177b7aff5e1a6c)
+── 出自[倾城之链 - Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps](https://site.lovejade.cn/post/62cc1748ac177b7aff5e1a6c)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

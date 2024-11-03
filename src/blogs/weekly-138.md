@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Wasp | Develop full-stack web apps faster](https://nicelinks.site/post/651fc9d09bdacb5ca44f6e4f)
+## [Wasp | Develop full-stack web apps faster](https://site.lovejade.cn/post/651fc9d09bdacb5ca44f6e4f)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`全栈`](https://nicelinks.site/tags/全栈) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`全栈`](https://site.lovejade.cn/tags/全栈) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Develop full-stack web apps without boilerplate.
 
 ![倾城之链 - Wasp | Develop full-stack web apps faster](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wasp-lang.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wasp](https://wasp-lang.dev/) （Web Application Specification：Web 应用程序规范）是一个类似 Rails 的 React、Node.js 和 [Prisma](https://nicelinks.site/post/64531bfdc6f2367a83e863ff) 框架，在一天之内构建您的应用程序并使用单个 CLI 命令进行部署；**为什么 Wasp 很棒**？官方给出以下说明：
+**推荐语**：[Wasp](https://wasp-lang.dev/) （Web Application Specification：Web 应用程序规范）是一个类似 Rails 的 React、Node.js 和 [Prisma](https://site.lovejade.cn/post/64531bfdc6f2367a83e863ff) 框架，在一天之内构建您的应用程序并使用单个 CLI 命令进行部署；**为什么 Wasp 很棒**？官方给出以下说明：
 
 - 🚀**快速入门**：由于其表现力，您可以从头开始创建和部署一个生产就绪的 Web 应用程序，只需很少行简洁、一致的声明性代码。
 - 😌**无样板代码**：通过抽象出复杂的全栈功能，可以减少样板代码。这意味着需要维护和理解的代码更少！这也意味着更容易升级。
@@ -44,27 +44,27 @@ Wasp 提供了一个类型安全的 RPC 层，可以立即将您的数据模型�
 
 ### 全栈式安全
 
-完全支持 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 并自动生成跨越整个堆栈的类型。
+完全支持 [TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef) 并自动生成跨越整个堆栈的类型。
 
 除此之外，Wasp 还具有更多功能特征诸如：自定义 API 路由、数据库播种、乐观更新、客户端自动缓存失效等；**Wasp 与 Next.js / Nuxt.js / Gatsby 有何不同**？ 官方给出的答案是：Next.js 这些是前端优先的框架，具有一些有限的后端功能。Wasp 是一个全栈框架。
 
-Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个真正的全栈框架，这意味着它将后端和数据库都带到了前端。您可以将其视为 [Ruby on Rails](https://nicelinks.site/post/621646542d17f22050cf1a2d) ，但专为 JS（React 和 Node.js）和全栈而设计。 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [Gatsby](https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e) 等最初是作为静态站点的前端框架。尽管其中一些现在提供使用无服务器功能的选项，但您仍然必须携带自己的数据库，并且如果您需要运行更复杂的操作，您还需要某种服务器/后端。
+Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个真正的全栈框架，这意味着它将后端和数据库都带到了前端。您可以将其视为 [Ruby on Rails](https://site.lovejade.cn/post/621646542d17f22050cf1a2d) ，但专为 JS（React 和 Node.js）和全栈而设计。 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 、 [Gatsby](https://site.lovejade.cn/post/5e0d4f3016bdad16b0f5b20e) 等最初是作为静态站点的前端框架。尽管其中一些现在提供使用无服务器功能的选项，但您仍然必须携带自己的数据库，并且如果您需要运行更复杂的操作，您还需要某种服务器/后端。
 
-**学习 Wasp 有多难**？ 官方给出测量结果：**大约需要 30 分钟就能开始**，大多数用户发现它非常简单。由于您的大部分编码仍将在您熟悉的工具（当前是 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 和 [Node.js](https://nicelinks.site/tags/NodeJS) ）中完成，因此这实际上是对您习惯的微小改变。
+**学习 Wasp 有多难**？ 官方给出测量结果：**大约需要 30 分钟就能开始**，大多数用户发现它非常简单。由于您的大部分编码仍将在您熟悉的工具（当前是 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 和 [Node.js](https://site.lovejade.cn/tags/NodeJS) ）中完成，因此这实际上是对您习惯的微小改变。
 
 原因是 Wasp 是一种非常简单的配置语言，没有任何循环或变量 - 您可以将其视为更易于阅读并且更智能的 JSON。尽管如此，虽然很简单（我们计划保持这种方式），但它是一种真正的语言，因此您可以使用它获得所有 IDE 功能 - 语法突出显示、自动完成、实时错误报告…… [Wasp 在 Github 仓库开源](https://github.com/wasp-lang/wasp) （截止 2023 年 10 月 06 日，已获得 5.8K+ Star），如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Wasp | Develop full-stack web apps faster](https://nicelinks.site/post/651fc9d09bdacb5ca44f6e4f)
+── 出自[倾城之链 - Wasp | Develop full-stack web apps faster](https://site.lovejade.cn/post/651fc9d09bdacb5ca44f6e4f)
 
-## [Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more](https://nicelinks.site/post/651fbfc29bdacb5ca44f6c80)
+## [Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more](https://site.lovejade.cn/post/651fbfc29bdacb5ca44f6c80)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`全栈`](https://nicelinks.site/tags/全栈)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/组件库) · [`Tailwind`](https://site.lovejade.cn/tags/Tailwind) · [`全栈`](https://site.lovejade.cn/tags/全栈)
 
 > A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 
 ![倾城之链 - Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/filamentphp.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Filament](https://filamentphp.com/) 是用于加速 [Laravel](https://nicelinks.site/post/633e8f7072ba4a064e24e5d0) 开发的全栈组件的集合。使用 Livewire、 [Alpine.js](https://nicelinks.site/post/63b55fdc1653425ab90b40d9) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 。它们设计精美、使用直观且可完全扩展——是您下一个 Laravel 应用程序的完美起点。为什么要浪费时间一遍又一遍地构建相同的功能呢？Filament 包含如下内容：
+**推荐语**：[Filament](https://filamentphp.com/) 是用于加速 [Laravel](https://site.lovejade.cn/post/633e8f7072ba4a064e24e5d0) 开发的全栈组件的集合。使用 Livewire、 [Alpine.js](https://site.lovejade.cn/post/63b55fdc1653425ab90b40d9) 和 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 。它们设计精美、使用直观且可完全扩展——是您下一个 Laravel 应用程序的完美起点。为什么要浪费时间一遍又一遍地构建相同的功能呢？Filament 包含如下内容：
 
 - **面板生成器**：构建 Laravel 管理面板、面向客户的应用程序、SaaS 或任何您能想象到的东西。
 - **表格生成器**：使用超过 25 个开箱即用的组件轻松构建令人惊叹的 Livewire 驱动表单。
@@ -102,11 +102,11 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 
 总之，Laravel 漂亮的全栈组件的集合。可以   轻松**组合成动态、可维护、全栈**应用程序。Filament 在 [Github 仓库开源](https://github.com/filamentphp/filament) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more](https://nicelinks.site/post/651fbfc29bdacb5ca44f6c80)
+── 出自[倾城之链 - Filament - Accelerated Laravel development framework: admin panel, form builder, table builder and more](https://site.lovejade.cn/post/651fbfc29bdacb5ca44f6c80)
 
-## [Welcome to nix.dev — nix.dev documentation](https://nicelinks.site/post/651f807f9bdacb5ca44f6b88)
+## [Welcome to nix.dev — nix.dev documentation](https://site.lovejade.cn/post/651f807f9bdacb5ca44f6b88)
 
-**标签**：[`文档`](https://nicelinks.site/tags/文档) · [`Linux`](https://nicelinks.site/tags/Linux) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`文档`](https://site.lovejade.cn/tags/文档) · [`Linux`](https://site.lovejade.cn/tags/Linux) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：Nix, Nixpkgs, NixOS, Linux, build systems, deployment, packaging, declarative, reproducible, immutable, software, developer
 
@@ -114,7 +114,7 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 
 ![倾城之链 - Welcome to nix.dev — nix.dev  documentation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nix.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[nix.dev](https://nix.dev/) 是 [Nix](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc) 生态系统官方文档的所在地。**开发者能用 Nix 做什么**？以下几点说明了 Nix 生态系统可以实现的目标：
+**推荐语**：[nix.dev](https://nix.dev/) 是 [Nix](https://site.lovejade.cn/post/651e40e39bdacb5ca44f65fc) 生态系统官方文档的所在地。**开发者能用 Nix 做什么**？以下几点说明了 Nix 生态系统可以实现的目标：
 
 - 可重复的开发环境。
 - 通过 URL 轻松安装软件。
@@ -130,19 +130,19 @@ Wasp 与上面列出的解决方案之间的主要区别在于，Wasp 是一个�
 - 远程部署。
 - 原子升级和回滚。
 
-[Nix](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc) 这个名字源自荷兰语 `niks`，意思是\_“什么都没有”；构建操作看不到任何未明确声明为输入的内容。在 [nix.dev](https://nix.dev/) 您可以学到如何安装 Nix、Nix 语言基础知识、部署 NixOS、交叉编译（Cross Compilation）等内容；值得一提的是，该 [文档项目在 Github 上开源](https://github.com/NixOS/nix.dev) ，如果您对其感兴趣，可移步前往从而了解更多。
+[Nix](https://site.lovejade.cn/post/651e40e39bdacb5ca44f65fc) 这个名字源自荷兰语 `niks`，意思是\_“什么都没有”；构建操作看不到任何未明确声明为输入的内容。在 [nix.dev](https://nix.dev/) 您可以学到如何安装 Nix、Nix 语言基础知识、部署 NixOS、交叉编译（Cross Compilation）等内容；值得一提的是，该 [文档项目在 Github 上开源](https://github.com/NixOS/nix.dev) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Welcome to nix.dev — nix.dev documentation](https://nicelinks.site/post/651f807f9bdacb5ca44f6b88)
+── 出自[倾城之链 - Welcome to nix.dev — nix.dev documentation](https://site.lovejade.cn/post/651f807f9bdacb5ca44f6b88)
 
-## [Nix & NixOS | Reproducible builds and deployments](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc)
+## [Nix & NixOS | Reproducible builds and deployments](https://site.lovejade.cn/post/651e40e39bdacb5ca44f65fc)
 
-**标签**：[`编程`](https://nicelinks.site/tags/编程) · [`开源`](https://nicelinks.site/tags/开源) · [`Linux`](https://nicelinks.site/tags/Linux)
+**标签**：[`编程`](https://site.lovejade.cn/tags/编程) · [`开源`](https://site.lovejade.cn/tags/开源) · [`Linux`](https://site.lovejade.cn/tags/Linux)
 
 > Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
 
 ![倾城之链 - Nix & NixOS | Reproducible builds and deployments](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nixos.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nix](https://nixos.org/) 是一款功能强大的纯粹功能型的软件包管理系统，为可靠且可重复的软件包管理而设计，按照 GNU LGPLv2.1 的条款发布。它是一款不太知名的 [Linux](https://nicelinks.site/tags/Linux) 发行版 NixOS 中主要的软件包管理系统。它具有如下功能特征：
+**推荐语**：[Nix](https://nixos.org/) 是一款功能强大的纯粹功能型的软件包管理系统，为可靠且可重复的软件包管理而设计，按照 GNU LGPLv2.1 的条款发布。它是一款不太知名的 [Linux](https://site.lovejade.cn/tags/Linux) 发行版 NixOS 中主要的软件包管理系统。它具有如下功能特征：
 
 ### 可重现
 
@@ -166,11 +166,11 @@ Nix 还有多用户支持，这意味着普通(或非特权)系统用户可以�
 
 总之，Nix 是一个操作系统包管理器。同 RPM、APT 和许多其它的软件包管理系统一样，它可以用来控制软件包的安装，或已命名的，带版本号的文件组，例如软件应用及其相关的配置数据等。值得一提的是，该软件在 [Github 仓库开源](https://github.com/NixOS/nix) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Nix & NixOS | Reproducible builds and deployments](https://nicelinks.site/post/651e40e39bdacb5ca44f65fc)
+── 出自[倾城之链 - Nix & NixOS | Reproducible builds and deployments](https://site.lovejade.cn/post/651e40e39bdacb5ca44f65fc)
 
-## [Syncthing | A continuous file synchronization program](https://nicelinks.site/post/651d431d9bdacb5ca44f62a1)
+## [Syncthing | A continuous file synchronization program](https://site.lovejade.cn/post/651d431d9bdacb5ca44f62a1)
 
-**标签**：[`软件`](https://nicelinks.site/tags/软件) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`软件`](https://site.lovejade.cn/tags/软件) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers. We strive to fulfill the goals below. The goals are listed in order of importance, the most important ones first.
 
@@ -197,19 +197,19 @@ Nix 还有多用户支持，这意味着普通(或非特权)系统用户可以�
 
 假设您需要在两台计算机要在它们之间同步文件，[Syncthing](https://syncthing.net/) 是很棒的选择，它不需要云服务，可以很好保证您的隐私。值得一提的是，该项目在 [Github 仓库开源](https://github.com/syncthing/syncthing)，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Syncthing | A continuous file synchronization program](https://nicelinks.site/post/651d431d9bdacb5ca44f62a1)
+── 出自[倾城之链 - Syncthing | A continuous file synchronization program](https://site.lovejade.cn/post/651d431d9bdacb5ca44f62a1)
 
-## [代码空间](https://nicelinks.site/post/6517a66c9bdacb5ca44f4fcd)
+## [代码空间](https://site.lovejade.cn/post/6517a66c9bdacb5ca44f4fcd)
 
-**标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`编程`](https://nicelinks.site/tags/编程) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`程序员`](https://site.lovejade.cn/tags/程序员) · [`编程`](https://site.lovejade.cn/tags/编程) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 > 代码空间是一个专为程序员和编程爱好者打造的在线社区。我们致力于汇聚全球优秀的编程资源，为探索创新的代码解决方案提供平台，帮助开发者解决实际遇到的技术问题，同时发现和分享编程带来的乐趣。在这里，您可以交流心得，获取灵感，提升技能，在不断的学习和分享中实现个人成长。
 
 ![倾城之链 - 代码空间](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.codespace.vip.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[代码空间](https://www.codespace.vip/) ，是基于 [Nginx](https://nicelinks.site/post/6339a6aa35a9c117dacf2363)、PHP、JQuery 等技术栈构建的在线社区网站；旨在汇聚全球优秀的编程资源，为探索创新的代码解决方案提供平台，帮助开发者解决实际遇到的技术问题，同时发现和分享编程带来的乐趣。该网站通过接入外部广告、用户充值金币（上传资源可免费获得金币）等方式获取收入。
+**推荐语**：[代码空间](https://www.codespace.vip/) ，是基于 [Nginx](https://site.lovejade.cn/post/6339a6aa35a9c117dacf2363)、PHP、JQuery 等技术栈构建的在线社区网站；旨在汇聚全球优秀的编程资源，为探索创新的代码解决方案提供平台，帮助开发者解决实际遇到的技术问题，同时发现和分享编程带来的乐趣。该网站通过接入外部广告、用户充值金币（上传资源可免费获得金币）等方式获取收入。
 
-── 出自[倾城之链 - 代码空间](https://nicelinks.site/post/6517a66c9bdacb5ca44f4fcd)
+── 出自[倾城之链 - 代码空间](https://site.lovejade.cn/post/6517a66c9bdacb5ca44f4fcd)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Image Extractor](https://nicelinks.site/post/61b2002a48f785032a2400b0)
+## [Image Extractor](https://site.lovejade.cn/post/61b2002a48f785032a2400b0)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`工具`](https://nicelinks.site/tags/工具) · [`下载`](https://nicelinks.site/tags/下载)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`工具`](https://site.lovejade.cn/tags/工具) · [`下载`](https://site.lovejade.cn/tags/下载)
 
 **关键字**：extract images online, image extractor, download images, view images, extract images from website, download images from website, image bulk downloader, find images on website
 
@@ -27,11 +27,11 @@
 
 如果您从公共网站提取、查看和下载图像的诉求，您可按需使用相关工具；目前而言（2021 年 12 月），更推荐使用 [ImgDownloader](https://imgdownloader.com/)。
 
-── 出自[倾城之链 - Image Extractor](https://nicelinks.site/post/61b2002a48f785032a2400b0)
+── 出自[倾城之链 - Image Extractor](https://site.lovejade.cn/post/61b2002a48f785032a2400b0)
 
-## [The collaborative browser based IDE](https://nicelinks.site/post/61b1f5ff48f785032a2400ae)
+## [The collaborative browser based IDE](https://site.lovejade.cn/post/61b1f5ff48f785032a2400ae)
 
-**标签**：[`在线`](https://nicelinks.site/tags/在线) · [`IDE`](https://nicelinks.site/tags/IDE) · [`编辑器`](https://nicelinks.site/tags/编辑器)
+**标签**：[`在线`](https://site.lovejade.cn/tags/在线) · [`IDE`](https://site.lovejade.cn/tags/IDE) · [`编辑器`](https://site.lovejade.cn/tags/编辑器)
 
 > Replit is a simple yet powerful online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in 50+ programming languages.
 
@@ -50,11 +50,11 @@
 
 因为 [Replit](https://replit.com/) 直接在浏览器中编码，且支持多人协作（享受类似于 Google 文档的编辑体验，您可以在其中看到协作者的光标），因为用它来做代码相关交流、学习，看起来挺有价值。在其官方网站写道：“是为了让编程更容易上手。我们为教育者、学习者和开发者构建强大而简单的工具和平台“。
 
-── 出自[倾城之链 - The collaborative browser based IDE](https://nicelinks.site/post/61b1f5ff48f785032a2400ae)
+── 出自[倾城之链 - The collaborative browser based IDE](https://site.lovejade.cn/post/61b1f5ff48f785032a2400ae)
 
-## [腾讯兔小巢-免费便捷的用户意见反馈服务平台](https://nicelinks.site/post/61ae1bfd9b06756d7dc1a3fb)
+## [腾讯兔小巢-免费便捷的用户意见反馈服务平台](https://site.lovejade.cn/post/61ae1bfd9b06756d7dc1a3fb)
 
-**标签**：[`平台`](https://nicelinks.site/tags/平台) · [`服务`](https://nicelinks.site/tags/服务) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`平台`](https://site.lovejade.cn/tags/平台) · [`服务`](https://site.lovejade.cn/tags/服务) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > 兔小巢是腾讯推出的一款轻量、免费的用户意见反馈服务平台，旨在方便地嵌入 APP/微信公众号/QQ 公众号，为中小企业或团队快速搭建用户反馈通道，帮助产品提升服务水平和效率
 
@@ -72,13 +72,13 @@
 - **不介入数据**：只负责技术支撑，不介入任何产品数据；
 - **稳定可靠**：腾讯门神等多个安全系统为反馈数据保驾护航；
 
-其他如[语雀](https://nicelinks.site/post/5b40437e615bf842b6091043)也具有类似的功能，虽然功能后续更强大，只可惜不是所有用户都具有其账号；先前做的几款 Web（如[曼妙句子](https://support.qq.com/products/368784)） 也是采用[兔小巢](https://txc.qq.com/)作为反馈平台，省却很多麻烦；与用户沟通，相对要高效很多。对此感兴趣的朋友，可以查看[兔小巢接入文档](https://txc.qq.com/helper/fiveFaq)，从而了解更多。
+其他如[语雀](https://site.lovejade.cn/post/5b40437e615bf842b6091043)也具有类似的功能，虽然功能后续更强大，只可惜不是所有用户都具有其账号；先前做的几款 Web（如[曼妙句子](https://support.qq.com/products/368784)） 也是采用[兔小巢](https://txc.qq.com/)作为反馈平台，省却很多麻烦；与用户沟通，相对要高效很多。对此感兴趣的朋友，可以查看[兔小巢接入文档](https://txc.qq.com/helper/fiveFaq)，从而了解更多。
 
-── 出自[倾城之链 - 腾讯兔小巢-免费便捷的用户意见反馈服务平台](https://nicelinks.site/post/61ae1bfd9b06756d7dc1a3fb)
+── 出自[倾城之链 - 腾讯兔小巢-免费便捷的用户意见反馈服务平台](https://site.lovejade.cn/post/61ae1bfd9b06756d7dc1a3fb)
 
-## [Budibase | Create modern business apps in minutes](https://nicelinks.site/post/61ab30102afff60541cdbaa8)
+## [Budibase | Create modern business apps in minutes](https://site.lovejade.cn/post/61ab30102afff60541cdbaa8)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`工具`](https://nicelinks.site/tags/工具) · [`无代码`](https://nicelinks.site/tags/无代码)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`工具`](https://site.lovejade.cn/tags/工具) · [`无代码`](https://site.lovejade.cn/tags/无代码)
 
 **关键字**：Low code platform,Custom software,Web application builder,internal tools,internal tool builder
 
@@ -100,11 +100,11 @@
 
 在 [Budibase](https://budibase.com/) 关于页面写到： Budibase 是一个专为提高速度和生产力而设计的开发平台。使用 Budibase，开发人员不再经历重复、长开发周期和挫折。相反，开发人员的工作效率更高、更快乐，并且可以在几分钟内交付他们引以为豪的应用程序。其使命是：打造全球领先的商业应用生态系统。
 
-── 出自[倾城之链 - Budibase | Create modern business apps in minutes](https://nicelinks.site/post/61ab30102afff60541cdbaa8)
+── 出自[倾城之链 - Budibase | Create modern business apps in minutes](https://site.lovejade.cn/post/61ab30102afff60541cdbaa8)
 
-## [Mark Text](https://nicelinks.site/post/61ab2c6f2afff60541cdbaa6)
+## [Mark Text](https://site.lovejade.cn/post/61ab2c6f2afff60541cdbaa6)
 
-**标签**：[`Markdown`](https://nicelinks.site/tags/Markdown) · [`工具`](https://nicelinks.site/tags/工具) · [`编辑器`](https://nicelinks.site/tags/编辑器)
+**标签**：[`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`工具`](https://site.lovejade.cn/tags/工具) · [`编辑器`](https://site.lovejade.cn/tags/编辑器)
 
 > Simple and Elegant Markdown Editor Focused on speed and usability. Available for macOS, Windows and Linux.
 
@@ -127,9 +127,9 @@
 > - 如上所述，Mark Text 是完全免费和开源的，并将永远开源。我们希望所有 Markdown 爱好者都能贡献自己的代码，帮助将 Mark Text 开发成流行的 Markdown 编辑器。
 > - 有很多 Markdown 编辑器，它们都有自己的优点，有些具有其他人没有的功能。很难满足每个 Markdown 用户的需求，但我们希望 Mark Text 能够尽可能满足每个 markdown 用户。尽管最新的 Mark Text 仍然不完美，但我们会尽力做到最好。
 
-个人也喜欢写作，而且喜欢 [Markdown 编辑器](https://nicelinks.site/tags/Markdown)来书写 ✍️；已尝试过很多相关产品，但 [Mark Text](https://marktext.app/) 还是给我留下很深的印象，尤其是支持**直接从剪贴板粘贴图像**这一功能；对 Markdown 编辑器感兴趣的朋友，不妨尝试下。
+个人也喜欢写作，而且喜欢 [Markdown 编辑器](https://site.lovejade.cn/tags/Markdown)来书写 ✍️；已尝试过很多相关产品，但 [Mark Text](https://marktext.app/) 还是给我留下很深的印象，尤其是支持**直接从剪贴板粘贴图像**这一功能；对 Markdown 编辑器感兴趣的朋友，不妨尝试下。
 
-── 出自[倾城之链 - Mark Text](https://nicelinks.site/post/61ab2c6f2afff60541cdbaa6)
+── 出自[倾城之链 - Mark Text](https://site.lovejade.cn/post/61ab2c6f2afff60541cdbaa6)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

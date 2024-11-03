@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Rust Course ｜ Rust 语言圣经](https://nicelinks.site/post/65562efe9ee2a35ce709ccb8)
+## [Rust Course ｜ Rust 语言圣经](https://site.lovejade.cn/post/65562efe9ee2a35ce709ccb8)
 
-**标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`教程`](https://nicelinks.site/tags/教程) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`Rust`](https://site.lovejade.cn/tags/Rust) · [`教程`](https://site.lovejade.cn/tags/教程) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 > Rust 语言圣经涵盖从入门到精通所需的 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。
 
 ![倾城之链 - Rust Course｜Rust 语言圣经](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/course.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rust 语言圣经](https://course.rs/) ，Rust 编程语言 [教程](https://nicelinks.site/tags/教程) ；**涵盖从入门到精通**所需的 [Rust](https://nicelinks.site/tags/Rust) 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。作者在 Github 罗列了该教程如下特性：
+**推荐语**：[Rust 语言圣经](https://course.rs/) ，Rust 编程语言 [教程](https://site.lovejade.cn/tags/教程) ；**涵盖从入门到精通**所需的 [Rust](https://site.lovejade.cn/tags/Rust) 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。作者在 Github 罗列了该教程如下特性：
 
 - **深入度**，在基础教学的同时，提供了深入剖析。浅尝辄止并不能让我们站上紫禁之巅；
 - **专题内容**，将 Rust 高级内容通过专题的形式一一呈现，内容内聚性极强，例如性能优化、手把手实现链表、Cargo 和 Tokio 使用指南、async 异步编程、标准库解析、WASM 等等；
@@ -21,25 +21,25 @@
 
 作者在 `Github` 写道：“总之在写作过程中我们始终铭记初心：为中国用户打造一门**全面的、深入的、持续更新的** Rust 教程。 新手用来入门，老手用来提高，高手用来提升生产力”。
 
-[Rust](https://nicelinks.site/tags/Rust) 连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石.... 随着时间推移，越来越多项目采用 Rust 来编写，是当前炙手可热的编码语言。如果您对该教程感兴趣，可移步 [Rust Course ｜ Github 开源仓库](https://github.com/sunface/rust-course) 从而了解更多。
+[Rust](https://site.lovejade.cn/tags/Rust) 连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石.... 随着时间推移，越来越多项目采用 Rust 来编写，是当前炙手可热的编码语言。如果您对该教程感兴趣，可移步 [Rust Course ｜ Github 开源仓库](https://github.com/sunface/rust-course) 从而了解更多。
 
-── 出自[倾城之链 - Rust Course ｜ Rust 语言圣经](https://nicelinks.site/post/65562efe9ee2a35ce709ccb8)
+── 出自[倾城之链 - Rust Course ｜ Rust 语言圣经](https://site.lovejade.cn/post/65562efe9ee2a35ce709ccb8)
 
-## [Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.site/post/655602b49ee2a35ce709cb76)
+## [Tailwind UI - Official Tailwind CSS Components & Templates](https://site.lovejade.cn/post/655602b49ee2a35ce709cb76)
 
-**标签**：[`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`组件库`](https://nicelinks.site/tags/组件库) · [`CSS`](https://nicelinks.site/tags/CSS)
+**标签**：[`Tailwind`](https://site.lovejade.cn/tags/Tailwind) · [`组件库`](https://site.lovejade.cn/tags/组件库) · [`CSS`](https://site.lovejade.cn/tags/CSS)
 
 > Beautiful UI components and templates by the creators of Tailwind CSS.
 
 ![倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tailwindui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tailwind UI](https://tailwindui.com/) ，由 [Tailwind](https://nicelinks.site/tags/Tailwind) 官方出品的 [CSS](https://nicelinks.site/tags/CSS) 组件和模板，设计精美、制作精良；能帮您更快地构建您的下一个想法。超过 500 个经过专业设计、完全响应、精心制作的组件示例，您可以将其放入 Tailwind 项目中，并根据您的喜好进行定制（使用需要付费）。值得一提的是，该项目 [从副业副产品到价值数百万美元的企业](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/) ，只用了不到 5 个月时间。
+**推荐语**：[Tailwind UI](https://tailwindui.com/) ，由 [Tailwind](https://site.lovejade.cn/tags/Tailwind) 官方出品的 [CSS](https://site.lovejade.cn/tags/CSS) 组件和模板，设计精美、制作精良；能帮您更快地构建您的下一个想法。超过 500 个经过专业设计、完全响应、精心制作的组件示例，您可以将其放入 Tailwind 项目中，并根据您的喜好进行定制（使用需要付费）。值得一提的是，该项目 [从副业副产品到价值数百万美元的企业](https://adamwathan.me/tailwindcss-from-side-project-byproduct-to-multi-mullion-dollar-business/) ，只用了不到 5 个月时间。
 
-── 出自[倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://nicelinks.site/post/655602b49ee2a35ce709cb76)
+── 出自[倾城之链 - Tailwind UI - Official Tailwind CSS Components & Templates](https://site.lovejade.cn/post/655602b49ee2a35ce709cb76)
 
-## [Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://nicelinks.site/post/6554bd909ee2a35ce709c4bc)
+## [Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://site.lovejade.cn/post/6554bd909ee2a35ce709c4bc)
 
-**标签**：[`创业者`](https://nicelinks.site/tags/创业者) · [`独立开发者`](https://nicelinks.site/tags/独立开发者) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`创业者`](https://site.lovejade.cn/tags/创业者) · [`独立开发者`](https://site.lovejade.cn/tags/独立开发者) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > Learn how successful founders are building profitable online businesses and making money online with their side-projects.
 
@@ -49,11 +49,11 @@
 
 [Startups.fyi](https://www.startups.fyi/) 表示：将定期采访盈利初创公司和副项目背后的创始人和制造者 💸，您可以通过订阅他们的免费每周通讯 🤗，从而及时了解独立开发行当最新产品。另外值得一提的是，您可以在该网站分享您的项目，或者 [在 Startups.fyi 做广告](https://www.startups.fyi/sponsor) ，从而使得您的产品触达到更多人。
 
-── 出自[倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://nicelinks.site/post/6554bd909ee2a35ce709c4bc)
+── 出自[倾城之链 - Discover Profitable Startups & Online Business Ideas - Startups.fyi](https://site.lovejade.cn/post/6554bd909ee2a35ce709c4bc)
 
-## [Ark UI | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
+## [Ark UI | Fully customizable and accessible UI components](https://site.lovejade.cn/post/655368169ee2a35ce709bca2)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`开源`](https://nicelinks.site/tags/开源) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/组件库) · [`开源`](https://site.lovejade.cn/tags/开源) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 **关键字**：Headless, Components, Library, React, Solid, Vue
 
@@ -61,7 +61,7 @@
 
 ![倾城之链 - Ark UI  | Fully customizable and accessible UI components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ark-ui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Ark UI](https://ark-ui.com/) 是一个无头、开源的用户界面库，包含 30 多个组件，专为构建可重用、可扩展的设计系统而设计。它支持多种 JavaScript 框架（ [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a) ），为每个支持的框架提供专用包。可组合的 API 设计带来愉悦的体验：
+**推荐语**：[Ark UI](https://ark-ui.com/) 是一个无头、开源的用户界面库，包含 30 多个组件，专为构建可重用、可扩展的设计系统而设计。它支持多种 JavaScript 框架（ [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、 [Solid](https://site.lovejade.cn/post/6329ab4f36feb75b35987e2a) ），为每个支持的框架提供专用包。可组合的 API 设计带来愉悦的体验：
 
 ### 无样式
 
@@ -81,11 +81,11 @@ Ark UI 遵循可访问性标准和指南，确保所有用户都可以访问和�
 
 总之， [Ark UI](https://ark-ui.com/) 是一个无头库，用于构建可重用、可扩展的设计系统，适用于各种 JS 框架。利用状态机，Ark UI 大大减少了错误，同时确保每个组件的行为可预测，充满信心地发展。如果您对组件库感兴趣，可移步至 [Github 开源仓库](https://github.com/chakra-ui/ark) ，从而了解更多。
 
-── 出自[倾城之链 - Ark UI | Fully customizable and accessible UI components](https://nicelinks.site/post/655368169ee2a35ce709bca2)
+── 出自[倾城之链 - Ark UI | Fully customizable and accessible UI components](https://site.lovejade.cn/post/655368169ee2a35ce709bca2)
 
-## [MediaTek | 联发科科技官网](https://nicelinks.site/post/65521b4e9ee2a35ce709b63f)
+## [MediaTek | 联发科科技官网](https://site.lovejade.cn/post/65521b4e9ee2a35ce709b63f)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`高科技`](https://nicelinks.site/tags/高科技) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`高科技`](https://site.lovejade.cn/tags/高科技) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > 联发科技是多媒体、AI 人工智能、运算、无线通信等多项技术领域的专家，不仅有优异性能，更具备高能效，每颗芯片都蕴含我们的核心技术，赋能你使用的各种产品。
 
@@ -115,17 +115,17 @@ MediaTek Pentonic 智能电视技术可提供旗舰 8K 及超高分辨率 4K 智
 
 MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具有高速度、高覆盖、内置安全防护引擎、出色的电源效率和 EasyMesh 认证等特性，可提供更流畅且实时连接的使用体验。
 
-── 出自[倾城之链 - MediaTek | 联发科科技官网](https://nicelinks.site/post/65521b4e9ee2a35ce709b63f)
+── 出自[倾城之链 - MediaTek | 联发科科技官网](https://site.lovejade.cn/post/65521b4e9ee2a35ce709b63f)
 
-## [ShareX - The best free and open source screenshot tool for Windows](https://nicelinks.site/post/655215bd9ee2a35ce709b551)
+## [ShareX - The best free and open source screenshot tool for Windows](https://site.lovejade.cn/post/655215bd9ee2a35ce709b551)
 
-**标签**：[`截图`](https://nicelinks.site/tags/截图) · [`开源`](https://nicelinks.site/tags/开源) · [`Windows`](https://nicelinks.site/tags/Windows)
+**标签**：[`截图`](https://site.lovejade.cn/tags/截图) · [`开源`](https://site.lovejade.cn/tags/开源) · [`Windows`](https://site.lovejade.cn/tags/Windows)
 
 > ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 ![倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getsharex.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ShareX](https://getsharex.com/) 是一款 [免费](https://nicelinks.site/tags/免费) 的开放源代码程序，它能让你捕捉或录制屏幕的任何区域，并通过按一个键就能共享。它还可以将图像、文本或其他类型的文件上传到许多受支持的目的地。**为什么选择 ShareX**？官方给出以下理由：
+**推荐语**：[ShareX](https://getsharex.com/) 是一款 [免费](https://site.lovejade.cn/tags/免费) 的开放源代码程序，它能让你捕捉或录制屏幕的任何区域，并通过按一个键就能共享。它还可以将图像、文本或其他类型的文件上传到许多受支持的目的地。**为什么选择 ShareX**？官方给出以下理由：
 
 - **完全免费**：超过 15 年的积极开发、轻松录制 GIF；
 - **开源**：深受大公司信赖、支持 80 多个目的地；
@@ -134,11 +134,11 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 [ShareX](https://getsharex.com/) 这款软件，从截图，到处理截图，再到上传截图到网络，它都能帮你做到。除此之外，这款软件还有许多杀手锏功能，譬如：多区域截图、无缝处理截图、自动添加水印以及阴影、自动图床上传、自定义快捷键，并可指派不同的功能等等，如果您对这款软件感兴趣，可移步至 [ShareX 在 Github 开源仓库](https://github.com/ShareX/ShareX) 从而了解更多。
 
-── 出自[倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://nicelinks.site/post/655215bd9ee2a35ce709b551)
+── 出自[倾城之链 - ShareX - The best free and open source screenshot tool for Windows](https://site.lovejade.cn/post/655215bd9ee2a35ce709b551)
 
-## [阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://nicelinks.site/post/6550af787387ed6b24df280c)
+## [阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://site.lovejade.cn/post/6550af787387ed6b24df280c)
 
-**标签**：[`云服务`](https://nicelinks.site/tags/云服务) · [`云盘`](https://nicelinks.site/tags/云盘) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`云服务`](https://site.lovejade.cn/tags/云服务) · [`云盘`](https://site.lovejade.cn/tags/云盘) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：阿里, 网盘, 相册, office, 备份, 智能
 
@@ -162,11 +162,11 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 值得一提的是，[阿里云盘](https://www.aliyundrive.com/) 支持随时随地，在各种设备（手机、电脑、Pad、网页）上免费使用，要享有大容量、增值权益，需要开通会员。有观察到，目前网站分享内容，越来越多使用夸克网盘、阿里云盘；如果您对其感兴趣，不妨移步官网从而了解更多。
 
-── 出自[倾城之链 - 阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://nicelinks.site/post/6550af787387ed6b24df280c)
+── 出自[倾城之链 - 阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品](https://site.lovejade.cn/post/6550af787387ed6b24df280c)
 
-## [Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.site/post/654f45ba7387ed6b24df21a7)
+## [Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://site.lovejade.cn/post/654f45ba7387ed6b24df21a7)
 
-**标签**：[`电影`](https://nicelinks.site/tags/电影) · [`视频`](https://nicelinks.site/tags/视频) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`电影`](https://site.lovejade.cn/tags/电影) · [`视频`](https://site.lovejade.cn/tags/视频) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：Vidhub 视频库, 电影, 电视剧, 动漫, 综艺, 高清, 视频, 在线观看, 全网搜, 搜全网
 
@@ -174,7 +174,7 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 ![倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vidhub.tv.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vidhub](https://vidhub.tv/) ：私人本地网盘影视播放器，支持 macOS💻 & iOS 📱 & tvOS 📺；Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的 [电影](https://nicelinks.site/tags/电影) 、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。它具有如下功能特征：
+**推荐语**：[Vidhub](https://vidhub.tv/) ：私人本地网盘影视播放器，支持 macOS💻 & iOS 📱 & tvOS 📺；Vidhub 视频库为您提供 4K 蓝光及 1080P 超高清的专享影音体验，并聚合分享国内外最新最全的 [电影](https://site.lovejade.cn/tags/电影) 、电视剧、动漫、综艺等热门视频资源，实时更新，多线路支持流畅在线播放，还有美剧、英剧、韩剧、日剧等众多海外剧集同步在线观看。它具有如下功能特征：
 
 - 优雅管理本地或者网盘视频资源；
 - 自动抓取影视信息、自动分类；
@@ -188,7 +188,7 @@ MediaTek Filogic 已进入 Wi-Fi 6/6E 和 Wi-Fi 7 解决方案的新时代，具
 
 [Vidhub](https://vidhub.tv/) 在功能设计上参考： [infuse](https://firecore.com/) ，已开发一年，目前仍在积极更新、迭代中。提供 Web、Android、iOS 等平台应用，AppStore 搜索 VidHub 直接能下载；目前支持免费 🆓 使用，有拿热依扎、王阳最新电视剧《无所畏惧》测试，体验良好。对于偶尔追剧的朋友来讲， [Vidhub](https://vidhub.tv/) 将成为较好选择之一（国内爱奇艺、优酷、腾讯等视频娱乐平台账号不能互通 😶）。
 
-── 出自[倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://nicelinks.site/post/654f45ba7387ed6b24df21a7)
+── 出自[倾城之链 - Vidhub 视频库-在线视频网站-海量高清视频在线观看](https://site.lovejade.cn/post/654f45ba7387ed6b24df21a7)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

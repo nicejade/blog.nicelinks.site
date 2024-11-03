@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Befront ｜ Learn design skills through practice](https://nicelinks.site/post/6273af8c7d02b74eba0f09dc)
+## [Befront ｜ Learn design skills through practice](https://site.lovejade.cn/post/6273af8c7d02b74eba0f09dc)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`设计`](https://nicelinks.site/tags/设计) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`设计`](https://site.lovejade.cn/tags/设计) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > Learn UX/UI design skills in practice with bite-sized tasks. Master UI/UX design skills through practice on real-life cases and get instant automated feedback on your results with a brand-new AI based Figma plugin Befront.
 
@@ -25,11 +25,11 @@
 
 随着时代发展，互联网对于人类生活影响，仍在继续增加；从这个角度看，拥有 UX/UI 设计技能，可让普通人在职业竞争中，更具优势。如果您有进入`设计`领域的想法，[Befront.io](https://befront.io/) 将是一个利器，它重塑设计学习方法；即使您没有任何经验，亦可帮您掌握基础知识，并协助甄别设计是否适合您；一旦您进入新手阶段，它可令您的技能更加扎实，并帮助找到一份所需要的工作。此外，值得一提的是，Befront.io 免费可用，无需信用卡。
 
-── 出自[倾城之链 - Befront ｜ Learn design skills through practice](https://nicelinks.site/post/6273af8c7d02b74eba0f09dc)
+── 出自[倾城之链 - Befront ｜ Learn design skills through practice](https://site.lovejade.cn/post/6273af8c7d02b74eba0f09dc)
 
-## [即时工具-致力打造即用即走型在线工具箱](https://nicelinks.site/post/62727acd7d02b74eba0f09d9)
+## [即时工具-致力打造即用即走型在线工具箱](https://site.lovejade.cn/post/62727acd7d02b74eba0f09d9)
 
-**标签**：[`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具) · [`效率`](https://nicelinks.site/tags/效率)
+**标签**：[`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具) · [`效率`](https://site.lovejade.cn/tags/效率)
 
 **关键字**：即时工具, 67 工具网, 67 工具, 视频工具, 音频工具, 图片工具, PDF 工具, 办公辅助, 设计工具, 文本工具, 数字工具, 加密工具, 单位转换
 
@@ -43,11 +43,11 @@
 
 值得一提的是，[即时工具](https://www.67tool.com/)所提供的工具，真是丰富，对于普通用户而言，能想到的诉求，在这里基本都有覆盖到；诸如 Word 转换、图片调色、视频编辑（去水印）、PDF 转文本、随机生成密码、文本与摩尔斯电码互转、多语言 OCR（文字识别）、词频统计、在线画板、照片转油画、图片拼接等等，应有尽有。此外，即时工具除了网站外，还提供了 Google Chrome 扩展。
 
-── 出自[倾城之链 - 即时工具-致力打造即用即走型在线工具箱](https://nicelinks.site/post/62727acd7d02b74eba0f09d9)
+── 出自[倾城之链 - 即时工具-致力打造即用即走型在线工具箱](https://site.lovejade.cn/post/62727acd7d02b74eba0f09d9)
 
-## [Kraken.io Image Optimizer · Kraken.io](https://nicelinks.site/post/627241f47d02b74eba0f09d7)
+## [Kraken.io Image Optimizer · Kraken.io](https://site.lovejade.cn/post/627241f47d02b74eba0f09d7)
 
-**标签**：[`图片压缩`](https://nicelinks.site/tags/图片压缩) · [`工具`](https://nicelinks.site/tags/工具) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`图片压缩`](https://site.lovejade.cn/tags/图片压缩) · [`工具`](https://site.lovejade.cn/tags/工具) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > Optimize your images with blazing speed using powerful API and online web interface
 
@@ -83,13 +83,13 @@
 
 您的 CDN 账单是否开始大幅削减您的利润率？使用 Kraken.io 优化您的图像资产并将这些费用减少至少一半。您的用户不会注意到任何差异（除了更快的加载时间和更少的等待下载内容），但随着时间的推移，您会注意到 CDN 支出的巨大差异。
 
-据悉，当今互联网流量的 62% 是由图像组成的。使用 Kraken.io 优化它们并节省金钱和时间。有拿 Kraken.io 跟同类型产品 [TinyPng](https://nicelinks.site/post/5a71edee7363484e823b58e7) 做了比较，两者所带来的优化效果，极其相近。如果您有图片压缩的需求，可选择性使用；就笔者目前而言，更多使用 `TinyPng`。
+据悉，当今互联网流量的 62% 是由图像组成的。使用 Kraken.io 优化它们并节省金钱和时间。有拿 Kraken.io 跟同类型产品 [TinyPng](https://site.lovejade.cn/post/5a71edee7363484e823b58e7) 做了比较，两者所带来的优化效果，极其相近。如果您有图片压缩的需求，可选择性使用；就笔者目前而言，更多使用 `TinyPng`。
 
-── 出自[倾城之链 - Kraken.io Image Optimizer · Kraken.io](https://nicelinks.site/post/627241f47d02b74eba0f09d7)
+── 出自[倾城之链 - Kraken.io Image Optimizer · Kraken.io](https://site.lovejade.cn/post/627241f47d02b74eba0f09d7)
 
-## [QRBTF 参数化二维码生成器](https://nicelinks.site/post/627224547d02b74eba0f09d5)
+## [QRBTF 参数化二维码生成器](https://site.lovejade.cn/post/627224547d02b74eba0f09d5)
 
-**标签**：[`二维码`](https://nicelinks.site/tags/二维码) · [`工具`](https://nicelinks.site/tags/工具) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`二维码`](https://site.lovejade.cn/tags/二维码) · [`工具`](https://site.lovejade.cn/tags/工具) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > QRBTF 参数化二维码生成器 Parametric QR Code Generator
 
@@ -101,11 +101,11 @@
 
 值得一提的是，[QRBTF.com](https://qrbtf.com/) 是两位大学生业余开发设计的产品，并在 [Github](https://github.com/ciaochaos/qrbtf) 开源，感兴趣的朋友可以前往了解更多。
 
-── 出自[倾城之链 - QRBTF 参数化二维码生成器](https://nicelinks.site/post/627224547d02b74eba0f09d5)
+── 出自[倾城之链 - QRBTF 参数化二维码生成器](https://site.lovejade.cn/post/627224547d02b74eba0f09d5)
 
-## [赤道 365 论坛-帮找课程的资源论坛 - Powered by Discuz!](https://nicelinks.site/post/627221407d02b74eba0f09d3)
+## [赤道 365 论坛-帮找课程的资源论坛 - Powered by Discuz!](https://site.lovejade.cn/post/627221407d02b74eba0f09d3)
 
-**标签**：[`娱乐`](https://nicelinks.site/tags/娱乐) · [`教育`](https://nicelinks.site/tags/教育) · [`资源`](https://nicelinks.site/tags/资源)
+**标签**：[`娱乐`](https://site.lovejade.cn/tags/娱乐) · [`教育`](https://site.lovejade.cn/tags/教育) · [`资源`](https://site.lovejade.cn/tags/资源)
 
 **关键字**：百度云网盘资源, 阿里云网盘资源, 知识付费课程, 工作技能教程, 学历提升课程, 公考课程, 自考课程, 自学教程, 教师资格证课程, 成人高考课程, 大学考研课程, 健身教程, 美容课程, 恋爱课程, 亲子课程, 育儿课程, 课外课程, 电子书籍资源, 自学教程, 英语课程, 娱乐课程, 语言课程, 珍品收藏资料, 学前课程, 幼儿园课程, 中小学课程, 大学考试课程, 专升本课程, 专接本课程, 网络课程
 
@@ -113,13 +113,13 @@
 
 ![倾城之链 - 赤道365论坛-帮找课程的资源论坛 -  Powered by Discuz!](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.chidao365.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[赤道 365 论坛](https://www.chidao365.com/)，一个基于 [Discuz! Q ](https://nicelinks.site/post/5fe33ded9b4e656960bd8468) 所搭建的社区，旨在**帮助寻找课程资源**。该网站有划分为论坛、资源广场、积分获取、进资源群、问答等板块，初步体验，所涉猎内容颇为丰富，诸如：阿里云网盘资源（全网首家），百度云网盘资源，各类网络课程、自学教程、大学考研课程、知识付费课程、电子书、精品软件、珍品收藏资料等等；当然，用户可以登录、发帖向站长和坛友求助，从而获取想要的资源。该网站有接入 Google AdSense，以此获得收益。此外，对于游客，24 小时内，所能浏览帖子数被限制 🚫 为 3 个，颇不友好，值得改进。
+**推荐语**：[赤道 365 论坛](https://www.chidao365.com/)，一个基于 [Discuz! Q ](https://site.lovejade.cn/post/5fe33ded9b4e656960bd8468) 所搭建的社区，旨在**帮助寻找课程资源**。该网站有划分为论坛、资源广场、积分获取、进资源群、问答等板块，初步体验，所涉猎内容颇为丰富，诸如：阿里云网盘资源（全网首家），百度云网盘资源，各类网络课程、自学教程、大学考研课程、知识付费课程、电子书、精品软件、珍品收藏资料等等；当然，用户可以登录、发帖向站长和坛友求助，从而获取想要的资源。该网站有接入 Google AdSense，以此获得收益。此外，对于游客，24 小时内，所能浏览帖子数被限制 🚫 为 3 个，颇不友好，值得改进。
 
-── 出自[倾城之链 - 赤道 365 论坛-帮找课程的资源论坛 - Powered by Discuz!](https://nicelinks.site/post/627221407d02b74eba0f09d3)
+── 出自[倾城之链 - 赤道 365 论坛-帮找课程的资源论坛 - Powered by Discuz!](https://site.lovejade.cn/post/627221407d02b74eba0f09d3)
 
-## [[Array Builder]](https://nicelinks.site/post/627114427d02b74eba0f09d0)
+## [[Array Builder]](https://site.lovejade.cn/post/627114427d02b74eba0f09d0)
 
-**标签**：[`可视化`](https://nicelinks.site/tags/可视化) · [`开发者`](https://nicelinks.site/tags/开发者) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`可视化`](https://site.lovejade.cn/tags/可视化) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > A free tool to visualize the output of array operations
 
@@ -136,11 +136,11 @@
 
 此外，[Array Builder](https://www.arraybuilder.com/) 还具有一些其他特征，诸如无限管道（pipe），支持使用 **lodash** 函数、状态保留在**本地存储中**等等。如果，您有基于**数组**，进行复杂操控的诉求，基于此工具，要比在编辑器中，通过 console.log 来调试，要高效、便捷许多。
 
-── 出自[倾城之链 - [Array Builder]](https://nicelinks.site/post/627114427d02b74eba0f09d0)
+── 出自[倾城之链 - [Array Builder]](https://site.lovejade.cn/post/627114427d02b74eba0f09d0)
 
-## [LOGO 设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://nicelinks.site/post/626e6b287d02b74eba0f09c2)
+## [LOGO 设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://site.lovejade.cn/post/626e6b287d02b74eba0f09c2)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`工具`](https://nicelinks.site/tags/工具) · [`图标`](https://nicelinks.site/tags/图标)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`工具`](https://site.lovejade.cn/tags/工具) · [`图标`](https://site.lovejade.cn/tags/图标)
 
 **关键字**：logo 神器, logo 设计, logo 在线设计生成器, logo 在线生成
 
@@ -164,7 +164,7 @@
 
 作为智能品牌创建平台，[LOGO 设计神器](https://www.logosc.cn/) 还将为您的 LOGO 定制生成配套名片，企业 VI，宣传海报，社交应用等全套的品牌资源。助你轻松实现品牌自动化。值得一提的是，该网站还提供一个很喜欢的功能：[「印章在线生成器」](https://www.logosc.cn/logo/badge) ，输入 4 个汉字（限制的略有些紧），一键生成个性印章免费下载（有多种样式可选）。可以将喜欢成语或箴言（如：`倾城之链`、`几暇怡情`、`会心不远`、`清风明月`、`归去来兮` 等），以印章样式生成出来，在喜欢的网站、书绘中展示出来，以寄情志，蛮有意思。
 
-── 出自[倾城之链 - LOGO 设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://nicelinks.site/post/626e6b287d02b74eba0f09c2)
+── 出自[倾城之链 - LOGO 设计神器 - logo 在线设计生成器，免费在线生成公司 logo 设计](https://site.lovejade.cn/post/626e6b287d02b74eba0f09c2)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

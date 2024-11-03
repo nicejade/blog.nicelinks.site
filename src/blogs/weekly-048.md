@@ -1,22 +1,22 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [倾城博客](https://nicelinks.site/post/61e03d6773f9dd1533f83415)
+## [倾城博客](https://site.lovejade.cn/post/61e03d6773f9dd1533f83415)
 
-**标签**：[`博客`](https://nicelinks.site/tags/博客) · [`导航`](https://nicelinks.site/tags/导航) · [`网站`](https://nicelinks.site/tags/网站)
+**标签**：[`博客`](https://site.lovejade.cn/tags/博客) · [`导航`](https://site.lovejade.cn/tags/导航) · [`网站`](https://site.lovejade.cn/tags/网站)
 
 > 倾城之链作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界。倾城博客，旨在汇聚倾城之链所收录的内容，以博文的形式承载，提供检索功能，且具备极致丝滑访问体验，以飨同好者。
 
 ![倾城之链 - 倾城博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.nicelinks.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[倾城博客](https://link.niceshare.site/)，基于 [GatsbyJS](https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://nicelinks.site/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://nicelinks.site/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://nicelinks.site/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
+**推荐语**：[倾城博客](https://link.niceshare.site/)，基于 [GatsbyJS](https://www.gatsbyjs.org/) 所搭建的网站，汇聚[倾城之链](https://site.lovejade.cn/)所收录的内容，以文章的形式承载，并提供检索功能，提供给广大用户。[倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球优秀网站，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。[关于倾城之链](https://site.lovejade.cn/about)更多详情，可参见[云集优站，尽在「倾城之链」](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)、[云集优站，尽在「倾城之链」其二](https://www.jeffjade.com/2018/12/23/146-talk-about-nice-links/)等文章阐述。
 
-── 出自[倾城之链 - 倾城博客](https://nicelinks.site/post/61e03d6773f9dd1533f83415)
+── 出自[倾城之链 - 倾城博客](https://site.lovejade.cn/post/61e03d6773f9dd1533f83415)
 
-## [AI Image Upscaler - Enlarge & Enhance your Images for Free](https://nicelinks.site/post/61e0132273f9dd1533f83413)
+## [AI Image Upscaler - Enlarge & Enhance your Images for Free](https://site.lovejade.cn/post/61e0132273f9dd1533f83413)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`AI`](https://nicelinks.site/tags/AI) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`AI`](https://site.lovejade.cn/tags/AI) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：upscale, upscale.media, let's enhance, 2x image, 2x upscale, 2x upscale image, 4x image, 4x image upscale, 4x image, enhance image, enhance photo, higher resolution, higher resolution image, online upscale, online upscale image, low quality to high quality, high quality image, enhance picture, enhance resolution, image quality enhancer, image resolution enha
 
@@ -46,11 +46,11 @@
 
 借助 [Upscale.media](https://www.upscale.media/)，任何人现在都可以升级和增强图像，无论他们是专业摄影师还是新手。
 
-── 出自[倾城之链 - AI Image Upscaler - Enlarge & Enhance your Images for Free](https://nicelinks.site/post/61e0132273f9dd1533f83413)
+── 出自[倾城之链 - AI Image Upscaler - Enlarge & Enhance your Images for Free](https://site.lovejade.cn/post/61e0132273f9dd1533f83413)
 
-## [電腦玩物](https://nicelinks.site/post/61e003c973f9dd1533f83411)
+## [電腦玩物](https://site.lovejade.cn/post/61e003c973f9dd1533f83411)
 
-**标签**：[`时间管理`](https://nicelinks.site/tags/时间管理) · [`个人提升 `](https://nicelinks.site/tags/个人提升) · [`工作方法`](https://nicelinks.site/tags/工作方法)
+**标签**：[`时间管理`](https://site.lovejade.cn/tags/时间管理) · [`个人提升 `](https://site.lovejade.cn/tags/个人提升) · [`工作方法`](https://site.lovejade.cn/tags/工作方法)
 
 > 分享各種行動工作技巧、雲端生活應用，善用數位工具改變你我的工作效率與生活品質。
 
@@ -67,11 +67,11 @@
 
 近期，因为[時間管理 Q&A：下班後如何避免滑一下手機就沒時間了？4 步驟調整習慣](https://www.playpcesor.com/2022/01/q.html)这篇文章，从而了解到[電腦玩物](https://www.playpcesor.com/)这个网站，有志于提升自己的朋友们，不妨考虑关注下，闲来品读，增加阅历，开阔思维。
 
-── 出自[倾城之链 - 電腦玩物](https://nicelinks.site/post/61e003c973f9dd1533f83411)
+── 出自[倾城之链 - 電腦玩物](https://site.lovejade.cn/post/61e003c973f9dd1533f83411)
 
-## [二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://nicelinks.site/post/61dfba2e73f9dd1533f8340f)
+## [二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://site.lovejade.cn/post/61dfba2e73f9dd1533f8340f)
 
-**标签**：[`二维码`](https://nicelinks.site/tags/二维码) · [`工具`](https://nicelinks.site/tags/工具) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`二维码`](https://site.lovejade.cn/tags/二维码) · [`工具`](https://site.lovejade.cn/tags/工具) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > 简单强大实用的艺术二维码生成器。
 
@@ -86,7 +86,7 @@
 
 值得一提的是，[二维码梦工厂](https://www.qrdream.com/)不仅提供高级编辑功能，而且提供很多精选模板，对精美二维码感兴趣的朋友，可以关注下。
 
-── 出自[倾城之链 - 二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://nicelinks.site/post/61dfba2e73f9dd1533f8340f)
+── 出自[倾城之链 - 二维码梦工厂 · 简单强大实用的艺术二维码生成器](https://site.lovejade.cn/post/61dfba2e73f9dd1533f8340f)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

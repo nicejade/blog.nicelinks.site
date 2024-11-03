@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://nicelinks.site/post/6245b116f3075206b7478036)
+## [Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://site.lovejade.cn/post/6245b116f3075206b7478036)
 
-**标签**：[`平台`](https://nicelinks.site/tags/平台) · [`自动化`](https://nicelinks.site/tags/自动化) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`平台`](https://site.lovejade.cn/tags/平台) · [`自动化`](https://site.lovejade.cn/tags/自动化) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：apifox, apifox 下载, apifox 官网, 接口文档工具, 接口文档管理工具, 接口文档生成工具, 接口自动化测试工具, 接口 Mock 工具, API 文档工具, API Mock 工具, API 自动化测试工具
 
@@ -75,11 +75,11 @@
 
 [Apifox](https://www.apifox.cn/) 是广州睿狐信息科技有限公司（一家专注于企业级研发管理工具及解决方案的创新企业）旗下核心产品；它集 API（应用程序编程接口）设计、开发、测试为一体的协作平台，通过系统平台，帮助客户企业的软件研发团队，提升研发和使用 API 过程中的整体团队协作效率。Apifox 功能直击开发工程师的痛点，产品体验简单易用，大幅提升了开发团队的工作效率，迅速赢得了一大批忠实的用户（公司有朋友还是蛮喜欢用它，笔者是通过 Google 广告了解到）；它具有**桌面版**、**WEB 版本**两种使用方式，免费可用，私有化部署版须付费；如果您想了解更多，可参见 [Apifox 使用文档](https://www.apifox.cn/help/)。
 
-── 出自[倾城之链 - Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://nicelinks.site/post/6245b116f3075206b7478036)
+── 出自[倾城之链 - Apifox - API 文档、调试、Mock、测试一体化协作平台、接口文档工具，接口自动化测试工具](https://site.lovejade.cn/post/6245b116f3075206b7478036)
 
-## [The Unarchiver | Top Free Unarchiving Software for macOS](https://nicelinks.site/post/62406279006c7408774a7c20)
+## [The Unarchiver | Top Free Unarchiving Software for macOS](https://site.lovejade.cn/post/62406279006c7408774a7c20)
 
-**标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`软件`](https://nicelinks.site/tags/软件) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`Mac`](https://site.lovejade.cn/tags/Mac) · [`软件`](https://site.lovejade.cn/tags/软件) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：Unarchiver, RAR, 解压包, macOS, 压缩, 免费
 
@@ -105,11 +105,11 @@ Mac 的 Unarchiver 是免费的。没有应用程序内的附加功能。
 
 Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势是：几乎支持所有主流的压缩包格式，并且是 Mac App Store 中好评度最高的软件之一，是 Mac 中最优秀的解压软件。
 
-── 出自[倾城之链 - The Unarchiver | Top Free Unarchiving Software for macOS](https://nicelinks.site/post/62406279006c7408774a7c20)
+── 出自[倾城之链 - The Unarchiver | Top Free Unarchiving Software for macOS](https://site.lovejade.cn/post/62406279006c7408774a7c20)
 
-## [n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://nicelinks.site/post/624053f5006c7408774a7c1e)
+## [n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://site.lovejade.cn/post/624053f5006c7408774a7c1e)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`开源`](https://nicelinks.site/tags/开源) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`开源`](https://site.lovejade.cn/tags/开源) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：自动化, 开源, 工具, n8n, 自托管, Docker, npm, 免费, 易于扩展, 工作流程
 
@@ -147,11 +147,11 @@ Unarchiver，是 Mac 系统中市场使用率最高的软件之一，其优势�
 
 [n8n](https://n8n.io/) 有多种使用方式：**云**（无需安装任何东西）、**桌面应用**（尝试 n8n 的最快方法）、**自托管**（推荐用于生产数据保留在您的基础架构上，基于 npm 或 Docker 部署）。
 
-── 出自[倾城之链 - n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://nicelinks.site/post/624053f5006c7408774a7c1e)
+── 出自[倾城之链 - n8n.io - Free and Open Workflow Automation Tooln8Download iconCloud iconMoney Off icon](https://site.lovejade.cn/post/624053f5006c7408774a7c1e)
 
-## [WhatRuns — Discover What Runs a Website](https://nicelinks.site/post/623ffb54006c7408774a7c1c)
+## [WhatRuns — Discover What Runs a Website](https://site.lovejade.cn/post/623ffb54006c7408774a7c1c)
 
-**标签**：[`分析`](https://nicelinks.site/tags/分析) · [`Chrome`](https://nicelinks.site/tags/Chrome) · [`扩展`](https://nicelinks.site/tags/扩展)
+**标签**：[`分析`](https://site.lovejade.cn/tags/分析) · [`Chrome`](https://site.lovejade.cn/tags/Chrome) · [`扩展`](https://site.lovejade.cn/tags/扩展)
 
 > A free browser extension that helps you identify technologies used on any website at the click of a button.
 
@@ -167,13 +167,13 @@ WhatRuns 向您展示了为网站提供动力的几乎所有内容。他们支�
 
 通过了解网站何时开始或停止，使用技术来跟上步伐。关注网站，WhatRuns 会在发生这种情况时通知您。
 
-[WhatRuns](https://www.whatruns.com/) 扩展在 Chrome 和 Firefox 上免费提供，可用于竞争对手分析、销售情报和网站分析。其功能与 [Wappalyzer](https://nicelinks.site/post/5c9a2064df13c46502a09026) 相同；简单对比，所检测出的数据结果，两者相差无几。从速度、本地化处理上，[Wappalyzer](https://nicelinks.site/post/5c9a2064df13c46502a09026) 要更胜一筹；如果您有此需求，更推荐使用 `Wappalyzer`。
+[WhatRuns](https://www.whatruns.com/) 扩展在 Chrome 和 Firefox 上免费提供，可用于竞争对手分析、销售情报和网站分析。其功能与 [Wappalyzer](https://site.lovejade.cn/post/5c9a2064df13c46502a09026) 相同；简单对比，所检测出的数据结果，两者相差无几。从速度、本地化处理上，[Wappalyzer](https://site.lovejade.cn/post/5c9a2064df13c46502a09026) 要更胜一筹；如果您有此需求，更推荐使用 `Wappalyzer`。
 
-── 出自[倾城之链 - WhatRuns — Discover What Runs a Website](https://nicelinks.site/post/623ffb54006c7408774a7c1c)
+── 出自[倾城之链 - WhatRuns — Discover What Runs a Website](https://site.lovejade.cn/post/623ffb54006c7408774a7c1c)
 
-## [Tampermonkey • Home](https://nicelinks.site/post/623ff301006c7408774a7c1a)
+## [Tampermonkey • Home](https://site.lovejade.cn/post/623ff301006c7408774a7c1a)
 
-**标签**：[`扩展`](https://nicelinks.site/tags/扩展) · [`插件`](https://nicelinks.site/tags/插件) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`扩展`](https://site.lovejade.cn/tags/扩展) · [`插件`](https://site.lovejade.cn/tags/插件) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Tampermonkey is a free browser extension and the most popular userscript manager. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox. Even though some of the supported browsers have native userscript support, Tampermonkey will give you much more convenience in managing your userscripts. It provides features like easy script installation, automatic update checks, a simple overview what scripts are running at a tab, a built-in editor and there is a good chance that incompatible scripts run fine with Tampermonkey. So give it a try!
 
@@ -223,11 +223,11 @@ Tampermonkey 的编辑器是很棒的，然而您拥有自己的编辑器，它�
 
 虽然有些受支持的浏览器拥有原生的用户脚本支持，但 Tampermonkey 将在您的用户脚本管理方面提供更多的便利。 它提供了诸如便捷脚本安装、自动更新检查、标签中的脚本运行状况速览、内置的编辑器等众多功能， 同时 Tampermonkey 还有可能正常运行原本并不兼容的脚本。
 
-── 出自[倾城之链 - Tampermonkey • Home](https://nicelinks.site/post/623ff301006c7408774a7c1a)
+── 出自[倾城之链 - Tampermonkey • Home](https://site.lovejade.cn/post/623ff301006c7408774a7c1a)
 
-## [美篇，中老年兴趣社区](https://nicelinks.site/post/623f165d006c7408774a7c17)
+## [美篇，中老年兴趣社区](https://site.lovejade.cn/post/623f165d006c7408774a7c17)
 
-**标签**：[`社区`](https://nicelinks.site/tags/社区) · [`分享`](https://nicelinks.site/tags/分享) · [`兴趣`](https://nicelinks.site/tags/兴趣)
+**标签**：[`社区`](https://site.lovejade.cn/tags/社区) · [`分享`](https://site.lovejade.cn/tags/分享) · [`兴趣`](https://site.lovejade.cn/tags/兴趣)
 
 **关键字**：美篇, 美篇官网, 美篇下载, 兴趣社区, 中老年社区
 
@@ -248,7 +248,7 @@ Tampermonkey 的编辑器是很棒的，然而您拥有自己的编辑器，它�
 
 2021 年 9 月进行品牌升级，换新 `slogan`：来美篇 正当年，为不惑后群体带来归属感。美篇电脑网页版，于 2016 年 7 月正式发布，具有和 APP 版一样的编辑功能，为用户在电脑端图文创作提供便捷。基于用户的兴趣爱好，社区内设置了摄影、美食、健康、书法、舞蹈等多话题栏目，用户可以通过推荐订阅并参与，发现感兴趣的内容与同好朋友。与摄影大咖、旅行达人、热爱美食、生活、萌宠等有相同频率的朋友互动交流。
 
-── 出自[倾城之链 - 美篇，中老年兴趣社区](https://nicelinks.site/post/623f165d006c7408774a7c17)
+── 出自[倾城之链 - 美篇，中老年兴趣社区](https://site.lovejade.cn/post/623f165d006c7408774a7c17)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

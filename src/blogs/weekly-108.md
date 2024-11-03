@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Ai 导航 | 最新最前沿的 AI 产品](https://nicelinks.site/post/6409c4d62e215167d398529c)
+## [Ai 导航 | 最新最前沿的 AI 产品](https://site.lovejade.cn/post/6409c4d62e215167d398529c)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`AI`](https://nicelinks.site/tags/AI) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`AI`](https://site.lovejade.cn/tags/AI) · [`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT)
 
 **关键字**：ai 导航, ai 产品, ai 写作, chatgpt, 人工智能
 
@@ -12,13 +12,13 @@
 
 ![倾城之链 - Ai 导航 | 最新最前沿的 AI 产品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ainavpro.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AI 导航](https://www.ainavpro.com/) 是一个集成最新最前沿 [AI](https://nicelinks.site/tags/AI) 产品的 [导航](https://nicelinks.site/tags/导航) 网站，提供丰富、多样化的 AI 产品信息和服务，为用户带来更便捷、高效、科技感的生活体验。为用户提供最新、最全面的 AI 产品信息，让用户快速、便捷地了解和使用各种 AI 产品。如果您想通过 AI 产品提升效率，抑或是基于 AI（ChatGPT）技术研发工具产品，可以前往 [AI 导航](https://www.ainavpro.com/) 以获取更多见闻和灵感。
+**推荐语**：[AI 导航](https://www.ainavpro.com/) 是一个集成最新最前沿 [AI](https://site.lovejade.cn/tags/AI) 产品的 [导航](https://site.lovejade.cn/tags/导航) 网站，提供丰富、多样化的 AI 产品信息和服务，为用户带来更便捷、高效、科技感的生活体验。为用户提供最新、最全面的 AI 产品信息，让用户快速、便捷地了解和使用各种 AI 产品。如果您想通过 AI 产品提升效率，抑或是基于 AI（ChatGPT）技术研发工具产品，可以前往 [AI 导航](https://www.ainavpro.com/) 以获取更多见闻和灵感。
 
-── 出自[倾城之链 - Ai 导航 | 最新最前沿的 AI 产品](https://nicelinks.site/post/6409c4d62e215167d398529c)
+── 出自[倾城之链 - Ai 导航 | 最新最前沿的 AI 产品](https://site.lovejade.cn/post/6409c4d62e215167d398529c)
 
-## [Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://nicelinks.site/post/6409ba782e215167d398510e)
+## [Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://site.lovejade.cn/post/6409ba782e215167d398510e)
 
-**标签**：[`远程`](https://nicelinks.site/tags/远程) · [`工作`](https://nicelinks.site/tags/工作) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`远程`](https://site.lovejade.cn/tags/远程) · [`工作`](https://site.lovejade.cn/tags/工作) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 **关键字**：technology, engineers, hire, teams, software, development, Pakistan, US, Remotebase, freelancers, startups, USA
 
@@ -26,7 +26,7 @@
 
 ![倾城之链 - Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.remotebase.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Remotebase](https://www.remotebase.com/) 是一个帮助 [远程](https://nicelinks.site/tags/远程) 工作者和远程团队寻找适合自己的工作和公司的平台。Remotebase 聚焦于远程工作文化，并提供了大量有关远程工作的文章、视频和工具，以帮助远程工作者和远程团队更好地管理自己的工作和生活。通过 3 个简单步骤雇用您理想的工程团队：
+**推荐语**：[Remotebase](https://www.remotebase.com/) 是一个帮助 [远程](https://site.lovejade.cn/tags/远程) 工作者和远程团队寻找适合自己的工作和公司的平台。Remotebase 聚焦于远程工作文化，并提供了大量有关远程工作的文章、视频和工具，以帮助远程工作者和远程团队更好地管理自己的工作和生活。通过 3 个简单步骤雇用您理想的工程团队：
 
 - **告诉我们您的要求**：在 Remotebase 的网站上填写表格，告诉他们您想何时聘请远程开发人员、您需要什么样的开发人员技能、您需要多少团队成员以及有关您公司的一些详细信息。
 - **安排通话**：在合适的时间与他们通话，讨论您的需求以及您希望与您的技术团队实现的目标。
@@ -42,11 +42,11 @@ Remotebase 也提供了一些特色的功能，例如：
 
 总的来说， [Remotebase](https://www.remotebase.com/) 是一个很好的远程工作招聘平台，为远程工作者和远程团队提供了更好的机会和工具，以实现更好的远程工作生活。
 
-── 出自[倾城之链 - Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://nicelinks.site/post/6409ba782e215167d398510e)
+── 出自[倾城之链 - Remotebase | Hire remote developers from Top 1% in 24 hours | 2 week free-trial](https://site.lovejade.cn/post/6409ba782e215167d398510e)
 
-## [Naive UI | A Vue 3 Component Library](https://nicelinks.site/post/64087a70db7c992ea465003d)
+## [Naive UI | A Vue 3 Component Library](https://site.lovejade.cn/post/64087a70db7c992ea465003d)
 
-**标签**：[`Vue`](https://nicelinks.site/tags/Vue) · [`组件库`](https://nicelinks.site/tags/组件库) · [`TypeScript`](https://nicelinks.site/tags/TypeScript)
+**标签**：[`Vue`](https://site.lovejade.cn/tags/Vue) · [`组件库`](https://site.lovejade.cn/tags/组件库) · [`TypeScript`](https://site.lovejade.cn/tags/TypeScript)
 
 > A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 
@@ -61,39 +61,39 @@ Remotebase 也提供了一些特色的功能，例如：
 
 除上述功能特征之外，它支持启用 JSX & TSX、支持服务端渲染（SSR）、内部基于 CSS in JS 方案..... 该项目在 [Github 开源](https://github.com/tusen-ai/naive-ui)，截止目前（2023 年 03 月 08 日）收获 11.9K Star，感兴趣的朋友可移步以了解更多。
 
-── 出自[倾城之链 - Naive UI | A Vue 3 Component Library](https://nicelinks.site/post/64087a70db7c992ea465003d)
+── 出自[倾城之链 - Naive UI | A Vue 3 Component Library](https://site.lovejade.cn/post/64087a70db7c992ea465003d)
 
-## [Snippet Explorer by Raycast](https://nicelinks.site/post/64087343db7c992ea464fea6)
+## [Snippet Explorer by Raycast](https://site.lovejade.cn/post/64087343db7c992ea464fea6)
 
-**标签**：[`效率`](https://nicelinks.site/tags/效率) · [`代码`](https://nicelinks.site/tags/代码) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`效率`](https://site.lovejade.cn/tags/效率) · [`代码`](https://site.lovejade.cn/tags/代码) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Snippet Explorer is a tool to easily browse and import Snippets directly to Raycast.
 
 ![倾城之链 - Snippet Explorer by Raycast](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/snippets.ray.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Snippet Explorer](https://snippets.ray.so/) 一种轻松浏览代码片段（Snippets）并将其直接导入 [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 的工具（基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 所构建）。其中类别包括 Symbols、Arrows、Unicode、Date、Miscellaneous、Currency、Spelling、Coding、Feedback、GitHub 等内容。
+**推荐语**：[Snippet Explorer](https://snippets.ray.so/) 一种轻松浏览代码片段（Snippets）并将其直接导入 [Raycast](https://site.lovejade.cn/post/6378d324049fa51046c4ac75) 的工具（基于 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 所构建）。其中类别包括 Symbols、Arrows、Unicode、Date、Miscellaneous、Currency、Spelling、Coding、Feedback、GitHub 等内容。
 
 如果您的机器安装了 Raycast 应用程序，通过点击 Snippets 来选择它们。要选择多个，请按住 ⌘ 或用鼠标选择它们，然后点击 "添加到 Raycast"按钮。你也可以将 Snippets 下载为 JSON 文件，或复制 URL 与他人分享。添加到 Raycast 之后，即可快速使用这些片段。如果您导入了 `Command`，只需输入 `!cmd`，即可得到该图标：`⌘`；同样，如果您导入了 `Apple`，只需输入 `!apple`，即可得到：``；如果您是开发人员，导入 `Console Log`，只需输入：`!log`，即可得 `console.log()`（鼠标在括弧中间）；在可以输入文本的环境，都有效，可以提升效率。
 
-── 出自[倾城之链 - Snippet Explorer by Raycast](https://nicelinks.site/post/64087343db7c992ea464fea6)
+── 出自[倾城之链 - Snippet Explorer by Raycast](https://site.lovejade.cn/post/64087343db7c992ea464fea6)
 
-## [RoomGPT ｜ Generating dream rooms using AI for everyone.](https://nicelinks.site/post/6403059cdb7c992ea464e0c0)
+## [RoomGPT ｜ Generating dream rooms using AI for everyone.](https://site.lovejade.cn/post/6403059cdb7c992ea464e0c0)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`灵感`](https://nicelinks.site/tags/灵感) · [`机器学习`](https://nicelinks.site/tags/机器学习)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`灵感`](https://site.lovejade.cn/tags/灵感) · [`机器学习`](https://site.lovejade.cn/tags/机器学习)
 
 > Generate your dream room in seconds.
 
 ![倾城之链 - RoomGPT ｜ Generating dream rooms using AI for everyone.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.roomgpt.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[RoomGPT](https://www.roomgpt.io/) ， 基于 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 构建、部署在 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36) 的网站，它提供 [AI](https://nicelinks.site/tags/AI) 服务，为每个人打造梦幻房间。只需选择想要的房间主题（现代、极简、优质）和房型（客厅、卧室、浴室、办公室、游戏室），上传照片，等待片刻，就能生成梦幻房间图片。它 100% 免费。
+**推荐语**：[RoomGPT](https://www.roomgpt.io/) ， 基于 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 构建、部署在 [Vercel](https://site.lovejade.cn/post/63dba9f93b0bd5224de21d36) 的网站，它提供 [AI](https://site.lovejade.cn/tags/AI) 服务，为每个人打造梦幻房间。只需选择想要的房间主题（现代、极简、优质）和房型（客厅、卧室、浴室、办公室、游戏室），上传照片，等待片刻，就能生成梦幻房间图片。它 100% 免费。
 
 值得一提的是，该项目在 [Github 开源](https://github.com/Nutlope/roomGPT) ，如果您感兴趣，可以移步从而了解更多。 RoomGPT 使用被称为 [ControlNet](https://github.com/lllyasviel/ControlNet) 的 ML（机器学习）模型来生成房间的变体。此应用程序使您能够上传任何房间的照片，这将使用 Next.js API 路由通过此 ML 模型发送照片，并返回您生成的房间。ML 模型托管在 [Replicate](https://replicate.com/) 上， [Upload](https://upload.io/) 用于图像存储。
 
-── 出自[倾城之链 - RoomGPT ｜ Generating dream rooms using AI for everyone.](https://nicelinks.site/post/6403059cdb7c992ea464e0c0)
+── 出自[倾城之链 - RoomGPT ｜ Generating dream rooms using AI for everyone.](https://site.lovejade.cn/post/6403059cdb7c992ea464e0c0)
 
-## [Shots - Create Amazing Mockups](https://nicelinks.site/post/6402e783db7c992ea464dd62)
+## [Shots - Create Amazing Mockups](https://site.lovejade.cn/post/6402e783db7c992ea464dd62)
 
-**标签**：[`mockups`](https://nicelinks.site/tags/mockups) · [`工具`](https://nicelinks.site/tags/工具) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器)
+**标签**：[`mockups`](https://site.lovejade.cn/tags/mockups) · [`工具`](https://site.lovejade.cn/tags/工具) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器)
 
 > Create Amazing Mockups
 
@@ -101,7 +101,7 @@ Remotebase 也提供了一些特色的功能，例如：
 
 **推荐语**：[Shots](https://shots.so/)，很精致的一款 Mockups 工具（Create Amazing Mockups），可以用来创建令人惊叹的设备模型，可以做出非常漂亮的图片效果；它支持多类模型，如 iPhone、Mac、iMac、iPad Pro、iPad、iWatch、Sample Desktop、Pro Display XDR、Browser、MacBook Air、截图类等场景，而且支持各种各种，如图片弧度、3D、偏移量、背景、主题、比例等等。此外，Shots 支持在线拷贝图片，也提供直接下载；更棒的是它使用非常简单，上传照片即可开始，且完全免费；简直是不能更棒（Amazing Production）。
 
-── 出自[倾城之链 - Shots - Create Amazing Mockups](https://nicelinks.site/post/6402e783db7c992ea464dd62)
+── 出自[倾城之链 - Shots - Create Amazing Mockups](https://site.lovejade.cn/post/6402e783db7c992ea464dd62)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://nicelinks.site/post/62e26704bd6b821eb12244dd)
+## [Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://site.lovejade.cn/post/62e26704bd6b821eb12244dd)
 
-**标签**：[`应用`](https://nicelinks.site/tags/应用) · [`运动`](https://nicelinks.site/tags/运动) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`应用`](https://site.lovejade.cn/tags/应用) · [`运动`](https://site.lovejade.cn/tags/运动) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 **关键字**：减肥, 健康减肥, 减肥好方法, 减肥干货, 燃脂, 有氧运动, 无氧运动, 家庭健身, 徒手健身, 器械健身, 人鱼线, 马甲线, 蜜桃臀, 腹肌撕裂者, 冥想, 卡路里计算
 
@@ -36,11 +36,11 @@ Keep 作为一家全球化的运动科技公司，他们相信科技的力量，
 
 Keep 官方主页有分享：“哪有什么天生如此，只是我们天天坚持，自律给我自由”，时值当下，颇为认可。不过，对于这款应用程序，截至目前还未曾使用，实际体验过的朋友，欢请分享下实际感受。
 
-── 出自[倾城之链 - Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://nicelinks.site/post/62e26704bd6b821eb12244dd)
+── 出自[倾城之链 - Keep-自律给我自由：健身跑步瑜伽，达人力荐的运动社区](https://site.lovejade.cn/post/62e26704bd6b821eb12244dd)
 
-## [Lapce](https://nicelinks.site/post/62e10d72bd6b821eb12244d8)
+## [Lapce](https://site.lovejade.cn/post/62e10d72bd6b821eb12244d8)
 
-**标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`开源`](https://nicelinks.site/tags/开源) · [`WebAssembly`](https://nicelinks.site/tags/WebAssembly)
+**标签**：[`编辑器`](https://site.lovejade.cn/tags/编辑器) · [`开源`](https://site.lovejade.cn/tags/开源) · [`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly)
 
 > Lightning-fast and Powerful Code Editor
 
@@ -78,11 +78,11 @@ Lapce 有一个命令调色板，其中包含 Lapce 提供的所有命令，并�
 
 需要说明的是，Lapce 尚在 `Pre-alpha` 阶段，有下载初步使用体验，功能比起 VsCode 之类的编辑器，还不太完善；但在速度这一块儿，确实很快（可达到「秒开」）。感兴趣的朋友，可以移步 [Lapce 文档](https://docs.lapce.dev/)，以便了解更多。
 
-── 出自[倾城之链 - Lapce](https://nicelinks.site/post/62e10d72bd6b821eb12244d8)
+── 出自[倾城之链 - Lapce](https://site.lovejade.cn/post/62e10d72bd6b821eb12244d8)
 
-## [Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://nicelinks.site/post/62e0fc58bd6b821eb12244d6)
+## [Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://site.lovejade.cn/post/62e0fc58bd6b821eb12244d6)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 
@@ -102,27 +102,27 @@ ESLint 发现的许多问题都可以自动修复。ESLint 修复是语法感知
 
 预处理代码，使用自定义解析器，并编写您自己的与 ESLint 的内置规则一起工作的规则。自定义 ESLint 以完全按照您的项目所需的方式工作。
 
-ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载量排名第一的 JavaScript linter（每周下载量超过两千万次），并被 Microsoft、Airbnb、Netflix 和 Facebook 等众多公司使用，目前已经更新到 `v8.20.0` 版本。
+ESLint 是 [npm](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b) 上下载量排名第一的 JavaScript linter（每周下载量超过两千万次），并被 Microsoft、Airbnb、Netflix 和 Facebook 等众多公司使用，目前已经更新到 `v8.20.0` 版本。
 
-多年来，ESLint 在帮助开发人员编写高质量的 JavaScript 方面一直发挥着重要作用，它能够及早并经常发现常见问题。凭借高水平的可扩展性，ESLint 可以让团队执行适用于他们的自定义规则，既能保证代码符合团队规范，又能定制团队喜欢的风格。早期，蛮喜欢 ESLint 这款工具，在 [Prettier](https://nicelinks.site/post/5c16083e819ae45de1453caa) 诞生之后，更偏向使用后者，虽然两者功能侧重点有所不同，且可以联合使用。
+多年来，ESLint 在帮助开发人员编写高质量的 JavaScript 方面一直发挥着重要作用，它能够及早并经常发现常见问题。凭借高水平的可扩展性，ESLint 可以让团队执行适用于他们的自定义规则，既能保证代码符合团队规范，又能定制团队喜欢的风格。早期，蛮喜欢 ESLint 这款工具，在 [Prettier](https://site.lovejade.cn/post/5c16083e819ae45de1453caa) 诞生之后，更偏向使用后者，虽然两者功能侧重点有所不同，且可以联合使用。
 
-── 出自[倾城之链 - Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://nicelinks.site/post/62e0fc58bd6b821eb12244d6)
+── 出自[倾城之链 - Find and fix problems in your JavaScript code - ESLint - Pluggable JavaScript Linter](https://site.lovejade.cn/post/62e0fc58bd6b821eb12244d6)
 
-## [ES6 入门教程](https://nicelinks.site/post/62dffa44bd6b821eb12244d1)
+## [ES6 入门教程](https://site.lovejade.cn/post/62dffa44bd6b821eb12244d1)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`教程`](https://nicelinks.site/tags/教程)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`教程`](https://site.lovejade.cn/tags/教程)
 
 > 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
 ![倾城之链 - ES6 入门教程](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/es6.ruanyifeng.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ES6 入门教程](https://es6.ruanyifeng.com/)，是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性（ECMAScript，它是由欧洲计算机协会(ECMA)，制定的一种脚本语言的标准化规范。ES6 发行于 2015 年 6 月，由于这个版本的语法规范，极大地提高了前端开发人员的**工作效率**，所以快速在前端圈子中流行开来，时至今日热度依旧不减）。作者是[阮一峰](https://nicelinks.site/post/59be8365f4aed63e37a280af)。该书对涉及的语法知识，给予详细介绍，并给出大量简洁易懂的示例代码。该书为「中级难度」，适合已经掌握 ES5 的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。如果你是 JavaScript 语言的初学者，建议先学完[《JavaScript 语言入门教程》](https://wangdoc.com/javascript/)，再来看本书。
+**推荐语**：[ES6 入门教程](https://es6.ruanyifeng.com/)，是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性（ECMAScript，它是由欧洲计算机协会(ECMA)，制定的一种脚本语言的标准化规范。ES6 发行于 2015 年 6 月，由于这个版本的语法规范，极大地提高了前端开发人员的**工作效率**，所以快速在前端圈子中流行开来，时至今日热度依旧不减）。作者是[阮一峰](https://site.lovejade.cn/post/59be8365f4aed63e37a280af)。该书对涉及的语法知识，给予详细介绍，并给出大量简洁易懂的示例代码。该书为「中级难度」，适合已经掌握 ES5 的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。如果你是 JavaScript 语言的初学者，建议先学完[《JavaScript 语言入门教程》](https://wangdoc.com/javascript/)，再来看本书。
 
-── 出自[倾城之链 - ES6 入门教程](https://nicelinks.site/post/62dffa44bd6b821eb12244d1)
+── 出自[倾城之链 - ES6 入门教程](https://site.lovejade.cn/post/62dffa44bd6b821eb12244d1)
 
-## [Quotefancy: Wallpapers With Inspirational Quotes](https://nicelinks.site/post/62dfc62abd6b821eb12244cf)
+## [Quotefancy: Wallpapers With Inspirational Quotes](https://site.lovejade.cn/post/62dfc62abd6b821eb12244cf)
 
-**标签**：[`灵感`](https://nicelinks.site/tags/灵感) · [`图片`](https://nicelinks.site/tags/图片) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`灵感`](https://site.lovejade.cn/tags/灵感) · [`图片`](https://site.lovejade.cn/tags/图片) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Explore the most inspirational quotes of all time. Download free, high-quality (4K) wallpapers featuring inspirational quotes.
 
@@ -132,7 +132,7 @@ ESLint 是 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 上下载
 
 此外，该网站还提供 QuoteFancy Studio 工具（即时网络访问。无需安装）。使得用户几秒钟内，生成带有您的报价的精美图像；为您的桌面背景、博客文章、演示文稿、社交媒体、视频、励志海报等创建高质量图像；但该工具并未免费（需要购买，价格 122 港元）。
 
-── 出自[倾城之链 - Quotefancy: Wallpapers With Inspirational Quotes](https://nicelinks.site/post/62dfc62abd6b821eb12244cf)
+── 出自[倾城之链 - Quotefancy: Wallpapers With Inspirational Quotes](https://site.lovejade.cn/post/62dfc62abd6b821eb12244cf)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Image Cutout and Background Removal – cutout.pro](https://nicelinks.site/post/60d48622db7006579fb126b0)
+## [Image Cutout and Background Removal – cutout.pro](https://site.lovejade.cn/post/60d48622db7006579fb126b0)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Image Cutout with Single-Click in One Second, online photo Background Eraser & Editor, change background for free.
 
@@ -18,11 +18,11 @@
 
 需要说明的是，[cutout.pro](https://www.cutout.pro/) 虽然支持免费使用，但免费下载并非高清图像；欲下载高清资源，需要获取积分（购买或做任务）。
 
-── 出自[倾城之链 - Image Cutout and Background Removal – cutout.pro](https://nicelinks.site/post/60d48622db7006579fb126b0)
+── 出自[倾城之链 - Image Cutout and Background Removal – cutout.pro](https://site.lovejade.cn/post/60d48622db7006579fb126b0)
 
-## [【抖音】记录美好生活](https://nicelinks.site/post/60d48417db7006579fb126ae)
+## [【抖音】记录美好生活](https://site.lovejade.cn/post/60d48417db7006579fb126ae)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`短视频`](https://nicelinks.site/tags/短视频) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`短视频`](https://site.lovejade.cn/tags/短视频) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 **关键字**：抖音, 抖音音乐, 抖音短视频, 抖音官网, amemv, 抖音 app, 抖音 app 下载
 
@@ -30,17 +30,17 @@
 
 ![倾城之链 - 【抖音】记录美好生活](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.douyin.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[抖音网页版](https://www.douyin.com/)共设十个栏目，包括直播、娱乐、知识、二次元、游戏、美食、体育、时尚、音乐。用户可以通过抖音账号登录，发布个人视频，目前内容仍以视频为主，多数在 1-5 分钟之间；官方描述，[抖音网页版](https://www.douyin.com/)的推出，是希望满足好用户在不同场景下的使用需求。随着视频化创作表达成为日常，抖音上积累了不同领域的内容，很多教授、学校也在抖音上发布知识类、教学类内容。这些内容往往以横屏为主，时长一般超过 5 分钟，网页版更适合这类内容的观看和消费。从视频时长和用户上传内容的模式来看，抖音网页版更加类似海外中长视频巨头 YouTube。在国内市场上，则与 [B 站](https://nicelinks.site/post/5a5cccc8e05887175ee08523)形成一定重叠。
+**推荐语**：[抖音网页版](https://www.douyin.com/)共设十个栏目，包括直播、娱乐、知识、二次元、游戏、美食、体育、时尚、音乐。用户可以通过抖音账号登录，发布个人视频，目前内容仍以视频为主，多数在 1-5 分钟之间；官方描述，[抖音网页版](https://www.douyin.com/)的推出，是希望满足好用户在不同场景下的使用需求。随着视频化创作表达成为日常，抖音上积累了不同领域的内容，很多教授、学校也在抖音上发布知识类、教学类内容。这些内容往往以横屏为主，时长一般超过 5 分钟，网页版更适合这类内容的观看和消费。从视频时长和用户上传内容的模式来看，抖音网页版更加类似海外中长视频巨头 YouTube。在国内市场上，则与 [B 站](https://site.lovejade.cn/post/5a5cccc8e05887175ee08523)形成一定重叠。
 
 从内容来看，主要来自部分抖音 App 的头部账号；和多数视频类网站相似，网页版视频可以调节为 0.75、1.25、1.5 倍速播放，还支持悬浮小窗口播放模式。不同于手机版 App 的算法推荐机制，网页版对视频内容进行分类筛选，向用户推荐近期抖音社区的高点赞数内容，还设置了搜索栏窗口，更强调用户的主动性。
 
 就个人感觉，给年轻的建议是：**珍爱生命，远离短视频**。
 
-── 出自[倾城之链 - 【抖音】记录美好生活](https://nicelinks.site/post/60d48417db7006579fb126ae)
+── 出自[倾城之链 - 【抖音】记录美好生活](https://site.lovejade.cn/post/60d48417db7006579fb126ae)
 
-## [Designify - Turn any photo into awesome](https://nicelinks.site/post/60d3319cdb7006579fb126ac)
+## [Designify - Turn any photo into awesome](https://site.lovejade.cn/post/60d3319cdb7006579fb126ac)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`图片`](https://nicelinks.site/tags/图片) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`图片`](https://site.lovejade.cn/tags/图片) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > Create exceptional product photos and more: Pick any image to start the magic ✨
 
@@ -52,11 +52,11 @@
 
 除此外，[Designify](https://www.designify.com/) 还提供「智能编辑器」，通过添加徽标或任何其他图像，来编辑您的设计。智能调整阴影，或自动匹配设计元素的颜色。告别像素选择。[Designify](https://www.designify.com/) 的编辑能力不同于您以前使用过的任何东西，这实在令人兴趣大增；如果您有类似诉求，不妨一试。
 
-── 出自[倾城之链 - Designify - Turn any photo into awesome](https://nicelinks.site/post/60d3319cdb7006579fb126ac)
+── 出自[倾城之链 - Designify - Turn any photo into awesome](https://site.lovejade.cn/post/60d3319cdb7006579fb126ac)
 
-## [众山小读书笔记软件](https://nicelinks.site/post/60d32eb4db7006579fb126aa)
+## [众山小读书笔记软件](https://site.lovejade.cn/post/60d32eb4db7006579fb126aa)
 
-**标签**：[`读书`](https://nicelinks.site/tags/读书) · [`笔记`](https://nicelinks.site/tags/笔记) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`读书`](https://site.lovejade.cn/tags/读书) · [`笔记`](https://site.lovejade.cn/tags/笔记) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > 众山小读书笔记，集中管理阅读数据；记录阅读数据，养成阅读习 ‪ 惯 ‬。
 
@@ -70,11 +70,11 @@
 - 记录阅读时间，丰富的统计图表让你了解自己的阅读习惯；
 - 数据云同步，随时免费导出所有笔记；
 
-── 出自[倾城之链 - 众山小读书笔记软件](https://nicelinks.site/post/60d32eb4db7006579fb126aa)
+── 出自[倾城之链 - 众山小读书笔记软件](https://site.lovejade.cn/post/60d32eb4db7006579fb126aa)
 
-## [友盟+，国内领先的第三方全域数据智能服务商](https://nicelinks.site/post/60d32878db7006579fb126a8)
+## [友盟+，国内领先的第三方全域数据智能服务商](https://site.lovejade.cn/post/60d32878db7006579fb126a8)
 
-**标签**：[`统计`](https://nicelinks.site/tags/统计) · [`互联网`](https://nicelinks.site/tags/互联网) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`统计`](https://site.lovejade.cn/tags/统计) · [`互联网`](https://site.lovejade.cn/tags/互联网) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 **关键字**：友盟, 友盟+, 友盟云, 友盟+官网, umeng, 友盟+统计, 全域数据, 移动统计, 友盟+sdk, youmeng, 友盟+分享, 友盟+推送, 移动广告监测, AI 大数据, 用户行为监测, App 行为分析, 移动分析
 
@@ -84,7 +84,7 @@
 
 **推荐语**：[友盟+](https://www.umeng.com/)，国内第三方全域数据服务商。2010 年 4 月友盟在北京成立，是中国专业的移动开发者服务平台。2016 年 1 月 26 日友盟、CNZZ 及缔元信三家公司正式合并，业务全面整合，升级为友盟 。友盟+以“数据智能，驱动业务增长”为使命，基于技术与算法能力，结合全域数据资源，挖掘出 40+ 标签大类，15,000+ 客群标签、100+ 用户/行业分析指标，通过 AI 赋能的一站式互联网数据产品与服务体系，帮助企业实现深度用户洞察、实时业务决策和持续业务增长。
 
-── 出自[倾城之链 - 友盟+，国内领先的第三方全域数据智能服务商](https://nicelinks.site/post/60d32878db7006579fb126a8)
+── 出自[倾城之链 - 友盟+，国内领先的第三方全域数据智能服务商](https://site.lovejade.cn/post/60d32878db7006579fb126a8)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

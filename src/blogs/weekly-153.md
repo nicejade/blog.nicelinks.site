@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [LangChain | Get your LLM application from prototype to production](https://nicelinks.site/post/65a92d572c315d2784ce66b9)
+## [LangChain | Get your LLM application from prototype to production](https://site.lovejade.cn/post/65a92d572c315d2784ce66b9)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`框架`](https://nicelinks.site/tags/框架) · [`LLM`](https://nicelinks.site/tags/LLM)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`框架`](https://site.lovejade.cn/tags/框架) · [`LLM`](https://site.lovejade.cn/tags/LLM)
 
 > LangChain’s flexible abstractions and extensive toolkit unlocks developers to build context-aware, reasoning LLM applications.
 
 ![倾城之链 - LangChain | Get your LLM application from prototype to production](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.langchain.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[LangChain](https://www.langchain.com/) 是一个专注于大型语言模型（ [LLM](https://nicelinks.site/tags/LLM) ）的开发者平台，它提供了一套工具和框架，帮助开发者将 LLM 应用从原型阶段推进到生产环境。以下是关于 LangChain 的详细介绍：
+**推荐语**：[LangChain](https://www.langchain.com/) 是一个专注于大型语言模型（ [LLM](https://site.lovejade.cn/tags/LLM) ）的开发者平台，它提供了一套工具和框架，帮助开发者将 LLM 应用从原型阶段推进到生产环境。以下是关于 LangChain 的详细介绍：
 
 ### **什么是 LangChain**？
 
@@ -75,17 +75,17 @@ LangChain 的这些特性使得它成为一个强大的平台，可以帮助开�
 
 总之，[LangChain](https://www.langchain.com/) 通过提供一系列的构建块、开源组件和预构建的链条，使得开发者能够快速上手并针对特定用例进行定制。同时，它还强调了生产环境的准备，通过提供调试、测试和监控工具，帮助开发者确保应用的稳定性和性能。
 
-── 出自[倾城之链 - LangChain | Get your LLM application from prototype to production](https://nicelinks.site/post/65a92d572c315d2784ce66b9)
+── 出自[倾城之链 - LangChain | Get your LLM application from prototype to production](https://site.lovejade.cn/post/65a92d572c315d2784ce66b9)
 
-## [Whimsical - Where great ideas take shape](https://nicelinks.site/post/65a889212c315d2784ce6064)
+## [Whimsical - Where great ideas take shape](https://site.lovejade.cn/post/65a889212c315d2784ce6064)
 
-**标签**：[`思维导图`](https://nicelinks.site/tags/思维导图) · [`协作`](https://nicelinks.site/tags/协作) · [`流程图`](https://nicelinks.site/tags/流程图)
+**标签**：[`思维导图`](https://site.lovejade.cn/tags/思维导图) · [`协作`](https://site.lovejade.cn/tags/协作) · [`流程图`](https://site.lovejade.cn/tags/流程图)
 
 > Whimsical combines whiteboards and docs in an all-in-one collaboration hub.
 
 ![倾城之链 - Whimsical - Where great ideas take shape](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/whimsical.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Whimsical](https://whimsical.com/) 是一个在线 [协作](https://nicelinks.site/tags/协作) 工具，它提供了一系列的功能来帮助团队进行有效的项目管理、 [思维导图](https://nicelinks.site/tags/思维导图) 制作、流程图绘制以及文档协作（视觉协作中心，将图表、 [白板](https://nicelinks.site/tags/白板) 等与 Whimsical 结合起来）。以下是 Whimsical 的一些主要产品和功能：
+**推荐语**：[Whimsical](https://whimsical.com/) 是一个在线 [协作](https://site.lovejade.cn/tags/协作) 工具，它提供了一系列的功能来帮助团队进行有效的项目管理、 [思维导图](https://site.lovejade.cn/tags/思维导图) 制作、流程图绘制以及文档协作（视觉协作中心，将图表、 [白板](https://site.lovejade.cn/tags/白板) 等与 Whimsical 结合起来）。以下是 Whimsical 的一些主要产品和功能：
 
 1.  **思维导图（Mind Maps）**：
 
@@ -134,19 +134,19 @@ LangChain 的这些特性使得它成为一个强大的平台，可以帮助开�
 
     - Whimsical 承诺保护用户数据的安全和隐私，遵循相关的数据保护法规。
 
-Whimsical 的目标是简化团队的协作流程，通过提供直观的工具和集成，帮助用户更高效地工作。它适用于各种规模的团队，无论是小型创业公司还是大型企业。它支持免费使用，专业版本 12 美元每月；有网友将其成为画图届的 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) ，如果您对其感兴趣，可移步至官方网站从而了解更多。
+Whimsical 的目标是简化团队的协作流程，通过提供直观的工具和集成，帮助用户更高效地工作。它适用于各种规模的团队，无论是小型创业公司还是大型企业。它支持免费使用，专业版本 12 美元每月；有网友将其成为画图届的 [Notion](https://site.lovejade.cn/post/5cbd4e8b7855f80ea42ea6ab) ，如果您对其感兴趣，可移步至官方网站从而了解更多。
 
-── 出自[倾城之链 - Whimsical - Where great ideas take shape](https://nicelinks.site/post/65a889212c315d2784ce6064)
+── 出自[倾城之链 - Whimsical - Where great ideas take shape](https://site.lovejade.cn/post/65a889212c315d2784ce6064)
 
-## [Craft – The Future of Documents](https://nicelinks.site/post/65a802112c315d2784ce5e08)
+## [Craft – The Future of Documents](https://site.lovejade.cn/post/65a802112c315d2784ce5e08)
 
-**标签**：[`笔记`](https://nicelinks.site/tags/笔记) · [`工作`](https://nicelinks.site/tags/工作) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`笔记`](https://site.lovejade.cn/tags/笔记) · [`工作`](https://site.lovejade.cn/tags/工作) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Create documents, which will make an impact. Try Craft for free both for personal and business/teams use cases.
 
 ![倾城之链 - Craft – The Future of Documents](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.craft.do.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Craft](https://www.craft.do/) 是一个提供一系列用于构思、组织和共享工作的功能和工具的平台（ [笔记](https://nicelinks.site/tags/笔记) 应用）。它旨在帮助个人和团队有效协作并保持井井有条。根据 Craft 网站上提供的内容，以下是有关 Craft 的一些要点：
+**推荐语**：[Craft](https://www.craft.do/) 是一个提供一系列用于构思、组织和共享工作的功能和工具的平台（ [笔记](https://site.lovejade.cn/tags/笔记) 应用）。它旨在帮助个人和团队有效协作并保持井井有条。根据 Craft 网站上提供的内容，以下是有关 Craft 的一些要点：
 
 1.  产品概述：Craft 是一个人们可以将想法付诸实践的平台。它为个人和团队提供了构思、组织和分享工作的空间。
 
@@ -168,17 +168,17 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 总之， [Craft](https://www.craft.do/) 是一款助力于工作、生活的笔记应用，它集成了很多您可能需要的工具，诸如图片和视频（为您的更新添加上下文和视觉趣味，使其更易于理解）、内置 AI 助手（让 AI 总结您的更新、检查拼写和语法或产生想法）、评论与反馈、代码块、结构化文件（将相关想法分组到卡片和页面中，以便为需要的人添加更多详细信息）、丰富的链接预览,,,,。如果您对其感兴趣，可移步至官网了解更多。
 
-── 出自[倾城之链 - Craft – The Future of Documents](https://nicelinks.site/post/65a802112c315d2784ce5e08)
+── 出自[倾城之链 - Craft – The Future of Documents](https://site.lovejade.cn/post/65a802112c315d2784ce5e08)
 
-## [Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.site/post/65a66b462c315d2784ce5446)
+## [Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://site.lovejade.cn/post/65a66b462c315d2784ce5446)
 
-**标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`教程`](https://nicelinks.site/tags/教程) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`Rust`](https://site.lovejade.cn/tags/Rust) · [`教程`](https://site.lovejade.cn/tags/教程) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Small exercises to get you used to reading and writing Rust code!
 
 ![倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rustlings.cool.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rustlings](https://rustlings.cool/) 是一个旨在帮助个人学习和练习 [Rust](https://nicelinks.site/tags/Rust) 编程的项目。它由一些小练习组成，帮助用户熟悉阅读和编写 Rust 代码，包括理解和响应编译器消息。关于 Rustlings 的主要特点和信息：
+**推荐语**：[Rustlings](https://rustlings.cool/) 是一个旨在帮助个人学习和练习 [Rust](https://site.lovejade.cn/tags/Rust) 编程的项目。它由一些小练习组成，帮助用户熟悉阅读和编写 Rust 代码，包括理解和响应编译器消息。关于 Rustlings 的主要特点和信息：
 
 1.  安装：要开始使用 Rustlings，您需要在系统上安装 Rust。有关安装 Rust 及其包管理器 Cargo 的说明，请访问 [https://rustup.rs](https://rustup.rs/) 。安装 Rust 后，您可以继续 Rustlings 安装过程。
 
@@ -198,17 +198,17 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 请注意，此处提供的信息基于 Rustlings 网站上提供的内容。如需最准确和最新的信息，建议 [访问 Rustlings 官方网站](https://rusdlings.cool/) 。 [Rustlings 项目在 Github 仓库开源](https://github.com/rust-lang/rustlings) （截止 2024 年 01 月 16 日，已收获 45.9K+ Star），如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://nicelinks.site/post/65a66b462c315d2784ce5446)
+── 出自[倾城之链 - Rustlings | 🦀 Small exercises to get you used to reading and writing Rust code](https://site.lovejade.cn/post/65a66b462c315d2784ce5446)
 
-## [Dona | A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
+## [Dona | A back to basic to-do list focused on fast and delightful user experience](https://site.lovejade.cn/post/65a5fb692c315d2784ce516e)
 
-**标签**：[`任务管理器`](https://nicelinks.site/tags/任务管理器) · [`产品`](https://nicelinks.site/tags/产品) · [`工作效率`](https://nicelinks.site/tags/工作效率)
+**标签**：[`任务管理器`](https://site.lovejade.cn/tags/任务管理器) · [`产品`](https://site.lovejade.cn/tags/产品) · [`工作效率`](https://site.lovejade.cn/tags/工作效率)
 
 > Dona is a back to basic to-do list focused on fast and delightful user experience. A more humane to-do list.
 
 ![倾城之链 - Dona |  A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dona.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dona](https://dona.ai/) 是一款回归本源 [待办事项](https://nicelinks.site/tags/任务管理器) 应用程序，致力于**提供快速、愉悦的用户体验**。它旨在简化任务管理，帮助用户以直观、愉快的方式实现目标。Dona 主要具有如下功能：
+**推荐语**：[Dona](https://dona.ai/) 是一款回归本源 [待办事项](https://site.lovejade.cn/tags/任务管理器) 应用程序，致力于**提供快速、愉悦的用户体验**。它旨在简化任务管理，帮助用户以直观、愉快的方式实现目标。Dona 主要具有如下功能：
 
 - **快速、愉悦的用户体验**： Dona 旨在提供无缝、高效的任务管理体验。该应用程序将速度和响应速度放在首位，确保用户可以快速添加、组织和完成任务。
 - **可定制的用户界面主题**： Dona 提供一系列自定义选项，包括浅色、深色和黑色用户界面主题。用户可以选择自己喜欢的主题，打造个性化的任务管理环境。
@@ -216,11 +216,11 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 此外，Dona 还为用户提供时事通讯，让他们随时了解最新消息和发展动态。用户还可以在 [Twitter 上关注 Dona](https://twitter.com/getdona) ，并加入他们的 Discord 社区，与其他用户交流并提供反馈。请注意，此处提供的信息以 Dona 网站上的内容为基础，可能随时更改。如需了解最准确的最新信息，建议 [访问 Dona 官方网站](https://dona.ai/) 。
 
-── 出自[倾城之链 - Dona | A back to basic to-do list focused on fast and delightful user experience](https://nicelinks.site/post/65a5fb692c315d2784ce516e)
+── 出自[倾城之链 - Dona | A back to basic to-do list focused on fast and delightful user experience](https://site.lovejade.cn/post/65a5fb692c315d2784ce516e)
 
-## [影刀 RPA - 影刀官网](https://nicelinks.site/post/65a3fd102c315d2784ce47ef)
+## [影刀 RPA - 影刀官网](https://site.lovejade.cn/post/65a3fd102c315d2784ce47ef)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`产品`](https://nicelinks.site/tags/产品) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`产品`](https://site.lovejade.cn/tags/产品) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 **关键字**：影刀，影刀 RPA
 
@@ -228,7 +228,7 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 
 ![倾城之链 - 影刀 RPA - 影刀官网](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.yingdao.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[影刀 RPA](https://www.yingdao.com/) 是一款软件机器人，能模拟人的各种操作，能在任何应用程式上进行鼠标点击、键盘输入、读取信息等 [自动化](https://nicelinks.site/tags/自动化) 操作，释放人非主观决策、逻辑性高、规则性强的工作（RPAl，Robotic Process Automation 的缩写，即机器人流程自动化）。它由杭州分叉智能科技有限公司研发。
+**推荐语**：[影刀 RPA](https://www.yingdao.com/) 是一款软件机器人，能模拟人的各种操作，能在任何应用程式上进行鼠标点击、键盘输入、读取信息等 [自动化](https://site.lovejade.cn/tags/自动化) 操作，释放人非主观决策、逻辑性高、规则性强的工作（RPAl，Robotic Process Automation 的缩写，即机器人流程自动化）。它由杭州分叉智能科技有限公司研发。
 
 2022 年 4 月，杭州分叉智能科技有限公司（简称：影刀 RPA）**完成 1 亿美元 C 轮融资**，本轮融资由高盛、某产业 CVC 机构领投，老股东 GGV 纪源资本、高瓴创投等跟投。在此之前，2021 年 7 月，影刀 RPA 完成由 Coatue Management 领投的 5000 万美元，再加上之前高瓴创投、GGV 纪**源**资本、红点中国、金沙江创投、初心资本、盈动资本、曦域资本、聚水潭等数轮数千万美元融资，影刀 RPA 在**2 年时间总共完成了近 2 亿美金融资**。
 
@@ -242,11 +242,11 @@ Whimsical 的目标是简化团队的协作流程，通过提供直观的工具�
 - **鼠标键盘的自动化**： 影刀可以控制键盘和鼠标：发送按键或将鼠标移至何处、模拟击键、鼠标移动和单击等，从而节省一些重复性的劳动时间；
 - **Excel 自动化**： 影刀支持 Excel 的宏、单元格、Sheet 等各类 Excel 自动化操作，如可以自动生成所需的 Excel 报表。
 
-如果您从事编程开发，或许听闻过自动化爬虫，通过 [Selenium](https://www.selenium.dev/) 、 [Puppeteer](https://nicelinks.site/post/625c3735ac29ce06470af877) 等框架，对于网页自动化，影刀 RPA 的作用跟这些框架类似，只不过无需编码经验即可使用，值得说明的是免费可用。
+如果您从事编程开发，或许听闻过自动化爬虫，通过 [Selenium](https://www.selenium.dev/) 、 [Puppeteer](https://site.lovejade.cn/post/625c3735ac29ce06470af877) 等框架，对于网页自动化，影刀 RPA 的作用跟这些框架类似，只不过无需编码经验即可使用，值得说明的是免费可用。
 
 影刀 RPA，秉承以“全球化、桌面级产品”为愿景；以“用创想与技术推动商业提效”为使命，为客户提供优质的产品与服务。已帮助全球 10,000+ 企业创造了自动化的虚拟劳动力，涵盖电商、金融、互联网、高校、制造、物流、通讯等多个领域。在上海、广州、深圳、厦门、北京、南京均设有分支机构。如果您对这款产品感兴趣，不妨 [移步至其官网](https://www.yingdao.com/product/) 从而了解更多。
 
-── 出自[倾城之链 - 影刀 RPA - 影刀官网](https://nicelinks.site/post/65a3fd102c315d2784ce47ef)
+── 出自[倾城之链 - 影刀 RPA - 影刀官网](https://site.lovejade.cn/post/65a3fd102c315d2784ce47ef)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [什么值得买 | 分享每一种值](https://nicelinks.site/post/614c7a6a835dda0faf03db39)
+## [什么值得买 | 分享每一种值](https://site.lovejade.cn/post/614c7a6a835dda0faf03db39)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`购物`](https://nicelinks.site/tags/购物) · [`产品推荐`](https://nicelinks.site/tags/产品推荐)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`购物`](https://site.lovejade.cn/tags/购物) · [`产品推荐`](https://site.lovejade.cn/tags/产品推荐)
 
 **关键字**：什么值得买, 值得买, 网购, 消费, 优惠
 
@@ -18,11 +18,11 @@
 
 事实上，个人还未使用过这款产品；这违背了固有的消费理念（固定平台，按需购买，依据看中的点做决策）。对于购物这事儿，有探索欲、分享欲，或对优惠券，新品试用资格等感兴趣的朋友，[什么值得买](https://www.smzdm.com/)的存在或许对您有所帮助。
 
-── 出自[倾城之链 - 什么值得买 | 分享每一种值](https://nicelinks.site/post/614c7a6a835dda0faf03db39)
+── 出自[倾城之链 - 什么值得买 | 分享每一种值](https://site.lovejade.cn/post/614c7a6a835dda0faf03db39)
 
-## [造作新家官网-全球设计师创作家居品牌](https://nicelinks.site/post/614878fe48b293062990b364)
+## [造作新家官网-全球设计师创作家居品牌](https://site.lovejade.cn/post/614878fe48b293062990b364)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`生活`](https://nicelinks.site/tags/生活) · [`设计师`](https://nicelinks.site/tags/设计师)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`生活`](https://site.lovejade.cn/tags/生活) · [`设计师`](https://site.lovejade.cn/tags/设计师)
 
 **关键字**：造作新家, 造作新家官网, 家居品牌, 家居设计师
 
@@ -32,11 +32,11 @@
 
 **推荐语**：[造作新家官网](https://www.zaozuo.com/)，全球设计师创作家居品牌（造是制造，作是作品）。2014 年 9 月，创立于中国北京，以“设计美学”“供应管控”“线上效率”，为中国年轻中产阶级创造“生动明艳”、“品质精细”、“价格宜人”的产品。这些年间，造作与全世界 100+ 真正 知名在册的设计师和 50+ 中国一线外贸精工厂联手创造了 3000+ 原创作品，进入 200 万中 产家庭；其主要涉及的有沙发、茶几、椅凳、桌类、柜架、床（床具）、灯具、家纺、家居等等。
 
-── 出自[倾城之链 - 造作新家官网-全球设计师创作家居品牌](https://nicelinks.site/post/614878fe48b293062990b364)
+── 出自[倾城之链 - 造作新家官网-全球设计师创作家居品牌](https://site.lovejade.cn/post/614878fe48b293062990b364)
 
-## [趣无尽 – Maker 的头条，创造乐趣无尽](https://nicelinks.site/post/614836c548b293062990b35f)
+## [趣无尽 – Maker 的头条，创造乐趣无尽](https://site.lovejade.cn/post/614836c548b293062990b35f)
 
-**标签**：[`树莓派`](https://nicelinks.site/tags/树莓派) · [`有趣`](https://nicelinks.site/tags/有趣) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`树莓派`](https://site.lovejade.cn/tags/树莓派) · [`有趣`](https://site.lovejade.cn/tags/有趣) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 **关键字**：趣无尽, 创客, 创客空间, 手工, 创意, 树莓派, Arduino, 3D 打印, 乐高
 
@@ -52,11 +52,11 @@
 
 [趣无尽](https://www.quwj.com/)也将从其他方面支持创客，以帮助他们完成出色的作品：提供研发策划方案、推广方案、协调生产制造资源、完成市场相关的工作以及必要的资金支持。MAKE 是[趣无尽](https://www.quwj.com/)的本源。他们鼓励创客们在这里发生、互动、参与建设。追求 MAKE 的乐趣是[趣无尽](https://www.quwj.com/)的渴望，而为它投入的精力，则在慢慢实现着他们的价值。
 
-── 出自[倾城之链 - 趣无尽 – Maker 的头条，创造乐趣无尽](https://nicelinks.site/post/614836c548b293062990b35f)
+── 出自[倾城之链 - 趣无尽 – Maker 的头条，创造乐趣无尽](https://site.lovejade.cn/post/614836c548b293062990b35f)
 
-## [农业百科\_农村养殖与农业种植技术推广网站](https://nicelinks.site/post/614826f148b293062990b35c)
+## [农业百科\_农村养殖与农业种植技术推广网站](https://site.lovejade.cn/post/614826f148b293062990b35c)
 
-**标签**：[`农业`](https://nicelinks.site/tags/农业) · [`百科`](https://nicelinks.site/tags/百科) · [`科技`](https://nicelinks.site/tags/科技)
+**标签**：[`农业`](https://site.lovejade.cn/tags/农业) · [`百科`](https://site.lovejade.cn/tags/百科) · [`科技`](https://site.lovejade.cn/tags/科技)
 
 **关键字**：农业百科, 农村养殖, 农业种植, 种植技术
 
@@ -66,7 +66,7 @@
 
 **推荐语**：[农业百科](=http://www.nongyie.com/)，是农村养殖与农业种植技术推广网站（系国内目前最受欢迎的农业生产技术推广网站之一）；专业提供各类主要农产品价格实时信息，普及农村养殖业、种植业知识与最新技术，从农业生产所涉及到的有关农机、种子、化肥、农药等方方面面对农民朋友进行技术指导。自创建以来，本站始终始坚持“推广农业科技，服务农村经济发展”的总体思路，致力于为中国农业与农村经济的发展献策献力。
 
-── 出自[倾城之链 - 农业百科\_农村养殖与农业种植技术推广网站](https://nicelinks.site/post/614826f148b293062990b35c)
+── 出自[倾城之链 - 农业百科\_农村养殖与农业种植技术推广网站](https://site.lovejade.cn/post/614826f148b293062990b35c)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

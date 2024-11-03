@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://nicelinks.site/post/6363c2ac913d6a05d4056be7)
+## [Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://site.lovejade.cn/post/6363c2ac913d6a05d4056be7)
 
-**标签**：[`3D`](https://nicelinks.site/tags/3D) · [`引擎`](https://nicelinks.site/tags/引擎) · [`XR`](https://nicelinks.site/tags/XR)
+**标签**：[`3D`](https://site.lovejade.cn/tags/3D) · [`引擎`](https://site.lovejade.cn/tags/引擎) · [`XR`](https://site.lovejade.cn/tags/XR)
 
 > Babylon.js is one of the world's leading WebGL-based graphics engines. From a new visual scene inspector, best-in-class physically-based rendering, countless performance optimizations, and much more, Babylon.js brings powerful, beautiful, simple, and open 3D to everyone on the web.
 
@@ -42,11 +42,11 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 以上提及的特性，用其官方团队的表述，只是**冰山一角**；如果您对 Babylon 或者 WebGL、WebXR、MR、3D 感兴趣，可以前往 [Babylon 完整的功能列表](https://www.babylonjs.com/specifications/) 以了解更多；此外，Babylon 在 [Github 开源](https://github.com/BabylonJS/Babylon.js)，您可以通过 npm 或 CDN 直接使用。
 
-── 出自[倾城之链 - Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://nicelinks.site/post/6363c2ac913d6a05d4056be7)
+── 出自[倾城之链 - Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best ](https://site.lovejade.cn/post/6363c2ac913d6a05d4056be7)
 
-## [逗比联萌 - 表情包大全 - 微信表情包 - QQ 表情包 - 颜文字吐个槽](https://nicelinks.site/post/636271a7913d6a05d40561e8)
+## [逗比联萌 - 表情包大全 - 微信表情包 - QQ 表情包 - 颜文字吐个槽](https://site.lovejade.cn/post/636271a7913d6a05d40561e8)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`搜索`](https://nicelinks.site/tags/搜索) · [`表情`](https://nicelinks.site/tags/表情)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`搜索`](https://site.lovejade.cn/tags/搜索) · [`表情`](https://site.lovejade.cn/tags/表情)
 
 **关键字**：表情包, 表情包搜索, 聊天表情, 微信表情包, QQ 表情包, 颜文字, 表情包大全, 表情包下载
 
@@ -54,13 +54,13 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 
 ![倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ表情包 - 颜文字吐个槽](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.doubilm.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[逗比联萌](https://www.doubilm.com/)，一个表情包搜索网站（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Nuxt.js 框架所搭建）；该网站有海量的聊天表情，微信表情包，QQ 表情包，颜文字等，而且内置「搜索」🔍 功能，支持检索想要的表情（多以搞笑为主）；此外，它还提供「图片做旧」等功能。在聊天中喜欢夹在表情的朋友，可以考虑关注下；值得说明的是，`逗比联萌`也有提供`小程序`版本。
+**推荐语**：[逗比联萌](https://www.doubilm.com/)，一个表情包搜索网站（基于 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)、Nuxt.js 框架所搭建）；该网站有海量的聊天表情，微信表情包，QQ 表情包，颜文字等，而且内置「搜索」🔍 功能，支持检索想要的表情（多以搞笑为主）；此外，它还提供「图片做旧」等功能。在聊天中喜欢夹在表情的朋友，可以考虑关注下；值得说明的是，`逗比联萌`也有提供`小程序`版本。
 
-── 出自[倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ 表情包 - 颜文字吐个槽](https://nicelinks.site/post/636271a7913d6a05d40561e8)
+── 出自[倾城之链 - 逗比联萌 - 表情包大全 - 微信表情包 - QQ 表情包 - 颜文字吐个槽](https://site.lovejade.cn/post/636271a7913d6a05d40561e8)
 
-## [Dracula — Dark theme for 280+ apps](https://nicelinks.site/post/636108c262decd06091f4ab9)
+## [Dracula — Dark theme for 280+ apps](https://site.lovejade.cn/post/636108c262decd06091f4ab9)
 
-**标签**：[`配色`](https://nicelinks.site/tags/配色) · [`程序员`](https://nicelinks.site/tags/程序员) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`配色`](https://site.lovejade.cn/tags/配色) · [`程序员`](https://site.lovejade.cn/tags/程序员) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 > Dracula is a color scheme for code editors and terminal emulators such as Vim, Notepad++, iTerm, VSCode, Terminal.app, ZSH, and much more.
 
@@ -69,13 +69,13 @@ Babylon.js 5.0 还添加了对世界上最先进的 3D 界面组件库 Mixed Rea
 **推荐语**：[Dracula](https://draculatheme.com/) ，是一种用于代码编辑器和终端模拟器（Terminal emulators）的颜色方案，如 Vim、Notepad++、iTerm、VSCode、Terminal.app、ZSH 等等。Dracula 是适用于多大 280 余个应用的**深色主题**，其中 220+ 适配 Mac
 & Linux 平台、有 210 款适配于 Windows。除了常见的编辑器、终端模拟器之外，还作用于很多应用程序或平台，如：Telegram、Wallpaper、Slack、Chrome、Firefox、BetterDiscord、Steam、Github Pages、Wox、DuckDuckGo、Gitk、[Obsidian](https://draculatheme.com/obsidian)、Figma、Typora、Vimium、XChat、Github、WordPress、Plank...... 您可以在该平台检索您想作用的应用。
 
-关于 Dracula（德古拉）起源故事，背后是一段作者在 2013 年波折经历，感兴趣的朋友可以浏览下：[Dracula 项目的起源故事](https://draculatheme.com/about)。“福兮祸之所倚，祸兮福之所伏”，很多时候一段糟糕的经历，可以成为灵感创作的源泉。作为程序员，有在 [VsCode](https://nicelinks.site/post/5af55777979f626ea3d37917) 、Chrome 以及 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 等应用中使用了 dracula 主题，感觉非常好，相信您很可能也会喜欢。
+关于 Dracula（德古拉）起源故事，背后是一段作者在 2013 年波折经历，感兴趣的朋友可以浏览下：[Dracula 项目的起源故事](https://draculatheme.com/about)。“福兮祸之所倚，祸兮福之所伏”，很多时候一段糟糕的经历，可以成为灵感创作的源泉。作为程序员，有在 [VsCode](https://site.lovejade.cn/post/5af55777979f626ea3d37917) 、Chrome 以及 [Obsidian](https://site.lovejade.cn/post/6266999577f8270876fcb3d6) 等应用中使用了 dracula 主题，感觉非常好，相信您很可能也会喜欢。
 
-── 出自[倾城之链 - Dracula — Dark theme for 280+ apps](https://nicelinks.site/post/636108c262decd06091f4ab9)
+── 出自[倾城之链 - Dracula — Dark theme for 280+ apps](https://site.lovejade.cn/post/636108c262decd06091f4ab9)
 
-## [App Analytics | Mobile Data Analytics Tools | data.ai](https://nicelinks.site/post/635fbc02a04a541a8bbb0230)
+## [App Analytics | Mobile Data Analytics Tools | data.ai](https://site.lovejade.cn/post/635fbc02a04a541a8bbb0230)
 
-**标签**：[`分析`](https://nicelinks.site/tags/分析) · [`AI`](https://nicelinks.site/tags/AI) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`分析`](https://site.lovejade.cn/tags/分析) · [`AI`](https://site.lovejade.cn/tags/AI) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Data.ai（前身为 App Annie）为应用程序分析数据提供易用的平台和工具。与我们一起更高效地运行您应用业务的每个阶段。
 
@@ -125,7 +125,7 @@ Data.ai 的产品支持 7 种语言，我们的员工分布在 15 个国家和�
 
 它统一数据 AI 将消费者数据和市场数据估算结合在一个 AI 驱动的平台上，以便获得洞察，制定策略和开展行动。如果您想在移动应用领域大展拳脚，可以考虑借助 data.ai 来了解、对标和优化移动与数字性能，从而辅助做关键决策。
 
-── 出自[倾城之链 - App Analytics | Mobile Data Analytics Tools | data.ai](https://nicelinks.site/post/635fbc02a04a541a8bbb0230)
+── 出自[倾城之链 - App Analytics | Mobile Data Analytics Tools | data.ai](https://site.lovejade.cn/post/635fbc02a04a541a8bbb0230)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

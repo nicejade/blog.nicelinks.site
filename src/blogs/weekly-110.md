@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://nicelinks.site/post/641c3f99abfccb2329b4cec3)
+## [Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://site.lovejade.cn/post/641c3f99abfccb2329b4cec3)
 
-**标签**：[`软件`](https://nicelinks.site/tags/软件) · [`产品`](https://nicelinks.site/tags/产品) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`软件`](https://site.lovejade.cn/tags/软件) · [`产品`](https://site.lovejade.cn/tags/产品) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Jami - the distributed and open source communication platform
 
@@ -28,11 +28,11 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 
 总之，Jami 是一款安全、私密、稳定的通讯工具，可以让用户轻松地进行点对点通话、文件传输等操作，保障使用者的隐私和安全。同时，Jami 的去中心化特性也为用户提供了更为自由的通讯选择，是一个非常优秀的通讯工具。
 
-── 出自[倾城之链 - Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://nicelinks.site/post/641c3f99abfccb2329b4cec3)
+── 出自[倾城之链 - Jami | 开源的团队协作软件，可以文字聊天、视频通话、屏幕共享等](https://site.lovejade.cn/post/641c3f99abfccb2329b4cec3)
 
-## [BlueQubit App](https://nicelinks.site/post/641c3d02abfccb2329b4cdc9)
+## [BlueQubit App](https://site.lovejade.cn/post/641c3d02abfccb2329b4cdc9)
 
-**标签**：[`算法`](https://nicelinks.site/tags/算法) · [`平台`](https://nicelinks.site/tags/平台) · [`量子`](https://nicelinks.site/tags/量子)
+**标签**：[`算法`](https://site.lovejade.cn/tags/算法) · [`平台`](https://site.lovejade.cn/tags/平台) · [`量子`](https://site.lovejade.cn/tags/量子)
 
 > BlueQubit app is the simplest way to interact with Quantum. Run quantum programs on CPU/GPU simulators as well as connect to actual quantum devices with a 1-click.
 
@@ -57,39 +57,39 @@ Jami 能够适用于各种不同的平台，包括 Windows、macOS、iOS、Andro
 
 总之，BlueQubit App 是一个功能强大的云计算平台，为量子计算和智能算法开发者提供了高效、便捷的开发环境和资源，让用户能够更加专注和高效地进行算法的研究和开发。
 
-── 出自[倾城之链 - BlueQubit App](https://nicelinks.site/post/641c3d02abfccb2329b4cdc9)
+── 出自[倾城之链 - BlueQubit App](https://site.lovejade.cn/post/641c3d02abfccb2329b4cdc9)
 
-## [Products, Tools and Resources for Developers & Designers | Resource.fyi](https://nicelinks.site/post/6419a31ffaf6ad624e27a29e)
+## [Products, Tools and Resources for Developers & Designers | Resource.fyi](https://site.lovejade.cn/post/6419a31ffaf6ad624e27a29e)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`资源`](https://nicelinks.site/tags/资源) · [`聚合`](https://nicelinks.site/tags/聚合)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`资源`](https://site.lovejade.cn/tags/资源) · [`聚合`](https://site.lovejade.cn/tags/聚合)
 
 > Handpicked Free Tools, Resources and Products Curated for Developers, Designers, Marketers and More. Explore, submit and support - Products, resources and tools created for tech enthusiasts and professionals.
 
 ![倾城之链 - Products, Tools and Resources for Developers & Designers | Resource.fyi](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/resource.fyi.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Resource.fyi](https://resource.fyi/) ，是一个互动 [平台](https://nicelinks.site/tags/平台) ，为开发人员、设计师、营销人员和技术专业人士策划的资源、产品和工具。该网站提供了大量的技能学习资源，包括编程语言、设计工具、数据科学、自我提高、工具和资源等，它们都是经过筛选和认可的高质量资源。
+**推荐语**：[Resource.fyi](https://resource.fyi/) ，是一个互动 [平台](https://site.lovejade.cn/tags/平台) ，为开发人员、设计师、营销人员和技术专业人士策划的资源、产品和工具。该网站提供了大量的技能学习资源，包括编程语言、设计工具、数据科学、自我提高、工具和资源等，它们都是经过筛选和认可的高质量资源。
 
 该网站的主要特点是其简洁和易于浏览的设计。每个资源都有一个简短的描述和评级，以及链接到该资源的详细信息页面。这些详细信息页面包括资源的类型、难度、费用和其他相关信息。此外，用户还可以为每个资源提供反馈和评论。
 
 Resource.fyi 还提供了许多有用的工具，例如自动化和人工智能、无代码、云存储、Web3 等，这些都有助于用户更好地选择和利用技能学习资源。总之，这是一个旨在帮助人们了解各种技能学习资源的网站。如果您感兴趣的可移步前往，从而了解更多。
 
-── 出自[倾城之链 - Products, Tools and Resources for Developers & Designers | Resource.fyi](https://nicelinks.site/post/6419a31ffaf6ad624e27a29e)
+── 出自[倾城之链 - Products, Tools and Resources for Developers & Designers | Resource.fyi](https://site.lovejade.cn/post/6419a31ffaf6ad624e27a29e)
 
-## [Style Component | Visual primitives for the component age](https://nicelinks.site/post/641996e1faf6ad624e27a117)
+## [Style Component | Visual primitives for the component age](https://site.lovejade.cn/post/641996e1faf6ad624e27a117)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅🏾
 
 ![倾城之链 - Style Component | Visual primitives for the component age](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/styled-components.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Styled Components](https://styled-components.com/) 是一个基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 库的 CSS in JS 库，提供了一种在 React 组件中编写 CSS 样式的全新方式。在传统的 React 组件中，我们通常使用外部样式表或者内联样式来定义样式，但是这种方式会导致样式表分散在不同文件或者组件中，造成管理难度和维护困难的问题。而使用 Styled Components，所有的样式都定义在组件内部，使得代码更加简洁、易于维护。
+**推荐语**：[Styled Components](https://styled-components.com/) 是一个基于 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 库的 CSS in JS 库，提供了一种在 React 组件中编写 CSS 样式的全新方式。在传统的 React 组件中，我们通常使用外部样式表或者内联样式来定义样式，但是这种方式会导致样式表分散在不同文件或者组件中，造成管理难度和维护困难的问题。而使用 Styled Components，所有的样式都定义在组件内部，使得代码更加简洁、易于维护。
 
 Styled Components 提供了一个诸如 CSS 的语言来定义样式，并使用模板字符串和 JavaScript 对象来创建组件样式。它还支持动态样式和样式的继承，方便开发人员根据组件状态或者数据动态地修改样式。
 
 同时，Styled Components 还提供了一些特殊的样式组件，如 GlobalStyle 组件用于定义全局样式，以及 ThemeProvider 组件用于管理主题，为开发人员提供了更加便利的开发体验。
 
-理论上来说，任何支持 JavaScript 的框架都可以使用 Style Component 这种 CSS-in-JS 的方案。除了 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) ，Styled Components 也可以在 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Angular 等其他前端框架中进行使用。总之，Styled Components 的目标是为了简化前端样式编写的过程，增强样式的可重用性和可维护性，提高前端开发的效率。
+理论上来说，任何支持 JavaScript 的框架都可以使用 Style Component 这种 CSS-in-JS 的方案。除了 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) ，Styled Components 也可以在 [Vue.js](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、Angular 等其他前端框架中进行使用。总之，Styled Components 的目标是为了简化前端样式编写的过程，增强样式的可重用性和可维护性，提高前端开发的效率。
 
 在 Vue 中，有类似于 Style Component 的库叫做 [Vue Styled Components](https://github.com/styled-components/vue-styled-components) 或者 Vue CSS-in-JS，让你可以使用类似的语法来管理组件的样式。不同框架所使用的具体实现方式可能略有不同，但是核心概念是一样的，都是将组件的样式作为组件的一部分进行管理，以达到可维护性和可重用性的目的。
 
@@ -109,15 +109,15 @@ Styled Components 和 Tailwind CSS 都是一些流行的前端工具，但是它
 
 Styled Components 是一个 CSS in JS 库，它提供了一种在 React 组件中编写 CSS 样式的全新方式。Styled Components 让所有的样式都定义在组件内部，减少了样式冲突和维护的难度。它还提供了一些特殊的样式组件，如 GlobalStyle 组件用于定义全局样式，以及 ThemeProvider 组件用于管理主题，为开发人员提供了更加便利的开发体验。Styled Components 适用于需要灵活和动态控制样式的应用场景。
 
-[Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 是一个实用的 CSS 框架，为开发人员提供了一系列预定义的 CSS 类。Tailwind CSS 类的名称通常是根据它们所编写的样式来命名的，如： `text-center`, `bg-green-500`, `w-1/2`  等。开发人员可以直接使用这些类名来快速编写页面样式，而无需手动编写任何 CSS。Tailwind CSS 并没有使用任何预定义的颜色或样式，而是提供了一组原子级别的 CSS 类来帮助使用者精细控制样式。Tailwind CSS 适用于需要快速开发样式或者需要与设计师紧密合作的应用场景。
+[Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 是一个实用的 CSS 框架，为开发人员提供了一系列预定义的 CSS 类。Tailwind CSS 类的名称通常是根据它们所编写的样式来命名的，如： `text-center`, `bg-green-500`, `w-1/2`  等。开发人员可以直接使用这些类名来快速编写页面样式，而无需手动编写任何 CSS。Tailwind CSS 并没有使用任何预定义的颜色或样式，而是提供了一组原子级别的 CSS 类来帮助使用者精细控制样式。Tailwind CSS 适用于需要快速开发样式或者需要与设计师紧密合作的应用场景。
 
 综上所述，Styled Components 是一种注重灵活性和可定制性的 CSS in JS 库，适用于需要动态控制样式的应用场景，而 Tailwind CSS 则是为了帮助开发人员更快速而准确地编写样式，适用于需要快速开发样式或与设计师紧密合作的应用场景。推荐的应用方式是，以 Tailwind CSS 为主，在需要动态修改样式等场景，利用 Styled Components 的灵活性做配合。如果您对它感兴趣，可移步 [Github 仓库](https://github.com/styled-components/styled-components) 从而了解更多。
 
-── 出自[倾城之链 - Style Component | Visual primitives for the component age](https://nicelinks.site/post/641996e1faf6ad624e27a117)
+── 出自[倾城之链 - Style Component | Visual primitives for the component age](https://site.lovejade.cn/post/641996e1faf6ad624e27a117)
 
-## [Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://nicelinks.site/post/64199660faf6ad624e27a0b3)
+## [Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://site.lovejade.cn/post/64199660faf6ad624e27a0b3)
 
-**标签**：[`社区`](https://nicelinks.site/tags/社区) · [`技术`](https://nicelinks.site/tags/技术) · [`教程`](https://nicelinks.site/tags/教程)
+**标签**：[`社区`](https://site.lovejade.cn/tags/社区) · [`技术`](https://site.lovejade.cn/tags/技术) · [`教程`](https://site.lovejade.cn/tags/教程)
 
 > Social network for developers to discuss topics about bugs and issues, write and share knowledge and connect with millions of developers worldwide.
 
@@ -131,7 +131,7 @@ Morioh 的特点在于它使用非常简洁、直观的界面设计，用户可�
 
 总之，Morioh 是一个非常实用的技术社区，对于想要学习、分享 IT 技术和开发经验的人来说，是一个很好的资源。
 
-── 出自[倾城之链 - Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://nicelinks.site/post/64199660faf6ad624e27a0b3)
+── 出自[倾城之链 - Morioh | 技术社区网站，提供各种 IT 技术和开发教程、资源和文章](https://site.lovejade.cn/post/64199660faf6ad624e27a0b3)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

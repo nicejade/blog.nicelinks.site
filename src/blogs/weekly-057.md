@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Swift.org - Welcome to Swift.org](https://nicelinks.site/post/6232f5ca77e4352be838a308)
+## [Swift.org - Welcome to Swift.org](https://site.lovejade.cn/post/6232f5ca77e4352be838a308)
 
-**标签**：[`编程`](https://nicelinks.site/tags/编程) · [`苹果`](https://nicelinks.site/tags/苹果) · [`编程语言`](https://nicelinks.site/tags/编程语言)
+**标签**：[`编程`](https://site.lovejade.cn/tags/编程) · [`苹果`](https://site.lovejade.cn/tags/苹果) · [`编程语言`](https://site.lovejade.cn/tags/编程语言)
 
 **关键字**：Swift, 编程语言, Apple, iOS, 现代, 安全, 高性能, 用户体验, Xcode, 简单
 
@@ -48,11 +48,11 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 对于新手来说，学习 Swift 是对现代编程概念和最佳实践的一个很好的介绍。而且由于它是开放的，他们的 Swift 技能将能够应用于更广泛的平台，从移动设备到桌面再到云。
 
-── 出自[倾城之链 - Swift.org - Welcome to Swift.org](https://nicelinks.site/post/6232f5ca77e4352be838a308)
+── 出自[倾城之链 - Swift.org - Welcome to Swift.org](https://site.lovejade.cn/post/6232f5ca77e4352be838a308)
 
-## [jsDelivr - A free, fast, and reliable CDN for open source](https://nicelinks.site/post/62321d8373e9e03b84d59879)
+## [jsDelivr - A free, fast, and reliable CDN for open source](https://site.lovejade.cn/post/62321d8373e9e03b84d59879)
 
-**标签**：[`CDN`](https://nicelinks.site/tags/CDN) · [`免费`](https://nicelinks.site/tags/免费) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`CDN`](https://site.lovejade.cn/tags/CDN) · [`免费`](https://site.lovejade.cn/tags/免费) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：jsdelivr, cdn, npm, github, js, javascript, free, open source, oss, deno, wordpress
 
@@ -90,11 +90,11 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 如果您想了解 jsDelivr 是如何工作的，详情可参见：[How jsDelivr works](https://www.jsdelivr.com/network/infographic)。jsDelivr，对 Web 开发者尤其有用，相对于其他 CDN 服务，JSDeliver 快速而稳定，值得信赖。
 
-── 出自[倾城之链 - jsDelivr - A free, fast, and reliable CDN for open source](https://nicelinks.site/post/62321d8373e9e03b84d59879)
+── 出自[倾城之链 - jsDelivr - A free, fast, and reliable CDN for open source](https://site.lovejade.cn/post/62321d8373e9e03b84d59879)
 
-## [最新电影-热播电视剧免费在线观看-视中心影院](https://nicelinks.site/post/6231ef5e0f09030dc18e0d9e)
+## [最新电影-热播电视剧免费在线观看-视中心影院](https://site.lovejade.cn/post/6231ef5e0f09030dc18e0d9e)
 
-**标签**：[`电影`](https://nicelinks.site/tags/电影) · [`在线`](https://nicelinks.site/tags/在线) · [`动漫`](https://nicelinks.site/tags/动漫)
+**标签**：[`电影`](https://site.lovejade.cn/tags/电影) · [`在线`](https://site.lovejade.cn/tags/在线) · [`动漫`](https://site.lovejade.cn/tags/动漫)
 
 **关键字**：在线影院, 免费电影网, 无广告电影网, 电视剧超前点播, 电视剧免费观看, 电视剧大全, 在线观看
 
@@ -104,11 +104,11 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 **推荐语**：[视中心影院](https://www.mhz8.com/)，是为网友提供音影相关的娱乐网站，涵盖有电影、电视剧、综艺、动漫等内容，此外还提供有影视资讯。值得一提的是，该网站所涉及的内容，时值当下，不仅提供了详细介绍，而且在线可播放（除去优酷视频外，还有诸多其他节点）；更值得称赞的是，视频质量不错，且没有广告。初次体验，网站稳定性、访问速度这块儿，似乎有待提升。
 
-── 出自[倾城之链 - 最新电影-热播电视剧免费在线观看-视中心影院](https://nicelinks.site/post/6231ef5e0f09030dc18e0d9e)
+── 出自[倾城之链 - 最新电影-热播电视剧免费在线观看-视中心影院](https://site.lovejade.cn/post/6231ef5e0f09030dc18e0d9e)
 
-## [[Forem] Community for Everyone](https://nicelinks.site/post/622f3d866b1cb73bee890063)
+## [[Forem] Community for Everyone](https://site.lovejade.cn/post/622f3d866b1cb73bee890063)
 
-**标签**：[`论坛`](https://nicelinks.site/tags/论坛) · [`工具`](https://nicelinks.site/tags/工具) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`论坛`](https://site.lovejade.cn/tags/论坛) · [`工具`](https://site.lovejade.cn/tags/工具) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > The reason you joined the Internet. Forem provides open-source tools to help you host a thriving, focused, and adaptable community.
 
@@ -140,13 +140,13 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 该平台使您可以通过自定义页面做任何事情，从独特的静态内容到运行有数千名参与者的实时会议。
 
-[Forem](https://www.forem.com/) 为蓬勃发展的社区提供支持，例如 [DEV](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41)（一个软件开发人员社区，他们撰写文章、参与讨论并建立他们的专业档案）；基于 forem，为您的同龄人、客户、粉丝群、家人、朋友以及其他任何时间和空间建立的社区，在这些时间和空间里，人们需要聚集在一起成为集体的一部分。
+[Forem](https://www.forem.com/) 为蓬勃发展的社区提供支持，例如 [DEV](https://site.lovejade.cn/post/5ffee335f14a2d7ea7457b41)（一个软件开发人员社区，他们撰写文章、参与讨论并建立他们的专业档案）；基于 forem，为您的同龄人、客户、粉丝群、家人、朋友以及其他任何时间和空间建立的社区，在这些时间和空间里，人们需要聚集在一起成为集体的一部分。
 
-── 出自[倾城之链 - [Forem] Community for Everyone](https://nicelinks.site/post/622f3d866b1cb73bee890063)
+── 出自[倾城之链 - [Forem] Community for Everyone](https://site.lovejade.cn/post/622f3d866b1cb73bee890063)
 
-## [完美网址导航 - 好看实用的上网主页](https://nicelinks.site/post/622c8846a2eb9379e4c960ab)
+## [完美网址导航 - 好看实用的上网主页](https://site.lovejade.cn/post/622c8846a2eb9379e4c960ab)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`网站`](https://nicelinks.site/tags/网站) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`网站`](https://site.lovejade.cn/tags/网站) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 **关键字**：完美导航, 网址导航, 上网主页, 网址大全, 网址目录, 免费网址大全, 免费网址推荐, 网站导航, 免费资源网站推荐
 
@@ -154,9 +154,9 @@ Swift 使编写设计得非常快速和安全的软件变得容易。Swift 团�
 
 ![倾城之链 - 完美网址导航 - 好看实用的上网主页](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.9eip.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[完美导航](https://www.9eip.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 等搭建的网站；该站原名：9e 导航，上线于 2021 年 1 月，旨在为广大朋友搜寻收集全网最新、实用、有趣的网站平台，以及软件/工具。它有着简洁清爽的风格界面，也非常适合用做于浏览器主页；当然，该导航也支持「网址提交」。除了网站导航外，[完美导航](https://www.9eip.com/)还提供了些其他版本内容，如：实时·疫情数据、小游戏、壁纸等。
+**推荐语**：[完美导航](https://www.9eip.com/)，基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 等搭建的网站；该站原名：9e 导航，上线于 2021 年 1 月，旨在为广大朋友搜寻收集全网最新、实用、有趣的网站平台，以及软件/工具。它有着简洁清爽的风格界面，也非常适合用做于浏览器主页；当然，该导航也支持「网址提交」。除了网站导航外，[完美导航](https://www.9eip.com/)还提供了些其他版本内容，如：实时·疫情数据、小游戏、壁纸等。
 
-── 出自[倾城之链 - 完美网址导航 - 好看实用的上网主页](https://nicelinks.site/post/622c8846a2eb9379e4c960ab)
+── 出自[倾城之链 - 完美网址导航 - 好看实用的上网主页](https://site.lovejade.cn/post/622c8846a2eb9379e4c960ab)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

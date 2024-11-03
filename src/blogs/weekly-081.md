@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [TinySnap: A Production-Ready Screenshot Extension Tool for Everyone](https://nicelinks.site/post/63109b3d02966b0ec183b140)
+## [TinySnap: A Production-Ready Screenshot Extension Tool for Everyone](https://site.lovejade.cn/post/63109b3d02966b0ec183b140)
 
-**标签**：[`截图`](https://nicelinks.site/tags/截图) · [`扩展`](https://nicelinks.site/tags/扩展) · [`Chrome`](https://nicelinks.site/tags/Chrome)
+**标签**：[`截图`](https://site.lovejade.cn/tags/截图) · [`扩展`](https://site.lovejade.cn/tags/扩展) · [`Chrome`](https://site.lovejade.cn/tags/Chrome)
 
 > TinySnap is a production-ready screenshot extension tool created for everyone, especially creators, developers, and marketers.
 
@@ -17,13 +17,13 @@
 - 编辑和注释屏幕截图；
 - 为屏幕截图添加渐变背景；
 
-TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在功能和设计上有很多相似之处，只不过前者基于浏览器扩展，后者是 Mac 原生应用（免费版本有产品商水印）。如果您要截取浏览器上的图片，TinySnap 是蛮不错的选择。值得一提的是该作者——[@LuoBaishun](https://twitter.com/LuoBaishun)  今年刚才开始尝试做**独立产品**，受 Indiehackers 社区的熏陶，在尝试 build in public；他还创作另一款作品：[HeyForm](https://heyform.net/)。如果您想了解更多，可移步至 [TinySnap 常见问题](https://tinysnap.app/#faq)。
+TinySnap 与 [Xnapper](https://site.lovejade.cn/post/63060e34d3028e784afedaed) 在功能和设计上有很多相似之处，只不过前者基于浏览器扩展，后者是 Mac 原生应用（免费版本有产品商水印）。如果您要截取浏览器上的图片，TinySnap 是蛮不错的选择。值得一提的是该作者——[@LuoBaishun](https://twitter.com/LuoBaishun)  今年刚才开始尝试做**独立产品**，受 Indiehackers 社区的熏陶，在尝试 build in public；他还创作另一款作品：[HeyForm](https://heyform.net/)。如果您想了解更多，可移步至 [TinySnap 常见问题](https://tinysnap.app/#faq)。
 
-── 出自[倾城之链 - TinySnap: A Production-Ready Screenshot Extension Tool for Everyone](https://nicelinks.site/post/63109b3d02966b0ec183b140)
+── 出自[倾城之链 - TinySnap: A Production-Ready Screenshot Extension Tool for Everyone](https://site.lovejade.cn/post/63109b3d02966b0ec183b140)
 
-## [千篇国学 · 万卷经典](https://nicelinks.site/post/6310b06902966b0ec183b142)
+## [千篇国学 · 万卷经典](https://site.lovejade.cn/post/6310b06902966b0ec183b142)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`学习`](https://nicelinks.site/tags/学习) · [`人文`](https://nicelinks.site/tags/人文)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`学习`](https://site.lovejade.cn/tags/学习) · [`人文`](https://site.lovejade.cn/tags/人文)
 
 **关键字**：千篇国学, 汉语字典, 汉语词典, 成语大全
 
@@ -41,11 +41,11 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 在这里，您可以学到很多很多；就成语而言，有成语组词、成语组合、成语结构、成语字数、成语接龙.....汉语字典，可了解到二叠字、 三叠字（品 pǐn 森 sēn 晶 jīng 焱 yàn 麤 cū 刕 lí 劦 xié 厵 yuán 姦 jiān 叒 ruò）、 四叠字（燚 yì 叕 zhuó 朤 lǎng 茻 mǎng 㵘 màn）、网络流行汉字（巭 gū 孬 nāo 嫑 biáo 嘦 jiào 䨻 bèng）等，不仅可以知道具体读音、部首、释义以及康熙字典中说明。此外[千篇国学](https://www.qianp.com/) 还提供搜索功能，输入「汉字、拼音、五笔」等均可。如果您想对某些成语、词语、汉字感兴趣或了解更多，千篇国学是值得使用的网站。
 
-── 出自[倾城之链 - 千篇国学 · 万卷经典](https://nicelinks.site/post/6310b06902966b0ec183b142)
+── 出自[倾城之链 - 千篇国学 · 万卷经典](https://site.lovejade.cn/post/6310b06902966b0ec183b142)
 
-## [Free SVG generators, color tools & web design tools](https://nicelinks.site/post/6310950c02966b0ec183b13e)
+## [Free SVG generators, color tools & web design tools](https://site.lovejade.cn/post/6310950c02966b0ec183b13e)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`图片`](https://nicelinks.site/tags/图片) · [`聚合`](https://nicelinks.site/tags/聚合)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`图片`](https://site.lovejade.cn/tags/图片) · [`聚合`](https://site.lovejade.cn/tags/聚合)
 
 > A fun collection of free SVG generators for gradients, patterns, shapes, textures & cool backgrounds. Plus, some more color tools for web designers.
 
@@ -65,11 +65,11 @@ TinySnap 与 [Xnapper](https://nicelinks.site/post/63060e34d3028e784afedaed) 在
 
 🎨 另外，fffuel 还创建了一些工具，来帮助转换颜色代码或为您的设计挑选漂亮的颜色。例如，试用 [颜色选择器](https://fffuel.co/cccolor/) 或 [调色板生成器](https://fffuel.co/pppalette/) 。
 
-── 出自[倾城之链 - Free SVG generators, color tools & web design tools](https://nicelinks.site/post/6310950c02966b0ec183b13e)
+── 出自[倾城之链 - Free SVG generators, color tools & web design tools](https://site.lovejade.cn/post/6310950c02966b0ec183b13e)
 
-## [Photosonic AI Art Generator | Create Unique Images with AI](https://nicelinks.site/post/630df696ef3e2232e50c9e71)
+## [Photosonic AI Art Generator | Create Unique Images with AI](https://site.lovejade.cn/post/630df696ef3e2232e50c9e71)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片) · [`设计`](https://nicelinks.site/tags/设计)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片) · [`设计`](https://site.lovejade.cn/tags/设计)
 
 > Transform your imagination into stunning digital art with Photosonic - the AI art generator. With its creative suggestions, this Writesonic&#x27;s AI image generator can help unleash your inner artist and share your creations with the world.
 
@@ -96,11 +96,11 @@ Writesonic 在其官网写道：Writesonic 使命是让每个人都能以闪电�
 
 有输入多个不同内容，来测试了下 Writesonic；虽然说它生成出的内容，并没有达到针对真人的那种预期；但不得不说，它很强大，准确理解的我的意图，并快速绘制出来（展示 3 个）；当然在我看来，某些结果还是比较粗糙丑陋，需要继续改进提升。
 
-── 出自[倾城之链 - Photosonic AI Art Generator | Create Unique Images with AI](https://nicelinks.site/post/630df696ef3e2232e50c9e71)
+── 出自[倾城之链 - Photosonic AI Art Generator | Create Unique Images with AI](https://site.lovejade.cn/post/630df696ef3e2232e50c9e71)
 
-## [WeNomad - A Digital Nomad Community Learning Resource](https://nicelinks.site/post/630df173ef3e2232e50c9e6f)
+## [WeNomad - A Digital Nomad Community Learning Resource](https://site.lovejade.cn/post/630df173ef3e2232e50c9e6f)
 
-**标签**：[`远程`](https://nicelinks.site/tags/远程) · [`酷工作`](https://nicelinks.site/tags/酷工作) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`远程`](https://site.lovejade.cn/tags/远程) · [`酷工作`](https://site.lovejade.cn/tags/酷工作) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > The World's Best City Guides For Remote Workers & Digital Nomads.
 
@@ -112,7 +112,7 @@ Writesonic 在其官网写道：Writesonic 使命是让每个人都能以闪电�
 
 WeNomad 的创建，是作者出于对“远程工作者城市指南”空间中领先网站上，不可靠且有时是捏造的信息的极度失望。作者已经厌倦了在互联网和论坛上搜索有见地的信息，所以，他组建了一个团队来汇编你发现和搬到你会喜欢的城市所需的一切。即 WeNomad。如果您对远程工作，尤其是全球范围内，相信 WeNomad 是值得关注的网站。
 
-── 出自[倾城之链 - WeNomad - A Digital Nomad Community Learning Resource](https://nicelinks.site/post/630df173ef3e2232e50c9e6f)
+── 出自[倾城之链 - WeNomad - A Digital Nomad Community Learning Resource](https://site.lovejade.cn/post/630df173ef3e2232e50c9e6f)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [花草百科网*花草百科全书*花草百科知识大全](https://nicelinks.site/post/60e6f314a8085c1b3a423cb1)
+## [花草百科网*花草百科全书*花草百科知识大全](https://site.lovejade.cn/post/60e6f314a8085c1b3a423cb1)
 
-**标签**：[`百科`](https://nicelinks.site/tags/百科) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`百科`](https://site.lovejade.cn/tags/百科) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 **关键字**：花草百科网, 花草知识, 花草百科, 花草百科全书, 花草百科知识大全
 
@@ -14,11 +14,11 @@
 
 **推荐语**：[花草百科网](https://www.huacaobk.com/)是目前收集花卉资料相关的专业网站，主要有花草知识、花草百科、花草图鉴、药用花草四大栏目，花草知识介绍花卉日常维护养殖技巧分享，花草百科栏目搜罗天下花卉资料，花草图鉴用文字图片解说您不懂的花卉，药用花草以药类花草资料为主，本站名副其实的花草百科全书大全。
 
-── 出自[倾城之链 - 花草百科网*花草百科全书*花草百科知识大全](https://nicelinks.site/post/60e6f314a8085c1b3a423cb1)
+── 出自[倾城之链 - 花草百科网*花草百科全书*花草百科知识大全](https://site.lovejade.cn/post/60e6f314a8085c1b3a423cb1)
 
-## [AI Image Enlarger | Enlarge Image Without Losing Quality!](https://nicelinks.site/post/60e6ef5ba8085c1b3a423caf)
+## [AI Image Enlarger | Enlarge Image Without Losing Quality!](https://site.lovejade.cn/post/60e6ef5ba8085c1b3a423caf)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`图片`](https://nicelinks.site/tags/图片) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`图片`](https://site.lovejade.cn/tags/图片) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > AI Image Enlarger is a FREE online image enlarger that could upscale and enhance small images automatically. Make jpg/png pictures big without losing quality.
 
@@ -33,11 +33,11 @@
 - **人工智能面部修饰**：（AI Face Retouch）修饰并修复模糊的脸。一键美化头发、眼睛、嘴唇和皮肤。
 - **AI 背景橡皮擦**：（AI Background Eraser）自动从图像中删除背景。每张图片低至 0.03 美元。支持批处理。
 
-── 出自[倾城之链 - AI Image Enlarger | Enlarge Image Without Losing Quality!](https://nicelinks.site/post/60e6ef5ba8085c1b3a423caf)
+── 出自[倾城之链 - AI Image Enlarger | Enlarge Image Without Losing Quality!](https://site.lovejade.cn/post/60e6ef5ba8085c1b3a423caf)
 
-## [LinkFind](https://nicelinks.site/post/60e5cf61a8085c1b3a423cad)
+## [LinkFind](https://site.lovejade.cn/post/60e5cf61a8085c1b3a423cad)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`互联网`](https://nicelinks.site/tags/互联网)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`互联网`](https://site.lovejade.cn/tags/互联网)
 
 **关键字**：LinkFind, 超能链接, 链接生产力, 资源聚合, 设计导航, 每天发现好链接, 优质链接, 在线工具, 生产力, linkfind
 
@@ -49,11 +49,11 @@
 
 [LinkFind](https://linkfind.cn/)有诸多分类，如：应用软件、资讯信息、人文自然、艺术文化、专业知识、科技探索、素材资源、游戏体验、综合归档、效率生产、时尚娱乐、影片视频、在线工具等；每个资源又打有多个`标签`🏷，配合搜索、以及相关推荐，您可以在这里找寻您需要的资源。
 
-── 出自[倾城之链 - LinkFind](https://nicelinks.site/post/60e5cf61a8085c1b3a423cad)
+── 出自[倾城之链 - LinkFind](https://site.lovejade.cn/post/60e5cf61a8085c1b3a423cad)
 
-## [睡前故事，哄女朋友睡前爱情小故事大全 - 流年伴夏](https://nicelinks.site/post/60e5b098a8085c1b3a423cab)
+## [睡前故事，哄女朋友睡前爱情小故事大全 - 流年伴夏](https://site.lovejade.cn/post/60e5b098a8085c1b3a423cab)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`故事`](https://nicelinks.site/tags/故事)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`故事`](https://site.lovejade.cn/tags/故事)
 
 **关键字**：睡前故事, 睡前故事女朋友, 流年伴夏, 爱情故事
 
@@ -63,11 +63,11 @@
 
 **推荐语**：[睡前故事](https://liunianbanxia.com/)，哄女朋友睡前爱情小故事大全；该网站，分故事人生、青春爱情、人生感悟、青春语录、耽美甜文、治愈系图片等模块，又有读者、意林、青年文摘、故事会、花火、飞言情等标签 🏷，主要是些文字故事，感兴趣的朋友，可以关注下，无聊时以闲阅。
 
-── 出自[倾城之链 - 睡前故事，哄女朋友睡前爱情小故事大全 - 流年伴夏](https://nicelinks.site/post/60e5b098a8085c1b3a423cab)
+── 出自[倾城之链 - 睡前故事，哄女朋友睡前爱情小故事大全 - 流年伴夏](https://site.lovejade.cn/post/60e5b098a8085c1b3a423cab)
 
-## [Best Free Stock Cliparts & Cartoons for Unlimited Download - Jing.fm](https://nicelinks.site/post/60e18f957f46b90656e77c7a)
+## [Best Free Stock Cliparts & Cartoons for Unlimited Download - Jing.fm](https://site.lovejade.cn/post/60e18f957f46b90656e77c7a)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`免费`](https://nicelinks.site/tags/免费) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`免费`](https://site.lovejade.cn/tags/免费) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 **关键字**：clip art, clipart, silhouette, pngs, png clipart, clipart download, Cartoon
 
@@ -91,7 +91,7 @@
 - **热门搜索**：气球, 云, 纸杯蛋糕, 相机, 火, 烟花, 鱼, 眼睛, 铅笔；
 - **食物**：米, 比萨, 水果, 柠檬, 南瓜, 鸡, 胡须番茄。
 
-── 出自[倾城之链 - Best Free Stock Cliparts & Cartoons for Unlimited Download - Jing.fm](https://nicelinks.site/post/60e18f957f46b90656e77c7a)
+── 出自[倾城之链 - Best Free Stock Cliparts & Cartoons for Unlimited Download - Jing.fm](https://site.lovejade.cn/post/60e18f957f46b90656e77c7a)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

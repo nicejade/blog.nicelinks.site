@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Nx: Smart, Fast and Extensible Build System](https://nicelinks.site/post/64130466401101258a14d52e)
+## [Nx: Smart, Fast and Extensible Build System](https://site.lovejade.cn/post/64130466401101258a14d52e)
 
-**标签**：[`构建`](https://nicelinks.site/tags/构建) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`构建`](https://site.lovejade.cn/tags/构建) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Next generation build system with first class monorepo support and powerful integrations.
 
 ![倾城之链 - Nx: Smart, Fast and Extensible Build System](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nx.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NX](https://nx.dev/) 是一个面向大型应用程序的快速、智能和可扩展的 [构建](https://nicelinks.site/tags/构建) 系统。它最初由 Narwhal Technologies 开发，后来由 Nrwl 公司维护，是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的构建工具，用于管理和编译大型的前端项目。它具有以下功能特征：
+**推荐语**：[NX](https://nx.dev/) 是一个面向大型应用程序的快速、智能和可扩展的 [构建](https://site.lovejade.cn/tags/构建) 系统。它最初由 Narwhal Technologies 开发，后来由 Nrwl 公司维护，是一个基于 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 的构建工具，用于管理和编译大型的前端项目。它具有以下功能特征：
 
 ### 永远不要两次重建相同的代码
 
@@ -32,15 +32,15 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 **NX 可以为用户带来很多价值**。首先，它是一个智能构建系统，它可以实现快速构建，只编译发生更改的代码，节省构建时间和提高构建速度。其次，NX 采用 Yarn Workspaces，使得多包管理变得更加容易，而不需要额外的配置。此外，NX 提供了许多有用的 CLI 命令，如生成器、运行命令和测试命令，使开发人员可以更快地构建和部署应用程序。这些功能让开发人员可以更好地协作开发，快速构建高质量的应用程序。
 
-与竞品（如 [Turborepo](https://nicelinks.site/post/635936a6775cbe1cdc6eb333) 、 [Rspack](https://nicelinks.site/post/6411b081401101258a14cb06) 等）相比，NX 有许多异同点。相比于 Angular CLI，NX 提供更多的 CLI 命令和构建工具，可以更好地处理大型项目的构建和部署问题。相比于 Webpack 和 Bazel，NX 采用了 Monorepo 结构，可以更好地处理多包管理和版本控制问题。NX 还具有高度模块化的设计，使其可以灵活定制和扩展，适用于各种不同的应用场景。不过，需要注意的是，NX 可能更专注于 Angular 和 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 等框架，可能不适用于其他框架或项目。
+与竞品（如 [Turborepo](https://site.lovejade.cn/post/635936a6775cbe1cdc6eb333) 、 [Rspack](https://site.lovejade.cn/post/6411b081401101258a14cb06) 等）相比，NX 有许多异同点。相比于 Angular CLI，NX 提供更多的 CLI 命令和构建工具，可以更好地处理大型项目的构建和部署问题。相比于 Webpack 和 Bazel，NX 采用了 Monorepo 结构，可以更好地处理多包管理和版本控制问题。NX 还具有高度模块化的设计，使其可以灵活定制和扩展，适用于各种不同的应用场景。不过，需要注意的是，NX 可能更专注于 Angular 和 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 等框架，可能不适用于其他框架或项目。
 
 总之，NX 是一个快速、可扩展、智能的构建系统，它采用了最新的构建工具和技术，可以提高开发团队的效率和协作能力。它在构建工具和技术上有一定的优势，但需要注意与其他竞品的差异和适用范围。如果您对 NX 感兴趣，可移步 [NX Github 开源仓库](https://github.com/nrwl/nx) 以了解更多。
 
-── 出自[倾城之链 - Nx: Smart, Fast and Extensible Build System](https://nicelinks.site/post/64130466401101258a14d52e)
+── 出自[倾城之链 - Nx: Smart, Fast and Extensible Build System](https://site.lovejade.cn/post/64130466401101258a14d52e)
 
-## [Hello! | bjfogg - Behavior Scientist at Stanford University](https://nicelinks.site/post/6412ecd8401101258a14d420)
+## [Hello! | bjfogg - Behavior Scientist at Stanford University](https://site.lovejade.cn/post/6412ecd8401101258a14d420)
 
-**标签**：[`人文`](https://nicelinks.site/tags/人文) · [`有趣`](https://nicelinks.site/tags/有趣) · [`学习`](https://nicelinks.site/tags/学习)
+**标签**：[`人文`](https://site.lovejade.cn/tags/人文) · [`有趣`](https://site.lovejade.cn/tags/有趣) · [`学习`](https://site.lovejade.cn/tags/学习)
 
 > BJ Fogg, PhD. Behavior Scientist at Stanford University. I teach good people how behavior works so they can create products & services that benefit everyday people around the world.
 
@@ -78,34 +78,34 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 总之，福格行为模型是一种简单而实用的行为分析工具，可以用于个人的自我管理，产品设计，团队管理和销售等多个方面。通过了解自己和他人的行为偏好，可以更好地满足需求，提高效率，增强协作能力，从而取得更好的成果。
 
-── 出自[倾城之链 - Hello! | bjfogg - Behavior Scientist at Stanford University](https://nicelinks.site/post/6412ecd8401101258a14d420)
+── 出自[倾城之链 - Hello! | bjfogg - Behavior Scientist at Stanford University](https://site.lovejade.cn/post/6412ecd8401101258a14d420)
 
-## [Upptime | GitHub-powered open-source uptime monitor and status page](https://nicelinks.site/post/6411c2c8401101258a14cccc)
+## [Upptime | GitHub-powered open-source uptime monitor and status page](https://site.lovejade.cn/post/6411c2c8401101258a14cccc)
 
-**标签**：[`Github`](https://nicelinks.site/tags/Github) · [`监控`](https://nicelinks.site/tags/监控) · [`自动化`](https://nicelinks.site/tags/自动化)
+**标签**：[`Github`](https://site.lovejade.cn/tags/Github) · [`监控`](https://site.lovejade.cn/tags/监控) · [`自动化`](https://site.lovejade.cn/tags/自动化)
 
 > ⬆️ Free uptime monitor and status page powered by GitHub. Upptime
 > is the open-source uptime monitor and status page, powered entirely by GitHub Actions, Issues, and Pages.
 
 ![倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/upptime.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Upptime](https://upptime.js.org/) 是一个开源的 [监控](https://nicelinks.site/tags/监控) 工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知。Upptime 使用 [GitHub](https://nicelinks.site/tags/GitHub) Actions 和 GitHub Pages 进行运行和托管，这使得使用 Upptime 非常容易，而且可以免费使用 GitHub 提供的服务器资源。Upptime 的主要特点包括：
+**推荐语**：[Upptime](https://upptime.js.org/) 是一个开源的 [监控](https://site.lovejade.cn/tags/监控) 工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知。Upptime 使用 [GitHub](https://site.lovejade.cn/tags/GitHub) Actions 和 GitHub Pages 进行运行和托管，这使得使用 Upptime 非常容易，而且可以免费使用 GitHub 提供的服务器资源。Upptime 的主要特点包括：
 
 1.  **可定制化**：Upptime 可以通过配置文件进行配置，以满足各种监控需求。用户可以轻松添加或删除监控任务，并配置警报和通知选项。
 2.  **实时监控**：Upptime 可以持续监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知，使用户能够快速识别并解决故障。
 3.  **可扩展性**：Upptime 是一个开源项目，可以通过编写自定义脚本或添加第三方插件来扩展其功能。
 4.  **易于部署和使用**：Upptime 使用 GitHub Actions 和 GitHub Pages 进行运行和托管，这意味着用户只需要将其配置文件和监控脚本推送到 GitHub 仓库，即可快速轻松地部署和使用。
 5.  每 5 分钟监控一次正常运行时间：使用 GitHub Actions，每 5 分钟监控一次无限制的网页，并存储版本控制的响应时间统计信息。
-6.  现代状态页面网站：获得由现代 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 静态站点提供支持的时尚美观的状态页面，其中包含中断历史记录和长期趋势图。
-7.  在你工作的地方得到通知：借助对 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、Telegram、自定义 webhook 等的内置通知支持，了解任何网站出现故障的时刻。
+6.  现代状态页面网站：获得由现代 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 静态站点提供支持的时尚美观的状态页面，其中包含中断历史记录和长期趋势图。
+7.  在你工作的地方得到通知：借助对 [Slack](https://site.lovejade.cn/post/605b4055bffb5e532f3be233)、Telegram、自定义 webhook 等的内置通知支持，了解任何网站出现故障的时刻。
 
 总之，Upptime 是一个功能强大且易于使用的开源监控工具，它可以监控 Web 应用程序和服务的可用性和响应时间，并提供实时警报和通知，以帮助用户快速识别和解决故障。该项目在 [Github 开源](https://github.com/upptime/upptime)，如果您对它感兴趣，可移步以了解更多。
 
-── 出自[倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://nicelinks.site/post/6411c2c8401101258a14cccc)
+── 出自[倾城之链 - Upptime | GitHub-powered open-source uptime monitor and status page](https://site.lovejade.cn/post/6411c2c8401101258a14cccc)
 
-## [Baklib 官网-在线知识库及在线帮助中心制作软件](https://nicelinks.site/post/6411b306401101258a14cba3)
+## [Baklib 官网-在线知识库及在线帮助中心制作软件](https://site.lovejade.cn/post/6411b306401101258a14cba3)
 
-**标签**：[`在线`](https://nicelinks.site/tags/在线) · [`知识库`](https://nicelinks.site/tags/知识库) · [`文档`](https://nicelinks.site/tags/文档)
+**标签**：[`在线`](https://site.lovejade.cn/tags/在线) · [`知识库`](https://site.lovejade.cn/tags/知识库) · [`文档`](https://site.lovejade.cn/tags/文档)
 
 **关键字**：baklib, 帮助中心, 在线手册, 帮助文档, 产品手册, 产品展示, 知识管理软件, 企业知识库, 网络客服
 
@@ -113,7 +113,7 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 ![倾城之链 - Baklib官网-在线知识库及在线帮助中心制作软件](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.baklib.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Baklib](https://www.baklib.com/) ，一款在线 [知识库](https://nicelinks.site/tags/知识库) 及在线帮助中心制作软件；支持在线制作产品手册、帮助中心、FAQ、Guide、知识库、产品介绍、开发文档、在线手册，并发布到网站上。其官网介绍它具有以下应用场景：
+**推荐语**：[Baklib](https://www.baklib.com/) ，一款在线 [知识库](https://site.lovejade.cn/tags/知识库) 及在线帮助中心制作软件；支持在线制作产品手册、帮助中心、FAQ、Guide、知识库、产品介绍、开发文档、在线手册，并发布到网站上。其官网介绍它具有以下应用场景：
 
 ### 知识库/项目文档/产品手册
 
@@ -129,7 +129,7 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 ---
 
-[知识库](https://nicelinks.site/tags/知识库)工具是一种管理和共享知识的软件工具，它可以帮助组织或个人收集、整理、存储和共享知识，以便随时查找和使用。以下是知识库工具的一些主要作用：
+[知识库](https://site.lovejade.cn/tags/知识库)工具是一种管理和共享知识的软件工具，它可以帮助组织或个人收集、整理、存储和共享知识，以便随时查找和使用。以下是知识库工具的一些主要作用：
 
 1.  **整合和组织信息**：知识库工具可以帮助用户整合和组织大量的信息和知识，以便更好地管理和利用。
 2.  **提高生产力**：通过将知识集中存储在一个地方，并使其易于搜索和访问，知识库工具可以帮助用户更快地找到他们需要的信息和解决问题，从而提高生产力。
@@ -139,19 +139,19 @@ NX 的主要目的是提高大型项目的构建效率，并确保项目的可�
 
 总之，知识库工具是一种有助于组织和管理知识的工具，它可以提高生产力、促进协作、简化培训和学习，并支持决策制定。
 
-Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体验管理   的系统，探码科技是一家从事“数据驱动软件智能”的软件研发公司，成立于 2015 年。它支持 KnowledgeBase、FAQ、Guide 应用场景；易于设置，易于使用。与其功能类似的产品有： [语雀](https://nicelinks.site/post/5b40437e615bf842b6091043) 、 [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6) 、 [Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab) 等等。值此信息化、智能化时代，利用知识库工具，以帮助组织或个人收集、整理、存储和共享知识，以便随时查找和使用，善也。
+Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体验管理   的系统，探码科技是一家从事“数据驱动软件智能”的软件研发公司，成立于 2015 年。它支持 KnowledgeBase、FAQ、Guide 应用场景；易于设置，易于使用。与其功能类似的产品有： [语雀](https://site.lovejade.cn/post/5b40437e615bf842b6091043) 、 [Obsidian](https://site.lovejade.cn/post/6266999577f8270876fcb3d6) 、 [Notion](https://site.lovejade.cn/post/5cbd4e8b7855f80ea42ea6ab) 等等。值此信息化、智能化时代，利用知识库工具，以帮助组织或个人收集、整理、存储和共享知识，以便随时查找和使用，善也。
 
-── 出自[倾城之链 - Baklib 官网-在线知识库及在线帮助中心制作软件](https://nicelinks.site/post/6411b306401101258a14cba3)
+── 出自[倾城之链 - Baklib 官网-在线知识库及在线帮助中心制作软件](https://site.lovejade.cn/post/6411b306401101258a14cba3)
 
-## [Rspack | A fast Rust-based web bundler](https://nicelinks.site/post/6411b081401101258a14cb06)
+## [Rspack | A fast Rust-based web bundler](https://site.lovejade.cn/post/6411b081401101258a14cb06)
 
-**标签**：[`构建`](https://nicelinks.site/tags/构建) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`Rust`](https://nicelinks.site/tags/Rust)
+**标签**：[`构建`](https://site.lovejade.cn/tags/构建) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`Rust`](https://site.lovejade.cn/tags/Rust)
 
 > A fast Rust-based web bundler
 
 ![倾城之链 - Rspack | A fast Rust-based web bundler](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.rspack.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rspack](https://www.rspack.dev/) ，一个快速的基于 [Rust](https://nicelinks.site/tags/Rust) 的 Web 构建工具（Web Bundler），旨在成为构建高性能前端工具链（这是一个新项目，目前仍在积极开发中）；它具有以下功能特征：
+**推荐语**：[Rspack](https://www.rspack.dev/) ，一个快速的基于 [Rust](https://site.lovejade.cn/tags/Rust) 的 Web 构建工具（Web Bundler），旨在成为构建高性能前端工具链（这是一个新项目，目前仍在积极开发中）；它具有以下功能特征：
 
 - 🚀 **快速启动**：基于 Rust，构建速度极快，为您带来极致的开发体验。
 - ⚡ **Lightning HMR**：HMR 内置增量编译机制，速度极快，完全有能力开发大型项目。
@@ -160,19 +160,19 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 - 🛠️ **生产优化** : 默认内置了各种优化策略，比如 tree shaking, minification 等。
 - 🎯 **框架无关**：（Framework Agnostic）不绑定任何前端框架，确保足够的灵活性。
 
-与 [Rspack](https://www.rspack.dev/) 功能相同的产品有：Webpack、[Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)、及同样基于 Rust 开发的 [Turbopack](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)，它们有各自优势，您可以根据自身需要，选择合适的构建工具。值得一提的是，在 Web 开发领域，将 TypeScript 和 Rust 与并行化架构相结合，为开发者带来极致的开发体验，已成为明显趋势之一。
+与 [Rspack](https://www.rspack.dev/) 功能相同的产品有：Webpack、[Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e)、及同样基于 Rust 开发的 [Turbopack](https://site.lovejade.cn/post/635936a6775cbe1cdc6eb333)，它们有各自优势，您可以根据自身需要，选择合适的构建工具。值得一提的是，在 Web 开发领域，将 TypeScript 和 Rust 与并行化架构相结合，为开发者带来极致的开发体验，已成为明显趋势之一。
 
-── 出自[倾城之链 - Rspack | A fast Rust-based web bundler](https://nicelinks.site/post/6411b081401101258a14cb06)
+── 出自[倾城之链 - Rspack | A fast Rust-based web bundler](https://site.lovejade.cn/post/6411b081401101258a14cb06)
 
-## [Bit - Component driven development](https://nicelinks.site/post/640f28c52584e71ee75d3ae2)
+## [Bit - Component driven development](https://site.lovejade.cn/post/640f28c52584e71ee75d3ae2)
 
-**标签**：[`平台`](https://nicelinks.site/tags/平台) · [`组件`](https://nicelinks.site/tags/组件) · [`协作`](https://nicelinks.site/tags/协作)
+**标签**：[`平台`](https://site.lovejade.cn/tags/平台) · [`组件`](https://site.lovejade.cn/tags/组件) · [`协作`](https://site.lovejade.cn/tags/协作)
 
 > Bit is the leading toolchain for component-driven development. Forget monolithic apps and distribute to component-driven software. Build like the world’s best teams.
 
 ![倾城之链 - Bit - Component driven development](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bit.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bit](https://bit.dev/) 是一个用于组件管理和版本控制的平台，旨在帮助开发者更轻松地创建、维护和分享独立的代码组件。使用 Bit，您可以在组件中构建任何东西。它旨在**结束单体应用程序**并解锁一种更具可扩展性、协作性和一致性的分布式开发形式。Bit 可以与多种语言和框架一起使用，例如 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、Angular、Node.js 等。
+**推荐语**：[Bit](https://bit.dev/) 是一个用于组件管理和版本控制的平台，旨在帮助开发者更轻松地创建、维护和分享独立的代码组件。使用 Bit，您可以在组件中构建任何东西。它旨在**结束单体应用程序**并解锁一种更具可扩展性、协作性和一致性的分布式开发形式。Bit 可以与多种语言和框架一起使用，例如 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)、[Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)、Angular、Node.js 等。
 
 在 Bit 中，开发者可以将自己的代码组件（或从其他地方导入的组件）发布到一个名为 BitScope 的公共组件仓库中。同时，Bit 还提供了许多功能，例如自动依赖管理、版本控制、测试、文档生成等，使开发者能够更轻松地维护和协作这些组件。详细介绍，它具备以下功能：
 
@@ -189,17 +189,17 @@ Baklib 是成都探码科技旗下的一款专注企业全渠道 DXP 数字体�
 
 总之，Bit 是一个强大的组件管理平台，旨在帮助开发者更好地组织、分享和复用代码组件，从而提高开发效率和代码质量。如果您对 Bit 感兴趣，可以移步至 [Github 开源仓库](https://github.com/teambit/bit) ，以了解更多。
 
-── 出自[倾城之链 - Bit - Component driven development](https://nicelinks.site/post/640f28c52584e71ee75d3ae2)
+── 出自[倾城之链 - Bit - Component driven development](https://site.lovejade.cn/post/640f28c52584e71ee75d3ae2)
 
-## [Leon - Your Open-Source Personal Assistant](https://nicelinks.site/post/640f26202584e71ee75d3a79)
+## [Leon - Your Open-Source Personal Assistant](https://site.lovejade.cn/post/640f26202584e71ee75d3a79)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`平台`](https://nicelinks.site/tags/平台) · [`Python`](https://nicelinks.site/tags/Python)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`平台`](https://site.lovejade.cn/tags/平台) · [`Python`](https://site.lovejade.cn/tags/Python)
 
 > Leon is an open-source personal assistant who can live on your server. He is built on the top of Node.js, Python and artificial intelligence concepts.
 
 ![倾城之链 - Leon - Your Open-Source Personal Assistant](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/getleon.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Leon](https://getleon.ai/) 是一个开源的 [AI](https://nicelinks.site/tags/AI) 助手平台，它允许你创建自定义语音助手来满足你的个人或商业需求。Leon 是一个由 Python 编写的本地应用程序，可以在桌面和树莓派等设备上运行，而不需要连接到互联网。
+**推荐语**：[Leon](https://getleon.ai/) 是一个开源的 [AI](https://site.lovejade.cn/tags/AI) 助手平台，它允许你创建自定义语音助手来满足你的个人或商业需求。Leon 是一个由 Python 编写的本地应用程序，可以在桌面和树莓派等设备上运行，而不需要连接到互联网。
 
 使用 Leon，你可以通过语音控制你的设备和应用程序。你可以定义自己的命令，使 Leon 可以理解你的意图并执行相应的操作，比如打开某个应用、播放音乐、发送邮件等等。你还可以将 Leon 集成到自己的应用程序中，从而为用户提供自然语言交互的功能。
 
@@ -207,7 +207,7 @@ Leon 的设计理念是注重隐私和安全。所有的语音识别和自然语
 
 总之，Leon 是一个非常有用的工具，可以帮助你创建自己的语音助手，提高生产力，同时保护你的隐私和安全。如果您对 Leon 感兴趣，可以移步至 [Github 开源仓库](https://github.com/leon-ai/leon)，以了解更多。
 
-── 出自[倾城之链 - Leon - Your Open-Source Personal Assistant](https://nicelinks.site/post/640f26202584e71ee75d3a79)
+── 出自[倾城之链 - Leon - Your Open-Source Personal Assistant](https://site.lovejade.cn/post/640f26202584e71ee75d3a79)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

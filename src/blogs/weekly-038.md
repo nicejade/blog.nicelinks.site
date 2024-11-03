@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://nicelinks.site/post/6183538442040305e48d4456)
+## [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://site.lovejade.cn/post/6183538442040305e48d4456)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`AI`](https://nicelinks.site/tags/AI) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`AI`](https://site.lovejade.cn/tags/AI) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Upscale and enhance your image by using the latest AI technology. Support batch process. Upscale multiple images as simple as TINYPNG compressing them!
 
 ![倾城之链 - AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/imgupscaler.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Img.Upscaler](https://imgupscaler.com/)，是一个在线、智能 PNG / JPG 图像放大工具，可批量升级和增强您的照片、动漫和卡通；由 [ImgLarger](https://imgupscaler.com/) 的最新 AI 技术提供支持，它可以批量放大多个图像文件，升级多个图像就像 [TinyPNG](https://nicelinks.site/post/5a71edee7363484e823b58e7) 压缩它们一样简单。快速的过程和惊人的结果。无需帐户，现在无需付款。相比于同类型产品，[Img.Upscaler](https://imgupscaler.com/) 具有以下特征：
+**推荐语**：[Img.Upscaler](https://imgupscaler.com/)，是一个在线、智能 PNG / JPG 图像放大工具，可批量升级和增强您的照片、动漫和卡通；由 [ImgLarger](https://imgupscaler.com/) 的最新 AI 技术提供支持，它可以批量放大多个图像文件，升级多个图像就像 [TinyPNG](https://site.lovejade.cn/post/5a71edee7363484e823b58e7) 压缩它们一样简单。快速的过程和惊人的结果。无需帐户，现在无需付款。相比于同类型产品，[Img.Upscaler](https://imgupscaler.com/) 具有以下特征：
 
 ### 最新的人工智能，更快
 
@@ -26,11 +26,11 @@
 
 为什么使用 [Img.Upscaler](https://imgupscaler.com/)？在 ImgLarger 的升级技术的支持下，ImgUpscaler 将专注于深度学习和超分辨率技术。特别是，ImgUpscaler 将提供更快的批量图像升级过程。如果您想一次放大多个图像，[Img.Upscaler](https://imgupscaler.com/) 可能是您的最佳选择。
 
-── 出自[倾城之链 - AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://nicelinks.site/post/6183538442040305e48d4456)
+── 出自[倾城之链 - AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://site.lovejade.cn/post/6183538442040305e48d4456)
 
-## [故宫博物院](https://nicelinks.site/post/618283c742040305e48d4453)
+## [故宫博物院](https://site.lovejade.cn/post/618283c742040305e48d4453)
 
-**标签**：[`人文`](https://nicelinks.site/tags/人文) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`人文`](https://site.lovejade.cn/tags/人文) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：故宫博物院, 故宫, 故宫官网, 故宫博物院官网
 
@@ -48,11 +48,11 @@
 
 值得一提的是，[故宫博物院](https://www.dpm.org.cn/)不仅有多个在线 Web 应用（另外还有[故宫博物院数字文物库](https://digicol.dpm.org.cn/)），而且紧跟时代，提供了微博、公众号、小程序、视频号等。
 
-── 出自[倾城之链 - 故宫博物院](https://nicelinks.site/post/618283c742040305e48d4453)
+── 出自[倾城之链 - 故宫博物院](https://site.lovejade.cn/post/618283c742040305e48d4453)
 
-## [腾讯课堂\_职业培训、考试提升在线教育平台](https://nicelinks.site/post/6182163342040305e48d4451)
+## [腾讯课堂\_职业培训、考试提升在线教育平台](https://site.lovejade.cn/post/6182163342040305e48d4451)
 
-**标签**：[`教育`](https://nicelinks.site/tags/教育) · [`平台`](https://nicelinks.site/tags/平台) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`教育`](https://site.lovejade.cn/tags/教育) · [`平台`](https://site.lovejade.cn/tags/平台) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：腾讯课堂, 腾讯教育, 远程教育, 公开课, 网络公开课, 在线学习, 在线教育, 在线培训, 在线课堂, 名师讲堂, 视频课程, 职业培训, 培训平台
 
@@ -62,11 +62,11 @@
 
 **推荐语**：[腾讯课堂](https://ke.qq.com/)，是由腾讯推出的专业、职业培训在线教育平台；其一级分类下有职业技能、IT 培训、语言学习、中小学/大学、兴趣爱好、亲子课堂、腾讯自研前端课等模块；在二级分类下，充盈着大量的互联网方向课程（多与开发者、产品、设计师、运维、运营等角色相关）。知晓[腾讯课堂](https://ke.qq.com/)的存在，是因为参加了腾讯出品的一次 Web 相关的分享，分享者所用的 PPT 内容，后来都在这里给到参会的朋友们。至于这种课堂，能否给求职者或求学者带来良好作用，这就需要读者自己品评、判断了。
 
-── 出自[倾城之链 - 腾讯课堂\_职业培训、考试提升在线教育平台](https://nicelinks.site/post/6182163342040305e48d4451)
+── 出自[倾城之链 - 腾讯课堂\_职业培训、考试提升在线教育平台](https://site.lovejade.cn/post/6182163342040305e48d4451)
 
-## [是哪天](https://nicelinks.site/post/61815d0b42040305e48d444f)
+## [是哪天](https://site.lovejade.cn/post/61815d0b42040305e48d444f)
 
-**标签**：[`节日`](https://nicelinks.site/tags/节日) · [`搜索`](https://nicelinks.site/tags/搜索) · [`人文`](https://nicelinks.site/tags/人文)
+**标签**：[`节日`](https://site.lovejade.cn/tags/节日) · [`搜索`](https://site.lovejade.cn/tags/搜索) · [`人文`](https://site.lovejade.cn/tags/人文)
 
 **关键字**：二十四节气, 传统节日, 西方节日, 新兴节日, 国际日, 中国日, 其他节日, 万年历, 名人出生日期, 名人去世日期, 名人年龄, 名人诞辰, 历史事件, 历史上的今天, 天干地支, 吉凶, 年号, 八字, 数九, 数伏, 是哪天, 哪一天
 
@@ -76,11 +76,11 @@
 
 **推荐语**：[是哪天](https://www.shinatian.com/)是一款在线应用，号称是**准日期搜索引擎**，承载与日期相关的一切；中国节日、二十四节气、传统节日、西方节日、新兴节日、国际节日、其他节日等等，并且提供了检索功能。更为值得称赞的是，每个节日，都有很详尽的背景故事介绍，以及在这一天出生与去世的人等。是所见关于「节日日期」最为丰富的一隅网络空间。
 
-── 出自[倾城之链 - 是哪天](https://nicelinks.site/post/61815d0b42040305e48d444f)
+── 出自[倾城之链 - 是哪天](https://site.lovejade.cn/post/61815d0b42040305e48d444f)
 
-## [美寄词云-官网- 中文文字云,Word Art Cloud,标签云词云在线生成器](https://nicelinks.site/post/617feffb42040305e48d444d)
+## [美寄词云-官网- 中文文字云,Word Art Cloud,标签云词云在线生成器](https://site.lovejade.cn/post/617feffb42040305e48d444d)
 
-**标签**：[`词云`](https://nicelinks.site/tags/词云) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`词云`](https://site.lovejade.cn/tags/词云) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：图片处理, 图片编辑, 文字词云, 标签云, 照片加曲线文字, 古风家书, 窗花剪影生成器, 在线 P 图, 在线智能 AI 抠图, 免费书法字体, 图片去水印, 花样裁图, 在线图片处理, 在线图片编辑
 
@@ -92,7 +92,7 @@
 
 除了[美寄词云](https://www.moage.cn/)外，该公司还打造了一些列专业的图片处理工具，包括：图片设计，智能 AI 抠图以及花样裁图等。他们希望通过打造一个图片处理生态系统，来帮助没有任何基础的用户去创造，让他们不受限于软件操作等外在因素，尽情发挥自己的想象力，去激发更多的创意和想法。希望能消除专业的设计门槛，让更多人能享受创造这件事情本身，让更多人参与到创意中来。
 
-── 出自[倾城之链 - 美寄词云-官网- 中文文字云,Word Art Cloud,标签云词云在线生成器](https://nicelinks.site/post/617feffb42040305e48d444d)
+── 出自[倾城之链 - 美寄词云-官网- 中文文字云,Word Art Cloud,标签云词云在线生成器](https://site.lovejade.cn/post/617feffb42040305e48d444d)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

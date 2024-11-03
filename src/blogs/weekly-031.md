@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)
+## [曼妙句子](https://site.lovejade.cn/post/6143390948b293062990b351)
 
-**标签**：[`人文`](https://nicelinks.site/tags/人文) · [`佳句`](https://nicelinks.site/tags/佳句) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`人文`](https://site.lovejade.cn/tags/人文) · [`佳句`](https://site.lovejade.cn/tags/佳句) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 **关键字**：曼妙, 句子, 情感, 文字, 娱乐, 哲学, 励志, 修身, 唯美, 摇曳生姿, 历久弥新, 时世流转, 风华变迁, 曼妙句子
 
@@ -16,11 +16,11 @@
 
 人生最曼妙的风景，是内心的淡定与从容。[曼妙句子](https://read.lovejade.cn/)，旨在云集世间摇曳生姿的文字，或情感、或唯美、或修身、或励志、或哲学、或娱乐，拳拳真情，精心择选，总有荡漾你心的那一言。
 
-── 出自[倾城之链 - 曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)
+── 出自[倾城之链 - 曼妙句子](https://site.lovejade.cn/post/6143390948b293062990b351)
 
-## [Makeswift — a multiplayer, Next.js website builder](https://nicelinks.site/post/614334cf48b293062990b34f)
+## [Makeswift — a multiplayer, Next.js website builder](https://site.lovejade.cn/post/614334cf48b293062990b34f)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：website builder, no-code, React, Next.js
 
@@ -28,7 +28,7 @@
 
 ![倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.makeswift.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Makeswift](https://www.makeswift.com/)，一个优雅的无代码、基于 Next.js 的网站构建器；您不需要学习 HTML 和 CSS 即可使用，[Makeswift](https://www.makeswift.com/) 适合那些厌倦了权衡取舍，并准备快速行动并制作东西的建筑商。[Makeswift](https://www.makeswift.com/)，具有**设计工具**的功能和细节。现在，您可以停止尝试将您的想法融入僵化模板的约束中，让您的创造力变为现实。值得一提的是，您的实时网站是一个 Next.js 应用程序，使用熟悉的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 组件构建，在 Vercel 的极速边缘网络上运行。在每个屏幕上都很完美。在每台设备上轻松完全控制您的设计。单击即可重构布局，并在不同的屏幕尺寸上快速预览您的设计（官方描述）。除此之外，[Makeswift](https://www.makeswift.com/) 还具有以下特色：
+**推荐语**：[Makeswift](https://www.makeswift.com/)，一个优雅的无代码、基于 Next.js 的网站构建器；您不需要学习 HTML 和 CSS 即可使用，[Makeswift](https://www.makeswift.com/) 适合那些厌倦了权衡取舍，并准备快速行动并制作东西的建筑商。[Makeswift](https://www.makeswift.com/)，具有**设计工具**的功能和细节。现在，您可以停止尝试将您的想法融入僵化模板的约束中，让您的创造力变为现实。值得一提的是，您的实时网站是一个 Next.js 应用程序，使用熟悉的 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 组件构建，在 Vercel 的极速边缘网络上运行。在每个屏幕上都很完美。在每台设备上轻松完全控制您的设计。单击即可重构布局，并在不同的屏幕尺寸上快速预览您的设计（官方描述）。除此之外，[Makeswift](https://www.makeswift.com/) 还具有以下特色：
 
 - **即时布局**：快速放入导航栏、Hero 部分、功能内容等，大大加快您的工作流程；
 - **全平台设计系统**：添加站点范围的色板和可重复使用的排版，以在每个设备上的页面上保持样式一致；
@@ -41,19 +41,19 @@
 - **使用 Zapier 实现自动化**：使用我们的 Zapier 集成将表单与 2000 多个应用程序无缝集成；
 - **自定义名称和 ID**：在任何元素上设置自定义 ID 属性，以在您的自定义代码片段中定位。
 
-[Makeswift](https://www.makeswift.com/) 在您构建时是免费的，创建一个帐户就能立即开始构建！注册时无需信用卡，只需在您准备好发布网站时付款。当然，如果您有创建网站的诉求，有在[网站生成器 | 倾城](https://nicelinks.site/tags/网站生成器)，收录了非常多工具或产品，您可以对比择优使用。
+[Makeswift](https://www.makeswift.com/) 在您构建时是免费的，创建一个帐户就能立即开始构建！注册时无需信用卡，只需在您准备好发布网站时付款。当然，如果您有创建网站的诉求，有在[网站生成器 | 倾城](https://site.lovejade.cn/tags/网站生成器)，收录了非常多工具或产品，您可以对比择优使用。
 
-── 出自[倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://nicelinks.site/post/614334cf48b293062990b34f)
+── 出自[倾城之链 - Makeswift — a multiplayer, Next.js website builder](https://site.lovejade.cn/post/614334cf48b293062990b34f)
 
-## [JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.site/post/6141f77f48b293062990b34d)
+## [JS NICE: Statistical renaming, Type inference and Deobfuscation](https://site.lovejade.cn/post/6141f77f48b293062990b34d)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > JS NICE | Software Reliability Lab in ETH
 
 ![倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jsnice.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[JS NICE](=http://jsnice.org/)，一款在线 JavaScript 代码美化服务工具（该服务由苏黎世联邦理工学院计算机科学系的安全、可靠和智能系统实验室提供，并且是免费的），它支持**变量重命名**、**类型推断**和**反混淆**；比目前 [Pretttier](https://nicelinks.site/post/5c16083e819ae45de1453caa)、及常见的 Beautify JavaScript 工具都要强大。
+**推荐语**：[JS NICE](=http://jsnice.org/)，一款在线 JavaScript 代码美化服务工具（该服务由苏黎世联邦理工学院计算机科学系的安全、可靠和智能系统实验室提供，并且是免费的），它支持**变量重命名**、**类型推断**和**反混淆**；比目前 [Pretttier](https://site.lovejade.cn/post/5c16083e819ae45de1453caa)、及常见的 Beautify JavaScript 工具都要强大。
 
 ### [JSNice](=http://jsnice.org/) 有什么新东西？
 
@@ -73,11 +73,11 @@
 
 如果您想分析一段经过混淆过的 JavaScript 代码，或者优化一些糟糕写法的 JavaScript 代码片段，[JS NICE](=http://jsnice.org/) 是值得您首选的工具。
 
-── 出自[倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://nicelinks.site/post/6141f77f48b293062990b34d)
+── 出自[倾城之链 - JS NICE: Statistical renaming, Type inference and Deobfuscation](https://site.lovejade.cn/post/6141f77f48b293062990b34d)
 
-## [微信服务平台](https://nicelinks.site/post/61417ef9fb71863f906415a7)
+## [微信服务平台](https://site.lovejade.cn/post/61417ef9fb71863f906415a7)
 
-**标签**：[`微信`](https://nicelinks.site/tags/微信) · [`小程序`](https://nicelinks.site/tags/小程序) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`微信`](https://site.lovejade.cn/tags/微信) · [`小程序`](https://site.lovejade.cn/tags/小程序) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 **关键字**：微信服务平台, 微信小程序 SAAS 服务商, 微信小程序定制化服务, 小程序 MCN 直播, 小程序 API 服务
 
@@ -85,7 +85,7 @@
 
 ![倾城之链 - 微信服务平台](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fuwu.weixin.qq.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[微信服务平台](https://fuwu.weixin.qq.com/)是微信出品的`小程序`相关服务、服务商的推荐及撮合平台（基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 搭建）；用户可以在这里搜索行业、服务、服务商等；主要涉及的服务有以下内容：
+**推荐语**：[微信服务平台](https://fuwu.weixin.qq.com/)是微信出品的`小程序`相关服务、服务商的推荐及撮合平台（基于 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 搭建）；用户可以在这里搜索行业、服务、服务商等；主要涉及的服务有以下内容：
 
 - **做个小程序**：可信服务商，助你直击行业核心场景；
 - **内容运营**：直播、短视频、公众号代运营；
@@ -94,11 +94,11 @@
 
 值得一提的是，[微信服务平台](https://fuwu.weixin.qq.com/)所涉及的领域非常丰富，诸如：线下零售、旅游住宿、餐饮、电商平台、生活服务、教育、鞋服运动、出行交通、食品饮料、家居、奢侈品/配饰、美妆、母婴玩具、家电数码、医疗、汽车、休闲娱乐、房地产等等。
 
-── 出自[倾城之链 - 微信服务平台](https://nicelinks.site/post/61417ef9fb71863f906415a7)
+── 出自[倾城之链 - 微信服务平台](https://site.lovejade.cn/post/61417ef9fb71863f906415a7)
 
-## [腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
+## [腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://site.lovejade.cn/post/613dd5412910be30bb288c4f)
 
-**标签**：[`产品`](https://nicelinks.site/tags/产品) · [`工具`](https://nicelinks.site/tags/工具) · [`文档`](https://nicelinks.site/tags/文档)
+**标签**：[`产品`](https://site.lovejade.cn/tags/产品) · [`工具`](https://site.lovejade.cn/tags/工具) · [`文档`](https://site.lovejade.cn/tags/文档)
 
 **关键字**：腾讯文档, 在线编辑, 办公文档, 协同编辑, 多人协作
 
@@ -129,7 +129,7 @@
 
 [腾讯文档](https://docs.qq.com/)，从模板开始，即可立即开始使用，诸如工作周报、班级通讯录、分析报告、考勤打卡等等；同类型的产品，还有[「语雀」](https://yuque.com/)、[石墨文档](https://shimo.im/)等产品，您可以比对，择优使用。
 
-── 出自[倾城之链 - 腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://nicelinks.site/post/613dd5412910be30bb288c4f)
+── 出自[倾城之链 - 腾讯文档-官方网站-支持多人在线编辑 Word、Excel 和 PPT 文档](https://site.lovejade.cn/post/613dd5412910be30bb288c4f)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

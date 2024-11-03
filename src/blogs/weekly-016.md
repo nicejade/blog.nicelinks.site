@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [doyoudo | 学习可以很有趣](https://www.doyoudo.com/?utm_source=nicelinks.site)
 
-**标签**：[`在线`](https://nicelinks.site/tags/在线) · [`设计`](https://nicelinks.site/tags/设计) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`在线`](https://site.lovejade.cn/tags/在线) · [`设计`](https://site.lovejade.cn/tags/设计) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > do what you love and master it! 做你喜欢做的事并掌握它！
 
@@ -12,11 +12,11 @@
 
 **推荐语**：[doyoudo](https://www.doyoudo.com/) 一个设计领域的在线学习平台。在线教育产品中，这是一个另类的存在；确切来讲，[doyoudo](https://www.doyoudo.com/) 像是几个有共同爱好的伙伴，共同维护的团队博客，时不时地分享些原创的、有价值视频教程，给到想有所提升的朋友们。他们以「**学习可以很有趣**」为核心，视频教程以幽默、有趣为主调；其教程涉及不同的领域，包括平面设计、视频剪辑、动画包装、音乐制作等等；每个教程都是一个实例，看完就能跟着做出效果。值得一提的是，[doyoudo](https://www.doyoudo.com/) 虽然也提供付费教程，更多则是**免费**，业界良心。除了网站外，[doyoudo](https://www.doyoudo.com/) 还维护微信公众号，哔哩哔哩、YouTube 等平台账号。
 
-── 出自[倾城之链 - doyoudo | 学习可以很有趣](https://nicelinks.site/post/60b8e141f1837606905e1fa5)
+── 出自[倾城之链 - doyoudo | 学习可以很有趣](https://site.lovejade.cn/post/60b8e141f1837606905e1fa5)
 
 ## [TickTick: 一个帮你高效完成任务和规划时间的应用](https://ticktick.com/?utm_source=nicelinks.site)
 
-**标签**：[`任务管理器`](https://nicelinks.site/tags/任务管理器) · [`协作`](https://nicelinks.site/tags/ 协作) · [`高效`](https://nicelinks.site/tags/高效)
+**标签**：[`任务管理器`](https://site.lovejade.cn/tags/任务管理器) · [`协作`](https://site.lovejade.cn/tags/ 协作) · [`高效`](https://site.lovejade.cn/tags/高效)
 
 **关键字**：TickTick, todo, gtd, to do, list, task manager, checklist, share, tasks, note, notes, android, app, iphone, ipad, ios, TickTick, todo, to do, task, tasks, 时间管理, GTD, 待办事项, 提醒, note, notes, android, app, 笔记, 清单, 安卓, iPhone, iOS, 应用
 
@@ -31,17 +31,17 @@
 - **每一天做什么都心中有数**：有了 5 种日历视图的帮助，你可以直观地查看各月、各天的日程，不会再为“接下来做什么”而迷茫，还能方便地拖拽任务来调整日期。
 - **和同事、朋友共同完成目标**：无论是与同事们协作完成某个工作项目，还是和家人朋友一起制定周末出游计划，你们都能共享清单并进行讨论。
 
-── 出自[倾城之链 - TickTick: 一个帮你高效完成任务和规划时间的应用](https://nicelinks.site/post/60b8dc0ff1837606905e1fa3)
+── 出自[倾城之链 - TickTick: 一个帮你高效完成任务和规划时间的应用](https://site.lovejade.cn/post/60b8dc0ff1837606905e1fa3)
 
 ## [突字幕](https://2zimu.com/?utm_source=nicelinks.site)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`视频`](https://nicelinks.site/tags/视频) · [`字幕`](https://nicelinks.site/tags/字幕)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`视频`](https://site.lovejade.cn/tags/视频) · [`字幕`](https://site.lovejade.cn/tags/字幕)
 
 > 突字幕是一个极简的自动加字幕工具，它能够自动识别视频内的对话，并转化为字幕文件（.srt），为视频自动添加字幕的工具，1 小时视频，只需要 3 分钟的处理时间，还能直接将字幕压制在视频上，适合于视频自媒体、短视频、vlog，非常节省时间。
 
 ![倾城之链 - 突字幕](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/2zimu.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[突字幕](https://2zimu.com/)是一款极简的自动加字幕工具，由[北京毛线球科技有限公司](https://www.niucodata.com/)出品（[倾城](https://nicelinks.site/)所收录的[面包多](https://nicelinks.site/post/601165ca0c71de1fb957b650)（为创作者创收）也是该公司所生产）；用户上传视频，在几分钟内即可得到字幕；它具有以下功能特征：
+**推荐语**：[突字幕](https://2zimu.com/)是一款极简的自动加字幕工具，由[北京毛线球科技有限公司](https://www.niucodata.com/)出品（[倾城](https://site.lovejade.cn/)所收录的[面包多](https://site.lovejade.cn/post/601165ca0c71de1fb957b650)（为创作者创收）也是该公司所生产）；用户上传视频，在几分钟内即可得到字幕；它具有以下功能特征：
 
 - 🚀 极速识别文字和时间轴 ，支持中文 🇨🇳/英语 🇬🇧/日语 🇯🇵；
 - 💰 超低价格，现在注册免费试用，且长期优惠；
@@ -50,11 +50,11 @@
 - 📃 可导出 SRT 字幕文件，更可直接导出加好字幕的视频；
 - 🔏 银行级别加密，60 日后视频自动删除，安全隐私无忧；
 
-── 出自[倾城之链 - 突字幕](https://nicelinks.site/post/60b79bfdf1837606905e1fa1)
+── 出自[倾城之链 - 突字幕](https://site.lovejade.cn/post/60b79bfdf1837606905e1fa1)
 
 ## [Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://fuchsia-china.com/?utm_source=nicelinks.site)
 
-**标签**：[`Fuchsia`](https://nicelinks.site/tags/Fuchsia) · [`Flutter`](https://nicelinks.site/tags/Flutter) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`Fuchsia`](https://site.lovejade.cn/tags/Fuchsia) · [`Flutter`](https://site.lovejade.cn/tags/Flutter) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 > Fuchsia 中文社区主要关注 Google 全新操作系统 Fuchsia OS 及生态、Zircon 内核、基于 Fuchsia/Flutter/Dart 的学习、开发、交流，同时提供 Fuchsia 论坛与国内镜像。
 
@@ -64,11 +64,11 @@
 
 [Fuchsia](https://fuchsia.dev/) 是一套全新的操作系统，其项目定位一直在发展变化。它最初于 2016 年首次亮相于谷歌代码库与 GitHub，完全开源（项目代码可参见 [Git repositories on fuchsia](https://fuchsia.googlesource.com/)）；2017 年，谷歌 Android 工程副总裁 Dave Burke 介绍：Fuchsia 是一个早期实验项目；2018 年内部开发者证实 Fuchsia 不是一个玩具项目；2021 年 5 月，谷歌工具 Fuchsia OS 正式公开可用；Fuchsia 它有几个明显特点：并非基于 Linux 内核；其核心独立于硬件规格，使用模块化方法；因此，在未来或将有更大更多可能性。
 
-── 出自[倾城之链 - Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://nicelinks.site/post/60b77405f1837606905e1f9f)
+── 出自[倾城之链 - Fuchsia OS 中文社区 - 来自 Google 的全新开源操作系统](https://site.lovejade.cn/post/60b77405f1837606905e1f9f)
 
 ## [dowebok - 做好网站](https://www.dowebok.com/?utm_source=nicelinks.site)
 
-**标签**：[`素材`](https://nicelinks.site/tags/素材) · [`代码`](https://nicelinks.site/tags/代码) · [`教程`](https://nicelinks.site/tags/教程)
+**标签**：[`素材`](https://site.lovejade.cn/tags/素材) · [`代码`](https://site.lovejade.cn/tags/代码) · [`教程`](https://site.lovejade.cn/tags/教程)
 
 **关键字**：dowebok, 代码, 素材, 模板, jQuery, jQuery 插件, jQuery 特效, 幻灯片, 网页特效, js 特效, css3
 
@@ -76,13 +76,13 @@
 
 ![倾城之链 - dowebok - 做好网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.dowebok.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dowebok](https://www.dowebok.com/) 是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，旨在为用户提供代码、素材、特效、教程、模板等建站服务。从粗略体验上看，所提供的代码，主要是前端相关，如小程序、Vue、Html5 等。对于该网站所提供的「**素材**」，表示挺不错；一来是因为制作精良；二来，[Dowebok](https://www.dowebok.com/) 提供多种不同下载方式（百度网盘、本地下载、借助城通网盘会员下载等）；三，对于资源并没有做严格限制（如添加水印等），直接保存亦能使用，可以说在这个物欲横流的时代，十分良心了。
+**推荐语**：[Dowebok](https://www.dowebok.com/) 是基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 搭建的网站，旨在为用户提供代码、素材、特效、教程、模板等建站服务。从粗略体验上看，所提供的代码，主要是前端相关，如小程序、Vue、Html5 等。对于该网站所提供的「**素材**」，表示挺不错；一来是因为制作精良；二来，[Dowebok](https://www.dowebok.com/) 提供多种不同下载方式（百度网盘、本地下载、借助城通网盘会员下载等）；三，对于资源并没有做严格限制（如添加水印等），直接保存亦能使用，可以说在这个物欲横流的时代，十分良心了。
 
-── 出自[倾城之链 - dowebok - 做好网站](https://nicelinks.site/post/60b58e5cf1837606905e1f9a)
+── 出自[倾城之链 - dowebok - 做好网站](https://site.lovejade.cn/post/60b58e5cf1837606905e1f9a)
 
 ## [西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://www.ixigua.com/?utm_source=nicelinks.site)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`平台`](https://nicelinks.site/tags/平台) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`平台`](https://site.lovejade.cn/tags/平台) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：西瓜视频, 西瓜视频电脑版, 短视频, 综艺视频, 原创视频, 西瓜直播, 今日头条视频, 西瓜视频官网, 电影, 电视剧, 游戏, 农人, VLOG, 音乐, 少儿, 搞笑, 美食, 体育, NBA, 宠物, 汽车, 综艺, 动漫, 军事, 财经, 旅游
 
@@ -92,11 +92,11 @@
 
 **推荐语**：[西瓜视频](https://www.ixigua.com/)是字节跳动旗下的中视频平台 ，2016 年 5 月正式上线；它以“点亮对生活的好奇心”为 Slogan。西瓜视频通过人工智能个性化推荐，源源不断地为不同人群提供优质内容，同时鼓励多样化创作，帮助每个人发现自己喜欢的视频，并帮助视频创作人们轻松地向全世界分享自己的视频作品。其视频分为：音乐、财经、影视、VLOG、农人、游戏、美食、儿童、生活、体育、文化、时尚、科技等品类。
 
-── 出自[倾城之链 - 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://nicelinks.site/post/60b46c13219b1d7d88219d65)
+── 出自[倾城之链 - 西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心](https://site.lovejade.cn/post/60b46c13219b1d7d88219d65)
 
 ## [后续 · 有记忆的新闻，持续追踪热点新闻](https://houxu.app/?utm_source=nicelinks.site)
 
-**标签**：[`新闻`](https://nicelinks.site/tags/新闻) · [`资讯`](https://nicelinks.site/tags/资讯)
+**标签**：[`新闻`](https://site.lovejade.cn/tags/新闻) · [`资讯`](https://site.lovejade.cn/tags/资讯)
 
 > 持续追踪热点新闻事件
 
@@ -112,7 +112,7 @@
 
 需要注意的是，「后续」本身不提供任何内容，**它所呈现的大部分信息，都是通过机器人自动抓取获得，辅以部分人工编辑整合**；原则上，[后续](https://houxu.app/)不会输出基于新闻和事实以外的价值观。如何在新闻原文中，分辨观点和事实，这就要读者自己个儿了。
 
-── 出自[倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://nicelinks.site/post/60b3a63e219b1d7d88219d63)
+── 出自[倾城之链 - 后续 · 有记忆的新闻，持续追踪热点新闻](https://site.lovejade.cn/post/60b3a63e219b1d7d88219d63)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

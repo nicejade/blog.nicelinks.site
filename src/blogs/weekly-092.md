@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Reach Creators and Developers at Scale | Carbon](https://nicelinks.site/post/6376479d049fa51046c489b9)
+## [Reach Creators and Developers at Scale | Carbon](https://site.lovejade.cn/post/6376479d049fa51046c489b9)
 
-**标签**：[`广告`](https://nicelinks.site/tags/广告) · [`创作者`](https://nicelinks.site/tags/创作者) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`广告`](https://site.lovejade.cn/tags/广告) · [`创作者`](https://site.lovejade.cn/tags/创作者) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 > Carbon helps you advertise to creators and developers through an exclusive network of websites, projects, and apps.
 
 ![倾城之链 - Reach Creators and Developers at Scale | Carbon](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.carbonads.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [Carbon](https://www.carbonads.net/) 帮助您通过网站、项目和应用程序的专属网络，向创作者和开发者发布广告；做广告很难， Carbon 让您轻松找到受众；Carbon 官网称其是大规模接触创作者和开发者的最佳方式。在国内，与之类似的产品是[万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)。
+**推荐语**： [Carbon](https://www.carbonads.net/) 帮助您通过网站、项目和应用程序的专属网络，向创作者和开发者发布广告；做广告很难， Carbon 让您轻松找到受众；Carbon 官网称其是大规模接触创作者和开发者的最佳方式。在国内，与之类似的产品是[万维广告](https://site.lovejade.cn/post/6342b843258efd6ffbd406ef)。
 
 通过由设计、开发和技术网站组成的独家网络接触技术受众。当您开展 Carbon 活动时，您的品牌会出现在数百个社区、博客、资源和工具中，受众会使用这些工具来提升他们的工作水平。基于 Carbon 广告具有以下特点：
 
@@ -20,11 +20,11 @@
 
 Carbon 在设计、开发和技术领域的 600 多个精选网站和应用程序上（如：[Vue 开发文档](https://vuejs.org/)），提供独家广告访问。该网络按受众细分，因此您可以大规模开展有针对性的广告活动。需要说明的是，Carbon 广告跟 Google AdSense 类似，同样会被广告拦截器（Adblock）所拦截。
 
-── 出自[倾城之链 - Reach Creators and Developers at Scale | Carbon](https://nicelinks.site/post/6376479d049fa51046c489b9)
+── 出自[倾城之链 - Reach Creators and Developers at Scale | Carbon](https://site.lovejade.cn/post/6376479d049fa51046c489b9)
 
-## [Marko - A declarative, HTML-based language that makes building web apps fun](https://nicelinks.site/post/63762bbc049fa51046c48442)
+## [Marko - A declarative, HTML-based language that makes building web apps fun](https://site.lovejade.cn/post/63762bbc049fa51046c48442)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`HTML`](https://nicelinks.site/tags/HTML) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`HTML`](https://site.lovejade.cn/tags/HTML) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Marko is a friendly (and fast!) UI library that makes building web apps fun.
 
@@ -83,31 +83,31 @@ Marko 的编译器生成适合其运行位置的代码。您只需编写一次�
 
 Marko 为 VSCode 编辑器提供一流的支持，包括语法突出显示、自动完成、Hyperclick 以快速跳转到引用的文件，以及漂亮的打印以保持代码的可读性。社区插件还为 Sublime、Atom、Webstorm 等提供语法高亮显示！
 
-Marko 扩展包括条件（`conditionals`）、列表（`lists`）、状态（`state`）和组件（`components`）；Marko 支持单文件组件和分解为单独文件的组件。在写法上，Marko 比 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 要为更加省心些，与 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 相似。Marko 在 [Github 开源](https://github.com/marko-js/marko) ，感兴趣的朋友，可以前往从而了解更多。
+Marko 扩展包括条件（`conditionals`）、列表（`lists`）、状态（`state`）和组件（`components`）；Marko 支持单文件组件和分解为单独文件的组件。在写法上，Marko 比 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 要为更加省心些，与 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 相似。Marko 在 [Github 开源](https://github.com/marko-js/marko) ，感兴趣的朋友，可以前往从而了解更多。
 
-── 出自[倾城之链 - Marko - A declarative, HTML-based language that makes building web apps fun](https://nicelinks.site/post/63762bbc049fa51046c48442)
+── 出自[倾城之链 - Marko - A declarative, HTML-based language that makes building web apps fun](https://site.lovejade.cn/post/63762bbc049fa51046c48442)
 
-## [Avatar Maker - Create your own avatar online](https://nicelinks.site/post/6374d7361ac89e525a883279)
+## [Avatar Maker - Create your own avatar online](https://site.lovejade.cn/post/6374d7361ac89e525a883279)
 
-**标签**：[`头像`](https://nicelinks.site/tags/头像) · [`卡通`](https://nicelinks.site/tags/卡通) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`头像`](https://site.lovejade.cn/tags/头像) · [`卡通`](https://site.lovejade.cn/tags/卡通) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Create your own free avatar in 4 different styles. You can save it as a scalable SVG image or in the more common PNG format.
 
 ![倾城之链 - Avatar Maker - Create your own avatar online](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/avatarmaker.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Avatar Maker](https://avatarmaker.com/) ，一款在线创建头像工具；它支持以 4 种不同的风格，创建你自己的**免费头像**。你可以把它保存为可扩展的 SVG 图像或更常见的 PNG 格式。Avatar Maker 使用非常简单，无需注册或账户，选择性格即可开始，支持脸、眼睛、头发、衣服等部位进行编辑创造，也可以使用系统随机的；其同类型产品还有 [Ava Maker](https://nicelinks.site/post/631cb6d692583d0ec9c367bf)、[Peeps](https://nicelinks.site/post/633531873423870b914df533) 等；如果您有创建卡通虚拟头像的需求，可尝试这几款工具。
+**推荐语**：[Avatar Maker](https://avatarmaker.com/) ，一款在线创建头像工具；它支持以 4 种不同的风格，创建你自己的**免费头像**。你可以把它保存为可扩展的 SVG 图像或更常见的 PNG 格式。Avatar Maker 使用非常简单，无需注册或账户，选择性格即可开始，支持脸、眼睛、头发、衣服等部位进行编辑创造，也可以使用系统随机的；其同类型产品还有 [Ava Maker](https://site.lovejade.cn/post/631cb6d692583d0ec9c367bf)、[Peeps](https://site.lovejade.cn/post/633531873423870b914df533) 等；如果您有创建卡通虚拟头像的需求，可尝试这几款工具。
 
-── 出自[倾城之链 - Avatar Maker - Create your own avatar online](https://nicelinks.site/post/6374d7361ac89e525a883279)
+── 出自[倾城之链 - Avatar Maker - Create your own avatar online](https://site.lovejade.cn/post/6374d7361ac89e525a883279)
 
-## [ntfy.sh | Send push notifications to your phone via PUT/POST](https://nicelinks.site/post/6374d20a1ac89e525a882fa7)
+## [ntfy.sh | Send push notifications to your phone via PUT/POST](https://site.lovejade.cn/post/6374d20a1ac89e525a882fa7)
 
-**标签**：[`开源`](https://nicelinks.site/tags/开源) · [`HTTP`](https://nicelinks.site/tags/HTTP) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`开源`](https://site.lovejade.cn/tags/开源) · [`HTTP`](https://site.lovejade.cn/tags/HTTP) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > ntfy is a simple HTTP-based pub-sub notification service. It allows you to send desktop notifications via scripts from any computer, entirely without signup or cost. Made with ❤ by Philipp C. Heckel, Apache License 2.0, source at https://heckel.io/ntfy.
 
 ![倾城之链 - ntfy.sh | Send push notifications to your phone via PUT/POST](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ntfy.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ntfy.sh](https://ntfy.sh/) ，（发音：notify）是一个简单的基于 HTTP 的发布-订阅通知服务。它允许您**从任何计算机通过脚本向您的手机或桌面发送通知**，完全**无需注册、费用或设置**。它是开源的，如果您想运行在自己的服务器，可以通过 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行部署。
+**推荐语**：[ntfy.sh](https://ntfy.sh/) ，（发音：notify）是一个简单的基于 HTTP 的发布-订阅通知服务。它允许您**从任何计算机通过脚本向您的手机或桌面发送通知**，完全**无需注册、费用或设置**。它是开源的，如果您想运行在自己的服务器，可以通过 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 进行部署。
 
 ### 发布消息
 
@@ -137,11 +137,11 @@ curl \
 
 该作者喜欢免费软件，并以此为乐趣，他承诺这项服务将永远保持 [免费和开放](https://github.com/binwiederhier/ntfy) ；您可以在 [常见问题解答](https://ntfy.sh/docs/faq/) 和 [隐私政策](https://ntfy.sh/docs/privacy/) 中阅读更多内容。这里介绍的，只是 ntfy 基础功能，如果您想了解更多及如何使用，可移步至 [ntfy 入门教程](https://docs.ntfy.sh/) 。在我看来 ntfy 是一个很有价值的设计；想拥有一个属于自己的订阅服务，如果基于 `ntfy` 来打造，或是目前不二之选。
 
-── 出自[倾城之链 - ntfy.sh | Send push notifications to your phone via PUT/POST](https://nicelinks.site/post/6374d20a1ac89e525a882fa7)
+── 出自[倾城之链 - ntfy.sh | Send push notifications to your phone via PUT/POST](https://site.lovejade.cn/post/6374d20a1ac89e525a882fa7)
 
-## [ LVGL - Light and Versatile Embedded Graphics Library ](https://nicelinks.site/post/63723b57630f9c0644c8bc4f)
+## [ LVGL - Light and Versatile Embedded Graphics Library ](https://site.lovejade.cn/post/63723b57630f9c0644c8bc4f)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`嵌入式`](https://nicelinks.site/tags/嵌入式) · [`编辑器`](https://nicelinks.site/tags/编辑器)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`嵌入式`](https://site.lovejade.cn/tags/嵌入式) · [`编辑器`](https://site.lovejade.cn/tags/编辑器)
 
 **关键字**：LVGL, graphics library, embedded, GUI, MCU, microcontroller, widgets, low-memory
 
@@ -189,17 +189,17 @@ SquareLine Studio 是一个易于使用的 LVGL 拖放式 UI 编辑器工具，�
 
 LVGL：嵌入式图形库可为任何 MCU、MPU 和显示类型创建漂亮的 UI。它由名为 SquareLine Studio 的专业且经济实惠的拖放式 UI 编辑器推动。如果您对其感兴趣，可移步至 [LVGL Github 开源仓库](https://github.com/lvgl/lvgl) 。
 
-── 出自[倾城之链 - LVGL - Light and Versatile Embedded Graphics Library ](https://nicelinks.site/post/63723b57630f9c0644c8bc4f)
+── 出自[倾城之链 - LVGL - Light and Versatile Embedded Graphics Library ](https://site.lovejade.cn/post/63723b57630f9c0644c8bc4f)
 
-## [dagger.io](https://nicelinks.site/post/637232df630f9c0644c8baef)
+## [dagger.io](https://site.lovejade.cn/post/637232df630f9c0644c8baef)
 
-**标签**：[`引擎`](https://nicelinks.site/tags/引擎) · [`开源`](https://nicelinks.site/tags/开源) · [`CICD`](https://nicelinks.site/tags/CICD)
+**标签**：[`引擎`](https://site.lovejade.cn/tags/引擎) · [`开源`](https://site.lovejade.cn/tags/开源) · [`CICD`](https://site.lovejade.cn/tags/CICD)
 
 > Welcome to Dagger.io
 
 ![倾城之链 - dagger.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/dagger.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Dagger](https://dagger.io/) 是一个可编程的 CI/CD 引擎，可以在容器中运行您的管道。使用与应用程序相同的编程语言将 CI/CD 管道开发为代码。这样可以避免写 YAML 配置（ [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 、 [Gitlab](https://nicelinks.site/post/5f86fe3ccda9de27bd93a927) 等平台，做 CICD 主要方式）。
+**推荐语**：[Dagger](https://dagger.io/) 是一个可编程的 CI/CD 引擎，可以在容器中运行您的管道。使用与应用程序相同的编程语言将 CI/CD 管道开发为代码。这样可以避免写 YAML 配置（ [Github](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 、 [Gitlab](https://site.lovejade.cn/post/5f86fe3ccda9de27bd93a927) 等平台，做 CICD 主要方式）。
 
 > 在软件工程中，CI/CD 或 CICD 通常指的是**持续集成**和**持续交付**或持续部署的组合实践。CI/CD 通过在应用程式的构建、测试和部署中实施自动化，在开发和运营团队之间架起了桥梁。现代 DevOps 实践涉及软体应用程式在整个开发生命周期内的持续开发、持续测试、持续集成、持续部署和持续监控。CI/CD 实践或 CI/CD 管道（CI/CD pipeline）构成了现代 DevOps 业务的主干。
 
@@ -224,7 +224,7 @@ Dagger 可能是一个不错的选择，如果你是下面 👇 描述的这类�
 
 Dagger 在 [Github 开源](https://github.com/dagger/dagger)，如果您对 Dagger 感兴趣，想了解更多，诸如 Dagger 是如何工作、如何使用等，可移步至官方网站；以程序员视角来看，Dagger 非常具有价值；以 YAML 配置或脚本的方式，处理简单诉求非常方便；如果涉及复杂业务，后期维护可能是一场灾难。
 
-── 出自[倾城之链 - dagger.io](https://nicelinks.site/post/637232df630f9c0644c8baef)
+── 出自[倾城之链 - dagger.io](https://site.lovejade.cn/post/637232df630f9c0644c8baef)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

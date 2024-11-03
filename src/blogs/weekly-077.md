@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [GitHub - vadimdemedes/ink: 🌈 React for interactive command-line apps](https://nicelinks.site/post/62eb42e2d0c36f26c3674324)
+## [GitHub - vadimdemedes/ink: 🌈 React for interactive command-line apps](https://site.lovejade.cn/post/62eb42e2d0c36f26c3674324)
 
-**标签**：[`命令行`](https://nicelinks.site/tags/命令行) · [`React`](https://nicelinks.site/tags/React) · [`程序`](https://nicelinks.site/tags/程序)
+**标签**：[`命令行`](https://site.lovejade.cn/tags/命令行) · [`React`](https://site.lovejade.cn/tags/React) · [`程序`](https://site.lovejade.cn/tags/程序)
 
 > 🌈 React for interactive command-line apps. Contribute to vadimdemedes/ink development by creating an account on GitHub.
 
@@ -14,11 +14,11 @@
 
 [Ink](https://term.ink/) 这对于前端极客而言，是福音般的存在；您可以基于前端技术，快速构建命令行程序，而不用关注底层；能够极大促进您编写命令行程序的热情；进一步完善您的工具流，从而让您的效果更上一层楼。这中间，Lnk 扮演了优良循环的催化剂和基建砖；事实上，基于 [Ink](https://term.ink/) 已经衍生出大量命令行应用程序；在此强烈推荐了解、学习、使用。
 
-── 出自[倾城之链 - GitHub - vadimdemedes/ink: 🌈 React for interactive command-line apps](https://nicelinks.site/post/62eb42e2d0c36f26c3674324)
+── 出自[倾城之链 - GitHub - vadimdemedes/ink: 🌈 React for interactive command-line apps](https://site.lovejade.cn/post/62eb42e2d0c36f26c3674324)
 
-## [Plasmo | Iterate on every push](https://nicelinks.site/post/62ea8b8abea86d1ae27b7bd4)
+## [Plasmo | Iterate on every push](https://site.lovejade.cn/post/62ea8b8abea86d1ae27b7bd4)
 
-**标签**：[`扩展`](https://nicelinks.site/tags/扩展) · [`框架`](https://nicelinks.site/tags/框架) · [`React`](https://nicelinks.site/tags/React)
+**标签**：[`扩展`](https://site.lovejade.cn/tags/扩展) · [`框架`](https://site.lovejade.cn/tags/框架) · [`React`](https://site.lovejade.cn/tags/React)
 
 **关键字**：browser extension, chrome extension, developer tools, developer tooling, continuous integration, security, cybersecurity, enterprise
 
@@ -28,7 +28,7 @@
 
 **推荐语**：[Plasmo](https://www.plasmo.com/) 是一个用于开发浏览器扩展的框架、平台，支持开发者**快速**`开发`、`测试`、`发布`「浏览器扩展」，支持所有主流浏览器（如 Chrome、Firefox、Safari 等等）。
 
-[Plasmo](https://www.plasmo.com/) 所提供的框架基于 React，类似于浏览器扩展的 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146)；通过 TypeScript 支持、自动引导 manifest.json、资产生成、自动捆绑等，享受最先进的浏览器扩展开发者体验，零配置、自动化部署。基于 plasmo 开发浏览器框架，具备哪些优势呢？官方有额外给出以下好处：
+[Plasmo](https://www.plasmo.com/) 所提供的框架基于 React，类似于浏览器扩展的 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146)；通过 TypeScript 支持、自动引导 manifest.json、资产生成、自动捆绑等，享受最先进的浏览器扩展开发者体验，零配置、自动化部署。基于 plasmo 开发浏览器框架，具备哪些优势呢？官方有额外给出以下好处：
 
 ### 开发
 
@@ -44,17 +44,17 @@
 
 Plasmo 框架是由黑客为黑客制作的电池组（battery-packed）浏览器扩展 SDK 。构建您的产品，不再担心配置文件和构建浏览器扩展的奇怪特性。该项目在 Github 开源，支持开发者免费使用；如果您想再进一步增强您的浏览器扩展开发，可以考虑付费（Pro） ，从而使用规模测试、秘密扫描等高级功能。
 
-── 出自[倾城之链 - Plasmo | Iterate on every push](https://nicelinks.site/post/62ea8b8abea86d1ae27b7bd4)
+── 出自[倾城之链 - Plasmo | Iterate on every push](https://site.lovejade.cn/post/62ea8b8abea86d1ae27b7bd4)
 
-## [SvelteKit • The fastest way to build Svelte apps](https://nicelinks.site/post/62ea86c3bea86d1ae27b7bd2)
+## [SvelteKit • The fastest way to build Svelte apps](https://site.lovejade.cn/post/62ea86c3bea86d1ae27b7bd2)
 
-**标签**：[`构建`](https://nicelinks.site/tags/构建) · [`Svelte`](https://nicelinks.site/tags/Svelte) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`构建`](https://site.lovejade.cn/tags/构建) · [`Svelte`](https://site.lovejade.cn/tags/Svelte) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > SvelteKit is the official Svelte application framework
 
 ![倾城之链 - SvelteKit • The fastest way to build Svelte apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kit.svelte.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SvelteKit](https://kit.svelte.dev/) ，是构建 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 应用最快的方法；它是可以用于[构建](https://nicelinks.site/tags/构建)各种规模的 Web 应用程序的框架，具有出色的开发体验，以及灵活的基于文件系统的路由（跟 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)、Webpack、Rollup 类似）。它具有以下功能特征：
+**推荐语**：[SvelteKit](https://kit.svelte.dev/) ，是构建 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 应用最快的方法；它是可以用于[构建](https://site.lovejade.cn/tags/构建)各种规模的 Web 应用程序的框架，具有出色的开发体验，以及灵活的基于文件系统的路由（跟 [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e)、Webpack、Rollup 类似）。它具有以下功能特征：
 
 ### 由 Svelte 提供支持
 
@@ -62,7 +62,7 @@ SvelteKit 是一个由 Svelte 提供支持的应用程序框架——用更小�
 
 ### 两全其美
 
-具备服务器渲染（SSR）应用程序的所有 [SEO](https://nicelinks.site/tags/SEO) 、渐进增强，以及 SPA 的流畅导航。
+具备服务器渲染（SSR）应用程序的所有 [SEO](https://site.lovejade.cn/tags/SEO) 、渐进增强，以及 SPA 的流畅导航。
 
 ### 快速构建
 
@@ -70,11 +70,11 @@ SvelteKit 是一个由 Svelte 提供支持的应用程序框架——用更小�
 
 与单页应用程序不同，SvelteKit 不会在 SEO、渐进增强或初始加载体验方面做出妥协——但与传统的服务器渲染（`SSR`）应用程序不同，导航是即时的，具有类似应用程序的感觉。另外，需要说明的是，目前（2022.08）仍处于测试阶段，如果您想了解更多，可以参见 Github 开源项目：[SvelteKit](https://github.com/sveltejs/kit)。
 
-── 出自[倾城之链 - SvelteKit • The fastest way to build Svelte apps](https://nicelinks.site/post/62ea86c3bea86d1ae27b7bd2)
+── 出自[倾城之链 - SvelteKit • The fastest way to build Svelte apps](https://site.lovejade.cn/post/62ea86c3bea86d1ae27b7bd2)
 
-## [Find and hire quality developers - Proxify](https://nicelinks.site/post/62e9e167bea86d1ae27b7bd0)
+## [Find and hire quality developers - Proxify](https://site.lovejade.cn/post/62e9e167bea86d1ae27b7bd0)
 
-**标签**：[`远程`](https://nicelinks.site/tags/远程) · [`酷工作`](https://nicelinks.site/tags/酷工作) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`远程`](https://site.lovejade.cn/tags/远程) · [`酷工作`](https://site.lovejade.cn/tags/酷工作) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 > Proxify helps companies to hire senior and vetted developers in as little as one week. Get matched with the top 2% of developers in days, not months.
 
@@ -116,11 +116,11 @@ Proxify 的技术团队将帮助您找到：不仅技术合格，而且有积极
 
 如果您是开发者，您可以通过 Proxify 平台，申请成为「开发者」，或能帮助您找到合适的工作。除了招聘业务外，Proxify 还提供了大量技术相关文章分享；有通过 Google 搜索 SPA SEO 相关答案，从而知晓 Proxify 平台的存在。
 
-── 出自[倾城之链 - Find and hire quality developers - Proxify](https://nicelinks.site/post/62e9e167bea86d1ae27b7bd0)
+── 出自[倾城之链 - Find and hire quality developers - Proxify](https://site.lovejade.cn/post/62e9e167bea86d1ae27b7bd0)
 
-## [Render Javascript With Search Engines in Mind | Prerender](https://nicelinks.site/post/62e60030bd6b821eb12244e2)
+## [Render Javascript With Search Engines in Mind | Prerender](https://site.lovejade.cn/post/62e60030bd6b821eb12244e2)
 
-**标签**：[`SEO`](https://nicelinks.site/tags/SEO) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`SEO`](https://site.lovejade.cn/tags/SEO) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > Get higher rankings by serving search engine crawlers a static HTML version of your Javascript website, without compromising your customers’ experience.
 
@@ -130,7 +130,7 @@ Proxify 的技术团队将帮助您找到：不仅技术合格，而且有积极
 
 ### 预渲染产生背景
 
-如果您有从事现代前端开发相关工作，使用 [Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf) ， [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) ， [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 等框架，进行单页应用开发，用户在浏览时，在浏览器动态请求并解析 JavaScript、CSS，然后渲染并呈现出最终的页面；用户体验比较好，网站性能也提高不少。但存在一个问题：网络爬虫并不会动态解析 JavaScript（事实上，Google 引擎会抓取，但效果上不是特别理想），访问所有 URL 得到的只是项目入口文件中的代码，不能得到具体的内容（完整 html 源码）；如此一来，网站 SEO 就无从谈起。
+如果您有从事现代前端开发相关工作，使用 [Angular](https://site.lovejade.cn/post/5b2b7f663bd7ef3847a3fadf) ， [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) ， [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 等框架，进行单页应用开发，用户在浏览时，在浏览器动态请求并解析 JavaScript、CSS，然后渲染并呈现出最终的页面；用户体验比较好，网站性能也提高不少。但存在一个问题：网络爬虫并不会动态解析 JavaScript（事实上，Google 引擎会抓取，但效果上不是特别理想），访问所有 URL 得到的只是项目入口文件中的代码，不能得到具体的内容（完整 html 源码）；如此一来，网站 SEO 就无从谈起。
 
 除了上述提及的客户端渲染 (`CSR` Croswer Side Render)，完全可以基于 SSR（ Server Side Render 服务端渲染）、SSG（Static Site Generation 静态页面生成）、本地预渲染（诸如 [Prerender SPA Plugin](https://github.com/chrisvfritz/prerender-spa-plugin) ）等方案，从而解决 SEO 问题。且不说是否合适、会不会影响渲染速度，单就从实现角度，需要对已经采用 `CSR` 方案的项目，进行颇多修改，才能达成目的。
 
@@ -140,7 +140,7 @@ Proxify 的技术团队将帮助您找到：不仅技术合格，而且有积极
 
 ### Prerender.io 提供什么服务？
 
-`prerender` 项目由 [Prerender.io](https://prerender.io/) 出品（其内部基于 Headless Chrome，与 [Google Puppeteer](https://nicelinks.site/post/625c3735ac29ce06470af877) 类似），也可以使用 [Prerender.io](https://prerender.io/) 提供的服务；它旨在加快向搜索爬虫提供内容的速度，从而提高您的 SEO 分数。只需注册、登录、按照说明进行 Nginx 配置即可；相比自己部署的 `prerender` 服务，有更快的速度、更多可选项设置、强大的仪表盘、缓存管理器以及其他缓存相关活动操作。
+`prerender` 项目由 [Prerender.io](https://prerender.io/) 出品（其内部基于 Headless Chrome，与 [Google Puppeteer](https://site.lovejade.cn/post/625c3735ac29ce06470af877) 类似），也可以使用 [Prerender.io](https://prerender.io/) 提供的服务；它旨在加快向搜索爬虫提供内容的速度，从而提高您的 SEO 分数。只需注册、登录、按照说明进行 Nginx 配置即可；相比自己部署的 `prerender` 服务，有更快的速度、更多可选项设置、强大的仪表盘、缓存管理器以及其他缓存相关活动操作。
 
 需要说明的是，`Prerender.io` 必须与您的 Web 服务器/后端/CDN 集成，以具有确定哪些请求将被转发到 Prererender 的机制。Prerender.io 是如何工作的？可以参见 [Prerender.io 文档 ｜ 入门说明](https://docs.prerender.io/docs/how-does-prerender-work) 。
 
@@ -164,9 +164,9 @@ Google 和 Bing 建议使用动态呈现解决方案来解决 JavaScript 呈现�
 
 Prerender® 由关心软件的行业专家组成的热情社区维护。无论您的配置如何，他们都有解决方案。您甚至可以构建自己的服务器。
 
-本站「 [倾城之链](https://nicelinks.site/) 」是基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 等技术栈所开发的单页应用（SPA），且没有基于 SSR、SSG 做首屏、SEO 优化。早期基于 [prerender](https://github.com/prerender/prerender) 对搜索爬虫做了预渲染处理，由于没有进一步折腾，效果一般。目前采用 [Prerender.io](https://prerender.io/) 提供的免费服务，可以在仪表盘看到：Googlebot 抓取频率相对很高，越来越多页面「缓存命中」；百度和必应的抓取频率比起 Google 要低太多；整体效果正在持续观察中。如果您也为单页应用 SEO 问题而发愁，Prerender.io 是非常值得关注和使用的服务。
+本站「 [倾城之链](https://site.lovejade.cn/) 」是基于 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 等技术栈所开发的单页应用（SPA），且没有基于 SSR、SSG 做首屏、SEO 优化。早期基于 [prerender](https://github.com/prerender/prerender) 对搜索爬虫做了预渲染处理，由于没有进一步折腾，效果一般。目前采用 [Prerender.io](https://prerender.io/) 提供的免费服务，可以在仪表盘看到：Googlebot 抓取频率相对很高，越来越多页面「缓存命中」；百度和必应的抓取频率比起 Google 要低太多；整体效果正在持续观察中。如果您也为单页应用 SEO 问题而发愁，Prerender.io 是非常值得关注和使用的服务。
 
-── 出自[倾城之链 - Render Javascript With Search Engines in Mind | Prerender](https://nicelinks.site/post/62e60030bd6b821eb12244e2)
+── 出自[倾城之链 - Render Javascript With Search Engines in Mind | Prerender](https://site.lovejade.cn/post/62e60030bd6b821eb12244e2)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

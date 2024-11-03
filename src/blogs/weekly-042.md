@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Wiki.js | A modern and powerful wiki app built on Node.js](https://nicelinks.site/post/61a334f7465c2155e2d15886)
+## [Wiki.js | A modern and powerful wiki app built on Node.js](https://site.lovejade.cn/post/61a334f7465c2155e2d15886)
 
-**标签**：[`Wiki`](https://nicelinks.site/tags/Wiki) · [`开源`](https://nicelinks.site/tags/开源) · [`网站生成器`](https://nicelinks.site/tags/网站生成器)
+**标签**：[`Wiki`](https://site.lovejade.cn/tags/Wiki) · [`开源`](https://site.lovejade.cn/tags/开源) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器)
 
 > The most powerful and extensible open source Wiki software. Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!
 
 ![倾城之链 - Wiki.js | A modern and powerful wiki app built on Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/js.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Wiki.js](https://js.wiki/)，一个基于 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 的**现代**、**轻量级**和**强大**的 Wiki 应用程序（值得一提的是，[Wiki.js](https://js.wiki/) 是一个开源项目）。您可以从以下几个功能特征，来领略下 [Wiki.js](https://js.wiki/) 的强大：
+**推荐语**：[Wiki.js](https://js.wiki/)，一个基于 [Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) 的**现代**、**轻量级**和**强大**的 Wiki 应用程序（值得一提的是，[Wiki.js](https://js.wiki/) 是一个开源项目）。您可以从以下几个功能特征，来领略下 [Wiki.js](https://js.wiki/) 的强大：
 
 ### 随处安装
 
@@ -40,9 +40,9 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 除了现代轻量、功能强大，[Wiki.js](https://js.wiki/) 安装也十分简单，您将在几分钟内准备就绪！而且提供适用于所有平台的分步[安装指南](https://js.wiki/get-started)。最近有尝试基于 [Wiki.js](https://js.wiki/) 部署了一个服务：[清风明月阁](https://wiki.lovejade.cn/?ref=nicelinks.site)（使用 Docker Compose，具体有记载于[腾讯云服务器使用感受，及折腾笔记](https://forum.lovejade.cn/d/122)），切实感受了下 Wiki.js 的强大功能与便捷使用；在其官方网站提到：“使用 Wiki.js 漂亮而直观的界面，让编写文档成为一种乐趣！“，其**所言不虚**。
 
-## [色影无忌\_中文影像生活门户](https://nicelinks.site/post/61a8d9b6465c2155e2d15894)
+## [色影无忌\_中文影像生活门户](https://site.lovejade.cn/post/61a8d9b6465c2155e2d15894)
 
-**标签**：[`摄影`](https://nicelinks.site/tags/摄影) · [`平台`](https://nicelinks.site/tags/平台) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`摄影`](https://site.lovejade.cn/tags/摄影) · [`平台`](https://site.lovejade.cn/tags/平台) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 **关键字**：色影无忌, 摄影, 影像, 图片, 人体艺术摄影, 数码相机, 镜头, 摄影论坛, 摄影网, 无忌影展, 摄影技巧, 摄影师, 器材评测, 摄影作品, 摄影器材, 模特, 影楼, 汽车, 旅游
 
@@ -54,11 +54,11 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 [色影无忌](https://ww.xitek.com/)网现设有网站、论坛两大板块，网站下辖器材、影像、行色、她影像四大频道。除为摄影爱好者提供专业的影像服务之外，[色影无忌](https://ww.xitek.com/)始终关注影像艺术中的专业和前沿领域，从为年轻摄影师提供支持的新锐摄影奖，到专业、高端的影像艺术家年度特展，色影无忌正在构建从爱好者到优秀艺术家、从网络快速消费到专业影像收藏的全方位影像艺术概念和格局。
 
-── 出自[倾城之链 - 色影无忌\_中文影像生活门户](https://nicelinks.site/post/61a8d9b6465c2155e2d15894)
+── 出自[倾城之链 - 色影无忌\_中文影像生活门户](https://site.lovejade.cn/post/61a8d9b6465c2155e2d15894)
 
-## [物色 - 科学理性的购物百科](https://nicelinks.site/post/61a8d318465c2155e2d15892)
+## [物色 - 科学理性的购物百科](https://site.lovejade.cn/post/61a8d318465c2155e2d15892)
 
-**标签**：[`购物`](https://nicelinks.site/tags/购物) · [`产品测评`](https://nicelinks.site/tags/产品测评) · [`产品推荐`](https://nicelinks.site/tags/产品推荐)
+**标签**：[`购物`](https://site.lovejade.cn/tags/购物) · [`产品测评`](https://site.lovejade.cn/tags/产品测评) · [`产品推荐`](https://site.lovejade.cn/tags/产品推荐)
 
 **关键字**：产品测评, 产品推荐, 物色, 最好的产品, 最佳的产品, 2020 年最好的产品
 
@@ -66,27 +66,27 @@ Wiki.js 在速度极快的 Node.js 引擎上运行，在构建时考虑到了性
 
 ![倾城之链 - 物色 - 科学理性的购物百科](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/wusebest.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[物色](https://wusebest.com/)，基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建的在线网站；其口号是“科学理性的购物百科“，旨在为你推荐最好的产品。该网站主要分为四个模块儿，物色精选、手机数码、智能家居、娱乐影音；其内容颇为详细，评价也较全面且中肯，只可惜近一年（2021）未曾继续更新。
+**推荐语**：[物色](https://wusebest.com/)，基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 所搭建的在线网站；其口号是“科学理性的购物百科“，旨在为你推荐最好的产品。该网站主要分为四个模块儿，物色精选、手机数码、智能家居、娱乐影音；其内容颇为详细，评价也较全面且中肯，只可惜近一年（2021）未曾继续更新。
 
-── 出自[倾城之链 - 物色 - 科学理性的购物百科](https://nicelinks.site/post/61a8d318465c2155e2d15892)
+── 出自[倾城之链 - 物色 - 科学理性的购物百科](https://site.lovejade.cn/post/61a8d318465c2155e2d15892)
 
-## [Snapcraft - Snaps are universal Linux packages](https://nicelinks.site/post/61a7924a465c2155e2d15890)
+## [Snapcraft - Snaps are universal Linux packages](https://site.lovejade.cn/post/61a7924a465c2155e2d15890)
 
-**标签**：[`应用`](https://nicelinks.site/tags/应用) · [`Linux`](https://nicelinks.site/tags/Linux) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`应用`](https://site.lovejade.cn/tags/应用) · [`Linux`](https://site.lovejade.cn/tags/Linux) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Snaps are containerised software packages that are simple to create and install. They auto-update and are safe to run. And because they bundle their dependencies, they work on all major Linux systems without modification.
 
 ![倾城之链 - Snapcraft - Snaps are universal Linux packages](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/snapcraft.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Snapcraft](https://snapcraft.io/) 是适用于桌面、云和物联网的应用程序包，易于安装、安全、跨平台和无依赖性。可以从 Snap Store 发现和安装 Snap，Snap Store 是一个拥有数百万用户的 Linux 应用程序商店。Snaps 不仅可以在台式机上运行，​​ 还可以在物联网设备、服务器和云上运行。更值得称赞的是，Snapcraft 支持**免费构建**、**发布**和**托管**，无论您的项目是否托管在 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 上，您都可以利用我们的构建系统构建和发布到边缘通道，确保用户始终保持最新状态。对于软件开发商，软件分发在您手中（使用 Snapcraft，您可以控制发布 Snap 的时间和方式）。
+**推荐语**：[Snapcraft](https://snapcraft.io/) 是适用于桌面、云和物联网的应用程序包，易于安装、安全、跨平台和无依赖性。可以从 Snap Store 发现和安装 Snap，Snap Store 是一个拥有数百万用户的 Linux 应用程序商店。Snaps 不仅可以在台式机上运行，​​ 还可以在物联网设备、服务器和云上运行。更值得称赞的是，Snapcraft 支持**免费构建**、**发布**和**托管**，无论您的项目是否托管在 [GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 上，您都可以利用我们的构建系统构建和发布到边缘通道，确保用户始终保持最新状态。对于软件开发商，软件分发在您手中（使用 Snapcraft，您可以控制发布 Snap 的时间和方式）。
 
 近期有新购一台云服务器，其中部分软件，就是基于 Snap 来安装，它给人的体验和感觉非常不错，具体操作有记载于文章：[腾讯云服务器使用感受，及折腾笔记](https://www.jeffjade.com/2021/11/27/230-talk-about-tencent-cloud-cvm/#%E5%AE%89%E8%A3%85-Docker)。
 
-── 出自[倾城之链 - Snapcraft - Snaps are universal Linux packages](https://nicelinks.site/post/61a7924a465c2155e2d15890)
+── 出自[倾城之链 - Snapcraft - Snaps are universal Linux packages](https://site.lovejade.cn/post/61a7924a465c2155e2d15890)
 
-## [gitmoji | An emoji guide for your commit messages](https://nicelinks.site/post/61a781e7465c2155e2d1588e)
+## [gitmoji | An emoji guide for your commit messages](https://site.lovejade.cn/post/61a781e7465c2155e2d1588e)
 
-**标签**：[`Git`](https://nicelinks.site/tags/Git) · [`程序员`](https://nicelinks.site/tags/程序员) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`Git`](https://site.lovejade.cn/tags/Git) · [`程序员`](https://site.lovejade.cn/tags/程序员) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Gitmoji is an emoji guide for your commit messages. Aims to be a standarization cheatshee /t for using emojis on GitHub's commit messages.
 
@@ -109,9 +109,9 @@ git commit
 
 [Gitmoji](https://gitmoji.dev/)，对程序员很有用么，尤其是像我这样，喜欢用表情来区分 Git 提交的开发者。
 
-── 出自[倾城之链 - gitmoji | An emoji guide for your commit messages](https://nicelinks.site/post/61a781e7465c2155e2d1588e)
+── 出自[倾城之链 - gitmoji | An emoji guide for your commit messages](https://site.lovejade.cn/post/61a781e7465c2155e2d1588e)
 
-── 出自[倾城之链 - Wiki.js | A modern and powerful wiki app built on Node.js](https://nicelinks.site/post/61a334f7465c2155e2d15886)
+── 出自[倾城之链 - Wiki.js | A modern and powerful wiki app built on Node.js](https://site.lovejade.cn/post/61a334f7465c2155e2d15886)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

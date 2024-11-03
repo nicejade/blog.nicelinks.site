@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Laravel - The PHP Framework For Web Artisans](https://nicelinks.site/post/633e8f7072ba4a064e24e5d0)
+## [Laravel - The PHP Framework For Web Artisans](https://site.lovejade.cn/post/633e8f7072ba4a064e24e5d0)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Laravel is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
 
@@ -28,7 +28,7 @@ Laravel 重视审美。Laravel 团队和您一样喜欢干净的代码。简单�
 
 ### Monolith 或 API-由您选择
 
-使用 Laravel 和 Livewire 在 PHP 中构建健壮的全栈应用程序。喜欢 JavaScript 吗？通过将 Laravele 与 Inertia 配对，打造整体 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 或 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 驱动前端。或者，让 Laravel 为您的 [Next](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 提供强大的后端 API。js 应用程序、移动应用程序或其他前端。无论哪种方式，Laravel 的初学者工具包将在几分钟内为您带来生产力。
+使用 Laravel 和 Livewire 在 PHP 中构建健壮的全栈应用程序。喜欢 JavaScript 吗？通过将 Laravele 与 Inertia 配对，打造整体 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 或 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 驱动前端。或者，让 Laravel 为您的 [Next](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 提供强大的后端 API。js 应用程序、移动应用程序或其他前端。无论哪种方式，Laravel 的初学者工具包将在几分钟内为您带来生产力。
 
 ### 企业规模没有企业复杂性
 
@@ -38,15 +38,15 @@ Laravel 庞大的精心维护的软件包库意味着您已做好一切准备。
 
 Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是为建筑宇航员和周末黑客准备的。对于那些有学位的人和那些为了追求梦想而辍学的人。我们一起创造令人惊叹的事物。
 
-值得一提的是，知名社区网站 [LearnKu](https://nicelinks.site/post/5fccf57d0ed3200f018e1239) 便是基于 Laravel 搭建，早期名字叫「Laravel China 社区」，至今可看到 [laravel](https://learnku.com/laravel) 板块儿。
+值得一提的是，知名社区网站 [LearnKu](https://site.lovejade.cn/post/5fccf57d0ed3200f018e1239) 便是基于 Laravel 搭建，早期名字叫「Laravel China 社区」，至今可看到 [laravel](https://learnku.com/laravel) 板块儿。
 
-[Laravel](https://laravel.com/) 在 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 开源，已拥有超过 71 KB Star，目前更新至 `9.X` 版本；它提供非常完善的生态和文档，无论您是 MacOS、Linux 还是 Windows 操纵系统，都能轻松开始开发和运行 Laravel 项目（支持 Composer 和 Docker）；如果您对 laravel 感兴趣，可移步至 [Laravel 开发文档](https://laravel.com/docs/)。
+[Laravel](https://laravel.com/) 在 [Github](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 开源，已拥有超过 71 KB Star，目前更新至 `9.X` 版本；它提供非常完善的生态和文档，无论您是 MacOS、Linux 还是 Windows 操纵系统，都能轻松开始开发和运行 Laravel 项目（支持 Composer 和 Docker）；如果您对 laravel 感兴趣，可移步至 [Laravel 开发文档](https://laravel.com/docs/)。
 
-── 出自[倾城之链 - Laravel - The PHP Framework For Web Artisans](https://nicelinks.site/post/633e8f7072ba4a064e24e5d0)
+── 出自[倾城之链 - Laravel - The PHP Framework For Web Artisans](https://site.lovejade.cn/post/633e8f7072ba4a064e24e5d0)
 
-## [Repic App | 图片压缩工具](https://nicelinks.site/post/633e867472ba4a064e24e2ab)
+## [Repic App | 图片压缩工具](https://site.lovejade.cn/post/633e867472ba4a064e24e2ab)
 
-**标签**：[`图片压缩`](https://nicelinks.site/tags/图片压缩) · [`工具`](https://nicelinks.site/tags/工具) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`图片压缩`](https://site.lovejade.cn/tags/图片压缩) · [`工具`](https://site.lovejade.cn/tags/工具) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > Repic App, 适合你的图片压缩工具。
 
@@ -61,11 +61,11 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 值得一提的是，Repic App 有提供多种插件，如：TinyPNG 插件、GifSicle 插件（基于 Gifsicle，可压缩 gif 格式的图片）、SVGO 插件等，使得它得以融合业内优秀的开源方案。有粗略体验 repic，经压缩后，体积大幅下降，效果对比相差无几；有「图片压缩」需要的朋友，不妨一试。
 
-── 出自[倾城之链 - Repic App | 图片压缩工具](https://nicelinks.site/post/633e867472ba4a064e24e2ab)
+── 出自[倾城之链 - Repic App | 图片压缩工具](https://site.lovejade.cn/post/633e867472ba4a064e24e2ab)
 
-## [WLB Works | Find jobs for work-life balance](https://nicelinks.site/post/633e81d972ba4a064e24e1e4)
+## [WLB Works | Find jobs for work-life balance](https://site.lovejade.cn/post/633e81d972ba4a064e24e1e4)
 
-**标签**：[`酷工作`](https://nicelinks.site/tags/酷工作) · [`发现`](https://nicelinks.site/tags/发现) · [`远程`](https://nicelinks.site/tags/远程)
+**标签**：[`酷工作`](https://site.lovejade.cn/tags/酷工作) · [`发现`](https://site.lovejade.cn/tags/发现) · [`远程`](https://site.lovejade.cn/tags/远程)
 
 **关键字**：jobs, job seeker, job seeking, job wanted, resume, cv, hiring, work, life, balance
 
@@ -97,11 +97,11 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 在 Alpha 测试阶段，他们还将考虑如何实现网站的盈利模式和收费模式。这是必要的，但对用户来说肯定是低成本的。
 
-── 出自[倾城之链 - WLB Works | Find jobs for work-life balance](https://nicelinks.site/post/633e81d972ba4a064e24e1e4)
+── 出自[倾城之链 - WLB Works | Find jobs for work-life balance](https://site.lovejade.cn/post/633e81d972ba4a064e24e1e4)
 
-## [文武科技柜 - 文武科技社的后花园](https://nicelinks.site/post/633db49272ba4a064e24da51)
+## [文武科技柜 - 文武科技社的后花园](https://site.lovejade.cn/post/633db49272ba4a064e24da51)
 
-**标签**：[`博客`](https://nicelinks.site/tags/博客) · [`教程`](https://nicelinks.site/tags/教程) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`博客`](https://site.lovejade.cn/tags/博客) · [`教程`](https://site.lovejade.cn/tags/教程) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 **关键字**：文武科技社, 软件, 黑苹果, mac, win, 电影
 
@@ -109,13 +109,13 @@ Laravel 适合所有人，无论你已经编程 20 年还是 20 分钟。这是�
 
 ![倾城之链 - 文武科技柜 - 文武科技社的后花园](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wangdu.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[文武科技柜](https://www.wangdu.site/)，是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)   搭建的博客网站（是[文武科技社](https://chengxuxiaohei.top/)  的附属产物）；主要用以分享一些**工具**，以及个人经验编写的**教程**；该网站是作者将  [WordPress 和公众号、小程序三者合一](https://www.wangdu.site/software/47.html) 的一种践行，对此感兴趣的朋友，或可参考下。
+**推荐语**：[文武科技柜](https://www.wangdu.site/)，是基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1)   搭建的博客网站（是[文武科技社](https://chengxuxiaohei.top/)  的附属产物）；主要用以分享一些**工具**，以及个人经验编写的**教程**；该网站是作者将  [WordPress 和公众号、小程序三者合一](https://www.wangdu.site/software/47.html) 的一种践行，对此感兴趣的朋友，或可参考下。
 
-── 出自[倾城之链 - 文武科技柜 - 文武科技社的后花园](https://nicelinks.site/post/633db49272ba4a064e24da51)
+── 出自[倾城之链 - 文武科技柜 - 文武科技社的后花园](https://site.lovejade.cn/post/633db49272ba4a064e24da51)
 
-## [Nginx - An HTTP and reverse proxy server](https://nicelinks.site/post/6339a6aa35a9c117dacf2363)
+## [Nginx - An HTTP and reverse proxy server](https://site.lovejade.cn/post/6339a6aa35a9c117dacf2363)
 
-**标签**：[`HTTP`](https://nicelinks.site/tags/HTTP) · [`Nginx`](https://nicelinks.site/tags/Nginx) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`HTTP`](https://site.lovejade.cn/tags/HTTP) · [`Nginx`](https://site.lovejade.cn/tags/Nginx) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev. For a long time, it has been running on many heavily loaded Russian sites including Yandex, Mail.Ru, VK, and Rambler. According to Netcraft, nginx served or proxied 21.62% busiest sites in August 2022.
 
@@ -157,13 +157,13 @@ Nginx 是互联网上最受欢迎的开源 Web 服务器之一，它不仅提供
 
 2019 年 3 月，著名硬件负载均衡厂商 F5 宣布收购 Nginx，Nginx 成为 F5 的一部分。F5 表示，将加强对开源和 Nginx 应用平台的投资，致力于 Nginx 开源技术、开发人员和社区的发展，更大的投资将为开放源码计划注入新的活力，会主办更多的开放源码活动，并产生更多的开放源码内容。
 
-得益于近几年云计算和微服务的快速发展，Nginx 因在其中发挥了自身优势而得到广泛应用，且有望在未来占有更多的市场份额。值得说明的是，包括 [倾城之链](https://nicelinks.site/) 在内的多个网站，均通过 Nginx 部署；如果您也有部署 Web 网站或 API 服务，Nginx 是笔者所选推荐；当然，它完全可以跟 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 、 [Kubernetes](https://nicelinks.site/post/5b2cad0a34c03342fda0f37e) 等产品，配合起来共同使用。
+得益于近几年云计算和微服务的快速发展，Nginx 因在其中发挥了自身优势而得到广泛应用，且有望在未来占有更多的市场份额。值得说明的是，包括 [倾城之链](https://site.lovejade.cn/) 在内的多个网站，均通过 Nginx 部署；如果您也有部署 Web 网站或 API 服务，Nginx 是笔者所选推荐；当然，它完全可以跟 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 、 [Kubernetes](https://site.lovejade.cn/post/5b2cad0a34c03342fda0f37e) 等产品，配合起来共同使用。
 
-── 出自[倾城之链 - Nginx - An HTTP and reverse proxy server](https://nicelinks.site/post/6339a6aa35a9c117dacf2363)
+── 出自[倾城之链 - Nginx - An HTTP and reverse proxy server](https://site.lovejade.cn/post/6339a6aa35a9c117dacf2363)
 
-## [YARN | Search clips by quote](https://nicelinks.site/post/6339791035a9c117dacf21ad)
+## [YARN | Search clips by quote](https://site.lovejade.cn/post/6339791035a9c117dacf21ad)
 
-**标签**：[`电影`](https://nicelinks.site/tags/电影) · [`剪辑`](https://nicelinks.site/tags/剪辑) · [`搜索`](https://nicelinks.site/tags/搜索)
+**标签**：[`电影`](https://site.lovejade.cn/tags/电影) · [`剪辑`](https://site.lovejade.cn/tags/剪辑) · [`搜索`](https://site.lovejade.cn/tags/搜索)
 
 > YARN，Find Clips in Fave Movies, TV, & Music
 
@@ -173,7 +173,7 @@ Nginx 是互联网上最受欢迎的开源 Web 服务器之一，它不仅提供
 
 YARN 在其关于页面谈到：他们一直在研究许多搜索、提取和分析视频内容的技术。Yarn 是他们第一款使用娱乐内容的产品，目前正在重新调整输出的用途，以便快速交流。请继续关注更复杂的搜索技术。
 
-── 出自[倾城之链 - YARN | Search clips by quote](https://nicelinks.site/post/6339791035a9c117dacf21ad)
+── 出自[倾城之链 - YARN | Search clips by quote](https://site.lovejade.cn/post/6339791035a9c117dacf21ad)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

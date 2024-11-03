@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Builder.io Drag and drop page builder and CMS - Builder.io](https://nicelinks.site/post/61029aa88c195005d758ab87)
+## [Builder.io Drag and drop page builder and CMS - Builder.io](https://site.lovejade.cn/post/61029aa88c195005d758ab87)
 
-**标签**：[`无代码`](https://nicelinks.site/tags/无代码) · [`可视化`](https://nicelinks.site/tags/可视化) · [`编辑器`](https://nicelinks.site/tags/编辑器)
+**标签**：[`无代码`](https://site.lovejade.cn/tags/无代码) · [`可视化`](https://site.lovejade.cn/tags/可视化) · [`编辑器`](https://site.lovejade.cn/tags/编辑器)
 
 > Build and optimize digital experiences for any tech stack, visually.
 
@@ -35,11 +35,11 @@
 
 [Builder.io](https://www.builder.io/) 无需代码，即可直观地构建和优化数字体验。其目标是：使任何人都能够构建数字体验，并将更多想法变为现实。他们的方法是：将可视化连接到现有的软件系统，以满足开发人员和非开发人员的需求。如果您想了解更多，可以参见 [关于 Builder.io](https://www.builder.io/m/about-us)。
 
-── 出自[倾城之链 - Builder.io Drag and drop page builder and CMS - Builder.io](https://nicelinks.site/post/61029aa88c195005d758ab87)
+── 出自[倾城之链 - Builder.io Drag and drop page builder and CMS - Builder.io](https://site.lovejade.cn/post/61029aa88c195005d758ab87)
 
-## [美剧迷 - 美剧大全,最新好看的天天美剧下载,在线观看,美剧天堂](https://nicelinks.site/post/610296ca8c195005d758ab85)
+## [美剧迷 - 美剧大全,最新好看的天天美剧下载,在线观看,美剧天堂](https://site.lovejade.cn/post/610296ca8c195005d758ab85)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`在线`](https://nicelinks.site/tags/在线) · [`美剧`](https://nicelinks.site/tags/美剧)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`在线`](https://site.lovejade.cn/tags/在线) · [`美剧`](https://site.lovejade.cn/tags/美剧)
 
 **关键字**：美剧, 美剧下载, 天天美剧, 美剧天堂, 美剧网, 美剧在线
 
@@ -49,11 +49,11 @@
 
 **推荐语**：[美剧迷](https://www.meijumi.net/)，美剧在线观看网站（当然也有英剧、韩剧）；如果您是美剧爱好者，可以关注；它不仅提供最新的美剧，而且会给出非常详细的介绍，并且提供现在观看功能（带有多语言字幕）。除此之外，类型划分清晰，且提供搜索功能；额外还提供`随便看看`、`热剧排行`、`热门剧评`等模块，相信您可以快速从该网站，寻找到您喜欢的剧集。
 
-── 出自[倾城之链 - 美剧迷 - 美剧大全,最新好看的天天美剧下载,在线观看,美剧天堂](https://nicelinks.site/post/610296ca8c195005d758ab85)
+── 出自[倾城之链 - 美剧迷 - 美剧大全,最新好看的天天美剧下载,在线观看,美剧天堂](https://site.lovejade.cn/post/610296ca8c195005d758ab85)
 
-## [btw - 顺便提一句](https://nicelinks.site/post/61024db98c195005d758ab83)
+## [btw - 顺便提一句](https://site.lovejade.cn/post/61024db98c195005d758ab83)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`开源`](https://nicelinks.site/tags/开源) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`开源`](https://site.lovejade.cn/tags/开源) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > btw is the open source platform to understand, delight and convert your users into paying customers. Tools to supercharge your product-led growth.
 
@@ -61,11 +61,11 @@
 
 **推荐语**：[btw](https://www.btw.so/) 是一个开源的平台，收录了 200 多种[开源工具](https://www.btw.so/zh/open-source-alternatives)，可替代企业日常运营所需。其核心价值在于，通过实时聊天（扩展您的客户支持并为您的客户服务）、自动捕获（花更少的时间设置跟踪以了解您的客户）、分析（衡量您的绩效并转化您的客户）等，协助将您的客户转变为超级粉丝，从而加速以产品为主导的增长。如果您感兴趣，可以深入了解下。
 
-── 出自[倾城之链 - btw - 顺便提一句](https://nicelinks.site/post/61024db98c195005d758ab83)
+── 出自[倾城之链 - btw - 顺便提一句](https://site.lovejade.cn/post/61024db98c195005d758ab83)
 
-## [国内原创在线漫画平台\_好看的漫画大全 - 漫客栈](https://nicelinks.site/post/610142bd21a633062a515e9b)
+## [国内原创在线漫画平台\_好看的漫画大全 - 漫客栈](https://site.lovejade.cn/post/610142bd21a633062a515e9b)
 
-**标签**：[`漫画`](https://nicelinks.site/tags/漫画) · [`平台`](https://nicelinks.site/tags/平台) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`漫画`](https://site.lovejade.cn/tags/漫画) · [`平台`](https://site.lovejade.cn/tags/平台) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：漫画大全, 漫画图片, 漫画投稿, 在线漫画, 斗破苍穹漫画, 斗罗大陆漫画, 偷星九月天, 穿越西元 3000 后, 凤逆天下, 风起苍岚, 妃夕妍雪, BL 漫画, 耽美漫画, 知音漫客, 飒漫画, 漫画下载
 
@@ -77,11 +77,11 @@
 
 [漫客栈](https://www.mkzhan.com/)涉及题材非常广泛，诸如：霸总、修真、恋爱、校园、冒险、搞笑、生活、热血、架空、后宫、励志、玄幻、悬疑、恐怖、灵异、动作、科幻、战争、古风、穿越、竞技、真人、同人等等；值得一提的是，[漫客栈](https://www.mkzhan.com/)是一个平台，无论您是`读者`，还是`作者`，都能在该平台有所得。
 
-── 出自[倾城之链 - 国内原创在线漫画平台\_好看的漫画大全 - 漫客栈](https://nicelinks.site/post/610142bd21a633062a515e9b)
+── 出自[倾城之链 - 国内原创在线漫画平台\_好看的漫画大全 - 漫客栈](https://site.lovejade.cn/post/610142bd21a633062a515e9b)
 
-## [AutoDraw - Fast drawing for everyone](https://nicelinks.site/post/61011b5021a633062a515e99)
+## [AutoDraw - Fast drawing for everyone](https://site.lovejade.cn/post/61011b5021a633062a515e99)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
 
@@ -91,11 +91,11 @@
 
 [AutoDraw ](https://www.autodraw.com/) 的网页界面非常简洁，画板在正中位置，左侧是工具栏，在绘制过程中还能为图形填色（24 色），而上方则是图形候选区，比如你简单几笔画出了一辆自行车，上方会显示**候选图案**以供选择。绘制完成后，可以直接以 png 格式下载保存。更赞的是，[AutoDraw ](https://www.autodraw.com/) 除了能**免费**使用外，它还几乎支持所有设备，毕竟这是一款 Web 端工具。
 
-── 出自[倾城之链 - AutoDraw - Fast drawing for everyone](https://nicelinks.site/post/61011b5021a633062a515e99)
+── 出自[倾城之链 - AutoDraw - Fast drawing for everyone](https://site.lovejade.cn/post/61011b5021a633062a515e99)
 
-## [界面新闻-只服务于独立思考的人群-Jiemian.com](https://nicelinks.site/post/60feafc421a633062a515e97)
+## [界面新闻-只服务于独立思考的人群-Jiemian.com](https://site.lovejade.cn/post/60feafc421a633062a515e97)
 
-**标签**：[`新闻`](https://nicelinks.site/tags/新闻) · [`资讯`](https://nicelinks.site/tags/资讯) · [`媒体`](https://nicelinks.site/tags/媒体)
+**标签**：[`新闻`](https://site.lovejade.cn/tags/新闻) · [`资讯`](https://site.lovejade.cn/tags/资讯) · [`媒体`](https://site.lovejade.cn/tags/媒体)
 
 **关键字**：界面网络, 界面新闻, 界面资讯, 界面财经, 摩尔, 歪楼, 正午, JMedia, 商业, 自媒体联盟, 资本市场, TMT, 交易, 股票
 
@@ -120,7 +120,7 @@
 
 界面新闻集合了 App 客户端、网站、微博及微信公众号等新媒体产品矩阵，除此之外，还可以在今日头条、百度、腾讯、招商银行、小米、新浪、一点资讯、搜狐、凤凰等合作渠道看到其原创优质内容。
 
-── 出自[倾城之链 - 界面新闻-只服务于独立思考的人群-Jiemian.com](https://nicelinks.site/post/60feafc421a633062a515e97)
+── 出自[倾城之链 - 界面新闻-只服务于独立思考的人群-Jiemian.com](https://site.lovejade.cn/post/60feafc421a633062a515e97)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

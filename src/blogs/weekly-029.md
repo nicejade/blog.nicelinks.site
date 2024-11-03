@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Devhints — TL;DR for developer documentation](https://nicelinks.site/post/6130ebe4b0504506425906a5)
+## [Devhints — TL;DR for developer documentation](https://site.lovejade.cn/post/6130ebe4b0504506425906a5)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`前端开发`](https://nicelinks.site/tags/前端开发) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`前端开发`](https://site.lovejade.cn/tags/前端开发) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > A ridiculous collection of web development cheatsheets · One-page guide to
 
@@ -14,11 +14,11 @@
 
 假设您想快速参考 MySQL 的备忘单，只需输入 MySQL 并单击第一个选项。它会将您所有的相关文档都列在一个易于阅读的备忘单中，这样您就可以通过选择逻辑来开始。如果你是一个初级开发人员，这可能是你能遇到的最机智的网站。
 
-── 出自[倾城之链 - Devhints — TL;DR for developer documentation](https://nicelinks.site/post/6130ebe4b0504506425906a5)
+── 出自[倾城之链 - Devhints — TL;DR for developer documentation](https://site.lovejade.cn/post/6130ebe4b0504506425906a5)
 
-## [CEO Letter](https://nicelinks.site/post/6130ddadb0504506425906a3)
+## [CEO Letter](https://site.lovejade.cn/post/6130ddadb0504506425906a3)
 
-**标签**：[`分享`](https://nicelinks.site/tags/分享) · [`创业者`](https://nicelinks.site/tags/创业者)
+**标签**：[`分享`](https://site.lovejade.cn/tags/分享) · [`创业者`](https://site.lovejade.cn/tags/创业者)
 
 > Learn From the Best
 
@@ -26,13 +26,13 @@
 
 **推荐语**：[CEO Letter](https://ceoletter.cn/) 旨在**聚合分享国内外优秀创业者的洞见**，促进大家互相学习进步，对读者做事或思考，有所启发。其 Slogan 是 “**Learn From the Best**”，作者相信只有优秀的创业者，才可能教出下一代优秀的创业者。因而对于内容，定向邀请一些优秀的 CEO/Co-founders 供稿（会严格审核）；同时也欢迎互联网等科技公司的 CEO/Co-founders，撰写有 insight 洞见的文章进行投稿。
 
-作者深刻认为在这个时代的中国，乐于创造一些好产品的创业者是稀缺品，乐于创造并且乐于分享洞见的创业者更为少见。即使有创业者愿意分享，但也面临分发效率问题。解决分发效率问题，最好的解决方案就是聚合。譬如在 PM 圈有人人都是产品经理，在程序员届有 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)，[Dev.to](https://nicelinks.site/post/5ffee335f14a2d7ea7457b41) 等创作聚合和分享站点，那为什么没有 CEO 的创作聚合呢？基于这样的认识和考虑，才做了 [CEO Letter](https://ceoletter.cn/) ── 一个 CEO 写东西的地方；如您想更详细了解，可参见 [关于 CEO Letter](https://ceoletter.cn/ceo-letter-released/)。
+作者深刻认为在这个时代的中国，乐于创造一些好产品的创业者是稀缺品，乐于创造并且乐于分享洞见的创业者更为少见。即使有创业者愿意分享，但也面临分发效率问题。解决分发效率问题，最好的解决方案就是聚合。譬如在 PM 圈有人人都是产品经理，在程序员届有 [GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911)，[Dev.to](https://site.lovejade.cn/post/5ffee335f14a2d7ea7457b41) 等创作聚合和分享站点，那为什么没有 CEO 的创作聚合呢？基于这样的认识和考虑，才做了 [CEO Letter](https://ceoletter.cn/) ── 一个 CEO 写东西的地方；如您想更详细了解，可参见 [关于 CEO Letter](https://ceoletter.cn/ceo-letter-released/)。
 
-── 出自[倾城之链 - CEO Letter](https://nicelinks.site/post/6130ddadb0504506425906a3)
+── 出自[倾城之链 - CEO Letter](https://site.lovejade.cn/post/6130ddadb0504506425906a3)
 
-## [iMyShare - 收集免费实用有趣的东西，做最好的资源导航](https://nicelinks.site/post/612fa47fb0504506425906a1)
+## [iMyShare - 收集免费实用有趣的东西，做最好的资源导航](https://site.lovejade.cn/post/612fa47fb0504506425906a1)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`资源`](https://nicelinks.site/tags/资源) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`资源`](https://site.lovejade.cn/tags/资源) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 **关键字**：iMyShare, 网址导航, 资源分享, 资源搜索, 网盘搜索, 免费视频网站, 实用软件, 软件资源, 实用工具, 下载工具, 视频下载, 免费音乐下载, 电子书下载网站, 办公素材, 设计素材, 有趣的网站, 免费漫画网站, 免费动漫
 
@@ -44,11 +44,11 @@
 
 除此博客与导航外，[iMyShare](https://imyshare.com/) 还会涉及些视频、音乐、电子书等多媒体内容；在 [iMyShare](https://imyshare.com/) 的百宝箱栏目，集结了万能搜索、免费看电影、视频去水印、[**快手热舞**](https://imyshare.com/hot-girl/)、**抖音音乐**（汇集抖音上热门的音乐、歌曲、背景音乐，支持在线听歌和下载，每 15 天更新一次）等功能。
 
-── 出自[倾城之链 - iMyShare - 收集免费实用有趣的东西，做最好的资源导航](https://nicelinks.site/post/612fa47fb0504506425906a1)
+── 出自[倾城之链 - iMyShare - 收集免费实用有趣的东西，做最好的资源导航](https://site.lovejade.cn/post/612fa47fb0504506425906a1)
 
-## [Smart Ads by Unbounce](https://nicelinks.site/post/612f64aab05045064259069f)
+## [Smart Ads by Unbounce](https://site.lovejade.cn/post/612f64aab05045064259069f)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`设计`](https://nicelinks.site/tags/设计) · [`营销`](https://nicelinks.site/tags/营销)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`设计`](https://site.lovejade.cn/tags/设计) · [`营销`](https://site.lovejade.cn/tags/营销)
 
 > Create ads for social media, youtube previews, facebook covers and much more!
 
@@ -61,11 +61,11 @@
 
 如果您尝试制作广告、公众号封面，[Smart Ads](https://smart-ads.unbounce.com/) 是值得考虑的工具之一。另外，需要说明的是，所制作的产物，可以导出图片、PDF 两种格式。
 
-── 出自[倾城之链 - Smart Ads by Unbounce](https://nicelinks.site/post/612f64aab05045064259069f)
+── 出自[倾城之链 - Smart Ads by Unbounce](https://site.lovejade.cn/post/612f64aab05045064259069f)
 
-## [Icon Horse](https://nicelinks.site/post/612e33dab05045064259069d)
+## [Icon Horse](https://site.lovejade.cn/post/612e33dab05045064259069d)
 
-**标签**：[`图标`](https://nicelinks.site/tags/图标) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`图标`](https://site.lovejade.cn/tags/图标) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Get any sites icons on demand, with confidence.
 
@@ -93,7 +93,7 @@ https://icon.horse/icon/domain.com
 
 对于网站导航类产品，[Icon Horse](https://icon.horse/) 尤其有用。
 
-── 出自[倾城之链 - Icon Horse](https://nicelinks.site/post/612e33dab05045064259069d)
+── 出自[倾城之链 - Icon Horse](https://site.lovejade.cn/post/612e33dab05045064259069d)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

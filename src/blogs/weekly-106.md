@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Generate ad creatives that help you sell more. Fast.](https://nicelinks.site/post/63f76626f35fb604d891d851)
+## [Generate ad creatives that help you sell more. Fast.](https://site.lovejade.cn/post/63f76626f35fb604d891d851)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`广告`](https://nicelinks.site/tags/广告) · [`创意`](https://nicelinks.site/tags/创意)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`广告`](https://site.lovejade.cn/tags/广告) · [`创意`](https://site.lovejade.cn/tags/创意)
 
 > Artificial Intelligence powered ad creative and banner generator for better conversion rates.
 
 ![倾城之链 - Generate ad creatives that help you sell more. Fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.adcreative.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[adcreative.ai](https://www.adcreative.ai/) ，一款人工智能（ [AI](https://nicelinks.site/tags/AI) ：Artificial Intelligence.）驱动广告和社交创意工具；使用人工智能在几秒钟内生成注重转化的广告创意和社交媒体帖子创意。在节省时间的同时获得更好的结果。它具有如下功能特征：
+**推荐语**：[adcreative.ai](https://www.adcreative.ai/) ，一款人工智能（ [AI](https://site.lovejade.cn/tags/AI) ：Artificial Intelligence.）驱动广告和社交创意工具；使用人工智能在几秒钟内生成注重转化的广告创意和社交媒体帖子创意。在节省时间的同时获得更好的结果。它具有如下功能特征：
 
 ### 为合作而生
 
@@ -30,19 +30,19 @@
 
 [AdCreative.ai](https://www.adcreative.ai/) 是一种可以在几秒钟内生成即用型、高转化率广告创意和社交媒体帖子创意的生成式 AI。它还为您提供了您以前从未接触过的创造性见解。通过训练有素的人工智能生成的创意/横幅，为您的企业带来不公平的优势。对于独立创造者或个人创业者，在项目伊始，可能没办法请大量优秀设计师、运营推广工作人员，借助类似 AI 工具，或许可以缩小与巨无霸公司的差距，使得能专注于塑造打磨产品。
 
-── 出自[倾城之链 - Generate ad creatives that help you sell more. Fast.](https://nicelinks.site/post/63f76626f35fb604d891d851)
+── 出自[倾城之链 - Generate ad creatives that help you sell more. Fast.](https://site.lovejade.cn/post/63f76626f35fb604d891d851)
 
-## [Emotion – The Next Generation of CSS-in-JS](https://nicelinks.site/post/63f75274f35fb604d891d770)
+## [Emotion – The Next Generation of CSS-in-JS](https://site.lovejade.cn/post/63f75274f35fb604d891d770)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
 
 ![倾城之链 - Emotion – The Next Generation of CSS-in-JS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/emotion.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Emotion](https://emotion.sh/) 是一个性能优异且灵活的 CSS-in-JS 库。在许多其他 CSS-in-JS 库的基础上，它允许你用**字符串或对象**样式快速为应用程序设置样式。它具有可预测的组成，以避免 [CSS](https://nicelinks.site/tags/CSS) 的特殊性问题。通过源码地图（Source Map）和标签，Emotion 有很好的开发者体验，并且在生产中通过大量的缓存有很好的性能。
+**推荐语**：[Emotion](https://emotion.sh/) 是一个性能优异且灵活的 CSS-in-JS 库。在许多其他 CSS-in-JS 库的基础上，它允许你用**字符串或对象**样式快速为应用程序设置样式。它具有可预测的组成，以避免 [CSS](https://site.lovejade.cn/tags/CSS) 的特殊性问题。通过源码地图（Source Map）和标签，Emotion 有很好的开发者体验，并且在生产中通过大量的缓存有很好的性能。
 
-有两种使用 Emotion 的主要方法。第一个与框架无关，第二个用于 [React](https://nicelinks.site/tags/React)，分别是：
+有两种使用 Emotion 的主要方法。第一个与框架无关，第二个用于 [React](https://site.lovejade.cn/tags/React)，分别是：
 
 ```bash
 # common
@@ -54,13 +54,13 @@ npm i @emotion/react
 npm i @emotion/styled @emotion/react
 ```
 
-Emotion 支持所有流行的浏览器和 Internet Explorer 11。Web 开发中，CSS 自诞生之日起，就面临挑战性，各路优秀开发者为 CSS 最佳实践，付出了诸多努力；从早起内联写法、到与 HTML 分离；衍生出各种 CSS 预处理、CSS in JS、原子化 CSS 框架 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)，目前笔者较为喜欢的是 TailwindCSS 以及 SwiftUI 那种链式调用。在 [Github](https://nicelinks.site/tags/Github) 你会发现大量优质的方案，从中选择出一个能够让你和团队受益的方案吧！
+Emotion 支持所有流行的浏览器和 Internet Explorer 11。Web 开发中，CSS 自诞生之日起，就面临挑战性，各路优秀开发者为 CSS 最佳实践，付出了诸多努力；从早起内联写法、到与 HTML 分离；衍生出各种 CSS 预处理、CSS in JS、原子化 CSS 框架 [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7)，目前笔者较为喜欢的是 TailwindCSS 以及 SwiftUI 那种链式调用。在 [Github](https://site.lovejade.cn/tags/Github) 你会发现大量优质的方案，从中选择出一个能够让你和团队受益的方案吧！
 
-── 出自[倾城之链 - Emotion – The Next Generation of CSS-in-JS](https://nicelinks.site/post/63f75274f35fb604d891d770)
+── 出自[倾城之链 - Emotion – The Next Generation of CSS-in-JS](https://site.lovejade.cn/post/63f75274f35fb604d891d770)
 
-## [Home - OpenCV](https://nicelinks.site/post/63f4b145f35fb604d891c6b0)
+## [Home - OpenCV](https://site.lovejade.cn/post/63f4b145f35fb604d891c6b0)
 
-**标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`AI`](https://nicelinks.site/tags/AI) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`机器学习`](https://site.lovejade.cn/tags/机器学习) · [`AI`](https://site.lovejade.cn/tags/AI) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > OpenCV provides a real-time optimized Computer Vision library, tools, and hardware. It also supports model execution for Machine Learning (ML) and Artificial Intelligence (AI).
 
@@ -78,17 +78,17 @@ OpenCV 旨在为计算机视觉应用程序提供通用基础设施，并加速�
 
 它有 C++、Python、Java 和 MATLAB 接口，支持 Windows、Linux、 [Android](https://opencv.org/opencv//android/) 和 Mac OS。OpenCV 主要倾向于实时视觉应用程序，并在可用时利用 MMX 和 SSE 指令。  目前正在积极开发功能齐全的 [CUDA](https://opencv.org/opencv//cuda/) 和 [OpenCL 接口。](https://opencv.org/opencv//opencl/) 有超过 500 种算法和大约 10 倍的函数组成或支持这些算法。OpenCV 是用 C++ 原生编写的，具有可与 STL 容器无缝协作的模板化界面。
 
-── 出自[倾城之链 - Home - OpenCV](https://nicelinks.site/post/63f4b145f35fb604d891c6b0)
+── 出自[倾城之链 - Home - OpenCV](https://site.lovejade.cn/post/63f4b145f35fb604d891c6b0)
 
-## [Fyrox | a modern Rust game engine](https://nicelinks.site/post/63f35eb23f8ac0238dc7ba85)
+## [Fyrox | a modern Rust game engine](https://site.lovejade.cn/post/63f35eb23f8ac0238dc7ba85)
 
-**标签**：[`游戏`](https://nicelinks.site/tags/游戏) · [`引擎`](https://nicelinks.site/tags/引擎) · [`Rust`](https://nicelinks.site/tags/Rust)
+**标签**：[`游戏`](https://site.lovejade.cn/tags/游戏) · [`引擎`](https://site.lovejade.cn/tags/引擎) · [`Rust`](https://site.lovejade.cn/tags/Rust)
 
 > Official webpage for Fyrox game engine. 3D and 2D game engine written in Rust.
 
 ![倾城之链 - Fyrox | a modern Rust game engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/fyrox.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Fyrox](https://fyrox.rs/) ，一个功能丰富的、生产就绪的、通用的 2D /。 [3D](https://nicelinks.site/tags/3D) 游戏引擎，用 [Rust](https://nicelinks.site/tags/Rust) 编写，带有场景编辑器（以前称为 `rg3d`）。它具有如下功能特征：
+**推荐语**：[Fyrox](https://fyrox.rs/) ，一个功能丰富的、生产就绪的、通用的 2D /。 [3D](https://site.lovejade.cn/tags/3D) 游戏引擎，用 [Rust](https://site.lovejade.cn/tags/Rust) 编写，带有场景编辑器（以前称为 `rg3d`）。它具有如下功能特征：
 
 - **一流的 2D 和 3D 支持**：创建 2D 或 3D 游戏，甚至混合 2D 和 3D。
 - **高质量的灵活渲染器**：强大且可扩展的渲染器将满足您的大部分需求。
@@ -96,7 +96,7 @@ OpenCV 旨在为计算机视觉应用程序提供通用基础设施，并加速�
 - **高级 2D/3D 物理**：刚体、各种碰撞器、关节、光线投射等。
 - **高级用户界面**：使用强大的 UI 系统来创建受您想象力限制的界面。
 - **强大的动画系统**：使用内置动画系统创建复杂的动画。
-- **多平台**：为 PC（Windows、Linux、macOS）和 Web ( [WebAssembly](https://nicelinks.site/tags/WebAssembly) ) 制作游戏；
+- **多平台**：为 PC（Windows、Linux、macOS）和 Web ( [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) ) 制作游戏；
 - **插件和脚本**：完全用 Rust 编写您的游戏，同时能够在编辑器中运行它。使用自定义插件扩展引擎的功能。
 - **场景图**：功能齐全，具有各种节点（枢轴、相机、网格、灯光、粒子系统、精灵），包括您自己的。
 
@@ -108,17 +108,17 @@ cargo new my-awesome-game
 
 Fyrox 在 [Github 开源](https://github.com/FyroxEngine/Fyrox) ，如果您对于游戏或 fyrox 感兴趣，可移步 [Fyrox 更多功能介绍](https://fyrox.rs/features.html) ，从而了解更多。
 
-── 出自[倾城之链 - Fyrox | a modern Rust game engine](https://nicelinks.site/post/63f35eb23f8ac0238dc7ba85)
+── 出自[倾城之链 - Fyrox | a modern Rust game engine](https://site.lovejade.cn/post/63f35eb23f8ac0238dc7ba85)
 
-## [Lingui | Internationalization Framework for Global Products](https://nicelinks.site/post/63f359873f8ac0238dc7b9a3)
+## [Lingui | Internationalization Framework for Global Products](https://site.lovejade.cn/post/63f359873f8ac0238dc7b9a3)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Internationalization Framework for Global Products. A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
 ![倾城之链 - Lingui | Internationalization Framework for Global Products](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lingui.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lingui](https://lingui.dev/) ，是一个简单而强大的全球项目国际化框架，用于 JavaScript 项目内部化 (i18n) 的 JavaScript 库，包括 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Node.js 和 Angular。它具有如下功能特征：
+**推荐语**：[Lingui](https://lingui.dev/) ，是一个简单而强大的全球项目国际化框架，用于 JavaScript 项目内部化 (i18n) 的 JavaScript 库，包括 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、Node.js 和 Angular。它具有如下功能特征：
 
 - **通用**：随处使用。`@lingui/core` 提供适用于任何 JavaScript 项目的基本国际功能，同时 `@lingui/react` 提供组件以利用 React 渲染。
 - **清洁和可读**- 保持您的代码清洁和可读，而库在引擎盖下使用久经考验且功能强大的 **ICU MessageFormat**。
@@ -147,11 +147,11 @@ function App() {
 
 国际化（Internationalization，简称：`18n`）是产品、应用程序或文档内容的设计和开发，可以轻松地为不同文化、地区或语言的目标受众进行本地化。如果您的 Web 应用，有考虑国际化相关诉求，Lingui 非常值得纳入考虑；如果您对其感兴趣，不妨移步 [js-lingui 开源仓库](https://github.com/lingui/js-lingui) 从而了解更多。
 
-── 出自[倾城之链 - Lingui | Internationalization Framework for Global Products](https://nicelinks.site/post/63f359873f8ac0238dc7b9a3)
+── 出自[倾城之链 - Lingui | Internationalization Framework for Global Products](https://site.lovejade.cn/post/63f359873f8ac0238dc7b9a3)
 
-## [Wasmtime | A fast and secure runtime for WebAssembly](https://nicelinks.site/post/63f323623f8ac0238dc7b798)
+## [Wasmtime | A fast and secure runtime for WebAssembly](https://site.lovejade.cn/post/63f323623f8ac0238dc7b798)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`runtime`](https://nicelinks.site/tags/runtime) · [`跨平台`](https://nicelinks.site/tags/跨平台)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`runtime`](https://site.lovejade.cn/tags/runtime) · [`跨平台`](https://site.lovejade.cn/tags/跨平台)
 
 > Wasmtime is a Bytecode Alliance project that is a standalone wasm-only optimizing runtime for WebAssembly and WASI. It runs WebAssembly code outside of the Web, and can be used both as a command-line utility or as a library embedded in a larger application.
 
@@ -165,9 +165,9 @@ function App() {
 - **WASI**：Wasmtime 支持一套丰富的 API，通过 WASI 标准与主机环境进行交互。
 - **符合标准**：Wasmtime 通过了官方的 WebAssembly 测试套件，实现了 wasm 的官方 C API，也实现了对 WebAssembly 的未来建议。Wasmtime 的开发者也一直密切参与 WebAssembly 的标准过程。
 
-Wasmtime 致力于成为一个高度可配置和可嵌入的运行时，以在任何规模的应用程序上运行。截止目前（2023 年 02 月 20 日）它已支持 Rust、C、C++、Python、C#、GO、Ruby 等语言，您可以通过嵌入实现来使用各种不同语言的 Wasmtime。随着 WebAssembly 蓬勃发展，除了 Wasmtime、还有 [WasmEdge](https://nicelinks.site/post/63ee15303ca14e0315d819ec) 、 [Wasmer](https://nicelinks.site/post/63789f3c049fa51046c4a8f3) 、 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 、 [Bun](https://nicelinks.site/post/63ee1d1d3ca14e0315d81b2f) 等等多达数十款开源产品，如果您对此想了解更多，不妨移步 [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes) 仓库（包含执行 WebAssembly(wasm) 格式和/或将其编译为可执行机器代码的虚拟机和工具列表）。
+Wasmtime 致力于成为一个高度可配置和可嵌入的运行时，以在任何规模的应用程序上运行。截止目前（2023 年 02 月 20 日）它已支持 Rust、C、C++、Python、C#、GO、Ruby 等语言，您可以通过嵌入实现来使用各种不同语言的 Wasmtime。随着 WebAssembly 蓬勃发展，除了 Wasmtime、还有 [WasmEdge](https://site.lovejade.cn/post/63ee15303ca14e0315d819ec) 、 [Wasmer](https://site.lovejade.cn/post/63789f3c049fa51046c4a8f3) 、 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 、 [Bun](https://site.lovejade.cn/post/63ee1d1d3ca14e0315d81b2f) 等等多达数十款开源产品，如果您对此想了解更多，不妨移步 [Awesome WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes) 仓库（包含执行 WebAssembly(wasm) 格式和/或将其编译为可执行机器代码的虚拟机和工具列表）。
 
-── 出自[倾城之链 - Wasmtime | A fast and secure runtime for WebAssembly](https://nicelinks.site/post/63f323623f8ac0238dc7b798)
+── 出自[倾城之链 - Wasmtime | A fast and secure runtime for WebAssembly](https://site.lovejade.cn/post/63f323623f8ac0238dc7b798)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

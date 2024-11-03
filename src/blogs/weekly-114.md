@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [ CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.site/post/644120787e6ef733181b7faf)
+## [ CSS Doodle：一个基于 CSS 的绘图库](https://site.lovejade.cn/post/644120787e6ef733181b7faf)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`组件`](https://nicelinks.site/tags/组件) · [`动画`](https://nicelinks.site/tags/动画)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`组件`](https://site.lovejade.cn/tags/组件) · [`动画`](https://site.lovejade.cn/tags/动画)
 
 **关键字**：css, web components
 
@@ -12,7 +12,7 @@
 
 ![倾城之链 -  CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css-doodle.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[<css-doodle\/>](https://css-doodle.com/) ，是一个基于 [CSS](https://nicelinks.site/tags/CSS) 的绘图库，它允许用户使用 CSS 规则来创建复杂的图形和动画效果。CSS Doodle 基于 Shadow DOM v1 和 Custom Elements v1。您现在可以在所有主要浏览器上使用它而无需 polyfill。该组件将根据其内部的规则（纯 CSS）生成一个 div 网格。您可以使用 CSS 轻松操作这些单元格，以生成图形模式或动画图形。
+**推荐语**：[<css-doodle\/>](https://css-doodle.com/) ，是一个基于 [CSS](https://site.lovejade.cn/tags/CSS) 的绘图库，它允许用户使用 CSS 规则来创建复杂的图形和动画效果。CSS Doodle 基于 Shadow DOM v1 和 Custom Elements v1。您现在可以在所有主要浏览器上使用它而无需 polyfill。该组件将根据其内部的规则（纯 CSS）生成一个 div 网格。您可以使用 CSS 轻松操作这些单元格，以生成图形模式或动画图形。
 
 CSS Doodle 的主要作用是帮助用户轻松地创建独特的图形和动画效果，而不需要任何 JavaScript 或其他脚本语言的知识。用户可以使用 CSS Doodle 的规则语言来创建各种基于 CSS 的图形，包括线条、圆形、矩形、多边形等等。用户还可以使用 CSS Doodle 的动画效果来实现各种各样的动态效果，如旋转、平移、缩放、淡入淡出等等。
 
@@ -28,47 +28,47 @@ background: url("data:image/svg+xml;utf8,<svg
 >") #fff;
 ```
 
-该代码使用 [SVG](https://nicelinks.site/tags/CSS) 路径来创建两条随机的线条，并将其作为背景图片应用到元素中。
+该代码使用 [SVG](https://site.lovejade.cn/tags/CSS) 路径来创建两条随机的线条，并将其作为背景图片应用到元素中。
 
 总之，CSS Doodle 是一个非常有趣和有用的库，它可以帮助用户创建各种复杂的图形和动画效果，而不需要编写任何 JavaScript 代码。
 
-── 出自[倾城之链 - CSS Doodle：一个基于 CSS 的绘图库](https://nicelinks.site/post/644120787e6ef733181b7faf)
+── 出自[倾城之链 - CSS Doodle：一个基于 CSS 的绘图库](https://site.lovejade.cn/post/644120787e6ef733181b7faf)
 
-## [Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.site/post/64411c727e6ef733181b7ef1)
+## [Limboy ｜ 技术大咖李忠个人博客](https://site.lovejade.cn/post/64411c727e6ef733181b7ef1)
 
-**标签**：[`个人博客`](https://nicelinks.site/tags/个人博客) · [`分享`](https://nicelinks.site/tags/分享) · [`前端开发`](https://nicelinks.site/tags/前端开发)
+**标签**：[`个人博客`](https://site.lovejade.cn/tags/个人博客) · [`分享`](https://site.lovejade.cn/tags/分享) · [`前端开发`](https://site.lovejade.cn/tags/前端开发)
 
 > Be curious. Read widely. Try new things. 保持好奇心。广泛阅读。尝试新事物。
 
 ![倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/limboy.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Limboy](https://limboy.me/) ，技术大咖李忠（后端、前端）的个人博客，基于 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、[Hugo](https://nicelinks.site/post/5c36d7b2589b2a35f579f377) 所搭建（详情参见作者博文：[我的博客系统演变之路](https://limboy.me/posts/my-blog-system/)）；该博客内容，分为：Books、Essays（随笔）、Practical、Research（研究）、Review、Translation、Projects、Photos、Movies 等模块儿；作者在推特主页写到：“保持好奇心。广泛阅读。尝试新事物”；从作者的分享内容，可以深刻感受到作者对这 Slogan，有非常好实践；如果您也希望有所改变，推荐关注。除了该博客，作者为方便整理更多杂记、减少对 Twitter 的依赖，有开辟新的写作空间： [避风塘](https://before.town/) （精挑细选的信息，带来灵感和启发）。
+**推荐语**：[Limboy](https://limboy.me/) ，技术大咖李忠（后端、前端）的个人博客，基于 [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7)、[Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591)、[Hugo](https://site.lovejade.cn/post/5c36d7b2589b2a35f579f377) 所搭建（详情参见作者博文：[我的博客系统演变之路](https://limboy.me/posts/my-blog-system/)）；该博客内容，分为：Books、Essays（随笔）、Practical、Research（研究）、Review、Translation、Projects、Photos、Movies 等模块儿；作者在推特主页写到：“保持好奇心。广泛阅读。尝试新事物”；从作者的分享内容，可以深刻感受到作者对这 Slogan，有非常好实践；如果您也希望有所改变，推荐关注。除了该博客，作者为方便整理更多杂记、减少对 Twitter 的依赖，有开辟新的写作空间： [避风塘](https://before.town/) （精挑细选的信息，带来灵感和启发）。
 
-── 出自[倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://nicelinks.site/post/64411c727e6ef733181b7ef1)
+── 出自[倾城之链 - Limboy ｜ 技术大咖李忠个人博客](https://site.lovejade.cn/post/64411c727e6ef733181b7ef1)
 
-## [Home - Made With ML](https://nicelinks.site/post/644107287e6ef733181b7da0)
+## [Home - Made With ML](https://site.lovejade.cn/post/644107287e6ef733181b7da0)
 
-**标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`教程`](https://nicelinks.site/tags/教程) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`机器学习`](https://site.lovejade.cn/tags/机器学习) · [`教程`](https://site.lovejade.cn/tags/教程) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Learn how to responsibly develop, deploy & maintain ML.
 
 ![倾城之链 - Home - Made With ML](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/madewithml.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Made With ML](https://madewithml.com/) ，是一个致力于为人工智能和[机器学习](https://nicelinks.site/tags/机器学习)从业者提供资源和指导的网站。该网站提供了各种**机器学习**项目和教程，包括[深度学习](https://nicelinks.site/tags/深度学习)、神经网络、逻辑回归等领域。该网站还提供了一些有用的工具和资源，如数据集、算法实现和代码库。
+**推荐语**：[Made With ML](https://madewithml.com/) ，是一个致力于为人工智能和[机器学习](https://site.lovejade.cn/tags/机器学习)从业者提供资源和指导的网站。该网站提供了各种**机器学习**项目和教程，包括[深度学习](https://site.lovejade.cn/tags/深度学习)、神经网络、逻辑回归等领域。该网站还提供了一些有用的工具和资源，如数据集、算法实现和代码库。
 
 机器学习不是一个独立的行业，相反，它是一种思考数据的强大方式。**Made With ML** 的目标是教育并使社区能够负责任地开发、部署和维护机器学习。总之，Made With ML 是一个非常有用的资源库，可以帮助从业者提高他们的技能和知识水平。
 
-── 出自[倾城之链 - Home - Made With ML](https://nicelinks.site/post/644107287e6ef733181b7da0)
+── 出自[倾城之链 - Home - Made With ML](https://site.lovejade.cn/post/644107287e6ef733181b7da0)
 
-## [Pictorial | Effortlessly create graphics for your web applications](https://nicelinks.site/post/6440fdcc7e6ef733181b7ced)
+## [Pictorial | Effortlessly create graphics for your web applications](https://site.lovejade.cn/post/6440fdcc7e6ef733181b7ced)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`灵感`](https://nicelinks.site/tags/灵感) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`灵感`](https://site.lovejade.cn/tags/灵感) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 > Inspiration is hard to come by. Get your message across hustle-free by leveraging an AI able to generate reliable, ready-to-use visual masterpieces.
 
 ![倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pictorial.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pictorial](https://www.pictorial.ai/) ，基于 [AI](https://nicelinks.site/tags/AI) 的图形创造工具，轻松为您的**Web（网络）应用**程序创建图形；利用能够生成可靠、随时可用的视觉杰作的生成式 AI，轻松传达您的信息。输入网站地址，即可为您的站点创建令人惊叹的图形；它具有以下功能特征：
+**推荐语**：[Pictorial](https://www.pictorial.ai/) ，基于 [AI](https://site.lovejade.cn/tags/AI) 的图形创造工具，轻松为您的**Web（网络）应用**程序创建图形；利用能够生成可靠、随时可用的视觉杰作的生成式 AI，轻松传达您的信息。输入网站地址，即可为您的站点创建令人惊叹的图形；它具有以下功能特征：
 
 ### 强大的视觉效果，仅来自 URL
 
@@ -94,11 +94,11 @@ background: url("data:image/svg+xml;utf8,<svg
 
 随着 AI 智能化程度愈来愈高，各种衍生产品**方兴未艾**，类似 `pictorial` 这种放锤类产品，能够较大程度提高生产力，感兴趣的朋友可以前往其官网了解更多。
 
-── 出自[倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://nicelinks.site/post/6440fdcc7e6ef733181b7ced)
+── 出自[倾城之链 - Pictorial | Effortlessly create graphics for your web applications](https://site.lovejade.cn/post/6440fdcc7e6ef733181b7ced)
 
-## [Routify | Routes for Svelte, automated by your file structure.](https://nicelinks.site/post/643e626b7e6ef733181b6bf0)
+## [Routify | Routes for Svelte, automated by your file structure.](https://site.lovejade.cn/post/643e626b7e6ef733181b6bf0)
 
-**标签**：[`Svelte`](https://nicelinks.site/tags/Svelte) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`Svelte`](https://site.lovejade.cn/tags/Svelte) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：router, svelte, development, javascript
 
@@ -146,11 +146,11 @@ Routify 所提供的功能非常丰富，以上是常用使用示例；相比于
 
 总之，Routify 是一个非常功能强大的前端路由工具，具有声明式路由配置、动态路由、嵌套路由、路由参数解析、路由守卫、静态生成、服务端渲染和灵活的插件系统等特点，可以满足各种不同的前端开发需求。Routify 项目在 [Github 开源](https://github.com/roxiness/routify) ，感兴趣朋友可移步以了解更多。
 
-── 出自[倾城之链 - Routify | Routes for Svelte, automated by your file structure.](https://nicelinks.site/post/643e626b7e6ef733181b6bf0)
+── 出自[倾城之链 - Routify | Routes for Svelte, automated by your file structure.](https://site.lovejade.cn/post/643e626b7e6ef733181b6bf0)
 
-## [unblob - extract everything!](https://nicelinks.site/post/643e5a297e6ef733181b6b92)
+## [unblob - extract everything!](https://site.lovejade.cn/post/643e5a297e6ef733181b6b92)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`Python`](https://nicelinks.site/tags/Python) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`Python`](https://site.lovejade.cn/tags/Python) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > unblob is an accurate, fast, and easy-to-use extraction suite. unblob parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for. This turns unblob into the perfect companion for extracting, analyzing, and reverse engineering firmware images.
 
@@ -177,15 +177,15 @@ unblob 的开发考虑了以下目标：
 - **准确性**：块开始偏移量是使用经过实战测试的规则来识别的，而结束偏移量是根据格式标准计算的，不会偏离它。我们通过验证标头结构和丢弃重叠块来尽可能减少误报。
 - **安全性**：unblob 不需要提升权限即可运行。它经过了大量测试，并 针对大量文件和固件映像进行了模糊测试。我们依靠锁定的最新第三方依赖项 来限制潜在的供应链问题。我们使用我们在需要时审核和修复的安全提取器（参见 ubi_reader 中的路径遍历， jefferson 中的路径遍历， Yara 中的整数溢出）。
 - **可扩展性**：unblob 公开了一个 API，可用于立即编写自定义 格式处理程序和 提取器。
-- **速度**：团队希望 unblob 非常快，这就是为什么他们默认使用多处理，确保编写高效代码，使用内存映射文件，并使用 Hyperscan 作为高性能匹配库。计算密集型函数是用 [Rust](https://nicelinks.site/tags/Rust) 编写的，并使用特定绑定从 Python 调用。
+- **速度**：团队希望 unblob 非常快，这就是为什么他们默认使用多处理，确保编写高效代码，使用内存映射文件，并使用 Hyperscan 作为高性能匹配库。计算密集型函数是用 [Rust](https://site.lovejade.cn/tags/Rust) 编写的，并使用特定绑定从 Python 调用。
 
 总之，unblob 提供命令行工具，可以解开各种容器格式，查看里面的内容，可用于分析、提取和逆向工程固件；该项目在 [Github 开源](https://github.com/onekey-sec/unblob)，感兴趣朋友可移步以了解更多。
 
-── 出自[倾城之链 - unblob - extract everything!](https://nicelinks.site/post/643e5a297e6ef733181b6b92)
+── 出自[倾城之链 - unblob - extract everything!](https://site.lovejade.cn/post/643e5a297e6ef733181b6b92)
 
-## [No-Signup Tools](https://nicelinks.site/post/643e52a37e6ef733181b6b2a)
+## [No-Signup Tools](https://site.lovejade.cn/post/643e52a37e6ef733181b6b2a)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`聚合`](https://nicelinks.site/tags/聚合) · [`导航`](https://nicelinks.site/tags/导航)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`聚合`](https://site.lovejade.cn/tags/聚合) · [`导航`](https://site.lovejade.cn/tags/导航)
 
 > No-Signup Tools, Free web apps that don`t require registration or login.
 
@@ -193,7 +193,7 @@ unblob 的开发考虑了以下目标：
 
 **推荐语**：[nosignup.tools](https://nosignup.tools/) ，一个精选的基于网络的产品集合，不需要帐户或注册，您可以在 10 秒内使用。加入其他产品爱好者的行列，免费获得他们的每月更新；该网站所涵盖内容涉及：营销、写作、生产率、其他、教学、设计、远程工作、公用事业、调查与民意调查、加密货币、文件托管和共享、沟通、开发者工具、福利、金融、招聘、旅行、培训班、社交媒体、隐私、视频、商业、密码学、网页设计、人工智能、生产率、设计、图像转换工具等各个方面。如果您有维护效率工具，也可以提交到该网站，无需登录，只需填写网站名称、分类、地址，以及描述即可。
 
-── 出自[倾城之链 - No-Signup Tools](https://nicelinks.site/post/643e52a37e6ef733181b6b2a)
+── 出自[倾城之链 - No-Signup Tools](https://site.lovejade.cn/post/643e52a37e6ef733181b6b2a)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

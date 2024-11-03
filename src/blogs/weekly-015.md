@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [Fast and reliable end-to-end testing for modern web apps](https://playwright.dev/?utm_source=nicelinks.site)
 
-**标签**：[`测试`](https://nicelinks.site/tags/测试) · [`工具`](https://nicelinks.site/tags/工具) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`测试`](https://site.lovejade.cn/tags/测试) · [`工具`](https://site.lovejade.cn/tags/工具) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 > Cross-browser end-to-end testing for modern web apps
 
@@ -18,11 +18,11 @@
 
 [Playwright](https://playwright.dev/) 旨在实现跨浏览器的 Web 自动化，该自动化是绿色的，功能强大的，可靠的和快速的。如果您想了解 [Playwright](https://playwright.dev/) 在 Node.js 环境使用，可以参见 [Playwright Github 源码](https://github.com/microsoft/playwright)
 
-── 出自[倾城之链 - Fast and reliable end-to-end testing for modern web apps](https://nicelinks.site/post/60afa17d219b1d7d88219d61)
+── 出自[倾城之链 - Fast and reliable end-to-end testing for modern web apps](https://site.lovejade.cn/post/60afa17d219b1d7d88219d61)
 
 ## [未央网 - 专注金融科技与创新](https://www.weiyangx.com/?utm_source=nicelinks.site)
 
-**标签**：[`科技`](https://nicelinks.site/tags/科技) · [`金融`](https://nicelinks.site/tags/金融) · [`互联网`](https://nicelinks.site/tags/互联网)
+**标签**：[`科技`](https://site.lovejade.cn/tags/科技) · [`金融`](https://site.lovejade.cn/tags/金融) · [`互联网`](https://site.lovejade.cn/tags/互联网)
 
 **关键字**：金融科技, fintech, 区块链, blockchain, 清华金融, 众筹, 商业模式, 第三方支付, 移动支付, 直销银行, 大数据, 创新创业
 
@@ -49,11 +49,11 @@
 依托于未央团队的日常研究，出版互联网金融相关的专业书籍，发行引领行业前沿观点的互联网金融杂志。
 截至目前已出版《全球互联网金融商业模式报告》、《全球互联网金融商业模式报告（第二版）》，针对互联网金融细分领域案例深度剖析并出版《互联网保险》、《互联网银行》，引进《支付战争》等国外优秀书籍，发行行业内刊《互联网金融观察》。
 
-── 出自[倾城之链 - 未央网 - 专注金融科技与创新](https://nicelinks.site/post/60af2e1c219b1d7d88219d5e)
+── 出自[倾城之链 - 未央网 - 专注金融科技与创新](https://site.lovejade.cn/post/60af2e1c219b1d7d88219d5e)
 
 ## [安逸影视导航 - 做全网最全电影剧集综艺动漫视频导航](https://anee.cc/?utm_source=nicelinks.site)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`影视`](https://nicelinks.site/tags/影视) · [`网站`](https://nicelinks.site/tags/网站)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`影视`](https://site.lovejade.cn/tags/影视) · [`网站`](https://site.lovejade.cn/tags/网站)
 
 **关键字**：ANEE, 安逸影视, 安逸影视导航, 安逸视频, 安逸字幕组, 安逸电影, 安逸大片, 安逸电视剧, 安逸综艺, 安逸动漫, 安逸追剧, 安逸 TV, 安逸蓝光, 4K 安逸, 安逸高清影视
 
@@ -63,11 +63,11 @@
 
 **推荐语**：[安逸影视导航](https://anee.cc/) 是专注于**收集电影，电视剧，综艺，动漫等在线观看和资源下载的影视导航网站**，于 2021 年 4 月正式上线；已收录多家高清在线、或蓝光片源下载网站，这对于爱追剧的朋友，非常值得收藏。值得一提的是这是非营利性网站，全站无商业广告且无盈利。
 
-── 出自[倾城之链 - 安逸影视导航 - 做全网最全电影剧集综艺动漫视频导航](https://nicelinks.site/post/60ae37b5219b1d7d88219d5c)
+── 出自[倾城之链 - 安逸影视导航 - 做全网最全电影剧集综艺动漫视频导航](https://site.lovejade.cn/post/60ae37b5219b1d7d88219d5c)
 
 ## [Brit + Co | Be inspired, get smarter, and feel better every week!](https://www.brit.co/?utm_source=nicelinks.site)
 
-**标签**：[`创意`](https://nicelinks.site/tags/创意) · [`教育`](https://nicelinks.site/tags/教育) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`创意`](https://site.lovejade.cn/tags/创意) · [`教育`](https://site.lovejade.cn/tags/教育) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > Brit + Co seeks to educate and inspire women through diverse content, online classes, and a new startup accelerator.
 
@@ -77,11 +77,11 @@
 
 [Brit+Co](https://www.brit.co/) 是一家媒体公司，由 Brit Morin 于 2011 年底创立，现已成为最大的女性数字媒体公司之一；它以创意精神激励，教育（从书法到美甲再到编码）和娱乐真正的女性；使得她们生活的各个方面，使用创造力和 "自己动手 "的态度：掌管她的事业，建立强大的友谊和关系，策划她自己的风格，装饰她的家，并招待人群。
 
-── 出自[倾城之链 - Brit + Co | Be inspired, get smarter, and feel better every week!](https://nicelinks.site/post/60ae2d71219b1d7d88219d5a)
+── 出自[倾城之链 - Brit + Co | Be inspired, get smarter, and feel better every week!](https://site.lovejade.cn/post/60ae2d71219b1d7d88219d5a)
 
 ## [daily.dev | All-in-one developer news reader](https://daily.dev/?utm_source=nicelinks.site)
 
-**标签**：[`新闻`](https://nicelinks.site/tags/新闻) · [`开发者`](https://nicelinks.site/tags/开发者) · [`技术`](https://nicelinks.site/tags/技术)
+**标签**：[`新闻`](https://site.lovejade.cn/tags/新闻) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`技术`](https://site.lovejade.cn/tags/技术)
 
 > daily.dev is the easiest way to stay updated on the latest programming news. Get the hottest dev news from the best tech blogs on any topic you can think of. Stay updated daily, and unlock more time to do fun stuff, relax, or just code.
 
@@ -97,23 +97,23 @@
 
 [daily.dev](https://daily.dev/) 从您可以想到的任何主题的最佳技术博客中，获取最热门的编码新闻。每天保持更新，并释放更多时间来做有趣的事情，放松身心或只是编写代码。如果您想立刻体验，可直接访问 [daily.dev ｜ 开发人员新闻阅读器](https://app.daily.dev/)。
 
-── 出自[倾城之链 - daily.dev | All-in-one developer news reader](https://nicelinks.site/post/60acf42d219b1d7d88219d58)
+── 出自[倾城之链 - daily.dev | All-in-one developer news reader](https://site.lovejade.cn/post/60acf42d219b1d7d88219d58)
 
 ## [DaisyUI - Tailwind CSS Components](https://daisyui.com/?utm_source=nicelinks.site)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`CSS`](https://nicelinks.site/tags/CSS) · [`组件库`](https://nicelinks.site/tags/组件库)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`CSS`](https://site.lovejade.cn/tags/CSS) · [`组件库`](https://site.lovejade.cn/tags/组件库)
 
 > Tailwind CSS Components plugin - daisyui tailwind component library
 
 ![倾城之链 - DaisyUI - Tailwind CSS Components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/daisyui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DaisyUI](https://www.personalwebsites.top/) 是 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 的一个插件；它是一个漂亮的 CSS 组件库，带有组件类的干净的 HTML，支持高度可自定义和主题化；只有 2KB 大小，无 JavaScript，无依赖；免费可用。如果您想了解更多，可参见 [DaisyUI Components](https://daisyui.com/components/button)。
+**推荐语**：[DaisyUI](https://www.personalwebsites.top/) 是 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 的一个插件；它是一个漂亮的 CSS 组件库，带有组件类的干净的 HTML，支持高度可自定义和主题化；只有 2KB 大小，无 JavaScript，无依赖；免费可用。如果您想了解更多，可参见 [DaisyUI Components](https://daisyui.com/components/button)。
 
-── 出自[倾城之链 - DaisyUI - Tailwind CSS Components](https://nicelinks.site/post/60aceac3219b1d7d88219d55)
+── 出自[倾城之链 - DaisyUI - Tailwind CSS Components](https://site.lovejade.cn/post/60aceac3219b1d7d88219d55)
 
 ## [Authing-身份云-云原生-IDaaS-单点登录-SSO-统一身份认证-多因素认证-零信任-以开发者为中心](https://www.authing.cn/?utm_source=nicelinks.site)
 
-**标签**：[`安全`](https://nicelinks.site/tags/安全) · [`单点登录`](https://nicelinks.site/tags/单点登录) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`安全`](https://site.lovejade.cn/tags/安全) · [`单点登录`](https://site.lovejade.cn/tags/单点登录) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 **关键字**：单点登录, SSO, 统一身份认证, 多因素认证, 零信任, IDaaS
 
@@ -142,12 +142,12 @@
 
 [Authing](https://www.authing.cn/) 是国内首款以开发者为中心的全场景身份云产品，集成了所有主流身份认证协议，为企业和开发者提供完善安全的用户认证和访问管理服务。其主要功能包括：单点登录、用户分析、扫码登录、多因素认证、行为审计、风险控制、跨平台设备管理、IoT 身份认证等；兼容国际各类标准协议：OAuth2.0、OIDC、SAML、AD/LDAP、WS-Fed、JWT 等；此外还有基于函数计算可以无限制拓展 Authing 能力的 Pipeline 。支持云交付和私有化部署方式，帮助企业和开发者提升生产效率。如果您想了解更多，可参见 [Authing 产品优势](https://www.authing.cn/advantage)。
 
-── 出自[倾城之链 - Authing-身份云-云原生-IDaaS-单点登录-SSO-统一身份认证-多因素认证-零信任-以开发者为中心](https://nicelinks.site/post/60acc2f4219b1d7d88219d53)
+── 出自[倾城之链 - Authing-身份云-云原生-IDaaS-单点登录-SSO-统一身份认证-多因素认证-零信任-以开发者为中心](https://site.lovejade.cn/post/60acc2f4219b1d7d88219d53)
 
 ## [Agora Flat：一个开源的在线互动教室](https://flat.whiteboard.agora.io/)
 
 **标签**：
-[`产品`](https://nicelinks.site/theme/product) · [`开源`](https://nicelinks.site/tags/%E5%BC%80%E6%BA%90)[`在线教育`](https://nicelinks.site/tags/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2)[`互动白板`](https://nicelinks.site/tags/%E4%BA%92%E5%8A%A8%E7%99%BD%E6%9D%BF)
+[`产品`](https://site.lovejade.cn/theme/product) · [`开源`](https://site.lovejade.cn/tags/%E5%BC%80%E6%BA%90)[`在线教育`](https://site.lovejade.cn/tags/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2)[`互动白板`](https://site.lovejade.cn/tags/%E4%BA%92%E5%8A%A8%E7%99%BD%E6%9D%BF)
 
 **关键字：** Agora Flat, 在线课堂, 开源教室, 互动白板, 互动课堂, 实时互动, 在线教育
 
@@ -161,7 +161,7 @@
 - **场景插件**：支持将多种功能封装成白板插件，满足多样需求；
 - **免费使用**：开始使用，每个月都将有 10000 分钟免费使用时长；
 
-如果想了解更多[Agora Flat 开源教室](https://flat.whiteboard.agora.io/)产品特性，可以参见 [Agora Flat 特性说明](https://github.com/netless-io/flat/blob/main/README-zh.md#%E7%89%B9%E6%80%A7)。── 出自[倾城之链 | Agora Flat：一个开源的在线互动教室](https://nicelinks.site/post/60a677e7536c1a217d53b945)。
+如果想了解更多[Agora Flat 开源教室](https://flat.whiteboard.agora.io/)产品特性，可以参见 [Agora Flat 特性说明](https://github.com/netless-io/flat/blob/main/README-zh.md#%E7%89%B9%E6%80%A7)。── 出自[倾城之链 | Agora Flat：一个开源的在线互动教室](https://site.lovejade.cn/post/60a677e7536c1a217d53b945)。
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

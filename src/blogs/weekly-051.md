@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [MockRocket – Jaw-dropping 3D app mockups & animations](https://nicelinks.site/post/61fa6090cc8cf55fbe4d8e0b)
+## [MockRocket – Jaw-dropping 3D app mockups & animations](https://site.lovejade.cn/post/61fa6090cc8cf55fbe4d8e0b)
 
-**标签**：[`利器`](https://nicelinks.site/tags/利器) · [`mockups`](https://nicelinks.site/tags/mockups) · [`3D`](https://nicelinks.site/tags/3D)
+**标签**：[`利器`](https://site.lovejade.cn/tags/利器) · [`mockups`](https://site.lovejade.cn/tags/mockups) · [`3D`](https://site.lovejade.cn/tags/3D)
 
 > Create 3D app mockups and videos. Right from your web browser. No experience required. Choose from the lastest 3D device modals.
 
@@ -32,11 +32,11 @@ MockRocket 比租用代理机构或工作室便宜几个数量级。在内部制
 
 [MockRocket](https://mockrocket.io/) 的 WebGL 渲染引擎直接在您的浏览器中导出高达 4K 分辨率的图像和视频。你没看错。100% 私人渲染。（设计永远不会上传到我们的服务器）；支持 PNG、MP4、WEBM 和 PNG 序列等格式。最后，[MockRocket](https://mockrocket.io/) 支持免费试用，无需注册；假如您对 [MockRocket](https://mockrocket.io/) 感兴趣的话，不妨这就来尝试下。
 
-── 出自[倾城之链 - MockRocket – Jaw-dropping 3D app mockups & animations](https://nicelinks.site/post/61fa6090cc8cf55fbe4d8e0b)
+── 出自[倾城之链 - MockRocket – Jaw-dropping 3D app mockups & animations](https://site.lovejade.cn/post/61fa6090cc8cf55fbe4d8e0b)
 
-## [Firefox Relay](https://nicelinks.site/post/61fa5a19cc8cf55fbe4d8e09)
+## [Firefox Relay](https://site.lovejade.cn/post/61fa5a19cc8cf55fbe4d8e09)
 
-**标签**：[`邮箱`](https://nicelinks.site/tags/邮箱) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`邮箱`](https://site.lovejade.cn/tags/邮箱) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Firefox Relay 可以轻松创建马甲邮箱，用它收邮件并转发至您的真实邮箱。可用马甲邮箱来保护您的账户，不受黑客和垃圾邮件的侵扰。
 
@@ -58,11 +58,11 @@ MockRocket 比租用代理机构或工作室便宜几个数量级。在内部制
 
 从现在起，把邮箱里那些烦人的“不速之客”统统挡在外面。使用 Firefox 账户 注册即可开始使用。您在网购、社交网络、线下场景、网络读物、游戏等场景，都可以使用 [Firefox Relay](https://relay.firefox.com/)，从而保护您的真实邮箱不被泄露。
 
-── 出自[倾城之链 - Firefox Relay](https://nicelinks.site/post/61fa5a19cc8cf55fbe4d8e09)
+── 出自[倾城之链 - Firefox Relay](https://site.lovejade.cn/post/61fa5a19cc8cf55fbe4d8e09)
 
 ## [铜钟 - 在一处聆听所有音乐](https://tonzhon.com/)
 
-**标签**：[`音乐`](https://nicelinks.site/tags/%E9%9F%B3%E4%B9%90) [`发现`](https://nicelinks.site/tags/%E5%8F%91%E7%8E%B0) [`聚合`](https://nicelinks.site/tags/%E8%81%9A%E5%90%88)
+**标签**：[`音乐`](https://site.lovejade.cn/tags/%E9%9F%B3%E4%B9%90) [`发现`](https://site.lovejade.cn/tags/%E5%8F%91%E7%8E%B0) [`聚合`](https://site.lovejade.cn/tags/%E8%81%9A%E5%90%88)
 
 **关键字：** 铜钟，音乐聚合，音乐播放器，音乐搜索，tonzhon
 
@@ -70,11 +70,11 @@ MockRocket 比租用代理机构或工作室便宜几个数量级。在内部制
 
 ![铜钟 - 在一处聆听所有音乐 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tonzhon.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[铜钟](https://tonzhon.com/)是一个音乐聚合网站（基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架搭建，访问速度还蛮快）。你可以在铜钟上聆听来自 QQ 音乐、网易云音乐和酷我音乐三家平台的音乐。该网站有分为歌单推荐、歌曲推荐、发现歌曲、发现歌单、热歌榜等板块；也支持用户登录，将喜欢的音乐添加至歌单。除此之外，[铜钟](https://tonzhon.com/)支持搜索，您可以检索自己喜欢的音乐。── 出自[倾城之链 | 铜钟 - 在一处聆听所有音乐](https://nicelinks.site/post/61f3736491cda30632c3097b)。
+**推荐语：**[铜钟](https://tonzhon.com/)是一个音乐聚合网站（基于 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 框架搭建，访问速度还蛮快）。你可以在铜钟上聆听来自 QQ 音乐、网易云音乐和酷我音乐三家平台的音乐。该网站有分为歌单推荐、歌曲推荐、发现歌曲、发现歌单、热歌榜等板块；也支持用户登录，将喜欢的音乐添加至歌单。除此之外，[铜钟](https://tonzhon.com/)支持搜索，您可以检索自己喜欢的音乐。── 出自[倾城之链 | 铜钟 - 在一处聆听所有音乐](https://site.lovejade.cn/post/61f3736491cda30632c3097b)。
 
 ## [NextUI - Beautiful, fast and modern React UI Library](https://nextui.org/)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/%E7%BB%84%E4%BB%B6%E5%BA%93) · [`CSS `](https://nicelinks.site/tags/CSS) · [`React`](https://nicelinks.site/tags/React)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/%E7%BB%84%E4%BB%B6%E5%BA%93) · [`CSS `](https://site.lovejade.cn/tags/CSS) · [`React`](https://site.lovejade.cn/tags/React)
 
 Make beautiful websites regardless of your design experience.
 
@@ -87,11 +87,11 @@ Make beautiful websites regardless of your design experience.
 - 明暗界面：自动深色模式识别，NextUI 检测到 HTML 主题道具变化时自动更改主题；
 - 独特的 DX：NextUI 是全类型化的，以最大限度地减少学习曲线，并提供最佳的开发人员体验。
 
-除以上特色，[NextUI](https://nextui.org/) 还有非常多其他出色设定，如：服务器端渲染 (SSR)、内置媒体查询、设计精美、基于 TypeScript、关键路径 CSS（由于 NextUI 基于 Stitches，它只注入实际使用的样式，因此您的用户不会下载不必要的 CSS）、覆盖组件标签等；如果您基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 来开发 Web 应用，那么 [NextUI](https://nextui.org/) 是非常值得您考虑的 UI 库。── 出自[倾城之链 | NextUI - Beautiful, fast and modern React UI Library](https://nicelinks.site/post/61f3596768ba114abbae603c)。
+除以上特色，[NextUI](https://nextui.org/) 还有非常多其他出色设定，如：服务器端渲染 (SSR)、内置媒体查询、设计精美、基于 TypeScript、关键路径 CSS（由于 NextUI 基于 Stitches，它只注入实际使用的样式，因此您的用户不会下载不必要的 CSS）、覆盖组件标签等；如果您基于 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 来开发 Web 应用，那么 [NextUI](https://nextui.org/) 是非常值得您考虑的 UI 库。── 出自[倾城之链 | NextUI - Beautiful, fast and modern React UI Library](https://site.lovejade.cn/post/61f3596768ba114abbae603c)。
 
 ## [微信红包封面开放平台](https://cover.weixin.qq.com/)
 
-**标签**：[`微信`](https://nicelinks.site/tags/%E5%BE%AE%E4%BF%A1) · [`平台`](https://nicelinks.site/tags/%E5%B9%B3%E5%8F%B0)
+**标签**：[`微信`](https://site.lovejade.cn/tags/%E5%BE%AE%E4%BF%A1) · [`平台`](https://site.lovejade.cn/tags/%E5%B9%B3%E5%8F%B0)
 
 **关键字：** 微信红包封面开放平台, 微信红包封面开放平台官方网站, 红包封面开放平台, 微信红包封面定制平台, 微信红包封面定制, 红包封面定制, 微信红包封面, 红包封面, 微信红包, 微信红包定制, 红包定制, 微信红包封面平台, 红包封面平台, 定制红包, 定制红包封面, 定制封面
 
@@ -107,11 +107,11 @@ Make beautiful websites regardless of your design experience.
 - 付款下单：审核通过后，选择红包封面的使用人数，并支付款项生成订单。
 - 发放封面：下单成功后即可生成红包封面二维码、领取序列号兑换码、领取链接，用户领取后可在发红包时使用。
 
-当然，如果您对微信原创生态（公众号、视频号等）做出贡献的话，可获得定制红包封面的机会；在过去的 2021 一年，在公众号（[晚晴幽草轩](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5MDIwMzM2Mg==&scene=124#wechat_redirect)）创作 60 篇原创内容，因此获得了 2000 个红包 🧧 封面。 ── 出自[倾城之链 | 微信红包封面开放平台](https://nicelinks.site/post/61f3b4c891cda30632c3097d)。
+当然，如果您对微信原创生态（公众号、视频号等）做出贡献的话，可获得定制红包封面的机会；在过去的 2021 一年，在公众号（[晚晴幽草轩](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI5MDIwMzM2Mg==&scene=124#wechat_redirect)）创作 60 篇原创内容，因此获得了 2000 个红包 🧧 封面。 ── 出自[倾城之链 | 微信红包封面开放平台](https://site.lovejade.cn/post/61f3b4c891cda30632c3097d)。
 
 ## [霓虹灯下社区 - 听说，与城市霓虹灯穿插的每一户灯火里，都塞满了独一无二的故事。](https://nihongdengxia.com/)
 
-**标签**：[`社区`](https://nicelinks.site/tags/%E7%A4%BE%E5%8C%BA) · [`编程`](https://nicelinks.site/tags/%E7%BC%96%E7%A8%8B) · [`分享`](https://nicelinks.site/tags/%E5%88%86%E4%BA%AB)
+**标签**：[`社区`](https://site.lovejade.cn/tags/%E7%A4%BE%E5%8C%BA) · [`编程`](https://site.lovejade.cn/tags/%E7%BC%96%E7%A8%8B) · [`分享`](https://site.lovejade.cn/tags/%E5%88%86%E4%BA%AB)
 
 **关键字：** 社区, 霓虹灯下社区, 读书, 穿搭, 旅游, 宠物, 美食, 书评, 新鲜事, 资源下载, 有趣, 好玩, 文字, 休闲, 故事, 技术编程, 代码, 有个性的网站, 热点动态
 
@@ -119,7 +119,7 @@ Make beautiful websites regardless of your design experience.
 
 ![霓虹灯下社区 - 听说，与城市霓虹灯穿插的每一户灯火里，都塞满了独一无二的故事。 倾城之链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nihongdengxia.com.png?x-oss-process=style/png2jpg)
 
-**推荐语：**[霓虹灯下社区](https://nihongdengxia.com/)是基于 Go、HTML、CSS 等语言搭建的网站，您可以在这里分享`生活`、`美食`、`旅行`、`读书`、`穿搭`、`宠物`等内容。── 出自[倾城之链 | 霓虹灯下社区 - 听说，与城市霓虹灯穿插的每一户灯火里，都塞满了独一无二的故事。](https://nicelinks.site/post/61f3506868ba114abbae603a)。
+**推荐语：**[霓虹灯下社区](https://nihongdengxia.com/)是基于 Go、HTML、CSS 等语言搭建的网站，您可以在这里分享`生活`、`美食`、`旅行`、`读书`、`穿搭`、`宠物`等内容。── 出自[倾城之链 | 霓虹灯下社区 - 听说，与城市霓虹灯穿插的每一户灯火里，都塞满了独一无二的故事。](https://site.lovejade.cn/post/61f3506868ba114abbae603a)。
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

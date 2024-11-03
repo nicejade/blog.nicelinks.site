@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [VEED - Online Video Editor - Video Editing Made Simple](https://nicelinks.site/post/6220ac939d58ff38419a3e6a)
+## [VEED - Online Video Editor - Video Editing Made Simple](https://site.lovejade.cn/post/6220ac939d58ff38419a3e6a)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`工具`](https://nicelinks.site/tags/工具) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`工具`](https://site.lovejade.cn/tags/工具) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > Make stunning videos with a single click. Cut, trim, crop, add subtitles and more. Online, no account needed. Try it now, free. VEED
 
@@ -16,11 +16,11 @@
 
 `VEED`，简单的工具，强大的效果。无论您是营销人员、教师、还是创意人员，都可以基于 [VEED](https://www.veed.io/) 制作精美视频，从而让您的作品，更为大众所接受。当然，这款应用虽然可以免费使用，但须知免费版功能有限，且有诸多限制 🚫。对于需要简单的在线视频编辑功能的个人，需要支付 12 美元/月，望知悉。
 
-── 出自[倾城之链 - VEED - Online Video Editor - Video Editing Made Simple](https://nicelinks.site/post/6220ac939d58ff38419a3e6a)
+── 出自[倾城之链 - VEED - Online Video Editor - Video Editing Made Simple](https://site.lovejade.cn/post/6220ac939d58ff38419a3e6a)
 
-## [DAC 导航-让校园生活更加精彩！](https://nicelinks.site/post/62209f6b9d58ff38419a3e68)
+## [DAC 导航-让校园生活更加精彩！](https://site.lovejade.cn/post/62209f6b9d58ff38419a3e68)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`工具`](https://nicelinks.site/tags/工具) · [`网站`](https://nicelinks.site/tags/网站)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`工具`](https://site.lovejade.cn/tags/工具) · [`网站`](https://site.lovejade.cn/tags/网站)
 
 **关键字**：DAC, 大学生, 学术, 校园, 导航, direct air capture, CO2, 二氧化碳, 碳捕集, CCUS, 碳导航, 能源, 化工, 环境, 科学, 研究, nwuzmed, nwuzmed.ga
 
@@ -44,11 +44,11 @@ DAC 在提供网站指引和导航的同时，也免费提供资源搜索、下�
 
 如果，你想更充分了解「DAC 导航」（如何使用、部分网站无法访问的原因等），您可以移步至 [DAC 导航 ｜ 网站简介及使用说明](https://nwuzmed.ga/media/about/cn/about.html)。
 
-── 出自[倾城之链 - DAC 导航-让校园生活更加精彩！](https://nicelinks.site/post/62209f6b9d58ff38419a3e68)
+── 出自[倾城之链 - DAC 导航-让校园生活更加精彩！](https://site.lovejade.cn/post/62209f6b9d58ff38419a3e68)
 
-## [TDesign - 开源的企业级设计体系](https://nicelinks.site/post/621f5ce69d58ff38419a3e66)
+## [TDesign - 开源的企业级设计体系](https://site.lovejade.cn/post/621f5ce69d58ff38419a3e66)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`开源`](https://nicelinks.site/tags/开源) · [`前端开发`](https://nicelinks.site/tags/前端开发)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/组件库) · [`开源`](https://site.lovejade.cn/tags/开源) · [`前端开发`](https://site.lovejade.cn/tags/前端开发)
 
 **关键字**：TDesign, tdesign, design, td, TD
 
@@ -56,7 +56,7 @@ DAC 在提供网站指引和导航的同时，也免费提供资源搜索、下�
 
 ![倾城之链 - TDesign - 开源的企业级设计体系](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/tdesign.tencent.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TDesign](https://tdesign.tencent.com/)，是腾讯**开源**的企业级设计体系，提供一致的设计语言和视觉风格，帮助用户形成连续、统一的体验认知。在此基础上，TDesign 提供了开箱即用的 UI 组件库（涉及桌面端、移动端、小程序等；包括 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) / [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) / 小程序等技术栈；就目前（2022.03）而言，部分仍处于 Beta、Alpha、待上线状态），设计指南和相关设计资产，以高效的方式，将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。用于构建 设计统一 / 跨端多技术栈 的前端应用时，TDesign 颇有优势。它具有以下特征：
+**推荐语**：[TDesign](https://tdesign.tencent.com/)，是腾讯**开源**的企业级设计体系，提供一致的设计语言和视觉风格，帮助用户形成连续、统一的体验认知。在此基础上，TDesign 提供了开箱即用的 UI 组件库（涉及桌面端、移动端、小程序等；包括 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) / [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) / 小程序等技术栈；就目前（2022.03）而言，部分仍处于 Beta、Alpha、待上线状态），设计指南和相关设计资产，以高效的方式，将设计和研发从重复劳动中解放出来，同时方便大家在 TDesign 的基础上扩展，更好的的贴近业务需求。用于构建 设计统一 / 跨端多技术栈 的前端应用时，TDesign 颇有优势。它具有以下特征：
 
 ### 开放
 
@@ -93,11 +93,11 @@ DAC 在提供网站指引和导航的同时，也免费提供资源搜索、下�
 
 TDesign 同步上线了一款开箱即用的中后台框架 TDesign Starter Kit，开发者可以通过它快速体验组件能功能，也可以将它修改为项目基础脚手架工程，快速实现从 0 到 1 的产品开发上线。TDesign 为产品体验设计的各个环节提供解决方案，做好连接的角色，赋能更多的行业领域，助力提升产品体验，有效提升设计研发效能。
 
-── 出自[倾城之链 - TDesign - 开源的企业级设计体系](https://nicelinks.site/post/621f5ce69d58ff38419a3e66)
+── 出自[倾城之链 - TDesign - 开源的企业级设计体系](https://site.lovejade.cn/post/621f5ce69d58ff38419a3e66)
 
-## [Free Website Builder | Create a Free Website | Wix.com](https://nicelinks.site/post/621f498e9d58ff38419a3e64)
+## [Free Website Builder | Create a Free Website | Wix.com](https://site.lovejade.cn/post/621f498e9d58ff38419a3e64)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`工具`](https://nicelinks.site/tags/工具) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`工具`](https://site.lovejade.cn/tags/工具) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Create a professional website with the Wix website builder. Choose a customizable designer-made template and add the features you need. Get started today.
 
@@ -158,7 +158,7 @@ TDesign 同步上线了一款开箱即用的中后台框架 TDesign Starter Kit�
 
 [Wix.com](https://www.wix.com/) 是拥有全球数百万使用者的领先云端式开发平台。他们帮助每个人都能轻松架构出专业迷人的网页风采。促销您的业务、展示您的艺术、建置网路商店或只是测试一下新的构想。Wix 网站帮手可提供一切元素，让您制作完全个人化、高品质的免费网站。
 
-── 出自[倾城之链 - Free Website Builder | Create a Free Website | Wix.com](https://nicelinks.site/post/621f498e9d58ff38419a3e64)
+── 出自[倾城之链 - Free Website Builder | Create a Free Website | Wix.com](https://site.lovejade.cn/post/621f498e9d58ff38419a3e64)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

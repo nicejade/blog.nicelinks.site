@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [We 分析](https://nicelinks.site/post/60f81b5581b2dc066ea4bd75)
+## [We 分析](https://site.lovejade.cn/post/60f81b5581b2dc066ea4bd75)
 
-**标签**：[`微信`](https://nicelinks.site/tags/微信) · [`分析`](https://nicelinks.site/tags/分析) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`微信`](https://site.lovejade.cn/tags/微信) · [`分析`](https://site.lovejade.cn/tags/分析) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > We 分析，微信官方推出的数据分析平台，提供更健全的数据分析工具。
 
@@ -17,11 +17,11 @@
 3. **行业定制经营分析看板：** 对不同行业的特色，推出定制化的经营分析看板。如对电商零售行业，会围绕“流量”、“商品”、“客户”3 大维度，结合“曝光-访问-加购-下单”转化漏斗，推出电商行业数据看板及经营诊断，帮助商家快速了解运营现状。
 4. **微信域的数据画像洞察：** 将在保护用户隐私的前提下，提供用户洞察工具，开放行业参考数据，帮助商家更好了解自身经营现状，洞察用户；并联动微信内的用户运营与营销工具，提供应用出口，帮助商家更好的精细化运营。
 
-── 出自[倾城之链 - We 分析](https://nicelinks.site/post/60f81b5581b2dc066ea4bd75)
+── 出自[倾城之链 - We 分析](https://site.lovejade.cn/post/60f81b5581b2dc066ea4bd75)
 
-## [Unity Real-Time Development Platform](https://nicelinks.site/post/60f8020181b2dc066ea4bd73)
+## [Unity Real-Time Development Platform](https://site.lovejade.cn/post/60f8020181b2dc066ea4bd73)
 
-**标签**：[`可视化`](https://nicelinks.site/tags/可视化) · [`游戏`](https://nicelinks.site/tags/游戏) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`可视化`](https://site.lovejade.cn/tags/可视化) · [`游戏`](https://site.lovejade.cn/tags/游戏) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 **关键字**：实时开发平台、实时开发, VR 可视化, AR 可视化, 3D 可视化, 3D 平台, 2D 平台, VR 平台, AR 平台, 3D 实时, AR 实时, 2D 开发、3D 开发、AR 开发、VR 开发, real-time development platform, real-time development, Vr visualization, AR visualization, 3d visualization, 3d platform, 2d platform, Vr platform, AR platform, 3d real-time, AR real-time, 2d Development, 3d Development, AR Development, VR Development
 
@@ -38,11 +38,11 @@
 
 [Unity](https://unity.com/) 不仅仅是世界上有名的实时开发平台，它还是一个可以帮助您获得成功的强大生态系统。借助 [Unity](https://unity.com/)，可实现一次构建，全局部署，覆盖逾 25 个领先平台和技术上的大规模受众。如果您想了解更多，可参见：[Unity 官方博客](https://blog.unity.com/)。
 
-── 出自[倾城之链 - Unity Real-Time Development Platform](https://nicelinks.site/post/60f8020181b2dc066ea4bd73)
+── 出自[倾城之链 - Unity Real-Time Development Platform](https://site.lovejade.cn/post/60f8020181b2dc066ea4bd73)
 
-## [Glass UI - The definitive CSS UI library for glassmorphism](https://nicelinks.site/post/60f6bb7181b2dc066ea4bd71)
+## [Glass UI - The definitive CSS UI library for glassmorphism](https://site.lovejade.cn/post/60f6bb7181b2dc066ea4bd71)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`前端开发`](https://nicelinks.site/tags/前端开发)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`前端开发`](https://site.lovejade.cn/tags/前端开发)
 
 > A modern CSS UI library based on the glassmorphism design specifications that will help you quickly design and build websites and applications.
 
@@ -50,11 +50,11 @@
 
 **推荐语**：[Glass UI](https://ui.glass/) 基于玻璃形态设计原则的现代 CSS UI 库（正在开发中），可帮助您快速设计和构建漂亮的网站和应用程序。这对 Web 前端开发比较有用，您可以通过免费的[毛玻璃 CSS 生成器](https://ui.glass/generator/)，从而快速设计和自定义样式属性；它支持更换背景类型（图像、渐变、纯色）、卡片颜色、模糊值（Blur value）、不透明度（Opacity）、饱和度（Saturation）等等。
 
-── 出自[倾城之链 - Glass UI - The definitive CSS UI library for glassmorphism](https://nicelinks.site/post/60f6bb7181b2dc066ea4bd71)
+── 出自[倾城之链 - Glass UI - The definitive CSS UI library for glassmorphism](https://site.lovejade.cn/post/60f6bb7181b2dc066ea4bd71)
 
-## [ The mobile measurement company | Adjust](https://nicelinks.site/post/60f5744181b2dc066ea4bd6f)
+## [ The mobile measurement company | Adjust](https://site.lovejade.cn/post/60f5744181b2dc066ea4bd6f)
 
-**标签**：[`营销`](https://nicelinks.site/tags/营销) · [`自动化`](https://nicelinks.site/tags/自动化) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`营销`](https://site.lovejade.cn/tags/营销) · [`自动化`](https://site.lovejade.cn/tags/自动化) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Mobile Measurement made easy: Adjust unifies all your marketing activities into one powerful platform, giving you the insights you need to scale your business.
 
@@ -68,11 +68,11 @@
 
 从 [Adjust](https://www.adjust.com/) 官方介绍来看，有以下优点：隐私至上、监控所有归因、跟踪 KPI、分析和细分用户、预防欺诈、导出用户级数据等。其使命是：为了维护广告主的利益，将反欺诈进行到底。
 
-── 出自[倾城之链 - The mobile measurement company | Adjust](https://nicelinks.site/post/60f5744181b2dc066ea4bd6f)
+── 出自[倾城之链 - The mobile measurement company | Adjust](https://site.lovejade.cn/post/60f5744181b2dc066ea4bd6f)
 
-## [微信读书-正版书籍小说免费阅读](https://nicelinks.site/post/60f3e9e281b2dc066ea4bd6a)
+## [微信读书-正版书籍小说免费阅读](https://site.lovejade.cn/post/60f3e9e281b2dc066ea4bd6a)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`阅读`](https://nicelinks.site/tags/阅读) · [`微信`](https://nicelinks.site/tags/微信)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`阅读`](https://site.lovejade.cn/tags/阅读) · [`微信`](https://site.lovejade.cn/tags/微信)
 
 **关键字**：微信读书, 微信读书电脑版, 小说, 小说排行榜, 言情小说, 玄幻小说, 免费小说
 
@@ -82,11 +82,11 @@
 
 **推荐语**：[微信读书](https://weread.qq.com/)网页版，通过微信扫码登录，即可开启在 Web 端阅读；网页版除了提供读书外，还提供有「传书到手机」的功能。网页版阅读，也能方便的调整字体、设置背景、查阅目录、选中 ☑️ 进行操作（如复制、划线、写想法、查询等操作）；相比于`微信读书`应用，其网页版因为电脑屏幕更大，在某些场景下，也有相应优势；对读书感兴趣的朋友可以了解下。
 
-── 出自[倾城之链 - 微信读书-正版书籍小说免费阅读](https://nicelinks.site/post/60f3e9e281b2dc066ea4bd6a)
+── 出自[倾城之链 - 微信读书-正版书籍小说免费阅读](https://site.lovejade.cn/post/60f3e9e281b2dc066ea4bd6a)
 
-## [番喜生活|生活常用网址导航！](https://nicelinks.site/post/60f3d29f81b2dc066ea4bd68)
+## [番喜生活|生活常用网址导航！](https://site.lovejade.cn/post/60f3d29f81b2dc066ea4bd68)
 
-**标签**：[`互联网`](https://nicelinks.site/tags/互联网) · [`导航`](https://nicelinks.site/tags/导航)
+**标签**：[`互联网`](https://site.lovejade.cn/tags/互联网) · [`导航`](https://site.lovejade.cn/tags/导航)
 
 **关键字**：番喜, 番喜生活, VIP 电影, 实用网址, 高清免费电影, 老师常用网址, 免费 PPT 模板, 高清电影, 最新网址发布页, ppt 模板, 精品软件, 网址导航, 网盘搜索, 镜像谷歌, 免费资源
 
@@ -94,9 +94,9 @@
 
 ![倾城之链 - 番喜生活|生活常用网址导航！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.fxsh.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[番喜生活](https://www.fxsh.com/)，一款基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建，提供优质的网址（生活常用）导航网站，围绕生活中的购物，旅游，办公，电影，音乐，求职，简历，PPT，资讯，创业，等行业，让人们可以更高效的网上冲浪。
+**推荐语**：[番喜生活](https://www.fxsh.com/)，一款基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 搭建，提供优质的网址（生活常用）导航网站，围绕生活中的购物，旅游，办公，电影，音乐，求职，简历，PPT，资讯，创业，等行业，让人们可以更高效的网上冲浪。
 
-── 出自[倾城之链 - 番喜生活|生活常用网址导航！](https://nicelinks.site/post/60f3d29f81b2dc066ea4bd68)
+── 出自[倾城之链 - 番喜生活|生活常用网址导航！](https://site.lovejade.cn/post/60f3d29f81b2dc066ea4bd68)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

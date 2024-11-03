@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Espanso - A Privacy-first, Cross-platform Text Expander](https://nicelinks.site/post/624efb22b7bf120669dbd40c)
+## [Espanso - A Privacy-first, Cross-platform Text Expander](https://site.lovejade.cn/post/624efb22b7bf120669dbd40c)
 
-**标签**：[`效率`](https://nicelinks.site/tags/效率) · [`应用`](https://nicelinks.site/tags/应用) · [`跨平台`](https://nicelinks.site/tags/跨平台)
+**标签**：[`效率`](https://site.lovejade.cn/tags/效率) · [`应用`](https://site.lovejade.cn/tags/应用) · [`跨平台`](https://site.lovejade.cn/tags/跨平台)
 
 > A cross-platform Text Expander written in Rust. A text expander is a program that detects when you type a specific keyword and replaces it with something else.
 
@@ -63,13 +63,13 @@
 
 Espanso 适用于大多数应用程序，因此您可以在任何地方提高工作效率。
 
-最近，就安装并使用了 Espanso （基于 Mac OS），感觉非常棒，其体验要比 Mac 自带的体验要好很多。而且，文档对于如何安装、配置、使用等，都写的全面易懂；与 Windows 平台下 [AutoHotkey](https://nicelinks.site/post/5ae83b115ecfb73d26e47296) 应用的部分功能很像。如果您也是一位基于电脑码字较多的朋友，那么 [Espanso](https://espanso.org/) 非常值得您采用，从而节省大量打字时间，以提升**效率**和**幸福感**。
+最近，就安装并使用了 Espanso （基于 Mac OS），感觉非常棒，其体验要比 Mac 自带的体验要好很多。而且，文档对于如何安装、配置、使用等，都写的全面易懂；与 Windows 平台下 [AutoHotkey](https://site.lovejade.cn/post/5ae83b115ecfb73d26e47296) 应用的部分功能很像。如果您也是一位基于电脑码字较多的朋友，那么 [Espanso](https://espanso.org/) 非常值得您采用，从而节省大量打字时间，以提升**效率**和**幸福感**。
 
-── 出自[倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://nicelinks.site/post/624efb22b7bf120669dbd40c)
+── 出自[倾城之链 - Espanso - A Privacy-first, Cross-platform Text Expander](https://site.lovejade.cn/post/624efb22b7bf120669dbd40c)
 
-## [Warp: The terminal for the 21st century](https://nicelinks.site/post/624ee3edb7bf120669dbd40a)
+## [Warp: The terminal for the 21st century](https://site.lovejade.cn/post/624ee3edb7bf120669dbd40a)
 
-**标签**：[`命令行`](https://nicelinks.site/tags/命令行) · [`终端`](https://nicelinks.site/tags/终端) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`命令行`](https://site.lovejade.cn/tags/命令行) · [`终端`](https://site.lovejade.cn/tags/终端) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 > Warp is a modern Rust-based terminal that’s fast, easy to use, and built for teams.
 
@@ -99,11 +99,11 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 [WARP](https://www.warp.dev/) 是一个完全原生的、GPU 加速的、基于 Rust 的终端。没有电子或网络技术。在 4K 屏幕上为 60fps。其目标是：将**命令行**重新创建为现代应用程序，为每个人提供更实用、更人性化、最终更强大的 CLI。
 
-── 出自[倾城之链 - Warp: The terminal for the 21st century](https://nicelinks.site/post/624ee3edb7bf120669dbd40a)
+── 出自[倾城之链 - Warp: The terminal for the 21st century](https://site.lovejade.cn/post/624ee3edb7bf120669dbd40a)
 
-## [OverAPI.com | Collecting all the cheat sheets](https://nicelinks.site/post/624d8dc0b7bf120669dbd407)
+## [OverAPI.com | Collecting all the cheat sheets](https://site.lovejade.cn/post/624d8dc0b7bf120669dbd407)
 
-**标签**：[`编程语言`](https://nicelinks.site/tags/编程语言) · [`编程`](https://nicelinks.site/tags/编程) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`编程`](https://site.lovejade.cn/tags/编程) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 > OverAPI.com is a site collecting all the cheatsheets,all!
 
@@ -113,11 +113,11 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 该网站最令人惊叹的是，所涉及编程语言极其广泛，无论是流行的 JavaScript、Python、Java、Node.js、PHP、Ruby、CSS、HTML，[RegEx](https://overapi.com/regex) 乃至非常冷门的语言，或者 Git、SVN、Mac、CVS 等工具，也都有涉及；即便没有详细方法罗列，也会附上诸如像官方网站、`Wikipedia` 等地址。除了网站外，还提供了 Chrome 扩展：[All Cheat Sheets](https://chrome.google.com/webstore/detail/all-cheat-sheets/oedodeocfdeegliepeeoieemhdgoijod)。如果您从事某种编程语言开发不久，相信 [OverAPI.com](https://overapi.com/) 对您能够很有帮助。
 
-── 出自[倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://nicelinks.site/post/624d8dc0b7bf120669dbd407)
+── 出自[倾城之链 - OverAPI.com | Collecting all the cheat sheets](https://site.lovejade.cn/post/624d8dc0b7bf120669dbd407)
 
-## [CodeMyUI](https://nicelinks.site/post/624d294bb7bf120669dbd405)
+## [CodeMyUI](https://site.lovejade.cn/post/624d294bb7bf120669dbd405)
 
-**标签**：[`网页设计`](https://nicelinks.site/tags/网页设计) · [`HTML`](https://nicelinks.site/tags/HTML) · [`CSS`](https://nicelinks.site/tags/CSS)
+**标签**：[`网页设计`](https://site.lovejade.cn/tags/网页设计) · [`HTML`](https://site.lovejade.cn/tags/HTML) · [`CSS`](https://site.lovejade.cn/tags/CSS)
 
 **关键字**：网页设计, UI, 灵感, 代码片段, HTML, CSS, JavaScript, Web Design
 
@@ -127,11 +127,11 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 **推荐语**：[CodeMyUI](https://codemyui.com/)，一个网页设计和 UI 灵感与代码片段的网站；这里有精心挑选的网页设计和 UI 灵感与代码片段的集合。支持 GIF 预览、 HTML CSS 复制粘贴代码。如果您从事 Web 前端开发，可以从这汲取灵感，诸如：滚动图像以更改文本视差效果、带有滚动效果的凸窗样式图像滑块、悬停时带有解释的删除线文本、图像的纯 CSS 翻页动画等等。
 
-── 出自[倾城之链 - CodeMyUI](https://nicelinks.site/post/624d294bb7bf120669dbd405)
+── 出自[倾城之链 - CodeMyUI](https://site.lovejade.cn/post/624d294bb7bf120669dbd405)
 
-## [voidtools | Everything](https://nicelinks.site/post/624b0cd0b7bf120669dbd403)
+## [voidtools | Everything](https://site.lovejade.cn/post/624b0cd0b7bf120669dbd403)
 
-**标签**：[`Windows`](https://nicelinks.site/tags/Windows) · [`工具`](https://nicelinks.site/tags/工具) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`Windows`](https://site.lovejade.cn/tags/Windows) · [`工具`](https://site.lovejade.cn/tags/工具) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > Everything，Windows 系统下，基于名称快速定位文件和文件夹的搜索工具。
 
@@ -149,13 +149,13 @@ Warp 与 zsh、fish 和 bash 一起开箱即用。
 
 在搜索框输入文字，它就会只显示过滤后的文件和目录。Everything 搜索只基于文件和文件夹的名称，所以它创建数据库很快。如果你希望能按文件名进行高速搜索文件，并且硬盘分区都是使用 NTFS 格式的，又或者需要远程搜索其他计算机上的文件，那么你绝对不能错过 Everything 这款仅几百 KB 的免费软件！它绝对值得你收藏与试用的。
 
-早在 2014 年，初次接触到 Everything，开启了笔者对工具的折腾之旅，并乐此不疲；时隔多年，受益匪浅；多年来也有写些相关分享，诸如：[那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/)、[Listary Everything Wox Launch](https://www.jeffjade.com/2016/05/22/108-Listary-Everything-Wox-Launch/) 等文章；在多番尝试后，Windows 中检索内容，更喜欢 [Listary](https://nicelinks.site/post/5f217282b1689d3f5f920012) 革命性搜索实用程序，它使普通用户和高级用户，都能快速找到文件并启动应用程序，真的可以**让文件在你指尖流动**。
+早在 2014 年，初次接触到 Everything，开启了笔者对工具的折腾之旅，并乐此不疲；时隔多年，受益匪浅；多年来也有写些相关分享，诸如：[那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/)、[Listary Everything Wox Launch](https://www.jeffjade.com/2016/05/22/108-Listary-Everything-Wox-Launch/) 等文章；在多番尝试后，Windows 中检索内容，更喜欢 [Listary](https://site.lovejade.cn/post/5f217282b1689d3f5f920012) 革命性搜索实用程序，它使普通用户和高级用户，都能快速找到文件并启动应用程序，真的可以**让文件在你指尖流动**。
 
-── 出自[倾城之链 - voidtools | Everything](https://nicelinks.site/post/624b0cd0b7bf120669dbd403)
+── 出自[倾城之链 - voidtools | Everything](https://site.lovejade.cn/post/624b0cd0b7bf120669dbd403)
 
-## [SpaceX](https://nicelinks.site/post/6249978fb7bf120669dbd3ff)
+## [SpaceX](https://site.lovejade.cn/post/6249978fb7bf120669dbd3ff)
 
-**标签**：[`高科技`](https://nicelinks.site/tags/高科技) · [`官网`](https://nicelinks.site/tags/官网) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`高科技`](https://site.lovejade.cn/tags/高科技) · [`官网`](https://site.lovejade.cn/tags/官网) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 **关键字**：space, spacex, aerospace, elon musk, mars, falcon 9, falcon heavy, dragon
 
@@ -191,7 +191,7 @@ SpaceX 的猎鹰运载火箭系列是第一个也是唯一一个能够重新发�
 
 凭借特斯拉、SpaceX 等过硬科技产品，以及无与伦比的营销，2021 年，Elon Musk 个人净资产升至 1850 亿美元，以 15 亿美元之差超越亚马逊 CEO 贝佐斯，成为全球首富。这无疑佐证了 Elon Musk 及旗下产品的创新及成功。SpaceX 近 20 年发展及声誉，皆是蒸蒸日上；但在未来，能够成为造福人类的划时代产品，让时间来检验，我们拭目以待。
 
-── 出自[倾城之链 - SpaceX](https://nicelinks.site/post/6249978fb7bf120669dbd3ff)
+── 出自[倾城之链 - SpaceX](https://site.lovejade.cn/post/6249978fb7bf120669dbd3ff)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

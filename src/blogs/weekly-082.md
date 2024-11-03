@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Literal.club | Track your reading and discover new books](https://nicelinks.site/post/6319e2c392583d0ec9c367bb)
+## [Literal.club | Track your reading and discover new books](https://site.lovejade.cn/post/6319e2c392583d0ec9c367bb)
 
-**标签**：[`书籍`](https://nicelinks.site/tags/书籍) · [`社区`](https://nicelinks.site/tags/社区) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`书籍`](https://site.lovejade.cn/tags/书籍) · [`社区`](https://site.lovejade.cn/tags/社区) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 > Literal is the best platform to collectively explore the ideas of the world's greatest authors.
 
@@ -23,11 +23,11 @@
 
 一本书的内容有不同的含义，这取决于阅读它的人。每个人的想法不同，这很好。您可以深入了解构成一本书的基本要素，分享让您感动的时刻，并讨论您认为引人注目的想法。`literal` 希望为讨论创造一个基础，将知识汇集在一起，同时使其更易于访问和掌握。Literal 是一个将人们围绕吸引他们的主题和想法联系起来的地方。
 
-── 出自[倾城之链 - Literal.club | Track your reading and discover new books](https://nicelinks.site/post/6319e2c392583d0ec9c367bb)
+── 出自[倾城之链 - Literal.club | Track your reading and discover new books](https://site.lovejade.cn/post/6319e2c392583d0ec9c367bb)
 
-## [Netdata: Monitoring and troubleshooting transformed - Netdata](https://nicelinks.site/post/6319daee92583d0ec9c367b9)
+## [Netdata: Monitoring and troubleshooting transformed - Netdata](https://site.lovejade.cn/post/6319daee92583d0ec9c367b9)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`监控`](https://nicelinks.site/tags/监控) · [`机器学习`](https://nicelinks.site/tags/机器学习)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`监控`](https://site.lovejade.cn/tags/监控) · [`机器学习`](https://site.lovejade.cn/tags/机器学习)
 
 > Slash your time to detect, troubleshoot and resolve infrastructure performance anomalies. Netdata: architected for speed, automated for easy.
 
@@ -108,17 +108,17 @@ Netdata 由系统管理员、DevOps 工程师和开发人员设计，用于收�
 
 随着 IT 基础设施变得越来越复杂，人们不断发展的解决方案，将不断减轻开发人员、SRE、DevOps 和系统管理员的负担。就像 Linux 一样，Netdata 代理将始终保持[开源](https://github.com/netdata/netdata)。Netdata 完全致力于以社区为先的方法，拥有数百名贡献者、数千名 GitHub 观星者和数百万用户（60.4K Star @2022/09/08），包括亚马逊、谷歌、IBM、微软和英伟达等公司。其愿景是：**建立一个能够解决运行世界的技术问题的全球社区**。
 
-── 出自[倾城之链 - Netdata: Monitoring and troubleshooting transformed - Netdata](https://nicelinks.site/post/6319daee92583d0ec9c367b9)
+── 出自[倾城之链 - Netdata: Monitoring and troubleshooting transformed - Netdata](https://site.lovejade.cn/post/6319daee92583d0ec9c367b9)
 
-## [NativeScript | Empower JavaScript with native APIs](https://nicelinks.site/post/63188d6cc0922e0e572bde89)
+## [NativeScript | Empower JavaScript with native APIs](https://site.lovejade.cn/post/63188d6cc0922e0e572bde89)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`跨平台`](https://nicelinks.site/tags/跨平台)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`跨平台`](https://site.lovejade.cn/tags/跨平台)
 
 > NativeScript empowers you to access native APIs from JavaScript directly. Currently iOS and Android runtimes are provided for rich mobile development across a variety of diverse use cases.
 
 ![倾城之链 - NativeScript | Empower JavaScript with native APIs](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nativescript.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[NativeScript](https://nativescript.org/) ，一款让你可以用 JavaScript 来直接写 Android、iOS 本地应用程序的框架。使您能够直接从 JavaScript 访问本机 API。此外。NativeScript 允许使用各种框架或模板搭建项目，来启动您的应用程序开发；诸如：[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 等（当然，也可以不使用模版）。
+**推荐语**：[NativeScript](https://nativescript.org/) ，一款让你可以用 JavaScript 来直接写 Android、iOS 本地应用程序的框架。使您能够直接从 JavaScript 访问本机 API。此外。NativeScript 允许使用各种框架或模板搭建项目，来启动您的应用程序开发；诸如：[Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)、 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)、 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 等（当然，也可以不使用模版）。
 
 ```bash
 ns create myNativeApp --vue
@@ -132,19 +132,19 @@ NativeScript 的代码，与网页开发的代码很相似，都是基于 JavaSc
 
 NativeScript 应用程序，直接运行在设备上，并由运行在应用程序内部的 JavaScript 虚拟机解释；这意味着 NativeScript 应用程序不受访问本机设备 Api 或硬件的限制，因此任何应用程序都可以编写为 NativeScript 应用。理论上是这样的，但是 NativeScript 应用程序是在 JavaScript 虚拟机中运行的，所以在应用程序和裸机之间有一个额外的抽象层（尽管很小）。要从设备中提取每一点性能，所以对于图形密集的游戏，NativeScript 并不是很不适合。
 
-与 NativeScript 类似的框架有：[Flutter](https://nicelinks.site/post/5b37d29e187e143b63cf01f0)、[React Native](https://reactnative.dev/) 等。相比 Flutter，无需学习新的语言（Dart）；相比 React Native，NativeScript 并没有限制一定要基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 来开发。该项目在 [Github NativeScript](https://github.com/NativeScript/NativeScript) 开源（拥有 22K Star @2022/09/07）；关于其运行原理、好处与缺点，感兴趣的朋友可以前往 Github 分析代码以了解更多。
+与 NativeScript 类似的框架有：[Flutter](https://site.lovejade.cn/post/5b37d29e187e143b63cf01f0)、[React Native](https://reactnative.dev/) 等。相比 Flutter，无需学习新的语言（Dart）；相比 React Native，NativeScript 并没有限制一定要基于 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 来开发。该项目在 [Github NativeScript](https://github.com/NativeScript/NativeScript) 开源（拥有 22K Star @2022/09/07）；关于其运行原理、好处与缺点，感兴趣的朋友可以前往 Github 分析代码以了解更多。
 
-── 出自[倾城之链 - NativeScript | Empower JavaScript with native APIs](https://nicelinks.site/post/63188d6cc0922e0e572bde89)
+── 出自[倾城之链 - NativeScript | Empower JavaScript with native APIs](https://site.lovejade.cn/post/63188d6cc0922e0e572bde89)
 
-## [Pinia | The Vue Store that you will enjoy using](https://nicelinks.site/post/631813c3c0922e0e572bde81)
+## [Pinia | The Vue Store that you will enjoy using](https://site.lovejade.cn/post/631813c3c0922e0e572bde81)
 
-**标签**：[`Vue`](https://nicelinks.site/tags/Vue) · [`TypeScript`](https://nicelinks.site/tags/TypeScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`Vue`](https://site.lovejade.cn/tags/Vue) · [`TypeScript`](https://site.lovejade.cn/tags/TypeScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > The Vue Store that you will enjoy using. 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 
 ![倾城之链 - Pinia | The Vue Store that you will enjoy using](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pinia.vuejs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pinia](https://pinia.vuejs.org/) 直观、类型安全且灵活的 Vue Store，使用组合 API 和 DevTools 支持，是全新的 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 状态管理工具；适用于 Vue 2 和 Vue 3。Pinia 与 Vue 的关系，可以将其类比为 [Redux](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 之于 React，Vuex 之于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 。Pinia 是 Vuex 的继承者，如果您使用之后，会发现它比 Vuex 更简单、易于上手。Pinia 具有以下功能特征：
+**推荐语**：[Pinia](https://pinia.vuejs.org/) 直观、类型安全且灵活的 Vue Store，使用组合 API 和 DevTools 支持，是全新的 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 状态管理工具；适用于 Vue 2 和 Vue 3。Pinia 与 Vue 的关系，可以将其类比为 [Redux](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 之于 React，Vuex 之于 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 。Pinia 是 Vuex 的继承者，如果您使用之后，会发现它比 Vuex 更简单、易于上手。Pinia 具有以下功能特征：
 
 ### 💡 直观
 
@@ -191,13 +191,13 @@ Pinia 是 Vue 的存储库，它允许您跨组件/页面共享状态。如果�
 
 ### 与 Vuex 的比较
 
-Pinia 最初是为了探索 Vuex 的下一次迭代可能会是什么样子，结合了 Vuex5 核心团队讨论中的许多想法。最终，Pinia 团队意识到 Pinia 已经实现了在 Vuex 5 中想要的大部分内容，并决定实现它取而代之的是新的建议。与 Vuex 相比，Pinia 提供了一个更简单的 API，具有更少的仪式，提供了 Composition-API 风格的 API，最重要的是，在与 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 一起使用时具有可靠的类型推断支持。
+Pinia 最初是为了探索 Vuex 的下一次迭代可能会是什么样子，结合了 Vuex5 核心团队讨论中的许多想法。最终，Pinia 团队意识到 Pinia 已经实现了在 Vuex 5 中想要的大部分内容，并决定实现它取而代之的是新的建议。与 Vuex 相比，Pinia 提供了一个更简单的 API，具有更少的仪式，提供了 Composition-API 风格的 API，最重要的是，在与 [TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef) 一起使用时具有可靠的类型推断支持。
 
-── 出自[倾城之链 - Pinia | The Vue Store that you will enjoy using](https://nicelinks.site/post/631813c3c0922e0e572bde81)
+── 出自[倾城之链 - Pinia | The Vue Store that you will enjoy using](https://site.lovejade.cn/post/631813c3c0922e0e572bde81)
 
-## [Shortcuts.design | Every shortcut for designers in one place 🚀](https://nicelinks.site/post/63172de2c0922e0e572bde7e)
+## [Shortcuts.design | Every shortcut for designers in one place 🚀](https://site.lovejade.cn/post/63172de2c0922e0e572bde7e)
 
-**标签**：[`效率`](https://nicelinks.site/tags/效率) · [`设计师`](https://nicelinks.site/tags/设计师) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`效率`](https://site.lovejade.cn/tags/效率) · [`设计师`](https://site.lovejade.cn/tags/设计师) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 **关键字**：shortcuts, shortcuts.design, Figma shortcuts mac, Figma shortcuts windows, all Figma shortcuts mac, all Figma shortcuts windows, figma keyboard shortcuts, windows shortcuts, sublime shortcuts, figma hotkeys, figma zoom to selection, all shortcuts, design shortcuts, shortcuts overview
 
@@ -207,9 +207,9 @@ Pinia 最初是为了探索 Vuex 的下一次迭代可能会是什么样子，�
 
 **推荐语**：[Shortcuts.design](https://shortcuts.design/) ，一款应用程序「快捷方式」参考的网站；主要针对设计、开发、生产力相关。Shortcuts.design 旨在在一个地方，以简单明了的方式，列出了设计师和开发者需要的快捷方式。此外，该项目的创建者 [Michel](https://www.michelvanheest.com/) ，将其打造成为集中且可搜索的在线数据库；因此，不仅可查阅、检索应用的「快捷方式」，而且可以基于 Twitter、电子邮件或 GitHub 添加新工具或提交反馈。
 
-对于开发者而言，这款 Web 应用的功能，相对有些单薄；因为查看应用「快捷键」，可以从应用本身来操作；比如跨平台代码编辑器 [Vs Code](https://nicelinks.site/post/5af55777979f626ea3d37917)，通过 `⌘ K S` 按键即可；信息非常全，而且可以直接更改。但，对于一些不太熟悉这些的朋友，相信还是有些价值。
+对于开发者而言，这款 Web 应用的功能，相对有些单薄；因为查看应用「快捷键」，可以从应用本身来操作；比如跨平台代码编辑器 [Vs Code](https://site.lovejade.cn/post/5af55777979f626ea3d37917)，通过 `⌘ K S` 按键即可；信息非常全，而且可以直接更改。但，对于一些不太熟悉这些的朋友，相信还是有些价值。
 
-── 出自[倾城之链 - Shortcuts.design | Every shortcut for designers in one place 🚀](https://nicelinks.site/post/63172de2c0922e0e572bde7e)
+── 出自[倾城之链 - Shortcuts.design | Every shortcut for designers in one place 🚀](https://site.lovejade.cn/post/63172de2c0922e0e572bde7e)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

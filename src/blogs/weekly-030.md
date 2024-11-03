@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [ZapBG - Remove Backgrounds From Images Easily](https://nicelinks.site/post/613a0f78442320788c733fc5)
+## [ZapBG - Remove Backgrounds From Images Easily](https://site.lovejade.cn/post/613a0f78442320788c733fc5)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`工具`](https://nicelinks.site/tags/工具) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`工具`](https://site.lovejade.cn/tags/工具) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > Remove backgrounds in just seconds with no learning curve and easily remove backgrounds fast. Like super fast. Our latest AI easily recognizes backgrounds
 
@@ -12,11 +12,11 @@
 
 **推荐语**：[ZapBG](https://www.zapbg.com/) 是从图像中清除（remove）背景的极为简单方法，而无需经历使用软件或雇用任何人的麻烦（基于最新的 AI）。凭借在几秒钟内删除背景的能力，让您的创造力和想象力流动起来。官方给出的三个特征：**无需安装**、**便于使用**、**可接受的价格**。虽然说 [ZapBG](https://www.zapbg.com/) 需要付费使用（可免费试用），相比其他清除（remove）背景的产品，有些额外的特性：如允许撤销、支持立即更改背景等等。
 
-── 出自[倾城之链 - ZapBG - Remove Backgrounds From Images Easily](https://nicelinks.site/post/613a0f78442320788c733fc5)
+── 出自[倾城之链 - ZapBG - Remove Backgrounds From Images Easily](https://site.lovejade.cn/post/613a0f78442320788c733fc5)
 
-## [Hidden Tools: Discover a collection of tools](https://nicelinks.site/post/613996f8442320788c733fc3)
+## [Hidden Tools: Discover a collection of tools](https://site.lovejade.cn/post/613996f8442320788c733fc3)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`开发者`](https://nicelinks.site/tags/开发者) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > Explore a collection of tools to use for your next project. Search, filter, and find tools from a ton different categories.
 
@@ -26,11 +26,11 @@
 
 网站所收录的工具，十分丰富，对 Web 开发者尤其有用；其中包含有 CSS 渐变、文本编辑器、图标、插图、颜色（配色）、VsCode、分析、网站建设者、网站运行状态页面、排版、浏览器等等。
 
-── 出自[倾城之链 - Hidden Tools: Discover a collection of tools](https://nicelinks.site/post/613996f8442320788c733fc3)
+── 出自[倾城之链 - Hidden Tools: Discover a collection of tools](https://site.lovejade.cn/post/613996f8442320788c733fc3)
 
-## [Infinite Market Cap](https://nicelinks.site/post/6137589e442320788c733fc1)
+## [Infinite Market Cap](https://site.lovejade.cn/post/6137589e442320788c733fc1)
 
-**标签**：[`排名`](https://nicelinks.site/tags/排名) · [`资讯`](https://nicelinks.site/tags/资讯)
+**标签**：[`排名`](https://site.lovejade.cn/tags/排名) · [`资讯`](https://site.lovejade.cn/tags/资讯)
 
 > Infinite Market Cap ranks the world's top assets by Market Cap. Including precious metals such as Gold, Stocks, ETFs and cryptocurrencies
 
@@ -47,7 +47,7 @@
 
 另外，[Infinite Market Cap](https://8marketcap.com/) 免责声明中写到：价格和市值数据有延迟。延迟的范围可以从几分钟到几个小时不等。
 
-── 出自[倾城之链 - Infinite Market Cap](https://nicelinks.site/post/6137589e442320788c733fc1)
+── 出自[倾城之链 - Infinite Market Cap](https://site.lovejade.cn/post/6137589e442320788c733fc1)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

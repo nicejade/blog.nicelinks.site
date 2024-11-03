@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [OrbStack · Fast, light, simple Docker &amp; Linux on macOS](https://nicelinks.site/post/6437e9a4bde7286cc29e0ac0)
+## [OrbStack · Fast, light, simple Docker &amp; Linux on macOS](https://site.lovejade.cn/post/6437e9a4bde7286cc29e0ac0)
 
-**标签**：[`Docker`](https://nicelinks.site/tags/Docker) · [`Mac`](https://nicelinks.site/tags/Mac) · [`Linux`](https://nicelinks.site/tags/Linux)
+**标签**：[`Docker`](https://site.lovejade.cn/tags/Docker) · [`Mac`](https://site.lovejade.cn/tags/Mac) · [`Linux`](https://site.lovejade.cn/tags/Linux)
 
 > Say goodbye to slow, clunky containers and VMs. Run Docker and Linux on your Mac seamlessly and efficiently.
 
 ![倾城之链 - OrbStack · Fast, light, simple Docker & Linux on macOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/orbstack.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OrbStack](https://orbstack.dev/) ，在你的 [Mac](https://nicelinks.site/tags/Mac) 上无缝、高效地运行 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 和 [Linux](https://nicelinks.site/tags/Linux)。Docker Desktop 替代品，可帮助您更快地工作。它具有以下功能特征：
+**推荐语**：[OrbStack](https://orbstack.dev/) ，在你的 [Mac](https://site.lovejade.cn/tags/Mac) 上无缝、高效地运行 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 和 [Linux](https://site.lovejade.cn/tags/Linux)。Docker Desktop 替代品，可帮助您更快地工作。它具有以下功能特征：
 
 ### 快如闪电
 
@@ -52,19 +52,19 @@ Docker Desktop 的直接替代品。借助简单但功能强大的应用程序�
 
 总之，OrbStack 是 Docker Desktop 非常棒的替代品，得到广大 Mac 用户的认可；如果您用的是 Mac 系统，并且在工作、生活中较高频率使用 Docker，那么 `OrbStack` 将是您下一款酷爱应用软件。
 
-── 出自[倾城之链 - OrbStack · Fast, light, simple Docker &amp; Linux on macOS](https://nicelinks.site/post/6437e9a4bde7286cc29e0ac0)
+── 出自[倾城之链 - OrbStack · Fast, light, simple Docker &amp; Linux on macOS](https://site.lovejade.cn/post/6437e9a4bde7286cc29e0ac0)
 
-## [Phind: AI search engine | The AI search engine for developers](https://nicelinks.site/post/64369a3ebde7286cc29dfef6)
+## [Phind: AI search engine | The AI search engine for developers](https://site.lovejade.cn/post/64369a3ebde7286cc29dfef6)
 
-**标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`搜索`](https://site.lovejade.cn/tags/搜索) · [`引擎`](https://site.lovejade.cn/tags/引擎) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > The AI search engine for developers. Get instant answers, explanations, and examples for all of your technical questions.
 
 ![倾城之链 - Phind: AI search engine | The AI search engine for developers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.phind.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Phind](https://www.phind.com/) 是一个为开发人员而生的 AI [搜索](https://nicelinks.site/tags/搜索) 引擎，由大型专有的生成式 [AI](https://nicelinks.site/tags/AI) 语言模型提供支持。它通过简单的解释和来自网络的相关代码片段即时回答问题，**为开发人员提供了快速高质量的技术问题解答服务**。并且支持多种搜索方式，如智能搜索、语音搜索、图像搜索等。Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。此外，Phind 还提供了翻译、计算器、单位换算、股票等实用功能。
+**推荐语**：[Phind](https://www.phind.com/) 是一个为开发人员而生的 AI [搜索](https://site.lovejade.cn/tags/搜索) 引擎，由大型专有的生成式 [AI](https://site.lovejade.cn/tags/AI) 语言模型提供支持。它通过简单的解释和来自网络的相关代码片段即时回答问题，**为开发人员提供了快速高质量的技术问题解答服务**。并且支持多种搜索方式，如智能搜索、语音搜索、图像搜索等。Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。此外，Phind 还提供了翻译、计算器、单位换算、股票等实用功能。
 
-[Phind](https://www.phind.com/) 与其他 AI 搜索引擎相比，如 New Bing 和 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，具有更好的技术方面的检索能力和质量。Phind 的体验更好，响应速度和质量也不错。相对于 Perplexity AI，Phind 的体验更好。Phind 的优势在于它专注于为开发人员提供技术问题解答服务，而且它的回答是即时的，快速的，而且质量高，这对于开发人员来说非常有价值。
+[Phind](https://www.phind.com/) 与其他 AI 搜索引擎相比，如 New Bing 和 [ChatGPT](https://site.lovejade.cn/tags/ChatGPT) ，具有更好的技术方面的检索能力和质量。Phind 的体验更好，响应速度和质量也不错。相对于 Perplexity AI，Phind 的体验更好。Phind 的优势在于它专注于为开发人员提供技术问题解答服务，而且它的回答是即时的，快速的，而且质量高，这对于开发人员来说非常有价值。
 
 Phind 的搜索结果不仅仅是关键词匹配，更是根据用户的搜索习惯和兴趣推荐相关内容，为用户提供更加个性化的搜索体验。这种个性化的搜索体验可以让用户更快地找到自己需要的内容，提高搜索效率。Phind 还提供了翻译、计算器、单位换算、股票等实用功能，这些功能可以方便用户的实际需求。
 
@@ -72,19 +72,19 @@ Phind 的搜索结果是通过大型专有的生成式 AI 语言模型提供支�
 
 Phind 的使用方法很简单，只需要在搜索框中输入问题或关键字，Phind 就可以即时回答问题，提供解答和相关代码片段。这种快速的搜索方式可以帮助开发人员更快地找到解决方案，并且可以提高开发效率。Phind 还提供了多种搜索方式，如智能搜索、语音搜索、图像搜索等，这些搜索方式可以方便用户的实际需求。
 
-总之，Phind 是一款为开发人员而生的 AI 搜索引擎，具有快速高质量的技术问题解答服务，支持多种搜索方式和实用功能，可以提供更加个性化的搜索体验。Phind 的使用方法简单，可以帮助开发人员更快地解决技术问题，提高开发 [效率](https://nicelinks.site/tags/效率) 。初步使用，Phind 产生的结果，让人很满意；需要说明的是，在国内使用需要自备科|學的网络环境。
+总之，Phind 是一款为开发人员而生的 AI 搜索引擎，具有快速高质量的技术问题解答服务，支持多种搜索方式和实用功能，可以提供更加个性化的搜索体验。Phind 的使用方法简单，可以帮助开发人员更快地解决技术问题，提高开发 [效率](https://site.lovejade.cn/tags/效率) 。初步使用，Phind 产生的结果，让人很满意；需要说明的是，在国内使用需要自备科|學的网络环境。
 
-── 出自[倾城之链 - Phind: AI search engine | The AI search engine for developers](https://nicelinks.site/post/64369a3ebde7286cc29dfef6)
+── 出自[倾城之链 - Phind: AI search engine | The AI search engine for developers](https://site.lovejade.cn/post/64369a3ebde7286cc29dfef6)
 
-## [Hello from Learning Prompt | Learning Prompt](https://nicelinks.site/post/64355094bde7286cc29df3d2)
+## [Hello from Learning Prompt | Learning Prompt](https://site.lovejade.cn/post/64355094bde7286cc29df3d2)
 
-**标签**：[`教程`](https://nicelinks.site/tags/教程) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`prompt`](https://nicelinks.site/tags/prompt)
+**标签**：[`教程`](https://site.lovejade.cn/tags/教程) · [`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT) · [`prompt`](https://site.lovejade.cn/tags/prompt)
 
 > 免费的 Prompt Engineering 教程，现已包含 ChatGPT 和 Midjourney 教程。
 
 ![倾城之链 - Hello from Learning Prompt | Learning Prompt](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/learningprompt.wiki.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Learning Prompt](https://learningprompt.wiki/) ，**免费 Prompt Engineering 教程**；目前包含 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 和 Midjourney 两部分教程，是作者在学习 Prompt Engineering 过程中，总结出来的一些经验和方法。下面是关于 Learning Prompt 网站更详细的介绍：
+**推荐语**：[Learning Prompt](https://learningprompt.wiki/) ，**免费 Prompt Engineering 教程**；目前包含 [ChatGPT](https://site.lovejade.cn/tags/ChatGPT) 和 Midjourney 两部分教程，是作者在学习 Prompt Engineering 过程中，总结出来的一些经验和方法。下面是关于 Learning Prompt 网站更详细的介绍：
 
 ### 教程介绍
 
@@ -113,11 +113,11 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 
 另外，作者一直认为最好的学习方法，就是实践，所以作者建议你使用 ChatGPT 或者 Midjourney 上 运行一下教程里的案例。这样能够记得更牢靠一些。该内容在 [Github 仓库开源](https://github.com/thinkingjimmy/Learning-Prompt) ，如果您对其感兴趣，可前往以了解更多。
 
-── 出自[倾城之链 - Hello from Learning Prompt | Learning Prompt](https://nicelinks.site/post/64355094bde7286cc29df3d2)
+── 出自[倾城之链 - Hello from Learning Prompt | Learning Prompt](https://site.lovejade.cn/post/64355094bde7286cc29df3d2)
 
-## [Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://nicelinks.site/post/64354a42bde7286cc29df2b7)
+## [Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://site.lovejade.cn/post/64354a42bde7286cc29df2b7)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`CSS`](https://nicelinks.site/tags/CSS) · [`HTML`](https://nicelinks.site/tags/HTML)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`CSS`](https://site.lovejade.cn/tags/CSS) · [`HTML`](https://site.lovejade.cn/tags/HTML)
 
 > Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.
 
@@ -144,12 +144,12 @@ Phind 的使用方法很简单，只需要在搜索框中输入问题或关键�
 1.  **操作复杂度**：相对于 Tailwind CSS，Bootstrap 更加易于上手，尤其是对于已有设计经验的人员而言。Tailwind CSS 通过 HTML 类名来控制样式，而 Bootstrap 采用预处理器，通过样式变量，目的就是简化操作难度。
 2.  **主题定制性**：在主题定制性上， Tailwind CSS 更加方便。通过设置 tailwind.config.js 配置文件，就能够自定义添加自定义的样式等特性，而 Bootstrap 的定制性需要操纵变量和样式表等，更复杂。
 3.  UI 组件范围：Bootstrap 的 UI 组件非常全面，几乎涵盖了所有的常规 UI 组件，而 Tailwind CSS 则减少这些组件的选择，具有轻量级和简化的优势。
-4.  学习和文档：Bootstrap 的学习曲线更加缓和，而且文档资料非常丰富，文档页面中包括了预设的案例和常见问题，对于新开发人员的学习和使用都是很好的一个入门指南；而 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 的文档资料相对较少，并且需要对字符串变量的含义及配置有一定的理解。
+4.  学习和文档：Bootstrap 的学习曲线更加缓和，而且文档资料非常丰富，文档页面中包括了预设的案例和常见问题，对于新开发人员的学习和使用都是很好的一个入门指南；而 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 的文档资料相对较少，并且需要对字符串变量的含义及配置有一定的理解。
 5.  适应人群：Bootstrap 作为老牌 UI 框架，不仅适用于前端开发者，而且更为后台开发工程师所使用；Tailwind CSS 则主要面向专业前端开发者，需要较为前沿开发经验。
 
 总之，Bootstrap 官方网站提供了一站式服务，包括积极地更新文档、提供有用的模板和示例和方便的下载和集成选项。这样，新用户可以快速的上手 Bootstrap，并立即获取关于网站设计和样式的灵感。如果您对 Bootstrap 感兴趣，可移步至 [Github 开源仓库](https://github.com/twbs/bootstrap) ，以了解更多。
 
-── 出自[倾城之链 - Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://nicelinks.site/post/64354a42bde7286cc29df2b7)
+── 出自[倾城之链 - Bootstrap · The most popular HTML, CSS, and JS library in the world.BootstrapGitHubTwitterOpen CollectiveBootstrap](https://site.lovejade.cn/post/64354a42bde7286cc29df2b7)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

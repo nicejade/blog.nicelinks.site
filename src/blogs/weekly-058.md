@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Open Broadcaster Software | OBS](https://nicelinks.site/post/623c7c48006c7408774a7c0e)
+## [Open Broadcaster Software | OBS](https://site.lovejade.cn/post/623c7c48006c7408774a7c0e)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`软件`](https://nicelinks.site/tags/软件) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`软件`](https://site.lovejade.cn/tags/软件) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：OBS, OBS Studio, Stream, Video, Live Streaming, Recording, Games, Twitch, YouTube, Livestream, Open Broadcaster Software
 
@@ -23,11 +23,11 @@
 
 值得一提的是，OBS Studio 配备了强大的 API，使插件和脚本能够根据您的需求提供进一步的定制和功能。利用本地插件进行高性能集成或使用 Lua 或 Python 编写的与现有源交互的脚本。与流媒体社区的开发人员合作，以无限可能获得您需要的功能。无论您是初级入门，还是专业视频创作人员，都能较为轻松的基于 [OBS Studio](https://obsproject.com/) 录制精彩视频。
 
-── 出自[倾城之链 - Open Broadcaster Software | OBS](https://nicelinks.site/post/623c7c48006c7408774a7c0e)
+── 出自[倾城之链 - Open Broadcaster Software | OBS](https://site.lovejade.cn/post/623c7c48006c7408774a7c0e)
 
-## [道德经网--老子道德经全文及译文](https://nicelinks.site/post/623b2fc2006c7408774a7c0b)
+## [道德经网--老子道德经全文及译文](https://site.lovejade.cn/post/623b2fc2006c7408774a7c0b)
 
-**标签**：[`人文`](https://nicelinks.site/tags/人文) · [`阅读`](https://nicelinks.site/tags/阅读) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`人文`](https://site.lovejade.cn/tags/人文) · [`阅读`](https://site.lovejade.cn/tags/阅读) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：道德经, 老子, 道德经全文, 道德经译文
 
@@ -45,11 +45,11 @@
 
 《道德经》并不像一般人所理解的那样，是一部论述「道德」的著作。事实上，道德二字，各有不同的概念。《道德经》，前三十七章讲道，后四十四章言德，简单说来，道是体，德是用，二者不能等同。
 
-── 出自[倾城之链 - 道德经网--老子道德经全文及译文](https://nicelinks.site/post/623b2fc2006c7408774a7c0b)
+── 出自[倾城之链 - 道德经网--老子道德经全文及译文](https://site.lovejade.cn/post/623b2fc2006c7408774a7c0b)
 
-## [AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://nicelinks.site/post/623b2921006c7408774a7c09)
+## [AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://site.lovejade.cn/post/623b2921006c7408774a7c09)
 
-**标签**：[`AMP`](https://nicelinks.site/tags/AMP) · [`营销`](https://nicelinks.site/tags/营销) · [`邮件`](https://nicelinks.site/tags/邮件)
+**标签**：[`AMP`](https://site.lovejade.cn/tags/AMP) · [`营销`](https://site.lovejade.cn/tags/营销) · [`邮件`](https://site.lovejade.cn/tags/邮件)
 
 > Test drive AMP Emails without any code, and set up and send your first AMP email today. Get access to AMP Email industry updates, community, and more.
 
@@ -79,11 +79,11 @@
 
 如果，您想了解更多关于 AMP mails，诸如：“哪些电子邮件客户端支持 AMP 电子邮件？“、“AMP 电子邮件是否有任何限制？“、“如何开始使用 AMP 电子邮件“、“AMP 电子邮件与 HTML 电子邮件的区别“等等，可以前往 [AMP mails 常问问题](https://www.ampmails.com/)说明。
 
-── 出自[倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://nicelinks.site/post/623b2921006c7408774a7c09)
+── 出自[倾城之链 - AMP mails - Latest Templates, Use Cases, Expert Insights, Community & Best Practices](https://site.lovejade.cn/post/623b2921006c7408774a7c09)
 
-## [Application Monitoring and Error Tracking Software | Sentry](https://nicelinks.site/post/62374518006c7408774a7c06)
+## [Application Monitoring and Error Tracking Software | Sentry](https://site.lovejade.cn/post/62374518006c7408774a7c06)
 
-**标签**：[`软件`](https://nicelinks.site/tags/软件) · [`程序`](https://nicelinks.site/tags/程序) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`软件`](https://site.lovejade.cn/tags/软件) · [`程序`](https://site.lovejade.cn/tags/程序) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Self-hosted and cloud-based application monitoring that helps software teams see clearer, solve quicker, & learn continuously.
 
@@ -99,15 +99,15 @@ Sentry 支持自动收集和手动收集两种错误收集方法，我们能成�
 
 Sentry 最初是一个开源项目。其创始人的目标很简单：用一种简单的方法，来解决他们自己的错误，从而解决他们自己的问题。十年后，他们的两人激情项目成为世界领先的错误跟踪平台，在全球三个办事处拥有 130 名员工。
 
-[Sentry](https://www.swift.org/)，有非常多的客户，诸如 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911)、reddit、vmware 等等；在国内，Sentry 也是最负盛名的错误监控服务，像前公司 [DJI ｜ 大疆](https://nicelinks.site/post/59ba81e73df6765c75b77913)等采用它来统计错误。笔者所维护的[倾城之链](https://nicelinks.site/post/5aa2579e56ee0d60651820c5)、[曼妙句子](https://nicelinks.site/post/6143390948b293062990b351)等 Web 应用，也都是使用 Sentry 来监控错误；这相当于给予我了一双`千里眼`，感谢 Sentry。
+[Sentry](https://www.swift.org/)，有非常多的客户，诸如 [Github](https://site.lovejade.cn/post/59ba80d93df6765c75b77911)、reddit、vmware 等等；在国内，Sentry 也是最负盛名的错误监控服务，像前公司 [DJI ｜ 大疆](https://site.lovejade.cn/post/59ba81e73df6765c75b77913)等采用它来统计错误。笔者所维护的[倾城之链](https://site.lovejade.cn/post/5aa2579e56ee0d60651820c5)、[曼妙句子](https://site.lovejade.cn/post/6143390948b293062990b351)等 Web 应用，也都是使用 Sentry 来监控错误；这相当于给予我了一双`千里眼`，感谢 Sentry。
 
 **Sentry**，从错误跟踪，到性能监控，开发人员可以看到真正重要的事情，更快地解决问题，并不断了解他们的应用程序：从前端到后端。通过 Sentry 的性能监控，您可以将性能问题追溯到性能不佳的 api 调用和缓慢的数据库查询。如果您也从事应用开发，相信 Sentry 类似服务，是产品级应用不可或缺的；而这 Sentry 是您最值得选取的服务，没有之一。
 
-── 出自[倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://nicelinks.site/post/62374518006c7408774a7c06)
+── 出自[倾城之链 - Application Monitoring and Error Tracking Software | Sentry](https://site.lovejade.cn/post/62374518006c7408774a7c06)
 
-## [UU 导航 - 学技术，找资源。一网打尽](https://nicelinks.site/post/62372ede006c7408774a7c04)
+## [UU 导航 - 学技术，找资源。一网打尽](https://site.lovejade.cn/post/62372ede006c7408774a7c04)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`网站`](https://nicelinks.site/tags/网站) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`网站`](https://site.lovejade.cn/tags/网站) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 **关键字**：uu 导航, 资源网, QQ 技术导航, 导航天下, 技术导航, 娱乐网, 小刀娱乐网, 爱 Q, QQ 技术, QQ 导航
 
@@ -117,7 +117,7 @@ Sentry 最初是一个开源项目。其创始人的目标很简单：用一种�
 
 **推荐语**：[UU 导航](https://www.daohanguu.com/)，创建于 2021 年 4 月，致力于：为用户提供更简单、更实用、更贴心的导航服务。通过 `UU导航`使您上网更轻松惬意、生活更便捷，是该团队努力的目标。UU 导航对收录内容做了以下分类：资源、活动、论坛、辅助、系统、社区、卡盟、发卡、支付、站长、游戏、CMS、博客、直播、IDC、下载、CDN、黑客、导航、其他。除了导航，该网站还提供了些其他内容，譬如 [UU 影视](https://cms.daohanguu.com/)，播放流畅、无广告，初步体验还可以。
 
-── 出自[倾城之链 - UU 导航 - 学技术，找资源。一网打尽](https://nicelinks.site/post/62372ede006c7408774a7c04)
+── 出自[倾城之链 - UU 导航 - 学技术，找资源。一网打尽](https://site.lovejade.cn/post/62372ede006c7408774a7c04)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

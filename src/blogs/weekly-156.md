@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Danswer - Open Source Workplace Search](https://nicelinks.site/post/65c4a7018950812ce693602e)
+## [Danswer - Open Source Workplace Search](https://site.lovejade.cn/post/65c4a7018950812ce693602e)
 
-**标签**：[`检索`](https://nicelinks.site/tags/检索) · [`AI`](https://nicelinks.site/tags/AI) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`检索`](https://site.lovejade.cn/tags/检索) · [`AI`](https://site.lovejade.cn/tags/AI) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Danswer - Open Source Workplace Search
 
 ![倾城之链 - Danswer - Open Source Workplace Search](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.danswer.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Danswer](https://www.danswer.ai/) ，开源、 [人工智能](https://nicelinks.site/tags/AI) 驱动的搜索引擎，涵盖公司的 [文档](https://nicelinks.site/tags/文档) 、应用程序和人员，帮您更快地找到您需要的信息；Danswer 允许您以自然语言提问并根据您团队的特定文档获取答案。如果 ChatGPT 能够访问您团队的独特知识，请考虑一下；Danswer 支持连接到所有常见的工作场所工具，例如 Slack、Google Drive、Confluence 等。
+**推荐语**：[Danswer](https://www.danswer.ai/) ，开源、 [人工智能](https://site.lovejade.cn/tags/AI) 驱动的搜索引擎，涵盖公司的 [文档](https://site.lovejade.cn/tags/文档) 、应用程序和人员，帮您更快地找到您需要的信息；Danswer 允许您以自然语言提问并根据您团队的特定文档获取答案。如果 ChatGPT 能够访问您团队的独特知识，请考虑一下；Danswer 支持连接到所有常见的工作场所工具，例如 Slack、Google Drive、Confluence 等。
 
 ### ✨ Danswer 功能价值
 
@@ -42,17 +42,17 @@
 
 总之，[Danswer](https://www.danswer.ai/) 是跨所有工作场所工具的开源统一搜索；即将推出：组织理解和主题专家推荐、个性化搜索、代码搜索、结构化查询语言，如 SQL、Excel 公式等；值得一提的是，Danswer 可以轻松地在本地运行（甚至在笔记本电脑上）或使用单个  `docker compose` 命令部署在虚拟机上。如果您对其感兴趣，可移步至 [Danswer 在 Github 上的开源仓库](https://github.com/danswer-ai/danswer) ，从而了解更多。
 
-── 出自[倾城之链 - Danswer - Open Source Workplace Search](https://nicelinks.site/post/65c4a7018950812ce693602e)
+── 出自[倾城之链 - Danswer - Open Source Workplace Search](https://site.lovejade.cn/post/65c4a7018950812ce693602e)
 
-## [Upscayl - AI Image Upscaler](https://nicelinks.site/post/65c48f7b8950812ce6935fa8)
+## [Upscayl - AI Image Upscaler](https://site.lovejade.cn/post/65c48f7b8950812ce6935fa8)
 
-**标签**：[`图像优化`](https://nicelinks.site/tags/图像优化) · [`AI`](https://nicelinks.site/tags/AI) · [`跨平台`](https://nicelinks.site/tags/跨平台)
+**标签**：[`图像优化`](https://site.lovejade.cn/tags/图像优化) · [`AI`](https://site.lovejade.cn/tags/AI) · [`跨平台`](https://site.lovejade.cn/tags/跨平台)
 
 > Upscayl - Free and Open Source AI Image Upscaler
 
 ![倾城之链 - Upscayl - AI Image Upscaler](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.upscayl.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Upscayl](https://www.upscayl.org/) 是一个基于 [人工智能](https://nicelinks.site/tags/AI) 的图像放大（Upscaler）工具，它使用深度学习技术来提高图像的分辨率，同时保持或甚至提升图像的质量。这个项目的目标是通过先进的算法，使得图像在放大过程中细节得到保留，减少模糊和像素化。
+**推荐语**：[Upscayl](https://www.upscayl.org/) 是一个基于 [人工智能](https://site.lovejade.cn/tags/AI) 的图像放大（Upscaler）工具，它使用深度学习技术来提高图像的分辨率，同时保持或甚至提升图像的质量。这个项目的目标是通过先进的算法，使得图像在放大过程中细节得到保留，减少模糊和像素化。
 
 ### **功能特征**
 
@@ -74,19 +74,19 @@
 3.  **游戏和动画**：游戏开发者和动画制作者可以使用 Upscayl 来优化他们的游戏资产和动画帧，提高视觉质量。
 4.  **网页设计**：网页设计师可以确保他们的图像在不同分辨率的屏幕上都能保持清晰，提升用户体验。
 
-总之，Upscayl 适用于 Linux、MacOS 和 Windows 的免费开源 [AI 图像放大器](https://nicelinks.site/tags/图像优化) ；让您使用先进的 AI 算法放大和增强低分辨率图像。放大图像而不损失质量。这几乎就像魔法一样 🎩🪄。该项目在 [Github 仓库开源](https://github.com/upscayl/upscayl) ，如果您对其感兴趣，可移步前往从而了解更多。
+总之，Upscayl 适用于 Linux、MacOS 和 Windows 的免费开源 [AI 图像放大器](https://site.lovejade.cn/tags/图像优化) ；让您使用先进的 AI 算法放大和增强低分辨率图像。放大图像而不损失质量。这几乎就像魔法一样 🎩🪄。该项目在 [Github 仓库开源](https://github.com/upscayl/upscayl) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Upscayl - AI Image Upscaler](https://nicelinks.site/post/65c48f7b8950812ce6935fa8)
+── 出自[倾城之链 - Upscayl - AI Image Upscaler](https://site.lovejade.cn/post/65c48f7b8950812ce6935fa8)
 
-## [MightyMeld for Tailwind CSS and React](https://nicelinks.site/post/65c2285d8950812ce69354ec)
+## [MightyMeld for Tailwind CSS and React](https://site.lovejade.cn/post/65c2285d8950812ce69354ec)
 
-**标签**：[`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`React`](https://nicelinks.site/tags/React) · [`程序库`](https://nicelinks.site/tags/程序库)
+**标签**：[`Tailwind`](https://site.lovejade.cn/tags/Tailwind) · [`React`](https://site.lovejade.cn/tags/React) · [`程序库`](https://site.lovejade.cn/tags/程序库)
 
 > MightyMeld - Visual Dev Tool for React
 
 ![倾城之链 - MightyMeld for Tailwind CSS and React](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tailwindstudio.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MightyMeld Tailwind Studio](https://www.tailwindstudio.io/) ：一款超越典型 [Tailwind](https://nicelinks.site/tags/Tailwind) 编辑器的产品。研发团队为希望构建更多、更快、同时仍拥有完全控制权的前端开发人员构建了 Tailwind Studio。 Tailwind Studio 使用生成式 AI 和尖端的 MightyMeld 技术，深入研究您的代码。它基本上是编码。但它感觉就像一个应用程序构建器。如果您正在摸不着头脑并想知道这怎么可能，那么您并不孤单。 MightyMeld 是一项全新的技术，旨在改变全球前端开发者的游戏规则 🤯 💪。
+**推荐语**：[MightyMeld Tailwind Studio](https://www.tailwindstudio.io/) ：一款超越典型 [Tailwind](https://site.lovejade.cn/tags/Tailwind) 编辑器的产品。研发团队为希望构建更多、更快、同时仍拥有完全控制权的前端开发人员构建了 Tailwind Studio。 Tailwind Studio 使用生成式 AI 和尖端的 MightyMeld 技术，深入研究您的代码。它基本上是编码。但它感觉就像一个应用程序构建器。如果您正在摸不着头脑并想知道这怎么可能，那么您并不孤单。 MightyMeld 是一项全新的技术，旨在改变全球前端开发者的游戏规则 🤯 💪。
 
 MightyMeld Tailwind Studio 它的工作原理如下：
 
@@ -94,21 +94,21 @@ MightyMeld Tailwind Studio 它的工作原理如下：
 2.  🌐 运行 `npx mightymeld` 以启动 MightyMeld Tailwind Studio。您将在全新的基于浏览器的开发工具中看到您的应用程序。
 3.  ✈️ 拖放、点击并提示更新您的应用程序。更新 Tailwind 样式、JSX 等！ ❤️‍🔥😍 令人惊讶的是，您的代码更新与手动输入所有内容完全一样。❤️‍🔥😍 将 Tailwind Studio 想象成一种增强型 Chrome 开发工具。一切都与 VS Code 或您选择的 IDE 紧密集成。你看到的不是 DOM，而是你的实际代码。探索您的应用程序的速度超快，并且当您调整样式时，您的代码会立即更新。
 
-除此之外，MightyMeld 还有大量的 [人工智能](https://nicelinks.site/tags/AI) 来补充您的视觉工作流程。只需单击应用程序中的某些内容，要求 AI 进行更新，您就会看到 Tailwind 的即时更新。 🧑‍🎨 使用他们称为“预制件”的可定制构建块更快地构建。将预制件拖到您的项目中，瞧它会出现在您的代码库中，并根据需要设置所有导入。🧩 Tailwind Studio 具有组件感知能力。更新现有组件，创建新组件，并将它们拖到您的应用程序中以构建新的 UI。
+除此之外，MightyMeld 还有大量的 [人工智能](https://site.lovejade.cn/tags/AI) 来补充您的视觉工作流程。只需单击应用程序中的某些内容，要求 AI 进行更新，您就会看到 Tailwind 的即时更新。 🧑‍🎨 使用他们称为“预制件”的可定制构建块更快地构建。将预制件拖到您的项目中，瞧它会出现在您的代码库中，并根据需要设置所有导入。🧩 Tailwind Studio 具有组件感知能力。更新现有组件，创建新组件，并将它们拖到您的应用程序中以构建新的 UI。
 
-总之，MightyMeld 是一款具有 AI 、Tailwind 加持的利器，它加载您的 Tailwind 代码，并使用酷炫的预制套件、自动完成和实际上有用的 AI 直观地构建您的应用程序，在实际上可视化的工作室中体验 Tailwind 的所有优点，不仅可以读取您的代码，还可以注入干净的代码。目前仅适配 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、未来将会支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Svelte 以及其他主流框架。如果您对这款工具感兴趣，不妨移步官网从而了解更多。
+总之，MightyMeld 是一款具有 AI 、Tailwind 加持的利器，它加载您的 Tailwind 代码，并使用酷炫的预制套件、自动完成和实际上有用的 AI 直观地构建您的应用程序，在实际上可视化的工作室中体验 Tailwind 的所有优点，不仅可以读取您的代码，还可以注入干净的代码。目前仅适配 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 、未来将会支持 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、Svelte 以及其他主流框架。如果您对这款工具感兴趣，不妨移步官网从而了解更多。
 
-── 出自[倾城之链 - MightyMeld for Tailwind CSS and React](https://nicelinks.site/post/65c2285d8950812ce69354ec)
+── 出自[倾城之链 - MightyMeld for Tailwind CSS and React](https://site.lovejade.cn/post/65c2285d8950812ce69354ec)
 
-## [stdlib - A standard library for JavaScript and Node.js](https://nicelinks.site/post/65c197db8950812ce69350d8)
+## [stdlib - A standard library for JavaScript and Node.js](https://site.lovejade.cn/post/65c197db8950812ce69350d8)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`程序库`](https://nicelinks.site/tags/程序库)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`NodeJS`](https://site.lovejade.cn/tags/NodeJS) · [`程序库`](https://site.lovejade.cn/tags/程序库)
 
 > stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing.
 
 ![倾城之链 - stdlib - A standard library for JavaScript and Node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/stdlib.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[stdlib](https://stdlib.io/) 是一个 [开源](https://nicelinks.site/tags/开源) 的 JavaScript 标准库项目，旨在提供一组通用的功能和工具，以帮助 [JavaScript](https://nicelinks.site/tags/JavaScript) 开发者更轻松地执行常见任务和操作。stdlib 通过提供丰富的函数和模块，为开发人员解决了许多日常编程任务，包括数据处理、数学计算、字符串操作、时间处理等。
+**推荐语**：[stdlib](https://stdlib.io/) 是一个 [开源](https://site.lovejade.cn/tags/开源) 的 JavaScript 标准库项目，旨在提供一组通用的功能和工具，以帮助 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 开发者更轻松地执行常见任务和操作。stdlib 通过提供丰富的函数和模块，为开发人员解决了许多日常编程任务，包括数据处理、数学计算、字符串操作、时间处理等。
 
 ### 功能特征
 
@@ -129,17 +129,17 @@ stdlib 团队相信未来网络将成为数值计算的首选环境。为了帮�
 
 stdlib 的独特之处在于其完全可分解的架构，允许您更换、混合和匹配 API 和功能，以满足您的确切偏好和用例。当您使用 stdlib 时，您可以绝对确定您正在使用最彻底、最严格、编写良好、经过研究、记录、测试、测量和高质量的代码（截止 2024 年 02 月 06 日，虽然版本只是 `0.2.0`，但已提交近 5 万笔）。如果您对这款工具库感兴趣，不妨移步至 [stdlib 在 Github 开源仓库](https://github.com/stdlib-js/stdlib) ，从而了解更多。
 
-── 出自[倾城之链 - stdlib - A standard library for JavaScript and Node.js](https://nicelinks.site/post/65c197db8950812ce69350d8)
+── 出自[倾城之链 - stdlib - A standard library for JavaScript and Node.js](https://site.lovejade.cn/post/65c197db8950812ce69350d8)
 
-## [Goodreads | Meet your next favorite book](https://nicelinks.site/post/65c0db1c8950812ce6934dc9)
+## [Goodreads | Meet your next favorite book](https://site.lovejade.cn/post/65c0db1c8950812ce6934dc9)
 
-**标签**：[`阅读`](https://nicelinks.site/tags/阅读) · [`平台`](https://nicelinks.site/tags/平台) · [`社交`](https://nicelinks.site/tags/社交)
+**标签**：[`阅读`](https://site.lovejade.cn/tags/阅读) · [`平台`](https://site.lovejade.cn/tags/平台) · [`社交`](https://site.lovejade.cn/tags/社交)
 
 > Discover and share books you love on Goodreads, the world's largest site for readers and book recommendations!
 
 ![倾城之链 - Goodreads | Meet your next favorite book](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.goodreads.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Goodreads](https://www.goodreads.com/) 是一个面向读者的 [社交](https://nicelinks.site/tags/社交) 网络平台，用户可以在上面发现、跟踪和评论自己喜欢的书籍。这个平台允许用户创建自己的个人阅读清单，记录已经阅读过的书籍，并且通过标注和评论与其他读者交流。Goodreads 也提供了一系列的推荐系统，帮助用户发现新书籍并建立书籍推荐网络。
+**推荐语**：[Goodreads](https://www.goodreads.com/) 是一个面向读者的 [社交](https://site.lovejade.cn/tags/社交) 网络平台，用户可以在上面发现、跟踪和评论自己喜欢的书籍。这个平台允许用户创建自己的个人阅读清单，记录已经阅读过的书籍，并且通过标注和评论与其他读者交流。Goodreads 也提供了一系列的推荐系统，帮助用户发现新书籍并建立书籍推荐网络。
 
 **Goodreads 带来的价值主要有**：
 
@@ -149,17 +149,17 @@ stdlib 的独特之处在于其完全可分解的架构，允许您更换、混�
 
 相比其他产品，Goodreads 的优势在于**其庞大的图书库和积极的读者社区**，为用户提供了更广泛的书籍选择和更丰富的社交互动体验。此外，Goodreads 还提供了移动应用，使用户能够随时随地访问自己的阅读列表和社交圈子。
 
-── 出自[倾城之链 - Goodreads | Meet your next favorite book](https://nicelinks.site/post/65c0db1c8950812ce6934dc9)
+── 出自[倾城之链 - Goodreads | Meet your next favorite book](https://site.lovejade.cn/post/65c0db1c8950812ce6934dc9)
 
-## [Earthly - Make Builds Super Simple](https://nicelinks.site/post/65c0931f8950812ce6934b7b)
+## [Earthly - Make Builds Super Simple](https://site.lovejade.cn/post/65c0931f8950812ce6934b7b)
 
-**标签**：[`CICD`](https://nicelinks.site/tags/CICD) · [`框架`](https://nicelinks.site/tags/框架) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`CICD`](https://site.lovejade.cn/tags/CICD) · [`框架`](https://site.lovejade.cn/tags/框架) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Fast, consistent builds with an instantly familiar syntax – like Dockerfile and Makefile had a baby. Write builds once, and run them anywhere – on your laptop, remote, and in any CI. Great for monorepos and polyrepos. Open source, 9000+ stars.
 
 ![倾城之链 - Earthly - Make Builds Super Simple](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/earthly.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Earthly](https://earthly.dev/) 是一个多功能、平易近人的 [CI/CD](https://nicelinks.site/tags/CICD) 框架，它在容器内运行每个管道，为您提供一次编写、随处运行的可重复构建。它具有超级简单、可立即识别的语法，易于编写和理解——就像 Dockerfile 和 Makefile 一样。它利用和增强了流行的构建工具，而不是取代它们，因此无论您使用什么语言，您都不必重写所有构建。
+**推荐语**：[Earthly](https://earthly.dev/) 是一个多功能、平易近人的 [CI/CD](https://site.lovejade.cn/tags/CICD) 框架，它在容器内运行每个管道，为您提供一次编写、随处运行的可重复构建。它具有超级简单、可立即识别的语法，易于编写和理解——就像 Dockerfile 和 Makefile 一样。它利用和增强了流行的构建工具，而不是取代它们，因此无论您使用什么语言，您都不必重写所有构建。
 
 ### 为什么要使用 Earthly?
 
@@ -196,7 +196,7 @@ Earthly 自动并行执行构建目标并最大限度地利用缓存。这使得
 
 ### Earthly 适合哪些场景？
 
-Earthly 适合在您的开发机器和 CI 中使用。它运行在 CI/CD 平台（例如 Jenkins、Circle CI、GitHub Actions 和 `GitLab CI/CD` ）之上。无论运行在何处，Earthly 都提供现代构建自动化系统的优势，例如缓存和并行性。它是特定于语言的构建工具（如 maven、gradle、 [npm](https://nicelinks.site/tags/npm) 、pip、go build）和 CI 之间的粘合层，就像构建工具和构建逻辑的包装器一样，将构建执行与其运行的环境隔离。
+Earthly 适合在您的开发机器和 CI 中使用。它运行在 CI/CD 平台（例如 Jenkins、Circle CI、GitHub Actions 和 `GitLab CI/CD` ）之上。无论运行在何处，Earthly 都提供现代构建自动化系统的优势，例如缓存和并行性。它是特定于语言的构建工具（如 maven、gradle、 [npm](https://site.lovejade.cn/tags/npm) 、pip、go build）和 CI 之间的粘合层，就像构建工具和构建逻辑的包装器一样，将构建执行与其运行的环境隔离。
 
 ### Earthly 是如何工作的？
 
@@ -206,7 +206,7 @@ Earthly 研发团队使用基于目标的系统来帮助用户将复杂的构建
 
 总之， [Earthly](https://earthly.dev/) 是一款超级简单的构建框架，具有快速、可重复的构建和立即熟悉的语法：就像 Dockerfile 和 Makefile 一样。它超级简单、速度超快、兼容性强、可重用性高，**非常适合 Monorepos 和 Polyrepos**（组织您的构建逻辑），如果您对其感兴趣，可移步至 [Earthly 在 Github 的开源仓库](https://github.com/earthly/earthly) 从而了解更多。
 
-── 出自[倾城之链 - Earthly - Make Builds Super Simple](https://nicelinks.site/post/65c0931f8950812ce6934b7b)
+── 出自[倾城之链 - Earthly - Make Builds Super Simple](https://site.lovejade.cn/post/65c0931f8950812ce6934b7b)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

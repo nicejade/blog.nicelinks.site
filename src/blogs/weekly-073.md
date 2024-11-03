@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Qwik | The HTML-first framework](https://nicelinks.site/post/62c6da01ac177b7aff5e1a6a)
+## [Qwik | The HTML-first framework](https://site.lovejade.cn/post/62c6da01ac177b7aff5e1a6a)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Qwik is Framework reimagined for the edge
 
@@ -38,15 +38,15 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 > [Qwik](https://qwik.builder.io/) ， 由 Builder.io 的工程师、谷歌的前 Angular 创造者 Misko、Stencil 和 Ionic 的创造者 Adam 和 Manu 构建。他们的使命是使用 Qwik、Partytown 和 Builder 大规模构建最快的真实网站。
 
-除此之外，Qwik 还有其他特点，诸如：使用 Vite 即时开发、随时可用的大型工具生态系统、  内置可扩展样式（PostCSS）、  调试 SSR、浏览器、预渲染等等。值得一提的是它独树一帜的理念，与 SSR（服务端渲染）、SSG（静态页面生成）、 [AMP](https://nicelinks.site/post/5f75ea02cda9de27bd93a919) 等方案有所区别，Qwik 的目标是：干掉所有不必要的 `JS` 耗时（静态资源加载的耗时、以及 `JS` 运行时的耗时），从而快速实现网页可交互。如果说传统 `SSR` 的粒度是「整个页面」，那么 Qwik 的粒度是「组件中的某个方法」，这就导致在交互时再请求额外 JS。当然，Qwik 允许你指定「那些可能是用户大概率会操作的组件」，些组件逻辑对应 `JS` 代码会 `prefetch`，在不影响首屏渲染的前提下被预请求。
+除此之外，Qwik 还有其他特点，诸如：使用 Vite 即时开发、随时可用的大型工具生态系统、  内置可扩展样式（PostCSS）、  调试 SSR、浏览器、预渲染等等。值得一提的是它独树一帜的理念，与 SSR（服务端渲染）、SSG（静态页面生成）、 [AMP](https://site.lovejade.cn/post/5f75ea02cda9de27bd93a919) 等方案有所区别，Qwik 的目标是：干掉所有不必要的 `JS` 耗时（静态资源加载的耗时、以及 `JS` 运行时的耗时），从而快速实现网页可交互。如果说传统 `SSR` 的粒度是「整个页面」，那么 Qwik 的粒度是「组件中的某个方法」，这就导致在交互时再请求额外 JS。当然，Qwik 允许你指定「那些可能是用户大概率会操作的组件」，些组件逻辑对应 `JS` 代码会 `prefetch`，在不影响首屏渲染的前提下被预请求。
 
 总结下：Qwik 的卖点是：将 JS 代码的拆分从常见的「**编译时**」（比如 Webpack 分块）、「运行时」（比如 dynamic import），变为「**交互时**」。对 JS 代码的极致拆分，只为达到一个目的—— 在首屏渲染时，移除你项目中 99% 的 JS 代码。感兴趣的朋友，不妨深入了解学习下。
 
-── 出自[倾城之链 - Qwik | The HTML-first framework](https://nicelinks.site/post/62c6da01ac177b7aff5e1a6a)
+── 出自[倾城之链 - Qwik | The HTML-first framework](https://site.lovejade.cn/post/62c6da01ac177b7aff5e1a6a)
 
-## [麻花视频-2022 全网免费热门电影大全高分电视剧全集在线观看](https://nicelinks.site/post/62c6cea1ac177b7aff5e1a68)
+## [麻花视频-2022 全网免费热门电影大全高分电视剧全集在线观看](https://site.lovejade.cn/post/62c6cea1ac177b7aff5e1a68)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`娱乐`](https://nicelinks.site/tags/娱乐) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`娱乐`](https://site.lovejade.cn/tags/娱乐) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：麻花视频, 热门电影, 热门电视剧, 麻花视频, 最新电影, 平民影院
 
@@ -83,23 +83,23 @@ Qwik 对服务器和客户端代码都有一个一致的思维模型。同一个
 
 值得一提的是， [麻花视频](https://www.mhyyy.com/) 提供 APP 客户端级的移动端体验，实际基于手机或微信体验，有被提示打开存在安全风险；感兴趣的朋友，可了解下。
 
-── 出自[倾城之链 - 麻花视频-2022 全网免费热门电影大全高分电视剧全集在线观看](https://nicelinks.site/post/62c6cea1ac177b7aff5e1a68)
+── 出自[倾城之链 - 麻花视频-2022 全网免费热门电影大全高分电视剧全集在线观看](https://site.lovejade.cn/post/62c6cea1ac177b7aff5e1a68)
 
-## [茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://nicelinks.site/post/62c66dc9ac177b7aff5e1a66)
+## [茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://site.lovejade.cn/post/62c66dc9ac177b7aff5e1a66)
 
-**标签**：[`电影`](https://nicelinks.site/tags/电影) · [`分享`](https://nicelinks.site/tags/分享) · [`娱乐`](https://nicelinks.site/tags/娱乐)
+**标签**：[`电影`](https://site.lovejade.cn/tags/电影) · [`分享`](https://site.lovejade.cn/tags/分享) · [`娱乐`](https://site.lovejade.cn/tags/娱乐)
 
 > 综合影视搜索引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站。
 
 ![倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.aisobb.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[茶杯虎](https://www.aisobb.com/) ，是目前使用影视搜索第二代引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，与影视搜索届大哥[茶杯狐](https://nicelinks.site/post/60311ec06eaf2a7660805af4)不同的是，增加了**影视评论**，以及剧情详细介绍，未来会增加影视「分集剧情」，让电影搜索类更高效、更便捷、更精准！
+**推荐语**：[茶杯虎](https://www.aisobb.com/) ，是目前使用影视搜索第二代引擎，通过电影名、演员、导演、电视剧、动漫等关键词进行搜索，直达电影资源站，与影视搜索届大哥[茶杯狐](https://site.lovejade.cn/post/60311ec06eaf2a7660805af4)不同的是，增加了**影视评论**，以及剧情详细介绍，未来会增加影视「分集剧情」，让电影搜索类更高效、更便捷、更精准！
 
-── 出自[倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://nicelinks.site/post/62c66dc9ac177b7aff5e1a66)
+── 出自[倾城之链 - 茶杯虎 - 第二代影视综合搜索引擎-茶杯狐](https://site.lovejade.cn/post/62c66dc9ac177b7aff5e1a66)
 
-## [Powerful, online SVG editor for teams](https://nicelinks.site/post/62c5a36da33208743e33be26)
+## [Powerful, online SVG editor for teams](https://site.lovejade.cn/post/62c5a36da33208743e33be26)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Vecta is a real time, collaborative SVG editor with a powerful Javascript based plugin system, for teams. Easily extend and automate, or create flowcharts, UML, network, isometric and web diagrams with thousands of included symbols. Export to multiple formats and resolution, including PNG, JPG and minified SVG that is very small in size and renders beautifully on all devices.
 
@@ -137,17 +137,17 @@ Vecta 具有多种单位、缩放和测量工具，可让您以像素、毫米�
 
 除此之外，Vecta 支持广泛的协作工具，使您能够与队友更好地沟通和工作。您可以创建一个帐户，并使用简单的图表启动您的项目。在 Vecta 上与您的团队轻松绘图、共享和协作。
 
-── 出自[倾城之链 - Powerful, online SVG editor for teams](https://nicelinks.site/post/62c5a36da33208743e33be26)
+── 出自[倾城之链 - Powerful, online SVG editor for teams](https://site.lovejade.cn/post/62c5a36da33208743e33be26)
 
-## [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://nicelinks.site/post/62c3096390375e5be8bc9d46)
+## [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://site.lovejade.cn/post/62c3096390375e5be8bc9d46)
 
-**标签**：[`Github`](https://nicelinks.site/tags/Github) · [`开源`](https://nicelinks.site/tags/开源) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`Github`](https://site.lovejade.cn/tags/Github) · [`开源`](https://site.lovejade.cn/tags/开源) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > 分享 GitHub 入门级、有趣的开源项目。推广自己的开源项目、编程实践项目、适合练手的开源项目、HelloGitHub 月刊
 
 ![倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hellogithub.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [HelloGitHub](https://hellogithub.com/) ，旨在分享 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) 入门级、有趣的开源项目。您可以在这里，推广自己的**开源**项目、编程实践项目、适合练手的开源项目，作者会将汇聚其中部分，融汇为 HelloGitHub 月刊，每月 28 号发布最新一期。
+**推荐语**： [HelloGitHub](https://hellogithub.com/) ，旨在分享 [GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 入门级、有趣的开源项目。您可以在这里，推广自己的**开源**项目、编程实践项目、适合练手的开源项目，作者会将汇聚其中部分，融汇为 HelloGitHub 月刊，每月 28 号发布最新一期。
 
 ### HelloGitHub 是什么？
 
@@ -163,9 +163,9 @@ Vecta 具有多种单位、缩放和测量工具，可让您以像素、毫米�
 
 ### 作者推荐 Github
 
-在 [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911) ，你能做的不只是**编程**：会编程的可以贡献代码，不会编程的朋友，可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 仓库、阅读观点、探讨问题。注册个 GitHub 帐号，加入开源社区，即可开启这段奇妙旅程。
+在 [GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) ，你能做的不只是**编程**：会编程的可以贡献代码，不会编程的朋友，可以反馈使用这些工具中的 Bug、帮着宣传你觉得优秀的项目、Star 仓库、阅读观点、探讨问题。注册个 GitHub 帐号，加入开源社区，即可开启这段奇妙旅程。
 
-── 出自[倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://nicelinks.site/post/62c3096390375e5be8bc9d46)
+── 出自[倾城之链 - HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://site.lovejade.cn/post/62c3096390375e5be8bc9d46)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

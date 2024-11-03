@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [AppFlowy.IO](https://nicelinks.site/post/619e3b54465c2155e2d15882)
+## [AppFlowy.IO](https://site.lovejade.cn/post/619e3b54465c2155e2d15882)
 
-**标签**：[`笔记`](https://nicelinks.site/tags/笔记) · [`任务管理器`](https://nicelinks.site/tags/任务管理器) · [`Notion`](https://nicelinks.site/tags/Notion)
+**标签**：[`笔记`](https://site.lovejade.cn/tags/笔记) · [`任务管理器`](https://site.lovejade.cn/tags/任务管理器) · [`Notion`](https://site.lovejade.cn/tags/Notion)
 
 > AppFlowy is an open source alternative to Notion. You are in charge of your data and customizations.
 
@@ -18,11 +18,11 @@
 
 为什么要建造 [AppFlowy.IO](https://www.appflowy.io/)？官方给出了解释：Notion 一直是他们喜欢的项目和**知识管理工具**，因为它具有美学吸引力和功能性。该团队每天都在使用它，而且正在使用它的付费计划。然而，众所周知，Notion 有其局限性。这些包括弱数据安全性和与移动设备的兼容性差。同样，替代的协作工作场所管理工具也有其局限性。所有这些局限性使得他们的使命成为必要 ── 让任何人都可以创建适合他们需求的应用程序。目前 AppFlowy 已发布 `v0.0.2` 版本，感兴趣的朋友不妨了解下。
 
-── 出自[倾城之链 - AppFlowy.IO](https://nicelinks.site/post/619e3b54465c2155e2d15882)
+── 出自[倾城之链 - AppFlowy.IO](https://site.lovejade.cn/post/619e3b54465c2155e2d15882)
 
-## [Hurl - Run and Test HTTP Requests](https://nicelinks.site/post/619ce835465c2155e2d1587f)
+## [Hurl - Run and Test HTTP Requests](https://site.lovejade.cn/post/619ce835465c2155e2d1587f)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > Hurl, run and test HTTP requests with plain text and curl. Hurl can run fast automated integration tests.
 
@@ -40,7 +40,7 @@
 
 ```bash
 # sample-test.hurl
-GET https://nicelinks.site/api/searchNiceLinks
+GET https://site.lovejade.cn/api/searchNiceLinks
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:70.0) Gecko/20100101 Firefox/70.0
 [QueryStringParams]
 keyword: Git
@@ -48,11 +48,11 @@ keyword: Git
 
 只需在终端运行 `hurl sample-test.hurl`，即可得到结果。如果您对此感兴趣，想更多了解 Hurl 的文件格式或语法、功能，可以参见 [Hurl Doc](https://hurl.dev/docs/hurl-file.html)。
 
-── 出自[倾城之链 - Hurl - Run and Test HTTP Requests](https://nicelinks.site/post/619ce835465c2155e2d1587f)
+── 出自[倾城之链 - Hurl - Run and Test HTTP Requests](https://site.lovejade.cn/post/619ce835465c2155e2d1587f)
 
-## [Zhaoyun.art | 设计之路 | 我的学习笔记](https://nicelinks.site/post/619a366360f6c5569db65f25)
+## [Zhaoyun.art | 设计之路 | 我的学习笔记](https://site.lovejade.cn/post/619a366360f6c5569db65f25)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`个人博客`](https://nicelinks.site/tags/个人博客) · [`设计师`](https://nicelinks.site/tags/设计师)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`个人博客`](https://site.lovejade.cn/tags/个人博客) · [`设计师`](https://site.lovejade.cn/tags/设计师)
 
 **关键字**：设计, 个人博客, 用户体验设计师, UI 设计师
 
@@ -60,13 +60,13 @@ keyword: Git
 
 ![倾城之链 - Zhaoyun.art | 设计之路 | 我的学习笔记](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.zhaoyun.art.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zhaoyun.art](https://www.zhaoyun.art/)，一个用户体验设计师的个人博客（基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 所搭建），用来承载该博主对互联网的一点迷思。知晓该网站的存在，是通过 Google 检索苏轼的那句“江海寄余生“；该网站看起来，特色设计风格、颇具文艺性内容，给我留下很不错的初次印象；抱着好奇心逛了下，发现在深耕**编程**、产品之余，学习些设计（如图像合成、数字绘景、插画等等），也是非常值得倾向的技能方向 🧭；对此感兴趣的朋友们，不妨前往了解一下。
+**推荐语**：[Zhaoyun.art](https://www.zhaoyun.art/)，一个用户体验设计师的个人博客（基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 所搭建），用来承载该博主对互联网的一点迷思。知晓该网站的存在，是通过 Google 检索苏轼的那句“江海寄余生“；该网站看起来，特色设计风格、颇具文艺性内容，给我留下很不错的初次印象；抱着好奇心逛了下，发现在深耕**编程**、产品之余，学习些设计（如图像合成、数字绘景、插画等等），也是非常值得倾向的技能方向 🧭；对此感兴趣的朋友们，不妨前往了解一下。
 
-── 出自[倾城之链 - Zhaoyun.art | 设计之路 | 我的学习笔记](https://nicelinks.site/post/619a366360f6c5569db65f25)
+── 出自[倾城之链 - Zhaoyun.art | 设计之路 | 我的学习笔记](https://site.lovejade.cn/post/619a366360f6c5569db65f25)
 
-## [NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://nicelinks.site/post/6199fe5760f6c5569db65f22)
+## [NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://site.lovejade.cn/post/6199fe5760f6c5569db65f22)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`CSS`](https://nicelinks.site/tags/CSS) · [`Vue`](https://nicelinks.site/tags/Vue)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/组件库) · [`CSS`](https://site.lovejade.cn/tags/CSS) · [`Vue`](https://site.lovejade.cn/tags/Vue)
 
 **关键字**：Vue3 组件库, 移动端组件库, Vite, Vue 组件库, Vue3, Vue2
 
@@ -83,11 +83,11 @@ keyword: Git
 
 此外，一些常规功能，也都具备，诸如：支持按需引用、支持服务端渲染、支持定制主题等等。就个人感知来看，[NutUI](https://nutui.jd.com/) 相较于其他组件库，更加漂亮，可直接作用于对外产品，而不是内部管理后台。倘若，之后还将开发个人独立产品，将会选择 [NutUI](https://nutui.jd.com/) 作为首选**组件库**。
 
-── 出自[倾城之链 - NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://nicelinks.site/post/6199fe5760f6c5569db65f22)
+── 出自[倾城之链 - NutUI - 移动端 Vue2、Vue3、小程序 组件库](https://site.lovejade.cn/post/6199fe5760f6c5569db65f22)
 
-## [飞书多维表格-融合表格和业务系统能力的新一代效率应用](https://nicelinks.site/post/6199f84c60f6c5569db65f20)
+## [飞书多维表格-融合表格和业务系统能力的新一代效率应用](https://site.lovejade.cn/post/6199f84c60f6c5569db65f20)
 
-**标签**：[`应用`](https://nicelinks.site/tags/应用) · [`效率`](https://nicelinks.site/tags/效率) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`应用`](https://site.lovejade.cn/tags/应用) · [`效率`](https://site.lovejade.cn/tags/效率) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：飞书多维表格, 多维表格, bitable, 数据管理, 业务管理系统, 轻量级业务系统, 零代码系统, 表格
 
@@ -123,7 +123,7 @@ keyword: Git
 
 玩转多维表格，让数据动起来，创建属于你的多维效率工具，[飞书多维表格](https://bitable.feishu.cn/)，或可了解一下。
 
-── 出自[倾城之链 - 飞书多维表格-融合表格和业务系统能力的新一代效率应用](https://nicelinks.site/post/6199f84c60f6c5569db65f20)
+── 出自[倾城之链 - 飞书多维表格-融合表格和业务系统能力的新一代效率应用](https://site.lovejade.cn/post/6199f84c60f6c5569db65f20)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

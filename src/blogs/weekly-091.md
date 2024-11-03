@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://nicelinks.site/post/636cee71ee7f3505edab554d)
+## [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://site.lovejade.cn/post/636cee71ee7f3505edab554d)
 
-**标签**：[`3D`](https://nicelinks.site/tags/3D) · [`软件`](https://nicelinks.site/tags/软件) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`3D`](https://site.lovejade.cn/tags/3D) · [`软件`](https://site.lovejade.cn/tags/软件) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > The Freedom to Create
 
@@ -24,17 +24,17 @@ Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏
 
 作为 GNU 通用公共许可证 (GPL)下的社区驱动项目，公众有权对代码库进行大大小小的更改，从而带来新功能、响应式错误修复和更好的可用性。Blender 没有价格标签，但您可以 投资、 参与和帮助推进强大的协作工具：**Blender 是您自己的 3D 软件**。
 
-── 出自[倾城之链 - blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://nicelinks.site/post/636cee71ee7f3505edab554d)
+── 出自[倾城之链 - blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://site.lovejade.cn/post/636cee71ee7f3505edab554d)
 
-## [PicSo-Text To AI Art Maker](https://nicelinks.site/post/636bc30db8db8e6db6203869)
+## [PicSo-Text To AI Art Maker](https://site.lovejade.cn/post/636bc30db8db8e6db6203869)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片) · [`转化`](https://nicelinks.site/tags/转化)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片) · [`转化`](https://site.lovejade.cn/tags/转化)
 
 > PicSo is an AI-powered digital art generator that creates artistically styled images from input text. Enter any text prompt to create pictures in your chosen art style and turn your ideas/text into an AI-generated painting in seconds. Website and APP available.
 
 ![倾城之链 - PicSo-Text To AI Art Maker](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picso.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[PicSo](https://picso.ai/) 是一个人工智能（[AI](https://nicelinks.site/tags/AI)）驱动的数字艺术生成器，可以从输入文本中创建具有艺术风格的图像。输入任何文本提示，以您选择的艺术风格创建图片，并在几秒钟内将您的想法/文本变成 AI 生成的绘画。网站和 APP 可用。
+**推荐语**：[PicSo](https://picso.ai/) 是一个人工智能（[AI](https://site.lovejade.cn/tags/AI)）驱动的数字艺术生成器，可以从输入文本中创建具有艺术风格的图像。输入任何文本提示，以您选择的艺术风格创建图片，并在几秒钟内将您的想法/文本变成 AI 生成的绘画。网站和 APP 可用。
 
 [PicSo Discover](https://picso.ai/discover) 展示了非常多生成的图片，看起来很棒；但真实体验，发现 PicSo 还不够智能；比如以：“Newton and Tesla standing in outer space（牛顿和特斯拉站在外太空）”这句文本去体验，它所生成的图片，虽然是勉强展现出文本的意思，但效果简直“不忍直视”；必须提供足够全的描述，才能得到想要的结果，比如像这样：
 
@@ -42,17 +42,17 @@ Blender 拥有方便在不同工作下使用的多种用户界面，内置绿屏
 
 官方介绍道：“[PicSo](https://picso.ai/) 以毕加索命名，表达了通过这款产品，每个人都可以成为像毕加索一样伟大的艺术家，进行富有创造性和意义的艺术创作。有了这个工具，任何人都可以在几秒钟内创造出独一无二的数字艺术作品，无论他们的预算或项目如何。装饰您的房子，创建 NFT 或动漫角色，或设计您自己的杰作！只需文字提示，PicSo 即可在数秒内生成 AI 数字艺术”。截止 2022 年，类似产品已经有很多，相信未来会日趋向好；感兴趣的朋友不妨体验下（注册即可，有体验次数限制，超过需要付费购买）。
 
-── 出自[倾城之链 - PicSo-Text To AI Art Maker](https://nicelinks.site/post/636bc30db8db8e6db6203869)
+── 出自[倾城之链 - PicSo-Text To AI Art Maker](https://site.lovejade.cn/post/636bc30db8db8e6db6203869)
 
-## [SceneryAI - AI-powered image editing](https://nicelinks.site/post/636a443b68917b7b541fba8f)
+## [SceneryAI - AI-powered image editing](https://site.lovejade.cn/post/636a443b68917b7b541fba8f)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 > Generate or update existing images with our AI image editing tool.
 
 ![倾城之链 - SceneryAI - AI-powered image editing](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sceneryai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SceneryAI](https://sceneryai.com/) ，人工智能驱动（[AI](https://nicelinks.site/tags/AI)）的图像编辑，可以快速生成或更新图像；使用 SceneryAI，您可以在 30 秒内更改照片的**主题**或**风景**。只需上传您的照片并删除您要更新的部分。SceneryAI 是内容营销人员、创作者和数字艺术家在几秒钟内更新他们的照片和创作的完美解决方案。
+**推荐语**：[SceneryAI](https://sceneryai.com/) ，人工智能驱动（[AI](https://site.lovejade.cn/tags/AI)）的图像编辑，可以快速生成或更新图像；使用 SceneryAI，您可以在 30 秒内更改照片的**主题**或**风景**。只需上传您的照片并删除您要更新的部分。SceneryAI 是内容营销人员、创作者和数字艺术家在几秒钟内更新他们的照片和创作的完美解决方案。
 
 SceneryAI 使用非常便捷，只需要以下三步：
 
@@ -62,11 +62,11 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 如果你是一个想跳过 Photoshop 的艺术家、一个需要快速编辑的营销人员、一个想狂欢的摄影师，或者一个想创造超棒食物照片的厨师？可以尝试 SceneryAI ，它免费可用；付费模式支持以最高质量渲染无限图像（19 美元/每月）。
 
-── 出自[倾城之链 - SceneryAI - AI-powered image editing](https://nicelinks.site/post/636a443b68917b7b541fba8f)
+── 出自[倾城之链 - SceneryAI - AI-powered image editing](https://site.lovejade.cn/post/636a443b68917b7b541fba8f)
 
-## [大盘云图 -大盘走势，尽在掌握!【官网】](https://nicelinks.site/post/63668c2ae4cec4128ba691ed)
+## [大盘云图 -大盘走势，尽在掌握!【官网】](https://site.lovejade.cn/post/63668c2ae4cec4128ba691ed)
 
-**标签**：[`资讯`](https://nicelinks.site/tags/资讯) · [`投资`](https://nicelinks.site/tags/投资) · [`可视化`](https://nicelinks.site/tags/可视化)
+**标签**：[`资讯`](https://site.lovejade.cn/tags/资讯) · [`投资`](https://site.lovejade.cn/tags/投资) · [`可视化`](https://site.lovejade.cn/tags/可视化)
 
 **关键字**：大盘云图, 盯盘云图, 大盘全景图, 股市云图, 大盘板块图, 打盘云图, 大盘云图官网, 在线看盘, 大盘云图.com
 
@@ -76,13 +76,13 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 **推荐语**：[大盘云图](https://dapanyuntu.com) ，是一款智能股票盯盘工具网站（基于 React 等框架搭建），颠覆了以往看盘软件一成不变的红涨绿跌，它将所有股票按所属行业进行了板块划分，并以方块形式展示，用红色和绿色的深浅代表涨跌幅度，用颜色的深浅标注个股的异动情况，实现直观的展现，能够使投资者更清晰的感知市场的脉搏，更加贴近市场动向。
 
-它主要是针对中国 A 股市场，为投资者打造的 [可视化](https://nicelinks.site/tags/可) 实时行情功能，是目前市场上先进、直观的图形化看盘工具。适合股票爱好者和专业投资人使用盯盘使用，还可从不同的周期、资金流向、涨跌幅及量比等维度实时查看大盘最新数据。温馨提醒：**股市有风险，投资须谨慎**。
+它主要是针对中国 A 股市场，为投资者打造的 [可视化](https://site.lovejade.cn/tags/可) 实时行情功能，是目前市场上先进、直观的图形化看盘工具。适合股票爱好者和专业投资人使用盯盘使用，还可从不同的周期、资金流向、涨跌幅及量比等维度实时查看大盘最新数据。温馨提醒：**股市有风险，投资须谨慎**。
 
-── 出自[倾城之链 - 大盘云图 -大盘走势，尽在掌握!【官网】](https://nicelinks.site/post/63668c2ae4cec4128ba691ed)
+── 出自[倾城之链 - 大盘云图 -大盘走势，尽在掌握!【官网】](https://site.lovejade.cn/post/63668c2ae4cec4128ba691ed)
 
-## [QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://nicelinks.site/post/63665214e4cec4128ba68f15)
+## [QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://site.lovejade.cn/post/63665214e4cec4128ba68f15)
 
-**标签**：[`阅读`](https://nicelinks.site/tags/阅读) · [`RSS`](https://nicelinks.site/tags/RSS) · [`PWA`](https://nicelinks.site/tags/PWA)
+**标签**：[`阅读`](https://site.lovejade.cn/tags/阅读) · [`RSS`](https://site.lovejade.cn/tags/RSS) · [`PWA`](https://site.lovejade.cn/tags/PWA)
 
 **关键字**：PWA, 阅读器, 在线, Qi Reader, RSS, 全平台, 阅读, 订阅
 
@@ -102,7 +102,7 @@ SceneryAI 使用非常便捷，只需要以下三步：
 
 QiReader 基础版本免费可用，支持  50 订阅源；Pro 版本支持 300 订阅源，一年收费人民币 49 元。有注册、登录使用，整个体验超出预期，简洁实用，尤其是英汉词典，对于订阅英文网站，挺有帮助。酷爱 RSS 阅读的朋友，推荐使用。
 
-── 出自[倾城之链 - QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://nicelinks.site/post/63665214e4cec4128ba68f15)
+── 出自[倾城之链 - QiReader - 基于 PWA 技术的全平台 RSS 在线阅读器](https://site.lovejade.cn/post/63665214e4cec4128ba68f15)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

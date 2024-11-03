@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [AnyWebP - Bulk WebP to JPG/PNG/ICO Online](https://nicelinks.site/post/611cfc2e76454150e67ff3ee)
+## [AnyWebP - Bulk WebP to JPG/PNG/ICO Online](https://site.lovejade.cn/post/611cfc2e76454150e67ff3ee)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`在线`](https://nicelinks.site/tags/在线) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`在线`](https://site.lovejade.cn/tags/在线) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 > AnyWebP, WebP to JPG / PNG / ICO Converter Online. Convert hundreds of WebP images to JPG/JPEG/PNG/ICO, or any other image formats to WebP in just one click !
 
@@ -14,11 +14,11 @@
 
 `WebP`，是谷歌在 2010 年推出的一种作为一种新的图像文件格式，就像 JPEG 一样，WebP 是一种有损压缩格式，但在相同质量下比 JPEG 格式具有更好的性能和压缩效率。这非常重要，因为如果您将所有图像以 WebP 的形式上传到您的网站，浏览网页的速度将大大提高。由于与典型的 JPEG 图像相比，它的文件大小能够减小 25-35%，因此越来越多的网站所有者使用 WebP 图像格式。
 
-── 出自[倾城之链 - AnyWebP - Bulk WebP to JPG/PNG/ICO Online](https://nicelinks.site/post/611cfc2e76454150e67ff3ee)
+── 出自[倾城之链 - AnyWebP - Bulk WebP to JPG/PNG/ICO Online](https://site.lovejade.cn/post/611cfc2e76454150e67ff3ee)
 
-## [The best way to build web apps without code | Bubble](https://nicelinks.site/post/611a537bc4382e06550221ca)
+## [The best way to build web apps without code | Bubble](https://site.lovejade.cn/post/611a537bc4382e06550221ca)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`工具`](https://nicelinks.site/tags/工具) · [`无代码`](https://nicelinks.site/tags/无代码)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`工具`](https://site.lovejade.cn/tags/工具) · [`无代码`](https://site.lovejade.cn/tags/无代码)
 
 > Bubble introduces a new way to build software. It’s a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code. Bubble hosts all web apps on its cloud platform.
 
@@ -46,13 +46,13 @@
 
 [Bubble](https://bubble.io/) 适用于个人和团队。让数十名协作者实时参与其中（最多支持 40 名协作者），并授权团队中的任何人，在迭代时进行更改并提供反馈。
 
-值得一提的是，2021 年 7 月底，[Bubble](https://bubble.io/) 获得了 1 亿美元 A 轮融资，可见这种业务方向有被投资者所认可。从作为 Web 前端工程师角度，或者基于一些「[网站生成器](https://nicelinks.site/tags/网站生成器)」的体验，窃以为真正实现无代码，构建 Web 应用，这存在着非常巨大的困难。当然，[Bubble](https://bubble.io/) 目前还未亲身体验，感兴趣的朋友，不妨一试。
+值得一提的是，2021 年 7 月底，[Bubble](https://bubble.io/) 获得了 1 亿美元 A 轮融资，可见这种业务方向有被投资者所认可。从作为 Web 前端工程师角度，或者基于一些「[网站生成器](https://site.lovejade.cn/tags/网站生成器)」的体验，窃以为真正实现无代码，构建 Web 应用，这存在着非常巨大的困难。当然，[Bubble](https://bubble.io/) 目前还未亲身体验，感兴趣的朋友，不妨一试。
 
-── 出自[倾城之链 - The best way to build web apps without code | Bubble](https://nicelinks.site/post/611a537bc4382e06550221ca)
+── 出自[倾城之链 - The best way to build web apps without code | Bubble](https://site.lovejade.cn/post/611a537bc4382e06550221ca)
 
-## [loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator](https://nicelinks.site/post/6118a939c4382e06550221c7)
+## [loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator](https://site.lovejade.cn/post/6118a939c4382e06550221c7)
 
-**标签**：[`图标`](https://nicelinks.site/tags/图标) · [`SVG`](https://nicelinks.site/tags/SVG) · [`动画`](https://nicelinks.site/tags/动画)
+**标签**：[`图标`](https://site.lovejade.cn/tags/图标) · [`SVG`](https://site.lovejade.cn/tags/SVG) · [`动画`](https://site.lovejade.cn/tags/动画)
 
 > Build Your Ajax Loading Icons, Animated Text and More with SVG / CSS / GIF / PNG !
 
@@ -66,11 +66,11 @@
 
 [loading.io](https://loading.io/) 对于前端开发，非常具有价值；它提供了图标、文本、背景、进度条、颜色（调色板生成器），而且还提供了多种 CSS、JavaScript 动画库；这里最值得一提的是，[loading.io](https://loading.io/) 提供的背景生成工具，不仅可以生成图片、还可以是动画（SVG）；风格也是多样，如 [wave 海浪](https://loading.io/background/m-wave/)、[trianglify 三角化](https://loading.io/background/m-trianglify/)、[confetti 五彩纸屑](https://loading.io/background/m-confetti/)(用小块落纸庆祝)等等；更难能可贵的是，动画的各种属性，皆可定制；就拿生成「海浪背景」来说，从背景、速度、浪的层数、宽度、高度、规模、浪的峰值、浪的透明度，到浪从开始至结束的颜色，都可定制，强大如斯，值得推荐。最近，有新写一个袖珍 Web 应用 ──[曼妙句子](https://read.lovejade.cn/)，背景即采用 loading.io 的 [wave 海浪](https://loading.io/background/m-wave/)生成器，感兴趣的朋友可以感受下。
 
-── 出自[倾城之链 - loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator](https://nicelinks.site/post/6118a939c4382e06550221c7)
+── 出自[倾城之链 - loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator](https://site.lovejade.cn/post/6118a939c4382e06550221c7)
 
-## [异次元软件世界 - 软件改变生活！](https://nicelinks.site/post/6117b2d6c4382e06550221c5)
+## [异次元软件世界 - 软件改变生活！](https://site.lovejade.cn/post/6117b2d6c4382e06550221c5)
 
-**标签**：[`软件`](https://nicelinks.site/tags/软件) · [`互联网`](https://nicelinks.site/tags/互联网) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`软件`](https://site.lovejade.cn/tags/软件) · [`互联网`](https://site.lovejade.cn/tags/互联网) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > 极具人气和特色的软件网站！专注于推荐优秀软件、APP 应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。
 
@@ -80,11 +80,11 @@
 
 值得一提的是，[异次元软件世界](https://www.iplaysoft.com/)覆盖的内容，也颇为广泛，诸如：游戏娱乐、网络软件、多媒体类、优化辅助、设计美化、系统工具、文档办公、发现分享、应用管理、手机数码、技术教程、编程开发、推荐网站、安全隐私、硬件相关、视频音乐、生活相关、备份恢复、破解研究、编辑输入、虚拟模拟、翻译辞典、思考讨论、压缩解压等等。
 
-── 出自[倾城之链 - 异次元软件世界 - 软件改变生活！](https://nicelinks.site/post/6117b2d6c4382e06550221c5)
+── 出自[倾城之链 - 异次元软件世界 - 软件改变生活！](https://site.lovejade.cn/post/6117b2d6c4382e06550221c5)
 
-## [Topbook – 高效生活视频书](https://nicelinks.site/post/6117abe4c4382e06550221c3)
+## [Topbook – 高效生活视频书](https://site.lovejade.cn/post/6117abe4c4382e06550221c3)
 
-**标签**：[`信息`](https://nicelinks.site/tags/信息) · [`高效`](https://nicelinks.site/tags/高效) · [`生活`](https://nicelinks.site/tags/生活)
+**标签**：[`信息`](https://site.lovejade.cn/tags/信息) · [`高效`](https://site.lovejade.cn/tags/高效) · [`生活`](https://site.lovejade.cn/tags/生活)
 
 > Topbook，一部持续更新高效生活视频书；一个超酷的高效生活方式生活引擎；Topbook，提供成百上千个实用、有趣的技能，开启更高效的生活方式，让你摆脱资讯的控制。它拥有一个独立的搜索框，当你在生活中，遇到些问题或麻烦，或许能在 Topbook 得到想要的答案。
 
@@ -102,7 +102,7 @@
 
 如果你是学生，除了不断升级思维和拓展知识，更需要落地实干和亲自动手。我见过很多同行在招聘的时候常说，找来的年轻人想法都很好、思维也活跃，问题却出现在那些容易被人忽视的细节：有想法却写不出，排个版都丑乱差，PPT 做不好，新兴技术一点都不了解，发个邮件都不知道把附件打个包……可怕的不是努力的奋斗变成了失败，而是不起眼的细节让你莫名其妙地一事无成。如果你想了解更多，可参见[关于 Topbook](https://topbook.cc/overview?selectedArticle=1205)。
 
-── 出自[倾城之链 - Topbook – 高效生活视频书](https://nicelinks.site/post/6117abe4c4382e06550221c3)
+── 出自[倾城之链 - Topbook – 高效生活视频书](https://site.lovejade.cn/post/6117abe4c4382e06550221c3)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

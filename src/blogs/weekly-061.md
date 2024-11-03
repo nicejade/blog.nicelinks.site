@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Developer Roadmaps](https://nicelinks.site/post/6258222ff3a35106466b7702)
+## [Developer Roadmaps](https://site.lovejade.cn/post/6258222ff3a35106466b7702)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`编程`](https://nicelinks.site/tags/编程) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`编程`](https://site.lovejade.cn/tags/编程) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 **关键字**：roadmap, developer roadmaps, developer roadmap, frontend developer, frontend developer roadmap, frontend, frontend roadmap, backend, backend developer, backend developer roadmap, devops, devops roadmap, fullstack developer roadmap, guide to becoming a developer, sre roadmap, sre, operations roadmap, qa roadmap, android roadmap, android developer roadmap
 
@@ -12,17 +12,17 @@
 
 ![倾城之链 - Developer Roadmaps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/roadmap.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Roadmap.sh](https://roadmap.sh/) 是一个包含社区策划的路线图、学习计划、路径和资源的地方，供新兴开发人员使用（网站基于 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 构建）。它最初是一组图表，用于指导 对下一步应该学习什么感到困惑的开发人员，但仅此还不够，因此我将其扩展到网站，以吸引更多贡献者。
+**推荐语**：[Roadmap.sh](https://roadmap.sh/) 是一个包含社区策划的路线图、学习计划、路径和资源的地方，供新兴开发人员使用（网站基于 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 构建）。它最初是一组图表，用于指导 对下一步应该学习什么感到困惑的开发人员，但仅此还不够，因此我将其扩展到网站，以吸引更多贡献者。
 
-Roadmap.sh 涉猎内容非常丰富，诸如：FrontEnd、BackEnd、DevOps、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、Android、Python、Go、Java、DBA 等；作者将主题所涉及的相关内容，及其关系，绘制于一张图内，形成指南，从而为开发者带来参考。除了路线图外，该网站还提供有些技术（工具）相关的文章、视频相关分享。
+Roadmap.sh 涉猎内容非常丰富，诸如：FrontEnd、BackEnd、DevOps、[React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)、Android、Python、Go、Java、DBA 等；作者将主题所涉及的相关内容，及其关系，绘制于一张图内，形成指南，从而为开发者带来参考。除了路线图外，该网站还提供有些技术（工具）相关的文章、视频相关分享。
 
 [Roadmap.sh](https://roadmap.sh/) 是一个开源项目，截止 2022 年 4 月份，其 Star 数接近 20 万，每月有数十万开发人员访问。您如果对其感兴趣，可订阅更新（支持免费、也支持更新付费内容）。如果你想更多充分了解它，请参见 [About Roadmap.sh](https://roadmap.sh/about)。
 
-── 出自[倾城之链 - Developer Roadmaps](https://nicelinks.site/post/6258222ff3a35106466b7702)
+── 出自[倾城之链 - Developer Roadmaps](https://site.lovejade.cn/post/6258222ff3a35106466b7702)
 
-## [免费学习编程 - Python、JavaScript、Java、Git 等](https://nicelinks.site/post/6256c645f3a35106466b7700)
+## [免费学习编程 - Python、JavaScript、Java、Git 等](https://site.lovejade.cn/post/6256c645f3a35106466b7700)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`编程`](https://nicelinks.site/tags/编程) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`编程`](https://site.lovejade.cn/tags/编程) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 **关键字**：freecodecamp, 编程, 前端, 后端, 程序员, python, javascript, git, aws, json, html, css, bootstrap, react, vue, 网站, web, 开发, 课程
 
@@ -36,13 +36,13 @@ Roadmap.sh 涉猎内容非常丰富，诸如：FrontEnd、BackEnd、DevOps、[Re
 
 在 freeCodeCamp.org，您可以获得以下免费认证：响应式网页设计、JavaScript 算法和数据结构、前端开发库、数据可视化、后端开发和 APIs、Python 和科学计算、Python 和数据分析、Python 和机器学习、信息安全、关系数据库、质量保证等等。
 
-先前因为检索 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 开发建议，再一次接触到 freeCodeCamp 这个网站，进一步浏览，发现非常多值得阅览的优质文章；深入了解后发现，这是一个**免费学习编程的**开发者社区，其涉猎内容之广，令人惊叹；相信，无论您是编程初学者，或是已经有丰富编程经验，在这里，都会收获很多；当然，您也可以在 freeCodeCamp 分享自己的学识与经验，从而惠及更多人。
+先前因为检索 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 开发建议，再一次接触到 freeCodeCamp 这个网站，进一步浏览，发现非常多值得阅览的优质文章；深入了解后发现，这是一个**免费学习编程的**开发者社区，其涉猎内容之广，令人惊叹；相信，无论您是编程初学者，或是已经有丰富编程经验，在这里，都会收获很多；当然，您也可以在 freeCodeCamp 分享自己的学识与经验，从而惠及更多人。
 
-── 出自[倾城之链 - 免费学习编程 - Python、JavaScript、Java、Git 等](https://nicelinks.site/post/6256c645f3a35106466b7700)
+── 出自[倾城之链 - 免费学习编程 - Python、JavaScript、Java、Git 等](https://site.lovejade.cn/post/6256c645f3a35106466b7700)
 
-## [curl | command line tool and library for transferring data with URLs](https://nicelinks.site/post/62556c92f3a35106466b76fe)
+## [curl | command line tool and library for transferring data with URLs](https://site.lovejade.cn/post/62556c92f3a35106466b76fe)
 
-**标签**：[`命令行`](https://nicelinks.site/tags/命令行) · [`软件`](https://nicelinks.site/tags/软件) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`命令行`](https://site.lovejade.cn/tags/命令行) · [`软件`](https://site.lovejade.cn/tags/软件) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > Curl is used in command lines or scripts to transfer data. curl is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
@@ -54,11 +54,11 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 [Curl](https://curl.se/) 是一款免费开源软件，截止 2021 年 2 月，最近稳定版本是 **7.75.0**；无论是 Windows、Mac 还是 Linux 系统，Curl 都已默认安装，因此您可以直接使用。全球几乎每个使用 Internet 的人每天都在使用 Curl。无论您是否从事编程相关工作，相信知晓 Curl 之妙用，将会在很多场景，给你带来效率提升；如果您对这款工具软件感兴趣，可参见文章：[堪称神器的命令行工具系列之 curl](https://quickapp.lovejade.cn/magic-tools-series-curl/)。
 
-── 出自[倾城之链 - curl | command line tool and library for transferring data with URLs](https://nicelinks.site/post/62556c92f3a35106466b76fe)
+── 出自[倾城之链 - curl | command line tool and library for transferring data with URLs](https://site.lovejade.cn/post/62556c92f3a35106466b76fe)
 
-## [海底捞](https://nicelinks.site/post/6252e4fef3a35106466b76fc)
+## [海底捞](https://site.lovejade.cn/post/6252e4fef3a35106466b76fc)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`美食`](https://nicelinks.site/tags/美食)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`美食`](https://site.lovejade.cn/tags/美食)
 
 > 海底捞成立于 1994 年，是一家以经营川味火锅为主的连锁品牌，创始人为张勇。
 
@@ -70,11 +70,11 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 晚上有跟朋友到附近（深圳福田）「海底捞」用餐，其环境尚可（虽然占地颇广，座位宽松，但食客蛮多，有些吵闹），食材新鲜，味道颇好，服务极佳，甚得我心；如不是疫情反复突袭，倒是可以常常光顾。
 
-── 出自[倾城之链 - 海底捞](https://nicelinks.site/post/6252e4fef3a35106466b76fc)
+── 出自[倾城之链 - 海底捞](https://site.lovejade.cn/post/6252e4fef3a35106466b76fc)
 
-## [Textomap](https://nicelinks.site/post/62529693f3a35106466b76fa)
+## [Textomap](https://site.lovejade.cn/post/62529693f3a35106466b76fa)
 
-**标签**：[`应用`](https://nicelinks.site/tags/应用) · [`Chrome`](https://nicelinks.site/tags/Chrome) · [`扩展`](https://nicelinks.site/tags/扩展)
+**标签**：[`应用`](https://site.lovejade.cn/tags/应用) · [`Chrome`](https://site.lovejade.cn/tags/Chrome) · [`扩展`](https://site.lovejade.cn/tags/扩展)
 
 > Textomap: Create interactive maps in one click,
 > from any text you're reading or writing about.
@@ -91,11 +91,11 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 目前，[Textomap](https://www.textomap.com/) 尚处于公测版本；地图为我们提供重要信息，可让我们更清楚地了解情况。无论是当前新闻、下一个度假目的地，还是有关人物和地点的文章，地图都能为您提供更好的背景和概览。
 
-── 出自[倾城之链 - Textomap](https://nicelinks.site/post/62529693f3a35106466b76fa)
+── 出自[倾城之链 - Textomap](https://site.lovejade.cn/post/62529693f3a35106466b76fa)
 
-## [Image to Cartoon | Cartoonize and emoji yourself](https://nicelinks.site/post/6252908db7bf120669dbd40f)
+## [Image to Cartoon | Cartoonize and emoji yourself](https://site.lovejade.cn/post/6252908db7bf120669dbd40f)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片) · [`转换`](https://nicelinks.site/tags/转换)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片) · [`转换`](https://site.lovejade.cn/tags/转换)
 
 > Image to Cartoon is an online AI cartoonizer that converts your face to cartoon style. Create cartoon avatar and emoji yourself.
 
@@ -111,7 +111,7 @@ Curl 功能非常强大，支持 DICT、FILE、FTP、FTPS、GOPHER、GOPHERS、H
 
 有体验 Cartoonize 的 Web 和 iOS 版本，所转换出卡通效果，还可以。Cartoonize 依靠广告和增值服务获得利益，所以在应用程序上，你会看到广告。如果您有兴趣，将自己的头像卡通化，那么 Cartoonize 是一个挺不错的选择。
 
-── 出自[倾城之链 - Image to Cartoon | Cartoonize and emoji yourself](https://nicelinks.site/post/6252908db7bf120669dbd40f)
+── 出自[倾城之链 - Image to Cartoon | Cartoonize and emoji yourself](https://site.lovejade.cn/post/6252908db7bf120669dbd40f)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

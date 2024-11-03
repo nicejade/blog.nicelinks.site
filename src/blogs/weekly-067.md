@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [【在线 PS 软件】在线 PS 图片（照片）处理工具\_在线制作编辑图片 ps 精简版](https://nicelinks.site/post/628f943bbf8f82231b9f947e)
+## [【在线 PS 软件】在线 PS 图片（照片）处理工具\_在线制作编辑图片 ps 精简版](https://site.lovejade.cn/post/628f943bbf8f82231b9f947e)
 
-**标签**：[`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器) · [`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > PS 在线图片编辑器是一个专业精简的在线 ps 图片照片制作处理软件工具，绿色免安装，免下载，直接在浏览器打开就可用它修正，调整和美化图像。
 
@@ -32,11 +32,11 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 
 据 UUPOOP 官方介绍，他们已在多媒体创作工具、AI 辅助设计，以及图形图像算法等领域储备了丰富的核心技术，拥有上百项技术专利。截止目前，[稿定 UUPOOP](https://www.uupoop.com/) 在以下领域具有积淀：发丝级抠图、3D 特效、图像修复、图像增强、视频感知、图像引擎、自适应滤镜、智能设计、图像检索、渲染引擎。
 
-── 出自[倾城之链 - 【在线 PS 软件】在线 PS 图片（照片）处理工具\_在线制作编辑图片 ps 精简版](https://nicelinks.site/post/628f943bbf8f82231b9f947e)
+── 出自[倾城之链 - 【在线 PS 软件】在线 PS 图片（照片）处理工具\_在线制作编辑图片 ps 精简版](https://site.lovejade.cn/post/628f943bbf8f82231b9f947e)
 
-## [Cusdis - Lightweight, privacy-first, open-source comment system](https://nicelinks.site/post/628f5b9dbf8f82231b9f947c)
+## [Cusdis - Lightweight, privacy-first, open-source comment system](https://site.lovejade.cn/post/628f5b9dbf8f82231b9f947c)
 
-**标签**：[`评论系统`](https://nicelinks.site/tags/评论系统) · [`开源`](https://nicelinks.site/tags/开源) · [`框架`](https://nicelinks.site/tags/框架)
+**标签**：[`评论系统`](https://site.lovejade.cn/tags/评论系统) · [`开源`](https://site.lovejade.cn/tags/开源) · [`框架`](https://site.lovejade.cn/tags/框架)
 
 > Cusdis is an open-source, lightweight (~5kb gzipped), privacy-first alternative to Disqus. It's super easy to use and integrate with your existed website
 
@@ -64,13 +64,13 @@ AI 辅助设计 ：AI 算法提效，让设计更简单。
 
 在通知电子邮件和 Webhook 中，您将获得一个短时间链接来批准/回复新评论，而无需登录仪表板。所有事情都在您的手机中完成。
 
-此外，Cusdis 支持一键将 Disqus 中已有的数据导入 Cusdis。值得一提的是：Cusdis 是一个**开源**项目。您可以确定**您和您的用户不会被跟踪**。如果您希望拥有自己的数据，也可以轻松自托管 Cusdis。这太有吸引力 🧲 了，如果不是因为已经基于 [Waline](https://nicelinks.site/post/61e6e0783bc516243751509b) 搭建了评论系统，Cusdis 将是应用评论首选工具，如果您想了解更多，可参见 [Cusdis Document](https://cusdis.com/doc)。
+此外，Cusdis 支持一键将 Disqus 中已有的数据导入 Cusdis。值得一提的是：Cusdis 是一个**开源**项目。您可以确定**您和您的用户不会被跟踪**。如果您希望拥有自己的数据，也可以轻松自托管 Cusdis。这太有吸引力 🧲 了，如果不是因为已经基于 [Waline](https://site.lovejade.cn/post/61e6e0783bc516243751509b) 搭建了评论系统，Cusdis 将是应用评论首选工具，如果您想了解更多，可参见 [Cusdis Document](https://cusdis.com/doc)。
 
-── 出自[倾城之链 - Cusdis - Lightweight, privacy-first, open-source comment system](https://nicelinks.site/post/628f5b9dbf8f82231b9f947c)
+── 出自[倾城之链 - Cusdis - Lightweight, privacy-first, open-source comment system](https://site.lovejade.cn/post/628f5b9dbf8f82231b9f947c)
 
-## [FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
+## [FFmpeg](https://site.lovejade.cn/post/628f5777bf8f82231b9f947a)
 
-**标签**：[`框架`](https://nicelinks.site/tags/框架) · [`视频`](https://nicelinks.site/tags/视频) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`框架`](https://site.lovejade.cn/tags/框架) · [`视频`](https://site.lovejade.cn/tags/视频) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > A complete, cross-platform solution to record, convert and stream audio and video.
 
@@ -90,11 +90,11 @@ FFmpeg 项目，试图为应用程序开发人员和最终用户等，提供技�
 FFmpeg 一直是一个实验性和开发者驱动的项目。它是许多多媒体项目中的关键组件，并且不断添加新功能。开发分支快照在 99% 的时间里都能很好地工作，所以人们并不害怕使用它们。
 
 ── 出自[倾城之链 -
-FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
+FFmpeg](https://site.lovejade.cn/post/628f5777bf8f82231b9f947a)
 
-## [NOWNESS 现在](https://nicelinks.site/post/628e5444bf8f82231b9f9478)
+## [NOWNESS 现在](https://site.lovejade.cn/post/628e5444bf8f82231b9f9478)
 
-**标签**：[`短视频`](https://nicelinks.site/tags/短视频) · [`社区`](https://nicelinks.site/tags/社区) · [`灵感`](https://nicelinks.site/tags/灵感)
+**标签**：[`短视频`](https://site.lovejade.cn/tags/短视频) · [`社区`](https://site.lovejade.cn/tags/社区) · [`灵感`](https://site.lovejade.cn/tags/灵感)
 
 **关键字**：Nowness, 现在, 短片, 短视频, 艺术短片, 奢侈品, 名牌, 生活, 创意, 美食, 时尚, nowness.cn
 
@@ -108,23 +108,23 @@ FFmpeg](https://nicelinks.site/post/628f5777bf8f82231b9f947a)
 
 您能保存自己喜爱的视频以及播放队列。您也可以通过个人帐号来和 NOWNESS 社区成员进行互动。您还可以关注最喜爱的栏目类别，分享来自其他成员或供稿人的播放列表。如果您从事创意视频制作，也可以成为 [NOWNESS](https://www.nowness.cn/) 的供稿人。
 
-── 出自[倾城之链 - NOWNESS 现在](https://nicelinks.site/post/628e5444bf8f82231b9f9478)
+── 出自[倾城之链 - NOWNESS 现在](https://site.lovejade.cn/post/628e5444bf8f82231b9f9478)
 
-## [图灵社区](https://nicelinks.site/post/628e119bbf8f82231b9f9476)
+## [图灵社区](https://site.lovejade.cn/post/628e119bbf8f82231b9f9476)
 
-**标签**：[`书籍`](https://nicelinks.site/tags/书籍) · [`编程`](https://nicelinks.site/tags/编程) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`书籍`](https://site.lovejade.cn/tags/书籍) · [`编程`](https://site.lovejade.cn/tags/编程) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 > 图灵社区成立于 2005 年 6 月，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、电子电气、数学统计、科普等，通过引进国际高水平的教材、专著，以及发掘国内优秀原创作品等途径，为目标读者提供一流的内容。
 
 ![倾城之链 - 图灵社区](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.ituring.com.cn.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[图灵社区](https://www.ituring.com.cn/) 基于 [Vue](<[https://nicelinks.site/post/5b1a221c0526c920d6dfaada](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)>) 等框架搭建而成；它隶属北京图灵文化发展有限公——成立于 2005 年 6 月，由人民邮电出版社投资控股，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、数学统计、科普等，公司以促进科技发展为己任，通过引进国际高水平的图书，以及发掘国内优秀原创作品等手段，为目标读者提供一流的内容。您可以在这里找到计算机、科普、设计、经营管理、专业数学、个人技能、心理学、电子通信等类型的图书，不过，暂不支持在线阅读（需要登录解锁 🔓）。如果，您从事 IT 或即将从事 IT 行业，`图灵社区`，可以考虑关注下。
+**推荐语**：[图灵社区](https://www.ituring.com.cn/) 基于 [Vue](<[https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)>) 等框架搭建而成；它隶属北京图灵文化发展有限公——成立于 2005 年 6 月，由人民邮电出版社投资控股，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、数学统计、科普等，公司以促进科技发展为己任，通过引进国际高水平的图书，以及发掘国内优秀原创作品等手段，为目标读者提供一流的内容。您可以在这里找到计算机、科普、设计、经营管理、专业数学、个人技能、心理学、电子通信等类型的图书，不过，暂不支持在线阅读（需要登录解锁 🔓）。如果，您从事 IT 或即将从事 IT 行业，`图灵社区`，可以考虑关注下。
 
-── 出自[倾城之链 - 图灵社区](https://nicelinks.site/post/628e119bbf8f82231b9f9476)
+── 出自[倾城之链 - 图灵社区](https://site.lovejade.cn/post/628e119bbf8f82231b9f9476)
 
-## [iTerm2 - macOS Terminal Replacement](https://nicelinks.site/post/628b9fd935bb417da9ed231b)
+## [iTerm2 - macOS Terminal Replacement](https://site.lovejade.cn/post/628b9fd935bb417da9ed231b)
 
-**标签**：[`终端`](https://nicelinks.site/tags/终端) · [`Mac`](https://nicelinks.site/tags/Mac) · [`效率`](https://nicelinks.site/tags/效率)
+**标签**：[`终端`](https://site.lovejade.cn/tags/终端) · [`Mac`](https://site.lovejade.cn/tags/Mac) · [`效率`](https://site.lovejade.cn/tags/效率)
 
 > iTerm2 is a replacement for Terminal and the successor to iTerm
 
@@ -186,9 +186,9 @@ iTerm2 可以通过识别光标下的内容，并选择要选择的文本数量�
 
 iTerm2 支持用户定义的触发器，这是在接收到与正则表达式匹配的文本时运行的操作。您可以使用它来突出显示单词、自动响应提示、在发生重要事件时通知您等等。
 
-iTerm2 不仅本身强大无比，而且支持更多集成更多利器，诸如：`ZSH`、`Fish`、[Fig](https://nicelinks.site/post/61f2984c68ba114abbae6037)、[Asciinema](https://nicelinks.site/post/5f9ae8a1ac6b5718fc48ac02) 等等，Mac 必备利器，iTerm2 实至名归。
+iTerm2 不仅本身强大无比，而且支持更多集成更多利器，诸如：`ZSH`、`Fish`、[Fig](https://site.lovejade.cn/post/61f2984c68ba114abbae6037)、[Asciinema](https://site.lovejade.cn/post/5f9ae8a1ac6b5718fc48ac02) 等等，Mac 必备利器，iTerm2 实至名归。
 
-── 出自[倾城之链 - iTerm2 - macOS Terminal Replacement](https://nicelinks.site/post/628b9fd935bb417da9ed231b)
+── 出自[倾城之链 - iTerm2 - macOS Terminal Replacement](https://site.lovejade.cn/post/628b9fd935bb417da9ed231b)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

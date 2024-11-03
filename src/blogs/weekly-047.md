@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [ERIK JOHANSSON](https://nicelinks.site/post/61d6e25573f9dd1533f83408)
+## [ERIK JOHANSSON](https://site.lovejade.cn/post/61d6e25573f9dd1533f83408)
 
-**标签**：[`摄影`](https://nicelinks.site/tags/摄影) · [`图片`](https://nicelinks.site/tags/图片) · [`有趣`](https://nicelinks.site/tags/有趣)
+**标签**：[`摄影`](https://site.lovejade.cn/tags/摄影) · [`图片`](https://site.lovejade.cn/tags/图片) · [`有趣`](https://site.lovejade.cn/tags/有趣)
 
 > Website of Swedish surreal photographer Erik Johansson.
 
@@ -22,11 +22,11 @@ Erik 的个人作品中没有计算机生成的、插图的或库存照片，只
 
 Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你能想象到的任何东西。了解过程中的每个步骤，可以完全控制从草图到最终图像的整个工作过程，以确保高质量的逼真结果。以这种方式创建图像需要大量的工作和准备才能获得逼真的结果。Erik 可用于全球委托项目。
 
-── 出自[倾城之链 - ERIK JOHANSSON](https://nicelinks.site/post/61d6e25573f9dd1533f83408)
+── 出自[倾城之链 - ERIK JOHANSSON](https://site.lovejade.cn/post/61d6e25573f9dd1533f83408)
 
-## [网络广告人社区 - 分享国内外创意广告和网络营销及市场营销案例](https://nicelinks.site/post/61d6d8c373f9dd1533f83406)
+## [网络广告人社区 - 分享国内外创意广告和网络营销及市场营销案例](https://site.lovejade.cn/post/61d6d8c373f9dd1533f83406)
 
-**标签**：[`广告`](https://nicelinks.site/tags/广告) · [`创意`](https://nicelinks.site/tags/创意) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`广告`](https://site.lovejade.cn/tags/广告) · [`创意`](https://site.lovejade.cn/tags/创意) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 **关键字**：网络广告人社区, 广告, 市场营销, 广告人才, 广告公司, 创意广告, 营销策划, 广告词, KPI, 广告设计, 品牌营销案例, 国外创意, 国外创意案例, 国外广告, 广告社区, 营销案例, 社会化媒体, 视频广告, 病毒营销案例, 公益广告, 微信营销
 
@@ -36,11 +36,11 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 
 **推荐语**：[网络广告人社区](https://iwebad.com/)（(webad），创建于 2007 年 12 月，是一家致力于原创翻译国外营销案例的垂直类传媒网站。创立的前几年，主要是分享国外创意 Banner；随着国内外互联网环境的改变，各种营销方式层出不穷，网站也由此扩展出整合营销、品牌营销、移动营销、病毒营销、社会化营销、活动网站、邮件广告等广告类型，设有 IT、金融、汽车、房地产、电信、日化用品、消费电子、食品饮料八大行业广告案例。网站现拥将近 10000 部国外案例，及 4000 多支创意 TVC，所传播视频在优酷、土豆、56 等视频网站累计播放量超过 5000 万次。
 
-── 出自[倾城之链 - 网络广告人社区 - 分享国内外创意广告和网络营销及市场营销案例](https://nicelinks.site/post/61d6d8c373f9dd1533f83406)
+── 出自[倾城之链 - 网络广告人社区 - 分享国内外创意广告和网络营销及市场营销案例](https://site.lovejade.cn/post/61d6d8c373f9dd1533f83406)
 
-## [Create stunning product mockups easily and online - Smartmockups](https://nicelinks.site/post/61d67c5273f9dd1533f83404)
+## [Create stunning product mockups easily and online - Smartmockups](https://site.lovejade.cn/post/61d67c5273f9dd1533f83404)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`mockups`](https://nicelinks.site/tags/mockups) · [`利器`](https://nicelinks.site/tags/利器)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`mockups`](https://site.lovejade.cn/tags/mockups) · [`利器`](https://site.lovejade.cn/tags/利器)
 
 > Smartmockups enables you to create stunning high-resolution mockups right inside your browser within one interface across multiple devices.
 
@@ -81,11 +81,11 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 
 即使不是设计能手，也可享用产品模板的强大功能，[Smartmockups](https://smartmockups.com/)，你值得拥有。
 
-── 出自[倾城之链 - Create stunning product mockups easily and online - Smartmockups](https://nicelinks.site/post/61d67c5273f9dd1533f83404)
+── 出自[倾城之链 - Create stunning product mockups easily and online - Smartmockups](https://site.lovejade.cn/post/61d67c5273f9dd1533f83404)
 
-## [Pika – Create beautiful screenshots quickly](https://nicelinks.site/post/61d597f373f9dd1533f83402)
+## [Pika – Create beautiful screenshots quickly](https://site.lovejade.cn/post/61d597f373f9dd1533f83402)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`免费`](https://nicelinks.site/tags/免费) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`免费`](https://site.lovejade.cn/tags/免费) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > A free app to quickly beautify your screenshots. You can add background gradients, tweak shadows, add rounded corners and more. You can save the image or copy it to clipboard.
 
@@ -93,7 +93,7 @@ Erik 既是一名摄影师，又是一名修图师，这使他能够创造出你
 
 **推荐语**：[Pika](https://blog.xiaohack.org/)，免费和开源网络应用程序，可快速美化您的屏幕截图（将无聊的屏幕截图变成漂亮的可共享图像）。您可以添加背景渐变、调整阴影、添加圆角、调整间距等等。其使用也非常简单，选择图片即可开始操作（支持粘贴截图）；您可以将图像保存为 PNG 文件或将其复制到剪贴板。
 
-── 出自[倾城之链 - Pika – Create beautiful screenshots quickly](https://nicelinks.site/post/61d597f373f9dd1533f83402)
+── 出自[倾城之链 - Pika – Create beautiful screenshots quickly](https://site.lovejade.cn/post/61d597f373f9dd1533f83402)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

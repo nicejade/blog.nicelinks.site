@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [SEO Training and Link Building Strategies – Backlinko](https://nicelinks.site/post/620504503b89bf76633cb6ff)
+## [SEO Training and Link Building Strategies – Backlinko](https://site.lovejade.cn/post/620504503b89bf76633cb6ff)
 
-**标签**：[`SEO`](https://nicelinks.site/tags/SEO) · [`教程`](https://nicelinks.site/tags/教程) · [`博客`](https://nicelinks.site/tags/博客)
+**标签**：[`SEO`](https://site.lovejade.cn/tags/SEO) · [`教程`](https://site.lovejade.cn/tags/教程) · [`博客`](https://site.lovejade.cn/tags/博客)
 
 > It's time to get backlinks that make a difference. Backlinko is the place for next-level SEO training and link building strategies.
 
@@ -24,11 +24,11 @@
 
 前阵子想要进一步提升 SEO，通过 Google 检索知道了 [Backlinko](https://backlinko.com/) 的存在，虽未更深入了解，但确实已学到不少新技能；如果您也对自然提升网站流量感兴趣，那么我想 [Backlinko](https://backlinko.com/) 是值得您关注的。
 
-── 出自[倾城之链 - SEO Training and Link Building Strategies – Backlinko](https://nicelinks.site/post/620504503b89bf76633cb6ff)
+── 出自[倾城之链 - SEO Training and Link Building Strategies – Backlinko](https://site.lovejade.cn/post/620504503b89bf76633cb6ff)
 
-## [Reaktr | Generate audio-reactive video on browser.](https://nicelinks.site/post/6205001a3b89bf76633cb6fd)
+## [Reaktr | Generate audio-reactive video on browser.](https://site.lovejade.cn/post/6205001a3b89bf76633cb6fd)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`可视化`](https://nicelinks.site/tags/可视化) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`可视化`](https://site.lovejade.cn/tags/可视化) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Generate audio-reactive video on browser.
 
@@ -44,11 +44,11 @@
 
 值得一提的是，由于渲染是在您的计算机上实时处理的，因此可能的输出质量很大程度上取决于机器规格。有基于自己 iMac（四核 Intel Core i7）尝试了下，所渲染出的效果一般。
 
-── 出自[倾城之链 - Reaktr | Generate audio-reactive video on browser.](https://nicelinks.site/post/6205001a3b89bf76633cb6fd)
+── 出自[倾城之链 - Reaktr | Generate audio-reactive video on browser.](https://site.lovejade.cn/post/6205001a3b89bf76633cb6fd)
 
-## [Morflax - The Easiest 3D design platform](https://nicelinks.site/post/6204fbef3b89bf76633cb6fb)
+## [Morflax - The Easiest 3D design platform](https://site.lovejade.cn/post/6204fbef3b89bf76633cb6fb)
 
-**标签**：[`3D`](https://nicelinks.site/tags/3D) · [`插图`](https://nicelinks.site/tags/插图) · [`创造`](https://nicelinks.site/tags/创造)
+**标签**：[`3D`](https://site.lovejade.cn/tags/3D) · [`插图`](https://site.lovejade.cn/tags/插图) · [`创造`](https://site.lovejade.cn/tags/创造)
 
 > Morflax is the most accessible 3D design platform that creates high-quality illustrations, device mockups & marketing assets. Create stunning 3D images for your website, landing page and other content.
 
@@ -58,11 +58,11 @@
 
 Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术初创公司。他们的使命是为每个人创建 3D 设计工具，探索和构建虚拟世界和数字化身。他们相信不仅可以创建一家科技公司，还可以创建一个有自己的愿景、角色和想法的虚拟宇宙（Metaverse）；在这个领域，他们的第一个实验是 [Morflax qlo](https://qlo.morflax.com/)：一个使用数字化身的基于浏览器的服装模型构建器。
 
-── 出自[倾城之链 - Morflax - The Easiest 3D design platform](https://nicelinks.site/post/6204fbef3b89bf76633cb6fb)
+── 出自[倾城之链 - Morflax - The Easiest 3D design platform](https://site.lovejade.cn/post/6204fbef3b89bf76633cb6fb)
 
-## [简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://nicelinks.site/post/620370783b89bf76633cb6f8)
+## [简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://site.lovejade.cn/post/620370783b89bf76633cb6f8)
 
-**标签**：[`Chrome`](https://nicelinks.site/tags/Chrome) · [`扩展`](https://nicelinks.site/tags/扩展) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`Chrome`](https://site.lovejade.cn/tags/Chrome) · [`扩展`](https://site.lovejade.cn/tags/扩展) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：Chrome extension, Chrome 扩展, 阅读模式, 沉浸式阅读, 简悦, 简阅, read mode, reading mode, reader view, firefox, firefox addon, userscript, safari, opera, tampermonkey
 
@@ -90,7 +90,7 @@ Morflax 是一家由 Augis Kaleinykas 创立的小型创意 3D 设计和技术�
 
 此外，SimpRead 支持多种导出方式，保存为你需要的格式（Markdown · PDF · PNG · Epub · HTML）；[简悦 SimpRead](https://simpread.pro/?utm_source=nicelinks.site) 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式，感兴趣的朋友，不妨去体验下。
 
-── 出自[倾城之链 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://nicelinks.site/post/620370783b89bf76633cb6f8)
+── 出自[倾城之链 - 简悦 SimpRead - 如杂志般沉浸式阅读体验的扩展](https://site.lovejade.cn/post/620370783b89bf76633cb6f8)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

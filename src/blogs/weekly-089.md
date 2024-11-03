@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)
+## [Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://site.lovejade.cn/post/635936a6775cbe1cdc6eb333)
 
-**标签**：[`构建`](https://nicelinks.site/tags/构建) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`Rust`](https://nicelinks.site/tags/Rust)
+**标签**：[`构建`](https://site.lovejade.cn/tags/构建) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`Rust`](https://site.lovejade.cn/tags/Rust)
 
 > Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
 
 ![倾城之链 - Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/turbo.build.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Turbo](https://turbo.build/) 为 JavaScript 和 TypeScript 优化的增量绑定器和 [构建](https://nicelinks.site/tags/构建) 系统，用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 编写。Turbo 提供 [Turborepo](https://turbo.build/repo) 和 [Turbopack](https://turbo.build/pack) 两款产品。
+**推荐语**：[Turbo](https://turbo.build/) 为 JavaScript 和 TypeScript 优化的增量绑定器和 [构建](https://site.lovejade.cn/tags/构建) 系统，用 [Rust](https://site.lovejade.cn/post/606a826800d67605dca7de5a) 编写。Turbo 提供 [Turborepo](https://turbo.build/repo) 和 [Turbopack](https://turbo.build/pack) 两款产品。
 
 ### Turborepo：建造船舶的系统
 
@@ -31,19 +31,19 @@ Turborepo 是一个用于 JavaScript 和 TypeScript 代码库的高性能构建�
 凭借增量行为和适应性强的捆绑策略，Turbopack 可为任何规模的应用提供快速灵活的开发体验。为什么选择 Turbopack？官方给出以下理由：
 
 - **增量设计**：构建一次就足够了，Turbopack 一旦执行了某项任务，就再也不会执行了。
-- **生态系统友好型**：获得对 TypeScript、JSX、CSS、CSS 模块、[WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae) 等的现成支持。
+- **生态系统友好型**：获得对 TypeScript、JSX、CSS、CSS 模块、[WebAssembly](https://site.lovejade.cn/post/618b8df4a18dec25673723ae) 等的现成支持。
 - **闪电般快速的 HMR**：无论您的应用程序大小如何，热模块更换（HMR）都能保持快速。
-- **React 服务器组件**：在使用 Turbopack 时获得对 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 服务器组件的本机支持。
+- **React 服务器组件**：在使用 Turbopack 时获得对 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 服务器组件的本机支持。
 - **同时多个环境目标**：针对多种环境（浏览器、服务器、边缘、SSR、React Server 组件）进行构建和优化。
 - **Next.js 支持**：Turbopack 还将在本地和云中支持 Next.js 的生产构建。
 
-根据 Turbo 官方平台给出的数据对比，其构建速度是 Webpack 的 100 倍、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 的 10 倍；（个人对 Vite 的构建速度非常满意）；Turbo 团队正在构建一个可以跟上您团队的构建系统。您将看到您的 CI 变得更快，重复的工作被削减，您的 [NPM](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 脚本变得更简单。您将获得一个世界级的开发环境，而没有维护负担。
+根据 Turbo 官方平台给出的数据对比，其构建速度是 Webpack 的 100 倍、 [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e) 的 10 倍；（个人对 Vite 的构建速度非常满意）；Turbo 团队正在构建一个可以跟上您团队的构建系统。您将看到您的 CI 变得更快，重复的工作被削减，您的 [NPM](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b) 脚本变得更简单。您将获得一个世界级的开发环境，而没有维护负担。
 
-── 出自[倾城之链 - Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://nicelinks.site/post/635936a6775cbe1cdc6eb333)
+── 出自[倾城之链 - Turbo | 为 JavaScript 和 TypeScript 优化的增量绑定器和构建系统，用 Rust 编写](https://site.lovejade.cn/post/635936a6775cbe1cdc6eb333)
 
-## [Answer - Build Q&A community](https://nicelinks.site/post/6357d331775cbe1cdc6ea39b)
+## [Answer - Build Q&A community](https://site.lovejade.cn/post/6357d331775cbe1cdc6ea39b)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`知识`](https://nicelinks.site/tags/知识) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`知识`](https://site.lovejade.cn/tags/知识) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 > An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, user Q&A, fans communication, and more.
 
@@ -67,13 +67,13 @@ Turborepo 是一个用于 JavaScript 和 TypeScript 代码库的高性能构建�
 
 用声望和徽章游戏化了问答平台。因此，社区成员和团队可以在协作和完成工作方面获得乐趣（即将推出）。
 
-Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采用 [Go](https://nicelinks.site/post/606aa86a00d67605dca7de5c)、[TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef)、HTML 等语言编写；部署非常简单，基于 [docker](https://nicelinks.site/post/5b7036890f8719053c094d68)、 docker-compose 分分钟即可完成；目前，Answer 仍在非常积极的发展中，如果您对它感兴趣，可以前往 [Github Answer](https://github.com/answerdev/answer) 以了解更多。
+Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采用 [Go](https://site.lovejade.cn/post/606aa86a00d67605dca7de5c)、[TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef)、HTML 等语言编写；部署非常简单，基于 [docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68)、 docker-compose 分分钟即可完成；目前，Answer 仍在非常积极的发展中，如果您对它感兴趣，可以前往 [Github Answer](https://github.com/answerdev/answer) 以了解更多。
 
-── 出自[倾城之链 - Answer - Build Q&A community](https://nicelinks.site/post/6357d331775cbe1cdc6ea39b)
+── 出自[倾城之链 - Answer - Build Q&A community](https://site.lovejade.cn/post/6357d331775cbe1cdc6ea39b)
 
-## [得到 APP - 知识就是力量，知识就在得到](https://nicelinks.site/post/635773cb775cbe1cdc6e9dd5)
+## [得到 APP - 知识就是力量，知识就在得到](https://site.lovejade.cn/post/635773cb775cbe1cdc6e9dd5)
 
-**标签**：[`知识`](https://nicelinks.site/tags/知识) · [`学习`](https://nicelinks.site/tags/学习) · [`公开课`](https://nicelinks.site/tags/公开课)
+**标签**：[`知识`](https://site.lovejade.cn/tags/知识) · [`学习`](https://site.lovejade.cn/tags/学习) · [`公开课`](https://site.lovejade.cn/tags/公开课)
 
 **关键字**：知识, 知识搜索, 得到 APP, 得到, 得到老师, 得到课程, 听书, 电子书, 知识的力量, 知识图谱, 新知识, 得到高研院, 得到用户, 得到网页版, 得到 PC, 罗振宇, 在线听书, 电子书阅读, 听书网, 听书下载, 电子书下载, 电子书网站
 
@@ -85,11 +85,11 @@ Answer 对初创公司非常有帮助，可用来组织帮助中心；Answer 采
 
 2017 年 12 月，得到 APP 入选 App Store 2017 年度精选的年度趋势（知识付费类）。自 2020 年 9 月底以来，国家网信办部署开展为期两个月的集中专项整治。专项整治以来，督促“得到”等 20 家重点“知识社区问答”平台开展自查自纠。2022 年 10 月 13 日，工业和信息化部信息通信管理局通报，得到 10.6.0 版本 APP **强制、频繁、过度索取权限**，该 APP 应在 10 月 20 日前完成整改，逾期不整改或整改不到位的，将**依法依规处置**。
 
-── 出自[倾城之链 - 得到 APP - 知识就是力量，知识就在得到](https://nicelinks.site/post/635773cb775cbe1cdc6e9dd5)
+── 出自[倾城之链 - 得到 APP - 知识就是力量，知识就在得到](https://site.lovejade.cn/post/635773cb775cbe1cdc6e9dd5)
 
-## [Learn to Code with Interactive Tutorials - Scrimba.com](https://nicelinks.site/post/6356838980eb7b118fa82761)
+## [Learn to Code with Interactive Tutorials - Scrimba.com](https://site.lovejade.cn/post/6356838980eb7b118fa82761)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`教程`](https://nicelinks.site/tags/教程) · [`前端开发`](https://nicelinks.site/tags/前端开发)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`教程`](https://site.lovejade.cn/tags/教程) · [`前端开发`](https://site.lovejade.cn/tags/前端开发)
 
 > Scrimba is a fun and fast way of learning to code! Our interactive courses and tutorials will teach you React, Vue, Angular, JavaScript, HTML, CSS, and more.
 
@@ -142,17 +142,17 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 [Scrimba.com](https://scrimba.com/) ，创新交互型前端学习平台；不同于传统的前端文字或视频教程，Scrimba 开创式地将教学讲解、编辑器、浏览器三者结合，所学即所见，所及即所得。不同于传统的视频教学除了评论就什么也不能做，Scrimba 是音频、编码记录回放的形式展现，**用户能随时暂停，同时还能进行编辑**，结合 discord 还可以在线交流。这种创新型交互格式视频，非常适合学习编程；以上只是对 Scrimba 大致介绍，如果您对它感兴趣，可以前往官网以了解更多。
 
-── 出自[倾城之链 - Learn to Code with Interactive Tutorials - Scrimba.com](https://nicelinks.site/post/6356838980eb7b118fa82761)
+── 出自[倾城之链 - Learn to Code with Interactive Tutorials - Scrimba.com](https://site.lovejade.cn/post/6356838980eb7b118fa82761)
 
-## [Practical Deep Learning for Coders - Practical Deep Learning](https://nicelinks.site/post/63561e1580eb7b118fa8221e)
+## [Practical Deep Learning for Coders - Practical Deep Learning](https://site.lovejade.cn/post/63561e1580eb7b118fa8221e)
 
-**标签**：[`深度学习`](https://nicelinks.site/tags/深度学习) · [`机器学习`](https://nicelinks.site/tags/机器学习) · [`学习`](https://nicelinks.site/tags/学习)
+**标签**：[`深度学习`](https://site.lovejade.cn/tags/深度学习) · [`机器学习`](https://site.lovejade.cn/tags/机器学习) · [`学习`](https://site.lovejade.cn/tags/学习)
 
 > A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
 ![倾城之链 - Practical Deep Learning for Coders - Practical Deep Learning](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/course.fast.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Practical Deep Learning](https://course.fast.ai/) ，是一门**免费课程**，专为具有一定编程经验、希望学习如何将 [深度学习](https://nicelinks.site/tags/深度学习) 和 [机器学习](https://nicelinks.site/tags/机器学习) 应用于实际问题的人而设计。深度学习可以做各种各样令人惊奇的事情。例如，本网站中的所有插图都是通过深度学习制作的，使用 [DALL-E 2](https://openai.com/dall-e-2/) 。
+**推荐语**：[Practical Deep Learning](https://course.fast.ai/) ，是一门**免费课程**，专为具有一定编程经验、希望学习如何将 [深度学习](https://site.lovejade.cn/tags/深度学习) 和 [机器学习](https://site.lovejade.cn/tags/机器学习) 应用于实际问题的人而设计。深度学习可以做各种各样令人惊奇的事情。例如，本网站中的所有插图都是通过深度学习制作的，使用 [DALL-E 2](https://openai.com/dall-e-2/) 。
 
 这份 2022 年面向编码员的实用深度学习教程，录制于 University of Queensland，涵盖的主题包括如何：
 
@@ -169,17 +169,17 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 如果您想了解更多，比如：为什选择学习深度学习（deep learning）、将可以学到什么、以及如何开始学习，这份教程都给了详细的解释。**深度学习**具有强大、灵活和简单的特点。这就是为什么很多人认为它应该被应用于许多学科。根据观察和想象，现在以及未来，深度学习在主流技术中，占有一席之地。对它感兴趣的朋友，当立即投入精力去学习。
 
-── 出自[倾城之链 - Practical Deep Learning for Coders - Practical Deep Learning](https://nicelinks.site/post/63561e1580eb7b118fa8221e)
+── 出自[倾城之链 - Practical Deep Learning for Coders - Practical Deep Learning](https://site.lovejade.cn/post/63561e1580eb7b118fa8221e)
 
-## [pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://nicelinks.site/post/635556d080eb7b118fa81d0b)
+## [pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://site.lovejade.cn/post/635556d080eb7b118fa81d0b)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`程序库`](https://nicelinks.site/tags/程序库) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`程序库`](https://site.lovejade.cn/tags/程序库) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Point Cloud Library (PCL) for browser, powered by WebAssembly.｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持。
 
 ![倾城之链 - pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pcljs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[pcl.js](https://pcljs.org/) 是在浏览器中运行的 点云库（PCL），由 Emscripten 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 提供支持。它具有以下功能特征：
+**推荐语**：[pcl.js](https://pcljs.org/) 是在浏览器中运行的 点云库（PCL），由 Emscripten 和 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 提供支持。它具有以下功能特征：
 
 - **TypeScript 类型支持**：使用 TypeScript 编写，具有可预测的静态类型；
 - **支持所有现代浏览器**：支持所有现代浏览器，未来将提供对 Nodejs 的支持；
@@ -189,17 +189,17 @@ Scrimba 所提供的职业道路（The Frontend Developer Career Path），将�
 
 点云 是空间中的一组数据点。 这些点可以表示 3D 形状或对象。 每个点位置都有其一组笛卡尔坐标 (X, Y, Z)。 点云通常由激光雷达或摄影测量软件生成，它们测量物体外表面上的许多点。
 
-── 出自[倾城之链 - pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://nicelinks.site/post/635556d080eb7b118fa81d0b)
+── 出自[倾城之链 - pcl.js | Point Cloud Library (PCL) for browser, powered by WebAssembly](https://site.lovejade.cn/post/635556d080eb7b118fa81d0b)
 
-## [Lyra | The offline search experience](https://nicelinks.site/post/6355463780eb7b118fa81bdb)
+## [Lyra | The offline search experience](https://site.lovejade.cn/post/6355463780eb7b118fa81bdb)
 
-**标签**：[`全文搜索`](https://nicelinks.site/tags/全文搜索) · [`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎)
+**标签**：[`全文搜索`](https://site.lovejade.cn/tags/全文搜索) · [`搜索`](https://site.lovejade.cn/tags/搜索) · [`引擎`](https://site.lovejade.cn/tags/引擎)
 
 > Lyra is a fully-featured full-text search engine that runs wherever JavaScript runs, including browsers, servers, React Native, edge networks, and more.
 
 ![倾城之链 - Lyra | The offline search experience](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/lyrasearch.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Lyra](https://lyrasearch.io/) 是一个全功能的 [全文搜索](https://nicelinks.site/tags/全文搜索) 引擎，可以在 JavaScript 运行的任何地方运行，包括浏览器、Bun、Deno、Node.js、服务器、React Native、边缘网络（edge networks）等。
+**推荐语**：[Lyra](https://lyrasearch.io/) 是一个全功能的 [全文搜索](https://site.lovejade.cn/tags/全文搜索) 引擎，可以在 JavaScript 运行的任何地方运行，包括浏览器、Bun、Deno、Node.js、服务器、React Native、边缘网络（edge networks）等。
 
 Lyra 是一个用 TypeScript 编写的现代化、无依赖性的全文搜索引擎。
 它的构建考虑到了速度，并在几微秒内完成了大多数搜索查找。
@@ -210,7 +210,7 @@ Lyra 是一个用 TypeScript 编写的现代化、无依赖性的全文搜索引
 
 由于它是用 TypeScript 编写的，因此可以在**任何** JavaScript 运行时，包括浏览器、服务器、React Native 等。它以 Lyra （天琴座）的名字命名，因为它具有**分布式**和**高度可扩展**的特性。
 
-── 出自[倾城之链 - Lyra | The offline search experience](https://nicelinks.site/post/6355463780eb7b118fa81bdb)
+── 出自[倾城之链 - Lyra | The offline search experience](https://site.lovejade.cn/post/6355463780eb7b118fa81bdb)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

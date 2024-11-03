@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [ Let's Encrypt](https://nicelinks.site/post/63c75ff9ac46415757ac1486)
+## [ Let's Encrypt](https://site.lovejade.cn/post/63c75ff9ac46415757ac1486)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`工具`](https://nicelinks.site/tags/工具) · [`网络安全`](https://nicelinks.site/tags/网络安全)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`工具`](https://site.lovejade.cn/tags/工具) · [`网络安全`](https://site.lovejade.cn/tags/网络安全)
 
 > Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit Internet Security Research Group (ISRG).
 
@@ -18,11 +18,11 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 笔者最近这些年，部署十余个网站，有小部分基于 Github Pages 提供的 HTTPS 服务；其他网站则通过「腾讯 HTTPS 证书」服务，申请的免费 DV 证书，有效期 1 年；虽然过程简单，但操作繁琐：需要在阿里云、腾讯云、服务器等各处折腾下，网站较多，每隔几月便要操作一番，不胜其烦。2023，计划将这一流程切换至「基于自动化 Let's Encrypt」，以节省私人时间。
 
-── 出自[倾城之链 - Let's Encrypt](https://nicelinks.site/post/63c75ff9ac46415757ac1486)
+── 出自[倾城之链 - Let's Encrypt](https://site.lovejade.cn/post/63c75ff9ac46415757ac1486)
 
-## [OSS Insight](https://nicelinks.site/post/63c7543bac46415757ac1392)
+## [OSS Insight](https://site.lovejade.cn/post/63c7543bac46415757ac1392)
 
-**标签**：[`数据分析`](https://nicelinks.site/tags/数据分析) · [`Github`](https://nicelinks.site/tags/Github) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`数据分析`](https://site.lovejade.cn/tags/数据分析) · [`Github`](https://site.lovejade.cn/tags/Github) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：tidb, mysql, github events, github archive, github metrics, oss, compare oss, oss analysis, pingcap, insight tool, data visualization, rank, trend
 
@@ -30,7 +30,7 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 ![倾城之链 - OSS Insight](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ossinsight.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[OSS Insight](https://ossinsight.io/) 是一个强大的工具，通过分析数十亿个 GitHub 事件，提供对开源世界的全面、有价值和趋势洞察。它提供对各个 [GitHub](https://nicelinks.site/tags/GitHub) 存储库和开发人员的深入分析，以及使用相同指标比较两个存储库的能力。它具有以下功能特征：
+**推荐语**：[OSS Insight](https://ossinsight.io/) 是一个强大的工具，通过分析数十亿个 GitHub 事件，提供对开源世界的全面、有价值和趋势洞察。它提供对各个 [GitHub](https://site.lovejade.cn/tags/GitHub) 存储库和开发人员的深入分析，以及使用相同指标比较两个存储库的能力。它具有以下功能特征：
 
 ### 可见且独特的开发者
 
@@ -63,11 +63,11 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 [OSS Insight](https://ossinsight.io/) 是一个有趣、好玩、功能强大的开源洞察工具，可以帮助用户深入分析 GitHub 上任意一个代码仓库和开发者，还可以将两个代码仓库进行多维度的（贡献者、代码提交情况、协作讨论情况等）比较，并提供全面、有价值和趋势的开源见解。您可以使用它，针对开发者、代码仓库进行分析，对最新技术趋势的实时预测等。
 
-── 出自[倾城之链 - OSS Insight](https://nicelinks.site/post/63c7543bac46415757ac1392)
+── 出自[倾城之链 - OSS Insight](https://site.lovejade.cn/post/63c7543bac46415757ac1392)
 
-## [The Visual Collaboration Platform for Every Team | Miro](https://nicelinks.site/post/63c68357a327170ab79b0997)
+## [The Visual Collaboration Platform for Every Team | Miro](https://site.lovejade.cn/post/63c68357a327170ab79b0997)
 
-**标签**：[`白板`](https://nicelinks.site/tags/白板) · [`思维导图`](https://nicelinks.site/tags/思维导图) · [`可视化`](https://nicelinks.site/tags/可视化)
+**标签**：[`白板`](https://site.lovejade.cn/tags/白板) · [`思维导图`](https://site.lovejade.cn/tags/思维导图) · [`可视化`](https://site.lovejade.cn/tags/可视化)
 
 > Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 40M+ users from around the world.
 
@@ -89,25 +89,25 @@ Let's Encrypt 是一个于 2015 年三季度推出的数字证书认证机构，
 
 Miro，领先的视觉协作平台，使远程、在办公室和混合团队能够跨格式、工具、渠道和时区进行沟通和协作，而不受物理位置、会议空间和白板的限制。这让您可以围绕一个愿景凝聚您的团队，简化工作流程优先级，并提供解决方案，无论他们在何处工作。
 
-── 出自[倾城之链 - The Visual Collaboration Platform for Every Team | Miro](https://nicelinks.site/post/63c68357a327170ab79b0997)
+── 出自[倾城之链 - The Visual Collaboration Platform for Every Team | Miro](https://site.lovejade.cn/post/63c68357a327170ab79b0997)
 
-## [monday.com | A new way of working](https://nicelinks.site/post/63c67edea327170ab79b091c)
+## [monday.com | A new way of working](https://site.lovejade.cn/post/63c67edea327170ab79b091c)
 
-**标签**：[`工作`](https://nicelinks.site/tags/工作) · [`工作效率`](https://nicelinks.site/tags/工作效率) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`工作`](https://site.lovejade.cn/tags/工作) · [`工作效率`](https://site.lovejade.cn/tags/工作效率) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > monday.com Work OS is an open platform where anyone can create the tools they need to run every aspect of their work.
 
 ![倾城之链 - monday.com | A new way of working](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/monday.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[monday.com](https://monday.com/)，是一个用于项目管理和任务协调的在线工具，用以创建适合您工作方式的工作流程并节省时间。其特别之处在于：它在结构和[可视化](https://nicelinks.site/tags/可视化)方面提供了很大的灵活性。这使得管理不同类型团队的活动和项目变得容易，例如创意和设计团队、软件开发、市场营销、项目管理、销售和 CRM 等。提供了一种灵活而强大的方式来围绕组织的目标连接团队、资源、流程和工具。他们称自己为“工作操作系统”（Work OS），旨在简化您的工作以获得**最大的生产力**。
+**推荐语**：[monday.com](https://monday.com/)，是一个用于项目管理和任务协调的在线工具，用以创建适合您工作方式的工作流程并节省时间。其特别之处在于：它在结构和[可视化](https://site.lovejade.cn/tags/可视化)方面提供了很大的灵活性。这使得管理不同类型团队的活动和项目变得容易，例如创意和设计团队、软件开发、市场营销、项目管理、销售和 CRM 等。提供了一种灵活而强大的方式来围绕组织的目标连接团队、资源、流程和工具。他们称自己为“工作操作系统”（Work OS），旨在简化您的工作以获得**最大的生产力**。
 
 2021 年 6 月 10 日标志着 [monday.com](https://monday.com/) 新时代的开始——他们敲响了开市钟，正式成为纳斯达克上市公司。如今，Monday 继续通过发展成为一家多产品公司，来推动 Monday 的发展，为个人、团队和公司提供强大的产品，帮助他们将工作愿景变为现实。值得一提的是，Monday 在 2022 年获得 103% 的增长，如果您对它感兴趣，可以移步 [关于 Monday](https://monday.com/p/about/)。
 
-── 出自[倾城之链 - monday.com | A new way of working](https://nicelinks.site/post/63c67edea327170ab79b091c)
+── 出自[倾城之链 - monday.com | A new way of working](https://site.lovejade.cn/post/63c67edea327170ab79b091c)
 
-## [AlleyRead - 重塑你的信息源](https://nicelinks.site/post/63c3e0b1a327170ab79afe45)
+## [AlleyRead - 重塑你的信息源](https://site.lovejade.cn/post/63c3e0b1a327170ab79afe45)
 
-**标签**：[`发现`](https://nicelinks.site/tags/发现) · [`导航`](https://nicelinks.site/tags/导航) · [`资源`](https://nicelinks.site/tags/资源)
+**标签**：[`发现`](https://site.lovejade.cn/tags/发现) · [`导航`](https://site.lovejade.cn/tags/导航) · [`资源`](https://site.lovejade.cn/tags/资源)
 
 **关键字**：alleyread, 小巷阅读, 竹白, 小报童, substack, revue, 实时通讯, newsletter, 邮件通讯, 订阅, subscribe
 
@@ -139,11 +139,11 @@ Alleyread 致力于提升读者内容探索和阅读体验。AlleyRead 将围绕
 
 AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目前（2023 年 01 月 15 日），它收录了 227 个各类型订阅站点，方便让你发现你感兴趣的内容；此外，个人也觉得主动信息获取，远比算法信息流要好很多。如果您对该网站感兴趣，可移步至 [关于 AlleyRead](https://www.wolai.com/alleyread/cG9qjed93nkiQ961NJJjK6) 以了解更多。
 
-── 出自[倾城之链 - AlleyRead - 重塑你的信息源](https://nicelinks.site/post/63c3e0b1a327170ab79afe45)
+── 出自[倾城之链 - AlleyRead - 重塑你的信息源](https://site.lovejade.cn/post/63c3e0b1a327170ab79afe45)
 
-## [金数据 - 人人可用的在线表单工具](https://nicelinks.site/post/63c3ddeba327170ab79afdbb)
+## [金数据 - 人人可用的在线表单工具](https://site.lovejade.cn/post/63c3ddeba327170ab79afdbb)
 
-**标签**：[`数据`](https://nicelinks.site/tags/数据) · [`数据分析`](https://nicelinks.site/tags/数据分析) · [`问卷调查`](https://nicelinks.site/tags/问卷调查)
+**标签**：[`数据`](https://site.lovejade.cn/tags/数据) · [`数据分析`](https://site.lovejade.cn/tags/数据分析) · [`问卷调查`](https://site.lovejade.cn/tags/问卷调查)
 
 **关键字**：金数据, 问卷调查, 表单, 满意度调查, 报名表
 
@@ -195,17 +195,17 @@ AlleyRead，旨在发现优质  Newsletter，重塑你的信息源；截止目�
 
 [金数据](https://jinshuju.net/) ，创立于 2012 年，属 明略科技集团 旗下品牌，是一家为个人和企业用户解决数据收集管理问题的公司。旗下有 [金数据](https://jinshuju.net/) 表单和**浩客 XM** 用户体验分析平台两款产品。 [金数据](https://jinshuju.net/) 是人人可用的在线表单工具，帮助用户收集和管理日常工作中的数据，提升工作效率。任何行业和岗位的人员，无需特殊技能，都可以方便地创建出符合业务需求的表单。如果您对其感兴趣，想了解更多，可以移步 [关于金数据](https://jinshuju.net/about) 。
 
-── 出自[倾城之链 - 金数据 - 人人可用的在线表单工具](https://nicelinks.site/post/63c3ddeba327170ab79afdbb)
+── 出自[倾城之链 - 金数据 - 人人可用的在线表单工具](https://site.lovejade.cn/post/63c3ddeba327170ab79afdbb)
 
-## [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://nicelinks.site/post/63c39ddea327170ab79afb76)
+## [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://site.lovejade.cn/post/63c39ddea327170ab79afb76)
 
-**标签**：[`分析`](https://nicelinks.site/tags/分析) · [`自托管`](https://nicelinks.site/tags/自托管) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`分析`](https://site.lovejade.cn/tags/分析) · [`自托管`](https://site.lovejade.cn/tags/自托管) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.
 
 ![倾城之链 - Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/plausible.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Plausible Analytics](https://plausible.io/) 是一种简单、轻量级 (< 1 KB)、开源且保护隐私的 Google Analytics 替代品。它不使用 cookie，并且完全符合 GDPR、CCPA 和 PECR。您可以[自行托管](https://nicelinks.site/tags/自托管)或让其在云端为您运行 Plausible。Plausible 由欧洲拥有的云基础设施提供支持 🇪🇺。[这是 Plausible 网站统计的现场演示](https://plausible.io/plausible.io)。为什么要使用 Plausible 的分析？官方给出了以下理由：
+**推荐语**：[Plausible Analytics](https://plausible.io/) 是一种简单、轻量级 (< 1 KB)、开源且保护隐私的 Google Analytics 替代品。它不使用 cookie，并且完全符合 GDPR、CCPA 和 PECR。您可以[自行托管](https://site.lovejade.cn/tags/自托管)或让其在云端为您运行 Plausible。Plausible 由欧洲拥有的云基础设施提供支持 🇪🇺。[这是 Plausible 网站统计的现场演示](https://plausible.io/plausible.io)。为什么要使用 Plausible 的分析？官方给出了以下理由：
 
 ### 快速且易于集成
 
@@ -241,9 +241,9 @@ Plausible 的 API 提供了一种以编程方式检索您的统计信息、将�
 
 Plausible 团队认为：对于大多数网站所有者来说，Google Analytics 是矫枉过正。Plausible Analytics 易于使用和理解，无需培训或先前经验。Plausible Analytics 专为注重隐私的网站所有者打造。您将获得有价值且可操作的统计数据，以帮助您改进工作，同时让访客保持愉快的体验。
 
-从固有经验上看，绝大多数网站都使用 GA（Google Analytics）；但近些年 google 将其升级至 GA4，跟升级的朋友感触一致，它并不好用；而且 GA 现有版本将于 2023 年 7 月停止使用；另一方面 [Umami](https://nicelinks.site/post/6399ca80e524a8432ed1e00a)、 Plausible 等谷歌分析（Google Analytics）的替代方案，却在不断优化完善，看起来是时候转投自部署（自托管）产品，构建属于自己的网站分析平台了。
+从固有经验上看，绝大多数网站都使用 GA（Google Analytics）；但近些年 google 将其升级至 GA4，跟升级的朋友感触一致，它并不好用；而且 GA 现有版本将于 2023 年 7 月停止使用；另一方面 [Umami](https://site.lovejade.cn/post/6399ca80e524a8432ed1e00a)、 Plausible 等谷歌分析（Google Analytics）的替代方案，却在不断优化完善，看起来是时候转投自部署（自托管）产品，构建属于自己的网站分析平台了。
 
-── 出自[倾城之链 - Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://nicelinks.site/post/63c39ddea327170ab79afb76)
+── 出自[倾城之链 - Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://site.lovejade.cn/post/63c39ddea327170ab79afb76)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

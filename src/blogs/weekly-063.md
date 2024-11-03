@@ -1,12 +1,12 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [Bulma: Free, open source, and modern CSS framework based on Flexbox
 
-](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
+](https://site.lovejade.cn/post/626a8baa77f8270876fcb3de)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`框架`](https://site.lovejade.cn/tags/框架) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100% responsive, fully modular, and available for free.
 
@@ -23,11 +23,11 @@
 除此之外，[Bulma](https://bulma.io/)  还有一个很棒的特色，无需 **JavaScript** 仅 CSS，因此它可以集成在**任何 JS** 环境中。Bulma 是一个 **CSS** 框架。因此，唯一的输出是一个 CSS 文件：[bulma.css](https://github.com/jgthms/bulma/blob/master/css/bulma.css) 可以使用该文件，“开箱即用”，或者下载 Sass 源文件来自定义变量。如果您想了解更多，可参见 [Github Bulma](https://github.com/jgthms/bulma) 源码。
 
 ── 出自[倾城之链 - Bulma: Free, open source, and modern CSS framework based on Flexbox
-](https://nicelinks.site/post/626a8baa77f8270876fcb3de)
+](https://site.lovejade.cn/post/626a8baa77f8270876fcb3de)
 
-## [MongoDB: The Application Data Platform | MongoDB](https://nicelinks.site/post/62692add77f8270876fcb3dc)
+## [MongoDB: The Application Data Platform | MongoDB](https://site.lovejade.cn/post/62692add77f8270876fcb3dc)
 
-**标签**：[`编程语言`](https://nicelinks.site/tags/编程语言) · [`数据库`](https://nicelinks.site/tags/数据库) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`数据库`](https://site.lovejade.cn/tags/数据库) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Get your ideas to market faster with an application data platform built on the leading modern database. MongoDB makes working with data easy.
 
@@ -59,13 +59,13 @@ MongoDB 是一个介于关系数据库和非关系数据库之间的产品，因
 2. 传统的商业智能应用。
 3. 复杂的跨文档（表）级联查询。
 
-[MongoDB](https://www.mongodb.com/)  由开发者构建，为开发者服务。它的文档数据模型与开发人员的思维和编码方式相吻合，并拥有强大、统一的查询 API，为更快、更灵活的应用开发提供动力。值得一提的是，本站（[倾城之链](https://nicelinks.site/post/5aa2579e56ee0d60651820c5)）也是采用 [MongoDB](https://www.mongodb.com/)  做数据存储、查询，配合 [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) 做数据缓存，从而为网站的高效访问提供支撑。
+[MongoDB](https://www.mongodb.com/)  由开发者构建，为开发者服务。它的文档数据模型与开发人员的思维和编码方式相吻合，并拥有强大、统一的查询 API，为更快、更灵活的应用开发提供动力。值得一提的是，本站（[倾城之链](https://site.lovejade.cn/post/5aa2579e56ee0d60651820c5)）也是采用 [MongoDB](https://www.mongodb.com/)  做数据存储、查询，配合 [Redis](https://site.lovejade.cn/post/603e39560c8e4b046a182003) 做数据缓存，从而为网站的高效访问提供支撑。
 
-── 出自[倾城之链 - MongoDB: The Application Data Platform | MongoDB](https://nicelinks.site/post/62692add77f8270876fcb3dc)
+── 出自[倾城之链 - MongoDB: The Application Data Platform | MongoDB](https://site.lovejade.cn/post/62692add77f8270876fcb3dc)
 
-## [Billfish 素材管理工具](https://nicelinks.site/post/6267821a77f8270876fcb3da)
+## [Billfish 素材管理工具](https://site.lovejade.cn/post/6267821a77f8270876fcb3da)
 
-**标签**：[`高效`](https://nicelinks.site/tags/高效) · [`设计师`](https://nicelinks.site/tags/设计师) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`高效`](https://site.lovejade.cn/tags/高效) · [`设计师`](https://site.lovejade.cn/tags/设计师) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：Billfish, 素材管理, 图片管理软件, 免费素材管理工具, 设计师素材管理神器
 
@@ -102,11 +102,11 @@ MongoDB 是一个介于关系数据库和非关系数据库之间的产品，因
 
 经过长时间的打磨 Billfish 素材管理工具应运而生，简约而不简单。Billfish 满足您各种场景的素材管理需求。无论是数万张图片、还是各类字体、音视频、设计源文件等等，Billfish 都可以帮你快速分类整理；非常值得一提的是，其所有功能**完全免费**，以帮助每一个设计师都有一个灵感库,并用它创造出更好的作品。
 
-── 出自[倾城之链 - Billfish 素材管理工具](https://nicelinks.site/post/6267821a77f8270876fcb3da)
+── 出自[倾城之链 - Billfish 素材管理工具](https://site.lovejade.cn/post/6267821a77f8270876fcb3da)
 
-## [Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6)
+## [Obsidian](https://site.lovejade.cn/post/6266999577f8270876fcb3d6)
 
-**标签**：[`Markdown`](https://nicelinks.site/tags/Markdown) · [`编辑器`](https://nicelinks.site/tags/编辑器) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`编辑器`](https://site.lovejade.cn/tags/编辑器) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > Obsidian: A knowledge base that works on local Markdown files.
 
@@ -150,11 +150,11 @@ Obsidian 被构建为可从头开始扩展。我们希望您构建自己的系�
 
 今（2022 年 4 月 25 日），从朋友处了解到 [Obsidian](https://obsidian.md/) ，初步试用之下，已经感受到它是非常棒的文档编辑应用，综合来讲，是目前所用文本编辑工具最棒；另外，它支持 Windows、Mac、Linux 等平台，而且**免费**可用；您在其他平台上享有的功能，在 Obsidian 都找到。如果您想了解更多，如 Obsidian 设计初衷等，可参见 [About Obsidian](https://obsidian.md/about) 。
 
-── 出自[倾城之链 - Obsidian](https://nicelinks.site/post/6266999577f8270876fcb3d6)
+── 出自[倾城之链 - Obsidian](https://site.lovejade.cn/post/6266999577f8270876fcb3d6)
 
-## [卷王 | SurveyKing - 更好的调查问卷系统](https://nicelinks.site/post/626538a177f8270876fcb3d4)
+## [卷王 | SurveyKing - 更好的调查问卷系统](https://site.lovejade.cn/post/626538a177f8270876fcb3d4)
 
-**标签**：[`问卷调查`](https://nicelinks.site/tags/问卷调查) · [`开源`](https://nicelinks.site/tags/开源) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`问卷调查`](https://site.lovejade.cn/tags/问卷调查) · [`开源`](https://site.lovejade.cn/tags/开源) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 ![倾城之链 - 卷王 | SurveyKing - 更好的调查问卷系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/surveyking.cn.png?x-oss-process=style/png2jpg)
 
@@ -174,9 +174,9 @@ Obsidian 被构建为可从头开始扩展。我们希望您构建自己的系�
 - 🙆 支持完善的 RBAC 权限控制；
 - 😊 支持**工作流**，工作流代码已全部开源；
 
-因为开源，您可以方便通过**发行版**、源码编译、Docker 等方式部署（按轧辊）在自己服务器；相比于[问卷星](https://nicelinks.site/post/5f24144ab1689d3f5f920016)、腾讯问卷等商业产品，`卷王` 在 Github 上，对主要功能点，也做了比较；目前（2022 年 4 月），版本 0.3.0-beta.13 已发布，感兴趣的朋友可前往[卷王 Github 仓库](https://github.com/javahuang/SurveyKing)了解更多。
+因为开源，您可以方便通过**发行版**、源码编译、Docker 等方式部署（按轧辊）在自己服务器；相比于[问卷星](https://site.lovejade.cn/post/5f24144ab1689d3f5f920016)、腾讯问卷等商业产品，`卷王` 在 Github 上，对主要功能点，也做了比较；目前（2022 年 4 月），版本 0.3.0-beta.13 已发布，感兴趣的朋友可前往[卷王 Github 仓库](https://github.com/javahuang/SurveyKing)了解更多。
 
-── 出自[倾城之链 - 卷王 | SurveyKing - 更好的调查问卷系统](https://nicelinks.site/post/626538a177f8270876fcb3d4)
+── 出自[倾城之链 - 卷王 | SurveyKing - 更好的调查问卷系统](https://site.lovejade.cn/post/626538a177f8270876fcb3d4)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

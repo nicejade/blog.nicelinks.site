@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Animista - CSS Animations on Demand](https://nicelinks.site/post/6127953eb05045064259069a)
+## [Animista - CSS Animations on Demand](https://site.lovejade.cn/post/6127953eb05045064259069a)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`前端开发`](https://nicelinks.site/tags/前端开发) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`前端开发`](https://site.lovejade.cn/tags/前端开发) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 **关键字**：CSS, animation, library, web, front-end, frontend, development, design, motion, keyframe
 
@@ -14,11 +14,11 @@
 
 **推荐语**：[Animista](https://animista.net/) 是一个 CSS 动画库（工具），在这里你可以玩到一系列现成的 CSS 动画，并且只下载那些你会用到的动画。它的使用方式非常简单，您可以根据自己需要，找到喜欢的动画样式，用提供的丰富选项，做下微调，满意之后，即可生成代码，一键拷贝加以使用。值得一提的是，[Animista](https://animista.net/) 所涉及的动画类型有：基础、入口、退出、文本、注意力、背景等，而动画方式，更是丰富多彩；这对前端开发工程师，具有非常高使用价值。
 
-── 出自[倾城之链 - Animista - CSS Animations on Demand](https://nicelinks.site/post/6127953eb05045064259069a)
+── 出自[倾城之链 - Animista - CSS Animations on Demand](https://site.lovejade.cn/post/6127953eb05045064259069a)
 
-## [Mimo: Learn how to code on your phone](https://nicelinks.site/post/61278b42b050450642590698)
+## [Mimo: Learn how to code on your phone](https://site.lovejade.cn/post/61278b42b050450642590698)
 
-**标签**：[`编程`](https://nicelinks.site/tags/编程) · [`代码`](https://nicelinks.site/tags/代码)
+**标签**：[`编程`](https://site.lovejade.cn/tags/编程) · [`代码`](https://site.lovejade.cn/tags/代码)
 
 **关键字**：Mimo, Micro-Learning, Swift, iPhone, Code, Programming, Learn, Course, Tutorial, Lesson, Web Developer, Online Learning, Kotlin, Android, Javascript
 
@@ -35,11 +35,11 @@
 
 对一刀切的方法，和建立技术技能的陡峭学习曲线感到沮丧，因而 [Mimo](https://getmimo.com/) 被创造出来。坦白讲，拥有编码技能，有助于您提升工作效率（与计算机相关）；懂得编程思维，则能让您对工作和生活，有更加清晰的规划和应对。倘若您想通过自学来掌握编码相关技能，[Mimo](https://getmimo.com/) 是值得信赖的选择。
 
-── 出自[倾城之链 - Mimo: Learn how to code on your phone](https://nicelinks.site/post/61278b42b050450642590698)
+── 出自[倾城之链 - Mimo: Learn how to code on your phone](https://site.lovejade.cn/post/61278b42b050450642590698)
 
-## [Informant for macOSInformant for macOS](https://nicelinks.site/post/61263d91b050450642590696)
+## [Informant for macOSInformant for macOS](https://site.lovejade.cn/post/61263d91b050450642590696)
 
-**标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`利器`](https://nicelinks.site/tags/利器)
+**标签**：[`Mac`](https://site.lovejade.cn/tags/Mac) · [`工具`](https://site.lovejade.cn/tags/工具) · [`利器`](https://site.lovejade.cn/tags/利器)
 
 > Inspect files on macOS with a single click.
 
@@ -49,11 +49,11 @@
 
 对个人而言，[Informant](https://informant-app.com/) 蛮有价值的应用程序，MacOS 上的 Finder（访达），固然已经对文件的元数据，做了清晰的展示；但，所展示内容毕竟有限；另外，它并未对文件夹 📁 起作用；对于习惯用命令行的用户，可以使用 `du`、`ls` 等命令，来获取文件信息，但这在 Finder 上并不方便；这就使得 [Informant](https://informant-app.com/) 在某些场景下发挥作用。值得一提的是，您可以自定义菜单栏和面板，以显示对您很重要的信息。
 
-── 出自[倾城之链 - Informant for macOSInformant for macOS](https://nicelinks.site/post/61263d91b050450642590696)
+── 出自[倾城之链 - Informant for macOSInformant for macOS](https://site.lovejade.cn/post/61263d91b050450642590696)
 
-## [Marp: Markdown Presentation Ecosystem](https://nicelinks.site/post/61262d33b050450642590694)
+## [Marp: Markdown Presentation Ecosystem](https://site.lovejade.cn/post/61262d33b050450642590694)
 
-**标签**：[`PPT`](https://nicelinks.site/tags/PPT) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`PPT`](https://site.lovejade.cn/tags/PPT) · [`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Marp (also known as the Markdown Presentation Ecosystem) provides an intuitive experience for creating beautiful slide decks. You only have to focus on writing your story in a Markdown document.
 
@@ -69,7 +69,7 @@
 
 除此之外，[Marp](https://marp.app/) 还有蛮多其他特质，需要进一步探索。倘若说，您已经厌倦基于 Microsoft PowerPoint、Keynote 这些操作性很强的工具，来创建 PPT，那么类似 [Marp](https://marp.app/) 这样通过 Markdown 来构建 PPT 工具，值得选择。
 
-── 出自[倾城之链 - Marp: Markdown Presentation Ecosystem](https://nicelinks.site/post/61262d33b050450642590694)
+── 出自[倾城之链 - Marp: Markdown Presentation Ecosystem](https://site.lovejade.cn/post/61262d33b050450642590694)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

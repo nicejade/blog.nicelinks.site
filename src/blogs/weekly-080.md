@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Gamma ｜ Write like a doc, present like a deck](https://nicelinks.site/post/6307638fd3028e784afedaef)
+## [Gamma ｜ Write like a doc, present like a deck](https://site.lovejade.cn/post/6307638fd3028e784afedaef)
 
-**标签**：[`PPT`](https://nicelinks.site/tags/PPT) · [`幻灯片`](https://nicelinks.site/tags/幻灯片) · [`高效`](https://nicelinks.site/tags/高效)
+**标签**：[`PPT`](https://site.lovejade.cn/tags/PPT) · [`幻灯片`](https://site.lovejade.cn/tags/幻灯片) · [`高效`](https://site.lovejade.cn/tags/高效)
 
 > The fast alternative to slides. Gamma is an alternative to slide decks - a fast, simple way to share and present your work. Create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async. All in your browser, nothing to download or install.
 
 ![倾城之链 - Gamma ｜ Write like a doc, present like a deck](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gamma.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Gamma](https://gamma.app/)（伽马）， 是幻灯片（[PPT](https://nicelinks.site/tags/PPT)）的替代品，支持以一种快速、简单的方式来分享和展示您的作品。他创建易于现场讨论或异步共享的引人入胜的演示文稿、备忘录、简报和文档。全部在您的浏览器中，无需下载或安装。它具有以下功能特征：
+**推荐语**：[Gamma](https://gamma.app/)（伽马）， 是幻灯片（[PPT](https://site.lovejade.cn/tags/PPT)）的替代品，支持以一种快速、简单的方式来分享和展示您的作品。他创建易于现场讨论或异步共享的引人入胜的演示文稿、备忘录、简报和文档。全部在您的浏览器中，无需下载或安装。它具有以下功能特征：
 
 ### 专注于内容，而不是格式
 
@@ -35,7 +35,7 @@ Gamma 便于表达你的观点；它使用嵌套卡片的方式，以便听众�
 - 💬 **评论**使协作变得简单；
 - 📱 **在任何设备**上共享——笔记本电脑、平板电脑或手机；
 
-在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f)，Gamma 创始人之一 Grant 分享道：
+在 [Product Hunt](https://site.lovejade.cn/post/5f40d0bf15435e0906a0a26f)，Gamma 创始人之一 Grant 分享道：
 
 > 每年，有十数亿人在 Google 幻灯片或 Powerpoint 中创建演示文稿。30 多年来，幻灯片一直是商务沟通的语言。 虽然生产力套件的其余部分多年来都出现了显著升级，但幻灯片作为一种格式基本保持不变：它们的尺寸是固定的（向 35 毫米天致敬），它们是为线性、单向演示而构建的，并且设计它们仍然很痛苦。
 >
@@ -43,13 +43,13 @@ Gamma 便于表达你的观点；它使用嵌套卡片的方式，以便听众�
 >
 > 免费使用。没有试用期。只需创建您的账户并开始构建。
 
-Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。比[幻灯片（PPT）](https://nicelinks.site/tags/PPT)更具协作性。比视频更具互动性。值得一提的是，它免费可用。如果您厌倦了 Powerpoint 那种原始的笨拙方式，并且「条件允许的话」，不妨大胆尝试下类似 Gamma 这种新的分享方式。同类型产品还有：[SliDev](https://sli.dev/)、[Beautiful.ai](https://nicelinks.site/post/5d64acd1d95e0a5c61b4b84e)、[Ludus](https://ludus.one/) 等。
+Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。比[幻灯片（PPT）](https://site.lovejade.cn/tags/PPT)更具协作性。比视频更具互动性。值得一提的是，它免费可用。如果您厌倦了 Powerpoint 那种原始的笨拙方式，并且「条件允许的话」，不妨大胆尝试下类似 Gamma 这种新的分享方式。同类型产品还有：[SliDev](https://sli.dev/)、[Beautiful.ai](https://site.lovejade.cn/post/5d64acd1d95e0a5c61b4b84e)、[Ludus](https://ludus.one/) 等。
 
-── 出自[倾城之链 - Gamma ｜ Write like a doc, present like a deck](https://nicelinks.site/post/6307638fd3028e784afedaef)
+── 出自[倾城之链 - Gamma ｜ Write like a doc, present like a deck](https://site.lovejade.cn/post/6307638fd3028e784afedaef)
 
-## [Xnapper – Take beautiful screenshots instantly](https://nicelinks.site/post/63060e34d3028e784afedaed)
+## [Xnapper – Take beautiful screenshots instantly](https://site.lovejade.cn/post/63060e34d3028e784afedaed)
 
-**标签**：[`截图`](https://nicelinks.site/tags/截图) · [`软件`](https://nicelinks.site/tags/软件) · [`Mac`](https://nicelinks.site/tags/Mac)
+**标签**：[`截图`](https://site.lovejade.cn/tags/截图) · [`软件`](https://site.lovejade.cn/tags/软件) · [`Mac`](https://site.lovejade.cn/tags/Mac)
 
 > Native macOS app. One click to take a beautiful and ready-to-share screenshot.
 
@@ -76,31 +76,31 @@ Gamma，就像带你去一个新的宇宙的一扇门，它比文档更直观。
 - 快速的设备文本识别；
 - 美丽而快速的原生 macOS 应用程序；
 
-其他诸如像「上传到云端」等功能，将在后续版本提供。值得一提的是， Xnapper 支持  iPhone/iPad，无论您走到哪里，都可以看到精美的屏幕截图。[Xnapper](https://xnapper.com/) 在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 一经发布，便得到千余 UPVOTE（赞成），其被欢迎程度，可见一斑。有下载亲测，确实比之前所用的截图软件要好用（尤其是自动平衡等功能）。只不过，它虽然免费可用；但需要付费购买，才能去除品牌水印。
+其他诸如像「上传到云端」等功能，将在后续版本提供。值得一提的是， Xnapper 支持  iPhone/iPad，无论您走到哪里，都可以看到精美的屏幕截图。[Xnapper](https://xnapper.com/) 在 [Product Hunt](https://site.lovejade.cn/post/5f40d0bf15435e0906a0a26f) 一经发布，便得到千余 UPVOTE（赞成），其被欢迎程度，可见一斑。有下载亲测，确实比之前所用的截图软件要好用（尤其是自动平衡等功能）。只不过，它虽然免费可用；但需要付费购买，才能去除品牌水印。
 
-── 出自[倾城之链 - Xnapper – Take beautiful screenshots instantly](https://nicelinks.site/post/63060e34d3028e784afedaed)
+── 出自[倾城之链 - Xnapper – Take beautiful screenshots instantly](https://site.lovejade.cn/post/63060e34d3028e784afedaed)
 
-## [Headless UI - Unstyled, fully accessible UI components](https://nicelinks.site/post/6304b2d3d3028e784afedaeb)
+## [Headless UI - Unstyled, fully accessible UI components](https://site.lovejade.cn/post/6304b2d3d3028e784afedaeb)
 
-**标签**：[`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`CSS`](https://nicelinks.site/tags/CSS) · [`组件`](https://nicelinks.site/tags/组件)
+**标签**：[`Tailwind`](https://site.lovejade.cn/tags/Tailwind) · [`CSS`](https://site.lovejade.cn/tags/CSS) · [`组件`](https://site.lovejade.cn/tags/组件)
 
 > Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 ![倾城之链 - Headless UI - Unstyled, fully accessible UI components](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/headlessui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Headless UI](https://headlessui.com/)，是一组完全无样式、完全可访问的 UI 组件，旨在与 [Tailwind](https://nicelinks.site/tags/Tailwind) CSS 完美集成。该项目开源（16K+ Star）、免费可用，支持 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架；截止目前，提供有下拉菜单、列表框（选择）、组合框（自动完成）、开关（Switch 切换）、对话框（模态）、弹出框、标签等十个组件，非常漂亮，且易于使用。如果您喜欢基于 Tailwind CSS 为前端项目编写样式，[Headless UI](https://headlessui.com/) 是非常值得学习和使用的项目。如果您想了解更多，可移步至 [Tailwind Labs](https://github.com/tailwindlabs)。
+**推荐语**：[Headless UI](https://headlessui.com/)，是一组完全无样式、完全可访问的 UI 组件，旨在与 [Tailwind](https://site.lovejade.cn/tags/Tailwind) CSS 完美集成。该项目开源（16K+ Star）、免费可用，支持 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 和 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 框架；截止目前，提供有下拉菜单、列表框（选择）、组合框（自动完成）、开关（Switch 切换）、对话框（模态）、弹出框、标签等十个组件，非常漂亮，且易于使用。如果您喜欢基于 Tailwind CSS 为前端项目编写样式，[Headless UI](https://headlessui.com/) 是非常值得学习和使用的项目。如果您想了解更多，可移步至 [Tailwind Labs](https://github.com/tailwindlabs)。
 
-── 出自[倾城之链 - Headless UI - Unstyled, fully accessible UI components](https://nicelinks.site/post/6304b2d3d3028e784afedaeb)
+── 出自[倾城之链 - Headless UI - Unstyled, fully accessible UI components](https://site.lovejade.cn/post/6304b2d3d3028e784afedaeb)
 
-## [Grid.js - Advanced JavaScript table plugin](https://nicelinks.site/post/6303652fd3028e784afedae9)
+## [Grid.js - Advanced JavaScript table plugin](https://site.lovejade.cn/post/6303652fd3028e784afedae9)
 
-**标签**：[`表格`](https://nicelinks.site/tags/表格) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`组件`](https://nicelinks.site/tags/组件)
+**标签**：[`表格`](https://site.lovejade.cn/tags/表格) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`组件`](https://site.lovejade.cn/tags/组件)
 
 > Grid.js is a Free and open-source JavaScript table plugin. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs.
 
 ![倾城之链 - Grid.js - Advanced JavaScript table plugin](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/gridjs.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：Grid.js，是一个免费的开源 JavaScript 表格插件。它适用于大多数 JavaScript 框架，包括 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)、[Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf)、[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 VanillaJs。通过几个简单的步骤，即可安装 Grid.js。Grid.js 由两个主要文件组成，JavaScript 部分和 CSS 部分，它们可以很好地呈现元素。它具有以下功能特征：
+**推荐语**：Grid.js，是一个免费的开源 JavaScript 表格插件。它适用于大多数 JavaScript 框架，包括 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)、[Angular](https://site.lovejade.cn/post/5b2b7f663bd7ef3847a3fadf)、[Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 和 VanillaJs。通过几个简单的步骤，即可安装 Grid.js。Grid.js 由两个主要文件组成，JavaScript 部分和 CSS 部分，它们可以很好地呈现元素。它具有以下功能特征：
 
 ### 便于使用
 
@@ -124,9 +124,9 @@ new Grid({
 
 Grid.js 是免费和开源的，在 MIT 许可下发布。
 
-此外，Grid.js 还有些其他特性，诸如：简单轻量级的实现（所有插件只有 12kb）、基于 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 编写、支持所有现代浏览器和 IE11+ 等等；如果您有基于表格（table）来完成的需求，Grid.js 是很棒的选择之一。
+此外，Grid.js 还有些其他特性，诸如：简单轻量级的实现（所有插件只有 12kb）、基于 [TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef) 编写、支持所有现代浏览器和 IE11+ 等等；如果您有基于表格（table）来完成的需求，Grid.js 是很棒的选择之一。
 
-── 出自[倾城之链 - Grid.js - Advanced JavaScript table plugin](https://nicelinks.site/post/6303652fd3028e784afedae9)
+── 出自[倾城之链 - Grid.js - Advanced JavaScript table plugin](https://site.lovejade.cn/post/6303652fd3028e784afedae9)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

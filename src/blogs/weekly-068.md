@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Markdoc | A powerful, flexible, Markdown-based authoring framework](https://nicelinks.site/post/62989f100f40a860b1599de4)
+## [Markdoc | A powerful, flexible, Markdown-based authoring framework](https://site.lovejade.cn/post/62989f100f40a860b1599de4)
 
-**标签**：[`Markdown`](https://nicelinks.site/tags/Markdown) · [`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`文档`](https://nicelinks.site/tags/文档)
+**标签**：[`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`文档`](https://site.lovejade.cn/tags/文档)
 
 > From personal blogs to massive documentation sites, Markdoc is a content authoring system that grows with you.
 
 ![倾城之链 - Markdoc | A powerful, flexible, Markdown-based authoring framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/markdoc.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Markdoc](https://markdoc.io/) 一个强大、灵活、基于 Markdown 的创作框架。它是基于 [Markdown](https://nicelinks.site/tags/Markdown) 的语法和工具链，用于创建自定义文档站点和体验。它具有以下功能特征：
+**推荐语**：[Markdoc](https://markdoc.io/) 一个强大、灵活、基于 Markdown 的创作框架。它是基于 [Markdown](https://site.lovejade.cn/tags/Markdown) 的语法和工具链，用于创建自定义文档站点和体验。它具有以下功能特征：
 
 ### 完全开源
 
@@ -30,17 +30,17 @@ Markdoc 允许您自定义系统的所有方面，从 [自定义标签](https://
 
 [Markdoc 核心](https://github.com/markdoc/markdoc) 是一个轻量级的包，其中包含您入门所需的一切。如果您想更快地进行，请查看 [Next.js 插件](https://github.com/markdoc/next.js) 并部署一个零样板的 Markdoc 文档站点。从个人博客到海量文档站点，Markdoc 是一个与您一起成长的内容创作系统。
 
-── 出自[倾城之链 - Markdoc | A powerful, flexible, Markdown-based authoring framework](https://nicelinks.site/post/62989f100f40a860b1599de4)
+── 出自[倾城之链 - Markdoc | A powerful, flexible, Markdown-based authoring framework](https://site.lovejade.cn/post/62989f100f40a860b1599de4)
 
-## [Fast, disk space efficient package manager | pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)
+## [Fast, disk space efficient package manager | pnpm](https://site.lovejade.cn/post/62989af00f40a860b1599de2)
 
-**标签**：[`npm`](https://nicelinks.site/tags/npm) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`npm`](https://site.lovejade.cn/tags/npm) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Fast, disk space efficient package manager
 
 ![倾城之链 - Fast, disk space efficient package manager | pnpm](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pnpm.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [PNPM](https://pnpm.io/) ，快速的，节省磁盘空间的包管理工具；相比于 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 或 [yarn](https://nicelinks.site/post/62962d4bf6811e06619d2773) ，pnpm 具有以下功能特色：
+**推荐语**： [PNPM](https://pnpm.io/) ，快速的，节省磁盘空间的包管理工具；相比于 [npm](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b) 或 [yarn](https://site.lovejade.cn/post/62962d4bf6811e06619d2773) ，pnpm 具有以下功能特色：
 
 - **快速**：pnpm 比其他包管理器快 2 倍；
 - **高效**：node_modules 中的文件链接自特定的内容寻址存储库；
@@ -57,11 +57,11 @@ Markdoc 允许您自定义系统的所有方面，从 [自定义标签](https://
 
 带来的结果是：您节省了数千兆字节的磁盘空间，并且安装速度大大加快！如果您想了解有关 `node_modules` pnpm 创建的独特结构，以及它为何能在 Node.js 生态系统中正常工作的更多详细信息，请阅读文章： [Flat node_modules is not the only way](https://pnpm.io/blog/2020/05/27/flat-node-modules-is-not-the-only-way) 。
 
-── 出自[倾城之链 - Fast, disk space efficient package manager | pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)
+── 出自[倾城之链 - Fast, disk space efficient package manager | pnpm](https://site.lovejade.cn/post/62989af00f40a860b1599de2)
 
-## [ZincSearch - A modern search engine](https://nicelinks.site/post/629894090f40a860b1599de0)
+## [ZincSearch - A modern search engine](https://site.lovejade.cn/post/629894090f40a860b1599de0)
 
-**标签**：[`搜索`](https://nicelinks.site/tags/搜索) · [`引擎`](https://nicelinks.site/tags/引擎) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`搜索`](https://site.lovejade.cn/tags/搜索) · [`引擎`](https://site.lovejade.cn/tags/引擎) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：ZincSearch, ZincLabs, Zinc, Search, Search Engine, Search System
 
@@ -101,11 +101,11 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 如果您有打造**站内搜索**的诉求，相信 `ZincSearch` 将会是您值得选取的方案。倘若你对它感兴趣，想了解更多，可参见 [ZincSearch 文档](https://docs.zincsearch.com/)。
 
-── 出自[倾城之链 - ZincSearch - A modern search engine](https://nicelinks.site/post/629894090f40a860b1599de0)
+── 出自[倾城之链 - ZincSearch - A modern search engine](https://site.lovejade.cn/post/629894090f40a860b1599de0)
 
-## [泡泡](https://nicelinks.site/post/6296dc83f6811e06619d2775)
+## [泡泡](https://site.lovejade.cn/post/6296dc83f6811e06619d2775)
 
-**标签**：[`社区`](https://nicelinks.site/tags/社区) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`社区`](https://site.lovejade.cn/tags/社区) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 
@@ -115,23 +115,23 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 - [Go](https://go.dev/) (1.17+)：谷歌开源编程语言，支持大规模构建快速、可靠和高效的软件；
 - [Gin](https://gin-gonic.com/)：是一个用 Golang 编写的全功能 Web 框架，侧重性能和生产力；
-- [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) (14+)：是一个免费的、开源的、跨平台的 JavaScript 运行时环境；
+- [Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) (14+)：是一个免费的、开源的、跨平台的 JavaScript 运行时环境；
 - MySQL (5.7+)：是流行的关系型数据库管理系统，广泛地应用在中小型网站中；
-- [Redis](https://nicelinks.site/post/603e39560c8e4b046a182003) ：是一个开源（BSD 授权）的内存数据结构存储，用作数据库、缓存和消息中介；
+- [Redis](https://site.lovejade.cn/post/603e39560c8e4b046a182003) ：是一个开源（BSD 授权）的内存数据结构存储，用作数据库、缓存和消息中介；
 - [Zinc](https://zincsearch.com/) ：一款轻量级全文搜索引擎，可用于任何类型文本数据；
-- [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef)：一种开源的程式语言，是 JavaScript 类型的超集；
-- [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)：是一款友好的、多用途且高性能的渐进式  `JavaScript`  框架；
-- [Vite.js](<[https://vitejs.dev/](https://nicelinks.site/post/6010e1b10c71de1fb957b64e)>)：  一个基于浏览器原生 ES imports 的开发服务器；
-- [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)：一个实用为先的 CSS 框架，用于快速构建自定义用户界面；
+- [TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef)：一种开源的程式语言，是 JavaScript 类型的超集；
+- [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)：是一款友好的、多用途且高性能的渐进式  `JavaScript`  框架；
+- [Vite.js](<[https://vitejs.dev/](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e)>)：  一个基于浏览器原生 ES imports 的开发服务器；
+- [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7)：一个实用为先的 CSS 框架，用于快速构建自定义用户界面；
 - [Naive UI](https://www.naiveui.com/)：基于 Vue3 的组件库，完整，主题可调，使用 TypeScript，快；
 
-值得一提的是，该项目有在 [Github 开源](https://github.com/rocboss/paopao-ce) ，目前支持 Git 克隆源码，以及通过 [宝塔](https://nicelinks.site/post/60a2544b22e2eb43fca1a9eb) （简单好用的服务器运维面板）这两种安装方式，感兴趣的朋友不妨了解下。
+值得一提的是，该项目有在 [Github 开源](https://github.com/rocboss/paopao-ce) ，目前支持 Git 克隆源码，以及通过 [宝塔](https://site.lovejade.cn/post/60a2544b22e2eb43fca1a9eb) （简单好用的服务器运维面板）这两种安装方式，感兴趣的朋友不妨了解下。
 
-── 出自[倾城之链 - 泡泡](https://nicelinks.site/post/6296dc83f6811e06619d2775)
+── 出自[倾城之链 - 泡泡](https://site.lovejade.cn/post/6296dc83f6811e06619d2775)
 
-## [Home | Yarn - Package Manager](https://nicelinks.site/post/62962d4bf6811e06619d2773)
+## [Home | Yarn - Package Manager](https://site.lovejade.cn/post/62962d4bf6811e06619d2773)
 
-**标签**：[`npm`](https://nicelinks.site/tags/npm) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`npm`](https://site.lovejade.cn/tags/npm) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 **关键字**：package manager, yarn, yarnpkg, configuration, yarnrc
 
@@ -141,17 +141,17 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 **推荐语**：[Yarn](https://yarnpkg.com/)，对你的代码来说是一个包管理器， 你可以通过它使用全世界开发者的代码，或者分享自己的代码。 Yarn 做这些快捷、安全、可靠，所以你不用担心什么。通过  `Yarn`，你可以使用其他开发者针对不同问题的解决方案，使自己的开发过程更简单。 使用过程中遇到问题，你可以将其上报或者贡献解决方案。一旦问题被修复，Yarn 会更新保持同步。
 
-`Yarn`  是 Facebook, Google, Exponent 和 Tilde 开发的一款新的 JavaScript 包管理工具。它并没有试图完全取代 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b)（Npm Package Manager）。Yarn 同样是一个从 npm 注册源获取模块的新的 CLI 客户端。注册的方式不会有任何变化 —— 你同样可以正常获取与发布包。它存在的目的是解决团队在使用  `npm`  面临的少数问题。当然，在  `Node`  版本断更替中，Npm 本身也在积极更新。
+`Yarn`  是 Facebook, Google, Exponent 和 Tilde 开发的一款新的 JavaScript 包管理工具。它并没有试图完全取代 [npm](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b)（Npm Package Manager）。Yarn 同样是一个从 npm 注册源获取模块的新的 CLI 客户端。注册的方式不会有任何变化 —— 你同样可以正常获取与发布包。它存在的目的是解决团队在使用  `npm`  面临的少数问题。当然，在  `Node`  版本断更替中，Npm 本身也在积极更新。
 
 `Yarn`  具有**稳定**、**创新**、**高效**、**开放性**等几大特征，并以很高频率在迭代更新，只为让开发者拥有理想的开发体验，这对于 Web 前端开发者非常友好。我本人作为 Web 开发者这个角色，就更喜欢使用 Yarn，并整理有 [Npm vs Yarn 之备忘详单](https://www.jeffjade.com/2017/12/30/135-npm-vs-yarn-detial-memo/) 一文，感兴趣的朋友可以分享下您的看法。
 
 最后：「**工欲善其事，必先利其器**」；不管用何种工具，唯有深入了解其全貌，知其优、晓其劣，方能更好选择更适合自己，并且驾驭它，使之为自己高效、快意的生活增姿添色。
 
-── 出自[倾城之链 - Home | Yarn - Package Manager](https://nicelinks.site/post/62962d4bf6811e06619d2773)
+── 出自[倾城之链 - Home | Yarn - Package Manager](https://site.lovejade.cn/post/62962d4bf6811e06619d2773)
 
-## [Colorfu | Make beautiful but also meaningful wallpapers.](https://nicelinks.site/post/6295f213eefd9b0665f43d72)
+## [Colorfu | Make beautiful but also meaningful wallpapers.](https://site.lovejade.cn/post/6295f213eefd9b0665f43d72)
 
-**标签**：[`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`设计`](https://nicelinks.site/tags/设计) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器) · [`设计`](https://site.lovejade.cn/tags/设计) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > ColorFu is where people can use words, colors, patterns and images to make unique wallpapers to express their feelings or ideas.
 
@@ -166,7 +166,7 @@ ZincSearch **专为全文搜索而构建**；它是一个可用于任何类型�
 
 值得一提的是，Colorfu 在 [Github 开源](https://github.com/pearmini/colorfu)，您如果感兴趣，可以基于源码开发更多您喜欢的功能。
 
-── 出自[倾城之链 - Colorfu | Make beautiful but also meaningful wallpapers.](https://nicelinks.site/post/6295f213eefd9b0665f43d72)
+── 出自[倾城之链 - Colorfu | Make beautiful but also meaningful wallpapers.](https://site.lovejade.cn/post/6295f213eefd9b0665f43d72)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

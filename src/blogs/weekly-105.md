@@ -1,20 +1,20 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Bun — fast all-in-one JavaScript runtime](https://nicelinks.site/post/63ee1d1d3ca14e0315d81b2f)
+## [Bun — fast all-in-one JavaScript runtime](https://site.lovejade.cn/post/63ee1d1d3ca14e0315d81b2f)
 
-**标签**：[`runtime`](https://nicelinks.site/tags/runtime) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`runtime`](https://site.lovejade.cn/tags/runtime) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > Bundle, transpile, install, and run JavaScript & TypeScript — all in Bun. Bun is a new JavaScript runtime with a native bundler, transpiler, task runner, and npm client built-in.
 
 ![倾城之链 - Bun — fast all-in-one JavaScript runtime](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bun.sh.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bun](https://bun.sh/) （馒头）是一个快速的一体化 [JavaScript](https://nicelinks.site/tags/JavaScript) 运行时；捆绑、转译、安装和运行 JavaScript 和 TypeScript 项目——全部在 Bun 中。Bun 是一个新的 JavaScript 运行时，内置了原生的打包器、转译器、任务运行器和 [npm](https://nicelinks.site/tags/npm) 客户端。
+**推荐语**：[Bun](https://bun.sh/) （馒头）是一个快速的一体化 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 运行时；捆绑、转译、安装和运行 JavaScript 和 TypeScript 项目——全部在 Bun 中。Bun 是一个新的 JavaScript 运行时，内置了原生的打包器、转译器、任务运行器和 [npm](https://site.lovejade.cn/tags/npm) 客户端。
 
 ### 什么是 Bun？
 
-[Bun](https://bun.sh/) 是像 [Node](https://nicelinks.site/post/5f376ebe1751843ef894c899) 或 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 一样的现代 JavaScript 运行时。它是从头开始构建的，专注于三个主要方面：
+[Bun](https://bun.sh/) 是像 [Node](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) 或 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 一样的现代 JavaScript 运行时。它是从头开始构建的，专注于三个主要方面：
 
 - 快速开始（考虑到优势）。
 - 新的性能水平（扩展 JavaScriptCore，引擎）。
@@ -26,19 +26,19 @@ Bun 的目标是在浏览器之外运行世界上大部分的 JavaScript，为�
 
 ### Bun 是如何工作的？
 
-Bun 使用 [JavaScriptCore](https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore) 引擎，它的启动和执行速度往往比 [V8](https://nicelinks.site/post/63986e3ce524a8432ed1d256) 等更传统的选择要快一些。Bun 是用一种具有手动内存管理功能的低级编程语言编写的。Bun 的大部分内容都是从头开始编写的，包括 JSX/TypeScript 转译器、npm 客户端、捆绑器、SQLite 客户端、HTTP 客户端、WebSocket 客户端等。
+Bun 使用 [JavaScriptCore](https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore) 引擎，它的启动和执行速度往往比 [V8](https://site.lovejade.cn/post/63986e3ce524a8432ed1d256) 等更传统的选择要快一些。Bun 是用一种具有手动内存管理功能的低级编程语言编写的。Bun 的大部分内容都是从头开始编写的，包括 JSX/TypeScript 转译器、npm 客户端、捆绑器、SQLite 客户端、HTTP 客户端、WebSocket 客户端等。
 
 ### Bun 为什么快？
 
 大量时间花在分析、基准测试和优化上。Bun 的每个部分的答案都不同，但有一个普遍的主题：Bun 对内存的低级控制，和隐藏控制流的缺乏使得编写快速软件变得更加简单。
 
-Bun 是  Jarred Sumner 在 2022 年 3 月开启的 [开源项目](https://github.com/oven-sh/bun) ，主打高性能、工具链；对标的是 [Node](https://nicelinks.site/post/5f376ebe1751843ef894c899) （基于 C++）或 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) （基于 Rust）；Node 和 Deno 用的 JS 引擎是 V8 (Chromium)；而 Bun 使用了新兴的系统编程语言 [Zig](https://ziglang.org/) （相当于加强版 C 语言），所使用的引擎是 JavaScriptCore (Safari)；Deno 于 2017 创立，尚未看到更多用于生产环境，可以预见 Bun 还有很长的路要走。截止目前（2023 年 02 月 16 日），版本更新至 `0.5.6`（beta）；如果你对其感兴趣，可移步 [Bun Blog](https://bun.sh/blog) 以了解更多。
+Bun 是  Jarred Sumner 在 2022 年 3 月开启的 [开源项目](https://github.com/oven-sh/bun) ，主打高性能、工具链；对标的是 [Node](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) （基于 C++）或 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) （基于 Rust）；Node 和 Deno 用的 JS 引擎是 V8 (Chromium)；而 Bun 使用了新兴的系统编程语言 [Zig](https://ziglang.org/) （相当于加强版 C 语言），所使用的引擎是 JavaScriptCore (Safari)；Deno 于 2017 创立，尚未看到更多用于生产环境，可以预见 Bun 还有很长的路要走。截止目前（2023 年 02 月 16 日），版本更新至 `0.5.6`（beta）；如果你对其感兴趣，可移步 [Bun Blog](https://bun.sh/blog) 以了解更多。
 
-── 出自[倾城之链 - Bun — fast all-in-one JavaScript runtime](https://nicelinks.site/post/63ee1d1d3ca14e0315d81b2f)
+── 出自[倾城之链 - Bun — fast all-in-one JavaScript runtime](https://site.lovejade.cn/post/63ee1d1d3ca14e0315d81b2f)
 
-## [WasmEdge ｜ A lightweight, high-performance, and extensible WebAssembly runtime](https://nicelinks.site/post/63ee15303ca14e0315d819ec)
+## [WasmEdge ｜ A lightweight, high-performance, and extensible WebAssembly runtime](https://site.lovejade.cn/post/63ee15303ca14e0315d819ec)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`runtime`](https://nicelinks.site/tags/runtime)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`跨平台`](https://site.lovejade.cn/tags/跨平台) · [`runtime`](https://site.lovejade.cn/tags/runtime)
 
 > WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
@@ -70,37 +70,37 @@ WasmEdge 支持 Linux、苹果操作系统、Windows、微内核和实时操作�
 
 在 C、Go、Rust、Node.js 和 Python 主机应用程序中嵌入 WasmEdge 函数。在云和边缘原生应用程序平台和框架中嵌入功能。
 
-WasmEdge Runtime 为其包含的 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 字节码程序提供了一个定义良好的执行沙箱。运行时为操作系统资源（例如，文件系统、套接字、环境变量、进程）和内存空间提供隔离和保护。WasmEdge 最重要的用例是安全地执行用户定义或社区贡献的代码作为软件产品（例如，SaaS、软件定义车辆、边缘节点，甚至区块链节点）的插件。它使第三方开发人员、供应商、供应商和社区成员能够扩展和定制软件产品。
+WasmEdge Runtime 为其包含的 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 字节码程序提供了一个定义良好的执行沙箱。运行时为操作系统资源（例如，文件系统、套接字、环境变量、进程）和内存空间提供隔离和保护。WasmEdge 最重要的用例是安全地执行用户定义或社区贡献的代码作为软件产品（例如，SaaS、软件定义车辆、边缘节点，甚至区块链节点）的插件。它使第三方开发人员、供应商、供应商和社区成员能够扩展和定制软件产品。
 
-WasmEdge 可以运行从 C/C++、Rust、Swift、AssemblyScript 或 Kotlin 源代码编译的标准 WebAssembly 字节码程序。它在安全、快速、轻量级、可移植和容器化的沙箱中运行 JavaScript，包括第 3 方 ES6、CJS 和 [NPM](https://nicelinks.site/tags/npm) 模块。它还支持混合使用这些语言（例如，使用 Rust 来实现 JavaScript API）、Fetch API 和边缘服务器（edge servers）上的服务器端渲染 (SSR)功能。
+WasmEdge 可以运行从 C/C++、Rust、Swift、AssemblyScript 或 Kotlin 源代码编译的标准 WebAssembly 字节码程序。它在安全、快速、轻量级、可移植和容器化的沙箱中运行 JavaScript，包括第 3 方 ES6、CJS 和 [NPM](https://site.lovejade.cn/tags/npm) 模块。它还支持混合使用这些语言（例如，使用 Rust 来实现 JavaScript API）、Fetch API 和边缘服务器（edge servers）上的服务器端渲染 (SSR)功能。
 
-WasmEdge 支持所有标准的 WebAssembly 功能和许多建议的扩展。它还支持许多为云原生和边缘计算用途量身定制的扩展（例如，WasmEdge 网络套接字和 WasmEdge [Tensorflow](https://nicelinks.site/tags/TensorFlow) 扩展）。详细了解 WasmEdge 的 [技术亮点](https://wasmedge.org/book/en/intro/features.html) 。
+WasmEdge 支持所有标准的 WebAssembly 功能和许多建议的扩展。它还支持许多为云原生和边缘计算用途量身定制的扩展（例如，WasmEdge 网络套接字和 WasmEdge [Tensorflow](https://site.lovejade.cn/tags/TensorFlow) 扩展）。详细了解 WasmEdge 的 [技术亮点](https://wasmedge.org/book/en/intro/features.html) 。
 
-── 出自[倾城之链 - WasmEdge ｜ A lightweight, high-performance, and extensible WebAssembly runtime](https://nicelinks.site/post/63ee15303ca14e0315d819ec)
+── 出自[倾城之链 - WasmEdge ｜ A lightweight, high-performance, and extensible WebAssembly runtime](https://site.lovejade.cn/post/63ee15303ca14e0315d819ec)
 
-## [Graphy | Slick, interactive charts that make you stand out](https://nicelinks.site/post/63ecca0c3ca14e0315d80fc1)
+## [Graphy | Slick, interactive charts that make you stand out](https://site.lovejade.cn/post/63ecca0c3ca14e0315d80fc1)
 
-**标签**：[`数据`](https://nicelinks.site/tags/数据) · [`可视化`](https://nicelinks.site/tags/可视化) · [`图表`](https://nicelinks.site/tags/图表)
+**标签**：[`数据`](https://site.lovejade.cn/tags/数据) · [`可视化`](https://site.lovejade.cn/tags/可视化) · [`图表`](https://site.lovejade.cn/tags/图表)
 
 > Make slick, interactive data visualisations with our free chart-maker tool — no log-in required. Easily embed into Notion or wherever you like!
 
 ![倾城之链 - Graphy | Slick, interactive charts that make you stand out](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphy.new.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Graphy](https://graphy.new/) ，一款免费图表制作工具，可用来制作光滑的、互动的数据 [可视化](https://nicelinks.site/tags/可视化) ，打开即可使用，不需要登录。支持下载、拷贝图片，也可以轻松地嵌入 Notion 或任何你喜欢的地方。而且支持各种定制，如图表类型、图标配色、配色横纵比（Aspect Ratio）、详情及主题。
+**推荐语**：[Graphy](https://graphy.new/) ，一款免费图表制作工具，可用来制作光滑的、互动的数据 [可视化](https://site.lovejade.cn/tags/可视化) ，打开即可使用，不需要登录。支持下载、拷贝图片，也可以轻松地嵌入 Notion 或任何你喜欢的地方。而且支持各种定制，如图表类型、图标配色、配色横纵比（Aspect Ratio）、详情及主题。
 
-更精确地说明， [Graphy](https://graphy.new/) 是一款独立开发项目，可以创建好看的 [表格](https://nicelinks.site/tags/表格) **图片**；如果您有基于 PPT、Excel 创建可视化表格相关诉求，完全可以基于 `graphy` 替代之；相比 Excel、PPT，基于 [Graphy](https://graphy.new/) 创建数据、打造样式、导入数据、生成图片、调整背景（配色），都更为高效且人性化。
+更精确地说明， [Graphy](https://graphy.new/) 是一款独立开发项目，可以创建好看的 [表格](https://site.lovejade.cn/tags/表格) **图片**；如果您有基于 PPT、Excel 创建可视化表格相关诉求，完全可以基于 `graphy` 替代之；相比 Excel、PPT，基于 [Graphy](https://graphy.new/) 创建数据、打造样式、导入数据、生成图片、调整背景（配色），都更为高效且人性化。
 
-── 出自[倾城之链 - Graphy | Slick, interactive charts that make you stand out](https://nicelinks.site/post/63ecca0c3ca14e0315d80fc1)
+── 出自[倾城之链 - Graphy | Slick, interactive charts that make you stand out](https://site.lovejade.cn/post/63ecca0c3ca14e0315d80fc1)
 
-## [Retool | Build internal tools, remarkably fast.](https://nicelinks.site/post/63eb6bffdfb7f255c25dbcb0)
+## [Retool | Build internal tools, remarkably fast.](https://site.lovejade.cn/post/63eb6bffdfb7f255c25dbcb0)
 
-**标签**：[`低代码`](https://nicelinks.site/tags/低代码) · [`平台`](https://nicelinks.site/tags/平台) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`低代码`](https://site.lovejade.cn/tags/低代码) · [`平台`](https://site.lovejade.cn/tags/平台) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more. Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.
 
 ![倾城之链 - Retool | Build internal tools, remarkably fast.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/retool.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Retool](https://retool.com/) ，是一个面向企业的 [低代码](https://nicelinks.site/tags/低代码) 开发平台，它于 2017 年在美国著名创业孵化器 Y Combinator 中诞生，旨在为企业提供一个工具开发平台，让企业能够使用有限的编程语言，构建自定义业务工具。
+**推荐语**：[Retool](https://retool.com/) ，是一个面向企业的 [低代码](https://site.lovejade.cn/tags/低代码) 开发平台，它于 2017 年在美国著名创业孵化器 Y Combinator 中诞生，旨在为企业提供一个工具开发平台，让企业能够使用有限的编程语言，构建自定义业务工具。
 
 作为优先探索低代码开发的平台之一，Retool 为开发者们提供了许多方便：无需任何前端编程基础的可拖拽的 UI 组件、与各种数据库和 API 的连接、安全且灵活的个性化开发模式。更详细介绍，它具有如下功能特征：
 
@@ -122,29 +122,29 @@ Retool 是高度可破解的，因此您永远不会受到开箱即用的限制�
 
 ### 安全地部署和共享
 
-Retool 具有内置的安全性、可靠性和权限。您可以在本地、在您自己的 VPN 后面以及在您自己的 VPC 中托管 Retool。通过 Docker 或 Kubernetes 部署。此外，Retool 支持基于 [Git](https://nicelinks.site/tags/Git) 进行代码管理。
+Retool 具有内置的安全性、可靠性和权限。您可以在本地、在您自己的 VPN 后面以及在您自己的 VPC 中托管 Retool。通过 Docker 或 Kubernetes 部署。此外，Retool 支持基于 [Git](https://site.lovejade.cn/tags/Git) 进行代码管理。
 
 搭建软件的过程是颇为繁杂，但这却是许多公司不可避免的一项工作。`低代码` 应运而生，且迅速打入了市场。作为首先进军低代码平台之一的 Retool 一直占据着大众视野，其多样的 UI 组件、大量的数据源连接器以及多种个性化使用功能为程序开发者带来了许多便利。
 
 总体来说，Retool 通过「**搭建程序界面**」「**建立查询连接数据源**」「**构建组件间的逻辑顺序**」为基本框架来快速搭建应用程序。在 UI 组件方面，Retool 不仅不断的在添加新的选择，他们还推出了开发者自定义设计组件的功能。Retool 还充分考虑到了应用的权限问题，开发者可以自行分组并规定每个分组对应用所享有的权限。
 
-低代码并不意味着完全 [无代码](https://nicelinks.site/tags/无代码) ，根据低代码工具的属性和应用场景不同，对代码能力的要求也有区别。例如以 Airtable 和 [飞书](https://nicelinks.site/post/6199f84c60f6c5569db65f20) 多维表格这类以表格为主体，可以用来存放、统计、分析数据的平台，基本属于零代码。而 Bubble、Retool 等网页应用开发工具，则需要具备基本的编程思维和代码开发能力。
+低代码并不意味着完全 [无代码](https://site.lovejade.cn/tags/无代码) ，根据低代码工具的属性和应用场景不同，对代码能力的要求也有区别。例如以 Airtable 和 [飞书](https://site.lovejade.cn/post/6199f84c60f6c5569db65f20) 多维表格这类以表格为主体，可以用来存放、统计、分析数据的平台，基本属于零代码。而 Bubble、Retool 等网页应用开发工具，则需要具备基本的编程思维和代码开发能力。
 
-── 出自[倾城之链 - Retool | Build internal tools, remarkably fast.](https://nicelinks.site/post/63eb6bffdfb7f255c25dbcb0)
+── 出自[倾城之链 - Retool | Build internal tools, remarkably fast.](https://site.lovejade.cn/post/63eb6bffdfb7f255c25dbcb0)
 
-## [Build optimized websites quickly, focus on your content | Docusaurus](https://nicelinks.site/post/63ea2b08dfb7f255c25db67c)
+## [Build optimized websites quickly, focus on your content | Docusaurus](https://site.lovejade.cn/post/63ea2b08dfb7f255c25db67c)
 
-**标签**：[`文档`](https://nicelinks.site/tags/文档) · [`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`React`](https://nicelinks.site/tags/React)
+**标签**：[`文档`](https://site.lovejade.cn/tags/文档) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`React`](https://site.lovejade.cn/tags/React)
 
 > An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websites, blogs, marketing pages, and more.
 
 ![倾城之链 - Build optimized websites quickly, focus on your content | Docusaurus](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/docusaurus.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Docusaurus](https://docusaurus.io/) ，基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 的一个优化的、易于维护的 [网站生成器](https://nicelinks.site/tags/网站生成器) 。Docusaurus 帮助你快速移动和编写内容：建立文档网站、博客、营销页面等，使您可以专注于内容。它具有如下功能特征：
+**推荐语**：[Docusaurus](https://docusaurus.io/) ，基于 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 的一个优化的、易于维护的 [网站生成器](https://site.lovejade.cn/tags/网站生成器) 。Docusaurus 帮助你快速移动和编写内容：建立文档网站、博客、营销页面等，使您可以专注于内容。它具有如下功能特征：
 
 ### 由 MDX 提供支持
 
-节省时间并专注于文本文档。只需使用 MDX 编写文档和博客文章，Docusaurus 就会将它们构建成静态 HTML 文件，随时可供使用。多亏了 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686)，你甚至可以在你的 Markdown 中嵌入 React 组件。
+节省时间并专注于文本文档。只需使用 MDX 编写文档和博客文章，Docusaurus 就会将它们构建成静态 HTML 文件，随时可供使用。多亏了 [MDX](https://site.lovejade.cn/post/63e4e3eee63ccd089dee6686)，你甚至可以在你的 Markdown 中嵌入 React 组件。
 
 ### 使用 React 构建
 
@@ -160,21 +160,21 @@ Retool 具有内置的安全性、可靠性和权限。您可以在本地、在�
 
 ### 内容搜索
 
-让您的社区可以轻松地在您的文档中找到他们需要的内容。Docusaurus 支持 [Algolia](https://nicelinks.site/post/5b141444ca049846c6ee6f91) 文档搜索、Typesense 文档搜索、本地搜索、自定义搜索。
+让您的社区可以轻松地在您的文档中找到他们需要的内容。Docusaurus 支持 [Algolia](https://site.lovejade.cn/post/5b141444ca049846c6ee6f91) 文档搜索、Typesense 文档搜索、本地搜索、自定义搜索。
 
-[Docusaurus](https://docusaurus.io/) 在 [Github 开源](https://github.com/facebook/docusaurus)，目前共获得 42K+ Star；在 [倾城之链](https://nicelinks.site) 收录了蛮多 [文档](https://nicelinks.site/tags/文档) 型工具库， [Docusaurus](https://docusaurus.io/) 是功能相对最为完善之一，而且界面美观、性能优越，无需额外做更多处理，如果您有搭建文档类诉求，推荐优先考虑。
+[Docusaurus](https://docusaurus.io/) 在 [Github 开源](https://github.com/facebook/docusaurus)，目前共获得 42K+ Star；在 [倾城之链](https://nicelinks.site) 收录了蛮多 [文档](https://site.lovejade.cn/tags/文档) 型工具库， [Docusaurus](https://docusaurus.io/) 是功能相对最为完善之一，而且界面美观、性能优越，无需额外做更多处理，如果您有搭建文档类诉求，推荐优先考虑。
 
-── 出自[倾城之链 - Build optimized websites quickly, focus on your content | Docusaurus](https://nicelinks.site/post/63ea2b08dfb7f255c25db67c)
+── 出自[倾城之链 - Build optimized websites quickly, focus on your content | Docusaurus](https://site.lovejade.cn/post/63ea2b08dfb7f255c25db67c)
 
-## [The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://nicelinks.site/post/63ea26ebdfb7f255c25db5b8)
+## [The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://site.lovejade.cn/post/63ea26ebdfb7f255c25db5b8)
 
-**标签**：[`编辑器`](https://nicelinks.site/tags/编辑器) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`编辑器`](https://site.lovejade.cn/tags/编辑器) · [`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > TinyMCE is the most advanced WYSIWYG HTML editor designed to simplify website content creation. The rich text editing platform that helped launched Atlassian, Medium, Evernote and more.
 
 ![倾城之链 - The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tiny.cloud.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[TinyMCE](https://www.tiny.cloud/) 是先进的 [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) （**What You See Is What You Get**，所见即所得） HTML 编辑器，适用于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 和 [Angular](https://nicelinks.site/post/5b2b7f663bd7ef3847a3fadf) ；它旨在简化网站内容创建，让它们能够为用户创造卓越的内容和体验；TinyMCE 帮助推出 Atlassian、Medium、Evernote 等的富文本编辑平台，并受到数百万开发人员的使用和信赖，是世界上最可定制、可扩展和灵活的富文本编辑器。它具有如下功能特征：
+**推荐语**：[TinyMCE](https://www.tiny.cloud/) 是先进的 [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) （**What You See Is What You Get**，所见即所得） HTML 编辑器，适用于 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 和 [Angular](https://site.lovejade.cn/post/5b2b7f663bd7ef3847a3fadf) ；它旨在简化网站内容创建，让它们能够为用户创造卓越的内容和体验；TinyMCE 帮助推出 Atlassian、Medium、Evernote 等的富文本编辑平台，并受到数百万开发人员的使用和信赖，是世界上最可定制、可扩展和灵活的富文本编辑器。它具有如下功能特征：
 
 ### 一体化
 
@@ -196,7 +196,7 @@ Retool 具有内置的安全性、可靠性和权限。您可以在本地、在�
 
 TinyMCE 富文本编辑器的入门非常简单，简单的配置可以在不到 5 分钟的时间内完成。该项目在 [Github 开源](https://github.com/tinymce/tinymce) ，目前拥有 13K Star，有对富文本编辑器感兴趣或有需要的朋友，可前往以了解更多。
 
-── 出自[倾城之链 - The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://nicelinks.site/post/63ea26ebdfb7f255c25db5b8)
+── 出自[倾城之链 - The Most Advanced WYSIWYG Editor | Trusted Rich Text Editor](https://site.lovejade.cn/post/63ea26ebdfb7f255c25db5b8)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

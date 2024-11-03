@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。<br>
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。<br>
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、及博客[晚晴幽草轩](https://www.jeffjade.com)；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、及博客[晚晴幽草轩](https://www.jeffjade.com)；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [创客贴*在线图片编辑器*版权设计模板\_在线稿定设计印刷](https://www.chuangkit.com/?utm_source=nicelinks.site)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`工具`](https://nicelinks.site/tags/工具) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`工具`](https://site.lovejade.cn/tags/工具) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器)
 
 **关键字**：图片编辑器, 版权图片素材, 设计印刷, 在线设计
 
@@ -21,13 +21,13 @@
 
 基于[创客贴](https://www.chuangkit.com/)，就算没有任何 PS 基础也能快速上手，完美变身设计高手。值得一提的是，创客贴也是一款**手机端作图神器**：
 
-**创客贴**让设计变得更加简单，即便是使用手机也能让你拥有设计师般的体验;安装其官方 APP，即可轻松使用手机进行各种图片编辑制作，无论工作或生活中的设计，都可用它完成，设计场景覆盖：海报、社交图片、名片、邀请函、贺卡、朋友圈封面、日签、壁纸等设[计](https://nicelinks.site/tags/设计)场景，通过简单修改文字、替换图片，就能一键生成设计，免费保存至手机。
+**创客贴**让设计变得更加简单，即便是使用手机也能让你拥有设计师般的体验;安装其官方 APP，即可轻松使用手机进行各种图片编辑制作，无论工作或生活中的设计，都可用它完成，设计场景覆盖：海报、社交图片、名片、邀请函、贺卡、朋友圈封面、日签、壁纸等设[计](https://site.lovejade.cn/tags/设计)场景，通过简单修改文字、替换图片，就能一键生成设计，免费保存至手机。
 
-── 出自[倾城之链 - 创客贴*在线图片编辑器*版权设计模板\_在线稿定设计印刷](https://nicelinks.site/post/6037a639927df32aa12de4d0)
+── 出自[倾城之链 - 创客贴*在线图片编辑器*版权设计模板\_在线稿定设计印刷](https://site.lovejade.cn/post/6037a639927df32aa12de4d0)
 
 ## [Aleph.js - The React Framework in Deno](https://alephjs.org/?utm_source=nicelinks.site)
 
-**标签**：[`Deno`](https://nicelinks.site/tags/Deno) · [`React`](https://nicelinks.site/tags/React) · [`Framework`](https://nicelinks.site/tags/Framework)
+**标签**：[`Deno`](https://site.lovejade.cn/tags/Deno) · [`React`](https://site.lovejade.cn/tags/React) · [`Framework`](https://site.lovejade.cn/tags/Framework)
 
 **关键字**：aleph, alephjs, aleph.js, react, full-stack, framework, ssr, ssg, deno, typescript, out-of-the-box, esm, hmr, fast-refresh, tooling
 
@@ -35,13 +35,13 @@
 
 ![倾城之链 - Aleph.js - The React Framework in Deno](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/alephjs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Aleph.js](https://alephjs.org/) The Full-stack Framework for [React](https://nicelinks.site/tags/React) and other in [Deno](https://nicelinks.site/tags/Deno). Aleph.js 为您提供最佳的开发者体验，以构建现代 Web 应用程序。您可以在 Deno 中使用 TypeScript，ES 模块导入，文件系统路由，SSR（Server-Side Rendering 服务端渲染） 和 SSG（Static Site Generators，静态网站生成器），内置 CSS，具有 HMR（Hot Module Replacement 热模块替换） 快速刷新功能，无需配置。
+**推荐语**：[Aleph.js](https://alephjs.org/) The Full-stack Framework for [React](https://site.lovejade.cn/tags/React) and other in [Deno](https://site.lovejade.cn/tags/Deno). Aleph.js 为您提供最佳的开发者体验，以构建现代 Web 应用程序。您可以在 Deno 中使用 TypeScript，ES 模块导入，文件系统路由，SSR（Server-Side Rendering 服务端渲染） 和 SSG（Static Site Generators，静态网站生成器），内置 CSS，具有 HMR（Hot Module Replacement 热模块替换） 快速刷新功能，无需配置。
 
-── 出自[倾城之链 - Aleph.js - The React Framework in Deno](https://nicelinks.site/post/60367ff0927df32aa12de4ce)
+── 出自[倾城之链 - Aleph.js - The React Framework in Deno](https://site.lovejade.cn/post/60367ff0927df32aa12de4ce)
 
 ## [爱发电 · 连接创作者与粉丝的会员制平台](https://www.afdian.net/?utm_source=nicelinks.site)
 
-**标签**：[`平台`](https://nicelinks.site/tags/平台) · [`创作者`](https://nicelinks.site/tags/创作者) · [`赞助`](https://nicelinks.site/tags/赞助)
+**标签**：[`平台`](https://site.lovejade.cn/tags/平台) · [`创作者`](https://site.lovejade.cn/tags/创作者) · [`赞助`](https://site.lovejade.cn/tags/赞助)
 
 **关键字**：爱发电，订阅，创作者，赞助，粉丝，视频，文章，小说，音乐，绘画，动漫，摄影，游戏，艺术，Patreon，主播，Vtuber，播客
 
@@ -76,30 +76,30 @@
 
 你可以在[爱发电](https://www.afdian.net/)发布公开的动态，吸引更多人浏览你的主页。你也可以发布赞助者才可见的动态，提供专属的内容回馈赞助的粉丝。和你的创作生涯一样，经营「爱发电」主页也是一个长期的过程。
 
-在推荐`爱发电`之后，也将[**倾城之链**](https://nicelinks.site/)入驻了爱发电，期待感兴趣的朋友来[爱发电：支持「倾城」](https://www.afdian.net/@nicelinks)。
+在推荐`爱发电`之后，也将[**倾城之链**](https://site.lovejade.cn/)入驻了爱发电，期待感兴趣的朋友来[爱发电：支持「倾城」](https://www.afdian.net/@nicelinks)。
 
-── 出自[倾城之链 - 爱发电 · 连接创作者与粉丝的会员制平台](https://nicelinks.site/post/60365a42927df32aa12de4cc)
+── 出自[倾城之链 - 爱发电 · 连接创作者与粉丝的会员制平台](https://site.lovejade.cn/post/60365a42927df32aa12de4cc)
 
 ## [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/?utm_source=nicelinks.site)
 
-**标签**：[`vim`](https://nicelinks.site/tags/vim) · [`程序员`](https://nicelinks.site/tags/程序员) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`vim`](https://site.lovejade.cn/tags/vim) · [`程序员`](https://site.lovejade.cn/tags/程序员) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Learn and Master Vim with interactive exercises
 
 ![倾城之链 - vim.so - Learn and Master Vim faster with interactive exercises](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.vim.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vim](https://nicelinks.site/tags/vim) 是从 vi 发展出来的一个高度可配置的文本[编辑器](https://nicelinks.site/tags/%E7%BC%96%E8%BE%91%E5%99%A8)。它可以非常高效地创建和更改任何类型的文本，拥有代码补完、编译及错误跳转等方便编程的丰富功能，在**程序员**中被广泛使用。[vim.so](https://www.vim.so/) 是一个工具网站，通过它提供的互动练习，可以帮助您快速掌握 [vim](https://nicelinks.site/tags/vim)。官方给出了以下使用 [vim.so](https://www.vim.so/) 的理由：
+**推荐语**：[Vim](https://site.lovejade.cn/tags/vim) 是从 vi 发展出来的一个高度可配置的文本[编辑器](https://site.lovejade.cn/tags/%E7%BC%96%E8%BE%91%E5%99%A8)。它可以非常高效地创建和更改任何类型的文本，拥有代码补完、编译及错误跳转等方便编程的丰富功能，在**程序员**中被广泛使用。[vim.so](https://www.vim.so/) 是一个工具网站，通过它提供的互动练习，可以帮助您快速掌握 [vim](https://site.lovejade.cn/tags/vim)。官方给出了以下使用 [vim.so](https://www.vim.so/) 的理由：
 
 - 通过互动课程学习，而非无聊的纯文本教程；
 - 无需环境设置，直接在浏览器中练习；
 - 掌握 vim 工具，大大提高代码编辑速度；
 - 使用 [vim.so](https://www.vim.so/) ，也是在支持独立开发者。
 
-── 出自[倾城之链 - vim.so - Learn and Master Vim faster with interactive exercises](https://nicelinks.site/post/6036460b927df32aa12de4ca)
+── 出自[倾城之链 - vim.so - Learn and Master Vim faster with interactive exercises](https://site.lovejade.cn/post/6036460b927df32aa12de4ca)
 
 ## [鲁迅先生 - 鲁迅专题*鲁迅小说*鲁迅作品在线阅读](https://www.luxun.org/?utm_source=nicelinks.site)
 
-**标签**：[`在线`](https://nicelinks.site/tags/在线) · [`阅读`](https://nicelinks.site/tags/阅读)
+**标签**：[`在线`](https://site.lovejade.cn/tags/在线) · [`阅读`](https://site.lovejade.cn/tags/阅读)
 
 **关键字**：鲁迅, 鲁迅先生, 鲁迅名言, 鲁迅小说, 狂人日记, 阿 Q 正传, 朝花夕拾, 鲁迅作品, 鲁迅简介, 鲁迅全集, 评价鲁迅先生, 鲁迅小说全集, 鲁迅作品在线阅读
 
@@ -123,11 +123,11 @@
 
 “**遇见深林，可以辟成平地；遇见旷野，可以栽种树木；遇见沙漠，可以开掘井泉**”。多年以前，当人们遇到困苦和不幸的时候，鲁迅文字间流动的智慧与勇气，会成为他们行走的参照，那些鲜活的思想像一直燃烧的灯火，照耀着不断摸索新路的人们。多年以后，当我们遇到困苦和不幸的时候，先生文字间流动的智慧与勇气，亦会成为我们行走的参照，那些鲜活的思想像一直燃烧的灯火......
 
-── 出自[倾城之链 - 鲁迅先生 - 鲁迅专题*鲁迅小说*鲁迅作品在线阅读](https://nicelinks.site/post/6034f916927df32aa12de4c8)
+── 出自[倾城之链 - 鲁迅先生 - 鲁迅专题*鲁迅小说*鲁迅作品在线阅读](https://site.lovejade.cn/post/6034f916927df32aa12de4c8)
 
 ## [微博历史热搜-微博热搜搜索引擎](https://weibo.zhaoyizhe.com/?utm_source=nicelinks.site)
 
-**标签**：[`检索`](https://nicelinks.site/tags/检索) · [`微博`](https://nicelinks.site/tags/微博) · [`热搜`](https://nicelinks.site/tags/热搜)
+**标签**：[`检索`](https://site.lovejade.cn/tags/检索) · [`微博`](https://site.lovejade.cn/tags/微博) · [`热搜`](https://site.lovejade.cn/tags/热搜)
 
 **关键字**：历史微博热搜, 微博热搜存档, 一年微博热搜, 热搜记录查看, 历史上的热搜, 微博热搜博物馆
 
@@ -137,11 +137,11 @@
 
 **推荐语**：[微博热搜搜索引擎](https://weibo.zhaoyizhe.com/)，是一个在线检索热搜历史的网站，只需输入你想搜索的热搜关键字即可；支持按多种方式查看所有热搜，并实时存档所有微博热搜。额外，该网站还提供下载/导出数据的功能（须要付费）。
 
-── 出自[倾城之链 - 微博历史热搜-微博热搜搜索引擎](https://nicelinks.site/post/6034bd75927df32aa12de4c4)
+── 出自[倾城之链 - 微博历史热搜-微博热搜搜索引擎](https://site.lovejade.cn/post/6034bd75927df32aa12de4c4)
 
 ## [茶杯狐 Cupfox - 努力让找电影变得简单](https://www.cupfox.com/?utm_source=nicelinks.site)
 
-**标签**：[`电影`](https://nicelinks.site/tags/电影) · [`分享`](https://nicelinks.site/tags/分享) · [`娱乐`](https://nicelinks.site/tags/娱乐)
+**标签**：[`电影`](https://site.lovejade.cn/tags/电影) · [`分享`](https://site.lovejade.cn/tags/分享) · [`娱乐`](https://site.lovejade.cn/tags/娱乐)
 
 **关键字**：茶杯狐, cupfox, 电影资源, 电影搜索, 电影下载, 在线观看, 电影字幕, 电视剧, 高清, 720p, 1080p, 蓝光, 完整版, 免费, 在线, 下载, 字幕, 资源, VIP, 破解, 迅雷, 百度网盘, BT 种子, 磁力链接, torrent, magnet, ed2k
 
@@ -149,9 +149,9 @@
 
 ![倾城之链 - 茶杯狐 Cupfox - 努力让找电影变得简单](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cupfox.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[茶杯狐 Cupfox](https://www.cupfox.com/) 是一个提供影视[聚合](https://nicelinks.site/tags/聚合)的资源，涵盖电影、电视剧、动漫、综艺等资源，支持在线播放与下载；同时提供搜索、选片（过滤[检索](https://nicelinks.site/tags/检索)，含近期热门、高分经典、冷门佳作、地区佳作、分类题材等；每一类又分有不同类型榜，如电影榜、戏剧榜、动作片榜、爱情片榜、科幻片榜、动画片榜、悬疑片榜、惊悚片榜、恐怖片榜、犯罪片榜、同性片榜、传记片榜、战争片榜、冒险片榜等等）、榜单等功能；该网站，资源丰富，质量较好，勤于更新，如果您有”剧荒“的烦恼，不妨试一下这款[茶杯狐 Cupfox](https://www.cupfox.com/)。
+**推荐语**：[茶杯狐 Cupfox](https://www.cupfox.com/) 是一个提供影视[聚合](https://site.lovejade.cn/tags/聚合)的资源，涵盖电影、电视剧、动漫、综艺等资源，支持在线播放与下载；同时提供搜索、选片（过滤[检索](https://site.lovejade.cn/tags/检索)，含近期热门、高分经典、冷门佳作、地区佳作、分类题材等；每一类又分有不同类型榜，如电影榜、戏剧榜、动作片榜、爱情片榜、科幻片榜、动画片榜、悬疑片榜、惊悚片榜、恐怖片榜、犯罪片榜、同性片榜、传记片榜、战争片榜、冒险片榜等等）、榜单等功能；该网站，资源丰富，质量较好，勤于更新，如果您有”剧荒“的烦恼，不妨试一下这款[茶杯狐 Cupfox](https://www.cupfox.com/)。
 
-── 出自[倾城之链 - 茶杯狐 Cupfox - 努力让找电影变得简单](https://nicelinks.site/post/60311ec06eaf2a7660805af4)
+── 出自[倾城之链 - 茶杯狐 Cupfox - 努力让找电影变得简单](https://site.lovejade.cn/post/60311ec06eaf2a7660805af4)
 
 > [倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 

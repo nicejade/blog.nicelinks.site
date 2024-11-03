@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://nicelinks.site/post/627cfbf62dba1c5d9dce1f6f)
+## [Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://site.lovejade.cn/post/627cfbf62dba1c5d9dce1f6f)
 
-**标签**：[`个人主页`](https://nicelinks.site/tags/个人主页) · [`在线`](https://nicelinks.site/tags/在线) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`个人主页`](https://site.lovejade.cn/tags/个人主页) · [`在线`](https://site.lovejade.cn/tags/在线) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Bio Link is a free and elegant link in bio for your Instagram, TikTok, Twitter, and other socials. Claim your name in seconds!
 
@@ -26,19 +26,19 @@
 
 非常值得一提的是，除了支持选择主题、添加链接、社交主页（非常丰富）、嵌入（embed）外；还能支持选择链接地址（支持**自定义域名**）、添加 NSFW 警告、添加 **SEO**（在搜索引擎和社交帖子上显示的标题和描述）、谷歌分析（GA）等等，可谓是异常贴心。
 
-其同类产品有 [about.me](https://nicelinks.site/post/5ae07c3bcbf8b27043e5e9db)、[Linkyy](https://nicelinks.site/post/61657a9e265d8c6be879dd74) 等，但 [Bio Link](https://bio.link/) 要比它们更为漂亮、快捷、人性化，因此，受到成千上万的艺术家、作家、音乐家、播客、youtuber、游戏玩家、开发人员、爱好者、品牌方的喜爱，当然也包括我；当从 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 上了解这个网站，就迫不及待为自己也建立了一个：[nicejade](https://nicejade.bio.link/)，感兴趣的朋友可以了解并关注下。
+其同类产品有 [about.me](https://site.lovejade.cn/post/5ae07c3bcbf8b27043e5e9db)、[Linkyy](https://site.lovejade.cn/post/61657a9e265d8c6be879dd74) 等，但 [Bio Link](https://bio.link/) 要比它们更为漂亮、快捷、人性化，因此，受到成千上万的艺术家、作家、音乐家、播客、youtuber、游戏玩家、开发人员、爱好者、品牌方的喜爱，当然也包括我；当从 [Product Hunt](https://site.lovejade.cn/post/5f40d0bf15435e0906a0a26f) 上了解这个网站，就迫不及待为自己也建立了一个：[nicejade](https://nicejade.bio.link/)，感兴趣的朋友可以了解并关注下。
 
-── 出自[倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://nicelinks.site/post/627cfbf62dba1c5d9dce1f6f)
+── 出自[倾城之链 - Bio Link: Fastest "Link In Bio" for your Instagram and TikTok](https://site.lovejade.cn/post/627cfbf62dba1c5d9dce1f6f)
 
-## [Acapela | All work notifications in one inbox](https://nicelinks.site/post/627bb5da2dba1c5d9dce1f6b)
+## [Acapela | All work notifications in one inbox](https://site.lovejade.cn/post/627bb5da2dba1c5d9dce1f6b)
 
-**标签**：[`效率`](https://nicelinks.site/tags/效率) · [`工作`](https://nicelinks.site/tags/工作) · [`沟通`](https://nicelinks.site/tags/沟通)
+**标签**：[`效率`](https://site.lovejade.cn/tags/效率) · [`工作`](https://site.lovejade.cn/tags/工作) · [`沟通`](https://site.lovejade.cn/tags/沟通)
 
 > Acapela lets you take control of your notifications. Capture, filter and action them all from one place. Unblock your team twice as fast.
 
 ![倾城之链 - Acapela | All work notifications in one inbox](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/acapela.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Acapela](https://acapela.com/)，常用工作工具的中央收件箱；从一个工具中捕获、过滤和操作您的所有工作交流。想象一下收件箱零不仅适用于电子邮件......而且适用于 [Slack](https://nicelinks.site/post/605b4055bffb5e532f3be233)、[Notion](https://nicelinks.site/post/5cbd4e8b7855f80ea42ea6ab)、[GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)、[Figma](https://nicelinks.site/post/605f1c61bffb5e532f3be23c)、Jira、Linear 等。更少的干扰、更少的 FOMO（社群恐慌症）、更多的深度工作时间。更详细来说，它具有以下功能特征：
+**推荐语**：[Acapela](https://acapela.com/)，常用工作工具的中央收件箱；从一个工具中捕获、过滤和操作您的所有工作交流。想象一下收件箱零不仅适用于电子邮件......而且适用于 [Slack](https://site.lovejade.cn/post/605b4055bffb5e532f3be233)、[Notion](https://site.lovejade.cn/post/5cbd4e8b7855f80ea42ea6ab)、[GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911)、[Figma](https://site.lovejade.cn/post/605f1c61bffb5e532f3be23c)、Jira、Linear 等。更少的干扰、更少的 FOMO（社群恐慌症）、更多的深度工作时间。更详细来说，它具有以下功能特征：
 
 ### 集成收件箱
 
@@ -56,11 +56,11 @@ Acapela 连接到您的日常工具。无需检查多个应用程序或处理垃
 
 Acapela 可让您控制通知。从一个地方捕获、过滤和操作它们；以两倍的速度解锁您的团队。Acapela 免费可用（想拥有更好体验的话，需要付费）。如果您常用此类诸如 Slack、Github、Jira 等**远程工作**常用的沟通工具，那么 [Acapela](https://acapela.com/) 非常值得拥有 & 使用。
 
-── 出自[倾城之链 - Acapela | All work notifications in one inbox](https://nicelinks.site/post/627bb5da2dba1c5d9dce1f6b)
+── 出自[倾城之链 - Acapela | All work notifications in one inbox](https://site.lovejade.cn/post/627bb5da2dba1c5d9dce1f6b)
 
-## [Shepherd — Guide your users through a tour of your app.](https://nicelinks.site/post/627a5c1cac00ce3f9b11a8f1)
+## [Shepherd — Guide your users through a tour of your app.](https://site.lovejade.cn/post/627a5c1cac00ce3f9b11a8f1)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`前端开发`](https://nicelinks.site/tags/前端开发) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`前端开发`](https://site.lovejade.cn/tags/前端开发) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Guide your users through a tour of your app.
 
@@ -82,17 +82,17 @@ Shepherd 已准备好使用 React、Ember、Angular、Vue.js、ES 模块或纯 J
 
 如果您的 Web 应用程序，功能相对复杂，那么类似引导用户熟悉应用的设计，颇有必要。而 [Shepherd](https://shepherdjs.dev/) 看起来是值得推荐的工具库，如果您想了解更多，可参见 [Shepherd 文档](https://shepherdjs.dev/docs/)。
 
-── 出自[倾城之链 - Shepherd — Guide your users through a tour of your app.](https://nicelinks.site/post/627a5c1cac00ce3f9b11a8f1)
+── 出自[倾城之链 - Shepherd — Guide your users through a tour of your app.](https://site.lovejade.cn/post/627a5c1cac00ce3f9b11a8f1)
 
-## [TypeScript: JavaScript With Syntax For Types.](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef)
+## [TypeScript: JavaScript With Syntax For Types.](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef)
 
-**标签**：[`编程语言`](https://nicelinks.site/tags/编程语言) · [`开发者`](https://nicelinks.site/tags/开发者) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 > TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.
 
 ![倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.typescriptlang.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [TypeScript](https://www.typescriptlang.org/) ，是一种开源的程式语言，该语言专案由微软进行维护和管理；TypeScript 是 JavaScript 类型的超集，它可以编译成纯的 JavaScript；TypeScript 可以在任何浏览器、任何计算机和任何操作系统上运行，并且它是开源的。除了在浏览器，也可以运行在 [Node.js](https://nicelinks.site/post/5f376ebe1751843ef894c899) 、 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 或在您的应用程序中。它具有以下功能特性：
+**推荐语**： [TypeScript](https://www.typescriptlang.org/) ，是一种开源的程式语言，该语言专案由微软进行维护和管理；TypeScript 是 JavaScript 类型的超集，它可以编译成纯的 JavaScript；TypeScript 可以在任何浏览器、任何计算机和任何操作系统上运行，并且它是开源的。除了在浏览器，也可以运行在 [Node.js](https://site.lovejade.cn/post/5f376ebe1751843ef894c899) 、 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 或在您的应用程序中。它具有以下功能特性：
 
 ### 始于 JavaScript，归于 JavaScript
 
@@ -122,7 +122,7 @@ TypeScript 提供最新的和不断发展的 JavaScript 特性，包括那些来
 
 当然，TypeScript 也会存在些问题，如更陡峭的学习曲线、编译需要时间、缺乏灵活性等，但整体而言，利大于弊，尤其对于大型应用程序，使得维护更加容易；而且，越来越多项目推荐使用 **TypeScript** 来编写，也使其人气越发高涨；如果您从事 Web 前端开发，那么 TypeScript 在未来想必是必须掌握的编程语言。
 
-── 出自[倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef)
+── 出自[倾城之链 - TypeScript: JavaScript With Syntax For Types.](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

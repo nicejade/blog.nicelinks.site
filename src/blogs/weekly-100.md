@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Crowdbotics | Build Apps Fast, No Coding Required](https://nicelinks.site/post/63bff2d01d0f6a2f376e849d)
+## [Crowdbotics | Build Apps Fast, No Coding Required](https://site.lovejade.cn/post/63bff2d01d0f6a2f376e849d)
 
-**标签**：[`无代码`](https://nicelinks.site/tags/无代码) · [`跨平台`](https://nicelinks.site/tags/跨平台) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`无代码`](https://site.lovejade.cn/tags/无代码) · [`跨平台`](https://site.lovejade.cn/tags/跨平台) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 > It's not low-code, it's full code made easy. Build business-ready software, apps, integrations, and more with the Crowdbotics App Builder. Hire certified PMs and developers to help build your project at any time.
 
@@ -34,11 +34,11 @@ Crowdbotics 可以比以往更快地为企业构建完整的、可扩展的应�
 
 Crowdbotics 引用了数百万个生产级软件包的库，以确定给定项目的最有效组件和工作流程。然后，Crowdbotics 在项目生命周期内处理基础设施、实施、维护、操作、监控和安全。如果您对其感兴趣，可移步 [关于 Crowdbotics](https://www.crowdbotics.com/about)，以了解更多。
 
-── 出自[倾城之链 - Crowdbotics | Build Apps Fast, No Coding Required](https://nicelinks.site/post/63bff2d01d0f6a2f376e849d)
+── 出自[倾城之链 - Crowdbotics | Build Apps Fast, No Coding Required](https://site.lovejade.cn/post/63bff2d01d0f6a2f376e849d)
 
-## [CodeCrafters | Advanced programming challenges](https://nicelinks.site/post/63beab741d0f6a2f376e7bf3)
+## [CodeCrafters | Advanced programming challenges](https://site.lovejade.cn/post/63beab741d0f6a2f376e7bf3)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`编码`](https://nicelinks.site/tags/编码) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`编码`](https://site.lovejade.cn/tags/编码) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > Real-world proficiency projects designed for experienced engineers. Develop software craftsmanship by recreating popular devtools from scratch.
 
@@ -48,19 +48,19 @@ Crowdbotics 引用了数百万个生产级软件包的库，以确定给定项�
 
 > What I cannot create, I do not understand — Richard Feynman
 
-CodeCrafters，在 Github 所创建仓库：[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)（编写良好的分步指南的汇编，用于从头开始重新创建我们最喜欢的技术），截止目前获得 183K 的 Star；在这里可以学到非常多技术，诸如：[3D](https://nicelinks.site/tags/3D) 渲染器、增强现实、BT 客户端、区块链/加密货币、机器人、命令行工具、数据库、码头工人、模拟器/虚拟机、前端框架/库、游戏、[Git](https://nicelinks.site/tags/Git)、网络堆栈（Network Stack）、神经网络、Shell、操作系统、物理引擎、编程语言、正则表达式引擎、搜索引擎、模板引擎、文本编辑器、视觉识别系统、[Voxel Engine](https://github.com/codecrafters-io/build-your-own-x#build-your-own-voxel-engine)、网络服务器等等。如果您从事编程行业，并欲积极上进心，该网站及教程仓库，值得关注、收藏及学习。
+CodeCrafters，在 Github 所创建仓库：[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)（编写良好的分步指南的汇编，用于从头开始重新创建我们最喜欢的技术），截止目前获得 183K 的 Star；在这里可以学到非常多技术，诸如：[3D](https://site.lovejade.cn/tags/3D) 渲染器、增强现实、BT 客户端、区块链/加密货币、机器人、命令行工具、数据库、码头工人、模拟器/虚拟机、前端框架/库、游戏、[Git](https://site.lovejade.cn/tags/Git)、网络堆栈（Network Stack）、神经网络、Shell、操作系统、物理引擎、编程语言、正则表达式引擎、搜索引擎、模板引擎、文本编辑器、视觉识别系统、[Voxel Engine](https://github.com/codecrafters-io/build-your-own-x#build-your-own-voxel-engine)、网络服务器等等。如果您从事编程行业，并欲积极上进心，该网站及教程仓库，值得关注、收藏及学习。
 
-── 出自[倾城之链 - CodeCrafters | Advanced programming challenges](https://nicelinks.site/post/63beab741d0f6a2f376e7bf3)
+── 出自[倾城之链 - CodeCrafters | Advanced programming challenges](https://site.lovejade.cn/post/63beab741d0f6a2f376e7bf3)
 
-## [EarlyBird: Landing Page Builder for Startups](https://nicelinks.site/post/63be940e1d0f6a2f376e7975)
+## [EarlyBird: Landing Page Builder for Startups](https://site.lovejade.cn/post/63be940e1d0f6a2f376e7975)
 
-**标签**：[`无代码`](https://nicelinks.site/tags/无代码) · [`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`无代码`](https://site.lovejade.cn/tags/无代码) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > EarlyBird is the brand-new landing page builder for startups. Start pitching and validating business ideas in minutes.
 
 ![倾城之链 - EarlyBird: Landing Page Builder for Startups](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/earlybird.im.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[EarlyBird](https://earlybird.im/) 是为初创企业提供的全新登陆页面构建工具，在几分钟内，就可以开始投递和验证商业想法。Early Bird 提供 [无代码](https://nicelinks.site/tags/无代码) 登录页面构建器，轻松创建、宣传和验证您的早期业务。Early Bird 具有以下功能特征：
+**推荐语**：[EarlyBird](https://earlybird.im/) 是为初创企业提供的全新登陆页面构建工具，在几分钟内，就可以开始投递和验证商业想法。Early Bird 提供 [无代码](https://site.lovejade.cn/tags/无代码) 登录页面构建器，轻松创建、宣传和验证您的早期业务。Early Bird 具有以下功能特征：
 
 ### 新手友好的 UI 块
 
@@ -98,23 +98,23 @@ CodeCrafters，在 Github 所创建仓库：[build-your-own-x](https://github.co
 
 Early Bird 其作用是避免在早期阶段浪费时间和金钱，确保您的产品或商业创意具有潜力，并且关于该创意的最关键假设是有效的。它支持在 10 分钟内，轻松构建您的最小可行产品（mvp）登录页面，且不要寻求设计师或开发人员的帮助。虽然 Early Bird 更多功能是收费模式，但也支持免费使用；对此感兴趣的朋友，可以前往官方网站以了解更多。
 
-── 出自[倾城之链 - EarlyBird: Landing Page Builder for Startups](https://nicelinks.site/post/63be940e1d0f6a2f376e7975)
+── 出自[倾城之链 - EarlyBird: Landing Page Builder for Startups](https://site.lovejade.cn/post/63be940e1d0f6a2f376e7975)
 
-## [All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://nicelinks.site/post/63be903b1d0f6a2f376e78c5)
+## [All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://site.lovejade.cn/post/63be903b1d0f6a2f376e78c5)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`AI`](https://nicelinks.site/tags/AI) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`AI`](https://site.lovejade.cn/tags/AI) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > World's Largest Resource Of Artificial Intelligence Tools & Services
 
 ![倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/allthingsai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[All Things AI](https://allthingsai.com/)，人工智能（AI）工具和服务的完整资源（[AI](https://nicelinks.site/tags/AI) 资源导航网站），在这里可以发现最新的人工智能工具、服务和资源。近几年，随着 AI 的快速发展迭代，衍生出各种服务；尤其是 2022 年 11 月，OpenAI 旗下的 ChatGPT 大火之后，进一步加剧 AI 的繁荣。在该网站，可以发现：聊天机器人、编码、设计、图像生成、照片编辑、个人资料图片、写作、生物、日历、数据、电子邮件、游戏开发、合法的、楷模、电话应用程序、播客、简报、搜索、演讲、电子表格、视频等相关服务。您如果遇到过创新的人工智能产品，或者您正在开发自己的产品？也可以在 [All Things AI](https://allthingsai.com/) 分享提交，他们可能会将其列入产品的列表。
+**推荐语**：[All Things AI](https://allthingsai.com/)，人工智能（AI）工具和服务的完整资源（[AI](https://site.lovejade.cn/tags/AI) 资源导航网站），在这里可以发现最新的人工智能工具、服务和资源。近几年，随着 AI 的快速发展迭代，衍生出各种服务；尤其是 2022 年 11 月，OpenAI 旗下的 ChatGPT 大火之后，进一步加剧 AI 的繁荣。在该网站，可以发现：聊天机器人、编码、设计、图像生成、照片编辑、个人资料图片、写作、生物、日历、数据、电子邮件、游戏开发、合法的、楷模、电话应用程序、播客、简报、搜索、演讲、电子表格、视频等相关服务。您如果遇到过创新的人工智能产品，或者您正在开发自己的产品？也可以在 [All Things AI](https://allthingsai.com/) 分享提交，他们可能会将其列入产品的列表。
 
-── 出自[倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://nicelinks.site/post/63be903b1d0f6a2f376e78c5)
+── 出自[倾城之链 - All Things AI - The Complete Resource Of Artificial Intelligence Tools & Services](https://site.lovejade.cn/post/63be903b1d0f6a2f376e78c5)
 
-## [Airplane | Developer infrastructure for internal tools](https://nicelinks.site/post/63bd3e6f1d0f6a2f376e705e)
+## [Airplane | Developer infrastructure for internal tools](https://site.lovejade.cn/post/63bd3e6f1d0f6a2f376e705e)
 
-**标签**：[`开发者`](https://nicelinks.site/tags/开发者) · [`工作流`](https://nicelinks.site/tags/工作流) · [`自动化`](https://nicelinks.site/tags/自动化)
+**标签**：[`开发者`](https://site.lovejade.cn/tags/开发者) · [`工作流`](https://site.lovejade.cn/tags/工作流) · [`自动化`](https://site.lovejade.cn/tags/自动化)
 
 > Airplane is a developer-centric approach to building internal UIs and workflows.
 
@@ -144,11 +144,11 @@ Airplane 不是一个低代码、拖拽式平台，用户需要会写基本的�
 
 Airplane 现在的客户主要还是中小企业，其规划目标是：旨在为小型初创企业和大型企业服务的产品。为此，团队从安全、工作流、易用性、高效性等角度，对标性设计了大量功能（基础设施）；如果您对其感兴趣，不妨前往官网，从而了解更多。
 
-── 出自[倾城之链 - Airplane | Developer infrastructure for internal tools](https://nicelinks.site/post/63bd3e6f1d0f6a2f376e705e)
+── 出自[倾城之链 - Airplane | Developer infrastructure for internal tools](https://site.lovejade.cn/post/63bd3e6f1d0f6a2f376e705e)
 
-## [SQLite Home Page](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022)
+## [SQLite Home Page](https://site.lovejade.cn/post/63bad8ac1d0f6a2f376e6022)
 
-**标签**：[`数据库`](https://nicelinks.site/tags/数据库) · [`编程语言`](https://nicelinks.site/tags/编程语言) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`数据库`](https://site.lovejade.cn/tags/数据库) · [`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day.
 
@@ -182,7 +182,7 @@ Airplane 现在的客户主要还是中小企业，其规划目标是：旨在�
 
 [SQLite 项目的网站](https://www.sqlite.org/serverless.html) 将其描述为“无服务器”数据库。大多数关系数据库引擎都实现为服务器进程，其中程序通过中继请求的进程间通信与主机服务器通信。相比之下，SQLite 允许任何访问数据库的进程直接读写数据库磁盘文件。这简化了 SQLite 的设置过程，因为它消除了配置服务器进程的任何需要。同样，使用 SQLite 数据库的程序也无需配置：它们只需要访问磁盘即可。SQLite 是免费的开源软件，使用它不需要特殊许可。
 
-── 出自[倾城之链 - SQLite Home Page](https://nicelinks.site/post/63bad8ac1d0f6a2f376e6022)
+── 出自[倾城之链 - SQLite Home Page](https://site.lovejade.cn/post/63bad8ac1d0f6a2f376e6022)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

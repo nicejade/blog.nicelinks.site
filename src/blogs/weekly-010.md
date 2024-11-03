@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [Relate - The open platform to create for the web](https://relate.app/?utm_source=nicelinks.site)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`工具`](https://nicelinks.site/tags/工具) · [`设计`](https://nicelinks.site/tags/设计)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`工具`](https://site.lovejade.cn/tags/工具) · [`设计`](https://site.lovejade.cn/tags/设计)
 
 > Build a Website
 
@@ -13,18 +13,18 @@
 **推荐语**：[Relate](https://relate.app/) 是一个用来创建网站的开放平台；她足够**简单**，直观的“按代码设计”环境，可以像编辑文档一样创建和编辑网站；在设计时，在后台生成漂亮，干净，简单的 HTML 和 CSS 。基于 [Relate](https://relate.app/) 系统，你的业务蓬勃发展，依然无需切换平台。具有以下功能特征：
 
 - 您可以导入现有代码，复制整个网站或其中的一部分，或基于已经存在的网站构建新页面；
-- 友好支持第三方，你可以使用 Bootstrap，[Tailwind](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 和任何其他框架；
+- 友好支持第三方，你可以使用 Bootstrap，[Tailwind](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 和任何其他框架；
 - 导入样式表，连接现有 CSS 并将其应用于您的内容；
 - 100％准确：您的设计，简单，干净的语义代码，没有奇怪的东西；
 - 您如果已在 Figma，Sketch 或 XD 中创建了网站，Relate 将处理导入，因此您可以立即启动它；
 
 [Relate](https://relate.app/) Slogan：生命之美在于，无限的可能性；如果您有创建网站的诉求，不妨基于 Relate 来设计，或许她能带给您惊喜。
 
-── 出自[倾城之链 - Relate - The open platform to create for the web](https://nicelinks.site/post/6081757e9947e6213fe43a86)
+── 出自[倾城之链 - Relate - The open platform to create for the web](https://site.lovejade.cn/post/6081757e9947e6213fe43a86)
 
 ## [Headers.me | Cover images that get you followers](https://www.headers.me/?utm_source=nicelinks.site)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`工具`](https://nicelinks.site/tags/工具) · [`设计`](https://nicelinks.site/tags/设计)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`工具`](https://site.lovejade.cn/tags/工具) · [`设计`](https://site.lovejade.cn/tags/设计)
 
 > Create matching cover images for the social media platforms you love without the need of any complex design tools or templates.
 
@@ -32,23 +32,23 @@
 
 **推荐语**：[Headers.me](https://www.headers.me/)，是一个工具型网站，它可以为您喜欢的社交媒体平台，创建与之匹配的**封面图像**，而无需任何复杂的设计工具或模板；您可以免费开始设计，而无需信用卡（当然，也提供高级收费功能）。
 
-── 出自[倾城之链 - Headers.me | Cover images that get you followers](https://nicelinks.site/post/60816f759947e6213fe43a84)
+── 出自[倾城之链 - Headers.me | Cover images that get you followers](https://site.lovejade.cn/post/60816f759947e6213fe43a84)
 
 ## [All posts | Soubai's stories](https://www.soubai.me/?utm_source=nicelinks.site)
 
-**标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`程序员`](https://site.lovejade.cn/tags/程序员) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > full stack JavaScript developer. I’m very interested in web Technologies & cloud computing & problem solving.
 
 ![倾城之链 - All posts | Soubai's stories](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.soubai.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Soubai's stories](https://www.soubai.me/) 是基于 Next.js、Node.js 所搭建的网站，全栈 JavaScript 开发人员（Abderrahim Soubai-Elidrisi）撰写；作为作为 Web 开发人员，Abderrahim 的主要爱好是创建令人难忘的项目，以解决现实世界中的问题并满足业务需求。其中内容涵 [Tensorflow.js](https://nicelinks.site/post/60631f14bffb5e532f3be248)、[Deno](https://nicelinks.site/post/602d30aad099ff5688618591)、JavaScript、TypeScript 等内容。
+**推荐语**：[Soubai's stories](https://www.soubai.me/) 是基于 Next.js、Node.js 所搭建的网站，全栈 JavaScript 开发人员（Abderrahim Soubai-Elidrisi）撰写；作为作为 Web 开发人员，Abderrahim 的主要爱好是创建令人难忘的项目，以解决现实世界中的问题并满足业务需求。其中内容涵 [Tensorflow.js](https://site.lovejade.cn/post/60631f14bffb5e532f3be248)、[Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591)、JavaScript、TypeScript 等内容。
 
-── 出自[倾城之链 - All posts | Soubai's stories](https://nicelinks.site/post/6081087d9947e6213fe43a82)
+── 出自[倾城之链 - All posts | Soubai's stories](https://site.lovejade.cn/post/6081087d9947e6213fe43a82)
 
 ## [Sourcery | Automatically Improve Python Code Quality](https://sourcery.ai/?utm_source=nicelinks.site)
 
-**标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`AI`](https://nicelinks.site/tags/AI) · [`Python`](https://nicelinks.site/tags/Python)
+**标签**：[`程序员`](https://site.lovejade.cn/tags/程序员) · [`AI`](https://site.lovejade.cn/tags/AI) · [`Python`](https://site.lovejade.cn/tags/Python)
 
 **关键字**：sourcery, refactoring, developer tools, python, ai
 
@@ -62,11 +62,11 @@
 - **保持代码私密**：Sourcery 在您的计算机上本地运行，从而确保所有代码的私密性和安全性；
 - **支持免费开始使用**：支持免费将其添加至 PyCharm、VsCode 或者 Github；当然，也提供了 Sourcery Pro 收费版本，将开放更多功能。
 
-── 出自[倾城之链 - Sourcery | Automatically Improve Python Code Quality](https://nicelinks.site/post/60802c0b9947e6213fe43a80)
+── 出自[倾城之链 - Sourcery | Automatically Improve Python Code Quality](https://site.lovejade.cn/post/60802c0b9947e6213fe43a80)
 
 ## [极简简历模板 PoleBrief](https://www.polebrief.com/?utm_source=nicelinks.site)
 
-**标签**：[`简历`](https://nicelinks.site/tags/简历) · [`工作`](https://nicelinks.site/tags/工作)
+**标签**：[`简历`](https://site.lovejade.cn/tags/简历) · [`工作`](https://site.lovejade.cn/tags/工作)
 
 **关键字**：简历模板, 个人简历模板, 免费简历模板, 简历模板下载 word 格式, 电子简历, 在线简历制作, 简历模板下载
 
@@ -102,11 +102,11 @@
 2. 通过我们详细提示填写详细信息；
 3. 立即下载并开始申请工作。
 
-── 出自[倾城之链 - 极简简历模板 PoleBrief](https://nicelinks.site/post/608026379947e6213fe43a7e)
+── 出自[倾城之链 - 极简简历模板 PoleBrief](https://site.lovejade.cn/post/608026379947e6213fe43a7e)
 
 ## [「信达」将微信作为服务器的控制台](https://sender.xzhsh.ch/?utm_source=nicelinks.site)
 
-**标签**：[`程序员`](https://nicelinks.site/tags/程序员) · [`互联网`](https://nicelinks.site/tags/互联网) · [`Go`](https://nicelinks.site/tags/Go)
+**标签**：[`程序员`](https://site.lovejade.cn/tags/程序员) · [`互联网`](https://site.lovejade.cn/tags/互联网) · [`Go`](https://site.lovejade.cn/tags/Go)
 
 **关键字**：微信, 公众号, 服务器, 运维, 小工具, 消息推送
 
@@ -126,7 +126,7 @@
 - Agent 开源；
 - API 公开；
 
-── 出自[倾城之链 - 「信达」将微信作为服务器的控制台](https://nicelinks.site/post/607b831700d67605dca7de85)
+── 出自[倾城之链 - 「信达」将微信作为服务器的控制台](https://site.lovejade.cn/post/607b831700d67605dca7de85)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 
 ## 本期文末寄语

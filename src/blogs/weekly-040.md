@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [IINA - The modern media player for macOS](https://nicelinks.site/post/6196456960f6c5569db65f1e)
+## [IINA - The modern media player for macOS](https://site.lovejade.cn/post/6196456960f6c5569db65f1e)
 
-**标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`Mac`](https://site.lovejade.cn/tags/Mac) · [`工具`](https://site.lovejade.cn/tags/工具) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：MacOS, Modern Media, Player, IINA, 免费, 开源, 画中画, 媒体播放器
 
@@ -16,11 +16,11 @@
 
 IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支持，[IINA](https://iina.io/) 可以播放您拥有的几乎所有媒体文件。在 youtube-dl 和我们的浏览器扩展程序的支持下，您还可以一键在 `IINA` 中播放各种在线流媒体。更令人惊喜的是，[IINA](https://iina.io/) 在 GPLv3 许可下，是**免费**、**开源**的，且仍在积极开发中。目前。已被来自世界各地的翻译人员，翻译成 20 多种语言。您可以通过[翻译平台](https://translate.iina.io/)（由 Crowdin 提供支持）自由改进翻译或添加新语言。
 
-── 出自[倾城之链 - IINA - The modern media player for macOS](https://nicelinks.site/post/6196456960f6c5569db65f1e)
+── 出自[倾城之链 - IINA - The modern media player for macOS](https://site.lovejade.cn/post/6196456960f6c5569db65f1e)
 
-## [专业的营销网站，包括会员，谷歌广告，adsense，出口电子商务等 - Affde 营销](https://nicelinks.site/post/6193ac80038ee31b947bb918)
+## [专业的营销网站，包括会员，谷歌广告，adsense，出口电子商务等 - Affde 营销](https://site.lovejade.cn/post/6193ac80038ee31b947bb918)
 
-**标签**：[`营销`](https://nicelinks.site/tags/营销) · [`SEO`](https://nicelinks.site/tags/SEO) · [`广告`](https://nicelinks.site/tags/广告)
+**标签**：[`营销`](https://site.lovejade.cn/tags/营销) · [`SEO`](https://site.lovejade.cn/tags/SEO) · [`广告`](https://site.lovejade.cn/tags/广告)
 
 **关键字**：网络营销, seo, 亲属关系, 广告, 网站流量
 
@@ -30,11 +30,11 @@ IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支
 
 **推荐语**：[Affde 营销](https://www.affde.com/zh-CN/)，专业的营销网站，包括会员，谷歌广告，Adsense，出口电子商务等。所提供的内容，包含营销学、写博客、SEO、互联网销售、科技类、电子商务、电子邮件营销、社交媒体等等。最近通过 Google 检索些内容，很多都指向到 [Affde 营销](https://www.affde.com/zh-CN/)平台，进而才慢慢关注到它。值得一提的，该平台在短短半年内，流量从无做到月百万流量，其实力可见一斑。对`营销`感兴趣的朋友，可以考虑关注下，闲来研究。
 
-── 出自[倾城之链 - 专业的营销网站，包括会员，谷歌广告，adsense，出口电子商务等 - Affde 营销](https://nicelinks.site/post/6193ac80038ee31b947bb918)
+── 出自[倾城之链 - 专业的营销网站，包括会员，谷歌广告，adsense，出口电子商务等 - Affde 营销](https://site.lovejade.cn/post/6193ac80038ee31b947bb918)
 
-## [SVG to PNG – Convert SVG files to PNG Online](https://nicelinks.site/post/61924680038ee31b947bb914)
+## [SVG to PNG – Convert SVG files to PNG Online](https://site.lovejade.cn/post/61924680038ee31b947bb914)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`转换`](https://nicelinks.site/tags/转换) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`转换`](https://site.lovejade.cn/tags/转换) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > This free online SVG to PNG converter allows you to convert SVG files to PNG images, quickly and easily.
 
@@ -47,11 +47,11 @@ IINA 是用 Swift 编程语言编写的，由开源媒体播放器 mpv 提供支
 
 使用此免费在线 SVG 至 PNG 转换软件，允许您将 SVG 文档转换成 PNG 文档，轻松且简单，无需安装任何软件。
 
-── 出自[倾城之链 - SVG to PNG – Convert SVG files to PNG Online](https://nicelinks.site/post/61924680038ee31b947bb914)
+── 出自[倾城之链 - SVG to PNG – Convert SVG files to PNG Online](https://site.lovejade.cn/post/61924680038ee31b947bb914)
 
-## [Sourcegraph](https://nicelinks.site/post/6190d302038ee31b947bb912)
+## [Sourcegraph](https://site.lovejade.cn/post/6190d302038ee31b947bb912)
 
-**标签**：[`开发者`](https://nicelinks.site/tags/开发者) · [`Github`](https://nicelinks.site/tags/Github) · [`搜索`](https://nicelinks.site/tags/搜索)
+**标签**：[`开发者`](https://site.lovejade.cn/tags/开发者) · [`Github`](https://site.lovejade.cn/tags/Github) · [`搜索`](https://site.lovejade.cn/tags/搜索)
 
 > Sourcegraph is a web-based code search and navigation tool for dev teams. Search, navigate, and review code. Find answers.
 
@@ -63,11 +63,11 @@ Sourcegraph 提供了 [Chrome 扩展](https://chrome.google.com/webstore/detail/
 
 使用 [Sourcegraph](https://sourcegraph.com/) 更快地查找和修复所有代码中的问题。加入新的代码库，进行大规模重构，提高效率，解决安全风险，根本原因事件等。如果您也从事编程相关工作，Sourcegraph 你值得拥有；欲更多了解，可参见 [About Sourcegraph](https://about.sourcegraph.com/)。
 
-── 出自[倾城之链 - Sourcegraph](https://nicelinks.site/post/6190d302038ee31b947bb912)
+── 出自[倾城之链 - Sourcegraph](https://site.lovejade.cn/post/6190d302038ee31b947bb912)
 
-## [致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://nicelinks.site/post/6190be06038ee31b947bb910)
+## [致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://site.lovejade.cn/post/6190be06038ee31b947bb910)
 
-**标签**：[`平台`](https://nicelinks.site/tags/平台) · [`壁纸`](https://nicelinks.site/tags/壁纸) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`平台`](https://site.lovejade.cn/tags/平台) · [`壁纸`](https://site.lovejade.cn/tags/壁纸) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 **关键字**：致美化, 美化, 主题, 漫锋网
 
@@ -79,7 +79,7 @@ Sourcegraph 提供了 [Chrome 扩展](https://chrome.google.com/webstore/detail/
 
 [致美化](https://zhutix.com/)所提供的内容，也颇为丰富。包括电脑主题、使用教程、美化工具等（Windows 系统）。还提供雨滴皮肤、鼠标指针、横屏壁纸、竖屏壁纸、动态壁纸等。另外，还有专题、秀桌面、问答等模块。
 
-── 出自[倾城之链 - 致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://nicelinks.site/post/6190be06038ee31b947bb910)
+── 出自[倾城之链 - 致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://site.lovejade.cn/post/6190be06038ee31b947bb910)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

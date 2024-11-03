@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Immich - High performance self-hosted photo and video backup solution](https://nicelinks.site/post/64b92824ba9d8868a2a4eddc)
+## [Immich - High performance self-hosted photo and video backup solution](https://site.lovejade.cn/post/64b92824ba9d8868a2a4eddc)
 
-**标签**：[`自托管`](https://nicelinks.site/tags/自托管) · [`开源`](https://nicelinks.site/tags/开源) · [`备份`](https://nicelinks.site/tags/备份)
+**标签**：[`自托管`](https://site.lovejade.cn/tags/自托管) · [`开源`](https://site.lovejade.cn/tags/开源) · [`备份`](https://site.lovejade.cn/tags/备份)
 
 > immich Self-hosted photo and video backup solution directly from your mobile phone
 
@@ -12,13 +12,13 @@
 
 **推荐语**：[Immich](https://immich.app/) 高性能自托管照片和视频备份解决方案，直接从您的手机上进行。如果你想部署私有的照片或视频的托管服务，不想使用 iCloud 或者 Google photos 等云厂商的产品，不妨试试这个开源项目 Immich。
 
-Immich，它是高性能自托管的照片和视频备份解决方案，使用 Dart 编写，支持多端的 APP 和 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 快速部署功能；它重视隐私、记忆，以及在易于使用和友好的界面中回顾那些时刻的乐趣。值得说明的是：该项目正在**非常积极的**开发中（`WIP`）。预计会出现错误和更改。不要将其用作存储照片和视频的**唯一方式**。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/immich-app/immich)，从而了解更多。
+Immich，它是高性能自托管的照片和视频备份解决方案，使用 Dart 编写，支持多端的 APP 和 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 快速部署功能；它重视隐私、记忆，以及在易于使用和友好的界面中回顾那些时刻的乐趣。值得说明的是：该项目正在**非常积极的**开发中（`WIP`）。预计会出现错误和更改。不要将其用作存储照片和视频的**唯一方式**。如果您对该项目感兴趣，不妨移步 [Github 开源仓库](https://github.com/immich-app/immich)，从而了解更多。
 
-── 出自[倾城之链 - Immich - High performance self-hosted photo and video backup solution](https://nicelinks.site/post/64b92824ba9d8868a2a4eddc)
+── 出自[倾城之链 - Immich - High performance self-hosted photo and video backup solution](https://site.lovejade.cn/post/64b92824ba9d8868a2a4eddc)
 
-## [Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://nicelinks.site/post/64b51a76ba9d8868a2a4d559)
+## [Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://site.lovejade.cn/post/64b51a76ba9d8868a2a4d559)
 
-**标签**：[`开源`](https://nicelinks.site/tags/开源) · [`监控`](https://nicelinks.site/tags/监控) · [`流量统计`](https://nicelinks.site/tags/流量统计)
+**标签**：[`开源`](https://site.lovejade.cn/tags/开源) · [`监控`](https://site.lovejade.cn/tags/监控) · [`流量统计`](https://site.lovejade.cn/tags/流量统计)
 
 **关键字**：sniffnet, network, internet, monitor, rust
 
@@ -53,13 +53,13 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 此外，Sniffnet 是完全**免费和开源**的，具有 MIT 或 Apache-2.0 的双重许可：如果您有兴趣，可以在 [GitHub 上找到完整的源代码](https://github.com/GyulyVGC/sniffnet) 。
 
-最后但并非最不重要的一点是，该应用程序完全使用 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 开发：一种现代编程语言，用于构建高效可靠的软件，强调**性能**和**安全性**。
+最后但并非最不重要的一点是，该应用程序完全使用 [Rust](https://site.lovejade.cn/post/606a826800d67605dca7de5a) 开发：一种现代编程语言，用于构建高效可靠的软件，强调**性能**和**安全性**。
 
-── 出自[倾城之链 - Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://nicelinks.site/post/64b51a76ba9d8868a2a4d559)
+── 出自[倾城之链 - Sniffnet — comfortably monitor your Internet traffic 🕵️‍♂️](https://site.lovejade.cn/post/64b51a76ba9d8868a2a4d559)
 
-## [Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://nicelinks.site/post/64b3ca3dba9d8868a2a4ca9d)
+## [Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://site.lovejade.cn/post/64b3ca3dba9d8868a2a4ca9d)
 
-**标签**：[`社区`](https://nicelinks.site/tags/社区) · [`发现`](https://nicelinks.site/tags/发现) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`社区`](https://site.lovejade.cn/tags/社区) · [`发现`](https://site.lovejade.cn/tags/发现) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 **关键字**：科技产品, 智能硬件, iOS 限免, 订阅限免, Android 应用, 优秀网站, 免费发布应用, APP, 网站
 
@@ -67,7 +67,7 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 ![倾城之链 - Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mergeek.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mergeek.com](https://mergeek.com/) ：科技产品爱好者 [社区](https://nicelinks.site/tags/社区) ，旨在**发现并介绍**全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。如果你有很棒的产品（APP，软件，网站，硬件），该平台欢迎推荐。在 Mergeek，你可以为你的新产品找到对他们感兴趣的产品爱好者。
+**推荐语**：[Mergeek.com](https://mergeek.com/) ：科技产品爱好者 [社区](https://site.lovejade.cn/tags/社区) ，旨在**发现并介绍**全球范围内的优质产品和项目，让更多的人认识并使用这些解决方案。如果你有很棒的产品（APP，软件，网站，硬件），该平台欢迎推荐。在 Mergeek，你可以为你的新产品找到对他们感兴趣的产品爱好者。
 
 [Mergeek.com](https://mergeek.com/) 致力于为仍在初创期的个人或团队提供产品发布及展示机会； 当你的产品还“不为人知”的时候，选择在 Mergeek 上发布你的产品，并拥有自己的产品**公共主页**，会为你带来很多种子用户，帮助你的产品成长。
 
@@ -75,13 +75,13 @@ Sniffnet 是一种技术工具，但同时它非常注重整体用户体验：�
 
 在 Mergeek 上发布产品是**免费**的，但请确保你的产品是科技类产品，包括（应用、硬件等）。 Mergeek 会在 24 小时内认真了解你的信息，并尽快与你联系完善信息从而正式将你的产品发布。
 
-每款产品，除了应用名称、描述、标签之外，配备有**编辑推荐**、应用截图，以及相关文章等内容；除了网站之外，Mergeek 还提供免费信息订阅服务（通过公众号推送），对于普通用户而言，Mergeek 平台类似于中国版 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) ，您可以轻松发现全球范围内的优质、有趣产品。
+每款产品，除了应用名称、描述、标签之外，配备有**编辑推荐**、应用截图，以及相关文章等内容；除了网站之外，Mergeek 还提供免费信息订阅服务（通过公众号推送），对于普通用户而言，Mergeek 平台类似于中国版 [Product Hunt](https://site.lovejade.cn/post/5f40d0bf15435e0906a0a26f) ，您可以轻松发现全球范围内的优质、有趣产品。
 
-── 出自[倾城之链 - Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://nicelinks.site/post/64b3ca3dba9d8868a2a4ca9d)
+── 出自[倾城之链 - Mergeek.com - 科技产品爱好者社区，免费发布你的产品](https://site.lovejade.cn/post/64b3ca3dba9d8868a2a4ca9d)
 
-## [GPT4All | various collection of powerful language models](https://nicelinks.site/post/64b3c2e7ba9d8868a2a4c886)
+## [GPT4All | various collection of powerful language models](https://site.lovejade.cn/post/64b3c2e7ba9d8868a2a4c886)
 
-**标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`开源`](https://nicelinks.site/tags/开源) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT) · [`开源`](https://site.lovejade.cn/tags/开源) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Free, local and privacy-aware chatbots
 
@@ -112,17 +112,17 @@ GPT4All 模型是一个 3GB - 8GB 文件，您可以下载该文件并将其插�
 
 如果您对该项目感兴趣，可移步 [官方 gpt4free 存储库](https://github.com/xtekky/gpt4free) （各种强大的语言模型集合），从而了解更多。
 
-── 出自[倾城之链 - GPT4All | various collection of powerful language models](https://nicelinks.site/post/64b3c2e7ba9d8868a2a4c886)
+── 出自[倾城之链 - GPT4All | various collection of powerful language models](https://site.lovejade.cn/post/64b3c2e7ba9d8868a2a4c886)
 
-## [WebWhiz - ChatGPT for your website](https://nicelinks.site/post/64b3bc99ba9d8868a2a4c77d)
+## [WebWhiz - ChatGPT for your website](https://site.lovejade.cn/post/64b3bc99ba9d8868a2a4c77d)
 
-**标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`开源`](https://nicelinks.site/tags/开源) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT) · [`开源`](https://site.lovejade.cn/tags/开源) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > Train ChatGPT on Your Website Data and Build an AI Chatbot that can instantly answer your customers queries.
 
 ![倾城之链 - WebWhiz - ChatGPT for your website](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.webwhiz.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WebWhiz](https://www.webwhiz.ai/) ，为您的网站定制 [ChatGPT](https://nicelinks.site/tags/ChatGPT)，在您的网站数据上训练 ChatGPT 并构建可以立即回答客户查询的 AI 聊天机器人。让 AI 处理支持问题，只需几分钟即可将 chatGPT 的功能添加到您的网站。无需编码。WebWhiz 具有如下功能特征：
+**推荐语**：[WebWhiz](https://www.webwhiz.ai/) ，为您的网站定制 [ChatGPT](https://site.lovejade.cn/tags/ChatGPT)，在您的网站数据上训练 ChatGPT 并构建可以立即回答客户查询的 AI 聊天机器人。让 AI 处理支持问题，只需几分钟即可将 chatGPT 的功能添加到您的网站。无需编码。WebWhiz 具有如下功能特征：
 
 ### 轻松集成
 
@@ -156,19 +156,19 @@ WebWhiz 聊天机器人仅根据给定的数据进行回答。所以您总能得
 
 **WebWhiz 从您的网站收集哪些数据**？WebWhiz 从您的网站页面收集数据来训练您的聊天机器人。这包括页面中的文本数据以及任何元数据，例如页面标题或描述。WebWhiz 承诺不会从您的网站收集任何个人身份信息 (PII) 或敏感数据。他们仅扫描搜索引擎可用的公共数据。
 
-WebWhiz 是免费且开源的，支持基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行自托管；但您可以选择基于云的解决方案，WebWhiz 平台将处理从托管到支持的所有事务。如果您对该项目感兴趣，可移步 [Github 开源仓库](https://github.com/webwhiz-ai/webwhiz) ，从而了解更多。
+WebWhiz 是免费且开源的，支持基于 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 进行自托管；但您可以选择基于云的解决方案，WebWhiz 平台将处理从托管到支持的所有事务。如果您对该项目感兴趣，可移步 [Github 开源仓库](https://github.com/webwhiz-ai/webwhiz) ，从而了解更多。
 
-── 出自[倾城之链 - WebWhiz - ChatGPT for your website](https://nicelinks.site/post/64b3bc99ba9d8868a2a4c77d)
+── 出自[倾城之链 - WebWhiz - ChatGPT for your website](https://site.lovejade.cn/post/64b3bc99ba9d8868a2a4c77d)
 
-## [明日故乡 - 中国版数字游民指南](https://nicelinks.site/post/64b3b37aba9d8868a2a4c67f)
+## [明日故乡 - 中国版数字游民指南](https://site.lovejade.cn/post/64b3b37aba9d8868a2a4c67f)
 
-**标签**：[`数字游民`](https://nicelinks.site/tags/数字游民) · [`分享`](https://nicelinks.site/tags/分享) · [`生活指南`](https://nicelinks.site/tags/生活指南)
+**标签**：[`数字游民`](https://site.lovejade.cn/tags/数字游民) · [`分享`](https://site.lovejade.cn/tags/分享) · [`生活指南`](https://site.lovejade.cn/tags/生活指南)
 
 > 明日故乡 ，中国版数字游民指南，找到你的下一个定居点。
 
 ![倾城之链 - 明日故乡 - 中国版数字游民指南](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/guxiang.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[明日故乡](https://guxiang.app/) 中国版 [数字游民](https://nicelinks.site/tags/数字游民) 指南（一个中国城市数据查询器），帮您找到你的下一个定居点；它旨在通过建立一个中国版的 Nomad List（数字游民数据库），来为想要逃离北上广深等超大型城市的中国青年做出决策参考。该项目于 2023 年 6 月开始公测。
+**推荐语**：[明日故乡](https://guxiang.app/) 中国版 [数字游民](https://site.lovejade.cn/tags/数字游民) 指南（一个中国城市数据查询器），帮您找到你的下一个定居点；它旨在通过建立一个中国版的 Nomad List（数字游民数据库），来为想要逃离北上广深等超大型城市的中国青年做出决策参考。该项目于 2023 年 6 月开始公测。
 
 在这里，你可以通过复杂筛选来寻找自己理想中的旅居地点——比如全年晴天超过 90 天，且夏季温度不超过 30 度的城市。又或者是城镇居民收入超过 6 万，常驻人口小于 10 万人的城市。甚至是有星巴克，有麦当劳，全年雨天小于 60 天，最高气温低于 30 度的县城。
 
@@ -176,17 +176,17 @@ WebWhiz 是免费且开源的，支持基于 [Docker](https://nicelinks.site/pos
 
 **明日故乡**说明页写道：在中国，有 1031 个城市被机场覆盖，麦当劳和肯德基分别入驻了 621 与 1237 座城市，中国所有城市均已有 5G 网络，你的下一座城市，何必是：**北上广深**。
 
-── 出自[倾城之链 - 明日故乡 - 中国版数字游民指南](https://nicelinks.site/post/64b3b37aba9d8868a2a4c67f)
+── 出自[倾城之链 - 明日故乡 - 中国版数字游民指南](https://site.lovejade.cn/post/64b3b37aba9d8868a2a4c67f)
 
-## [Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://nicelinks.site/post/64b3b161ba9d8868a2a4c66a)
+## [Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://site.lovejade.cn/post/64b3b161ba9d8868a2a4c66a)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`AI`](https://nicelinks.site/tags/AI) · [`翻译器`](https://nicelinks.site/tags/翻译器)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`AI`](https://site.lovejade.cn/tags/AI) · [`翻译器`](https://site.lovejade.cn/tags/翻译器)
 
 > Trancy is a browser extension plugin that can help you learn a new language by watching YouTube and Netflix. You can turn your favorite content into learning material, which can improve your speaking and listening skills in a more realistic scenario. We have also integrated features from ChatGPT and Open AI to help you understand the meaning of words and analyze sentence grammar more deeply. Trancy is the most popular language learning Chrome extension plugin in 2023.
 
 ![倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.trancy.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Trancy Chrome](https://www.trancy.org/) ，一个专为语言学习者设计的全能工具，除了支 YouTube / Netflix 双语字幕，Trancy 还提供了网页 [AI](https://nicelinks.site/tags/AI) 划词翻译和全文翻译等功能，你可以巧妙地将内容转化为自己的语言学习资料。借助 Trancy，你可以体验高效且有趣的沉浸式语言学习。它具有如下功能特征：
+**推荐语**：[Trancy Chrome](https://www.trancy.org/) ，一个专为语言学习者设计的全能工具，除了支 YouTube / Netflix 双语字幕，Trancy 还提供了网页 [AI](https://site.lovejade.cn/tags/AI) 划词翻译和全文翻译等功能，你可以巧妙地将内容转化为自己的语言学习资料。借助 Trancy，你可以体验高效且有趣的沉浸式语言学习。它具有如下功能特征：
 
 ### 视频双语字幕
 
@@ -230,7 +230,7 @@ Trancy 沉浸式上下文对照翻译，打破信息壁垒，遨游更广的知�
 
 除上述功能之外，Trancy 还提供更多功能，诸如：倍数播放、单词高亮、微软发音、语音识别、ChatGPT 语法分析等，且仍在不断完善中。Trancy 工具主要以浏览器插件形式呈现，支持 Chrome、Edge、Brave、Arc 等；Trancy 免费可用，高阶版本需支付 25.99$ 每年。
 
-── 出自[倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://nicelinks.site/post/64b3b161ba9d8868a2a4c66a)
+── 出自[倾城之链 - Trancy Chrome 插件 | 沉浸式 AI 语言学习](https://site.lovejade.cn/post/64b3b161ba9d8868a2a4c66a)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

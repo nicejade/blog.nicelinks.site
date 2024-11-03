@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://nicelinks.site/post/64f9c51f41aa9b054b28383e)
+## [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://site.lovejade.cn/post/64f9c51f41aa9b054b28383e)
 
-**标签**：[`图表`](https://nicelinks.site/tags/图表) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`图表`](https://site.lovejade.cn/tags/图表) · [`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Simplify documentation and avoid heavy tools. Open source Visio Alternative. Commonly used for explaining your code! Mermaid is a simple markdown-like script language for generating charts from text via javascript.
 
 ![倾城之链 - Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/mermaid.live.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Mermaid](https://mermaid.live/) 是一个基于 [JavaScript](https://nicelinks.site/tags/JavaScript) 的图表绘制工具，通过解析类 [Markdown](https://nicelinks.site/tags/Markdown) 的文本语法来实现图表的创建和动态修改。Mermaid 诞生的主要目的是让文档的更新能够及时跟上开发进度。
+**推荐语**：[Mermaid](https://mermaid.live/) 是一个基于 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 的图表绘制工具，通过解析类 [Markdown](https://site.lovejade.cn/tags/Markdown) 的文本语法来实现图表的创建和动态修改。Mermaid 诞生的主要目的是让文档的更新能够及时跟上开发进度。
 
 > Doc-Rot 是 Mermaid 致力于解决的一个难题。
 
@@ -20,17 +20,17 @@ Mermaid 甚至能让非程序员也能通过 [Mermaid Live Editor](https://merma
 
 如果想要查看关于 Mermaid 更详细的介绍及基础使用方式，可以查看 [入门指引、用法和教程](https://github.com/mermaid-js/mermaid/blob/develop/docs/intro/getting-started.md) 。值得一提的是， [Mermaid 在 Github 仓库开源](https://github.com/mermaid-js/mermaid) ，截止 2023 年 09 月 07 日，已获得找过 60.7K+ Star，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://nicelinks.site/post/64f9c51f41aa9b054b28383e)
+── 出自[倾城之链 - Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://site.lovejade.cn/post/64f9c51f41aa9b054b28383e)
 
-## [Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://nicelinks.site/post/64f9bdb141aa9b054b28371d)
+## [Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://site.lovejade.cn/post/64f9bdb141aa9b054b28371d)
 
-**标签**：[`Rust`](https://nicelinks.site/tags/Rust) · [`程序库`](https://nicelinks.site/tags/程序库) · [`Python`](https://nicelinks.site/tags/Python)
+**标签**：[`Rust`](https://site.lovejade.cn/tags/Rust) · [`程序库`](https://site.lovejade.cn/tags/程序库) · [`Python`](https://site.lovejade.cn/tags/Python)
 
 > Polars is a blazingly fast DataFrame library completely written in Rust, using the Apache Arrow memory model. It exposes bindings for the popular Python and soon JavaScript languages. Polars supports a full lazy execution API allowing query optimization.
 
 ![倾城之链 - Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.pola.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Polars](https://www.pola.rs/) ：适用于 [Rust](https://nicelinks.site/tags/Rust) 和 [Python](https://nicelinks.site/tags/Python) 的闪电般快速的 DataFrame 库；位于 OLAP 查询引擎之上，具有多线程、查询优化、单指令多数据流、强大的表达式 API 等特点。官网给出如下功能特征：
+**推荐语**：[Polars](https://www.pola.rs/) ：适用于 [Rust](https://site.lovejade.cn/tags/Rust) 和 [Python](https://site.lovejade.cn/tags/Python) 的闪电般快速的 DataFrame 库；位于 OLAP 查询引擎之上，具有多线程、查询优化、单指令多数据流、强大的表达式 API 等特点。官网给出如下功能特征：
 
 ### 从一开始就熟悉
 
@@ -44,13 +44,13 @@ Polars 是用 Rust 编写的，在为 Rust 生态系统提供功能完整的 Dat
 
 Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Columnar.html) 的 [安全 Arrow2 实现](https://github.com/jorgecarleitao/arrow2) 之上，可实现高效的资源利用和处理性能。通过这样做，它还可以与 Arrow 生态系统中的其他工具无缝集成。
 
-总之，Polars 是一个快如闪电的 DataFrame 库/内存查询 [引擎](https://nicelinks.site/tags/引擎) 。其令人惊讶的并行执行、高效的缓存算法和富有表现力的 API 使其成为高效数据处理、数据管道、快速 API 等方面的完美工具。Polars 的速度快得惊人，请看 [H2O.ai 基准](https://h2oai.github.io/db-benchmark/) 测试的结果。如果您对该项目感兴趣，可移步 [Github 开源仓库](https://github.com/pola-rs/polars) 从而了解更多。
+总之，Polars 是一个快如闪电的 DataFrame 库/内存查询 [引擎](https://site.lovejade.cn/tags/引擎) 。其令人惊讶的并行执行、高效的缓存算法和富有表现力的 API 使其成为高效数据处理、数据管道、快速 API 等方面的完美工具。Polars 的速度快得惊人，请看 [H2O.ai 基准](https://h2oai.github.io/db-benchmark/) 测试的结果。如果您对该项目感兴趣，可移步 [Github 开源仓库](https://github.com/pola-rs/polars) 从而了解更多。
 
-── 出自[倾城之链 - Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://nicelinks.site/post/64f9bdb141aa9b054b28371d)
+── 出自[倾城之链 - Polars | Blazingly fast DataFrames in Rust, Python, Node.js, R and SQL](https://site.lovejade.cn/post/64f9bdb141aa9b054b28371d)
 
-## [Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://nicelinks.site/post/64f8a21b41aa9b054b2830eb)
+## [Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://site.lovejade.cn/post/64f8a21b41aa9b054b2830eb)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`利器`](https://nicelinks.site/tags/利器) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`利器`](https://site.lovejade.cn/tags/利器) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：Qwerty Learner, 打字练习软件, 单词记忆工具, 英语学习, 背单词, 英语肌肉记忆锻炼, 键盘工作者, 免费背单词软件
 
@@ -82,11 +82,11 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 [Qwerty Learner](https://qwerty.kaiyi.cool/) 内置了程序员工作常用单词的词库，方便练习工作中常用的单词、提高输入速度。也内置了诸多语言的 API 的练习，帮助以程序员快速熟悉常用的 API，更多语言的 API 正在逐步添加中......值得一提的是，该项目在 [Github 仓库开源](https://github.com/Kaiyiwing/qwerty-learner) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://nicelinks.site/post/64f8a21b41aa9b054b2830eb)
+── 出自[倾城之链 - Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://site.lovejade.cn/post/64f8a21b41aa9b054b2830eb)
 
-## [1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://nicelinks.site/post/64f5d62c41aa9b054b2822d2)
+## [1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://site.lovejade.cn/post/64f5d62c41aa9b054b2822d2)
 
-**标签**：[`运维`](https://nicelinks.site/tags/运维) · [`Linux`](https://nicelinks.site/tags/Linux) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`运维`](https://site.lovejade.cn/tags/运维) · [`Linux`](https://site.lovejade.cn/tags/Linux) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：1Panel, 服务器运维软件, 服务器运维管理面板, 免费主机管理系统, 开源主机管理系统, Linux 面板, 开源 Linux 面板, 面板
 
@@ -96,24 +96,24 @@ Polars 建立在 [Apache Arrow 规范](https://arrow.apache.org/docs/format/Colu
 
 **推荐语**：[1Panel](https://1panel.cn/) 是一个现代化、开源的 Linux 服务器运维管理面板。1Panel 的功能和优势包括：
 
-- **快速建站**：深度集成 Wordpress 和 [Halo](https://nicelinks.site/post/6061f8d9bffb5e532f3be243) ，域名绑定、SSL 证书配置等一键搞定；
+- **快速建站**：深度集成 Wordpress 和 [Halo](https://site.lovejade.cn/post/6061f8d9bffb5e532f3be243) ，域名绑定、SSL 证书配置等一键搞定；
 - **高效管理**：通过 Web 端轻松管理 Linux 服务器，包括主机监控、文件管理、数据库管理、容器管理等；
 - **安全可靠**：基于容器来管理和部署应用，最小漏洞暴露面，提供防火墙和日志审计等功能；
 - **一键备份**：支持一键备份和恢复，备份数据到各类云端存储，永不丢失。
 
 2023 年 8 月 10 日，在正式发布的 1Panel v1.5 版本，新增进程守护管理、支持添加 MySQL 远程数据库，支持 PHP 版本切换等； [1Panel 在 Github 仓库开源](https://github.com/1Panel-dev/1Panel) ，截止 2023 年 09 月 04 日，已获得 10.1K+ Star，感兴趣的朋友可移步前往从而了解更多。
 
-── 出自[倾城之链 - 1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://nicelinks.site/post/64f5d62c41aa9b054b2822d2)
+── 出自[倾城之链 - 1Panel - 现代化、开源的 Linux 服务器运维管理面板](https://site.lovejade.cn/post/64f5d62c41aa9b054b2822d2)
 
-## [Axios | Promise based HTTP client for the browser and node.js](https://nicelinks.site/post/64f5d43941aa9b054b2822a6)
+## [Axios | Promise based HTTP client for the browser and node.js](https://site.lovejade.cn/post/64f5d43941aa9b054b2822a6)
 
-**标签**：[`HTTP`](https://nicelinks.site/tags/HTTP) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`HTTP`](https://site.lovejade.cn/tags/HTTP) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Axios, Promise based HTTP client for the browser and node.js.
 
 ![倾城之链 - Axios | Promise based HTTP client for the browser and node.js](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/axios-http.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Axios](https://axios-http.com/) 是一个简单的基于 Promise 的 [HTTP](https://nicelinks.site/tags/HTTP) 客户端，适用于浏览器和 Node.js。 Axios 在一个小包中提供了一个简单易用的库，具有非常可扩展的接口。它可以处理 GET、POST、PUT、DELETE 等多种 HTTP 请求，并支持跨域请求、拦截请求和响应、设置请求头和响应类型等功能。Axios 的优点包括以下几点：
+**推荐语**：[Axios](https://axios-http.com/) 是一个简单的基于 Promise 的 [HTTP](https://site.lovejade.cn/tags/HTTP) 客户端，适用于浏览器和 Node.js。 Axios 在一个小包中提供了一个简单易用的库，具有非常可扩展的接口。它可以处理 GET、POST、PUT、DELETE 等多种 HTTP 请求，并支持跨域请求、拦截请求和响应、设置请求头和响应类型等功能。Axios 的优点包括以下几点：
 
 ### 支持 Promise
 
@@ -145,11 +145,11 @@ Axios 支持跨域请求，可以在浏览器中发送跨域请求。这对于�
 
 除此之外，它还具有 自动转换 JSON 数据、🆕 自动数据对象序列化 `multipart/form-data` 和 `x-www-form-urlencoded` 主体编码、客户端支持防御 XSRF 等特征，由于以上这些优点，Axios 成为了开发人员最受欢迎的 HTTP 工具之一。它简单易用、功能强大、文档详细、社区活跃，是现代 Web 开发中不可或缺的工具之一。值得一提的是： [axios 在 Github 仓库开源](https://github.com/axios/axios) ，截止 2023 年 09 月 04 日 已获得 101K+ Star，如果您对该项目感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Axios | Promise based HTTP client for the browser and node.js](https://nicelinks.site/post/64f5d43941aa9b054b2822a6)
+── 出自[倾城之链 - Axios | Promise based HTTP client for the browser and node.js](https://site.lovejade.cn/post/64f5d43941aa9b054b2822a6)
 
-## [Tabserve - A HTTPS URL for localhost using just your browser](https://nicelinks.site/post/64f5d1f041aa9b054b282261)
+## [Tabserve - A HTTPS URL for localhost using just your browser](https://site.lovejade.cn/post/64f5d1f041aa9b054b282261)
 
-**标签**：[`利器`](https://nicelinks.site/tags/利器) · [`有趣`](https://nicelinks.site/tags/有趣) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`利器`](https://site.lovejade.cn/tags/利器) · [`有趣`](https://site.lovejade.cn/tags/有趣) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > Tabserve：A secure & fast HTTPS URL for localhost using your browser as a reverse proxy.
 
@@ -161,7 +161,7 @@ Axios 支持跨域请求，可以在浏览器中发送跨域请求。这对于�
 
 这使您可以与世界共享本地 Web 服务器、接收 Webhook、从不同设备进行测试以及使用仅 HTTPS 的浏览器 JS API。您还可以从任何具有 Web 浏览器的计算机运行中小型生产服务。如果您对该项目感兴趣，可移步至 Tabserve 官方网站，从而了解更多。
 
-── 出自[倾城之链 - Tabserve - A HTTPS URL for localhost using just your browser](https://nicelinks.site/post/64f5d1f041aa9b054b282261)
+── 出自[倾城之链 - Tabserve - A HTTPS URL for localhost using just your browser](https://site.lovejade.cn/post/64f5d1f041aa9b054b282261)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Folio.ink, free fast and easy portfolios.](https://nicelinks.site/post/62bda70d0c61c703d774759b)
+## [Folio.ink, free fast and easy portfolios.](https://site.lovejade.cn/post/62bda70d0c61c703d774759b)
 
-**标签**：[`分享`](https://nicelinks.site/tags/分享) · [`广告`](https://nicelinks.site/tags/广告) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`分享`](https://site.lovejade.cn/tags/分享) · [`广告`](https://site.lovejade.cn/tags/广告) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 **关键字**：portfolio, free portfolios, gallery, free image hosting, upload picture, upload images free, free gallery, free album, image gallery, photo hosting sites, professional portfolios
 
@@ -22,11 +22,11 @@ Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意�
 
 公开分享您的创作，并从他人那里寻找灵感。从对当今世界各地的事件、文化和人们的新观点中获得启发。[Folio.ink 精选](https://folio.ink/explore)，支持您探索的公共作品集。
 
-── 出自[倾城之链 - Folio.ink, free fast and easy portfolios.](https://nicelinks.site/post/62bda70d0c61c703d774759b)
+── 出自[倾城之链 - Folio.ink, free fast and easy portfolios.](https://site.lovejade.cn/post/62bda70d0c61c703d774759b)
 
-## [OpenSumi | OpenSumi 框架](https://nicelinks.site/post/62bd60520c61c703d7747595)
+## [OpenSumi | OpenSumi 框架](https://site.lovejade.cn/post/62bd60520c61c703d7747595)
 
-**标签**：[`IDE`](https://nicelinks.site/tags/IDE) · [`框架`](https://nicelinks.site/tags/框架) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`IDE`](https://site.lovejade.cn/tags/IDE) · [`框架`](https://site.lovejade.cn/tags/框架) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > 一款帮助你快速搭建本地和云端 IDE 的框架。
 
@@ -53,13 +53,13 @@ Folio.ink 适用于当今创意的数字投递产品组合：它旨在为创意�
 - **丰富的垂直领域研发支撑经验**：小程序研发场景，云端一体化研发链路，纯前端搭建；
 - **完整的 VS Code 的插件能力支持**：设计之初就是要兼容 VS Code 插件生态，并制定定期适配计划；
 
-与 VS Code 主要针对的 ToC 用户群不同， OpenSumi 与 [Theia](https://nicelinks.site/post/62bd55770c61c703d7747593) 类似，所针对的用户群是 ToB；当然，完全可以基于 [Vs Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 二次开发，来定制属于 IDE，但门槛及成本相对较高。基于 `Theia` 或阿里所开源的 `OpenSumi`，对那些需要通过 IDE 框架，搭建自有的 CloudIDE / 本地 IDE 产品而又没有充足技术研发能力的中小企业，是一个简单、便捷的开发选项。
+与 VS Code 主要针对的 ToC 用户群不同， OpenSumi 与 [Theia](https://site.lovejade.cn/post/62bd55770c61c703d7747593) 类似，所针对的用户群是 ToB；当然，完全可以基于 [Vs Code](https://site.lovejade.cn/post/5af55777979f626ea3d37917) 二次开发，来定制属于 IDE，但门槛及成本相对较高。基于 `Theia` 或阿里所开源的 `OpenSumi`，对那些需要通过 IDE 框架，搭建自有的 CloudIDE / 本地 IDE 产品而又没有充足技术研发能力的中小企业，是一个简单、便捷的开发选项。
 
-── 出自[倾城之链 - OpenSumi | OpenSumi 框架](https://nicelinks.site/post/62bd60520c61c703d7747595)
+── 出自[倾城之链 - OpenSumi | OpenSumi 框架](https://site.lovejade.cn/post/62bd60520c61c703d7747595)
 
-## [Theia - Cloud and Desktop IDE Platform](https://nicelinks.site/post/62bd55770c61c703d7747593)
+## [Theia - Cloud and Desktop IDE Platform](https://site.lovejade.cn/post/62bd55770c61c703d7747593)
 
-**标签**：[`IDE`](https://nicelinks.site/tags/IDE) · [`开源`](https://nicelinks.site/tags/开源) · [`编辑器`](https://nicelinks.site/tags/编辑器)
+**标签**：[`IDE`](https://site.lovejade.cn/tags/IDE) · [`开源`](https://site.lovejade.cn/tags/开源) · [`编辑器`](https://site.lovejade.cn/tags/编辑器)
 
 > Theia is an open-source cloud &nbsp; desktop IDE framework implemented in TypeScript.
 
@@ -89,13 +89,13 @@ Theia 团队，相信 VS Code 是一款出色的产品。因此， Theia 包含�
 - Theia 从一开始就设计为在桌面和云上运行；
 - Theia 是在供应商中立的开源基金会下开发的。
 
-Theia 是一个可扩展的平台，用于使用最先进的 Web 技术，开发成熟的多语言云和桌面 IDE 类产品。从外界视角来看，这是 Theia 与 Vs Code 最主要的不同：前者主要为 ToB 用户，后者则致力于 ToC 用户。当然，完全可以基于 [Vs Code](https://nicelinks.site/post/5af55777979f626ea3d37917) 二次开发，来定制属于 IDE，但门槛及成本相对较高。基于 Theia 或阿里所开源的 OpenSumi，对那些需要通过 IDE 框架，搭建自有的 CloudIDE / 本地 IDE 产品而又没有充足技术研发能力的中小企业，是一个简单、便捷的开发选项。
+Theia 是一个可扩展的平台，用于使用最先进的 Web 技术，开发成熟的多语言云和桌面 IDE 类产品。从外界视角来看，这是 Theia 与 Vs Code 最主要的不同：前者主要为 ToB 用户，后者则致力于 ToC 用户。当然，完全可以基于 [Vs Code](https://site.lovejade.cn/post/5af55777979f626ea3d37917) 二次开发，来定制属于 IDE，但门槛及成本相对较高。基于 Theia 或阿里所开源的 OpenSumi，对那些需要通过 IDE 框架，搭建自有的 CloudIDE / 本地 IDE 产品而又没有充足技术研发能力的中小企业，是一个简单、便捷的开发选项。
 
-── 出自[倾城之链 - Theia - Cloud and Desktop IDE Platform](https://nicelinks.site/post/62bd55770c61c703d7747593)
+── 出自[倾城之链 - Theia - Cloud and Desktop IDE Platform](https://site.lovejade.cn/post/62bd55770c61c703d7747593)
 
-## [PM2 - Home](https://nicelinks.site/post/62bc60e90c61c703d7747590)
+## [PM2 - Home](https://site.lovejade.cn/post/62bc60e90c61c703d7747590)
 
-**标签**：[`运维`](https://nicelinks.site/tags/运维) · [`npm`](https://nicelinks.site/tags/npm) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`运维`](https://site.lovejade.cn/tags/运维) · [`npm`](https://site.lovejade.cn/tags/npm) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Build Battle-Hardened Node.js Applications.
 
@@ -153,19 +153,19 @@ CMD [ "pm2-runtime", "npm", "--", "start" ]
 
 PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，保持 PM2 和您的进程处于活动状态。
 
-值得一提的是，pm2 在 github 开源，免费可用；如果您使用 PM2 管理应用程序，PM2+（收费） 可以轻松监控和管理跨服务器的应用程序。当然，您也可以基于 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 或 [K8S](https://nicelinks.site/post/5b2cad0a34c03342fda0f37e) 来部署您的服务，相比之下，更倾心基于 pm2 这种方案。
+值得一提的是，pm2 在 github 开源，免费可用；如果您使用 PM2 管理应用程序，PM2+（收费） 可以轻松监控和管理跨服务器的应用程序。当然，您也可以基于 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 或 [K8S](https://site.lovejade.cn/post/5b2cad0a34c03342fda0f37e) 来部署您的服务，相比之下，更倾心基于 pm2 这种方案。
 
-── 出自[倾城之链 - PM2 - Home](https://nicelinks.site/post/62bc60e90c61c703d7747590)
+── 出自[倾城之链 - PM2 - Home](https://site.lovejade.cn/post/62bc60e90c61c703d7747590)
 
-## [GitHub Star History](https://nicelinks.site/post/62bb3c660c61c703d774758e)
+## [GitHub Star History](https://site.lovejade.cn/post/62bb3c660c61c703d774758e)
 
-**标签**：[`Github`](https://nicelinks.site/tags/Github) · [`开源`](https://nicelinks.site/tags/开源) · [`可视化`](https://nicelinks.site/tags/可视化)
+**标签**：[`Github`](https://site.lovejade.cn/tags/Github) · [`开源`](https://site.lovejade.cn/tags/开源) · [`可视化`](https://site.lovejade.cn/tags/可视化)
 
 > View and compare GitHub star history of open source projects
 
 ![倾城之链 - GitHub Star History](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/star-history.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GitHub Star History](https://star-history.com)，用来可视化查看 [GitHub](https://nicelinks.site/tags/Github) 仓库 Star 历史图。您可以基于此工具，将生成的 **LIVE 图表**，以非常便捷的方式，添加到您的 GitHub README，从而展示给访问者。它具有以下功能特征：
+**推荐语**：[GitHub Star History](https://star-history.com)，用来可视化查看 [GitHub](https://site.lovejade.cn/tags/Github) 仓库 Star 历史图。您可以基于此工具，将生成的 **LIVE 图表**，以非常便捷的方式，添加到您的 GitHub README，从而展示给访问者。它具有以下功能特征：
 
 - 独特的素描 xkcd 感觉图；
 - 一键生成高品质图表图片；
@@ -177,19 +177,19 @@ PM2 可以生成和配置启动脚本，以在每次服务器重新启动时，�
   - 在 Twitter 上快速分享；
   - 支持输入多个 repos；
 
-您可以下载该图表（图片或 `CSV`），还可以基于 Markdown 格式，嵌入实时图表在您的网站或 GitHub README；此外，它提供了 Chrome 免费扩展。值得一提的是，[star-history](https://star-history.com) 是用现代技术栈构建（[Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) + [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) + [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)，[pnpm](https://nicelinks.site/post/62989af00f40a860b1599de2)），该项目在 Github 开源，感兴趣的朋友可以了解下。
+您可以下载该图表（图片或 `CSV`），还可以基于 Markdown 格式，嵌入实时图表在您的网站或 GitHub README；此外，它提供了 Chrome 免费扩展。值得一提的是，[star-history](https://star-history.com) 是用现代技术栈构建（[Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) + [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e) + [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7)，[pnpm](https://site.lovejade.cn/post/62989af00f40a860b1599de2)），该项目在 Github 开源，感兴趣的朋友可以了解下。
 
-── 出自[倾城之链 - GitHub Star History](https://nicelinks.site/post/62bb3c660c61c703d774758e)
+── 出自[倾城之链 - GitHub Star History](https://site.lovejade.cn/post/62bb3c660c61c703d774758e)
 
-## [Darling | run macOS software on Linux](https://nicelinks.site/post/62b849413cc95e702564e0d5)
+## [Darling | run macOS software on Linux](https://site.lovejade.cn/post/62b849413cc95e702564e0d5)
 
-**标签**：[`Linux`](https://nicelinks.site/tags/Linux) · [`工具`](https://nicelinks.site/tags/工具) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`Linux`](https://site.lovejade.cn/tags/Linux) · [`工具`](https://site.lovejade.cn/tags/工具) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > Darling — macOS translation layer for Linux
 
 ![倾城之链 - Darling |   run macOS software on Linux](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.darlinghq.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Darling](https://www.darlinghq.org/) 是一个翻译层，可让您在 [Linux](https://nicelinks.site/tags/Linux) 上运行 macOS 软件。它具有以下功能特征：
+**推荐语**：[Darling](https://www.darlinghq.org/) 是一个翻译层，可让您在 [Linux](https://site.lovejade.cn/tags/Linux) 上运行 macOS 软件。它具有以下功能特征：
 
 ### 快速的
 
@@ -214,7 +214,7 @@ Darling 为您完成大部分设置。坐下来享受使用您最喜爱的软件
 
 Darling，适用于 Linux 的 Darwin/macOS 仿真层；这个名字是“Darwin”和“Linux”的组合。Darwin 是 macOS 和 iOS 所基于的核心操作系统。该项目在 [Github 开源](https://github.com/darlinghq/darling)，感兴趣的朋友可深入了解。值得一提的是，Wine 可以让你在 Linux 上运行 Windows 软件，而 Darling 也可以为 macOS 软件做同样的事情。另一个类似的项目是 [Anbox](https://anbox.io/)，用于 Android 应用程序。
 
-── 出自[倾城之链 - Darling | run macOS software on Linux](https://nicelinks.site/post/62b849413cc95e702564e0d5)
+── 出自[倾城之链 - Darling | run macOS software on Linux](https://site.lovejade.cn/post/62b849413cc95e702564e0d5)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [Pixel True Designs](https://www.pixeltrue.com/?utm_source=nicelinks.site)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`设计师`](https://nicelinks.site/tags/设计师) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`设计师`](https://site.lovejade.cn/tags/设计师) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > We provide an experienced design team that works with you everyday to create high-quality design assets to help grow your business. Zero headaches, no contracts and fixed pricing.
 
@@ -14,11 +14,11 @@
 
 另外值得一提的是，[Pixel True Designs](https://www.pixeltrue.com/) 还提供了很多完美设计工具；如 [ Mockup Generator](https://www.pixeltrue.com/mockup-generator)，使用它，您可以在几下点击即可创建美丽的产品模型！完全免费。有超过 30 种不同的模型，您将有足够的材料来为您的项目和营销活动创建美丽的产品模型。
 
-── 出自[倾城之链 - Pixel True Designs](https://nicelinks.site/post/608ac2939947e6213fe43a9a)
+── 出自[倾城之链 - Pixel True Designs](https://site.lovejade.cn/post/608ac2939947e6213fe43a9a)
 
 ## [36 氪出海 | 助力中国公司全球化](https://letschuhai.com/?utm_source=nicelinks.site)
 
-**标签**：[`科技`](https://nicelinks.site/tags/科技) · [`互联网`](https://nicelinks.site/tags/互联网) · [`高科技`](https://nicelinks.site/tags/高科技)
+**标签**：[`科技`](https://site.lovejade.cn/tags/科技) · [`互联网`](https://site.lovejade.cn/tags/互联网) · [`高科技`](https://site.lovejade.cn/tags/高科技)
 
 **关键字**：36 氪出海, letschuhai, let's chuhai club, 快讯, 精选, 新经济, 36 氪出海首发, 融资, 科技, 电子商务, 股票, 投资, 移动互联网, 互联网电商, 芯片, 科技新闻, 人工智能, 汽车产业, 新能源汽车, 医疗, 风投, 出海, IPO, 全球化, 全球新经济, 出海, 中国新经济, 跨境电商, 金融科技, fintech, 投资机构, 海外营销, 流量, 独角兽, 36krchuhai
 
@@ -28,11 +28,11 @@
 
 **推荐语**：[36 氪出海](https://letschuhai.com/)是关注全球新经济的中文媒体品牌。他们的内容聚焦中外各大新经济行业， 力图帮助中国最具有全球视野的人群更全面地理解全球商业。除此之外，[36 氪出海](https://letschuhai.com/)会定期通过跨境论坛、咨询、社群交流等服务， 连接亚洲区域内的大公司、初创公司和生态中的其他重要角色， 促进更多跨境商业机遇的产生。
 
-── 出自[倾城之链 - 36 氪出海 | 助力中国公司全球化](https://nicelinks.site/post/608a722d9947e6213fe43a98)
+── 出自[倾城之链 - 36 氪出海 | 助力中国公司全球化](https://site.lovejade.cn/post/608a722d9947e6213fe43a98)
 
 ## [ImgDownloader - Bulk Download Image from Website and URL](https://imgdownloader.com/?utm_source=nicelinks.site)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`下载`](https://nicelinks.site/tags/下载) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`下载`](https://site.lovejade.cn/tags/下载) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > Imdownloader is an all-in-one online tool that enables to you download images in bulk. First, you can bulk download images from any webpage by using a single Url. Then, you can bulk download images from Google Search engine. And, you can download images and videos from Instagram by copying the URL.
 
@@ -58,11 +58,11 @@ Instagram 是最受欢迎的社交媒体平台，来自世界各地的用户共�
 - **易于使用**：复制并粘贴 URL 和网站。 [ImgDownloader](https://imgdownloader.com/) 将抓取所有显示的图片；
 - **可用性**：使用 ImgDownloader 可以保存来自 Twitter，instagram，facebook 和您想要的所有网站的所有图片。
 
-── 出自[倾城之链 - ImgDownloader - Bulk Download Image from Website and URL](https://nicelinks.site/post/608935919947e6213fe43a95)
+── 出自[倾城之链 - ImgDownloader - Bulk Download Image from Website and URL](https://site.lovejade.cn/post/608935919947e6213fe43a95)
 
 ## [Vary 卡片手帐 App | 创作高颜值日记卡片](https://vary.app/cn/?utm_source=nicelinks.site)
 
-**标签**：[`创作`](https://nicelinks.site/tags/创作) · [`工具`](https://nicelinks.site/tags/工具) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`创作`](https://site.lovejade.cn/tags/创作) · [`工具`](https://site.lovejade.cn/tags/工具) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > 重量级创作工具，轻量级社交网络；模块化内容排版，焕然一新的创作体验。二维信息流+模块化内容+智能排版工具，助你用最优雅的方式记录生活点滴与所想所爱。
 
@@ -70,7 +70,7 @@ An iOS app features a block-based modular editor and a private social network. L
 
 ![倾城之链 - Vary 卡片手帐 App | 创作高颜值日记卡片](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vary.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Vary](https://vary.app/) 是一个定位于在熟识好友间分享生活的社交网络，重点是私密和清净（由[翁天信](https://nicelinks.site/post/5a7faec281585151907cb24e)创造）。在这里，没有网站链接，没有广告和软文，没有代购和营销，没有无谓的鸡汤，也没有繁重的人际关系。**只是在喧闹纷乱的网络世界里，一个可以安安静静地与你在乎的、真正关心你的人分享和记录自己生活的地方**。它具有以下功能特征：
+**推荐语**：[Vary](https://vary.app/) 是一个定位于在熟识好友间分享生活的社交网络，重点是私密和清净（由[翁天信](https://site.lovejade.cn/post/5a7faec281585151907cb24e)创造）。在这里，没有网站链接，没有广告和软文，没有代购和营销，没有无谓的鸡汤，也没有繁重的人际关系。**只是在喧闹纷乱的网络世界里，一个可以安安静静地与你在乎的、真正关心你的人分享和记录自己生活的地方**。它具有以下功能特征：
 
 - 重量级创作工具，轻量级社交网络；
 - 模块化内容排版，焕然一新的创作体验；
@@ -80,11 +80,11 @@ An iOS app features a block-based modular editor and a private social network. L
 
 如果您对 [Vary](https://vary.app/) 想了解更多，请参见 [Vary | 九个月的努力](https://blog.dandyweng.com/2017/02/nine-months-of-work/)。
 
-── 出自[倾城之链 - Vary 卡片手帐 App | 创作高颜值日记卡片](https://nicelinks.site/post/6088efa19947e6213fe43a93)
+── 出自[倾城之链 - Vary 卡片手帐 App | 创作高颜值日记卡片](https://site.lovejade.cn/post/6088efa19947e6213fe43a93)
 
 ## [知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具](https://zsxq.com/?utm_source=nicelinks.site)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`社群`](https://nicelinks.site/tags/社群)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`社群`](https://site.lovejade.cn/tags/社群)
 
 **关键字**：社群服务，社群工具，公众号粉丝管理，粉丝社区，内容付费，知识变现，流量变现，粉丝经济，KOL，大 V，知识管理，内容沉淀，企业社区，内部论坛，小团队共享，私密圈，原名小密圈，小秘圈，小蜜圈
 
@@ -100,11 +100,11 @@ An iOS app features a block-based modular editor and a private social network. L
 - **多角色多权限设置**：管理员协助管理，邀请嘉宾坐堂，一起分享内容和答疑；
 - **社群运营和管理**：你的星球你做主，后台给星主提供大量方便管理星球的权限和数据支持。
 
-── 出自[倾城之链 - 知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具](https://nicelinks.site/post/6087f9749947e6213fe43a8f)
+── 出自[倾城之链 - 知识星球 | 深度连接铁杆粉丝，运营高品质社群，知识变现的工具](https://site.lovejade.cn/post/6087f9749947e6213fe43a8f)
 
 ## [1024 - 好人一生平安 - 1024.COM](https://1024.com/?utm_source=nicelinks.site)
 
-**标签**：[`网站`](https://nicelinks.site/tags/网站) · [`广告`](https://nicelinks.site/tags/广告)
+**标签**：[`网站`](https://site.lovejade.cn/tags/网站) · [`广告`](https://site.lovejade.cn/tags/广告)
 
 **关键字**：1024,好人一生平安,1024 只猴子
 
@@ -119,7 +119,7 @@ An iOS app features a block-based modular editor and a private social network. L
 - 鼠标悬停时的提示语
 - 选择一个喜欢的位置
 
-── 出自[倾城之链 - 1024 - 好人一生平安 - 1024.COM](https://nicelinks.site/post/60855fdb9947e6213fe43a8c)
+── 出自[倾城之链 - 1024 - 好人一生平安 - 1024.COM](https://site.lovejade.cn/post/60855fdb9947e6213fe43a8c)
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 
 ## 本期文末寄语

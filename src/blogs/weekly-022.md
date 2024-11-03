@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Toolb - Your daily web toolbox](https://nicelinks.site/post/60f0279f81b2dc066ea4bd65)
+## [Toolb - Your daily web toolbox](https://site.lovejade.cn/post/60f0279f81b2dc066ea4bd65)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`HTML`](https://nicelinks.site/tags/HTML)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`HTML`](https://site.lovejade.cn/tags/HTML)
 
 **关键字**：toolb, css, js, HTML, useful links
 
@@ -14,11 +14,11 @@
 
 **推荐语**：[Toolb](https://www.toolb.dev/)， 提供了一套 50+ 和扩展的免费 CSS、HTML 和 JS 网络交互式工具，供日常使用，未来还会有更多。此外还提供[文字工具](https://www.toolb.dev/text)、[图像工具](https://www.toolb.dev/image)、[获取工具](https://www.toolb.dev/fetch)等。有初步体验 CSS 交互式工具，有提供 15 种各种工具，诸如调色盘 🎨 生成器、网格生成器、三角生成器、背景图片等等，它不仅提供拖拽、编辑生成代码，而且提供各种获取代码方式（拷贝、下载、二维码），可谓十分贴心。如果您是从事 Web 前端开发的朋友，不妨关注该工具，或许能在某些场景，为你提供帮助。
 
-── 出自[倾城之链 - Toolb - Your daily web toolbox](https://nicelinks.site/post/60f0279f81b2dc066ea4bd65)
+── 出自[倾城之链 - Toolb - Your daily web toolbox](https://site.lovejade.cn/post/60f0279f81b2dc066ea4bd65)
 
-## [POPPUR 卟扒 - 让一部分人先看到未来](https://nicelinks.site/post/60f01a4381b2dc066ea4bd63)
+## [POPPUR 卟扒 - 让一部分人先看到未来](https://site.lovejade.cn/post/60f01a4381b2dc066ea4bd63)
 
-**标签**：[`资讯`](https://nicelinks.site/tags/资讯) · [`软件`](https://nicelinks.site/tags/软件) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`资讯`](https://site.lovejade.cn/tags/资讯) · [`软件`](https://site.lovejade.cn/tags/软件) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 **关键字**：VR, 虚拟现实, iPhone, 安卓, 个人电脑, 无人驾驶, 数码科技
 
@@ -28,11 +28,11 @@
 
 **推荐语**：[POPPUR 卟扒](https://www.poppur.com/)是个免费软件下载网站，以丰富的电脑软件，手机软件，手机游戏为主，并且提供应用游戏攻略资讯攻略等信息，是专业的应用游戏软件下载基地。该网站分为 VR、iPhone、Android、PC、Next（智能家居、无人驾驶、随身数码）、PC 软件、手机软件、播放软件、手机游戏、教程资讯等模块，如果您对相关内容感兴趣，不妨考虑关注。
 
-── 出自[倾城之链 - POPPUR 卟扒 - 让一部分人先看到未来](https://nicelinks.site/post/60f01a4381b2dc066ea4bd63)
+── 出自[倾城之链 - POPPUR 卟扒 - 让一部分人先看到未来](https://site.lovejade.cn/post/60f01a4381b2dc066ea4bd63)
 
-## [知妖（中国妖怪百集）](https://nicelinks.site/post/60eefd6d81b2dc066ea4bd61)
+## [知妖（中国妖怪百集）](https://site.lovejade.cn/post/60eefd6d81b2dc066ea4bd61)
 
-**标签**：[`有趣`](https://nicelinks.site/tags/有趣) · [`历史`](https://nicelinks.site/tags/历史)
+**标签**：[`有趣`](https://site.lovejade.cn/tags/有趣) · [`历史`](https://site.lovejade.cn/tags/历史)
 
 **关键字**：妖怪, 神鬼, 神仙, 妖兽, 瑞兽, 鬼怪, 精怪, 神兽, 中国妖怪, 妖怪百集, 知妖, 知妖官网, 知妖网, 知妖网官网, 知妖 app
 
@@ -44,23 +44,23 @@
 
 需要说明的是，该网站内容，主要以古文献中对“妖怪”有相关语句描述的词条，在可能的情况下，面对同一书籍，他们采取尽量遵循刊行质量和时间优先，挑选同类中最优。您若有不同时间版本，可以提供，以便于他们核对后进行修正。关于该网站的初衷、愿景、以及收录原则，如果您想了解更多，可以参见[关于知妖](https://www.cbaigui.com/about)。
 
-── 出自[倾城之链 - 知妖（中国妖怪百集）](https://nicelinks.site/post/60eefd6d81b2dc066ea4bd61)
+── 出自[倾城之链 - 知妖（中国妖怪百集）](https://site.lovejade.cn/post/60eefd6d81b2dc066ea4bd61)
 
-## [Cakebrew - The Mac App for Homebrew](https://nicelinks.site/post/60eed3b881b2dc066ea4bd5f)
+## [Cakebrew - The Mac App for Homebrew](https://site.lovejade.cn/post/60eed3b881b2dc066ea4bd5f)
 
-**标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`利器`](https://nicelinks.site/tags/利器)
+**标签**：[`Mac`](https://site.lovejade.cn/tags/Mac) · [`工具`](https://site.lovejade.cn/tags/工具) · [`利器`](https://site.lovejade.cn/tags/利器)
 
 > Cakebrew - The Mac App for Homebrew
 
 ![倾城之链 - Cakebrew - The Mac App for Homebrew](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.cakebrew.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cakebrew](https://www.cakebrew.com/)，[Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 的 Mac 应用程序，易于使用；它是完成 [Homebrew](https://nicelinks.site/post/5b5e90e7615bf842b609105d) 成日常任务的便捷方式，而且，还更新和发现 Doctor 的问题；与 Homebrew 在 Terminal 工作方式不同，Cakebrew 提供用户操作界面，可以搜索应用程序，查看已经安装、已过期应用；您可以通过 Cakebrew 来管理应用下载。
+**推荐语**：[Cakebrew](https://www.cakebrew.com/)，[Homebrew](https://site.lovejade.cn/post/5b5e90e7615bf842b609105d) 的 Mac 应用程序，易于使用；它是完成 [Homebrew](https://site.lovejade.cn/post/5b5e90e7615bf842b609105d) 成日常任务的便捷方式，而且，还更新和发现 Doctor 的问题；与 Homebrew 在 Terminal 工作方式不同，Cakebrew 提供用户操作界面，可以搜索应用程序，查看已经安装、已过期应用；您可以通过 Cakebrew 来管理应用下载。
 
-── 出自[倾城之链 - Cakebrew - The Mac App for Homebrew](https://nicelinks.site/post/60eed3b881b2dc066ea4bd5f)
+── 出自[倾城之链 - Cakebrew - The Mac App for Homebrew](https://site.lovejade.cn/post/60eed3b881b2dc066ea4bd5f)
 
-## [Create stylish professional resume in minutes for FREE](https://nicelinks.site/post/60ea9c0781b2dc066ea4bd5b)
+## [Create stylish professional resume in minutes for FREE](https://site.lovejade.cn/post/60ea9c0781b2dc066ea4bd5b)
 
-**标签**：[`简历`](https://nicelinks.site/tags/简历) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`简历`](https://site.lovejade.cn/tags/简历) · [`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > HipCV is a free online resume builder/maker, that allows you create and track stylish professional resume in minutes. Use it and apply for jobs today!
 
@@ -74,11 +74,11 @@
 
 另外需要说明的是，[HipCV](https://hipcv.com/) 可以免费 🆓 使用，但高级功能，需要付费，如简历 PDF 下载、在简历中添加照片等等。
 
-── 出自[倾城之链 - Create stylish professional resume in minutes for FREE](https://nicelinks.site/post/60ea9c0781b2dc066ea4bd5b)
+── 出自[倾城之链 - Create stylish professional resume in minutes for FREE](https://site.lovejade.cn/post/60ea9c0781b2dc066ea4bd5b)
 
-## [PDF to PNG – Convert PDF to PNG Online](https://nicelinks.site/post/60ea917d81b2dc066ea4bd59)
+## [PDF to PNG – Convert PDF to PNG Online](https://site.lovejade.cn/post/60ea917d81b2dc066ea4bd59)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`图片`](https://nicelinks.site/tags/图片) · [`PDF`](https://nicelinks.site/tags/PDF)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`图片`](https://site.lovejade.cn/tags/图片) · [`PDF`](https://site.lovejade.cn/tags/PDF)
 
 > This free online tool allows you to convert a PDF document to a set of optimized PNG images, providing better image quality and size than any other converters.
 
@@ -89,7 +89,7 @@
 - 单击“上传文件”按钮，并选择最多 20 个要转换的 PDF 文件；等待转换过程完成。
 - 逐个文件下载结果，或单击“全部下载”按钮，将结果一次性全部下载到 ZIP 存档中。
 
-── 出自[倾城之链 - PDF to PNG – Convert PDF to PNG Online](https://nicelinks.site/post/60ea917d81b2dc066ea4bd59)
+── 出自[倾城之链 - PDF to PNG – Convert PDF to PNG Online](https://site.lovejade.cn/post/60ea917d81b2dc066ea4bd59)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

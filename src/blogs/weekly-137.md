@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Zig Programming Language ⚡](https://nicelinks.site/post/6514f6175a51096c8697a46d)
+## [Zig Programming Language ⚡](https://site.lovejade.cn/post/6514f6175a51096c8697a46d)
 
-**标签**：[`编程语言`](https://nicelinks.site/tags/编程语言) · [`编程`](https://nicelinks.site/tags/编程) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`编程语言`](https://site.lovejade.cn/tags/编程语言) · [`编程`](https://site.lovejade.cn/tags/编程) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ![倾城之链 - Zig Programming Language ⚡](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/ziglang.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Zig](https://ziglang.org/) 是一门开源的 [编程语言](https://nicelinks.site/tags/编程语言) ，专为稳定性、可维护性和最优性而设计。具有以下值得关注的特性：手动管理内存；**与 C 语言竞争而非依赖它**，Zig 标准库不依赖于 libc；轻量而简单的语言，专注于调试应用而不是调试编程语言的知识.....更详细说明如下：
+**推荐语**：[Zig](https://ziglang.org/) 是一门开源的 [编程语言](https://site.lovejade.cn/tags/编程语言) ，专为稳定性、可维护性和最优性而设计。具有以下值得关注的特性：手动管理内存；**与 C 语言竞争而非依赖它**，Zig 标准库不依赖于 libc；轻量而简单的语言，专注于调试应用而不是调试编程语言的知识.....更详细说明如下：
 
 ### ⚡ 简单的语言
 
@@ -54,17 +54,17 @@ Zig 标准库也是如此。任何需要分配内存的函数都接受分配器�
 
 Zig 软件基金会是一家非营利性公司，由 Zig 的创建者 Andrew Kelley 于 2020 年创立，旨在支持该语言的开发。目前，ZSF 能够以具有竞争力的价格向少数核心贡献者提供有偿工作。他们希望将来能够将此优惠扩展到更多核心贡献者。值得一提的是 [Zig 在 Github 仓库开源](https://github.com/ziglang/zig) （截止 2023 年 09 月 28 日，已获得 26.1K+ Star），如果您对其感兴趣，可前往了解更多。
 
-── 出自[倾城之链 - Zig Programming Language ⚡](https://nicelinks.site/post/6514f6175a51096c8697a46d)
+── 出自[倾城之链 - Zig Programming Language ⚡](https://site.lovejade.cn/post/6514f6175a51096c8697a46d)
 
-## [Nue / Frontend troublesolver](https://nicelinks.site/post/651256705a51096c869792ef)
+## [Nue / Frontend troublesolver](https://site.lovejade.cn/post/651256705a51096c869792ef)
 
-**标签**：[`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`框架`](https://site.lovejade.cn/tags/框架) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte.
 
 ![倾城之链 - Nue / Frontend troublesolver](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nuejs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Nue JS](https://nuejs.org/) 是一个非常小的（压缩后 2.3kb） [JavaScript](https://nicelinks.site/tags/JavaScript) 库，用于构建 Web 界面。 [它是即将推出的 Nue 工具集](https://nuejs.org/tools/) 的核心。它就像 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [React.js](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 或 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) ，但没有钩子、效果、道具、门户、观察者、提供、注入、悬挂或其他不寻常的抽象。了解 HTML、CSS 和 JavaScript 的基础知识，就可以开始了。**为什么是 Nue.js** ？
+**推荐语**：[Nue JS](https://nuejs.org/) 是一个非常小的（压缩后 2.3kb） [JavaScript](https://site.lovejade.cn/tags/JavaScript) 库，用于构建 Web 界面。 [它是即将推出的 Nue 工具集](https://nuejs.org/tools/) 的核心。它就像 [Vue.js](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、 [React.js](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 或 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) ，但没有钩子、效果、道具、门户、观察者、提供、注入、悬挂或其他不寻常的抽象。了解 HTML、CSS 和 JavaScript 的基础知识，就可以开始了。**为什么是 Nue.js** ？
 
 [Nue](https://nuejs.org/) 是一个让前端开发变得更加愉快的工具集。这是对 Vue、React 和 Svelte 等生态系统以及 Vite、Next.js 和 Astro 等 Web 开发框架的彻底改革。
 
@@ -111,7 +111,7 @@ Nue 采用**关注点分离**，使您的代码更易于 Web 团队的所有成�
 
 ### 极简主义
 
-当前的框架、UI 小部件、单页应用程序、网站和构建工具比其应有的规模大 10-100 倍，也更复杂。**少即是多**，极简主义的好处远远超出了仅提供较小的 [JavaScript](https://nicelinks.site/tags/JavaScript) 文件：
+当前的框架、UI 小部件、单页应用程序、网站和构建工具比其应有的规模大 10-100 倍，也更复杂。**少即是多**，极简主义的好处远远超出了仅提供较小的 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 文件：
 
 1.  更易于维护：当您的代码减少 10 倍时，维护和开发项目所需的人员就会显着减少。
 2.  更容易使用：API 方法和配置变量很少。需要学习的内容更少，您需要的“样板”代码也更少，因此您可以更快地行动。
@@ -134,17 +134,17 @@ Nue 之所以很快，是因为一种被低估的技术，称为**渐进增强**
 
 Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人员提供了极其简单的工具。它带回了网络标准模型并用最新的创新创造了它。它试图让 Web 开发再次变得有趣。如果您对该框架感兴趣，可移步至 [Github 开源仓库](https://github.com/nuejs/nuejs) （截止 2023 年 09 月 26 日，收获 3K+ Star），从而了解更多。
 
-── 出自[倾城之链 - Nue / Frontend troublesolver](https://nicelinks.site/post/651256705a51096c869792ef)
+── 出自[倾城之链 - Nue / Frontend troublesolver](https://site.lovejade.cn/post/651256705a51096c869792ef)
 
-## [Histoire | ⚡ Fast and beautiful interactive component playgrounds](https://nicelinks.site/post/651244185a51096c8697918b)
+## [Histoire | ⚡ Fast and beautiful interactive component playgrounds](https://site.lovejade.cn/post/651244185a51096c8697918b)
 
-**标签**：[`Svelte`](https://nicelinks.site/tags/Svelte) · [`Vue`](https://nicelinks.site/tags/Vue) · [`Playground`](https://nicelinks.site/tags/Playground)
+**标签**：[`Svelte`](https://site.lovejade.cn/tags/Svelte) · [`Vue`](https://site.lovejade.cn/tags/Vue) · [`Playground`](https://site.lovejade.cn/tags/Playground)
 
 > Fast and beautiful interactive component playgrounds, powered by Vite.
 
 ![倾城之链 - Histoire | ⚡ Fast and beautiful interactive component playgrounds](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/histoire.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Histoire](https://histoire.dev/) ⚡ 快速、美观的交互式组件游乐场，由 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 提供支持；截止目前（2023 年 09 月 26 日）支持 [Vue2 / 3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 等框架；它具有如下功能特征：
+**推荐语**：[Histoire](https://histoire.dev/) ⚡ 快速、美观的交互式组件游乐场，由 [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e) 提供支持；截止目前（2023 年 09 月 26 日）支持 [Vue2 / 3](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 等框架；它具有如下功能特征：
 
 - **📖 故事**：编写故事来展示和记录您的组件。
 - **⚡ 快**：令人难以置信的快速开发构建和生产页面加载！
@@ -167,17 +167,17 @@ Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人�
 
 在 Histoire 中，故事包含一个或多个变体，它们是围绕同一主题或同一组件的不同用例。它可以为您提供：故事的交互式预览、可复制代码以在您自己的代码中重现相同的结果、与预览交互的控件、从 Markdown 呈现的文档等等； [Histoire 项目在 Github 仓库开源](https://github.com/histoire-dev/histoire) ，如果您对其感兴趣，可移步从而了解更多。
 
-── 出自[倾城之链 - Histoire | ⚡ Fast and beautiful interactive component playgrounds](https://nicelinks.site/post/651244185a51096c8697918b)
+── 出自[倾城之链 - Histoire | ⚡ Fast and beautiful interactive component playgrounds](https://site.lovejade.cn/post/651244185a51096c8697918b)
 
-## [pandas - Python Data Analysis Library](https://nicelinks.site/post/651135c35a51096c86978b41)
+## [pandas - Python Data Analysis Library](https://site.lovejade.cn/post/651135c35a51096c86978b41)
 
-**标签**：[`数据分析`](https://nicelinks.site/tags/数据分析) · [`Python`](https://nicelinks.site/tags/Python) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`数据分析`](https://site.lovejade.cn/tags/数据分析) · [`Python`](https://site.lovejade.cn/tags/Python) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
 
 ![倾城之链 - pandas - Python Data Analysis Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/pandas.pydata.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[pandas](https://pandas.pydata.org/) 适用于 [Python](https://nicelinks.site/tags/Python) 的灵活而强大的数据分析、操作库，提供类似于 R data.frame 对象的标记数据结构、统计函数等。它具有如下功能特征：
+**推荐语**：[pandas](https://pandas.pydata.org/) 适用于 [Python](https://site.lovejade.cn/tags/Python) 的灵活而强大的数据分析、操作库，提供类似于 R data.frame 对象的标记数据结构、统计函数等。它具有如下功能特征：
 
 - 快速高效的 **DataFrame** 对象，用于具有集成索引的数据操作；
 - 用于在内存数据结构和不同格式之间**读写数据的**工具：CSV 和文本文件、Microsoft Excel、SQL 数据库以及快速 HDF5 格式；
@@ -196,11 +196,11 @@ Nue 是改变现状的一次雄心勃勃的尝试。它为 JS 和 UX 开发人�
 
 总的来讲，[pandas](https://pandas.pydata.org/) 是一个 Python 软件包，它提供快速、灵活和富有表现力的数据结构，旨在使 "关系 "或 "标记 "数据的处理变得简单而直观。它的目标是成为用 Python 进行实际数据分析的基本高级构建模块。此外，它还有一个更广泛的目标，即成为任何语言中最强大、最灵活的开源数据分析/处理工具。它已经在实现这一目标的道路上迈出了坚实的一步。值得一提的是，[pandas 在 Github 仓库开源](https://github.com/pandas-dev/pandas)（截止 2023 年 09 月 25 日，共获得 39.8K+ Star），如果您对该项目感兴趣，不妨移步官网从而了解更多。
 
-── 出自[倾城之链 - pandas - Python Data Analysis Library](https://nicelinks.site/post/651135c35a51096c86978b41)
+── 出自[倾城之链 - pandas - Python Data Analysis Library](https://site.lovejade.cn/post/651135c35a51096c86978b41)
 
-## [Flourish | Data Visualization & Storytelling](https://nicelinks.site/post/65111698847b841389e21d8b)
+## [Flourish | Data Visualization & Storytelling](https://site.lovejade.cn/post/65111698847b841389e21d8b)
 
-**标签**：[`可视化`](https://nicelinks.site/tags/可视化) · [`转化`](https://nicelinks.site/tags/转化) · [`图表`](https://nicelinks.site/tags/图表)
+**标签**：[`可视化`](https://site.lovejade.cn/tags/可视化) · [`转化`](https://site.lovejade.cn/tags/转化) · [`图表`](https://site.lovejade.cn/tags/图表)
 
 > Beautiful, easy data visualization and storytelling
 
@@ -232,13 +232,13 @@ Flourish 非常简单，任何人都可以使用。从模板开始并添加数�
 
 Flourish 可用于扩展和管理任何类型的交互式内容。开发人员可以轻松地将定制的私人模板添加到您的帐户。将其视为交互式内容的 CMS。
 
-Flourish 的创建是为了让每个人都能用数据讲故事。该工具于 2018 年推出，每天被庞大的创作者社区用来向数千万观众提供信息。该团队结合了 [可视化](https://nicelinks.site/tags/可视化) 、技术、数据、新闻和设计领域数十年的经验。
+Flourish 的创建是为了让每个人都能用数据讲故事。该工具于 2018 年推出，每天被庞大的创作者社区用来向数千万观众提供信息。该团队结合了 [可视化](https://site.lovejade.cn/tags/可视化) 、技术、数据、新闻和设计领域数十年的经验。
 
-── 出自[倾城之链 - Flourish | Data Visualization & Storytelling](https://nicelinks.site/post/65111698847b841389e21d8b)
+── 出自[倾城之链 - Flourish | Data Visualization & Storytelling](https://site.lovejade.cn/post/65111698847b841389e21d8b)
 
-## [i365 科技](https://nicelinks.site/post/650ed895847b841389e215a1)
+## [i365 科技](https://site.lovejade.cn/post/650ed895847b841389e215a1)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`产品推荐`](https://nicelinks.site/tags/产品推荐) · [`推广`](https://nicelinks.site/tags/推广)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`产品推荐`](https://site.lovejade.cn/tags/产品推荐) · [`推广`](https://site.lovejade.cn/tags/推广)
 
 > i365 科技：Dawei Ma 个人作品集落地页。
 
@@ -248,7 +248,7 @@ Flourish 的创建是为了让每个人都能用数据讲故事。该工具于 2
 
 ### Chat2Invest
 
-[Chat2Invest](https://www.chat2invest.com/) 是一款基于 [ChatGPT](https://nicelinks.site/tags/ChatGPT) 的支持多语言的 AI 投资助手，它能够从基本面、技术面与消息面等多个维度为您提供投资建议。它支持 A 股与美股共计超过 13000 只股票与 ETF 的分析，未来还将支持通过多种投资策略筛选股票。
+[Chat2Invest](https://www.chat2invest.com/) 是一款基于 [ChatGPT](https://site.lovejade.cn/tags/ChatGPT) 的支持多语言的 AI 投资助手，它能够从基本面、技术面与消息面等多个维度为您提供投资建议。它支持 A 股与美股共计超过 13000 只股票与 ETF 的分析，未来还将支持通过多种投资策略筛选股票。
 
 ### 我的投资助手
 
@@ -260,11 +260,11 @@ Flourish 的创建是为了让每个人都能用数据讲故事。该工具于 2
 
 ### 文章智造
 
-[文章智造](https://www.mywriter.ink/) 是一款由 ChatGPT 驱动的 [AI](https://nicelinks.site/tags/AI) 聊天机器人，能够帮助您快速生成高质量文章。作为您的 AI 专业写手，它可以自动生成各种类型的文章，包括论文、演讲稿、读后感、情感分析、聊天回复等。不需要繁琐的操作和编写，只需要简单的聊天就可以轻松获得您需要的文章，让您的写作更加高效和便捷。
+[文章智造](https://www.mywriter.ink/) 是一款由 ChatGPT 驱动的 [AI](https://site.lovejade.cn/tags/AI) 聊天机器人，能够帮助您快速生成高质量文章。作为您的 AI 专业写手，它可以自动生成各种类型的文章，包括论文、演讲稿、读后感、情感分析、聊天回复等。不需要繁琐的操作和编写，只需要简单的聊天就可以轻松获得您需要的文章，让您的写作更加高效和便捷。
 
-作者一位从事软件开发技术近十年的专业人士，有丰富的经验和广泛的背景，有维护博客：[构建我的被动收入](https://nicelinks.site/post/6229e10d4e5ca071558f95b6)；曾在国企、私企、创业公司、外企工作，并曾有过一段个人创业经历。此外，在投资交易领域也有近十年的经验。如果你读过他撰写的 [技术](https://bmpi.dev/dev/) 与 [投资](https://bmpi.dev/money/) 类文章，或许你能够深入了解我的专业背景。作者也提供以下方面的咨询服务：**终身学习**、**全栈开发**、**投资交易**。
+作者一位从事软件开发技术近十年的专业人士，有丰富的经验和广泛的背景，有维护博客：[构建我的被动收入](https://site.lovejade.cn/post/6229e10d4e5ca071558f95b6)；曾在国企、私企、创业公司、外企工作，并曾有过一段个人创业经历。此外，在投资交易领域也有近十年的经验。如果你读过他撰写的 [技术](https://bmpi.dev/dev/) 与 [投资](https://bmpi.dev/money/) 类文章，或许你能够深入了解我的专业背景。作者也提供以下方面的咨询服务：**终身学习**、**全栈开发**、**投资交易**。
 
-── 出自[倾城之链 - i365 科技](https://nicelinks.site/post/650ed895847b841389e215a1)
+── 出自[倾城之链 - i365 科技](https://site.lovejade.cn/post/650ed895847b841389e215a1)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

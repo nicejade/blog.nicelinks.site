@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Fastify, Fast and low overhead web framework, for Node.js](https://nicelinks.site/post/6400b3eafe46ca437e0ac36e)
+## [Fastify, Fast and low overhead web framework, for Node.js](https://site.lovejade.cn/post/6400b3eafe46ca437e0ac36e)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`框架`](https://nicelinks.site/tags/框架) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`框架`](https://site.lovejade.cn/tags/框架) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Fast and low overhead web framework, for Node.js.
 
@@ -28,11 +28,11 @@
 
 这些框架都有其各自的特点和优势，开发者可以根据项目需求和个人喜好来选择合适的框架。
 
-── 出自[倾城之链 - Fastify, Fast and low overhead web framework, for Node.js](https://nicelinks.site/post/6400b3eafe46ca437e0ac36e)
+── 出自[倾城之链 - Fastify, Fast and low overhead web framework, for Node.js](https://site.lovejade.cn/post/6400b3eafe46ca437e0ac36e)
 
-## [Welcome to Method of Action](https://nicelinks.site/post/64008f7afe46ca437e0ac13b)
+## [Welcome to Method of Action](https://site.lovejade.cn/post/64008f7afe46ca437e0ac13b)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`设计`](https://nicelinks.site/tags/设计) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`设计`](https://site.lovejade.cn/tags/设计) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Method of Action is education made fun. Method of Action creates tools, toys and games to help you learn design, for free.
 
@@ -42,17 +42,17 @@
 
 Method Draw 是一个简单易用的网络矢量编辑器。在线 [使用 Method Draw](https://editor.method.ac/) ，无需注册。 [它是开源的，您可以在 GitHub](https://github.com/duopixel/Method-Draw) 上找到源代码。
 
-── 出自[倾城之链 - Welcome to Method of Action](https://nicelinks.site/post/64008f7afe46ca437e0ac13b)
+── 出自[倾城之链 - Welcome to Method of Action](https://site.lovejade.cn/post/64008f7afe46ca437e0ac13b)
 
-## [AssemblyScript | A TypeScript-like language for WebAssembly](https://nicelinks.site/post/63ff1810fe46ca437e0ab0cd)
+## [AssemblyScript | A TypeScript-like language for WebAssembly](https://site.lovejade.cn/post/63ff1810fe46ca437e0ab0cd)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`TypeScript`](https://nicelinks.site/tags/TypeScript) · [`npm`](https://nicelinks.site/tags/npm)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`TypeScript`](https://site.lovejade.cn/tags/TypeScript) · [`npm`](https://site.lovejade.cn/tags/npm)
 
 > A TypeScript-like language for WebAssembly. AssemblyScript compiles a variant of TypeScript (basically JavaScript with types) to WebAssembly using Binaryen. It generates lean and mean WebAssembly modules while being just an npm install away.
 
 ![倾城之链 - AssemblyScript | A TypeScript-like language for WebAssembly](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.assemblyscript.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[AssemblyScript](https://www.assemblyscript.org/) 用于 WebAssembly 的类似于 TypeScript 的语言（TypeScript-like language），使得无需学习新语言即可轻松编译为 WebAssembly。它使用 [Binaryen](https://github.com/WebAssembly/binaryen) 将 [TypeScript](https://nicelinks.site/post/6278fdeaac00ce3f9b11a8ef) 的变体（基本上是带有类型的 JavaScript）编译为 [WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae) 。它生成精简且平均的 WebAssembly 模块，同时只需安装一个 [npm](https://nicelinks.site/post/6216392f2d17f22050cf1a2b) 。
+**推荐语**：[AssemblyScript](https://www.assemblyscript.org/) 用于 WebAssembly 的类似于 TypeScript 的语言（TypeScript-like language），使得无需学习新语言即可轻松编译为 WebAssembly。它使用 [Binaryen](https://github.com/WebAssembly/binaryen) 将 [TypeScript](https://site.lovejade.cn/post/6278fdeaac00ce3f9b11a8ef) 的变体（基本上是带有类型的 JavaScript）编译为 [WebAssembly](https://site.lovejade.cn/post/618b8df4a18dec25673723ae) 。它生成精简且平均的 WebAssembly 模块，同时只需安装一个 [npm](https://site.lovejade.cn/post/6216392f2d17f22050cf1a2b) 。
 
 ### 功能特征
 
@@ -68,7 +68,7 @@ Method Draw 是一个简单易用的网络矢量编辑器。在线 [使用 Metho
 
 ### AssemblyScript 和 TypeScript 之间有什么区别？
 
-TypeScript 向下转换为 JavaScript，一种动态的即时编译语言。另一方面 ，AssemblyScript 编译成静态的 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 二进制文件。他们的编译器实现完全不同。然而，这两种语言在表面上非常相似，以至于它们共享许多概念。例如，TypeScript 工具可用于编写和重构 AssemblyScript 代码，并且通过一些努力，可以将相同的代码库转换为 JavaScript `tsc` 并编译为 WebAssembly `asc`，或者共享代码。AssemblyScript 编译器本身是可移植的。
+TypeScript 向下转换为 JavaScript，一种动态的即时编译语言。另一方面 ，AssemblyScript 编译成静态的 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 二进制文件。他们的编译器实现完全不同。然而，这两种语言在表面上非常相似，以至于它们共享许多概念。例如，TypeScript 工具可用于编写和重构 AssemblyScript 代码，并且通过一些努力，可以将相同的代码库转换为 JavaScript `tsc` 并编译为 WebAssembly `asc`，或者共享代码。AssemblyScript 编译器本身是可移植的。
 
 AssemblyScript 是 TypeScript 的子集，为了方便编译成 WebAssembly 在 TypeScript 的基础上加了更严格的 [类型限制](https://github.com/AssemblyScript/assemblyscript/wiki/Limitations) ， 两者间详细区别如下：
 
@@ -98,21 +98,21 @@ AssemblyScript 的实现原理其实也借助了 LLVM（是一个开源的编译
 
 截止目前（2023 年 03 月 01 日），使用 AssemblyScript 构建应用程序，已经在区块链、游戏、加密、数据序列化/反序列化、图形框架等方面积累了大量实践。如果您对其感兴趣，可以移步 [AssemblyScript Github 开源仓库](https://github.com/AssemblyScript/assemblyscript) ，从而了解更多。
 
-── 出自[倾城之链 - AssemblyScript | A TypeScript-like language for WebAssembly](https://nicelinks.site/post/63ff1810fe46ca437e0ab0cd)
+── 出自[倾城之链 - AssemblyScript | A TypeScript-like language for WebAssembly](https://site.lovejade.cn/post/63ff1810fe46ca437e0ab0cd)
 
-## [素问智聊斋](https://nicelinks.site/post/63fdeb37fe46ca437e0aa780)
+## [素问智聊斋](https://site.lovejade.cn/post/63fdeb37fe46ca437e0aa780)
 
-**标签**：[`在线`](https://nicelinks.site/tags/在线) · [`AI`](https://nicelinks.site/tags/AI) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT)
+**标签**：[`在线`](https://site.lovejade.cn/tags/在线) · [`AI`](https://site.lovejade.cn/tags/AI) · [`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT)
 
 > 素问智聊斋，非官方 ChatGPT 在线客户端，旨在提供更便捷的 ChatGPT 访问体验；它基于非官方 ChatGPT API、Svelte、TailwindCSS、Vite 和 NodeJS 所搭建，只要输入 OPENAI API KEY 就可以使用。
 
 ![倾城之链 - 素问智聊斋](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/chatgpt.nicelinks.site.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[素问智聊斋](https://chatgpt.nicelinks.site/) ，非官方 ChatGPT 在线客户端，旨在提供更便捷的 ChatGPT 访问体验；它基于非官方 [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 和 NodeJS 所搭建，只要输入 OPENAI API KEY 就可以使用。
+**推荐语**：[素问智聊斋](https://chatgpt.nicelinks.site/) ，非官方 ChatGPT 在线客户端，旨在提供更便捷的 ChatGPT 访问体验；它基于非官方 [ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api) 、 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 、 [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e) 和 NodeJS 所搭建，只要输入 OPENAI API KEY 就可以使用。
 
 ### 目标与哲学
 
-[OpenAI](https://nicelinks.site/post/6391e22878b7a1291995ff86) 于 2022 年 11 月推出的超级对话模型  **ChatGPT**， 受到来自世界各地的认可和赞誉，令人印象深刻。然而，由于一些原因，如果没有正确搭建相应的环境（🪜），ChatGPT 在中国地区就无法正常使用。鉴于此，搭建了这个服务，以便用户能够方便地使用 ChatGPT。需要指出的是，使用者首先需要在 OpenAI 官网上注册、登录、申请  `API KEY`，才可以使用本服务。此外，为了保障用户的数据安全，本服务的操作过程中不会存储任何使用者的数据，因此可以放心使用（备注：这段介绍有使用本服务加以润色）。
+[OpenAI](https://site.lovejade.cn/post/6391e22878b7a1291995ff86) 于 2022 年 11 月推出的超级对话模型  **ChatGPT**， 受到来自世界各地的认可和赞誉，令人印象深刻。然而，由于一些原因，如果没有正确搭建相应的环境（🪜），ChatGPT 在中国地区就无法正常使用。鉴于此，搭建了这个服务，以便用户能够方便地使用 ChatGPT。需要指出的是，使用者首先需要在 OpenAI 官网上注册、登录、申请  `API KEY`，才可以使用本服务。此外，为了保障用户的数据安全，本服务的操作过程中不会存储任何使用者的数据，因此可以放心使用（备注：这段介绍有使用本服务加以润色）。
 
 ### 适用场景
 
@@ -137,11 +137,11 @@ AssemblyScript 的实现原理其实也借助了 LLVM（是一个开源的编译
 
 ### 技术选型
 
-[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 、Fastify、TypeScript 等，具为当前所流行，并且喜爱的技术栈 / 工具；其中 Fastify、Svelte 尚未使用过值得一提；
+[Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 、 [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 、 [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e) 、Fastify、TypeScript 等，具为当前所流行，并且喜爱的技术栈 / 工具；其中 Fastify、Svelte 尚未使用过值得一提；
 
 #### 什么是 Svelte？
 
-[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 是 [另一个前端框架，类似于 React](https://blog.logrocket.com/should-you-switch-react-svelte/) 或 Vue。像这两个一样，你可以使用 Svelte 来制作单页应用程序。然而，Svelte 有一些特性使其与其他框架截然不同。
+[Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 是 [另一个前端框架，类似于 React](https://blog.logrocket.com/should-you-switch-react-svelte/) 或 Vue。像这两个一样，你可以使用 Svelte 来制作单页应用程序。然而，Svelte 有一些特性使其与其他框架截然不同。
 
 例如，与其他框架不同，Svelte 主要是一个编译框架；Svelte 库的大部分是运行时依赖项 `devDependency`，而不是运行时依赖项。这有助于使最终应用程序更小、更快，以便客户端下载。
 
@@ -161,7 +161,7 @@ Svelte 还通过不需要类或函数来声明组件来提供易用性。每个 
 
 ### 其他作品
 
-- [倾城之链](https://nicelinks.site/)
+- [倾城之链](https://site.lovejade.cn/)
 - [玉桃文飨轩](https://share.lovejade.cn/)
 - [悠然宜想亭](https://forum.lovejade.cn/)
 - [静轩之别苑](https://quickapp.lovejade.cn/)
@@ -169,11 +169,11 @@ Svelte 还通过不需要类或函数来声明组件来提供易用性。每个 
 
 以上介绍内容，部分使用 ChatGPT 加以**润色**。截止目前，它可以协助人类，已经很多，诸如学术论文、内容创作、翻译、数据分析、研究咨询、简历和求职信、广告文案、编写小说、个人陈述、SEO 优化等等，如果想让它更好帮助到您，可以移步 [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ，学习怎么让它在不同场景，更好听懂你的话。如果您有任何建议或意见，欢请移步 [素问智聊斋 ｜ 关于](https://chatgpt.nicelinks.site/#/about) 赐教分享。
 
-── 出自[倾城之链 - 素问智聊斋](https://nicelinks.site/post/63fdeb37fe46ca437e0aa780)
+── 出自[倾城之链 - 素问智聊斋](https://site.lovejade.cn/post/63fdeb37fe46ca437e0aa780)
 
-## [Lose the Very](https://nicelinks.site/post/63fca715fe46ca437e0a9c20)
+## [Lose the Very](https://site.lovejade.cn/post/63fca715fe46ca437e0a9c20)
 
-**标签**：[`有趣`](https://nicelinks.site/tags/有趣) · [`产品`](https://nicelinks.site/tags/产品) · [`灵感`](https://nicelinks.site/tags/灵感)
+**标签**：[`有趣`](https://site.lovejade.cn/tags/有趣) · [`产品`](https://site.lovejade.cn/tags/产品) · [`灵感`](https://site.lovejade.cn/tags/灵感)
 
 > "Very good english" is not very good english. Lose the very. Write concisely by substituting "very" + "adjective" with a more concise adjective that has the spirit of very contained within it.
 
@@ -185,13 +185,13 @@ Svelte 还通过不需要类或函数来声明组件来提供易用性。每个 
 
 Connor Callahan 认为 [Lose the Very](https://www.losethevery.com/) 是帮助从词汇表中删除“非常”（Very）的最佳方法；他主张用一个更简洁的形容词代替 "very" + "adjective"（形容词），并在其中包含 "非常 "的精神，从而使写作更简洁。如果您输入 “beautiful”，它会给出替代词：`bewitching`（[ bih-wich-ing ]），并且给出了该词在前往 [dictionary.com](https://www.dictionary.com/browse/bewitching) 的链接地址，那里提供了对单词的发音、释义、造句以及相关词汇等信息说明。
 
-Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看到添加的形容词（或提出任何建议），可以按 "更新数据库 "按钮，以改善大家的经验。值得一提的是，该项目在 [Product Hunt](https://nicelinks.site/post/5f40d0bf15435e0906a0a26f) 上获得当天排名第一的产品；有网友评价道：“It’s a very good website”，感兴趣的朋友不妨前往体验下。
+Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看到添加的形容词（或提出任何建议），可以按 "更新数据库 "按钮，以改善大家的经验。值得一提的是，该项目在 [Product Hunt](https://site.lovejade.cn/post/5f40d0bf15435e0906a0a26f) 上获得当天排名第一的产品；有网友评价道：“It’s a very good website”，感兴趣的朋友不妨前往体验下。
 
-── 出自[倾城之链 - Lose the Very](https://nicelinks.site/post/63fca715fe46ca437e0a9c20)
+── 出自[倾城之链 - Lose the Very](https://site.lovejade.cn/post/63fca715fe46ca437e0a9c20)
 
-## [懒人导航网 | 全网最实用简洁的懒人导航网](https://nicelinks.site/post/63fa0d9bfe46ca437e0a8a5e)
+## [懒人导航网 | 全网最实用简洁的懒人导航网](https://site.lovejade.cn/post/63fa0d9bfe46ca437e0a8a5e)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`发现`](https://nicelinks.site/tags/发现) · [`网站`](https://nicelinks.site/tags/网站)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`发现`](https://site.lovejade.cn/tags/发现) · [`网站`](https://site.lovejade.cn/tags/网站)
 
 **关键字**：懒人导航网, 懒人资源库, 懒人技术导航, 懒人教程网, 站长导航网, 懒人导航系统
 
@@ -203,11 +203,11 @@ Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看�
 
 [懒人导航网](https://lanrenao.com/) 将所收录网站，划分为：前端合集、前端导航、摸鱼时间、热榜、新闻、游戏、小说、直播、影视频道、软件下载、搜索查询、素材资源、实用工具、网站建设、探索发现、优质公众号等板块儿，每个板块儿下，又分标签 🏷️；如在**摸鱼时间**板块儿中，有热榜、新闻、游戏、小说、直播等标签，此外该导航还内置各种检索，您可以根据自己的诉求，快速找到自己冲浪 🏄‍♀️ 目标网址。
 
-── 出自[倾城之链 - 懒人导航网 | 全网最实用简洁的懒人导航网](https://nicelinks.site/post/63fa0d9bfe46ca437e0a8a5e)
+── 出自[倾城之链 - 懒人导航网 | 全网最实用简洁的懒人导航网](https://site.lovejade.cn/post/63fa0d9bfe46ca437e0a8a5e)
 
-## [Duolingo 多邻国 ｜ 学习外语，寓教于乐](https://nicelinks.site/post/63f9a1f3fe46ca437e0a83dc)
+## [Duolingo 多邻国 ｜ 学习外语，寓教于乐](https://site.lovejade.cn/post/63f9a1f3fe46ca437e0a83dc)
 
-**标签**：[`学习`](https://nicelinks.site/tags/学习) · [`平台`](https://nicelinks.site/tags/平台) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`学习`](https://site.lovejade.cn/tags/学习) · [`平台`](https://site.lovejade.cn/tags/平台) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 **关键字**：学习，英语，法语，德语，西班牙语，葡萄牙语，意大利语，免费，单元，课程，语言，学习，背单词
 
@@ -254,7 +254,7 @@ Connor Callahan 在数据库中只添加了大约 150 个词。如果你想看�
 
 其终极目标是运用现代科技，让人人都能享受到私人教练的指导。如何帮助大家坚持学习一直都是个难题。现在，多邻国有趣的游戏关卡设计，能让更多人在乐趣学习中坚持更久。
 
-── 出自[倾城之链 - Duolingo 多邻国 ｜ 学习外语，寓教于乐](https://nicelinks.site/post/63f9a1f3fe46ca437e0a83dc)
+── 出自[倾城之链 - Duolingo 多邻国 ｜ 学习外语，寓教于乐](https://site.lovejade.cn/post/63f9a1f3fe46ca437e0a83dc)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

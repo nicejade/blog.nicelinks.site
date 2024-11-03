@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://nicelinks.site/post/65b25a7f90c58e1dcf675274)
+## [Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://site.lovejade.cn/post/65b25a7f90c58e1dcf675274)
 
-**标签**：[`编程`](https://nicelinks.site/tags/编程) · [`笔记`](https://nicelinks.site/tags/笔记) · [`可视化`](https://nicelinks.site/tags/可视化)
+**标签**：[`编程`](https://site.lovejade.cn/tags/编程) · [`笔记`](https://site.lovejade.cn/tags/笔记) · [`可视化`](https://site.lovejade.cn/tags/可视化)
 
 > The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text, visualizations, interactive dashboards and other media.
 
 ![倾城之链 - Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/jupyter.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Jupyter Notebook](https://jupyter.org/) 是一个 [开源](https://nicelinks.site/tags/开源) 的 Web 应用程序，它允许你创建和分享包含实时代码、方程、可视化以及叙述性文本的文档；它提供了简单、精简、以 [文档](https://nicelinks.site/tags/文档) 为中心的体验。这个工具非常适合数据清洗和转换、数值模拟、统计建模、数据可视化、机器学习等领域的探索性数据分析和科学计算。
+**推荐语**：[Jupyter Notebook](https://jupyter.org/) 是一个 [开源](https://site.lovejade.cn/tags/开源) 的 Web 应用程序，它允许你创建和分享包含实时代码、方程、可视化以及叙述性文本的文档；它提供了简单、精简、以 [文档](https://site.lovejade.cn/tags/文档) 为中心的体验。这个工具非常适合数据清洗和转换、数值模拟、统计建模、数据可视化、机器学习等领域的探索性数据分析和科学计算。
 
 ### 价值作用
 
@@ -38,13 +38,13 @@
 
 简而言之，Jupyter Notebook 是以网页的形式打开，可以在网页页面中**直接编写代码**和**运行代码**，代码的**运行结果**也会直接在代码块下显示的程序。如在编程过程中需要编写说明文档，可在同一个页面中直接编写，便于作及时的说明和解释。近期在学习 LLM、RAG 系统构建时，才接触到它，感受到其强大及良好体验。
 
-[Jupyter Notebook](https://jupyter.org/) 的这些特性使其成为一个强大的工具，适用于从教育到工业研究的多种场景。通过结合代码、文本和 [可视化](https://nicelinks.site/tags/可视化) ，它提供了一种全新的方式，让人们可以更直观、更有效地进行计算和交流。如果您对该产品感兴趣，可移步至 [Jupyter Notebook 在 Github 开源仓库](https://github.com/jupyter/notebook) 从而了解更多。
+[Jupyter Notebook](https://jupyter.org/) 的这些特性使其成为一个强大的工具，适用于从教育到工业研究的多种场景。通过结合代码、文本和 [可视化](https://site.lovejade.cn/tags/可视化) ，它提供了一种全新的方式，让人们可以更直观、更有效地进行计算和交流。如果您对该产品感兴趣，可移步至 [Jupyter Notebook 在 Github 开源仓库](https://github.com/jupyter/notebook) 从而了解更多。
 
-── 出自[倾城之链 - Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://nicelinks.site/post/65b25a7f90c58e1dcf675274)
+── 出自[倾城之链 - Project Jupyter | 用于跨所有编程语言进行交互式计算的免费软件、开放标准和 Web 服务](https://site.lovejade.cn/post/65b25a7f90c58e1dcf675274)
 
-## [AI text prompt to SVG | SVG.io](https://nicelinks.site/post/65b224c890c58e1dcf6750fe)
+## [AI text prompt to SVG | SVG.io](https://site.lovejade.cn/post/65b224c890c58e1dcf6750fe)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`AI`](https://nicelinks.site/tags/AI) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`AI`](https://site.lovejade.cn/tags/AI) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 **关键字**：text-to-svg, text prompt to SVG, prompt to svg, AI SVG generator, text-to-vector, AI for SVG, SVG
 
@@ -52,15 +52,15 @@
 
 ![倾城之链 - AI text prompt to SVG | SVG.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/svg.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SVG.io](https://svg.io/) ，免费在线的 [AI](https://nicelinks.site/tags/AI) 工具，轻松将文本提示转换为令人惊叹的 [SVG](https://nicelinks.site/tags/SVG) 插图；输入文本提示，例如 “wolf”，然后看到它神奇地变成 SVG 图像，这一切发生在在 20 秒内。即将推出的功能： - 新模型 - 类别 - 所有类别的多个结果。
+**推荐语**：[SVG.io](https://svg.io/) ，免费在线的 [AI](https://site.lovejade.cn/tags/AI) 工具，轻松将文本提示转换为令人惊叹的 [SVG](https://site.lovejade.cn/tags/SVG) 插图；输入文本提示，例如 “wolf”，然后看到它神奇地变成 SVG 图像，这一切发生在在 20 秒内。即将推出的功能： - 新模型 - 类别 - 所有类别的多个结果。
 
 该团队致力于提供所有人都可以使用的人工智能驱动的工具。这意味着您可以使用他们的平台享受生成 SVG 图像的乐趣，而无需担心费用或隐藏费用；体验人工智能在图形设计中的力量，完全免费，且没有数量限制。 如果您对 [SVG.io](https://svg.io/) 感兴趣，可移步至其官网从而了解、探索更多。
 
-── 出自[倾城之链 - AI text prompt to SVG | SVG.io](https://nicelinks.site/post/65b224c890c58e1dcf6750fe)
+── 出自[倾城之链 - AI text prompt to SVG | SVG.io](https://site.lovejade.cn/post/65b224c890c58e1dcf6750fe)
 
-## [ICONCE - Generate SVG icons in seconds](https://nicelinks.site/post/65b2139b90c58e1dcf67500d)
+## [ICONCE - Generate SVG icons in seconds](https://site.lovejade.cn/post/65b2139b90c58e1dcf67500d)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`图标`](https://nicelinks.site/tags/图标) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`图标`](https://site.lovejade.cn/tags/图标) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器)
 
 **关键字**：SVG, icon, generator, editor, gif, Platform, SVG generator, SVG animation, SVG synthesizer, png, svg to png, icon editor, svg editor
 
@@ -68,19 +68,19 @@
 
 ![倾城之链 - ICONCE - Generate SVG icons in seconds](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/iconce.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[ICONCE](https://iconce.com/) ，一款在线 SVG [图标](https://nicelinks.site/tags/图标) 编辑生成工具，可以让用户在几秒钟内生成 [SVG](https://nicelinks.site/tags/SVG) 图标；对于内容，支持填充文本、内置图标、 [Emoji](https://nicelinks.site/tags/Emoji) 以及用户上传的图片；对于 Fill 风格、背景色、ICON、Border、尺寸等等可以修改。制作完成，能够很方便的导出至本地、或一键拷贝 SVG 或 PNG（须付费）。整个体验十分顺畅，如果您有生成 SVG 图标相关诉求，推荐试用 [ICONCE](https://iconce.com/) 。
+**推荐语**：[ICONCE](https://iconce.com/) ，一款在线 SVG [图标](https://site.lovejade.cn/tags/图标) 编辑生成工具，可以让用户在几秒钟内生成 [SVG](https://site.lovejade.cn/tags/SVG) 图标；对于内容，支持填充文本、内置图标、 [Emoji](https://site.lovejade.cn/tags/Emoji) 以及用户上传的图片；对于 Fill 风格、背景色、ICON、Border、尺寸等等可以修改。制作完成，能够很方便的导出至本地、或一键拷贝 SVG 或 PNG（须付费）。整个体验十分顺畅，如果您有生成 SVG 图标相关诉求，推荐试用 [ICONCE](https://iconce.com/) 。
 
-── 出自[倾城之链 - ICONCE - Generate SVG icons in seconds](https://nicelinks.site/post/65b2139b90c58e1dcf67500d)
+── 出自[倾城之链 - ICONCE - Generate SVG icons in seconds](https://site.lovejade.cn/post/65b2139b90c58e1dcf67500d)
 
-## [Biome, toolchain of the web](https://nicelinks.site/post/65b1da9c90c58e1dcf674cee)
+## [Biome, toolchain of the web](https://site.lovejade.cn/post/65b1da9c90c58e1dcf674cee)
 
-**标签**：[`编码`](https://nicelinks.site/tags/编码) · [`程序员`](https://nicelinks.site/tags/程序员) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`编码`](https://site.lovejade.cn/tags/编码) · [`程序员`](https://site.lovejade.cn/tags/程序员) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Format, lint, and more in a fraction of a second.
 
 ![倾城之链 - Biome, toolchain of the web](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/biomejs.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Biome](https://biomejs.dev/) 是一款用于 Web 项目的工具链，可在瞬间进行代码格式化、代码检查等操作。您可以像使用 [Prettier](https://nicelinks.site/post/5c16083e819ae45de1453caa) 一样，使用 Biome 快速格式化 [JavaScript](https://nicelinks.site/tags/JavaScript) 、TypeScript、JSX 和 JSON 代码，它与 Prettier 有 97% 的兼容性，可节省 CI 和开发人员的时间。**Biome**  从一开始就设计为 [在编辑器中交互式使用](https://biomejs.dev/zh-cn/guides/integrate-in-editor/) ，即使**在您喜欢的编辑器中编写格式错误的代码**，它可以在你编写代码时格式化并检查出不规范的代码。
+**推荐语**：[Biome](https://biomejs.dev/) 是一款用于 Web 项目的工具链，可在瞬间进行代码格式化、代码检查等操作。您可以像使用 [Prettier](https://site.lovejade.cn/post/5c16083e819ae45de1453caa) 一样，使用 Biome 快速格式化 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 、TypeScript、JSX 和 JSON 代码，它与 Prettier 有 97% 的兼容性，可节省 CI 和开发人员的时间。**Biome**  从一开始就设计为 [在编辑器中交互式使用](https://biomejs.dev/zh-cn/guides/integrate-in-editor/) ，即使**在您喜欢的编辑器中编写格式错误的代码**，它可以在你编写代码时格式化并检查出不规范的代码。
 
 Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，在格式化 2,104 个文件中的 171,127 行代码时，Biome 比 Prettier 快了约 35 倍。它是一个高效的代码检查工具，支持 JavaScript、TypeScript 和 JSX，并整合了来自 ESLint、TypeScript ESLint 等多个来源的 190 多个规则。Biome 提供详细的上下文诊断信息，帮助您改善代码质量，成为更好的程序员。
 
@@ -95,17 +95,17 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 总之，Biome 是一款强大的工具链，可以帮助您提高开发效率、改善代码质量，并提供简单、可扩展和优化的开发体验。官方网站提供了安装 Biome 和将其集成到编辑器中的说明。Biome 由开源社区驱动，您可以通过 Discord、GitHub、Twitter 和 Mastodon 与社区进行交流。如果您对该项目感兴趣，可移步至 [Biome 在 Github 开源仓库](https://github.com/biomejs/biome) 从而了解更多。
 
-── 出自[倾城之链 - Biome, toolchain of the web](https://nicelinks.site/post/65b1da9c90c58e1dcf674cee)
+── 出自[倾城之链 - Biome, toolchain of the web](https://site.lovejade.cn/post/65b1da9c90c58e1dcf674cee)
 
-## [MewXAI Upscaler - Extreme detail image enhancer](https://nicelinks.site/post/65b1128690c58e1dcf67495a)
+## [MewXAI Upscaler - Extreme detail image enhancer](https://site.lovejade.cn/post/65b1128690c58e1dcf67495a)
 
-**标签**：[`图像优化`](https://nicelinks.site/tags/图像优化) · [`AI`](https://nicelinks.site/tags/AI) · [`图片`](https://nicelinks.site/tags/图片)
+**标签**：[`图像优化`](https://site.lovejade.cn/tags/图像优化) · [`AI`](https://site.lovejade.cn/tags/AI) · [`图片`](https://site.lovejade.cn/tags/图片)
 
 > Upscaler & Enhance images to extreme detail with MewX AI Upscaler. Transform landscapes, portraits, animations, foods, and nature into stunning high-definition visuals also includes upsclaer midjourney images
 
 ![倾城之链 - MewXAI Upscaler - Extreme detail image enhancer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mewxai.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MewXAI Upscaler](https://www.mewxai.com/) 是一款提供极致细节的 [图像增强](https://nicelinks.site/tags/图像优化) 器。它是一个基于先进 [人工智能](https://nicelinks.site/tags/AI) 技术的在线工具，旨在将照片转化为令人惊叹的高清图像，并可以提升中等分辨率图像的细节。MewXAI Upscaler 提供了多项强大的功能：
+**推荐语**：[MewXAI Upscaler](https://www.mewxai.com/) 是一款提供极致细节的 [图像增强](https://site.lovejade.cn/tags/图像优化) 器。它是一个基于先进 [人工智能](https://site.lovejade.cn/tags/AI) 技术的在线工具，旨在将照片转化为令人惊叹的高清图像，并可以提升中等分辨率图像的细节。MewXAI Upscaler 提供了多项强大的功能：
 
 1.  **图像放大**：它可以将图像放大到更高的分辨率，同时保持图像的清晰度和细节。通过增加像素并利用先进的 AI 算法，MewXAI 能够提供更多的图像细节，让您的照片更加生动逼真。
 2.  **细节增强**：MewXAI 能够发现图像中隐藏的细节，并通过增强每个像素来呈现出清晰透彻的视觉效果。它通过先进的 AI 技术，使模糊的图像变得清晰，确保每个时刻都不会因模糊而失去。
@@ -115,11 +115,11 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 [MewXAI Upscaler](https://www.mewxai.com/) 提供了免费试用，让您可以开始体验其功能。无论您是想提升个人照片的质量，还是将艺术作品带上一个新的水平，MewXAI Upscaler 都能够为您提供具有创造力和专业水准的图像增强解决方案。
 
-── 出自[倾城之链 - MewXAI Upscaler - Extreme detail image enhancer](https://nicelinks.site/post/65b1128690c58e1dcf67495a)
+── 出自[倾城之链 - MewXAI Upscaler - Extreme detail image enhancer](https://site.lovejade.cn/post/65b1128690c58e1dcf67495a)
 
-## [MD Video | 将 Markdown 文档快速转为视频的编辑器](https://nicelinks.site/post/65b10d6e90c58e1dcf6748dd)
+## [MD Video | 将 Markdown 文档快速转为视频的编辑器](https://site.lovejade.cn/post/65b10d6e90c58e1dcf6748dd)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`Markdown`](https://nicelinks.site/tags/Markdown) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`Markdown`](https://site.lovejade.cn/tags/Markdown) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 **关键字**：MD Video, MD+ Video, mdvideo, MDvideo, Markdown To Video, 文档转视频, 视频处理工具 , Markdown 转视频
 
@@ -127,7 +127,7 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 ![倾城之链 - MD Video | 将 Markdown文档快速转为视频的编辑器](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.wvovw.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MD Video](https://www.wvovw.com/) ，是一个桌面软件，自动将 [Markdown](https://nicelinks.site/tags/Markdown) 文档转成一段视频的短视频编辑器，支持在编写文档时实时预览视频. 会自动提取文档里面的视频、音频、图片网址、标题、代码块、图表、列表等元素，抓取后插入生成视频，可以根据文字生成人工语音的旁白朗读... 具体而言， [MD Video](https://www.wvovw.com/) 具有如下功能特征：
+**推荐语**：[MD Video](https://www.wvovw.com/) ，是一个桌面软件，自动将 [Markdown](https://site.lovejade.cn/tags/Markdown) 文档转成一段视频的短视频编辑器，支持在编写文档时实时预览视频. 会自动提取文档里面的视频、音频、图片网址、标题、代码块、图表、列表等元素，抓取后插入生成视频，可以根据文字生成人工语音的旁白朗读... 具体而言， [MD Video](https://www.wvovw.com/) 具有如下功能特征：
 
 - 💦 文档转为视频：解析 Markdown 文档中的图片、标题、文本等元素一键转为视频，实时渲染更新视频，并生成相应的 AI 语音、字幕等。
 - 🧑AI 语音/字幕旁白：支持 AI 语音自动生成字幕旁边，效果更接近人声；
@@ -138,17 +138,17 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 总之， [MD Video](https://www.wvovw.com/) 是一款将 Markdown 文档快速转为视频的编辑器工具，如果您对其感兴趣，可移步官网或者 [MD Video 在 Github 开源仓库](https://github.com/lqomg/wvovw) ，从而了解更多。
 
-── 出自[倾城之链 - MD Video | 将 Markdown 文档快速转为视频的编辑器](https://nicelinks.site/post/65b10d6e90c58e1dcf6748dd)
+── 出自[倾城之链 - MD Video | 将 Markdown 文档快速转为视频的编辑器](https://site.lovejade.cn/post/65b10d6e90c58e1dcf6748dd)
 
-## [FreeTube - The Private YouTube Client](https://nicelinks.site/post/65b1042290c58e1dcf67486d)
+## [FreeTube - The Private YouTube Client](https://site.lovejade.cn/post/65b1042290c58e1dcf67486d)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`开源`](https://nicelinks.site/tags/开源) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`开源`](https://site.lovejade.cn/tags/开源) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > FreeTube is a feature-rich and user-friendly YouTube client with a focus on privacy.
 
 ![倾城之链 - FreeTube - The Private YouTube Client](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/freetubeapp.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[FreeTube](https://freetubeapp.io/) 是一款基于 [Electron](https://nicelinks.site/post/5b17d4a597006c5273505e1b) 构建、面向 Windows、Mac 和 Linux 的 YouTube 客户端，旨在提供更私密的 YouTube 使用体验。您可以享受您喜爱的内容和创作者，而无需担心您的习惯被跟踪。所有用户数据都存储在本地，不会被发送或发布到互联网上。与 YouTube 类似，FreeTube 具有许多相似的功能，已成为在桌面上私密观看 YouTube 的最佳方法之一。FreeTube 当前功能包括：
+**推荐语**：[FreeTube](https://freetubeapp.io/) 是一款基于 [Electron](https://site.lovejade.cn/post/5b17d4a597006c5273505e1b) 构建、面向 Windows、Mac 和 Linux 的 YouTube 客户端，旨在提供更私密的 YouTube 使用体验。您可以享受您喜爱的内容和创作者，而无需担心您的习惯被跟踪。所有用户数据都存储在本地，不会被发送或发布到互联网上。与 YouTube 类似，FreeTube 具有许多相似的功能，已成为在桌面上私密观看 YouTube 的最佳方法之一。FreeTube 当前功能包括：
 
 1.  订阅：无需账户即可订阅频道。
 2.  本地数据：所有订阅和历史记录都存储在本地。
@@ -162,19 +162,19 @@ Biome 的性能非常出色，对于使用 Intel Core i7 1270P 的计算机，�
 
 FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地方法或可选择使用 Invidious API）来获取数据。FreeTube 不使用任何官方 API 来获取数据。虽然 YouTube 仍然可以看到您的视频请求，但它无法再使用 cookie 或 JavaScript 跟踪您。您的订阅和历史记录都存储在您的计算机本地，并且永远不会发送出去。强烈建议在使用 FreeTube 时使用 VPN 或 Tor 来隐藏您的 IP。
 
-总之， [FreeTube](https://freetubeapp.io/) 是一款保护隐私的 [开源](https://nicelinks.site/tags/开源) YouTube 客户端应用，您可以享受自己喜欢的内容和 [创作者](https://nicelinks.site/tags/创作者) ，而无需跟踪您的习惯。您的所有用户数据都存储在本地，永远不会发送或发布到互联网。如果您对其感兴趣，可移步 [Github 开源仓库](https://github.com/FreeTubeApp/FreeTube) 从而了解更多。
+总之， [FreeTube](https://freetubeapp.io/) 是一款保护隐私的 [开源](https://site.lovejade.cn/tags/开源) YouTube 客户端应用，您可以享受自己喜欢的内容和 [创作者](https://site.lovejade.cn/tags/创作者) ，而无需跟踪您的习惯。您的所有用户数据都存储在本地，永远不会发送或发布到互联网。如果您对其感兴趣，可移步 [Github 开源仓库](https://github.com/FreeTubeApp/FreeTube) 从而了解更多。
 
-── 出自[倾城之链 - FreeTube - The Private YouTube Client](https://nicelinks.site/post/65b1042290c58e1dcf67486d)
+── 出自[倾城之链 - FreeTube - The Private YouTube Client](https://site.lovejade.cn/post/65b1042290c58e1dcf67486d)
 
-## [SentenceTransformers Documentation](https://nicelinks.site/post/65b0d9e890c58e1dcf674714)
+## [SentenceTransformers Documentation](https://site.lovejade.cn/post/65b0d9e890c58e1dcf674714)
 
-**标签**：[`Python`](https://nicelinks.site/tags/Python) · [`开源`](https://nicelinks.site/tags/开源) · [`Embedding`](https://nicelinks.site/tags/Embedding)
+**标签**：[`Python`](https://site.lovejade.cn/tags/Python) · [`开源`](https://site.lovejade.cn/tags/开源) · [`Embedding`](https://site.lovejade.cn/tags/Embedding)
 
 > SentenceTransformers Documentation. SentenceTransformers is a Python framework for state-of-the-art sentence, text and image embeddings.
 
 ![倾城之链 - SentenceTransformers Documentation](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.sbert.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SentenceTransformers](https://www.sbert.net/) 是一个用于最先进的句子、文本和图像嵌入的 [Python](https://nicelinks.site/tags/Python) 框架；**该框架提供了一种简单的方法来计算句子**、**段落**和**图像**的密集向量表示。这些模型基于 BERT / RoBERTa / XLM-RoBERTa 等变压器网络，并在各种任务中实现了最先进的性能。文本嵌入到向量空间中，使得相似的文本更接近，并且可以使用余弦相似度（cosine-similarity）有效地找到。
+**推荐语**：[SentenceTransformers](https://www.sbert.net/) 是一个用于最先进的句子、文本和图像嵌入的 [Python](https://site.lovejade.cn/tags/Python) 框架；**该框架提供了一种简单的方法来计算句子**、**段落**和**图像**的密集向量表示。这些模型基于 BERT / RoBERTa / XLM-RoBERTa 等变压器网络，并在各种任务中实现了最先进的性能。文本嵌入到向量空间中，使得相似的文本更接近，并且可以使用余弦相似度（cosine-similarity）有效地找到。
 
 您可以使用此框架来计算 100 多种语言的句子/文本嵌入（embeddings）。然后可以将这些嵌入与余弦相似度进行比较，以找到具有相似含义的句子。 [这对于语义文本相似](https://www.sbert.net/docs/usage/semantic_textual_similarity.html) 、 [语义搜索](https://www.sbert.net/examples/applications/semantic-search/README.html) 或 [释义挖掘](https://www.sbert.net/examples/applications/paraphrase-mining/README.html) 非常有用。
 
@@ -182,17 +182,17 @@ FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地�
 
 该模型经过广泛评估，并在各种任务上实现了最先进的性能。此外，代码经过调整以提供尽可能高的速度。查看 [预训练模型，](https://www.sbert.net/docs/pretrained_models.html#sentence-embedding-models/) 了解可用模型以及不同任务的各自性能的概述。该项目 [在 Github 仓库开源](https://github.com/UKPLab/sentence-transformers) ，如果您对其感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - SentenceTransformers Documentation](https://nicelinks.site/post/65b0d9e890c58e1dcf674714)
+── 出自[倾城之链 - SentenceTransformers Documentation](https://site.lovejade.cn/post/65b0d9e890c58e1dcf674714)
 
-## [Brainner AI-Powered HR Copilot | Brainner](https://nicelinks.site/post/65b0a95d2c315d2784ce925e)
+## [Brainner AI-Powered HR Copilot | Brainner](https://site.lovejade.cn/post/65b0a95d2c315d2784ce925e)
 
-**标签**：[`招聘`](https://nicelinks.site/tags/招聘) · [`AI`](https://nicelinks.site/tags/AI) · [`简历`](https://nicelinks.site/tags/简历)
+**标签**：[`招聘`](https://site.lovejade.cn/tags/招聘) · [`AI`](https://site.lovejade.cn/tags/AI) · [`简历`](https://site.lovejade.cn/tags/简历)
 
 > Discover Brainner's advanced AI-driven resume screener. Automate resume comparisons, intuitively search candidates with natural language, and seamlessly integrate with top HR software. Elevate your recruitment process today
 
 ![倾城之链 - Brainner AI-Powered HR Copilot | Brainner](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.brainner.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Brainner AI](https://www.brainner.ai/) 一款利用 [人工智能](https://nicelinks.site/tags/AI) 自动筛选简历的产品，具有节省时间、加快招聘速度并提高准确性等优势：该人工智能驱动的简历筛选工具会根据您的个性化标准对候选人进行分类，从而在招聘过程中每月为招聘人员和初创公司创始人节省多达 40 小时的手动工作时间。Brainner 使用也非常简单，只需要如下三个步骤即可：
+**推荐语**：[Brainner AI](https://www.brainner.ai/) 一款利用 [人工智能](https://site.lovejade.cn/tags/AI) 自动筛选简历的产品，具有节省时间、加快招聘速度并提高准确性等优势：该人工智能驱动的简历筛选工具会根据您的个性化标准对候选人进行分类，从而在招聘过程中每月为招聘人员和初创公司创始人节省多达 40 小时的手动工作时间。Brainner 使用也非常简单，只需要如下三个步骤即可：
 
 ### 上传您的职位描述
 
@@ -215,17 +215,17 @@ FreeTube 是如何工作的？FreeTube 通过抓取所需信息（使用本地�
 
 截止目前，很多创业团队，苦于无法快速招聘到需要的人才，并为此浪费了诸多时间；这款利用人工智能自动筛选简历工具，或许值得尝试。它支持按使用量付费，随着成长而扩展。最多 25 名候选人可以免费试用，无需信用卡。如果您对其感兴趣，不妨移步至 Brainner 官网从而了解更多。
 
-── 出自[倾城之链 - Brainner AI-Powered HR Copilot | Brainner](https://nicelinks.site/post/65b0a95d2c315d2784ce925e)
+── 出自[倾城之链 - Brainner AI-Powered HR Copilot | Brainner](https://site.lovejade.cn/post/65b0a95d2c315d2784ce925e)
 
-## [WorkOS — Your app, Enterprise Ready.](https://nicelinks.site/post/65afe7222c315d2784ce8e37)
+## [WorkOS — Your app, Enterprise Ready.](https://site.lovejade.cn/post/65afe7222c315d2784ce8e37)
 
-**标签**：[`产品`](https://nicelinks.site/tags/产品) · [`API`](https://nicelinks.site/tags/API) · [`开发者`](https://nicelinks.site/tags/开发者)
+**标签**：[`产品`](https://site.lovejade.cn/tags/产品) · [`API`](https://site.lovejade.cn/tags/API) · [`开发者`](https://site.lovejade.cn/tags/开发者)
 
 > Developer APIs / SDKs for enterprise-ready features like Single Sign-On (SSO/SAML), Passwordless Authentication, Directory Sync (SCIM), Audit Trail (SIEM), and more. Get started for free.
 
 ![倾城之链 - WorkOS — Your app, Enterprise Ready.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/workos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[WorkOS](https://workos.com/) 是一个为应用程序开发人员提供一系列企业级解决方案的平台。通过将 WorkOS 集成到您的 [应用](https://nicelinks.site/tags/应用) 程序中，您可以快速添加用户管理、企业单点登录 (SSO) 集成、IT 管理员管理门户、目录同步、可自定义身份验证 UI、高级事件日志记录等功能。以下是 WorkOS 网站上提供的一些主要产品：
+**推荐语**：[WorkOS](https://workos.com/) 是一个为应用程序开发人员提供一系列企业级解决方案的平台。通过将 WorkOS 集成到您的 [应用](https://site.lovejade.cn/tags/应用) 程序中，您可以快速添加用户管理、企业单点登录 (SSO) 集成、IT 管理员管理门户、目录同步、可自定义身份验证 UI、高级事件日志记录等功能。以下是 WorkOS 网站上提供的一些主要产品：
 
 - 用户管理：完整的身份验证和用户管理平台。
 - 企业 SSO：适用于任何身份提供商的统一 SSO 集成。
@@ -246,7 +246,7 @@ WorkOS 是一组构建块，用于将企业功能快速添加到您的应用程�
 
 WorkOS 由 Michael Grinich 于 2019 年创立，他认识到满足企业的复杂需求对于为软件公司创造可持续的长期增长至关重要。 ‍ 带着这种认识，WorkOS 诞生了。WorkOS 致力于帮助每家软件公司做好企业准备。如果您对其感兴趣，不妨移步其官方网站从而了解更多。
 
-── 出自[倾城之链 - WorkOS — Your app, Enterprise Ready.](https://nicelinks.site/post/65afe7222c315d2784ce8e37)
+── 出自[倾城之链 - WorkOS — Your app, Enterprise Ready.](https://site.lovejade.cn/post/65afe7222c315d2784ce8e37)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Microsoft Designer - Stunning designs in a flash](https://nicelinks.site/post/63480c16b1155e08ebc00736)
+## [Microsoft Designer - Stunning designs in a flash](https://site.lovejade.cn/post/63480c16b1155e08ebc00736)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`图片`](https://nicelinks.site/tags/图片) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`图片`](https://site.lovejade.cn/tags/图片) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > A graphic design app that helps you create professional quality social media posts, invitations, digital postcards, graphics, and more. Start with your idea and create something unique for you.
 
@@ -28,11 +28,11 @@
 
 Microsoft Designer 目前尚未发布，您可以加入候补名单以提前使用它；站在内容创作者视角，来看它的官网描述及视频介绍，这款应用挺值得尝试，尤其是使用动态图形（当然，目前类似产品较多，效果一般）；期待微软的「**设计**」。
 
-── 出自[倾城之链 - Microsoft Designer - Stunning designs in a flash](https://nicelinks.site/post/63480c16b1155e08ebc00736)
+── 出自[倾城之链 - Microsoft Designer - Stunning designs in a flash](https://site.lovejade.cn/post/63480c16b1155e08ebc00736)
 
-## [Git | 分布式版本控制软件](https://nicelinks.site/post/6347f81ab1155e08ebc005c7)
+## [Git | 分布式版本控制软件](https://site.lovejade.cn/post/6347f81ab1155e08ebc005c7)
 
-**标签**：[`Git`](https://nicelinks.site/tags/Git) · [`开源`](https://nicelinks.site/tags/开源) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`Git`](https://site.lovejade.cn/tags/Git) · [`开源`](https://site.lovejade.cn/tags/开源) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
@@ -50,19 +50,19 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 **主要功能**：Git 是用于 Linux 核心开发的版本控制工具。与 CVS、Subversion 一类的集中式版本控制工具不同，它采用了**分散式版本库**的作法，不需要伺服器端软体，就可以运作版本控制，使得原始码的释出和交流极其方便。git 的速度很快，这对于诸如 Linux 核心这样的大专案来说自然很重要。git 最为出色的是它的合并追踪（merge tracing）能力。
 
-`Git`，当今开发者必备工具；它的入门非常简单，但想熟练掌握，又需狠下功夫；如果您有这个需要，[Learn Git Branching](https://learngitbranching.js.org/) 是一个很棒的学习网站。值得一提的是，Git 还衍生出非常多产品，诸如： [GitHub](https://nicelinks.site/post/59ba80d93df6765c75b77911)、[Gitee](https://nicelinks.site/post/5f86ec6ecda9de27bd93a925)、[gitmoji](https://nicelinks.site/post/61a781e7465c2155e2d1588e) 等等。
+`Git`，当今开发者必备工具；它的入门非常简单，但想熟练掌握，又需狠下功夫；如果您有这个需要，[Learn Git Branching](https://learngitbranching.js.org/) 是一个很棒的学习网站。值得一提的是，Git 还衍生出非常多产品，诸如： [GitHub](https://site.lovejade.cn/post/59ba80d93df6765c75b77911)、[Gitee](https://site.lovejade.cn/post/5f86ec6ecda9de27bd93a925)、[gitmoji](https://site.lovejade.cn/post/61a781e7465c2155e2d1588e) 等等。
 
-── 出自[倾城之链 - Git | 分布式版本控制软件](https://nicelinks.site/post/6347f81ab1155e08ebc005c7)
+── 出自[倾城之链 - Git | 分布式版本控制软件](https://site.lovejade.cn/post/6347f81ab1155e08ebc005c7)
 
-## [六个周 | enjoy day](https://nicelinks.site/post/6347c0bbb1155e08ebc00244)
+## [六个周 | enjoy day](https://site.lovejade.cn/post/6347c0bbb1155e08ebc00244)
 
-**标签**：[`个人博客`](https://nicelinks.site/tags/个人博客) · [`程序员`](https://nicelinks.site/tags/程序员) · [`感记`](https://nicelinks.site/tags/感记)
+**标签**：[`个人博客`](https://site.lovejade.cn/tags/个人博客) · [`程序员`](https://site.lovejade.cn/tags/程序员) · [`感记`](https://site.lovejade.cn/tags/感记)
 
 > 六个周的博客
 
 ![倾城之链 - 六个周 | enjoy day](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/blog.liugezhou.online.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[六个周](https://blog.liugezhou.online/)，基于 [Hexo](https://nicelinks.site/post/5c4c56d5a5957e07a40b3116) 搭建的个人博客（2018 年 07 月 11）；用以承载作者技术总结、所读之书、看过的电影等等。作者在个人主页介绍到：
+**推荐语**：[六个周](https://blog.liugezhou.online/)，基于 [Hexo](https://site.lovejade.cn/post/5c4c56d5a5957e07a40b3116) 搭建的个人博客（2018 年 07 月 11）；用以承载作者技术总结、所读之书、看过的电影等等。作者在个人主页介绍到：
 
 - 第一爱好：**有酒必到**（Wow😯，撰写推荐语者感叹）；
 - 日常喜好：写代码、背单词、看电影  、喝鸡汤  、写周报  、突发奇想‘
@@ -70,17 +70,17 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 作者（六个周）撰写博文，包含小程序开发、服务端开发、Web 前端开发等领域，对其感兴趣的朋友，可以前往[六个周关于页](https://blog.liugezhou.online/about/)以了解更多。
 
-── 出自[倾城之链 - 六个周 | enjoy day](https://nicelinks.site/post/6347c0bbb1155e08ebc00244)
+── 出自[倾城之链 - 六个周 | enjoy day](https://site.lovejade.cn/post/6347c0bbb1155e08ebc00244)
 
-## [w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://nicelinks.site/post/6346dbddb1155e08ebbffb2f)
+## [w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://site.lovejade.cn/post/6346dbddb1155e08ebbffb2f)
 
-**标签**：[`独立开发者`](https://nicelinks.site/tags/独立开发者) · [`社区`](https://nicelinks.site/tags/社区) · [`分享`](https://nicelinks.site/tags/分享)
+**标签**：[`独立开发者`](https://site.lovejade.cn/tags/独立开发者) · [`社区`](https://site.lovejade.cn/tags/社区) · [`分享`](https://site.lovejade.cn/tags/分享)
 
 > 「w2solo.com」独立开发者社区，始于 2018.10，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
 
 ![倾城之链 - w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/w2solo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[w2solo - 独立开发者社区](https://w2solo.com/)， 基于 [Homeland](https://w2solo.com/) 搭建（2018 年 10 月），由众多[独立开发者](https://nicelinks.site/tags/https://w2solo.com/topics/1)参与维护，致力于搭建和维护好国内独立开发者圈子和氛围（社群官网域名：`w2solo.com` 意思是：way to solo，独立开发之路）。`w2solo` 欢迎讨论技术、想法创意、产品和成功故事以及失败经验，并倡导遵守以下要求：
+**推荐语**：[w2solo - 独立开发者社区](https://w2solo.com/)， 基于 [Homeland](https://w2solo.com/) 搭建（2018 年 10 月），由众多[独立开发者](https://site.lovejade.cn/tags/https://w2solo.com/topics/1)参与维护，致力于搭建和维护好国内独立开发者圈子和氛围（社群官网域名：`w2solo.com` 意思是：way to solo，独立开发之路）。`w2solo` 欢迎讨论技术、想法创意、产品和成功故事以及失败经验，并倡导遵守以下要求：
 
 1.  分享点子，集思广益；
 2.  发布和推广自己的产品；
@@ -91,11 +91,11 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 如果您是独立开发者，或自由开发者（Freelancer），可以前往 w2solo 社区：提出您的创意、推广您的产品，或分享心得感悟。需要说明的是，w2solo 社区为防止滥发帖子，注册前三天不允许发帖，望知悉。
 
-── 出自[倾城之链 - w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://nicelinks.site/post/6346dbddb1155e08ebbffb2f)
+── 出自[倾城之链 - w2solo - 独立开发者社区 IndieHackers - 连接每一个独立开发者](https://site.lovejade.cn/post/6346dbddb1155e08ebbffb2f)
 
-## [fish shell](https://nicelinks.site/post/63456d1abbfa9424bf721d6b)
+## [fish shell](https://site.lovejade.cn/post/63456d1abbfa9424bf721d6b)
 
-**标签**：[`命令行`](https://nicelinks.site/tags/命令行) · [`终端`](https://nicelinks.site/tags/终端) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`命令行`](https://site.lovejade.cn/tags/命令行) · [`终端`](https://site.lovejade.cn/tags/终端) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 > A smart and user-friendly command line shell
 
@@ -128,13 +128,13 @@ Git 命名：git "这个名字是 Linus Torvalds 在写第一个版本时起的�
 
 开箱即用缩略图 fish 会让你高兴的功能，如制表符补全和语法高亮，这些功能都可以正常工作，无需学习或配置任何新内容。
 
-Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非常的简单；即便后续涌现了非常多 Shell 工具，诸如：`bash`、`zsh`、[Fig](https://nicelinks.site/post/61f2984c68ba114abbae6037) 等，但 Fish 在很多极客程序员心中，绝对占有一席之地；如果您需要经常操控 Terminal（终端），Fish 想必会得到您的青睐。
+Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非常的简单；即便后续涌现了非常多 Shell 工具，诸如：`bash`、`zsh`、[Fig](https://site.lovejade.cn/post/61f2984c68ba114abbae6037) 等，但 Fish 在很多极客程序员心中，绝对占有一席之地；如果您需要经常操控 Terminal（终端），Fish 想必会得到您的青睐。
 
-── 出自[倾城之链 - fish shell](https://nicelinks.site/post/63456d1abbfa9424bf721d6b)
+── 出自[倾城之链 - fish shell](https://site.lovejade.cn/post/63456d1abbfa9424bf721d6b)
 
-## [万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)
+## [万维广告](https://site.lovejade.cn/post/6342b843258efd6ffbd406ef)
 
-**标签**：[`广告`](https://nicelinks.site/tags/广告) · [`统计`](https://nicelinks.site/tags/统计) · [`社交`](https://nicelinks.site/tags/社交)
+**标签**：[`广告`](https://site.lovejade.cn/tags/广告) · [`统计`](https://site.lovejade.cn/tags/统计) · [`社交`](https://site.lovejade.cn/tags/社交)
 
 **关键字**：万维广告, 广告联盟, 万维广告联盟, 买广告, 出售广告, 社交广告, 广告主, 流量主, DSP, SSP, B2B 广告
 
@@ -201,7 +201,7 @@ Fish，最后，一个 90 年代的命令行 shell；它的安装与使用都非
 
 Google AdSense 是很多流量网站的收入来源之一；但，互联网用户机器上，有较大概率会被 Adblock Plus 类似的广告拦截器所阻挡；另外，Google AdSense 的广告是基于机器自主插入，或有可能与网站调性不太相符相符（内容、界面）；万维广告对这些问题，都做了本土化改进，如果您是流量主，值得考虑入驻；以获取更多收益；（需要说明的是：万维广告是邀请制广告网络，您需要填写邀请码方可注册，如您没有邀请码  [可点此免费申请](https://wwads.cn/request)）。
 
-── 出自[倾城之链 - 万维广告](https://nicelinks.site/post/6342b843258efd6ffbd406ef)
+── 出自[倾城之链 - 万维广告](https://site.lovejade.cn/post/6342b843258efd6ffbd406ef)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

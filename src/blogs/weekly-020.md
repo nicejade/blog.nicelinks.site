@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [The Agile OS for OKRs | Mooncamp](https://nicelinks.site/post/60ddb079d234bd05e2ef0fa2)
+## [The Agile OS for OKRs | Mooncamp](https://site.lovejade.cn/post/60ddb079d234bd05e2ef0fa2)
 
-**标签**：[`OKR`](https://nicelinks.site/tags/OKR) · [`工作`](https://nicelinks.site/tags/工作) · [`高效`](https://nicelinks.site/tags/高效)
+**标签**：[`OKR`](https://site.lovejade.cn/tags/OKR) · [`工作`](https://site.lovejade.cn/tags/工作) · [`高效`](https://site.lovejade.cn/tags/高效)
 
 > Mooncamp is the All-in-One operating system to develop agile, engaged, and high-performing teams – wherever they work.
 
@@ -18,11 +18,11 @@
 
 **人生苦短**。工作是生活的重要组成部分。因此，人们应该使工作充实而愉快。在 Mooncamp，他们的愿景是创建**一体化操作系统**来开发**敏捷且目标驱动的团队**。只需一个工作区，您就可以通过引入**敏捷目标设置 (OKR)**、**每周签到等**来创建透明度和一致性。这一切的核心将是**灵活性**。每个组织都是不同的。优秀的软件应该适应您的个人需求——而不是相反。
 
-── 出自[倾城之链 - The Agile OS for OKRs | Mooncamp](https://nicelinks.site/post/60ddb079d234bd05e2ef0fa2)
+── 出自[倾城之链 - The Agile OS for OKRs | Mooncamp](https://site.lovejade.cn/post/60ddb079d234bd05e2ef0fa2)
 
-## [Joey - Notion extension block](https://nicelinks.site/post/60ddac42d234bd05e2ef0fa0)
+## [Joey - Notion extension block](https://site.lovejade.cn/post/60ddac42d234bd05e2ef0fa0)
 
-**标签**：[`Notion`](https://nicelinks.site/tags/Notion) · [`工具`](https://nicelinks.site/tags/工具) · [`无代码`](https://nicelinks.site/tags/无代码)
+**标签**：[`Notion`](https://site.lovejade.cn/tags/Notion) · [`工具`](https://site.lovejade.cn/tags/工具) · [`无代码`](https://site.lovejade.cn/tags/无代码)
 
 > Notion extension block
 
@@ -36,11 +36,11 @@
 - 🤔 问答板块：接收来自用户的问题，无需登录。
 - 📘 投票板块：通过投票，收集人们的意见。
 
-── 出自[倾城之链 - Joey - Notion extension block](https://nicelinks.site/post/60ddac42d234bd05e2ef0fa0)
+── 出自[倾城之链 - Joey - Notion extension block](https://site.lovejade.cn/post/60ddac42d234bd05e2ef0fa0)
 
-## [唯美女生 丨 一双发现美的眼睛！](https://nicelinks.site/post/60dc6d95d234bd05e2ef0f9e)
+## [唯美女生 丨 一双发现美的眼睛！](https://site.lovejade.cn/post/60dc6d95d234bd05e2ef0f9e)
 
-**标签**：[`美图`](https://nicelinks.site/tags/美图) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`美图`](https://site.lovejade.cn/tags/美图) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 **关键字**：少女情怀总是诗, 可纯可欲, 可盐可甜, 校花, 鲜花, 少女, 小姐姐, 摄影, 日系, 小清新, 写真, 清纯, 清纯少女, 微博美女, 校园美女, 唯美写真, 可爱, 女生, 青春, 高清写真, 相册, 糖水, 女神, 轻私房, 萝莉, 壁纸, 高清壁纸, 头像, 女生头像, 唯美头像, 拍照, 美女, 美女图片
 
@@ -48,13 +48,13 @@
 
 ![倾城之链 - 唯美女生 丨 一双发现美的眼睛！](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.vmgirls.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[唯美女生](https://www.vmgirls.com/)是基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1) 搭建的网站，主要用来收集分享原创高清少女美图（小姐姐、轻私房）；其热门标签有小清新、小姐姐、妹纸、轻私房、清纯、青春、摄影、女神、可爱等等。如果您是「清纯美少女」爱好者，那么[唯美女生](https://www.vmgirls.com/)是值得关注的网站。
+**推荐语**：[唯美女生](https://www.vmgirls.com/)是基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1) 搭建的网站，主要用来收集分享原创高清少女美图（小姐姐、轻私房）；其热门标签有小清新、小姐姐、妹纸、轻私房、清纯、青春、摄影、女神、可爱等等。如果您是「清纯美少女」爱好者，那么[唯美女生](https://www.vmgirls.com/)是值得关注的网站。
 
-── 出自[倾城之链 - 唯美女生 丨 一双发现美的眼睛！](https://nicelinks.site/post/60dc6d95d234bd05e2ef0f9e)
+── 出自[倾城之链 - 唯美女生 丨 一双发现美的眼睛！](https://site.lovejade.cn/post/60dc6d95d234bd05e2ef0f9e)
 
-## [SVGator: Free SVG Animation Creator Online - No Coding](https://nicelinks.site/post/60d8443ed234bd05e2ef0f9c)
+## [SVGator: Free SVG Animation Creator Online - No Coding](https://site.lovejade.cn/post/60d8443ed234bd05e2ef0f9c)
 
-**标签**：[`SVG`](https://nicelinks.site/tags/SVG) · [`动画`](https://nicelinks.site/tags/动画) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`SVG`](https://site.lovejade.cn/tags/SVG) · [`动画`](https://site.lovejade.cn/tags/动画) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：svg animation, svg animation generator, svg animation tool, svg creator, animation maker, svg code
 
@@ -75,11 +75,11 @@
 
 无论您是完全的初学者还是经验丰富的专业人士，都可以毫不费力地开始您的下一个 SVG 动画项目。如果您想了解更多，可以参见 [About SVGator](https://www.svgator.com/about-us)。
 
-── 出自[倾城之链 - SVGator: Free SVG Animation Creator Online - No Coding](https://nicelinks.site/post/60d8443ed234bd05e2ef0f9c)
+── 出自[倾城之链 - SVGator: Free SVG Animation Creator Online - No Coding](https://site.lovejade.cn/post/60d8443ed234bd05e2ef0f9c)
 
-## [古诗文网](https://nicelinks.site/post/60d8375fd234bd05e2ef0f99)
+## [古诗文网](https://site.lovejade.cn/post/60d8375fd234bd05e2ef0f99)
 
-**标签**：[`诗词`](https://nicelinks.site/tags/诗词) · [`人文`](https://nicelinks.site/tags/人文) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`诗词`](https://site.lovejade.cn/tags/诗词) · [`人文`](https://site.lovejade.cn/tags/人文) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 **关键字**：古诗文网, 古诗文, 经典, 唐诗, 宋词, 元曲, 古诗, 咏物诗, 节日古诗, 抒情诗, 送别诗, 爱情古诗
 
@@ -89,11 +89,11 @@
 
 **推荐语**：[古诗文网](https://www.gswen.cn/)提供古代经典古诗文的原文和翻译，包括唐诗三百首、宋词精选、元曲精选等；[古诗文网](https://www.gswen.cn/)站分古诗、名句、诗人、**古籍**、历史、知识、成语、文章等方向，还按照类型、诗人、朝代、形式等，做了划分；侧边栏提供有热门诗句、热门名句、古文典籍、热门成语等模块；当然也提供了检索功能。值得一提的是，该网站，不仅提供原文、译文、注释、赏析，还提供有「背写」、「拼音」、作者介绍等等，实在是业界楷模。“**酒逢知己饮，诗向会人吟**“、“谈笑有鸿儒，往来无白丁“，如果您也是「古诗文」爱好者，那么[古诗文网](https://www.gswen.cn/)是您非常值得关注的网站。
 
-── 出自[倾城之链 - 古诗文网](https://nicelinks.site/post/60d8375fd234bd05e2ef0f99)
+── 出自[倾城之链 - 古诗文网](https://site.lovejade.cn/post/60d8375fd234bd05e2ef0f99)
 
-## [设计工具集——收集最好用的设计工具](https://nicelinks.site/post/60d6ff63d234bd05e2ef0f97)
+## [设计工具集——收集最好用的设计工具](https://site.lovejade.cn/post/60d6ff63d234bd05e2ef0f97)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`导航`](https://nicelinks.site/tags/导航) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`导航`](https://site.lovejade.cn/tags/导航) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：设计工具, 设计, 工具箱, 交互设计, designtools, Sketch, 插件, Figma, Adobe XD, Abstract, AI, PS, Photoshop, AR, VR, UI, UX, UE, 蓝湖, 墨刀, 切图, 原型, 交互动效, 图像处理, 绘图&插画, 颜色, 字体工具, 图标工具, 标注&交付工具, 设计系统工具, 流程结构图, 用户研究, 设计反馈, 建站工具, 代码生成, 设计灵感, 知识管理, 设计教程, 设计资源, 3D 设计, 无障碍工具, 创意设计, 交互装置, 设备模型, 增强&虚拟现实, 三维
 
@@ -101,9 +101,9 @@
 
 ![倾城之链 - 设计工具集——收集最好用的设计工具](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.designtools.cc.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[DesignTools 设计工具集](https://www.designtools.cc/)是基于 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 所构建的设计领域导航网站，旨在：**收集最好用的设计工具**。得益于互联网行业的蓬勃发展，这几年设计工具如雨后春笋一般冒出。随着竞争越来越激烈，产品迭代节奏也越来越快，而一款合适的设计工具，能帮助设计师提高效率，把更多的时间专注于用户和业务上。为了能够帮助设计师更快地选择合适的工具，[Jun](https://juuun.io/) 做了 [DesignTools 设计工具集](https://www.designtools.cc/)，收集所有设计相关的工具，并详细介绍它们。
+**推荐语**：[DesignTools 设计工具集](https://www.designtools.cc/)是基于 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 所构建的设计领域导航网站，旨在：**收集最好用的设计工具**。得益于互联网行业的蓬勃发展，这几年设计工具如雨后春笋一般冒出。随着竞争越来越激烈，产品迭代节奏也越来越快，而一款合适的设计工具，能帮助设计师提高效率，把更多的时间专注于用户和业务上。为了能够帮助设计师更快地选择合适的工具，[Jun](https://juuun.io/) 做了 [DesignTools 设计工具集](https://www.designtools.cc/)，收集所有设计相关的工具，并详细介绍它们。
 
-── 出自[倾城之链 - 设计工具集——收集最好用的设计工具](https://nicelinks.site/post/60d6ff63d234bd05e2ef0f97)
+── 出自[倾城之链 - 设计工具集——收集最好用的设计工具](https://site.lovejade.cn/post/60d6ff63d234bd05e2ef0f97)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

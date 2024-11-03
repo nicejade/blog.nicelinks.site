@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [D-ID | The #1 Choice for AI Generated Video Creation Platform](https://nicelinks.site/post/639b07bae524a8432ed1e9fd)
+## [D-ID | The #1 Choice for AI Generated Video Creation Platform](https://site.lovejade.cn/post/639b07bae524a8432ed1e9fd)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`产品`](https://nicelinks.site/tags/产品) · [`创作`](https://nicelinks.site/tags/创作)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`产品`](https://site.lovejade.cn/tags/产品) · [`创作`](https://site.lovejade.cn/tags/创作)
 
 > The #1 Choice for AI Video Creation Platform
 
@@ -24,11 +24,11 @@ D-ID 的 API 由经过数万个视频训练的神经网络提供支持，并且�
 
 D-ID 的 Generative AI 使用户能够将任何图片或视频转化为非凡的体验。其使命是仅使用人工智能来实现完整的视频制作。它旗下有两款产品： [Live Portrait](https://www.d-id.com/liveportrait/) （真人肖像）——**只需一张照片即可创造视频的魔力**；[Speaking Portrait](https://www.d-id.com/speaking-portrait/)（说话人像）——**仅从文本或音频创建会说话的头像视频**。D-ID，有免费版本可用；精简版，售价 5.99 美元/月。
 
-── 出自[倾城之链 - D-ID | The #1 Choice for AI Generated Video Creation Platform](https://nicelinks.site/post/639b07bae524a8432ed1e9fd)
+── 出自[倾城之链 - D-ID | The #1 Choice for AI Generated Video Creation Platform](https://site.lovejade.cn/post/639b07bae524a8432ed1e9fd)
 
-## [Umami | Own your website analytics](https://nicelinks.site/post/6399ca80e524a8432ed1e00a)
+## [Umami | Own your website analytics](https://site.lovejade.cn/post/6399ca80e524a8432ed1e00a)
 
-**标签**：[`分析`](https://nicelinks.site/tags/分析) · [`自托管`](https://nicelinks.site/tags/自托管) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`分析`](https://site.lovejade.cn/tags/分析) · [`自托管`](https://site.lovejade.cn/tags/自托管) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Umami is an open source, privacy-focused alternative to Google Analytics.
 
@@ -52,13 +52,13 @@ Umami 易于使用和理解，无需运行复杂的报告。Umami 只收集您�
 
 Umami 致力于开源开发。将您的信心放在完全透明、经过战斗测试和社区支持的产品上。
 
-Umami 是一个自行托管的网络分析解决方案。有许多不同的方式来运行 Umami。您可以直接从源代码安装或基于 [docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行安装；详情参见 [Umami 文档](https://umami.is/docs/getting-started)。
+Umami 是一个自行托管的网络分析解决方案。有许多不同的方式来运行 Umami。您可以直接从源代码安装或基于 [docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 进行安装；详情参见 [Umami 文档](https://umami.is/docs/getting-started)。
 
-── 出自[倾城之链 - Umami | Own your website analytics](https://nicelinks.site/post/6399ca80e524a8432ed1e00a)
+── 出自[倾城之链 - Umami | Own your website analytics](https://site.lovejade.cn/post/6399ca80e524a8432ed1e00a)
 
-## [vivo 招聘](https://nicelinks.site/post/6399b464e524a8432ed1ddea)
+## [vivo 招聘](https://site.lovejade.cn/post/6399b464e524a8432ed1ddea)
 
-**标签**：[`招聘`](https://nicelinks.site/tags/招聘) · [`工作`](https://nicelinks.site/tags/工作) · [`vivo`](https://nicelinks.site/tags/vivo)
+**标签**：[`招聘`](https://site.lovejade.cn/tags/招聘) · [`工作`](https://site.lovejade.cn/tags/工作) · [`vivo`](https://site.lovejade.cn/tags/vivo)
 
 **关键字**：vivo 招聘, vivo 校园招聘, vivo 社会招聘, vivo 招聘官方网站, vivo 招聘官网, vivo 招聘信息, vivo 职位招聘
 
@@ -66,7 +66,7 @@ Umami 是一个自行托管的网络分析解决方案。有许多不同的方�
 
 ![倾城之链 - vivo 招聘](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/hr.vivo.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[vivo](https://nicelinks.site/post/5b3ce12a615bf842b609103f) 是一家以设计驱动创造伟大产品，以智能终端和智慧服务为核心的科技公司。其愿景是：成为更健康、更长久的世界一流企业；“本分、用户导向、设计驱动、学习、团队”是其核心价值观。 [vivo 招聘](https://hr.vivo.com/) 是 vivo 官方招聘平台（含社会招聘、校园招聘），旨在诚邀精英共创智能未来。
+**推荐语**：[vivo](https://site.lovejade.cn/post/5b3ce12a615bf842b609103f) 是一家以设计驱动创造伟大产品，以智能终端和智慧服务为核心的科技公司。其愿景是：成为更健康、更长久的世界一流企业；“本分、用户导向、设计驱动、学习、团队”是其核心价值观。 [vivo 招聘](https://hr.vivo.com/) 是 vivo 官方招聘平台（含社会招聘、校园招聘），旨在诚邀精英共创智能未来。
 
 ### 工作介绍
 
@@ -78,17 +78,17 @@ Umami 是一个自行托管的网络分析解决方案。有许多不同的方�
 
 vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供应链类、营销类、市场类、公共类、品质类、产品运营类等；把握机会就现在，在 [vivo 招聘](https://hr.vivo.com/) 探索你擅长或感兴趣的工作领域，让 vivo 发现优秀的你。无论你是应届生、还是职场达人，都能在此大放异彩。
 
-── 出自[倾城之链 - vivo 招聘](https://nicelinks.site/post/6399b464e524a8432ed1ddea)
+── 出自[倾城之链 - vivo 招聘](https://site.lovejade.cn/post/6399b464e524a8432ed1ddea)
 
-## [Yew - Rust / Wasm framework for building client web apps](https://nicelinks.site/post/6398874ae524a8432ed1d43e)
+## [Yew - Rust / Wasm framework for building client web apps](https://site.lovejade.cn/post/6398874ae524a8432ed1d43e)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`框架`](https://nicelinks.site/tags/框架) · [`Rust`](https://nicelinks.site/tags/Rust)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`框架`](https://site.lovejade.cn/tags/框架) · [`Rust`](https://site.lovejade.cn/tags/Rust)
 
 > A framework for creating reliable and efficient web applications.
 
 ![倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/yew.rs.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Yew](https://yew.rs/) 是一个现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端 Web 应用程序；能够达成前后端都使用 Rust 开发；它使用类似 React JSX 的语法开发页面，同时支持 class 和函数式两种组件编写方式（据悉，性能尚不如 [Vue3](https://nicelinks.site/post/5b1a221c0526c920d6dfaada)、[SolidJS](https://nicelinks.site/post/6329ab4f36feb75b35987e2a)、[Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0)、[React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 这些）。它具有以下功能特性：
+**推荐语**：[Yew](https://yew.rs/) 是一个现代 [Rust](https://site.lovejade.cn/tags/Rust) 框架，用于使用 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 创建多线程前端 Web 应用程序；能够达成前后端都使用 Rust 开发；它使用类似 React JSX 的语法开发页面，同时支持 class 和函数式两种组件编写方式（据悉，性能尚不如 [Vue3](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada)、[SolidJS](https://site.lovejade.cn/post/6329ab4f36feb75b35987e2a)、[Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0)、[React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 这些）。它具有以下功能特性：
 
 ### 基于组件
 
@@ -96,7 +96,7 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 ### HTML 宏
 
-具有一个宏，用于使用 Rust 表达式声明交互式 HTML。有过在 [React](https://nicelinks.site/tags/React) 中使用 JSX 的经验的开发人员在使用 Yew 时应该会感到宾至如归。
+具有一个宏，用于使用 Rust 表达式声明交互式 HTML。有过在 [React](https://site.lovejade.cn/tags/React) 中使用 JSX 的经验的开发人员在使用 Yew 时应该会感到宾至如归。
 
 ### 服务器端渲染
 
@@ -108,21 +108,21 @@ vivo 在招岗位有：产品运营类、研发类、设计类、制造类、供
 
 ### 支持前端生态
 
-支持 [JavaScript](https://nicelinks.site/tags/JavaScript) 互操作性，允许开发人员利用 NPM 包并与现有 JavaScript 应用程序集成。
+支持 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 互操作性，允许开发人员利用 NPM 包并与现有 JavaScript 应用程序集成。
 
-[Yew](https://yew.rs/) 是一个受 Elm 和 React 启发的现代 [Rust](https://nicelinks.site/tags/Rust) 框架，用于使用 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 创建多线程前端应用程序。该项目在 [Github 开源](https://github.com/yewstack/yew) （截止 2022 年 12 月 13 日，Yew 尚未达到 `1.0`，经常有激进的 API 更改或重构）；如果您想了解更多，可以参见 [Awesome Yew](https://github.com/jetli/awesome-yew) （精心策划的与 `yew` 有关的精彩事物列表）。
+[Yew](https://yew.rs/) 是一个受 Elm 和 React 启发的现代 [Rust](https://site.lovejade.cn/tags/Rust) 框架，用于使用 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 创建多线程前端应用程序。该项目在 [Github 开源](https://github.com/yewstack/yew) （截止 2022 年 12 月 13 日，Yew 尚未达到 `1.0`，经常有激进的 API 更改或重构）；如果您想了解更多，可以参见 [Awesome Yew](https://github.com/jetli/awesome-yew) （精心策划的与 `yew` 有关的精彩事物列表）。
 
-── 出自[倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://nicelinks.site/post/6398874ae524a8432ed1d43e)
+── 出自[倾城之链 - Yew - Rust / Wasm framework for building client web apps](https://site.lovejade.cn/post/6398874ae524a8432ed1d43e)
 
-## [V8 JavaScript engine](https://nicelinks.site/post/63986e3ce524a8432ed1d256)
+## [V8 JavaScript engine](https://site.lovejade.cn/post/63986e3ce524a8432ed1d256)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`引擎`](https://nicelinks.site/tags/引擎)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`引擎`](https://site.lovejade.cn/tags/引擎)
 
 > V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++.
 
 ![倾城之链 - V8 JavaScript engine](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/v8.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[V8](https://v8.dev/) 是 Google 的开源高性能 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [WebAssembly](https://nicelinks.site/tags/WebAssembly) 引擎，用 C++ 编写。它用于 Chrome、Node.js、和 [快应用](https://nicelinks.site/tags/快应用) 等。它实现了 ECMAScript 和 WebAssembly，并运行在 Windows 7 或更高版本、macOS 10.12+ 和使用 x64、IA-32、ARM 或 MIPS 处理器的 Linux 系统上。V8 可以独立运行，也可以嵌入到任何 C++ 应用程序中。
+**推荐语**：[V8](https://v8.dev/) 是 Google 的开源高性能 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 和 [WebAssembly](https://site.lovejade.cn/tags/WebAssembly) 引擎，用 C++ 编写。它用于 Chrome、Node.js、和 [快应用](https://site.lovejade.cn/tags/快应用) 等。它实现了 ECMAScript 和 WebAssembly，并运行在 Windows 7 或更高版本、macOS 10.12+ 和使用 x64、IA-32、ARM 或 MIPS 处理器的 Linux 系统上。V8 可以独立运行，也可以嵌入到任何 C++ 应用程序中。
 
 V8 编译和执行 JavaScript 源代码，处理对象的内存分配，以及垃圾收集它不再需要的对象。V8 的 stop-the-world、generation、精确的垃圾收集器是 V8 性能的关键之一。
 
@@ -130,9 +130,9 @@ JavaScript 通常用于浏览器中的客户端脚本，例如被用来操作文
 
 V8 使任何 C++ 应用程序能够将自己的对象和函数暴露给 JavaScript 代码。这取决于你决定哪些对象和函数是你想暴露给 JavaScript 的。
 
-[v8.dev](https://v8.dev/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Firebase 搭建的网站；用以承载 V8 开发者博客、V8 文档、JavaScript / WebAssembly 特征等内容。如果您对 `v8` 或 WebAssembly 相关内容感兴趣，`v8.dev` 非常值得关注。
+[v8.dev](https://v8.dev/) ，基于 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、Firebase 搭建的网站；用以承载 V8 开发者博客、V8 文档、JavaScript / WebAssembly 特征等内容。如果您对 `v8` 或 WebAssembly 相关内容感兴趣，`v8.dev` 非常值得关注。
 
-── 出自[倾城之链 - V8 JavaScript engine](https://nicelinks.site/post/63986e3ce524a8432ed1d256)
+── 出自[倾城之链 - V8 JavaScript engine](https://site.lovejade.cn/post/63986e3ce524a8432ed1d256)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [TVCBOOK - 你感兴趣的创意都在 T 站](https://nicelinks.site/post/618d24b2038ee31b947bb90b)
+## [TVCBOOK - 你感兴趣的创意都在 T 站](https://site.lovejade.cn/post/618d24b2038ee31b947bb90b)
 
-**标签**：[`创意`](https://nicelinks.site/tags/创意) · [`短视频`](https://nicelinks.site/tags/短视频) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`创意`](https://site.lovejade.cn/tags/创意) · [`短视频`](https://site.lovejade.cn/tags/短视频) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 **关键字**：TVCBOOK, T 站, 创意, 创意片库, 创意工具, 广告, 宣传片, 广告创意, TVC, 灵感, 广告公司, 导演, 创意人, 摄影, 文案, 编剧, 摄影, 后期, 演员, 影视, 电影, 短视频
 
@@ -21,23 +21,23 @@
 
 [TVCBOOK](https://www.tvcbook.com/)，专注视觉创意搜索，拥有来自全球的超过 500 万视觉创意，覆盖全行业和创意类型视觉搜索体验。专注营销视频领域的重要奖项，致力于评选年度全球优秀创意案例及创作人才。挖掘商业价值，探索影视未来。
 
-── 出自[倾城之链 - TVCBOOK - 你感兴趣的创意都在 T 站](https://nicelinks.site/post/618d24b2038ee31b947bb90b)
+── 出自[倾城之链 - TVCBOOK - 你感兴趣的创意都在 T 站](https://site.lovejade.cn/post/618d24b2038ee31b947bb90b)
 
-## [Slmie の Blog - Slmie の Blog ](https://nicelinks.site/post/618c7bd4fbeef24fbfb6a13c)
+## [Slmie の Blog - Slmie の Blog ](https://site.lovejade.cn/post/618c7bd4fbeef24fbfb6a13c)
 
-**标签**：[`Android`](https://nicelinks.site/tags/Android) · [`HTML5`](https://nicelinks.site/tags/HTML5) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`Android`](https://site.lovejade.cn/tags/Android) · [`HTML5`](https://site.lovejade.cn/tags/HTML5) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 > 分享各种 ROM 资源，发布各种资源。
 
 ![倾城之链 - SlmieのBlog - SlmieのBlog](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/slmie.top.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Slmie の Blog](https://slmie.top/)，一个基于 [WordPress](https://nicelinks.site/post/602e4a576eaf2a7660805af1)、jsDelivr、PHP、NGINX 等工具所搭建的网站，旨在分享各种 ROM 资源，发布各种资源。
+**推荐语**：[Slmie の Blog](https://slmie.top/)，一个基于 [WordPress](https://site.lovejade.cn/post/602e4a576eaf2a7660805af1)、jsDelivr、PHP、NGINX 等工具所搭建的网站，旨在分享各种 ROM 资源，发布各种资源。
 
-── 出自[倾城之链 - Slmie の Blog - Slmie の Blog ](https://nicelinks.site/post/618c7bd4fbeef24fbfb6a13c)
+── 出自[倾城之链 - Slmie の Blog - Slmie の Blog ](https://site.lovejade.cn/post/618c7bd4fbeef24fbfb6a13c)
 
-## [WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae)
+## [WebAssembly](https://site.lovejade.cn/post/618b8df4a18dec25673723ae)
 
-**标签**：[`WebAssembly`](https://nicelinks.site/tags/WebAssembly) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`WebAssembly`](https://site.lovejade.cn/tags/WebAssembly) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 **关键字**：WebAssembly, Wasm, Web, JavaScript, 浏览器, 高效快速, 安全, 开放, 可调试, 二进制格式, 编码方式
 
@@ -69,11 +69,11 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 [WebAssembly](https://webassembly.org/) 旨在保持 Web 的无版本、功能测试和向后兼容的特性。WebAssembly 模块将能够调用和调用 JavaScript 上下文，并通过可从 JavaScript 访问的相同 Web API 访问浏览器功能。WebAssembly 还支持非 Web 嵌入。
 
-── 出自[倾城之链 - WebAssembly](https://nicelinks.site/post/618b8df4a18dec25673723ae)
+── 出自[倾城之链 - WebAssembly](https://site.lovejade.cn/post/618b8df4a18dec25673723ae)
 
-## [Panda — The homepage for your favorite websites](https://nicelinks.site/post/618b5664a18dec25673723ac)
+## [Panda — The homepage for your favorite websites](https://site.lovejade.cn/post/618b5664a18dec25673723ac)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`聚合`](https://nicelinks.site/tags/聚合) · [`灵感`](https://nicelinks.site/tags/灵感)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`聚合`](https://site.lovejade.cn/tags/聚合) · [`灵感`](https://site.lovejade.cn/tags/灵感)
 
 **关键字**：panda, news, inspiration, designer news, dribbble, sidebar, daily, chrome extension, chrome, tutorial, rss, reader
 
@@ -87,11 +87,11 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 无论您身在何处，都可以随时了解最新信息并获得灵感；从其官网了解到，该团队正准备在所有流行的设备上提供 [Panda](https://usepanda.com/)，因为您永远不知道灵感何时会出现。
 
-── 出自[倾城之链 - Panda — The homepage for your favorite websites](https://nicelinks.site/post/618b5664a18dec25673723ac)
+── 出自[倾城之链 - Panda — The homepage for your favorite websites](https://site.lovejade.cn/post/618b5664a18dec25673723ac)
 
-## [测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G 测速, 物联网监测](https://nicelinks.site/post/618a0115a18dec25673723aa)
+## [测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G 测速, 物联网监测](https://site.lovejade.cn/post/618a0115a18dec25673723aa)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`网站`](https://nicelinks.site/tags/网站) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`网站`](https://site.lovejade.cn/tags/网站) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：测速, 测网速, 网速, 网络质量, 5G 网速, 5G 测速, 5G 网络, 在线测速, 网速测试, 宽带测速, wifi 测速, 联通, 电信, 移动, 长城宽带, 广电, 鹏博士, 网速诊断, 网络诊断, 路由测试, 上网速度测试, 游戏测速, 直播测速, 提高网速, 宽带提速, 网络加速, 速度测试, 带宽检测, 宽带测试, 光纤, ping, speedtest, speed, test, adsl, ftth, iot, internet, tracert, traceroute, IPv6, Wi-Fi 6
 
@@ -115,11 +115,11 @@ WebAssembly 旨在以文本格式漂亮地打印出来，用于调试、测试�
 
 [测速网](https://www.speedtest.cn/)个人用户产品线包括：Web 网站、Wap 网站、手机 App（安卓、iOS）、PC 客户端软件（Windows、Mac）、智能电视软件、微信小程序以及百度小程序。其企业用户产品线包括：测速插件、测速 SDK（安卓、iOS、Windows、Mac、Linux）、测速 WebSDK、APP 异常诊断 SDK、游戏测速 SDK、综合测速 SDK、网络诊断 SDK、内网测速系统、物联网设备网速监测系统、行业大数据、报告定制和数据分析。
 
-── 出自[倾城之链 - 测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G 测速, 物联网监测](https://nicelinks.site/post/618a0115a18dec25673723aa)
+── 出自[倾城之链 - 测速网 - 专业网速测试, 宽带提速, 游戏测速, 直播测速, 5G 测速, 物联网监测](https://site.lovejade.cn/post/618a0115a18dec25673723aa)
 
-## [GitHub Copilot · Your AI pair programmer](https://nicelinks.site/post/618905e6a18dec25673723a8)
+## [GitHub Copilot · Your AI pair programmer](https://site.lovejade.cn/post/618905e6a18dec25673723a8)
 
-**标签**：[`Github`](https://nicelinks.site/tags/Github) · [`AI`](https://nicelinks.site/tags/AI) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`Github`](https://site.lovejade.cn/tags/Github) · [`AI`](https://site.lovejade.cn/tags/AI) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
@@ -137,9 +137,9 @@ OpenAI Codex 接受过公开源代码和自然语言的培训，因此它理解�
 
 当您将代码分成小函数，为函数参数使用有意义的名称，并随时编写好的文档字符串和注释时，它的效果最佳。当它帮助您浏览不熟悉的库或框架时，它似乎也做得最好。
 
-总体来看，[GitHub Copilot](https://copilot.github.com/) 提供的功能有：代码补全、将注释转换为代码、自动填充重复代码等，有童鞋反馈 [GitHub Copilot](https://copilot.github.com/) 要比 [TabNine](https://nicelinks.site/post/5f96bb97ac6b5718fc48abfe) 还要强大些，感兴趣的程序员朋友，可以安装尝试下。
+总体来看，[GitHub Copilot](https://copilot.github.com/) 提供的功能有：代码补全、将注释转换为代码、自动填充重复代码等，有童鞋反馈 [GitHub Copilot](https://copilot.github.com/) 要比 [TabNine](https://site.lovejade.cn/post/5f96bb97ac6b5718fc48abfe) 还要强大些，感兴趣的程序员朋友，可以安装尝试下。
 
-── 出自[倾城之链 - GitHub Copilot · Your AI pair programmer](https://nicelinks.site/post/618905e6a18dec25673723a8)
+── 出自[倾城之链 - GitHub Copilot · Your AI pair programmer](https://site.lovejade.cn/post/618905e6a18dec25673723a8)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

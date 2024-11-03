@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Resend | Email for developers](https://nicelinks.site/post/648af69e60ad7b6b1e9626a7)
+## [Resend | Email for developers](https://site.lovejade.cn/post/648af69e60ad7b6b1e9626a7)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`邮件`](https://nicelinks.site/tags/邮件) · [`API`](https://nicelinks.site/tags/API)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`邮件`](https://site.lovejade.cn/tags/邮件) · [`API`](https://site.lovejade.cn/tags/API)
 
 > Build, test, and send transactional emails at scale.
 
 ![倾城之链 - Resend | Email for developers](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/resend.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Resend](https://resend.com/) ，为开发人员定制的电子邮件（Email for developers），非常棒的免费发送 Email 的服务，接触人类而不是垃圾邮件文件夹的最佳 [API](https://nicelinks.site/tags/API) 。大规模构建、测试和交付交易电子邮件。它提供一个简单、优雅的界面，让您可以在几分钟内开始发送电子邮件。它与您喜欢的编程语言的 SDK 一起适合您的代码，诸如：Node.js、Ruby、 [Python](https://nicelinks.site/tags/Python) 、PHP、GO、 [Rust](https://nicelinks.site/post/606a826800d67605dca7de5a) 等。
+**推荐语**：[Resend](https://resend.com/) ，为开发人员定制的电子邮件（Email for developers），非常棒的免费发送 Email 的服务，接触人类而不是垃圾邮件文件夹的最佳 [API](https://site.lovejade.cn/tags/API) 。大规模构建、测试和交付交易电子邮件。它提供一个简单、优雅的界面，让您可以在几分钟内开始发送电子邮件。它与您喜欢的编程语言的 SDK 一起适合您的代码，诸如：Node.js、Ruby、 [Python](https://site.lovejade.cn/tags/Python) 、PHP、GO、 [Rust](https://site.lovejade.cn/post/606a826800d67605dca7de5a) 等。
 
 [Resend](https://resend.com/) 具有一流的开发者体验；该工具创造者一群喜欢为其他工程师构建工具的工程师。他们的目标是创建人们一直希望拥有的电子邮件平台——一个可以**正常工作**的平台。它具有如下功能特征：
 
@@ -26,13 +26,13 @@
 
 Resend 正在为开发人员改变电子邮件。简单的界面，易于集成，方便的模板；## 一切尽在您的掌握：管理电子邮件发送、使用详细日志进行故障排除，以及保护您的域声誉所需的所有功能，且毫不费力。
 
-[Resend](https://resend.com/) 正在推动卓越的开发人员体验，以促成成功案例、赋能企业并推动跨行业和个人的增长；总而言之，它有支持各种编程语言的 SDK；前端的示例非常全面，甚至还有 [Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、Nuxt 的写法 ；配合 [react-email](https://react.email/) 可以快速做出非常漂亮的模版；数据统计直观且强大...... 额外需要说明的是，它提供免费额度： `3000` 封 / 月、`100` 封 / 天，这对于初期产品已是足够；如果您有发送邮件服务，Resend 值得纳入首选列表。
+[Resend](https://resend.com/) 正在推动卓越的开发人员体验，以促成成功案例、赋能企业并推动跨行业和个人的增长；总而言之，它有支持各种编程语言的 SDK；前端的示例非常全面，甚至还有 [Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 、Nuxt 的写法 ；配合 [react-email](https://react.email/) 可以快速做出非常漂亮的模版；数据统计直观且强大...... 额外需要说明的是，它提供免费额度： `3000` 封 / 月、`100` 封 / 天，这对于初期产品已是足够；如果您有发送邮件服务，Resend 值得纳入首选列表。
 
-── 出自[倾城之链 - Resend | Email for developers](https://nicelinks.site/post/648af69e60ad7b6b1e9626a7)
+── 出自[倾城之链 - Resend | Email for developers](https://site.lovejade.cn/post/648af69e60ad7b6b1e9626a7)
 
-## [Starlink | 星链](https://nicelinks.site/post/648ad72c60ad7b6b1e962471)
+## [Starlink | 星链](https://site.lovejade.cn/post/648ad72c60ad7b6b1e962471)
 
-**标签**：[`高科技`](https://nicelinks.site/tags/高科技) · [`产品`](https://nicelinks.site/tags/产品) · [`官网`](https://nicelinks.site/tags/官网)
+**标签**：[`高科技`](https://site.lovejade.cn/tags/高科技) · [`产品`](https://site.lovejade.cn/tags/产品) · [`官网`](https://site.lovejade.cn/tags/官网)
 
 **关键字**：SpaceX Starlink
 
@@ -40,7 +40,7 @@ Resend 正在为开发人员改变电子邮件。简单的界面，易于集成�
 
 ![倾城之链 - Starlink | 星链](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.starlink.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[星链](https://www.starlink.com/) （英语：Starlink）是太空服务公司 [SpaceX](https://nicelinks.site/post/6249978fb7bf120669dbd3ff) 的一项透过近地轨道卫星群，提供覆盖全球的高速互联网接入服务。截至 2022 年 7 月 23 日，星链服务已可在三十六个国家和地区使用。根据其官网介绍，Starlink 具有以下功能特色：
+**推荐语**：[星链](https://www.starlink.com/) （英语：Starlink）是太空服务公司 [SpaceX](https://site.lovejade.cn/post/6249978fb7bf120669dbd3ff) 的一项透过近地轨道卫星群，提供覆盖全球的高速互联网接入服务。截至 2022 年 7 月 23 日，星链服务已可在三十六个国家和地区使用。根据其官网介绍，Starlink 具有以下功能特色：
 
 ### 流媒体、视频通话、在线游戏等
 
@@ -70,7 +70,7 @@ Starlink 不仅在降低卫星亮度的创新方面处于行业领先地位，�
 
 ### 由 SPACEX 设计
 
-[SpaceX](https://nicelinks.site/post/6249978fb7bf120669dbd3ff) 正在利用其在制造火箭和航天器方面的经验来部署世界上最先进的宽带互联网系统。作为世界领先的发射服务提供商——也是唯一一家拥有轨道级可重复使用火箭的提供商——SpaceX 在航天器和在轨操作方面拥有丰富的经验。
+[SpaceX](https://site.lovejade.cn/post/6249978fb7bf120669dbd3ff) 正在利用其在制造火箭和航天器方面的经验来部署世界上最先进的宽带互联网系统。作为世界领先的发射服务提供商——也是唯一一家拥有轨道级可重复使用火箭的提供商——SpaceX 在航天器和在轨操作方面拥有丰富的经验。
 
 ---
 
@@ -80,11 +80,11 @@ Starlink 不仅在降低卫星亮度的创新方面处于行业领先地位，�
 
 Starlink 的目标是到 2020 年在美国北部和加拿大提供服务，到 2021 年将其服务范围扩大到接近全球。截至 2023 年 2 月，星链工程在轨卫星数量已超过 3,500 颗。同时，SpaceX 还提出了第二代星链计划，该计划将依托 Starship 发射并构成数量达 29,988 颗卫星的卫星星座。
 
-── 出自[倾城之链 - Starlink | 星链](https://nicelinks.site/post/648ad72c60ad7b6b1e962471)
+── 出自[倾城之链 - Starlink | 星链](https://site.lovejade.cn/post/648ad72c60ad7b6b1e962471)
 
-## [MacroView - 专注于经济数据和经济理论](https://nicelinks.site/post/648ad41f60ad7b6b1e962419)
+## [MacroView - 专注于经济数据和经济理论](https://site.lovejade.cn/post/648ad41f60ad7b6b1e962419)
 
-**标签**：[`资讯`](https://nicelinks.site/tags/资讯) · [`查询`](https://nicelinks.site/tags/查询) · [`数据分析`](https://nicelinks.site/tags/数据分析)
+**标签**：[`资讯`](https://site.lovejade.cn/tags/资讯) · [`查询`](https://site.lovejade.cn/tags/查询) · [`数据分析`](https://site.lovejade.cn/tags/数据分析)
 
 **关键字**：MacroView, 全球经济数据查询, 全球宏观数据查询, 经济学学习网站
 
@@ -102,17 +102,17 @@ Starlink 的目标是到 2020 年在美国北部和加拿大提供服务，到 2
 
 MacroView 为用户整合全球的宏观经济数据（以图表方式展现）并且提供经济学的理论知识；除了 Web 网站之外，还提供公众号、小程序等访问渠道。需要特别说明的是：“该网站定位是经济学领域的学术交流网站，只提供数据和知识服务，不提供投资建议和任何形式的投资理财服务”，建议各位朋友理性看待。
 
-── 出自[倾城之链 - MacroView - 专注于经济数据和经济理论](https://nicelinks.site/post/648ad41f60ad7b6b1e962419)
+── 出自[倾城之链 - MacroView - 专注于经济数据和经济理论](https://site.lovejade.cn/post/648ad41f60ad7b6b1e962419)
 
-## [Rome — Unified developer tools for JavaScript, TypeScript, and the webRomeRome](https://nicelinks.site/post/648930d460ad7b6b1e9617f2)
+## [Rome — Unified developer tools for JavaScript, TypeScript, and the webRomeRome](https://site.lovejade.cn/post/648930d460ad7b6b1e9617f2)
 
-**标签**：[`Web开发`](https://nicelinks.site/tags/Web开发) · [`程序库`](https://nicelinks.site/tags/程序库) · [`JavaScript`](https://nicelinks.site/tags/JavaScript)
+**标签**：[`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`程序库`](https://site.lovejade.cn/tags/程序库) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript)
 
 > Unified developer tools for JavaScript, TypeScript, and the web
 
 ![倾城之链 - Rome — Unified developer tools for JavaScript, TypeScript, and the webRomeRome](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/rome.tools.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Rome](https://rome.tools/) 是用于 [JavaScript](https://nicelinks.site/tags/JavaScript) 、 [TypeScript](https://nicelinks.site/tags/TypeScript) 、JSON、 [HTML](https://nicelinks.site/tags/HTML) 、 [Markdown](https://nicelinks.site/tags/Markdown) 和 [CSS](https://nicelinks.site/tags/CSS) 的格式化程序、linter、捆绑程序等，旨在取代 Babel、ESLint、webpack、 [Prettier](https://nicelinks.site/post/5c16083e819ae45de1453caa) 、Jest 等。它具有如下功能特征：
+**推荐语**：[Rome](https://rome.tools/) 是用于 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 、 [TypeScript](https://site.lovejade.cn/tags/TypeScript) 、JSON、 [HTML](https://site.lovejade.cn/tags/HTML) 、 [Markdown](https://site.lovejade.cn/tags/Markdown) 和 [CSS](https://site.lovejade.cn/tags/CSS) 的格式化程序、linter、捆绑程序等，旨在取代 Babel、ESLint、webpack、 [Prettier](https://site.lovejade.cn/post/5c16083e819ae45de1453caa) 、Jest 等。它具有如下功能特征：
 
 - **快速**：用 Rust 和受 rust-analyzer 启发的创新架构构建。能够更快地完成更多工作。
 - **简单**：开始需要零配置。在您需要时提供广泛的选项。
@@ -127,23 +127,23 @@ MacroView 为用户整合全球的宏观经济数据（以图表方式展现）�
 - **名称来源**：因“通向罗马的所有道路”，“罗马不是一天建成”和“在罗马时要像罗马人一样”这样的谚语而得名。 这是指整个项目的扩展范围和对一致性的渴望，它始于一个办公室玩笑。
 - **Logo 来源**：一个古希腊斯巴达头盔。虽然它不是罗马字母，也不太相关，但看起来比 Galea （罗马士兵的头盔）更酷。
 
-Rome 基于 Rust 编写，它统一了以前作为独立工具的功能。建立在一个共享的基础之上，使 [开发者](https://nicelinks.site/tags/开发者) 能够为处理代码、显示错误、并行工作、缓存和配置提供一种内聚的体验。
+Rome 基于 Rust 编写，它统一了以前作为独立工具的功能。建立在一个共享的基础之上，使 [开发者](https://site.lovejade.cn/tags/开发者) 能够为处理代码、显示错误、并行工作、缓存和配置提供一种内聚的体验。
 
 Rome 通过组合不同工具的功能来统一您的开发堆栈。 单一配置文件，惊人的性能，适用于任何堆栈。此外，Rome 拥有一流的 IDE 支持，具有复杂的解析器，可以完全保真地表示源文本和一流的错误恢复。
 
-[Rome](https://rome.tools/) 项目在 [Github 仓库开源](https://github.com/rome/tools) （截止 2023 年 06 月 14 日，版本至 `v12.1.3`，已获得超过 23K Star）；作为大而全的项目，`rome` 虽然具备 Babel、ESlint（Linter）、 [Prettier](https://nicelinks.site/post/5c16083e819ae45de1453caa) （Formatter）、Analyzer 的功能，而且使用简单，但生态上不够完善（如对于主流框架 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 上不支持，而且缺失如何编写扩展文档），知名度尚远不及 ESlint、Prettier 这些功能相对单一的工具。如果您对其感兴趣，不妨移步 [Rome 开发者文档](https://docs.rome.tools/guides/getting-started/) ，以便了解更多。
+[Rome](https://rome.tools/) 项目在 [Github 仓库开源](https://github.com/rome/tools) （截止 2023 年 06 月 14 日，版本至 `v12.1.3`，已获得超过 23K Star）；作为大而全的项目，`rome` 虽然具备 Babel、ESlint（Linter）、 [Prettier](https://site.lovejade.cn/post/5c16083e819ae45de1453caa) （Formatter）、Analyzer 的功能，而且使用简单，但生态上不够完善（如对于主流框架 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 上不支持，而且缺失如何编写扩展文档），知名度尚远不及 ESlint、Prettier 这些功能相对单一的工具。如果您对其感兴趣，不妨移步 [Rome 开发者文档](https://docs.rome.tools/guides/getting-started/) ，以便了解更多。
 
-── 出自[倾城之链 - Rome — Unified developer tools for JavaScript, TypeScript, and the webRomeRome](https://nicelinks.site/post/648930d460ad7b6b1e9617f2)
+── 出自[倾城之链 - Rome — Unified developer tools for JavaScript, TypeScript, and the webRomeRome](https://site.lovejade.cn/post/648930d460ad7b6b1e9617f2)
 
-## [Recharts | A Redefined chart library built with React and D3](https://nicelinks.site/post/64870bbb6cb99b599be081b8)
+## [Recharts | A Redefined chart library built with React and D3](https://site.lovejade.cn/post/64870bbb6cb99b599be081b8)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`React`](https://nicelinks.site/tags/React) · [`图表`](https://nicelinks.site/tags/图表)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`React`](https://site.lovejade.cn/tags/React) · [`图表`](https://site.lovejade.cn/tags/图表)
 
 > Recharts - Re-designed charting library built with React and D3.
 
 ![倾城之链 - Recharts | A Redefined chart library built with React and D3](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/recharts.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Recharts](https://recharts.org/) 是一个重新定义的可组合图表库，使用 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 和 D3 构建。它具有以下功能特征：
+**推荐语**：[Recharts](https://recharts.org/) 是一个重新定义的可组合图表库，使用 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 和 D3 构建。它具有以下功能特征：
 
 - **可组合**：使用分离的、可重用的 React 组件快速构建图表。
 - **可靠**：建立在 SVG 元素之上，轻量级依赖于 D3 子模块。
@@ -151,11 +151,11 @@ Rome 通过组合不同工具的功能来统一您的开发堆栈。 单一配�
 
 [Recharts](https://recharts.org/) 库的主要目的是帮助您轻松地在 React 应用程序中编写图表。推荐使用 npm 的方式安装，它能更好地和 CommonJS 打包工具搭配使用，例如：Webpack。该项目截止 2023 年 06 月 12 日，已获得 20.4K+ Star，如果您对它感兴趣，可移步至 [Github 开源仓库](https://github.com/recharts/recharts) 以便了解更多。
 
-── 出自[倾城之链 - Recharts | A Redefined chart library built with React and D3](https://nicelinks.site/post/64870bbb6cb99b599be081b8)
+── 出自[倾城之链 - Recharts | A Redefined chart library built with React and D3](https://site.lovejade.cn/post/64870bbb6cb99b599be081b8)
 
-## [The Open Source Firebase Alternative | Supabase](https://nicelinks.site/post/648708956cb99b599be080bb)
+## [The Open Source Firebase Alternative | Supabase](https://site.lovejade.cn/post/648708956cb99b599be080bb)
 
-**标签**：[`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管) · [`程序`](https://nicelinks.site/tags/程序)
+**标签**：[`开源`](https://site.lovejade.cn/tags/开源) · [`自托管`](https://site.lovejade.cn/tags/自托管) · [`程序`](https://site.lovejade.cn/tags/程序)
 
 > The Open Source Alternative to Firebase.
 
@@ -183,9 +183,9 @@ Supabase 作为开源的 Firebase 替代品，相比 Firebase 主要以下差异
 - 存储：Supabase 提供了对象存储服务，而 Firebase 则提供了实时数据库和云存储。
 - 边缘函数：Supabase 支持在边缘节点上运行 JavaScript 函数，而 Firebase 则提供了云函数。
 
-总之，Supabase 是谷歌 Firebase 的最佳开源替代品（截止 2023 年 06 月 12 日，已获得 51.6K+ Star）；即使 Firebase 有大量的功能，Supabase 可能更有用，因为它使用开源技术。而且让你可以灵活地托管在你的本地机器上、云服务提供商中，甚至作为一个 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 容器。这意味着它是无限制的，所以不存在厂商锁定的问题。如果您对其感兴趣，可移步至 [Github 开源仓库](https://github.com/supabase/supabase) 从而了解更多。
+总之，Supabase 是谷歌 Firebase 的最佳开源替代品（截止 2023 年 06 月 12 日，已获得 51.6K+ Star）；即使 Firebase 有大量的功能，Supabase 可能更有用，因为它使用开源技术。而且让你可以灵活地托管在你的本地机器上、云服务提供商中，甚至作为一个 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 容器。这意味着它是无限制的，所以不存在厂商锁定的问题。如果您对其感兴趣，可移步至 [Github 开源仓库](https://github.com/supabase/supabase) 从而了解更多。
 
-── 出自[倾城之链 - The Open Source Firebase Alternative | Supabase](https://nicelinks.site/post/648708956cb99b599be080bb)
+── 出自[倾城之链 - The Open Source Firebase Alternative | Supabase](https://site.lovejade.cn/post/648708956cb99b599be080bb)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

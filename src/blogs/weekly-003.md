@@ -1,9 +1,9 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。<br>
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、及博客[晚晴幽草轩](https://www.jeffjade.com)；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。<br>
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、及博客[晚晴幽草轩](https://www.jeffjade.com)；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [蜜蜂剪辑官网 | 人人都会用的简单视频剪辑软件](https://beecut.cn/?utm_source=nicelinks.site)
 
-**标签**：[`剪辑`](https://nicelinks.site/tags/剪辑) · [`视频`](https://nicelinks.site/tags/视频) · [`应用`](https://nicelinks.site/tags/应用)
+**标签**：[`剪辑`](https://site.lovejade.cn/tags/剪辑) · [`视频`](https://site.lovejade.cn/tags/视频) · [`应用`](https://site.lovejade.cn/tags/应用)
 
 **关键字**：蜜蜂剪辑, 视频, 剪辑, 抖音视频, vlog, 短视频, 蜜蜂
 
@@ -18,13 +18,13 @@
 - **裁剪**：视频画面一键剪裁，剪掉画面多余或瑕疵部分，勾选保持画面宽高比，避免视频出现黑边现象，零基础也能快速上手；
 - **音乐**：内置音乐&音效素材库，打开软件即可试听选用无版权音乐，轻轻一点就能添加 BGM，还能为视频提取音频，调整音量和加上淡入淡出效果；
 
-值得一提的是，[蜜蜂剪辑](https://beecut.cn/)可以[在线操作](https://beecut.cn/online-video-editor)，支持的视频编辑功能包括：视频转 [GIF](https://nicelinks.site/tags/GIF) 、视频提取音频、视频合并、视频截取、视频旋转、视频裁剪、视频截图、视频变速、视频分段导出、视频消音等，每个功能都是非常实用，从单独的需求点延伸至全方位的解决方案，协助您打造更多创意[短视频](https://nicelinks.site/tags/短视频)。
+值得一提的是，[蜜蜂剪辑](https://beecut.cn/)可以[在线操作](https://beecut.cn/online-video-editor)，支持的视频编辑功能包括：视频转 [GIF](https://site.lovejade.cn/tags/GIF) 、视频提取音频、视频合并、视频截取、视频旋转、视频裁剪、视频截图、视频变速、视频分段导出、视频消音等，每个功能都是非常实用，从单独的需求点延伸至全方位的解决方案，协助您打造更多创意[短视频](https://site.lovejade.cn/tags/短视频)。
 
-── 出自[倾城之链 - 蜜蜂剪辑官网 | 人人都会用的简单视频剪辑软件](https://nicelinks.site/post/6040d40f0c8e4b046a18200e)
+── 出自[倾城之链 - 蜜蜂剪辑官网 | 人人都会用的简单视频剪辑软件](https://site.lovejade.cn/post/6040d40f0c8e4b046a18200e)
 
 ## [The prototyping tool for teams | Framer](https://www.framer.com/?utm_source=nicelinks.site)
 
-**标签**：[`设计`](https://nicelinks.site/tags/设计) · [`交互设计`](https://nicelinks.site/tags/交互设计) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`设计`](https://site.lovejade.cn/tags/设计) · [`交互设计`](https://site.lovejade.cn/tags/交互设计) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > It’s interactive design made simple—no code required, browser-based, and free for everyone. Realistic prototypes in half the time.
 
@@ -43,29 +43,29 @@
 
 做交互设计，基于 [Framer](https://framer.com/) 让你更接近真实，如果您想了解更多，可以参见 [`Get closer to real | Framer`](https://www.framer.com/why-framer/)。
 
-── 出自[倾城之链 - The prototyping tool for teams | Framer](https://nicelinks.site/post/6040a18e0c8e4b046a18200c)
+── 出自[倾城之链 - The prototyping tool for teams | Framer](https://site.lovejade.cn/post/6040a18e0c8e4b046a18200c)
 
 ## [Convertio — File Converter](https://convertio.co/?utm_source=nicelinks.site)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`在线`](https://nicelinks.site/tags/在线) · [`转换`](https://nicelinks.site/tags/转换)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`在线`](https://site.lovejade.cn/tags/在线) · [`转换`](https://site.lovejade.cn/tags/转换)
 
 > Convertio - Easy tool to convert files online. More than 309 different document, image, spreadsheet, ebook, archive, presentation, audio and video formats supported.
 
 ![倾城之链 - Convertio — File Converter](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/convertio.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Convertio](https://convertio.co/) - 使用简单的在线转换文件工具。支持超过 309 种不同的文档、图像、电子表格、电子书、档案、演示文稿、音频和视频格式，并且提供 [Chrome](https://nicelinks.site/tags/Chrome) 扩展程序。该网站，始于 2014 年，以考虑用户体验为宗旨，如今，[Convertio](https://convertio.co/) 已跻身全球 1000 个访问量最大的网站之列。它有以下功能特点：
+**推荐语**：[Convertio](https://convertio.co/) - 使用简单的在线转换文件工具。支持超过 309 种不同的文档、图像、电子表格、电子书、档案、演示文稿、音频和视频格式，并且提供 [Chrome](https://site.lovejade.cn/tags/Chrome) 扩展程序。该网站，始于 2014 年，以考虑用户体验为宗旨，如今，[Convertio](https://convertio.co/) 已跻身全球 1000 个访问量最大的网站之列。它有以下功能特点：
 
 - 每天他们转换超 过**1,000,000** 个文件；
 - 每月转换超过 **1 PB** 的数据；
 - 每月有超过**一千万的**人使用他们的服务；
-- **超过 100** 万人使用他们的 [Chrome](https://nicelinks.site/tags/Chrome) 扩展程序；
+- **超过 100** 万人使用他们的 [Chrome](https://site.lovejade.cn/tags/Chrome) 扩展程序；
 - 支持 **300 多种**文件格式之间的 **25600 多种**转换。
 
-── 出自[倾城之链 - Convertio — File Converter](https://nicelinks.site/post/603f91280c8e4b046a182007)
+── 出自[倾城之链 - Convertio — File Converter](https://site.lovejade.cn/post/603f91280c8e4b046a182007)
 
 ## [购买美术摄影作品 - SINGULART](https://www.xinyiparis.cn/?utm_source=nicelinks.site)
 
-**标签**：[`艺术`](https://nicelinks.site/tags/艺术) · [`在线`](https://nicelinks.site/tags/在线) · [`摄影`](https://nicelinks.site/tags/摄影)
+**标签**：[`艺术`](https://site.lovejade.cn/tags/艺术) · [`在线`](https://site.lovejade.cn/tags/在线) · [`摄影`](https://site.lovejade.cn/tags/摄影)
 
 > Buy original art online by recognized and emerging artists worldwide. Discover paintings and photographs on our online art gallery and buy them directly from the artist with a certificate of authenticity, secure payment, free transport and free returns.
 
@@ -73,11 +73,11 @@
 
 **推荐语**：[Singulart | Art for Sale](https://www.xinyiparis.cn/) 是一个在线购买美术摄影作品（当代，全球公认的和新兴的艺术家的原创艺术作品）的网站。您可以在此云端画廊，发现绘画和照片，可直接从艺术家那里购买，并提供真实性证书，➽ 安全支付，➽ 免费运输和 ➽ 免费退货。值得一提的是，您可以在该网站，通过中文搜索，或者按照艺术类型、主题、类别、手法等，筛选自己想要发现的艺术 🎨 品，即便不购买，也能领略艺术结晶（当然，如果您略懂一点浏览器技术或工具，您也可以将其下载至本地欣赏）。
 
-── 出自[倾城之链 - 购买美术摄影作品 - SINGULART](https://nicelinks.site/post/603f8a210c8e4b046a182005)
+── 出自[倾城之链 - 购买美术摄影作品 - SINGULART](https://site.lovejade.cn/post/603f8a210c8e4b046a182005)
 
 ## [Redis](https://redis.io/?utm_source=nicelinks.site)
 
-**标签**：[`Redis`](https://nicelinks.site/tags/Redis) · [`数据库`](https://nicelinks.site/tags/数据库) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`Redis`](https://site.lovejade.cn/tags/Redis) · [`数据库`](https://site.lovejade.cn/tags/数据库) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：Redis, open source, data structure store, database, cache, message broker, hashes, lists
 
@@ -89,13 +89,13 @@
 
 为了实现最高性能，[Redis](https://redis.io/) 使用内存数据集工作。根据你的使用情况，你可以通过定期将数据集转储到磁盘或将每个命令附加到基于磁盘的日志来持久化你的数据。如果你只是需要一个功能丰富、网络化的内存缓存，你也可以禁用持久化。[Redis](https://redis.io/) 还支持异步复制，具有非常快速的非阻塞式首次同步，以及在网络拆分时具有部分重新同步的自动重新连接。
 
-Redis 功能非常强大，可以用于非常多场景。如在缓存应用方面，因为她内存数据结构存储，因而拥有快速、稳定等特性，并且支持数据快照功能，开发人员可以通过配置文件，制定数据快照时间间隔，Redis 会将数据快照自动存放于硬盘中，这样即便服务器突然停止服务，Redis 也极少会出现丢失数据的现象。近些年来越来越多的大型物联网公司，开始使用 Rdeis 作为缓存服务器。就[倾城之链](https://nicelinks.site/)后台服务，基于 MongoDB 数据存储，使用 Redis 来缓存 API，极大提升了应用性能。如果您有开发自己的应用，Redis ── 您值得使用。
+Redis 功能非常强大，可以用于非常多场景。如在缓存应用方面，因为她内存数据结构存储，因而拥有快速、稳定等特性，并且支持数据快照功能，开发人员可以通过配置文件，制定数据快照时间间隔，Redis 会将数据快照自动存放于硬盘中，这样即便服务器突然停止服务，Redis 也极少会出现丢失数据的现象。近些年来越来越多的大型物联网公司，开始使用 Rdeis 作为缓存服务器。就[倾城之链](https://site.lovejade.cn/)后台服务，基于 MongoDB 数据存储，使用 Redis 来缓存 API，极大提升了应用性能。如果您有开发自己的应用，Redis ── 您值得使用。
 
-── 出自[倾城之链 - Redis](https://nicelinks.site/post/603e39560c8e4b046a182003)
+── 出自[倾城之链 - Redis](https://site.lovejade.cn/post/603e39560c8e4b046a182003)
 
 ## [在线隐私保护工具，免费接码小号 - 随用随弃](https://www.suiyongsuiqi.com/?utm_source=nicelinks.site)
 
-**标签**：[`临时`](https://nicelinks.site/tags/临时) · [`邮箱`](https://nicelinks.site/tags/邮箱) · [`短信`](https://nicelinks.site/tags/短信)
+**标签**：[`临时`](https://site.lovejade.cn/tags/临时) · [`邮箱`](https://site.lovejade.cn/tags/邮箱) · [`短信`](https://site.lovejade.cn/tags/短信)
 
 **关键字**：在线接码平台, 验证码接收平台, 手机验证码接收平台, 短信验证码接收, 临时手机号, 免费接码, 保护隐私, sms 接收, 云短信, 隐私小号, sms record, 短信接码, 手机短信小号
 
@@ -103,13 +103,13 @@ Redis 功能非常强大，可以用于非常多场景。如在缓存应用方�
 
 ![倾城之链 - 在线隐私保护工具，免费接码小号 - 随用随弃](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.suiyongsuiqi.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[在线隐私保护工具](https://www.suiyongsuiqi.com/)是一款[在线](https://nicelinks.site/tags/在线)工具平台，提供临时手机号接码、一次性手机短信验证码接收服务、临时邮箱服务（可自定义设定邮箱地址）等，您可以用它来保护自己的隐私。另外，该网站，还提供[短链接](https://nicelinks.site/tags/短链接)、以及阅后即焚（也支持设定有限期：10 分钟～ 365 天）的功能。
+**推荐语**：[在线隐私保护工具](https://www.suiyongsuiqi.com/)是一款[在线](https://site.lovejade.cn/tags/在线)工具平台，提供临时手机号接码、一次性手机短信验证码接收服务、临时邮箱服务（可自定义设定邮箱地址）等，您可以用它来保护自己的隐私。另外，该网站，还提供[短链接](https://site.lovejade.cn/tags/短链接)、以及阅后即焚（也支持设定有限期：10 分钟～ 365 天）的功能。
 
-── 出自[倾城之链 - 在线隐私保护工具，免费接码小号 - 随用随弃](https://nicelinks.site/post/603db173927df32aa12de4d4)
+── 出自[倾城之链 - 在线隐私保护工具，免费接码小号 - 随用随弃](https://site.lovejade.cn/post/603db173927df32aa12de4d4)
 
 ## [牛客网-找工作神器|笔试题库|面试经验|实习招聘内推](https://www.nowcoder.com/?utm_source=nicelinks.site)
 
-**标签**：[`面试`](https://nicelinks.site/tags/面试) · [`工作`](https://nicelinks.site/tags/工作) · [`互联网`](https://nicelinks.site/tags/互联网)
+**标签**：[`面试`](https://site.lovejade.cn/tags/面试) · [`工作`](https://site.lovejade.cn/tags/工作) · [`互联网`](https://site.lovejade.cn/tags/互联网)
 
 **关键字**：牛客网, C++笔试面试, Java 笔试面试, 计算机笔试, 计算机面试, IT 笔试, 笔试题库, 笔试练习, IT 面试, 在线编程, 编程学习, 牛客网
 
@@ -131,7 +131,7 @@ Redis 功能非常强大，可以用于非常多场景。如在缓存应用方�
 
 2014 年获得 400 万元天使轮融资，资方为策源创投和景林投资。2016 年完成 1000 万元 pre-A 轮融资；2018 年完成千万人民币 A 轮融资，由 58 同城领投，正保远程跟投。
 
-── 出自[倾城之链 - 牛客网-找工作神器|笔试题库|面试经验|实习招聘内推](https://nicelinks.site/post/603b8532927df32aa12de4d2)
+── 出自[倾城之链 - 牛客网-找工作神器|笔试题库|面试经验|实习招聘内推](https://site.lovejade.cn/post/603b8532927df32aa12de4d2)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

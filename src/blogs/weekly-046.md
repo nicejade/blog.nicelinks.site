@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [metaSEO - Meta tags for best SEO](https://nicelinks.site/post/61cda1a15be6454b4e3d514e)
+## [metaSEO - Meta tags for best SEO](https://site.lovejade.cn/post/61cda1a15be6454b4e3d514e)
 
-**标签**：[`SEO`](https://nicelinks.site/tags/SEO) · [`工具`](https://nicelinks.site/tags/工具) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`SEO`](https://site.lovejade.cn/tags/SEO) · [`工具`](https://site.lovejade.cn/tags/工具) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 > Generate meta tags in one click for the best SEO of your website, rank high in search results, and appear unique when someone shares your link!
 
@@ -12,11 +12,11 @@
 
 **推荐语**：[metaSEO](https://metaseo.itsvg.in/)，一个 SEO 相关的工具网站；支持一键生成元标签（meta tags，会增加社交相关属性，如 `twitter:description` 等），为您的网站提供最佳的搜索引擎优化，使得在搜索结果中排名靠前；当有人在推特（twitter）等平台分享您的链接时，会显得很独特。实际使用，需要您自己输入网站名称、描述、关键字以及预览图片网址等信息（这一点，其实可以继续优化：先抓取，没有获取到再让用户自己填写）。
 
-── 出自[倾城之链 - metaSEO - Meta tags for best SEO](https://nicelinks.site/post/61cda1a15be6454b4e3d514e)
+── 出自[倾城之链 - metaSEO - Meta tags for best SEO](https://site.lovejade.cn/post/61cda1a15be6454b4e3d514e)
 
-## [更点 - 自编书平台: 微信书 博客印书 QQ 空间印书 微博印书](https://nicelinks.site/post/61cbfca65be6454b4e3d514c)
+## [更点 - 自编书平台: 微信书 博客印书 QQ 空间印书 微博印书](https://site.lovejade.cn/post/61cbfca65be6454b4e3d514c)
 
-**标签**：[`旅行`](https://nicelinks.site/tags/旅行) · [`在线`](https://nicelinks.site/tags/在线) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`旅行`](https://site.lovejade.cn/tags/旅行) · [`在线`](https://site.lovejade.cn/tags/在线) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：微信书, 自编书, 朋友圈印书, 相册, 微博印书, 博客印书, QQ 相册印书, QQ 说说印书, QQ 日志印书, 途牛游记印书, 电子书, 印刷, 礼品, 朋友圈做书, 博客做书, 微博做书, QQ 空间做书, 公众号文章做书
 
@@ -26,11 +26,11 @@
 
 **推荐语**：[更点](https://www.upzao.com/)，一个在线自编书平台；支持在线编辑书和相册，图文编排，实时预览；适合：微信书、博客书、QQ 说说日志书、微博书、纪念册、写作书。可导入各社交网站内容，制作旅游集、宝宝相册、博客日志书等。已经支持：微信书、新浪/网易/搜狐博客成书、QQ 日志/说说成书、公众号文章成书、微博成书、美篇文章成书、知乎专栏成书、豆瓣日记成书等。鲜有接触类似产品，有尝试导入公众号内容来编书，一番操作，与预期似乎不太相符。
 
-── 出自[倾城之链 - 更点 - 自编书平台: 微信书 博客印书 QQ 空间印书 微博印书](https://nicelinks.site/post/61cbfca65be6454b4e3d514c)
+── 出自[倾城之链 - 更点 - 自编书平台: 微信书 博客印书 QQ 空间印书 微博印书](https://site.lovejade.cn/post/61cbfca65be6454b4e3d514c)
 
-## [GraphQL | A query language for your API](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148)
+## [GraphQL | A query language for your API](https://site.lovejade.cn/post/61c9a2d25be6454b4e3d5148)
 
-**标签**：[`GraphQL`](https://nicelinks.site/tags/GraphQL) · [`API`](https://nicelinks.site/tags/API) · [`编程`](https://nicelinks.site/tags/编程)
+**标签**：[`GraphQL`](https://site.lovejade.cn/tags/GraphQL) · [`API`](https://site.lovejade.cn/tags/API) · [`编程`](https://site.lovejade.cn/tags/编程)
 
 > A query language for your API — GraphQL provides a complete description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
@@ -46,19 +46,19 @@
 - **无需版本即可发展您的 API**：在不影响现有查询的情况下向 GraphQL API 添加新字段和类型。老化字段可以被弃用并从工具中隐藏。通过使用一个不断发展的版本，GraphQL API 使应用程序能够持续访问新功能，并鼓励使用更简洁、更易于维护的服务器代码。
 - **自带数据和代码**：GraphQL 在整个应用程序中创建统一的 API，而不受特定存储引擎的限制。编写 GraphQL API，利用您现有的数据和代码以及多种语言的 GraphQL 引擎。您为类型系统中的每个字段提供函数，GraphQL 以最佳并发调用它们。
 
-[GraphQL](https://graphql.org/) 由 Facebook 开发，并于 2012 年首次应用于移动应用。GraphQL 规范于 2015 年实现开源。现在，它受 [GraphQL 基金会](https://foundation.graphql.org/)监管。值得一提的是，著名开源框架 [GatsbyJS](https://nicelinks.site/post/5e0d4f3016bdad16b0f5b20e) 就基于 [GraphQL](https://graphql.org/) 所构建，您可以通过使用它快速体验 GraphQL 的强大。
+[GraphQL](https://graphql.org/) 由 Facebook 开发，并于 2012 年首次应用于移动应用。GraphQL 规范于 2015 年实现开源。现在，它受 [GraphQL 基金会](https://foundation.graphql.org/)监管。值得一提的是，著名开源框架 [GatsbyJS](https://site.lovejade.cn/post/5e0d4f3016bdad16b0f5b20e) 就基于 [GraphQL](https://graphql.org/) 所构建，您可以通过使用它快速体验 GraphQL 的强大。
 
-── 出自[倾城之链 - GraphQL | A query language for your API](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148)
+── 出自[倾城之链 - GraphQL | A query language for your API](https://site.lovejade.cn/post/61c9a2d25be6454b4e3d5148)
 
-## [Next.js by Vercel - The React Framework](https://nicelinks.site/post/61c928af5be6454b4e3d5146)
+## [Next.js by Vercel - The React Framework](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146)
 
-**标签**：[`React`](https://nicelinks.site/tags/React) · [`Web开发`](https://nicelinks.site/tags/Web开发) · [`网站生成器`](https://nicelinks.site/tags/网站生成器)
+**标签**：[`React`](https://site.lovejade.cn/tags/React) · [`Web开发`](https://site.lovejade.cn/tags/Web开发) · [`网站生成器`](https://site.lovejade.cn/tags/网站生成器)
 
 > Production grade React applications that scale. The world’s leading companies use Next.js by Vercel to build static and dynamic websites and web applications.
 
 ![倾城之链 - Next.js by Vercel - The React Framework](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/nextjs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Next.js](https://nextjs.org/)，一个用于 生产环境的 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。它具有以下功能特征：
+**推荐语**：[Next.js](https://nextjs.org/)，一个用于 生产环境的 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 框架，为您提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取等。无需配置。它具有以下功能特征：
 
 - **图像组件和图像优化**：自带 image 组件，改进的性能、视觉稳定性、更快的页面加载、资产灵活性。
 - **Next.js 分析**：基于真实访问者数据，以及逐页洞察的真实灯塔（Lighthouse）分数；
@@ -74,7 +74,7 @@
 
 [Next.js](https://nextjs.org/) 正在为变得更好而努力，如今，越来越多的公司在使用并喜爱 [next.js](https://nextjs.org/)，您可以 [Next.js Showcase](https://nextjs.org/showcase) 了解到基于它所构建的精美网站。
 
-── 出自[倾城之链 - Next.js by Vercel - The React Framework](https://nicelinks.site/post/61c928af5be6454b4e3d5146)
+── 出自[倾城之链 - Next.js by Vercel - The React Framework](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

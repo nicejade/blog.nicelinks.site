@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Thinkbuddy - A MacOS Interface of AI](https://nicelinks.site/post/65e07f84a970fb4def8bb113)
+## [Thinkbuddy - A MacOS Interface of AI](https://site.lovejade.cn/post/65e07f84a970fb4def8bb113)
 
-**标签**：[`ChatGPT`](https://nicelinks.site/tags/ChatGPT) · [`Mac`](https://nicelinks.site/tags/Mac) · [`AI`](https://nicelinks.site/tags/AI)
+**标签**：[`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT) · [`Mac`](https://site.lovejade.cn/tags/Mac) · [`AI`](https://site.lovejade.cn/tags/AI)
 
 > Simplify life with AI at your fingertips. All-in-one AI suite that seamlessly integrates your voice to maximize your productivity with the best price on Mac.
 
 ![倾城之链 - Thinkbuddy - A MacOS Interface of AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/thinkbuddy.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Thinkbuddy](https://thinkbuddy.ai/) ，适用于 MacOS 的 [ChatGPT](https://nicelinks.site/tags/ChatGPT) ，你的 Mac 现在可以与人工智能对话；通过能够倾听、阅读和参与的 AI 来增强您的 [Mac](https://nicelinks.site/tags/Mac) ，提供全天生产力帮助。**完全免费** ，最多 50 条消息；官方团队指出，Thinkbuddy 是  MacOS 用户通往 AI 的门户（Gateway），它可以提供如下功能：
+**推荐语**：[Thinkbuddy](https://thinkbuddy.ai/) ，适用于 MacOS 的 [ChatGPT](https://site.lovejade.cn/tags/ChatGPT) ，你的 Mac 现在可以与人工智能对话；通过能够倾听、阅读和参与的 AI 来增强您的 [Mac](https://site.lovejade.cn/tags/Mac) ，提供全天生产力帮助。**完全免费** ，最多 50 条消息；官方团队指出，Thinkbuddy 是  MacOS 用户通往 AI 的门户（Gateway），它可以提供如下功能：
 
 - 🗣️ 交谈和输入 — 将语音转换为文本或轻松输入 AI 问题。
 - 🔍 Screenshot AI — 使用 GPT4V 等多模式 LLM 分析屏幕截图。
@@ -19,17 +19,17 @@
 - ✍️ Inline Writer — 语法、风格和写作建议立即实现！
 - 📝 文本助手 — 提高写作风格、语法并提供改进。✨
 - 即时 AI 激活 — 使用键盘快捷键立即激活 AI 帮助。
-- 🌐 [Gemini](https://nicelinks.site/post/65d4a90ff4e2d519ef5c862b) + 其他 LLM — 访问 Google 的 Gemini 和即将推出的开源模型。
+- 🌐 [Gemini](https://site.lovejade.cn/post/65d4a90ff4e2d519ef5c862b) + 其他 LLM — 访问 Google 的 Gemini 和即将推出的开源模型。
 - 📚 提示库 — 通过从预先创建的提示中获得灵感来创建您的提示库。
 - 💸 经济实惠的 AI 访问 — 通过 167 美元的终身优惠，以经济实惠的价格获得高级功能。
 
-总之，Thinkbuddy 旨在改变您的 Mac。它使用语音或屏幕截图询问 AI、通过文本选择执行命令、创建/保存自定义提示、自定义快速使用快捷方式以及使用 Whisper 进行口述。选择 [AI](https://nicelinks.site/tags/AI) 模型以获得无缝、高效的 MacOS 体验。
+总之，Thinkbuddy 旨在改变您的 Mac。它使用语音或屏幕截图询问 AI、通过文本选择执行命令、创建/保存自定义提示、自定义快速使用快捷方式以及使用 Whisper 进行口述。选择 [AI](https://site.lovejade.cn/tags/AI) 模型以获得无缝、高效的 MacOS 体验。
 
-── 出自[倾城之链 - Thinkbuddy - A MacOS Interface of AI](https://nicelinks.site/post/65e07f84a970fb4def8bb113)
+── 出自[倾城之链 - Thinkbuddy - A MacOS Interface of AI](https://site.lovejade.cn/post/65e07f84a970fb4def8bb113)
 
-## [梅赛德斯-奔驰](https://nicelinks.site/post/65df4abea970fb4def8ba9d0)
+## [梅赛德斯-奔驰](https://site.lovejade.cn/post/65df4abea970fb4def8ba9d0)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`产品`](https://nicelinks.site/tags/产品) · [`创造`](https://nicelinks.site/tags/创造)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`产品`](https://site.lovejade.cn/tags/产品) · [`创造`](https://site.lovejade.cn/tags/创造)
 
 > #心所向，驰以恒# 梅赛德斯-奔驰，创新激情永不灭。作为汽车发明者,我们从未停下脚步，探索，创造，颠覆，革新，为心中所向，驰之以恒！
 
@@ -73,29 +73,29 @@
 
 总之，**梅赛德斯-奔驰**是德国汽车制造商，以豪华、高品质和创新技术闻名。其产品包括轿车、SUV 和高性能跑车等多种车型，注重安全性、舒适性和性能。公司在全球市场具有重要地位，被视为奢华汽车领域的领导者之一。梅赛德斯-奔驰不断推动电动化和智能化发展，致力于打造更环保、智能的出行解决方案，延续着百年传统，在引领汽车行业发展的道路上稳健前行。
 
-── 出自[倾城之链 - 梅赛德斯-奔驰](https://nicelinks.site/post/65df4abea970fb4def8ba9d0)
+── 出自[倾城之链 - 梅赛德斯-奔驰](https://site.lovejade.cn/post/65df4abea970fb4def8ba9d0)
 
-## [Chris Georgenes - Keyframer](https://nicelinks.site/post/65df4854a970fb4def8ba9c5)
+## [Chris Georgenes - Keyframer](https://site.lovejade.cn/post/65df4854a970fb4def8ba9c5)
 
-**标签**：[`动画`](https://nicelinks.site/tags/动画) · [`有趣`](https://nicelinks.site/tags/有趣) · [`教程`](https://nicelinks.site/tags/教程)
+**标签**：[`动画`](https://site.lovejade.cn/tags/动画) · [`有趣`](https://site.lovejade.cn/tags/有趣) · [`教程`](https://site.lovejade.cn/tags/教程)
 
 > Hello! I am an animator that loves to create fun animations using Adobe products!
 
 ![倾城之链 - Chris Georgenes - Keyframer](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/keyframer.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Keyframer](https://keyframer.com/) 是一个承载 [动画](https://nicelinks.site/tags/动画) 相关的网站（以 YouTuBe 视频方式呈现）；作者是 Chris Georgenes，他是位经验丰富的动画师、公共演讲者和教育家，创作艺术、动画、音乐、摄影、教程。Chris Georgenes 拥有哈特福德艺术学院的版画和插画学位，担任动画师已有 20 多年，为各种客户创造了令人惊叹的视觉效果。除了动画工作之外，他还成为一名炙手可热的演讲者和教师，并多次在会议和研讨会上发表演讲，帮助学生和专业人士学习 Adob​​e 软件的基础知识。
+**推荐语**：[Keyframer](https://keyframer.com/) 是一个承载 [动画](https://site.lovejade.cn/tags/动画) 相关的网站（以 YouTuBe 视频方式呈现）；作者是 Chris Georgenes，他是位经验丰富的动画师、公共演讲者和教育家，创作艺术、动画、音乐、摄影、教程。Chris Georgenes 拥有哈特福德艺术学院的版画和插画学位，担任动画师已有 20 多年，为各种客户创造了令人惊叹的视觉效果。除了动画工作之外，他还成为一名炙手可热的演讲者和教师，并多次在会议和研讨会上发表演讲，帮助学生和专业人士学习 Adob​​e 软件的基础知识。
 
-── 出自[倾城之链 - Chris Georgenes - Keyframer](https://nicelinks.site/post/65df4854a970fb4def8ba9c5)
+── 出自[倾城之链 - Chris Georgenes - Keyframer](https://site.lovejade.cn/post/65df4854a970fb4def8ba9c5)
 
-## [Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://nicelinks.site/post/65dc9599f4e2d519ef5cc9cf)
+## [Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://site.lovejade.cn/post/65dc9599f4e2d519ef5cc9cf)
 
-**标签**：[`评论系统`](https://nicelinks.site/tags/评论系统) · [`开源`](https://nicelinks.site/tags/开源) · [`产品`](https://nicelinks.site/tags/产品)
+**标签**：[`评论系统`](https://site.lovejade.cn/tags/评论系统) · [`开源`](https://site.lovejade.cn/tags/开源) · [`产品`](https://site.lovejade.cn/tags/产品)
 
 > 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system 。
 
 ![倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/twikoo.js.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Twikoo](https://twikoo.js.org/) ，一个**简洁**、**安全**、**免费**的静态网站 [评论系统](https://nicelinks.site/tags/评论系统) ，官方给出更详尽的描述：
+**推荐语**：[Twikoo](https://twikoo.js.org/) ，一个**简洁**、**安全**、**免费**的静态网站 [评论系统](https://site.lovejade.cn/tags/评论系统) ，官方给出更详尽的描述：
 
 ### 🚀 简单
 
@@ -143,13 +143,13 @@
 - 支持隐藏管理入口，通过输入暗号显示；
 - 支持从 Valine、Artalk、Disqus 导入评论；
 
-关于评论系统，有使用的蛮多产品；如 [Waline](https://nicelinks.site/post/61e6e0783bc516243751509b) 、Disqus 等； [Twikoo](https://twikoo.js.org/) 功能则更为丰富，值得部署尝试。如果您对这款评论系统感兴趣，可移步至 [Twikoo 在 Github 开源仓库](https://github.com/twikoojs/twikoo) ，从而了解更多。
+关于评论系统，有使用的蛮多产品；如 [Waline](https://site.lovejade.cn/post/61e6e0783bc516243751509b) 、Disqus 等； [Twikoo](https://twikoo.js.org/) 功能则更为丰富，值得部署尝试。如果您对这款评论系统感兴趣，可移步至 [Twikoo 在 Github 开源仓库](https://github.com/twikoojs/twikoo) ，从而了解更多。
 
-── 出自[倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://nicelinks.site/post/65dc9599f4e2d519ef5cc9cf)
+── 出自[倾城之链 - Twikoo | 一个简洁、安全、免费的静态网站评论系统](https://site.lovejade.cn/post/65dc9599f4e2d519ef5cc9cf)
 
-## [AsPoem | 现代化中国诗词学习网站](https://nicelinks.site/post/65dc7e2ff4e2d519ef5cc990)
+## [AsPoem | 现代化中国诗词学习网站](https://site.lovejade.cn/post/65dc7e2ff4e2d519ef5cc990)
 
-**标签**：[`诗词`](https://nicelinks.site/tags/诗词) · [`人文`](https://nicelinks.site/tags/人文) · [`发现`](https://nicelinks.site/tags/发现)
+**标签**：[`诗词`](https://site.lovejade.cn/tags/诗词) · [`人文`](https://site.lovejade.cn/tags/人文) · [`发现`](https://site.lovejade.cn/tags/发现)
 
 **关键字**：中国诗词学习, 现代化诗词网站, 全站搜索诗词, 拼音标注诗词, 注释诗词, 白话文翻译诗词, 学习唐诗宋词, 诗词学习网站推荐, poem in chinese
 
@@ -157,21 +157,21 @@
 
 ![倾城之链 - AsPoem | 现代化中国诗词学习网站](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/aspoem.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[aspoem.com](https://aspoem.com/) ：一个面很爽干净、现代化、 [开源](https://nicelinks.site/tags/开源) 的中国诗词学习、展示网站；它提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅。
+**推荐语**：[aspoem.com](https://aspoem.com/) ：一个面很爽干净、现代化、 [开源](https://site.lovejade.cn/tags/开源) 的中国诗词学习、展示网站；它提供全站搜索、拼音标注、注释和白话文翻译等功能。无论您对唐诗宋词感兴趣还是想深入学习，都是您的理想选择，从这里开始您的诗歌之旅。
 
-[aspoem.com](https://aspoem.com/) 基于 [prisma](https://nicelinks.site/post/64531bfdc6f2367a83e863ff) 、 [nextjs](https://nicelinks.site/post/61c928af5be6454b4e3d5146) 、 [TailwindCSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 、 [shadcn/ui](https://nicelinks.site/post/63d9140a3b0bd5224de204a9) 、 [PostgreSQL](https://nicelinks.site/post/6427c63b2d6c9c63445ca2d8) + [supabase](https://nicelinks.site/post/648708956cb99b599be080bb) 、twikoo 等技术栈所构建，如果您对其感兴趣，可移步至 [aspoem.com 在 Github 开源仓库](https://github.com/meetqy/aspoem) ，从而了解更多。
+[aspoem.com](https://aspoem.com/) 基于 [prisma](https://site.lovejade.cn/post/64531bfdc6f2367a83e863ff) 、 [nextjs](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146) 、 [TailwindCSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 、 [shadcn/ui](https://site.lovejade.cn/post/63d9140a3b0bd5224de204a9) 、 [PostgreSQL](https://site.lovejade.cn/post/6427c63b2d6c9c63445ca2d8) + [supabase](https://site.lovejade.cn/post/648708956cb99b599be080bb) 、twikoo 等技术栈所构建，如果您对其感兴趣，可移步至 [aspoem.com 在 Github 开源仓库](https://github.com/meetqy/aspoem) ，从而了解更多。
 
-── 出自[倾城之链 - AsPoem | 现代化中国诗词学习网站](https://nicelinks.site/post/65dc7e2ff4e2d519ef5cc990)
+── 出自[倾城之链 - AsPoem | 现代化中国诗词学习网站](https://site.lovejade.cn/post/65dc7e2ff4e2d519ef5cc990)
 
-## [Starlight 🌟 Build documentation sites with Astro](https://nicelinks.site/post/65db0fd9f4e2d519ef5cc1ec)
+## [Starlight 🌟 Build documentation sites with Astro](https://site.lovejade.cn/post/65db0fd9f4e2d519ef5cc1ec)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`文档`](https://nicelinks.site/tags/文档) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`文档`](https://site.lovejade.cn/tags/文档) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Starlight helps you build beautiful, high-performance documentation websites with Astro.
 
 ![倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/starlight.astro.build.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Starlight](https://starlight.astro.build/) ：🌟 使用 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 构建美观、可访问、高性能的文档网站；使用它，可以让您的文档闪耀星光（Shine with Starlight），构建一流文档网站所需的一切。快速、方便且易于使用。官方有给出如下功能特征：
+**推荐语**：[Starlight](https://starlight.astro.build/) ：🌟 使用 [Astro](https://site.lovejade.cn/post/63788ad1049fa51046c4a5bd) 构建美观、可访问、高性能的文档网站；使用它，可以让您的文档闪耀星光（Shine with Starlight），构建一流文档网站所需的一切。快速、方便且易于使用。官方有给出如下功能特征：
 
 ### 令人高兴的文档
 
@@ -181,21 +181,21 @@
 
 充分利用 Astro 的全部功能和性能。使用您最喜欢的 Astro 集成和库来扩展 Starlight。
 
-### Markdown、Markdoc 和 [MDX](https://nicelinks.site/post/63e4e3eee63ccd089dee6686)
+### Markdown、Markdoc 和 [MDX](https://site.lovejade.cn/post/63e4e3eee63ccd089dee6686)
 
 带上您最喜欢的标记语言。Starlight 为您提供内置的 frontmatter 验证和 TypeScript 类型安全。
 
 ### 自带 UI 组件
 
-Starlight 作为一个与框架无关的完整文档解决方案提供。使用 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://nicelinks.site/post/62a9c2ad90509e23cea772c0) 、 [Solid](https://nicelinks.site/post/6329ab4f36feb75b35987e2a) 等进行扩展。
+Starlight 作为一个与框架无关的完整文档解决方案提供。使用 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 、 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、 [Svelte](https://site.lovejade.cn/post/62a9c2ad90509e23cea772c0) 、 [Solid](https://site.lovejade.cn/post/6329ab4f36feb75b35987e2a) 等进行扩展。
 
-总之， [Starlight](https://starlight.astro.build/) 是一个构建在 [Astro](https://nicelinks.site/post/63788ad1049fa51046c4a5bd) 框架之上的全功能文档主题；使用它，可以快速为您搭建体验良好的在线文档（操作简单、界面美观、功能齐全、速度超快），而且您还可以基于您喜欢的框架来加以扩展。在`倾城`收录的多个 [网站生成器](https://nicelinks.site/tags/网站生成器) （静态）中，当属 Starlight 最令人满意。如果您对其感兴趣，不妨移步至 [Starlight 在 Github 开源仓库](https://github.com/withastro/starlight) ，从而了解更多。
+总之， [Starlight](https://starlight.astro.build/) 是一个构建在 [Astro](https://site.lovejade.cn/post/63788ad1049fa51046c4a5bd) 框架之上的全功能文档主题；使用它，可以快速为您搭建体验良好的在线文档（操作简单、界面美观、功能齐全、速度超快），而且您还可以基于您喜欢的框架来加以扩展。在`倾城`收录的多个 [网站生成器](https://site.lovejade.cn/tags/网站生成器) （静态）中，当属 Starlight 最令人满意。如果您对其感兴趣，不妨移步至 [Starlight 在 Github 开源仓库](https://github.com/withastro/starlight) ，从而了解更多。
 
-── 出自[倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://nicelinks.site/post/65db0fd9f4e2d519ef5cc1ec)
+── 出自[倾城之链 - Starlight 🌟 Build documentation sites with Astro](https://site.lovejade.cn/post/65db0fd9f4e2d519ef5cc1ec)
 
-## [Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://nicelinks.site/post/65db0d4cf4e2d519ef5cc11c)
+## [Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://site.lovejade.cn/post/65db0d4cf4e2d519ef5cc11c)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`在线`](https://nicelinks.site/tags/在线) · [`有趣`](https://nicelinks.site/tags/有趣)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`在线`](https://site.lovejade.cn/tags/在线) · [`有趣`](https://site.lovejade.cn/tags/有趣)
 
 > character.ai is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
 
@@ -219,7 +219,7 @@ Starlight 作为一个与框架无关的完整文档解决方案提供。使用 
 
 总之， [Character.ai](https://beta.character.ai/) 是一款神经语言模型聊天机器人网络应用程序。利用该程序，用户可以创建“虚拟人物”，精心设计他们的“个性”，设置特定的参数，然后将他们发布到社区，供其他人聊天。许多角色可能是基于虚构人物或名人，另些角色完全原创；有些是为了某些目的而制作的，如协助写作或成为一个基于文本的冒险游戏。用户可以与一个虚拟角色聊天，或组织包含多个虚拟角色的讨论组并同时与虚拟角色或其他用户聊天。
 
-── 出自[倾城之链 - Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://nicelinks.site/post/65db0d4cf4e2d519ef5cc11c)
+── 出自[倾城之链 - Character.ai | 一款神经语言模型聊天机器人网络应用程序](https://site.lovejade.cn/post/65db0d4cf4e2d519ef5cc11c)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [美国宇航局（NASA）图像和视频库](https://nicelinks.site/post/61c49b7f70b0de20e2d01b34)
+## [美国宇航局（NASA）图像和视频库](https://site.lovejade.cn/post/61c49b7f70b0de20e2d01b34)
 
-**标签**：[`图片`](https://nicelinks.site/tags/图片) · [`在线`](https://nicelinks.site/tags/在线)
+**标签**：[`图片`](https://site.lovejade.cn/tags/图片) · [`在线`](https://site.lovejade.cn/tags/在线)
 
 **关键字**：NASA, Image, Video
 
@@ -14,11 +14,11 @@
 
 **推荐语**：[NASA 图像和视频库](https://images.nasa.gov/)，带你看宇宙太空相关图片、视频、及声音；支持检索。它用于再现 3 维模型的图像、音频、视频和计算机文件，例如任何格式的纹理贴图和多边形数据；您可以将此材料用于教育或信息目的，包括照片集、教科书、公共展览、计算机图形模拟和 Internet 网页。此一般权限扩展到个人网页。NASA 拥有大量 在线图像 和 视频库，包括 历史图像、 当前任务、 天文图片、 地球图像 以及 搜索 NASA 图像的方法。
 
-── 出自[倾城之链 - 美国宇航局（NASA）图像和视频库](https://nicelinks.site/post/61c49b7f70b0de20e2d01b34)
+── 出自[倾城之链 - 美国宇航局（NASA）图像和视频库](https://site.lovejade.cn/post/61c49b7f70b0de20e2d01b34)
 
-## [Windi CSS](https://nicelinks.site/post/61c46afb70b0de20e2d01b32)
+## [Windi CSS](https://site.lovejade.cn/post/61c46afb70b0de20e2d01b32)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`框架`](https://nicelinks.site/tags/框架) · [`Web开发`](https://nicelinks.site/tags/Web开发)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`框架`](https://site.lovejade.cn/tags/框架) · [`Web开发`](https://site.lovejade.cn/tags/Web开发)
 
 **关键字**：windi, windicss, tailwind, tailwindcss, vitejs, svelte, vue
 
@@ -26,17 +26,17 @@
 
 ![倾城之链 - Windi CSS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/windicss.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Windi CSS](https://windicss.org/) 下一代实用优先的 CSS 框架；如果您已经熟悉 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7)，可以将 Windi CSS 视为 Tailwind 的按需替代品，它提供更快的加载时间，与 Tailwind v2.0 完全兼容，并具有许多额外的酷炫功能。
+**推荐语**：[Windi CSS](https://windicss.org/) 下一代实用优先的 CSS 框架；如果您已经熟悉 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7)，可以将 Windi CSS 视为 Tailwind 的按需替代品，它提供更快的加载时间，与 Tailwind v2.0 完全兼容，并具有许多额外的酷炫功能。
 
-“当我的项目变大了，大约有几十个组件时，初始编译时间达到了 3s，热更新用 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 花了 1s 多。“，基于这样的痛点，作者创造了 [Windi CSS](https://windicss.org/)；通过扫描您的 HTML 和 CSS 并按需生成实用程序，Windi CSS 能够在开发中提供更快的加载时间和快速的 HMR，并且不需要在生产中清除。
+“当我的项目变大了，大约有几十个组件时，初始编译时间达到了 3s，热更新用 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 花了 1s 多。“，基于这样的痛点，作者创造了 [Windi CSS](https://windicss.org/)；通过扫描您的 HTML 和 CSS 并按需生成实用程序，Windi CSS 能够在开发中提供更快的加载时间和快速的 HMR，并且不需要在生产中清除。
 
-[Windi CSS](https://windicss.org/) 支持 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 的所有 Utilities（实用程序类），无需任何额外配置。您可以像往常一样，在组件和样式表中使用[实用程序类](https://windicss.org/utilities/)，只有您使用的 Utilities （实用程序类）才会生成相应的 CSS；这对 Web 前端开发者，非常有用。
+[Windi CSS](https://windicss.org/) 支持 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 的所有 Utilities（实用程序类），无需任何额外配置。您可以像往常一样，在组件和样式表中使用[实用程序类](https://windicss.org/utilities/)，只有您使用的 Utilities （实用程序类）才会生成相应的 CSS；这对 Web 前端开发者，非常有用。
 
-── 出自[倾城之链 - Windi CSS](https://nicelinks.site/post/61c46afb70b0de20e2d01b32)
+── 出自[倾城之链 - Windi CSS](https://site.lovejade.cn/post/61c46afb70b0de20e2d01b32)
 
-## [可道云-私有云存储&协同办公平台*企业网盘*企业云盘*网盘*云盘](https://nicelinks.site/post/61c082cf70b0de20e2d01b2d)
+## [可道云-私有云存储&协同办公平台*企业网盘*企业云盘*网盘*云盘](https://site.lovejade.cn/post/61c082cf70b0de20e2d01b2d)
 
-**标签**：[`网盘`](https://nicelinks.site/tags/网盘) · [`在线`](https://nicelinks.site/tags/在线) · [`云盘`](https://nicelinks.site/tags/云盘)
+**标签**：[`网盘`](https://site.lovejade.cn/tags/网盘) · [`在线`](https://site.lovejade.cn/tags/在线) · [`云盘`](https://site.lovejade.cn/tags/云盘)
 
 **关键字**：网盘, 云盘, 私有云, 企业网盘, 企业云盘, 企业私有云, 私有云存储, 在线办公, 云网盘, 私有云搭建, 在线 office, 资源管理器, 协同办公, 文档管理
 
@@ -70,11 +70,11 @@
 
 用户只需通过简单环境搭建，即可使用 [KodExplorer](https://kodcloud.com/) 快速完成私有云、私有网盘、在线文档管理系统的部署和搭建。KOD 提供了类 Windows 用户界面，延续了 Windows 平台的操作逻辑和使用习惯，支持 100 余种文件格式的在线预览，使得用户的私有云产品可以拥有本地操作一样方便、快捷、安全的体验；为企业用户提供了了文件在线存储与管理、分享和跨平台访问、群组与权限、生产流转、审批存档等全生命周期的在线文档管理的解决方案。
 
-── 出自[倾城之链 - 可道云-私有云存储&协同办公平台*企业网盘*企业云盘*网盘*云盘](https://nicelinks.site/post/61c082cf70b0de20e2d01b2d)
+── 出自[倾城之链 - 可道云-私有云存储&协同办公平台*企业网盘*企业云盘*网盘*云盘](https://site.lovejade.cn/post/61c082cf70b0de20e2d01b2d)
 
-## [Surmon.me - 来苏之望](https://nicelinks.site/post/61bf25dd70b0de20e2d01b29)
+## [Surmon.me - 来苏之望](https://site.lovejade.cn/post/61bf25dd70b0de20e2d01b29)
 
-**标签**：[`博客`](https://nicelinks.site/tags/博客) · [`Vue`](https://nicelinks.site/tags/Vue) · [`前端开发`](https://nicelinks.site/tags/前端开发)
+**标签**：[`博客`](https://site.lovejade.cn/tags/博客) · [`Vue`](https://site.lovejade.cn/tags/Vue) · [`前端开发`](https://site.lovejade.cn/tags/前端开发)
 
 **关键字**：Surmon 博客, surmon-china, 苏尔蒙, Vue 博客, 前端技术开发博客, JavaScript 技术
 
@@ -82,21 +82,21 @@
 
 ![倾城之链 - Surmon.me - 来苏之望](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/surmon.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[surmon.me](https://surmon.me/)，使用 [Vue（3）](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 构建的个人博客网站，承载了作者对技术、编码、人生等思考；作者将网站划分为明殿、宁静寺、无色庵、丹青阁、茫涯、狂浪生、伯乐、善巧堂、四方馆等模块，来分别承载技术、Github、Vlog、内推、Freelancer、评论、旅行、主页等内容。站在个人角度看，对于技术、或者生活思考，都蛮有深度，感兴趣同学，不妨关注下。
+**推荐语**：[surmon.me](https://surmon.me/)，使用 [Vue（3）](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 构建的个人博客网站，承载了作者对技术、编码、人生等思考；作者将网站划分为明殿、宁静寺、无色庵、丹青阁、茫涯、狂浪生、伯乐、善巧堂、四方馆等模块，来分别承载技术、Github、Vlog、内推、Freelancer、评论、旅行、主页等内容。站在个人角度看，对于技术、或者生活思考，都蛮有深度，感兴趣同学，不妨关注下。
 
-── 出自[倾城之链 - Surmon.me - 来苏之望](https://nicelinks.site/post/61bf25dd70b0de20e2d01b29)
+── 出自[倾城之链 - Surmon.me - 来苏之望](https://site.lovejade.cn/post/61bf25dd70b0de20e2d01b29)
 
-## [700+ CSS Icons, Customizable, Retina Ready & API](https://nicelinks.site/post/61bdd22970b0de20e2d01b27)
+## [700+ CSS Icons, Customizable, Retina Ready & API](https://site.lovejade.cn/post/61bdd22970b0de20e2d01b27)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`SVG`](https://nicelinks.site/tags/SVG) · [`图标`](https://nicelinks.site/tags/图标)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`SVG`](https://site.lovejade.cn/tags/SVG) · [`图标`](https://site.lovejade.cn/tags/图标)
 
 > Pure CSS icons library, Customizable & Retina-Ready built 100% in pure CSS, SVG, SVG Sprite, styled-components, Figma and Adobe XD. Easy integration: Embed, NPM & API
 
 ![倾城之链 - 700+ CSS Icons, Customizable, Retina Ready & API](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/css.gg.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[css.gg](https://css.gg/)，一个非常棒的`图标`相关资源网站；是拥有 700+ 开源 CSS、SVG 和 Figma UI 的图标库，可用于 SVG Sprite、样式组件、NPM 和 API；这对 Web 开发非常有用；其每个图表，有纯 CSS、SVG、TSX（[react](https://nicelinks.site/post/5b1294b5e93ed2618cfac134)）等多种实现，另外提供了修改颜色、一键拷贝等功能，不仅拿来就能使用，而且还可以学到相关技巧。
+**推荐语**：[css.gg](https://css.gg/)，一个非常棒的`图标`相关资源网站；是拥有 700+ 开源 CSS、SVG 和 Figma UI 的图标库，可用于 SVG Sprite、样式组件、NPM 和 API；这对 Web 开发非常有用；其每个图表，有纯 CSS、SVG、TSX（[react](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134)）等多种实现，另外提供了修改颜色、一键拷贝等功能，不仅拿来就能使用，而且还可以学到相关技巧。
 
-── 出自[倾城之链 - 700+ CSS Icons, Customizable, Retina Ready & API](https://nicelinks.site/post/61bdd22970b0de20e2d01b27)
+── 出自[倾城之链 - 700+ CSS Icons, Customizable, Retina Ready & API](https://site.lovejade.cn/post/61bdd22970b0de20e2d01b27)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

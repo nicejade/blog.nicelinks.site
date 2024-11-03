@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Pico | 通过简单描述您想要的内容来构建 Web 应用程序](https://nicelinks.site/post/655f4ac94282ab67435917c2)
+## [Pico | 通过简单描述您想要的内容来构建 Web 应用程序](https://site.lovejade.cn/post/655f4ac94282ab67435917c2)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`AI`](https://nicelinks.site/tags/AI) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`AI`](https://site.lovejade.cn/tags/AI) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > An AI-powered text-to-app platform
 
 ![倾城之链 - Pico | 通过简单描述您想要的内容来构建 Web 应用程序](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/picoapps.xyz.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Pico](https://picoapps.xyz/) 是一个基于 GPT4 的“文本到应用程序”平台，允许企业家、顾问和小企业主仅使用简单的英语或任何其他语言构建简单的 Web 应用程序。不再需要与 [无代码](https://nicelinks.site/tags/无代码) 工具和技术术语作斗争，只需描述您的应用程序想法，然后让 Pico 完成剩下的工作。
+**推荐语**：[Pico](https://picoapps.xyz/) 是一个基于 GPT4 的“文本到应用程序”平台，允许企业家、顾问和小企业主仅使用简单的英语或任何其他语言构建简单的 Web 应用程序。不再需要与 [无代码](https://site.lovejade.cn/tags/无代码) 工具和技术术语作斗争，只需描述您的应用程序想法，然后让 Pico 完成剩下的工作。
 
 ### 您可以使用 Pico 做什么？
 
@@ -35,21 +35,21 @@
 - **私人应用程序**：为任何应用程序添加密码保护，以便只有您批准访问的人员才能访问它。
 - **数据分析**：通过 Pico 针对 MetaGPT 和聊天机器人应用程序的内置分析，了解您的用户如何使用您的应用程序。
 
-Pico 是专为使用 JavaScript、HTML 和 [CSS](https://nicelinks.site/tags/CSS) 编写并带有 Python 后端的 Web 应用程序而设计；目前尚存在些限制，如无 Android、iOS 应用程序；后端、数据库、账户系统等正在开发中。
+Pico 是专为使用 JavaScript、HTML 和 [CSS](https://site.lovejade.cn/tags/CSS) 编写并带有 Python 后端的 Web 应用程序而设计；目前尚存在些限制，如无 Android、iOS 应用程序；后端、数据库、账户系统等正在开发中。
 
-Pico 免费试用版允许您生成代码 4 次（可以是一个应用程序或多个应用程序）；如果需要更多服务需要付费。了解到这平台，是因为开源项目： [screenshot-to-code](https://github.com/abi/screenshot-to-code) ：这个简单的应用程序将屏幕截图转换为 HTML / [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 。它使用 GPT-4 Vision 生成代码，并使用 DALL-E 3 生成外观相似的图像。您现在还可以输入 URL 来克隆实时网站；如果您对该项目感兴趣，可移步前往从而了解更多。
+Pico 免费试用版允许您生成代码 4 次（可以是一个应用程序或多个应用程序）；如果需要更多服务需要付费。了解到这平台，是因为开源项目： [screenshot-to-code](https://github.com/abi/screenshot-to-code) ：这个简单的应用程序将屏幕截图转换为 HTML / [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 。它使用 GPT-4 Vision 生成代码，并使用 DALL-E 3 生成外观相似的图像。您现在还可以输入 URL 来克隆实时网站；如果您对该项目感兴趣，可移步前往从而了解更多。
 
-── 出自[倾城之链 - Pico | 通过简单描述您想要的内容来构建 Web 应用程序](https://nicelinks.site/post/655f4ac94282ab67435917c2)
+── 出自[倾城之链 - Pico | 通过简单描述您想要的内容来构建 Web 应用程序](https://site.lovejade.cn/post/655f4ac94282ab67435917c2)
 
-## [Knip | ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects](https://nicelinks.site/post/655dfd334282ab6743590e8c)
+## [Knip | ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects](https://site.lovejade.cn/post/655dfd334282ab6743590e8c)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`TypeScript`](https://nicelinks.site/tags/TypeScript)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`TypeScript`](https://site.lovejade.cn/tags/TypeScript)
 
 > Project linter to find unused files, dependencies and exports in JavaScript and TypeScript projects
 
 ![倾城之链 - Knip | ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/knip.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Knip](https://knip.dev/) ，查找 [JavaScript](https://nicelinks.site/tags/JavaScript) 和 [TypeScript](https://nicelinks.site/tags/TypeScript) 项目中**未使用的文件、依赖项和导出**。更少的代码和依赖项可以提高性能、减少维护并简化重构。不正确清理会产生真正的维护成本，Knip 对于清洁代码能够起到了不起的作用。官方有列出 Knip 发挥作用的地方：
+**推荐语**：[Knip](https://knip.dev/) ，查找 [JavaScript](https://site.lovejade.cn/tags/JavaScript) 和 [TypeScript](https://site.lovejade.cn/tags/TypeScript) 项目中**未使用的文件、依赖项和导出**。更少的代码和依赖项可以提高性能、减少维护并简化重构。不正确清理会产生真正的维护成本，Knip 对于清洁代码能够起到了不起的作用。官方有列出 Knip 发挥作用的地方：
 
 - 查找未使用的文件、依赖项和导出；
 - 查找未列出的已使用依赖项 `package.json`；
@@ -67,17 +67,17 @@ Pico 免费试用版允许您生成代码 4 次（可以是一个应用程序或
 
 Knip 在小型和大型项目中都表现出色，该团队认为这是保持项目干净整洁的全新方式！Knip 支持 Node.js 的 LTS 版本，目前至少需要 Node.js v16.17 或 v18.6。从 v2.33.0 开始，还支持 Bun 运行时。如果您有在开发、维护 Web 项目，相信 Knip 能够提供到帮助；如果您对该项目感兴趣，不妨移步至 [Knip 在 Github 开源仓库](https://github.com/webpro/knip) ，从而了解更多。
 
-── 出自[倾城之链 - Knip | ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects](https://nicelinks.site/post/655dfd334282ab6743590e8c)
+── 出自[倾城之链 - Knip | ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects](https://site.lovejade.cn/post/655dfd334282ab6743590e8c)
 
-## [Crawlee · Build reliable crawlers. Fast. | Crawlee](https://nicelinks.site/post/655df6354282ab6743590d7b)
+## [Crawlee · Build reliable crawlers. Fast. | Crawlee](https://site.lovejade.cn/post/655df6354282ab6743590d7b)
 
-**标签**：[`自动化`](https://nicelinks.site/tags/自动化) · [`程序库`](https://nicelinks.site/tags/程序库) · [`爬虫`](https://nicelinks.site/tags/爬虫)
+**标签**：[`自动化`](https://site.lovejade.cn/tags/自动化) · [`程序库`](https://site.lovejade.cn/tags/程序库) · [`爬虫`](https://site.lovejade.cn/tags/爬虫)
 
 > Crawlee is a web scraping and browser automation library. It helps you build reliable crawlers. Fast.
 
 ![倾城之链 - Crawlee · Build reliable crawlers. Fast. | Crawlee](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/crawlee.dev.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Crawlee](https://crawlee.dev/) 是一个网页抓取和浏览器 [自动化](https://nicelinks.site/tags/自动化) 库，它可以帮助您构建可靠的、快速的爬虫；由那些靠 [爬取](https://nicelinks.site/tags/爬取) 谋生并每天使用它来爬取数百万页的人创建。目前为止，它不会为您修复损坏的选择器，但它可以帮助您更快地构建和维护爬虫。官方列出了 Crawlee 如下功能特性：
+**推荐语**：[Crawlee](https://crawlee.dev/) 是一个网页抓取和浏览器 [自动化](https://site.lovejade.cn/tags/自动化) 库，它可以帮助您构建可靠的、快速的爬虫；由那些靠 [爬取](https://site.lovejade.cn/tags/爬取) 谋生并每天使用它来爬取数百万页的人创建。目前为止，它不会为您修复损坏的选择器，但它可以帮助您更快地构建和维护爬虫。官方列出了 Crawlee 如下功能特性：
 
 ### JavaScript 和 TypeScript
 
@@ -89,7 +89,7 @@ Crawlee 发出模仿浏览器标头和 TLS 指纹的 HTTP 请求。它还根据�
 
 ### 无头浏览器
 
-只需 3 行代码即可将爬虫从 HTTP 切换到无头浏览器。Crawlee 建立在 [Puppeteer](https://nicelinks.site/post/625c3735ac29ce06470af877) 和 [Playwright](https://nicelinks.site/post/60afa17d219b1d7d88219d61) 之上，并添加了自己的防阻塞功能和类人指纹。Chrome、火狐等。
+只需 3 行代码即可将爬虫从 HTTP 切换到无头浏览器。Crawlee 建立在 [Puppeteer](https://site.lovejade.cn/post/625c3735ac29ce06470af877) 和 [Playwright](https://site.lovejade.cn/post/60afa17d219b1d7d88219d61) 之上，并添加了自己的防阻塞功能和类人指纹。Chrome、火狐等。
 
 ### 自动缩放和代理管理
 
@@ -105,17 +105,17 @@ Crawlee 包括用于提取社交句柄或电话号码、无限滚动、阻止不
 
 总之，Crawlee 涵盖了端到端的爬行和抓取，并**帮助您构建可靠的抓取工具、快速地**。即使使用默认配置，您的爬虫也会像人类一样出现，并在现代机器人保护的雷达下飞行。Crawlee 为您提供了在网络上抓取链接、抓取数据并将其存储到磁盘或云的工具，同时保持可配置以满足您的项目需求。如果您对该项目感兴趣，可移步至 [Crawlee 在 Github 开源仓库](https://github.com/apify/crawlee) ，从而了解更多。
 
-── 出自[倾城之链 - Crawlee · Build reliable crawlers. Fast. | Crawlee](https://nicelinks.site/post/655df6354282ab6743590d7b)
+── 出自[倾城之链 - Crawlee · Build reliable crawlers. Fast. | Crawlee](https://site.lovejade.cn/post/655df6354282ab6743590d7b)
 
-## [Cal-Heatmap | 一个 JavaScript 图表库，用于创建时间序列日历热图](https://nicelinks.site/post/655b4edb4282ab674358fe74)
+## [Cal-Heatmap | 一个 JavaScript 图表库，用于创建时间序列日历热图](https://site.lovejade.cn/post/655b4edb4282ab674358fe74)
 
-**标签**：[`图表`](https://nicelinks.site/tags/图表) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`图表`](https://site.lovejade.cn/tags/图表) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 
 ![倾城之链 - Cal-Heatmap | 一个 JavaScript 图表库，用于创建时间序列日历热图](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/cal-heatmap.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Cal-Heatmap](https://cal-heatmap.com/) 是一个 JavaScript [图表](https://nicelinks.site/tags/图表) 库，用于创建时间序列日历热图；该库将帮助您绘制日历热图，例如出现在每个 Github 用户页面上的 Github 贡献日历，但具有更多功能，例如：
+**推荐语**：[Cal-Heatmap](https://cal-heatmap.com/) 是一个 JavaScript [图表](https://site.lovejade.cn/tags/图表) 库，用于创建时间序列日历热图；该库将帮助您绘制日历热图，例如出现在每个 Github 用户页面上的 Github 贡献日历，但具有更多功能，例如：
 
 - **日期区域设置和时区支持**：自定义日历语言、时区和区域设置特定设置，例如一周的第一天；
 - **动画日期导航**：动态浏览日历，或跳转到特定日期；
@@ -124,19 +124,19 @@ Crawlee 包括用于提取社交句柄或电话号码、无限滚动、阻止不
 - **可扩展**：通过插件系统向日历添加更多功能；
 - **打字稿和测试**：用 typescript、ES6 编写，并通过 Browserstack 在真实浏览器上进行了全面测试；
 
-如果您是 Web 开发人员，要做类似 [Github](https://nicelinks.site/post/59ba80d93df6765c75b77911) 、 [Memo](https://memo.lovejade.cn/) 日历热图功能，可以直接使用该库，通过 CDN 或者 npm；如果您对该项目感兴趣，可移步 [Cal-Heatmap 在 Github 开源仓库](https://github.com/wa0x6e/cal-heatmap) ，从而了解更多。
+如果您是 Web 开发人员，要做类似 [Github](https://site.lovejade.cn/post/59ba80d93df6765c75b77911) 、 [Memo](https://memo.lovejade.cn/) 日历热图功能，可以直接使用该库，通过 CDN 或者 npm；如果您对该项目感兴趣，可移步 [Cal-Heatmap 在 Github 开源仓库](https://github.com/wa0x6e/cal-heatmap) ，从而了解更多。
 
-── 出自[倾城之链 - Cal-Heatmap | 一个 JavaScript 图表库，用于创建时间序列日历热图](https://nicelinks.site/post/655b4edb4282ab674358fe74)
+── 出自[倾城之链 - Cal-Heatmap | 一个 JavaScript 图表库，用于创建时间序列日历热图](https://site.lovejade.cn/post/655b4edb4282ab674358fe74)
 
-## [TinyLetter | Email for people with something to say](https://nicelinks.site/post/6559fd2f4282ab674358f7e5)
+## [TinyLetter | Email for people with something to say](https://site.lovejade.cn/post/6559fd2f4282ab674358f7e5)
 
-**标签**：[`邮件`](https://nicelinks.site/tags/邮件) · [`分享`](https://nicelinks.site/tags/分享) · [`服务`](https://nicelinks.site/tags/服务)
+**标签**：[`邮件`](https://site.lovejade.cn/tags/邮件) · [`分享`](https://site.lovejade.cn/tags/分享) · [`服务`](https://site.lovejade.cn/tags/服务)
 
 > TinyLetter —— Email for people with something to say.
 
 ![倾城之链 - TinyLetter | Email for people with something to say](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.tinyletter.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Tinyletter](https://www.tinyletter.com/) 是 Mailchimp 邮件提供商提供的一项完全免费的个人 Newsletter 服务，人们用它向粉丝和朋友发送更新、摘要和调度。尽管它们构建在相同的基础设施上，但 TinyLetter 适合不需要 Mailchimp 附带的所有业务功能的用户。TinyLetter 是一项完全 [免费](https://nicelinks.site/tags/免费) 的服务。简单是他们在 TinyLetter 所做的一切的核心。您可以通过 TinyLetter 完成如下工作：
+**推荐语**：[Tinyletter](https://www.tinyletter.com/) 是 Mailchimp 邮件提供商提供的一项完全免费的个人 Newsletter 服务，人们用它向粉丝和朋友发送更新、摘要和调度。尽管它们构建在相同的基础设施上，但 TinyLetter 适合不需要 Mailchimp 附带的所有业务功能的用户。TinyLetter 是一项完全 [免费](https://site.lovejade.cn/tags/免费) 的服务。简单是他们在 TinyLetter 所做的一切的核心。您可以通过 TinyLetter 完成如下工作：
 
 ### 找到你的人
 
@@ -152,7 +152,7 @@ TinyLetter 为那些不寻求高级报告或企业功能的人们提供干净、
 
 总之， [Tinyletter](https://www.tinyletter.com/) 是由 Mailchimp 背后工作人员为您提供的个人新闻通讯服务；通过邮件注册即可使用——向订阅者推送邮件；值得说明的是，Tinyletter 有用量限制，但对于小博主而言一般来讲是够用的；如果您对这款产品感兴趣，不妨移步 [关于 Tinyletter](https://www.tinyletter.com/site/about/) 从而了解更多。
 
-── 出自[倾城之链 - TinyLetter | Email for people with something to say](https://nicelinks.site/post/6559fd2f4282ab674358f7e5)
+── 出自[倾城之链 - TinyLetter | Email for people with something to say](https://site.lovejade.cn/post/6559fd2f4282ab674358f7e5)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

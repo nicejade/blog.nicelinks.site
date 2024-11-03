@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Eyepetizer | 开眼视频](https://nicelinks.site/post/61557e56835dda0faf03db45)
+## [Eyepetizer | 开眼视频](https://site.lovejade.cn/post/61557e56835dda0faf03db45)
 
-**标签**：[`视频`](https://nicelinks.site/tags/视频) · [`短视频`](https://nicelinks.site/tags/短视频) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`视频`](https://site.lovejade.cn/tags/视频) · [`短视频`](https://site.lovejade.cn/tags/短视频) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 **关键字**：开眼, 开眼视频, 开眼日报, 短视频, 精品短视频, 动画视频, 广告视频, 旅行视频, 美食视频, 艺术视频, 运动视频, 创意视频, 影视视频, 纪录片, 游戏视频, 搞笑视频, youtube 视频, 360 全景视频, 摄影作品, 插画作品, 艺术作品
 
@@ -18,11 +18,11 @@
 
 他们希望让每一位用户，通过观看、讨论、发布、和彼此结交，在这里找寻到精神伙伴和兴趣家园。作为用户，早在 2015 年，就开始接触并喜欢[开眼](https://home.eyepetizer.net/)（在[那些所倚靠的利器记载](https://www.jeffjade.com/2016/03/17/2016-03-17-jade-tools/)一文中有过记载），它要比现在那些头部短视频应用早很多年；由于它的精致有些“曲高和寡”，并不为很多人所知；但如果要为年轻人推荐一款视频相关应用，只限[开眼](https://home.eyepetizer.net/)，其他所谓各种主流平台，多用低俗诱惑、媚俗诱导、算法引导沉迷，实在不值一提；对于家长而言，应该联合坚决抵制。
 
-── 出自[倾城之链 - Eyepetizer | 开眼视频](https://nicelinks.site/post/61557e56835dda0faf03db45)
+── 出自[倾城之链 - Eyepetizer | 开眼视频](https://site.lovejade.cn/post/61557e56835dda0faf03db45)
 
-## [addog.vip | 广告人的网址导航 | 品牌/策划/营销/创意/文案](https://nicelinks.site/post/615573e3835dda0faf03db43)
+## [addog.vip | 广告人的网址导航 | 品牌/策划/营销/创意/文案](https://site.lovejade.cn/post/615573e3835dda0faf03db43)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`营销`](https://nicelinks.site/tags/营销) · [`广告`](https://nicelinks.site/tags/广告)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`营销`](https://site.lovejade.cn/tags/营销) · [`广告`](https://site.lovejade.cn/tags/广告)
 
 **关键字**：营销案例, 广告公司, 今日热榜, PPT 模板, 在线思维导图, 大数据, 文创, 设计, 营销策略大全网址导航
 
@@ -32,11 +32,11 @@
 
 **推荐语**：[addog.vip | 广告人的网址导航](https://uidea.tools/)，是一个广告人的网址导航网站，旨在收集分享了各类网站网址，包含品牌、策划、营销、创意、文案今日热榜、大数据分析、PPT 模板、设计导航、营销策略等，是一个专业的**广告**相关网站网址大全导航。
 
-── 出自[倾城之链 - addog.vip | 广告人的网址导航 | 品牌/策划/营销/创意/文案](https://nicelinks.site/post/615573e3835dda0faf03db43)
+── 出自[倾城之链 - addog.vip | 广告人的网址导航 | 品牌/策划/营销/创意/文案](https://site.lovejade.cn/post/615573e3835dda0faf03db43)
 
-## [办公人导航-实用的办公软件及网站网址导航！](https://nicelinks.site/post/61556921835dda0faf03db41)
+## [办公人导航-实用的办公软件及网站网址导航！](https://site.lovejade.cn/post/61556921835dda0faf03db41)
 
-**标签**：[`导航`](https://nicelinks.site/tags/导航) · [`工具`](https://nicelinks.site/tags/工具) · [`网站`](https://nicelinks.site/tags/网站)
+**标签**：[`导航`](https://site.lovejade.cn/tags/导航) · [`工具`](https://site.lovejade.cn/tags/工具) · [`网站`](https://site.lovejade.cn/tags/网站)
 
 **关键字**：办公人导航, 导航网站, 网址导航, 办公导航
 
@@ -48,11 +48,11 @@
 
 [办公人导航](https://www.bgrdh.com/)所有分享均为以**用户实用**为主，对于一些软件/工具/网站功能相同，仅展示一个作为推荐，减少网站不必要的展示，如果大家需要了解更多，可以点击详细查看。该站不关注收录网站的数量，只关注收录网站对用户是否实用，是否有价值，对于一些低质量垃圾网站，无更新无维护的，本站不会收录，并对已经收录的网站会定期检查清除。
 
-── 出自[倾城之链 - 办公人导航-实用的办公软件及网站网址导航！](https://nicelinks.site/post/61556921835dda0faf03db41)
+── 出自[倾城之链 - 办公人导航-实用的办公软件及网站网址导航！](https://site.lovejade.cn/post/61556921835dda0faf03db41)
 
-## [问卷网-免费问卷调查平台](https://nicelinks.site/post/6151ae4c835dda0faf03db3d)
+## [问卷网-免费问卷调查平台](https://site.lovejade.cn/post/6151ae4c835dda0faf03db3d)
 
-**标签**：[`问卷调查`](https://nicelinks.site/tags/问卷调查) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`问卷调查`](https://site.lovejade.cn/tags/问卷调查) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 **关键字**：问卷调查，调查问卷，满意度调查，市场调查，报名登记表，问卷网
 
@@ -71,11 +71,11 @@
 
 除了`问卷调研`，[问卷网](https://www.wenjuan.com/)还是免费易用的`报名表单`、`考试测评`、`投票评选`、`开始测评`、`学术调研`工具；简单三步，即可获得数据；还多端支持，所有功能均免费；如果您有相关诉求，[问卷网](https://www.wenjuan.com/)未尝不是一个选择。
 
-── 出自[倾城之链 - 问卷网-免费问卷调查平台](https://nicelinks.site/post/6151ae4c835dda0faf03db3d)
+── 出自[倾城之链 - 问卷网-免费问卷调查平台](https://site.lovejade.cn/post/6151ae4c835dda0faf03db3d)
 
-## [Emoji 大全 | Emoji 表情符号词典 📓 | EmojiAll 中文官方网站](https://nicelinks.site/post/615067e2835dda0faf03db3b)
+## [Emoji 大全 | Emoji 表情符号词典 📓 | EmojiAll 中文官方网站](https://site.lovejade.cn/post/615067e2835dda0faf03db3b)
 
-**标签**：[`Emoji`](https://nicelinks.site/tags/Emoji) · [`有趣`](https://nicelinks.site/tags/有趣)
+**标签**：[`Emoji`](https://site.lovejade.cn/tags/Emoji) · [`有趣`](https://site.lovejade.cn/tags/有趣)
 
 > Emoji 大全，提供最新、完整的 Emoji 搜索和相关信息，包括表情符号含义、使用示例、Unicode 代码点、高分辨率图片、复制和粘贴，以及 Emoji 大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。
 
@@ -83,7 +83,7 @@
 
 **推荐语**：[Emoji 大全](https://www.emojiall.com/)，提供最新、完整的 Emoji 搜索和相关信息，包括表情符号含义、使用示例、Unicode 代码点、高分辨率图片、复制和粘贴，以及 Emoji 大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。[Emojiall.com](https://www.emojiall.com/) 致力于推广和普及 emoji，帮助大家了解 emoji 的意思、更准确的表达自己、更方便的使用 emoji，希望 emoji 能为大家的日常生活带来更多欢乐。
 
-── 出自[倾城之链 - Emoji 大全 | Emoji 表情符号词典 📓 | EmojiAll 中文官方网站](https://nicelinks.site/post/615067e2835dda0faf03db3b)
+── 出自[倾城之链 - Emoji 大全 | Emoji 表情符号词典 📓 | EmojiAll 中文官方网站](https://site.lovejade.cn/post/615067e2835dda0faf03db3b)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

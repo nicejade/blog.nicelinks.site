@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Photo Editor: Free Online Graphic Design Suite - Pixelied](https://nicelinks.site/post/64c27ba7995e424b626edcf2)
+## [Photo Editor: Free Online Graphic Design Suite - Pixelied](https://site.lovejade.cn/post/64c27ba7995e424b626edcf2)
 
-**标签**：[`图片编辑器`](https://nicelinks.site/tags/图片编辑器) · [`在线`](https://nicelinks.site/tags/在线) · [`设计`](https://nicelinks.site/tags/设计)
+**标签**：[`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器) · [`在线`](https://site.lovejade.cn/tags/在线) · [`设计`](https://site.lovejade.cn/tags/设计)
 
 > Boost your creativity with our lightning-fast image editor and versatile online graphics editor. Perfect for marketing, e-commerce, and social media designs.
 
@@ -50,11 +50,11 @@
 
 除了上述功能特征之外，`pixelied` 提供图像滤镜、图像裁剪、文字阴影、定制边框、上传文件、整理文件夹等功能；如果您创建或处理图片的需求，并且没有御用设计师，可立即创建免费帐户并开始使用 Pixelied，以便在几分钟内创造出令人惊叹的视觉效果。
 
-── 出自[倾城之链 - Photo Editor: Free Online Graphic Design Suite - Pixelied](https://nicelinks.site/post/64c27ba7995e424b626edcf2)
+── 出自[倾城之链 - Photo Editor: Free Online Graphic Design Suite - Pixelied](https://site.lovejade.cn/post/64c27ba7995e424b626edcf2)
 
-## [SigmaOS](https://nicelinks.site/post/64c25f0c995e424b626edbba)
+## [SigmaOS](https://site.lovejade.cn/post/64c25f0c995e424b626edbba)
 
-**标签**：[`浏览器`](https://nicelinks.site/tags/浏览器) · [`应用`](https://nicelinks.site/tags/应用) · [`效率`](https://nicelinks.site/tags/效率)
+**标签**：[`浏览器`](https://site.lovejade.cn/tags/浏览器) · [`应用`](https://site.lovejade.cn/tags/应用) · [`效率`](https://site.lovejade.cn/tags/效率)
 
 **关键字**：browser,work,tab,mac,productivity,focus,web,internet
 
@@ -62,7 +62,7 @@
 
 ![倾城之链 - SigmaOS](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/sigmaos.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[SigmaOS](https://sigmaos.com/) ，SigmaOS 是一种全新的 [浏览器](https://nicelinks.site/tags/浏览器) 体验。它使您可以轻松地更快、更好地完成 Internet 上的工作。官方表示：它适用于管理课程的学生、建立初创企业的创始人、表达艺术的创意人员以及介于两者之间的每个人。它具有如下功能特征：
+**推荐语**：[SigmaOS](https://sigmaos.com/) ，SigmaOS 是一种全新的 [浏览器](https://site.lovejade.cn/tags/浏览器) 体验。它使您可以轻松地更快、更好地完成 Internet 上的工作。官方表示：它适用于管理课程的学生、建立初创企业的创始人、表达艺术的创意人员以及介于两者之间的每个人。它具有如下功能特征：
 
 ### 工作空间，像房子里的房间一样
 
@@ -78,13 +78,13 @@
 
 **SigmaOS 是免费的吗**？SigmaOS Personal 对所有人和任何人永远免费。如果您想通过无限工作空间、跨设备同步和协同浏览来升级浏览器体验，SigmaOS Pro 的价格为每月 8 美元起。
 
-SigmaOS，与 [Arc](https://nicelinks.site/post/64c25547995e424b626edb02) ，有很多共同之处，比如，都提供工作空间、侧边栏式设计、拆分屏幕、仅支持 MacOS 不支持 Widows、支持 Chrome 扩展、增加更多快捷键等等；因此，它们也会有相同的缺陷，对于不熟悉的朋友，有些许学习成本。感兴趣朋友可以下载、体验，从而了解更多。
+SigmaOS，与 [Arc](https://site.lovejade.cn/post/64c25547995e424b626edb02) ，有很多共同之处，比如，都提供工作空间、侧边栏式设计、拆分屏幕、仅支持 MacOS 不支持 Widows、支持 Chrome 扩展、增加更多快捷键等等；因此，它们也会有相同的缺陷，对于不熟悉的朋友，有些许学习成本。感兴趣朋友可以下载、体验，从而了解更多。
 
-── 出自[倾城之链 - SigmaOS](https://nicelinks.site/post/64c25f0c995e424b626edbba)
+── 出自[倾城之链 - SigmaOS](https://site.lovejade.cn/post/64c25f0c995e424b626edbba)
 
-## [Arc from The Browser Company](https://nicelinks.site/post/64c25547995e424b626edb02)
+## [Arc from The Browser Company](https://site.lovejade.cn/post/64c25547995e424b626edb02)
 
-**标签**：[`浏览器`](https://nicelinks.site/tags/浏览器) · [`应用`](https://nicelinks.site/tags/应用) · [`效率`](https://nicelinks.site/tags/效率)
+**标签**：[`浏览器`](https://site.lovejade.cn/tags/浏览器) · [`应用`](https://site.lovejade.cn/tags/应用) · [`效率`](https://site.lovejade.cn/tags/效率)
 
 **关键字**：arc, arc browser, arc web browser, browser, web, web browser, arc browser company, the browser company, the browser company of new york, best web browser, fastest web browser, web browser 2022, spaces, command bar, download arc, download arc browser, arc app, customizable browser, safari, vivaldi, firefox, chrome, chromeos, mighty, brave, opera, chromium, split view, easel, arc internet suite
 
@@ -92,7 +92,7 @@ SigmaOS，与 [Arc](https://nicelinks.site/post/64c25547995e424b626edb02) ，有
 
 ![倾城之链 - Arc from The Browser Company](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/arc.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Arc](https://arc.net/) ，是由 Josh Miller 和 Hursh Agrawal 创立的初创公司 The Browser Company 开发的免费的网络 [浏览器](https://nicelinks.site/tags/浏览器) ，在封闭测试后于 2022 年 4 月 19 日发布。2023 年 07 月 26 日发布了 1.0 正式版，目前仅支持 macOS（系统版本需要高于 MacOS 12.1 ） 和 iOS，Windows 版本仍在开发中。
+**推荐语**：[Arc](https://arc.net/) ，是由 Josh Miller 和 Hursh Agrawal 创立的初创公司 The Browser Company 开发的免费的网络 [浏览器](https://site.lovejade.cn/tags/浏览器) ，在封闭测试后于 2022 年 4 月 19 日发布。2023 年 07 月 26 日发布了 1.0 正式版，目前仅支持 macOS（系统版本需要高于 MacOS 12.1 ） 和 iOS，Windows 版本仍在开发中。
 
 **Arc 基于 Chromium 并用 Swift 语言编写**。它支持 Chrome 浏览器扩充功能，同时默认使用 Google 搜索。Arc 官网写到：“Arc 是我一直在等待的 Chrome 替代品”，可见野心勃勃。
 
@@ -100,24 +100,24 @@ Arc 旨在成为一个 “万维网的操作系统”，并试图将网页浏览
 
 Arc 内置了非常多功能，诸如：自动存档、Pin 标签页、命令行 Bar、迷你播放器、Easels、迷你 Arc 窗口等等。在未有深度体验下，比较喜欢以下几点：
 
-- `Command T` 百宝箱： `⌘ T` — New Tab 和搜索的结合。这种方式非常符合目前流行使用场景；跟 [Raycast](https://nicelinks.site/post/6378d324049fa51046c4ac75) 、 [VsCode](https://nicelinks.site/post/5af55777979f626ea3d37917) 操作类似。结合 `Command S` 快捷键，即可进去专注模式，又不会影响功能使用。
+- `Command T` 百宝箱： `⌘ T` — New Tab 和搜索的结合。这种方式非常符合目前流行使用场景；跟 [Raycast](https://site.lovejade.cn/post/6378d324049fa51046c4ac75) 、 [VsCode](https://site.lovejade.cn/post/5af55777979f626ea3d37917) 操作类似。结合 `Command S` 快捷键，即可进去专注模式，又不会影响功能使用。
 - Spaces 工作区：来区分不同类别的标签页，比如工作、游戏、生活等等。完美地实现了多开窗口的目的，并且利用 Command Bar，切换的体验非常丝滑，不会在多个窗口间反复横跳。据我观察，蛮多朋友需要这个功能。
 - **分栏模式**：页面提供了快速分栏的功能，可以使得两个窗口并排显示，便于对比；而且轻松可增减加栏的数目，独立使用扩展等。据悉，这个功能为朋友们所钟爱。
 - **Easels**：是 Arc 特有的一个功能，类似于浏览器中的画布，它不仅可以保存您在网上找到的所有内容，还可以进行头脑风暴、制作心情板、收集灵感甚至撰写故事的好地方。你可以将它们保存为私人作品，与朋友合作，或与全世界分享（使用 Capture Image（右键图片）功能将图片分享到 Easels 里，就可以对图片进行排版、箭头标注、划线、写文字等，非常适合收集与分享图片。）。
 
-Arc 官网描述为：在这款专为你设计的浏览器中，体验更平静、更个性化的互联网。让 Arc 浏览器摆脱点击、杂乱和干扰。这些年，也体验了蛮多其他浏览器产品，诸如： [Firefox](https://nicelinks.site/post/5fa82652ac6b5718fc48ac10) 、 [Whist](https://nicelinks.site/post/62f50049edc6366d5c0852e5) 、 [Opera](https://nicelinks.site/post/62f106afb5abd454197aa3aa) 、[SigmaOS](https://nicelinks.site/post/64c25f0c995e424b626edbba) 等，当然还是以 Chrome 为主，相比之下 [Arc](https://arc.net/) 最令人心动，只可惜要求系统版本在 12 之上，工作场景下的 iMac 无法安装。7 月 26 日发布 1.0 之后，所有人都可下载，无需申请白名单；感兴趣的朋友，不妨下载安装，亲自体验从而了解更多。
+Arc 官网描述为：在这款专为你设计的浏览器中，体验更平静、更个性化的互联网。让 Arc 浏览器摆脱点击、杂乱和干扰。这些年，也体验了蛮多其他浏览器产品，诸如： [Firefox](https://site.lovejade.cn/post/5fa82652ac6b5718fc48ac10) 、 [Whist](https://site.lovejade.cn/post/62f50049edc6366d5c0852e5) 、 [Opera](https://site.lovejade.cn/post/62f106afb5abd454197aa3aa) 、[SigmaOS](https://site.lovejade.cn/post/64c25f0c995e424b626edbba) 等，当然还是以 Chrome 为主，相比之下 [Arc](https://arc.net/) 最令人心动，只可惜要求系统版本在 12 之上，工作场景下的 iMac 无法安装。7 月 26 日发布 1.0 之后，所有人都可下载，无需申请白名单；感兴趣的朋友，不妨下载安装，亲自体验从而了解更多。
 
-── 出自[倾城之链 - Arc from The Browser Company](https://nicelinks.site/post/64c25547995e424b626edb02)
+── 出自[倾城之链 - Arc from The Browser Company](https://site.lovejade.cn/post/64c25547995e424b626edb02)
 
-## [Quivr - Get a Second Brain with Generative AI](https://nicelinks.site/post/64be6b83995e424b626ec440)
+## [Quivr - Get a Second Brain with Generative AI](https://site.lovejade.cn/post/64be6b83995e424b626ec440)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`开源`](https://nicelinks.site/tags/开源) · [`ChatGPT`](https://nicelinks.site/tags/ChatGPT)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`开源`](https://site.lovejade.cn/tags/开源) · [`ChatGPT`](https://site.lovejade.cn/tags/ChatGPT)
 
 > Quivr is your second brain in the cloud, designed to easily store and retrieve unstructured information.
 
 ![倾城之链 - Quivr - Get a Second Brain with Generative AI](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.quivr.app.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Quivr](https://www.quivr.app/) ，您的第二大脑，利用 GenerativeAI 的力量来存储和检索非结构化信息。可以将其视为 [Obsidian | 黑曜石](https://nicelinks.site/post/6266999577f8270876fcb3d6) ，但增强了人工智能功能。它具有如下主要特征：
+**推荐语**：[Quivr](https://www.quivr.app/) ，您的第二大脑，利用 GenerativeAI 的力量来存储和检索非结构化信息。可以将其视为 [Obsidian | 黑曜石](https://site.lovejade.cn/post/6266999577f8270876fcb3d6) ，但增强了人工智能功能。它具有如下主要特征：
 
 - **通用数据接受**：Quivr 几乎可以处理您输入的任何类型的数据。文本、图像、代码片段，我们都能满足您的需求。
 - **生成人工智能**：Quivr 采用先进的人工智能来帮助您生成和检索信息。
@@ -127,13 +127,13 @@ Arc 官网描述为：在这款专为你设计的浏览器中，体验更平静�
 - **文件兼容性**：文本、降价、PDF、微软幻灯片软件、Excel（还没有）、CSV、单词、声音的、视频。
 - **开源**：自由是美好的，Quivr 也是如此；开源且免费使用。
 
-Quivr 工作原理是：🧠 使用 LLM（GPT 3.5/4、Private、Anthropic、VertexAI）和嵌入式生成式人工智能第二大脑，转储所有文件并与它聊天 ；您可以通过登录此网站访问服务，也可以使用 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行 [自托管](https://nicelinks.site/tags/自托管) 。该项目在 [Github 仓库开源](https://github.com/stangirard/quivr) ，如果您对其感兴趣，可移步以了解更多。
+Quivr 工作原理是：🧠 使用 LLM（GPT 3.5/4、Private、Anthropic、VertexAI）和嵌入式生成式人工智能第二大脑，转储所有文件并与它聊天 ；您可以通过登录此网站访问服务，也可以使用 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 进行 [自托管](https://site.lovejade.cn/tags/自托管) 。该项目在 [Github 仓库开源](https://github.com/stangirard/quivr) ，如果您对其感兴趣，可移步以了解更多。
 
-── 出自[倾城之链 - Quivr - Get a Second Brain with Generative AI](https://nicelinks.site/post/64be6b83995e424b626ec440)
+── 出自[倾城之链 - Quivr - Get a Second Brain with Generative AI](https://site.lovejade.cn/post/64be6b83995e424b626ec440)
 
-## [Iconbuddy - 100K+ open source icons](https://nicelinks.site/post/64be6985995e424b626ec3b6)
+## [Iconbuddy - 100K+ open source icons](https://site.lovejade.cn/post/64be6985995e424b626ec3b6)
 
-**标签**：[`图标`](https://nicelinks.site/tags/图标) · [`SVG`](https://nicelinks.site/tags/SVG) · [`图片编辑器`](https://nicelinks.site/tags/图片编辑器)
+**标签**：[`图标`](https://site.lovejade.cn/tags/图标) · [`SVG`](https://site.lovejade.cn/tags/SVG) · [`图片编辑器`](https://site.lovejade.cn/tags/图片编辑器)
 
 > Search, download, customize, edit over 100k+ open source icons. Iconbuddy is a powerful icon search engine and manager. It helps you download icons in SVG, PNG, WEBP, JSX, VUE, Base64 formats.
 
@@ -143,11 +143,11 @@ Quivr 工作原理是：🧠 使用 LLM（GPT 3.5/4、Private、Anthropic、Vert
 
 值得一提的是，Iconbuddy 支持用户自定义设置图标颜色、背景类型、图标尺寸、圆角、边界、边框不透明度、边框颜色、背景颜色等等。不仅可以下载 SVG、WEBP 等格式，也可以直接拷贝代码（SVG、React、Vue、Base64）加以使用。
 
-── 出自[倾城之链 - Iconbuddy - 100K+ open source icons](https://nicelinks.site/post/64be6985995e424b626ec3b6)
+── 出自[倾城之链 - Iconbuddy - 100K+ open source icons](https://site.lovejade.cn/post/64be6985995e424b626ec3b6)
 
-## [Nomad List - Best Places to Live for Digital Nomads ](https://nicelinks.site/post/64bd2164ba9d8868a2a50f18)
+## [Nomad List - Best Places to Live for Digital Nomads ](https://site.lovejade.cn/post/64bd2164ba9d8868a2a50f18)
 
-**标签**：[`远程`](https://nicelinks.site/tags/远程) · [`数字游民`](https://nicelinks.site/tags/数字游民) · [`酷工作`](https://nicelinks.site/tags/酷工作)
+**标签**：[`远程`](https://site.lovejade.cn/tags/远程) · [`数字游民`](https://site.lovejade.cn/tags/数字游民) · [`酷工作`](https://site.lovejade.cn/tags/酷工作)
 
 > Learn how to become a digital nomad and find the best places to live and work remotely as a location independent remote worker. Explore places based on cost of living, internet speed, weather and other metrics. For startups that work remotely and remote workers.
 
@@ -167,11 +167,11 @@ Nomad List 的收益主要来自于会员费。网站内容可供免费浏览，
 
 “带着工作去旅游”，互联网时代，周游世界不再是拥有足够资本积累的人才能完成的事情。依据 AfterCollege 网站的调查，有 68% 的千禧一代表示，在求职的时如果允许远程工作，他们会很吃这一套。你没必要等到 60 或 65 岁退休。在 Nomad List 上挑一个拥有可爱的气候和网速的城市，带上 Mac 笔记本电脑，抓起背包，说走就走；据推荐者观察，在国内工作的朋友，想要勇敢的踏出这一步，颇为困难；但很显然，这已经形成一种逐步轴向大众范围的趋势。
 
-── 出自[倾城之链 - Nomad List - Best Places to Live for Digital Nomads ](https://nicelinks.site/post/64bd2164ba9d8868a2a50f18)
+── 出自[倾城之链 - Nomad List - Best Places to Live for Digital Nomads ](https://site.lovejade.cn/post/64bd2164ba9d8868a2a50f18)
 
-## [kee.so - Your home screen on internet](https://nicelinks.site/post/64bd1b20ba9d8868a2a50e71)
+## [kee.so - Your home screen on internet](https://site.lovejade.cn/post/64bd1b20ba9d8868a2a50e71)
 
-**标签**：[`个人主页`](https://nicelinks.site/tags/个人主页) · [`工具`](https://nicelinks.site/tags/工具) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`个人主页`](https://site.lovejade.cn/tags/个人主页) · [`工具`](https://site.lovejade.cn/tags/工具) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 **关键字**：kee.so, kee,link in bio, home screen, one page, personal page, personal website, website builder, social links, all in one, linktr.ee, linktree, bento
 
@@ -179,15 +179,15 @@ Nomad List 的收益主要来自于会员费。网站内容可供免费浏览，
 
 ![倾城之链 - kee.so - Your home screen on internet](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/kee.so.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[kee.so](https://kee.so/) ， 您在互联网上的主屏幕，一个快速创建 [个人主页](https://nicelinks.site/tags/个人主页) 的 Web 应用；全新的 "生物链接"（"link in bio"）解决方案。新颖的设计类似于手机的主屏幕，可在 3 个系统之间切换，非常灵活、强大、醒目且易于使用。他们认为这是您的个人页面、艺术作品或品牌主页的最佳解决方案。它具有如下功能特征：
+**推荐语**：[kee.so](https://kee.so/) ， 您在互联网上的主屏幕，一个快速创建 [个人主页](https://site.lovejade.cn/tags/个人主页) 的 Web 应用；全新的 "生物链接"（"link in bio"）解决方案。新颖的设计类似于手机的主屏幕，可在 3 个系统之间切换，非常灵活、强大、醒目且易于使用。他们认为这是您的个人页面、艺术作品或品牌主页的最佳解决方案。它具有如下功能特征：
 
 - 一个链接，一切合一， 适用于您的所有社交链接。
 - 一个链接，一个官方页面， 适合您的品牌、产品、服务。
 - 一键链接，优雅、引人注目、易于定制， 完全由您设计。
 
-有基于 [kee.so](https://kee.so/) 创建新的个人主页： [杨轩帅](https://kee.so/nicejade) ；与 [Bento](https://bento.me/) 使用相比，Kee 目前处于邀请制阶段，需要跟官方申请才能得以创建；其次，虽然 Kee 使用也很便捷，不过在简单快捷方面，Bento 似乎更胜一筹。如果您有创建个人主页的诉求， [Bento](https://bento.me/) 、 [kee.so](https://kee.so/) 、 [Bio Link](https://nicelinks.site/post/627cfbf62dba1c5d9dce1f6f) 都是免费使用且设计良好的产品，可以根据您的个人偏好，选择喜欢的产品。
+有基于 [kee.so](https://kee.so/) 创建新的个人主页： [杨轩帅](https://kee.so/nicejade) ；与 [Bento](https://bento.me/) 使用相比，Kee 目前处于邀请制阶段，需要跟官方申请才能得以创建；其次，虽然 Kee 使用也很便捷，不过在简单快捷方面，Bento 似乎更胜一筹。如果您有创建个人主页的诉求， [Bento](https://bento.me/) 、 [kee.so](https://kee.so/) 、 [Bio Link](https://site.lovejade.cn/post/627cfbf62dba1c5d9dce1f6f) 都是免费使用且设计良好的产品，可以根据您的个人偏好，选择喜欢的产品。
 
-── 出自[倾城之链 - kee.so - Your home screen on internet](https://nicelinks.site/post/64bd1b20ba9d8868a2a50e71)
+── 出自[倾城之链 - kee.so - Your home screen on internet](https://site.lovejade.cn/post/64bd1b20ba9d8868a2a50e71)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Paperless-ngx | 社区支持的开源文档管理系统](https://nicelinks.site/post/6596a60ab3eaf05e8b517821)
+## [Paperless-ngx | 社区支持的开源文档管理系统](https://site.lovejade.cn/post/6596a60ab3eaf05e8b517821)
 
-**标签**：[`文档`](https://nicelinks.site/tags/文档) · [`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管)
+**标签**：[`文档`](https://site.lovejade.cn/tags/文档) · [`开源`](https://site.lovejade.cn/tags/开源) · [`自托管`](https://site.lovejade.cn/tags/自托管)
 
 > Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.
 
@@ -42,11 +42,11 @@
 
 除此之外，Paperless-ngx 也支持深色模式、通过广泛的过滤机制快速查找文档、并排编辑文档、自定义字段、移动设备等等；它是原始 [Paperless](https://github.com/the-paperless-project/paperless) 和 [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) 项目的正式继承者，旨在将推进和支持该项目的责任分配给一组人员；值得一提的是，Paperless-ngx 许多不同的扫描仪和扫描工具兼容，而且能够基于 [Docker 自部署](https://hub.docker.com/r/paperlessngx/paperless-ngx) 从而保证隐私安全。如果您对该项目感兴趣，可移步至 [Paperless-ngx 在 Github 的开源仓库](https://docs.paperless-ngx.com/) 从而了解更多。
 
-── 出自[倾城之链 - Paperless-ngx | 社区支持的开源文档管理系统](https://nicelinks.site/post/6596a60ab3eaf05e8b517821)
+── 出自[倾城之链 - Paperless-ngx | 社区支持的开源文档管理系统](https://site.lovejade.cn/post/6596a60ab3eaf05e8b517821)
 
-## [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://nicelinks.site/post/65969f5fb3eaf05e8b5177ef)
+## [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://site.lovejade.cn/post/65969f5fb3eaf05e8b5177ef)
 
-**标签**：[`CSS`](https://nicelinks.site/tags/CSS) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`CSS`](https://site.lovejade.cn/tags/CSS) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > Build modern websites using build time and type-safe CSS-in-JS
 
@@ -70,11 +70,11 @@
 
 如果您对使用 [Panda CSS](https://panda-css.com/) 感兴趣，可移步至 [PandaCSS 在 Github 开源仓库](https://github.com/chakra-ui/panda) ；此外，您还可以按照网站上提到的步骤将其安装到您的项目中，并开始构建具有增强样式功能的现代网站。该网站还鼓励开发人员加入 [PandaCSS 的 Discord 社区](https://discord.gg/VQrkpsgSx7) 以获得支持、参与并及时了解 Panda CSS 的最新发展。
 
-── 出自[倾城之链 - Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://nicelinks.site/post/65969f5fb3eaf05e8b5177ef)
+── 出自[倾城之链 - Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://site.lovejade.cn/post/65969f5fb3eaf05e8b5177ef)
 
-## [Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://nicelinks.site/post/65969bc9b3eaf05e8b5177e0)
+## [Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://site.lovejade.cn/post/65969bc9b3eaf05e8b5177e0)
 
-**标签**：[`组件库`](https://nicelinks.site/tags/组件库) · [`Tailwind`](https://nicelinks.site/tags/Tailwind) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`组件库`](https://site.lovejade.cn/tags/组件库) · [`Tailwind`](https://site.lovejade.cn/tags/Tailwind) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：Panda,Tailwind,CSS,Ark UI,Components,Library,React,Solid,Vue
 
@@ -82,23 +82,23 @@
 
 ![倾城之链 - Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/park-ui.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Park UI](https://park-ui.com/) ，专为您选择的 JS 和 CSS 框架而构建。 [React](https://nicelinks.site/post/5b1294b5e93ed2618cfac134) 、 [Vue.js](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) 、Solid、 [Panda CSS](https://panda-css.com/) 和 [Tailwind CSS](https://nicelinks.site/post/5fd20cb4c06d6302c1907ec7) 等流行框架的兼容性。用户可以通过选择自己喜欢的框架并对其进行自定义来满足自己的需求来开始使用。如果您对其感兴趣，可移步至 [Github 仓库开源](https://github.com/cschroeter/park-ui) ，从而了解更多。
+**推荐语**：[Park UI](https://park-ui.com/) ，专为您选择的 JS 和 CSS 框架而构建。 [React](https://site.lovejade.cn/post/5b1294b5e93ed2618cfac134) 、 [Vue.js](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) 、Solid、 [Panda CSS](https://panda-css.com/) 和 [Tailwind CSS](https://site.lovejade.cn/post/5fd20cb4c06d6302c1907ec7) 等流行框架的兼容性。用户可以通过选择自己喜欢的框架并对其进行自定义来满足自己的需求来开始使用。如果您对其感兴趣，可移步至 [Github 仓库开源](https://github.com/cschroeter/park-ui) ，从而了解更多。
 
 **支持哪些 JS 框架**？Park UI 构建在 Ark UI 之上，因此支持以下 JS 框架：React、Solid 和 Vue。但是，您仍然可以将 Park UI 样式与其他 JS 框架一起使用。在这种情况下，您需要将 Ark UI 部分替换为不同的无头 UI 库。
 
 **为什么要支持各种 JS 和 CSS 框架**？支持广泛的 JS 和 CSS 框架，允许灵活的设计系统在不同平台上良好运行。它使开发人员可以自由选择最适合其技能和项目需求的工具，这可以提高生产力并有助于随着时间的推移有效地维护代码库。
 
-── 出自[倾城之链 - Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://nicelinks.site/post/65969bc9b3eaf05e8b5177e0)
+── 出自[倾城之链 - Park UI | Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice](https://site.lovejade.cn/post/65969bc9b3eaf05e8b5177e0)
 
-## [The Complete AI Powered Stock Research Platform - FinChat.io](https://nicelinks.site/post/659010bdb3eaf05e8b515c26)
+## [The Complete AI Powered Stock Research Platform - FinChat.io](https://site.lovejade.cn/post/659010bdb3eaf05e8b515c26)
 
-**标签**：[`AI`](https://nicelinks.site/tags/AI) · [`分析`](https://nicelinks.site/tags/分析) · [`平台`](https://nicelinks.site/tags/平台)
+**标签**：[`AI`](https://site.lovejade.cn/tags/AI) · [`分析`](https://site.lovejade.cn/tags/分析) · [`平台`](https://site.lovejade.cn/tags/平台)
 
 > FinChat.io is the all-in-one investment research platform combining institutional-grade financial data, analytics, and conversational AI.
 
 ![倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/finchat.io.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[FinChat.io](https://finchat.io/) 是集机构级金融数据、分析和对话式 [人工智能](https://nicelinks.site/tags/AI) 于一身的投资研究平台。 它强调其人工智能驱动的研究能力，并将自己定位为全球股票平台。并强调准确数据的重要性，并提供经过人力资本分析师验证的机构质量信息。该平台提供标准普尔市场情报的财务和估计以及 FinChat 验证数据的细分和关键绩效指标。
+**推荐语**：[FinChat.io](https://finchat.io/) 是集机构级金融数据、分析和对话式 [人工智能](https://site.lovejade.cn/tags/AI) 于一身的投资研究平台。 它强调其人工智能驱动的研究能力，并将自己定位为全球股票平台。并强调准确数据的重要性，并提供经过人力资本分析师验证的机构质量信息。该平台提供标准普尔市场情报的财务和估计以及 FinChat 验证数据的细分和关键绩效指标。
 
 该网站还提到了人工智能助手的存在，它允许用户将数据转化为讨论，并使用严格详细和准确的数据深入调查公司。此外，FinChat.io 还提供可定制的终端，用户可以在其中跟踪他们的首选数据并自动保存他们的研究。
 
@@ -110,11 +110,11 @@ FinChat.io 提供时事通讯订阅服务，让用户了解每周的收益、见
 
 总体而言， [FinChat.io](https://finchat.io/) 似乎是一个综合性的股票研究平台，利用人工智能驱动的功能提供准确的数据、工具和见解，帮助投资者做出明智的决策。FinChat 支持免费使用（无需信用卡），如果需要更贴心、强大需要购买 Pro 计划（29 美元每月）。
 
-── 出自[倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://nicelinks.site/post/659010bdb3eaf05e8b515c26)
+── 出自[倾城之链 - The Complete AI Powered Stock Research Platform - FinChat.io](https://site.lovejade.cn/post/659010bdb3eaf05e8b515c26)
 
-## [Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://nicelinks.site/post/65900c63b3eaf05e8b515c0a)
+## [Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://site.lovejade.cn/post/65900c63b3eaf05e8b515c0a)
 
-**标签**：[`程序库`](https://nicelinks.site/tags/程序库) · [`NodeJS`](https://nicelinks.site/tags/NodeJS) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`程序库`](https://site.lovejade.cn/tags/程序库) · [`NodeJS`](https://site.lovejade.cn/tags/NodeJS) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > A simple distributed task scheduler and runner.
 
@@ -154,7 +154,7 @@ curl -s https://raw.githubusercontent.com/jhuckaby/Cronicle/master/bin/install.j
 
 基于 Node.js 的作业调度程度较多，诸如： [node-schedule](https://www.npmjs.com/package/node-schedule) （一个灵活的 Node.js 类 cron 和非 cron 作业调度程序）、 [node-cron](https://www.npmjs.com/package/node-cron) （基于 GNU crontab 的 Node.js 纯 JavaScript 微型任务调度程序），但 **Cronicle** 的功能更为丰富。如果您对这款程序库感兴趣，可 [移步至 Cronicle 在 Github 开源仓库](https://github.com/jhuckaby/Cronicle) 从而了解更多。
 
-── 出自[倾城之链 - Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://nicelinks.site/post/65900c63b3eaf05e8b515c0a)
+── 出自[倾城之链 - Cronicle | A simple, distributed task scheduler and runner with a web based UI](https://site.lovejade.cn/post/65900c63b3eaf05e8b515c0a)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

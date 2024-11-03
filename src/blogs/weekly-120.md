@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Plane - The open source project management tool](https://nicelinks.site/post/64787f516cb99b599be011f8)
+## [Plane - The open source project management tool](https://site.lovejade.cn/post/64787f516cb99b599be011f8)
 
-**标签**：[`开源`](https://nicelinks.site/tags/开源) · [`自托管`](https://nicelinks.site/tags/自托管) · [`项目管理`](https://nicelinks.site/tags/项目管理)
+**标签**：[`开源`](https://site.lovejade.cn/tags/开源) · [`自托管`](https://site.lovejade.cn/tags/自托管) · [`项目管理`](https://site.lovejade.cn/tags/项目管理)
 
 **关键字**：open source, plane, project management, jira alternative, plane.so,
 
@@ -24,13 +24,13 @@
 - **Command K**：使用新的 `Command + K` 菜单享受更好的用户体验。从一个方便的位置轻松管理和浏览您的项目。
 - **GitHub Sync**：通过将 GitHub 问题与 Plane 同步来简化您的计划过程。将所有问题放在一个地方，以便更好地跟踪和协作。
 
-相比于 Jira，Plane 完全开源，而且界面更简洁、舒服、易用。部署方便快捷, 支持 [Docker](https://nicelinks.site/post/5b7036890f8719053c094d68) 进行轻松 [自托管](https://nicelinks.site/tags/自托管) ，还很贴心的支持从 Github 以及 Jira 直接导入。截止目前（2023 年 06 月 01 日），飞机仍处于早期阶段，并非一切都完美，可能会出现问题，如果您有任何建议、想法，可通过 [Discord](https://discord.com/invite/A92xrEGCge) 或 [GitHub Issues](https://github.com/makeplane/plane) 进行反馈。
+相比于 Jira，Plane 完全开源，而且界面更简洁、舒服、易用。部署方便快捷, 支持 [Docker](https://site.lovejade.cn/post/5b7036890f8719053c094d68) 进行轻松 [自托管](https://site.lovejade.cn/tags/自托管) ，还很贴心的支持从 Github 以及 Jira 直接导入。截止目前（2023 年 06 月 01 日），飞机仍处于早期阶段，并非一切都完美，可能会出现问题，如果您有任何建议、想法，可通过 [Discord](https://discord.com/invite/A92xrEGCge) 或 [GitHub Issues](https://github.com/makeplane/plane) 进行反馈。
 
-── 出自[倾城之链 - Plane - The open source project management tool](https://nicelinks.site/post/64787f516cb99b599be011f8)
+── 出自[倾城之链 - Plane - The open source project management tool](https://site.lovejade.cn/post/64787f516cb99b599be011f8)
 
-## [MingCute Icon \_ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
+## [MingCute Icon \_ Carefully Designed Icon Library](https://site.lovejade.cn/post/6476c3c0d10b0244940e06d1)
 
-**标签**：[`图标`](https://nicelinks.site/tags/图标) · [`SVG`](https://nicelinks.site/tags/SVG) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`图标`](https://site.lovejade.cn/tags/图标) · [`SVG`](https://site.lovejade.cn/tags/SVG) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 **关键字**：MingCuteIcon, svg, icons, icon-pack, icon-font
 
@@ -38,19 +38,19 @@
 
 ![倾城之链 - MingCute Icon _ Carefully Designed Icon Library](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.mingcute.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[MingCute](https://www.mingcute.com/) 是一套简洁精致的开源 [图标](https://nicelinks.site/tags/图标) 库。无论您是设计师还是开发人员，它都非常适合用于 Web 和移动设备。它内置 2.3K 图标，每个图标都设计在 24 x 24 网格内，但支持修改颜色和**尺寸**，并且提供 SVG、PNG   和网络字体；用不除了下载、拷贝直接使用之外，也可以通过 npm 安装对应依赖这种方式。该项目在 [Github 仓库开源](https://github.com/Richard9394/MingCute) ，如果您感兴趣可移步以了解更多。
+**推荐语**：[MingCute](https://www.mingcute.com/) 是一套简洁精致的开源 [图标](https://site.lovejade.cn/tags/图标) 库。无论您是设计师还是开发人员，它都非常适合用于 Web 和移动设备。它内置 2.3K 图标，每个图标都设计在 24 x 24 网格内，但支持修改颜色和**尺寸**，并且提供 SVG、PNG   和网络字体；用不除了下载、拷贝直接使用之外，也可以通过 npm 安装对应依赖这种方式。该项目在 [Github 仓库开源](https://github.com/Richard9394/MingCute) ，如果您感兴趣可移步以了解更多。
 
-── 出自[倾城之链 - MingCute Icon \_ Carefully Designed Icon Library](https://nicelinks.site/post/6476c3c0d10b0244940e06d1)
+── 出自[倾城之链 - MingCute Icon \_ Carefully Designed Icon Library](https://site.lovejade.cn/post/6476c3c0d10b0244940e06d1)
 
-## [Shottr – Screenshot Annotation App For Mac](https://nicelinks.site/post/6475e599d10b0244940e01c3)
+## [Shottr – Screenshot Annotation App For Mac](https://site.lovejade.cn/post/6475e599d10b0244940e01c3)
 
-**标签**：[`截图`](https://nicelinks.site/tags/截图) · [`Mac`](https://nicelinks.site/tags/Mac) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`截图`](https://site.lovejade.cn/tags/截图) · [`Mac`](https://site.lovejade.cn/tags/Mac) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 > Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.
 
 ![倾城之链 - Shottr – Screenshot Annotation App For Mac](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/shottr.cc.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Shottr](https://shottr.cc/) 是一个 [免费](https://nicelinks.site/tags/免费) 的 [MacOS](https://nicelinks.site/tags/Mac) 屏幕截图应用程序，具有滚动屏幕截图、OCR、注释和测量工具；具有小巧、快速、人性化等特点，专为那些关心像素的人打造。它是用 [Swift](https://nicelinks.site/post/6232f5ca77e4352be838a308) 制作的，针对 M1 进行了优化；它具有如下功能特征：
+**推荐语**：[Shottr](https://shottr.cc/) 是一个 [免费](https://site.lovejade.cn/tags/免费) 的 [MacOS](https://site.lovejade.cn/tags/Mac) 屏幕截图应用程序，具有滚动屏幕截图、OCR、注释和测量工具；具有小巧、快速、人性化等特点，专为那些关心像素的人打造。它是用 [Swift](https://site.lovejade.cn/post/6232f5ca77e4352be838a308) 制作的，针对 M1 进行了优化；它具有如下功能特征：
 
 ### 小而快
 
@@ -98,11 +98,11 @@ Shottr 是一款针对 M1 优化的微型（1.6mb dmg，3.6mb 解压）本机应
 
 Shottr 精致小巧，有良好的快捷键支持，更提供了许多付费工具才有的功能，已经把它设置为默认截图工具，并在多台 Mac 上设置。在其官网，作者展望了后续将注入的功能；相信未来会有更多令人欣喜的更新。如果您使用 MacOS ，而且对于截图功能具有高频诉求，推荐考虑 `Shottr`。
 
-── 出自[倾城之链 - Shottr – Screenshot Annotation App For Mac](https://nicelinks.site/post/6475e599d10b0244940e01c3)
+── 出自[倾城之链 - Shottr – Screenshot Annotation App For Mac](https://site.lovejade.cn/post/6475e599d10b0244940e01c3)
 
-## [Splitbee – Your all-in-one analytics and conversion platform](https://nicelinks.site/post/647494a7d10b0244940df877)
+## [Splitbee – Your all-in-one analytics and conversion platform](https://site.lovejade.cn/post/647494a7d10b0244940df877)
 
-**标签**：[`分析`](https://nicelinks.site/tags/分析) · [`免费`](https://nicelinks.site/tags/免费) · [`营销`](https://nicelinks.site/tags/营销)
+**标签**：[`分析`](https://site.lovejade.cn/tags/分析) · [`免费`](https://site.lovejade.cn/tags/免费) · [`营销`](https://site.lovejade.cn/tags/营销)
 
 **关键字**：Product Analytics, Funnels, Conversions, Improve
 
@@ -157,13 +157,13 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 实时查看您的仪表板更新。了解用户来来去去。
 
-从 [offsec.tools](https://nicelinks.site/post/647490d0d10b0244940df859) 这款产品中，了解到 Splitbee 这款产品；看了下介绍，因为其漂亮界面、强大功能，以及使用简单等原因，颇为中意；考虑将其注入到所维护的产品中，如 [素问智聊斋](https://chatgpt.nicelinks.site/) ；当然，也有因为 Google Analytics（特指 `GA4`） 所附加的额外动力（Splitbee 有提供 [Splitbee 与谷歌分析](https://splitbee.io/compare/splitbee-vs-google-analytics) 对比 🆚 分析）。遗憾的是，Splitbee 将加入 [Vercel](https://nicelinks.site/post/63dba9f93b0bd5224de21d36)，并已关闭注册；它推荐使用 [Vercel Analytics](https://vercel.com/analytics) —— 他们旅程延续的地方。
+从 [offsec.tools](https://site.lovejade.cn/post/647490d0d10b0244940df859) 这款产品中，了解到 Splitbee 这款产品；看了下介绍，因为其漂亮界面、强大功能，以及使用简单等原因，颇为中意；考虑将其注入到所维护的产品中，如 [素问智聊斋](https://chatgpt.nicelinks.site/) ；当然，也有因为 Google Analytics（特指 `GA4`） 所附加的额外动力（Splitbee 有提供 [Splitbee 与谷歌分析](https://splitbee.io/compare/splitbee-vs-google-analytics) 对比 🆚 分析）。遗憾的是，Splitbee 将加入 [Vercel](https://site.lovejade.cn/post/63dba9f93b0bd5224de21d36)，并已关闭注册；它推荐使用 [Vercel Analytics](https://vercel.com/analytics) —— 他们旅程延续的地方。
 
-── 出自[倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://nicelinks.site/post/647494a7d10b0244940df877)
+── 出自[倾城之链 - Splitbee – Your all-in-one analytics and conversion platform](https://site.lovejade.cn/post/647494a7d10b0244940df877)
 
-## [offsec.tools - A vast collection of security tools](https://nicelinks.site/post/647490d0d10b0244940df859)
+## [offsec.tools - A vast collection of security tools](https://site.lovejade.cn/post/647490d0d10b0244940df859)
 
-**标签**：[`工具`](https://nicelinks.site/tags/工具) · [`安全`](https://nicelinks.site/tags/安全) · [`聚合`](https://nicelinks.site/tags/聚合)
+**标签**：[`工具`](https://site.lovejade.cn/tags/工具) · [`安全`](https://site.lovejade.cn/tags/安全) · [`聚合`](https://site.lovejade.cn/tags/聚合)
 
 **关键字**：offsec, cybersec, security, bug bounty, tools, pentest, redteam
 
@@ -171,7 +171,7 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 ![倾城之链 - offsec.tools - A vast collection of security tools](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/offsec.tools.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[offsec.tools](https://offsec.tools/) 是一个庞大的 [安全](https://nicelinks.site/tags/安全) 工具列表，旨在帮助渗透测试人员和漏洞猎人完成日常任务。该列表按`标签`组织并提供快速搜索引擎；该列表由作者和社区提供。它具有以下功能特征：
+**推荐语**：[offsec.tools](https://offsec.tools/) 是一个庞大的 [安全](https://site.lovejade.cn/tags/安全) 工具列表，旨在帮助渗透测试人员和漏洞猎人完成日常任务。该列表按`标签`组织并提供快速搜索引擎；该列表由作者和社区提供。它具有以下功能特征：
 
 - 工具按标签分类，标签属于一个类别；
 - 内置搜索引擎；
@@ -179,21 +179,21 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 - 相关工具列表；
 - 赞助商创建的工具得到推广并始终出现在搜索结果的第一位；
 - 每周在主页上突出显示 10 个随机工具；
-- [Splitbee](https://nicelinks.site/post/647494a7d10b0244940df877) 上的 [公共分析](https://app.splitbee.io/public/offsec.tools?period=24h) ；
+- [Splitbee](https://site.lovejade.cn/post/647494a7d10b0244940df877) 上的 [公共分析](https://app.splitbee.io/public/offsec.tools?period=24h) ；
 
 您可以通过内置搜索、热门标签、分类、随机、时间线等方式，找寻需要的工具。该项目在 [Github 仓库开源](https://github.com/gwen001/offsectools_www) ，如果对其您感兴趣，可移步前往以了解更多。
 
-── 出自[倾城之链 - offsec.tools - A vast collection of security tools](https://nicelinks.site/post/647490d0d10b0244940df859)
+── 出自[倾城之链 - offsec.tools - A vast collection of security tools](https://site.lovejade.cn/post/647490d0d10b0244940df859)
 
-## [Hugging Face – The AI community building the future.](https://nicelinks.site/post/64748dbdd10b0244940df838)
+## [Hugging Face – The AI community building the future.](https://site.lovejade.cn/post/64748dbdd10b0244940df838)
 
-**标签**：[`机器学习`](https://nicelinks.site/tags/机器学习) · [`AI`](https://nicelinks.site/tags/AI) · [`社区`](https://nicelinks.site/tags/社区)
+**标签**：[`机器学习`](https://site.lovejade.cn/tags/机器学习) · [`AI`](https://site.lovejade.cn/tags/AI) · [`社区`](https://site.lovejade.cn/tags/社区)
 
 > We’re on a journey to advance and democratize artificial intelligence through open source and open science.
 
 ![倾城之链 - Hugging Face – The AI community building the future.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/huggingface.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Hugging Face](https://huggingface.co/) ，是一个面向自然语言处理（NLP）和[机器学习](https://nicelinks.site/tags/机器学习)社区的开源平台，旨在为用户提供各种预训练模型、数据集和工具，以帮助他们更轻松地开发和部署自己的 NLP 应用程序。该网站的主要内容包括：
+**推荐语**：[Hugging Face](https://huggingface.co/) ，是一个面向自然语言处理（NLP）和[机器学习](https://site.lovejade.cn/tags/机器学习)社区的开源平台，旨在为用户提供各种预训练模型、数据集和工具，以帮助他们更轻松地开发和部署自己的 NLP 应用程序。该网站的主要内容包括：
 
 1. **预训练模型**：Hugging Face 提供了超过 10 万个预训练模型，涵盖了 NLP、计算机视觉、语音、时间序列、生物学、强化学习等领域。这些模型可以帮助用户更快地构建自己的 NLP 应用程序，同时也可以通过 Fine-tuning 的方式对这些模型进行个性化定制。
 
@@ -203,17 +203,17 @@ Splitbee 保证您的网站保持快速。Splitbee 体积小  (<4kb)并在全�
 
 通过使用 Hugging Face，用户可以更快地构建自己的 NLP 应用程序，同时也可以更方便地使用和定制预训练模型和数据集。此外，Hugging Face 还提供了社区和论坛，用户可以在这里与其他 NLP 和机器学习从业者交流和分享经验。
 
-[Hugging Face](https://huggingface.co/) 为自己赋予的是使命：是让良好的 [机器学习](https://nicelinks.site/tags/机器学习) 民主化；它拥有一个非常强大并且活跃的人工智能社区。有超过 5000 多家机构都在 Hugging Face 的社区发布内容，包括 Google AI、Facebook AI、微软等。自从 2016 年成立以来，这家企业经历了多轮融资。
+[Hugging Face](https://huggingface.co/) 为自己赋予的是使命：是让良好的 [机器学习](https://site.lovejade.cn/tags/机器学习) 民主化；它拥有一个非常强大并且活跃的人工智能社区。有超过 5000 多家机构都在 Hugging Face 的社区发布内容，包括 Google AI、Facebook AI、微软等。自从 2016 年成立以来，这家企业经历了多轮融资。
 
-Hugging face 起初是一家总部位于纽约的聊天机器人初创服务商，他们本来打算创业做聊天机器人，然后在 [Github](https://nicelinks.site/tags/Github) 上开源了一个 [Transformers](https://github.com/huggingface/transformers) 库，虽然聊天机器人业务没搞起来，但是他们的这个库在机器学习社区迅速大火起来。目前已经共享了超 100,000 个预训练模型，10,000 个数据集，变成了机器学习界的 `Github`。
+Hugging face 起初是一家总部位于纽约的聊天机器人初创服务商，他们本来打算创业做聊天机器人，然后在 [Github](https://site.lovejade.cn/tags/Github) 上开源了一个 [Transformers](https://github.com/huggingface/transformers) 库，虽然聊天机器人业务没搞起来，但是他们的这个库在机器学习社区迅速大火起来。目前已经共享了超 100,000 个预训练模型，10,000 个数据集，变成了机器学习界的 `Github`。
 
 Hugging Face 之所以能够获得如此巨大的成功，主要归结于以下几个方面：首先，它让中小企业，尤其是初学者也能快速使用科研大咖们训练出的高质量模型。其次，这种特别开放的文化和态度，以及利他利己的精神特别吸引人。在 Hugging Face 上，许多业界大牛也在使用和提交新模型，这使得普通人站在他们的肩膀上工作，而不是从头开始。当然，普通人也没有像大牛那样丰富的计算资源和数据集。
 
-如今，HuggingFace 的官方网站已经是一个大型的人工智能[社区](https://nicelinks.site/tags/社区)。他们运营着很多产品。HuggingFace 的社区模式与我们现有的社区不一样。他们相当于一个机构的品牌专区。每一个机构可以在上面发布自己的模型、数据集和 Spaces。
+如今，HuggingFace 的官方网站已经是一个大型的人工智能[社区](https://site.lovejade.cn/tags/社区)。他们运营着很多产品。HuggingFace 的社区模式与我们现有的社区不一样。他们相当于一个机构的品牌专区。每一个机构可以在上面发布自己的模型、数据集和 Spaces。
 
-总之，Hugging Face 在 [人工智能](https://nicelinks.site/tags/AI) 领域的影响力很大，运营着很大的一个社区。它的成长转变也是因为贡献了基于 pytorch 的 bert 而发生了很大的变化。目前，它们的社区非常活跃，也在持续地贡献优秀的产品。像他们提供的 Transformers、Tokenizers、Datasets、Accelerate 库都对 NLP 相关的实践产生了很大的促进。此外，各大公司在它的社区的贡献和支持，也让这家企业的社区更加活跃和健康。
+总之，Hugging Face 在 [人工智能](https://site.lovejade.cn/tags/AI) 领域的影响力很大，运营着很大的一个社区。它的成长转变也是因为贡献了基于 pytorch 的 bert 而发生了很大的变化。目前，它们的社区非常活跃，也在持续地贡献优秀的产品。像他们提供的 Transformers、Tokenizers、Datasets、Accelerate 库都对 NLP 相关的实践产生了很大的促进。此外，各大公司在它的社区的贡献和支持，也让这家企业的社区更加活跃和健康。
 
-── 出自[倾城之链 - Hugging Face – The AI community building the future.](https://nicelinks.site/post/64748dbdd10b0244940df838)
+── 出自[倾城之链 - Hugging Face – The AI community building the future.](https://site.lovejade.cn/post/64748dbdd10b0244940df838)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

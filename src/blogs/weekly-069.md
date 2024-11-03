@@ -1,10 +1,10 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Kap - Capture your screen](https://nicelinks.site/post/62a1e267bcba9006a79e869c)
+## [Kap - Capture your screen](https://site.lovejade.cn/post/62a1e267bcba9006a79e869c)
 
-**标签**：[`Mac`](https://nicelinks.site/tags/Mac) · [`工具`](https://nicelinks.site/tags/工具) · [`软件`](https://nicelinks.site/tags/软件)
+**标签**：[`Mac`](https://site.lovejade.cn/tags/Mac) · [`工具`](https://site.lovejade.cn/tags/工具) · [`软件`](https://site.lovejade.cn/tags/软件)
 
 **关键字**：Kap, capture, record, screen, aspect, ratio, HD, FPS, 60FPS
 
@@ -30,11 +30,11 @@
 
 不管你是喜欢简洁的录制工具，还是喜欢增强插件，Kap 都是一个很好的工具。有了 Kap，录制屏幕内容的工作流，变得简单，让我有了录制的热情；在所用为数不多几款录屏软件中，我愿称 Kap 最强。如果您也有录屏的需求，Kap 是不应该错过的选择。
 
-── 出自[倾城之链 - Kap - Capture your screen](https://nicelinks.site/post/62a1e267bcba9006a79e869c)
+── 出自[倾城之链 - Kap - Capture your screen](https://site.lovejade.cn/post/62a1e267bcba9006a79e869c)
 
-## [免费在线学习代码重构和设计模式](https://nicelinks.site/post/62a1da63bcba9006a79e869a)
+## [免费在线学习代码重构和设计模式](https://site.lovejade.cn/post/62a1da63bcba9006a79e869a)
 
-**标签**：[`编码`](https://nicelinks.site/tags/编码) · [`在线`](https://nicelinks.site/tags/在线) · [`学习`](https://nicelinks.site/tags/学习)
+**标签**：[`编码`](https://site.lovejade.cn/tags/编码) · [`在线`](https://site.lovejade.cn/tags/在线) · [`学习`](https://site.lovejade.cn/tags/学习)
 
 **关键字**：免费, 在线, 学习, 代码, 重构, 设计模式, 工厂模式, 迭代器, 单例, 观察者
 
@@ -48,17 +48,17 @@
 
 值得一提的是，目前网站中，已有许多关于重构和设计模式的信息， 但作者仍会不时地对该项目进行更新。 你还可以通过「电子邮件」关注项目进展。对于 IT 从业者（程序员）， **设计模式**（是软件设计中常见问题的典型解决方案。  它们就像能够根据需求进行调整的预制蓝图，  可用于解决代码中的特定设计问题），与**重构**（是一种能够在不新增功能的情况下优化代码的系统过程，  它可将一团乱麻变成清晰的代码和简洁的设计），是非常值得掌握的技能；该网站，以非常合理的方式，介绍了「什么是设计模式」，每种模式的**意图**、**所解决的问题**、**伪代码**，**适合应用场景**、**实现方式**、**优缺点**、**与其他模式的关系**、**代码示例**等等，可谓全面，超乎想象，如果您有从事编程行业，强烈推荐收藏 & 阅读。
 
-── 出自[倾城之链 - 免费在线学习代码重构和设计模式](https://nicelinks.site/post/62a1da63bcba9006a79e869a)
+── 出自[倾城之链 - 免费在线学习代码重构和设计模式](https://site.lovejade.cn/post/62a1da63bcba9006a79e869a)
 
-## [VitePress | Vite & Vue Powered Static Site Generator](https://nicelinks.site/post/629f40babcba9006a79e8694)
+## [VitePress | Vite & Vue Powered Static Site Generator](https://site.lovejade.cn/post/629f40babcba9006a79e8694)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`Vue`](https://nicelinks.site/tags/Vue) · [`Markdown`](https://nicelinks.site/tags/Markdown)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`Vue`](https://site.lovejade.cn/tags/Vue) · [`Markdown`](https://site.lovejade.cn/tags/Markdown)
 
 > Vite & Vue powered static site generator.
 
 ![倾城之链 - VitePress | Vite & Vue Powered Static Site Generator](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vitepress.vuejs.org.png?x-oss-process=style/png2jpg)
 
-**推荐语**： [VitePress](https://vitepress.vuejs.org/) ，基于 [Vue](https://nicelinks.site/post/5b1a221c0526c920d6dfaada) & [Vite](https://nicelinks.site/post/6010e1b10c71de1fb957b64e) 的[静态站点生成器](https://nicelinks.site/tags/网站生成器)（开源、简单、强大且高性能）。截止目前（2022/06/07），它正处于 `alpha` 阶段。它已经适合`开箱即用`的文档使用，但配置和主题 API 可能仍会在次要版本之间发生变化。VitePress 具有以下功能特性：
+**推荐语**： [VitePress](https://vitepress.vuejs.org/) ，基于 [Vue](https://site.lovejade.cn/post/5b1a221c0526c920d6dfaada) & [Vite](https://site.lovejade.cn/post/6010e1b10c71de1fb957b64e) 的[静态站点生成器](https://site.lovejade.cn/tags/网站生成器)（开源、简单、强大且高性能）。截止目前（2022/06/07），它正处于 `alpha` 阶段。它已经适合`开箱即用`的文档使用，但配置和主题 API 可能仍会在次要版本之间发生变化。VitePress 具有以下功能特性：
 
 ### Vite 无可匹敌的 DX
 
@@ -76,13 +76,13 @@
 
 使用真正的 SSG+SPA 架构，尽情发挥。在页面加载时是静态的，但从那里开始以 100% 的互动性吸引用户。
 
-倒是用过非常多[静态站点生成器](https://nicelinks.site/tags/网站生成器)工具，来搭建博客或承载文档，诸如：[VuePress](https://nicelinks.site/post/5b2298f5d1c6ca419a9f7e00)、[Next.js](https://nicelinks.site/post/61c928af5be6454b4e3d5146)、[Wiki.js](https://nicelinks.site/post/61a334f7465c2155e2d15886) 等等。在[如何选定搭建个人独立博客工具](https://quickapp.lovejade.cn/vuepress-hexo-jekyll-ghost-gitbook-hugo-solo_compare-personal-website-generator/) 一文中，有做详细叙述。Vue3 和 Vite，有体验过，于前端开发而言，非常值得使用。之于 VitePress 相信也有其可取处，感兴趣的朋友不妨玩儿一下。
+倒是用过非常多[静态站点生成器](https://site.lovejade.cn/tags/网站生成器)工具，来搭建博客或承载文档，诸如：[VuePress](https://site.lovejade.cn/post/5b2298f5d1c6ca419a9f7e00)、[Next.js](https://site.lovejade.cn/post/61c928af5be6454b4e3d5146)、[Wiki.js](https://site.lovejade.cn/post/61a334f7465c2155e2d15886) 等等。在[如何选定搭建个人独立博客工具](https://quickapp.lovejade.cn/vuepress-hexo-jekyll-ghost-gitbook-hugo-solo_compare-personal-website-generator/) 一文中，有做详细叙述。Vue3 和 Vite，有体验过，于前端开发而言，非常值得使用。之于 VitePress 相信也有其可取处，感兴趣的朋友不妨玩儿一下。
 
-── 出自[倾城之链 - VitePress | Vite & Vue Powered Static Site Generator](https://nicelinks.site/post/629f40babcba9006a79e8694)
+── 出自[倾城之链 - VitePress | Vite & Vue Powered Static Site Generator](https://site.lovejade.cn/post/629f40babcba9006a79e8694)
 
-## [JSON Viewer - JSON Hero](https://nicelinks.site/post/629f36b4f7de4036d27ffe88)
+## [JSON Viewer - JSON Hero](https://site.lovejade.cn/post/629f36b4f7de4036d27ffe88)
 
-**标签**：[`开源`](https://nicelinks.site/tags/开源) · [`JSON`](https://nicelinks.site/tags/JSON) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`开源`](https://site.lovejade.cn/tags/开源) · [`JSON`](https://site.lovejade.cn/tags/JSON) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 > JSON Hero makes reading and understand JSON files easy by giving you a clean and beautiful UI packed with extra features.
 
@@ -101,17 +101,17 @@
 
 JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停止盯着编辑器中的千行 JSON 文件；此外，JSON Hero 使用非常的简单，只需打开网站，输入 JSON URL，或者粘贴 JSON 内容即可。另外值得一提的是，JSON Hero 免费可用，并在 [Github 完全开源](https://github.com/jsonhero-io/jsonhero-web)，感兴趣的朋友，可以了解下。
 
-── 出自[倾城之链 - JSON Viewer - JSON Hero](https://nicelinks.site/post/629f36b4f7de4036d27ffe88)
+── 出自[倾城之链 - JSON Viewer - JSON Hero](https://site.lovejade.cn/post/629f36b4f7de4036d27ffe88)
 
-## [What is GraphQL Start - GraphQL Start](https://nicelinks.site/post/629df3cbf7de4036d27ffe86)
+## [What is GraphQL Start - GraphQL Start](https://site.lovejade.cn/post/629df3cbf7de4036d27ffe86)
 
-**标签**：[`GraphQL`](https://nicelinks.site/tags/GraphQL) · [`JavaScript`](https://nicelinks.site/tags/JavaScript) · [`教程`](https://nicelinks.site/tags/教程)
+**标签**：[`GraphQL`](https://site.lovejade.cn/tags/GraphQL) · [`JavaScript`](https://site.lovejade.cn/tags/JavaScript) · [`教程`](https://site.lovejade.cn/tags/教程)
 
 > GraphQL Start is a pragmatic guide that explains how to build a GraphQL API (server) from start to finish on top of Node.js stack using JavaScript and GraphQL.js library.
 
 ![倾城之链 - What is GraphQL Start - GraphQL Start](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/graphqlstart.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[GraphQL Start](https://graphqlstart.com/) 是一本实用指南（该网站基于 [Gitbook](https://nicelinks.site/post/5c7d27dace377707f7f675f3) 所搭建），它解释了如何使用 JavaScript 和 [GraphQL.js](https://nicelinks.site/post/61c9a2d25be6454b4e3d5148) 库在 Node.js 堆栈之上从头到尾构建 GraphQL API（服务器）。在本**教程**中，您将学习以下内容：
+**推荐语**：[GraphQL Start](https://graphqlstart.com/) 是一本实用指南（该网站基于 [Gitbook](https://site.lovejade.cn/post/5c7d27dace377707f7f675f3) 所搭建），它解释了如何使用 JavaScript 和 [GraphQL.js](https://site.lovejade.cn/post/61c9a2d25be6454b4e3d5148) 库在 Node.js 堆栈之上从头到尾构建 GraphQL API（服务器）。在本**教程**中，您将学习以下内容：
 
 - 如何组织你的 GraphQL API 项目
 - 如何实现查询、突变和订阅；
@@ -122,11 +122,11 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 
 需要补充说明的是，在阅读这份教程，您至少需要熟悉 **Node.js** 和 **JavaScript** 的基本概念。
 
-── 出自[倾城之链 - What is GraphQL Start - GraphQL Start](https://nicelinks.site/post/629df3cbf7de4036d27ffe86)
+── 出自[倾城之链 - What is GraphQL Start - GraphQL Start](https://site.lovejade.cn/post/629df3cbf7de4036d27ffe86)
 
-## [Relay | A JavaScript Framework for building data-driven React Applications](https://nicelinks.site/post/629deedff7de4036d27ffe84)
+## [Relay | A JavaScript Framework for building data-driven React Applications](https://site.lovejade.cn/post/629deedff7de4036d27ffe84)
 
-**标签**：[`React`](https://nicelinks.site/tags/React) · [`GraphQL`](https://nicelinks.site/tags/GraphQL) · [`框架`](https://nicelinks.site/tags/框架)
+**标签**：[`React`](https://site.lovejade.cn/tags/React) · [`GraphQL`](https://site.lovejade.cn/tags/GraphQL) · [`框架`](https://site.lovejade.cn/tags/框架)
 
 > Relay is a JavaScript framework for building data-driven React applications.
 
@@ -143,7 +143,7 @@ JSON 本身非常不利于阅读，但 JSON Hero 正在让它变得更好：停�
 
 Relay 用于在 React 应用程序中获取和管理 GraphQL 数据，它强调可维护性、类型安全和运行时性能。通过结合声明性数据获取和静态构建步骤来实现这一点。通过声明性数据获取，组件声明它们需要什么数据，而 Relay 会弄清楚如何有效地获取数据。在静态构建步骤中，Relay 验证和优化查询，并预先计算工件以实现更快的运行时性能。如果您从事 Web 前端开发相关工作，并对 Relay 感兴趣，可阅读 [Relay 文档](https://relay.dev/docs/) 以便进一步了解和使用它。
 
-── 出自[倾城之链 - Relay | A JavaScript Framework for building data-driven React Applications](https://nicelinks.site/post/629deedff7de4036d27ffe84)
+── 出自[倾城之链 - Relay | A JavaScript Framework for building data-driven React Applications](https://site.lovejade.cn/post/629deedff7de4036d27ffe84)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 

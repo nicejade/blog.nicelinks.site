@@ -1,16 +1,16 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://nicelinks.site/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://nicelinks.site/about?utm_source=weekly)。
+[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
-**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
+**备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
-## [Questflow: Build AI agents for workflow automation with no-code](https://nicelinks.site/post/64afe886b95cf7176299ded0)
+## [Questflow: Build AI agents for workflow automation with no-code](https://site.lovejade.cn/post/64afe886b95cf7176299ded0)
 
-**标签**：[`无代码`](https://nicelinks.site/tags/无代码) · [`AI`](https://nicelinks.site/tags/AI) · [`自动化`](https://nicelinks.site/tags/自动化)
+**标签**：[`无代码`](https://site.lovejade.cn/tags/无代码) · [`AI`](https://site.lovejade.cn/tags/AI) · [`自动化`](https://site.lovejade.cn/tags/自动化)
 
 > Questflow is a marketplace for no-code AI-powered workflow automation. We help users to discover and deploy AI workflows for cross-platform automation. Also, we help creators to customize, distribute and monetize AI workflows, without coding experience.
 
 ![倾城之链 - Questflow: Build AI agents for workflow automation with no-code](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.questflow.ai.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Questflow](https://www.questflow.ai/) 是一个无代码 [AI](https://nicelinks.site/tags/AI) 驱动的工作流 [自动化](https://nicelinks.site/tags/自动化) 市场；他们帮助用户发现和部署跨平台自动化的人工智能工作流。此外，Questflow 还帮助创建者定制、分发人工智能工作流，并将其货币化，而无需编码经验。它具有如下功能特征：
+**推荐语**：[Questflow](https://www.questflow.ai/) 是一个无代码 [AI](https://site.lovejade.cn/tags/AI) 驱动的工作流 [自动化](https://site.lovejade.cn/tags/自动化) 市场；他们帮助用户发现和部署跨平台自动化的人工智能工作流。此外，Questflow 还帮助创建者定制、分发人工智能工作流，并将其货币化，而无需编码经验。它具有如下功能特征：
 
 ### 与您喜爱的应用程序集成
 
@@ -28,13 +28,13 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 - **需要零代码或机器学习经验**：我们提供基于流程的无代码工具，任何人都可以使用，无需编码或机器学习经验。
 - **随时随地赚钱**：在实际使用工作流程之前，不要担心成本。我们甚至在您注册时为您提供免费积分。
 
-总之，Questflow 通过任务驱动、支持流程的 AI 代理来提高您的工作[效率](https://nicelinks.site/tags/效率)，在几分钟内构建无代码人工智能工作流程；它支持可视化自定义工作流，类似融合了 AI 能力的 [IFTTT](https://nicelinks.site/post/5a4fa10010557108b70ff464) 。如果您渴求效率，不妨尝试 Questflow，将平凡的事情自动化，从而释放您的创造力。
+总之，Questflow 通过任务驱动、支持流程的 AI 代理来提高您的工作[效率](https://site.lovejade.cn/tags/效率)，在几分钟内构建无代码人工智能工作流程；它支持可视化自定义工作流，类似融合了 AI 能力的 [IFTTT](https://site.lovejade.cn/post/5a4fa10010557108b70ff464) 。如果您渴求效率，不妨尝试 Questflow，将平凡的事情自动化，从而释放您的创造力。
 
-── 出自[倾城之链 - Questflow: Build AI agents for workflow automation with no-code](https://nicelinks.site/post/64afe886b95cf7176299ded0)
+── 出自[倾城之链 - Questflow: Build AI agents for workflow automation with no-code](https://site.lovejade.cn/post/64afe886b95cf7176299ded0)
 
-## [xAI: Understand the Universe](https://nicelinks.site/post/64afdf0cb95cf7176299de6b)
+## [xAI: Understand the Universe](https://site.lovejade.cn/post/64afdf0cb95cf7176299de6b)
 
-**标签**：[`官网`](https://nicelinks.site/tags/官网) · [`AI`](https://nicelinks.site/tags/AI) · [`高科技`](https://nicelinks.site/tags/高科技)
+**标签**：[`官网`](https://site.lovejade.cn/tags/官网) · [`AI`](https://site.lovejade.cn/tags/AI) · [`高科技`](https://site.lovejade.cn/tags/高科技)
 
 > xAI is a new company founded by Elon Musk that sets out to Understand the Universe.
 
@@ -42,11 +42,11 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 
 **推荐语**：[xAI](: urlhttps://x=) 是一家由埃隆-马斯克（Elon Musk）创立的新公司，2023 年 7 月 12 日宣布成立，其目标是了解宇宙的真实本质（Understand the true nature of the Universe.）。团队由 [特斯拉](https://tesla.com/) 和 [SpaceX](https://spacex.com/) 首席执行官埃隆·马斯克 (Elon Musk) 领导；成员之前曾在 [DeepMind](https://deepmind.com/) 、 [OpenAI](https://openai.com/) 、 [Google Research](https://research.google/) 、 [Microsoft Research](https://www.microsoft.com/en-us/research/) 、 [Tesla](https://tesla.com/) 和 [多伦多大学](https://www.utoronto.ca/) 工作过。他们致力于并领导该领域一些最大突破的开发，包括 AlphaStar、AlphaCode、Inception、Minerva、GPT-3.5 和 GPT-4。
 
-── 出自[倾城之链 - xAI: Understand the Universe](https://nicelinks.site/post/64afdf0cb95cf7176299de6b)
+── 出自[倾城之链 - xAI: Understand the Universe](https://site.lovejade.cn/post/64afdf0cb95cf7176299de6b)
 
-## [HelpLook | 免费搭建帮助中心](https://nicelinks.site/post/64af6f75b95cf7176299d73b)
+## [HelpLook | 免费搭建帮助中心](https://site.lovejade.cn/post/64af6f75b95cf7176299d73b)
 
-**标签**：[`网站生成器`](https://nicelinks.site/tags/网站生成器) · [`知识库`](https://nicelinks.site/tags/知识库) · [`文档`](https://nicelinks.site/tags/文档)
+**标签**：[`网站生成器`](https://site.lovejade.cn/tags/网站生成器) · [`知识库`](https://site.lovejade.cn/tags/知识库) · [`文档`](https://site.lovejade.cn/tags/文档)
 
 **关键字**：帮助中心, 帮助文档, HelpLook, HelpLook, 帮助中心, 免费搭建, 免费生成帮助中心, 产品支持, 用户帮助, FAQ, 使用指南, 疑难解答, 帮助中心站点
 
@@ -54,11 +54,11 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 
 ![倾城之链 - HelpLook | 免费搭建帮助中心](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/www.helplook.net.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[HelpLook](https://www.helplook.net/) 是一款快速搭建产品帮助中心、 [知识库](https://nicelinks.site/tags/知识库) 、官方博客的工具，它可以在五分钟内，为您的产品免费搭建一个帮助中心；提供简洁专业的文档编辑功能，与可定制的个性主页；从而助力企业发展，节省人力成本，提升客户满意度。HelpLook 具有如下几个特色功能：
+**推荐语**：[HelpLook](https://www.helplook.net/) 是一款快速搭建产品帮助中心、 [知识库](https://site.lovejade.cn/tags/知识库) 、官方博客的工具，它可以在五分钟内，为您的产品免费搭建一个帮助中心；提供简洁专业的文档编辑功能，与可定制的个性主页；从而助力企业发展，节省人力成本，提升客户满意度。HelpLook 具有如下几个特色功能：
 
-### HelpLook 已接入 [ChatGPT](https://nicelinks.site/tags/ChatGPT)
+### HelpLook 已接入 [ChatGPT](https://site.lovejade.cn/tags/ChatGPT)
 
-体验基于文档的 [AI](https://nicelinks.site/tags/AI) 客服与 AI 搜索服务，让 AI 更懂你的业务。
+体验基于文档的 [AI](https://site.lovejade.cn/tags/AI) 客服与 AI 搜索服务，让 AI 更懂你的业务。
 
 ### 轻松搭建自己的站点
 
@@ -70,17 +70,17 @@ Questflow 为您喜爱的所有服务提供应用程序。使用 Questflow 自�
 
 除此之外，`helplook` 提供便捷的编辑管理后台，支持站点域名自定义、全球部署、多语言切换、第三方插件，内置多站点模板、反馈分析、集成 ChatGPT AI 搜索功能等等；如果您想为客户提供一流的文档体验，可考虑让 HelpLook 助你一臂之力。如果您对 HelpLook 这款产品感兴趣，可移步 [HelpLook 帮助中心](https://help.helplook.net/) 以了解更多。
 
-── 出自[倾城之链 - HelpLook | 免费搭建帮助中心](https://nicelinks.site/post/64af6f75b95cf7176299d73b)
+── 出自[倾城之链 - HelpLook | 免费搭建帮助中心](https://site.lovejade.cn/post/64af6f75b95cf7176299d73b)
 
-## [Novu - The open-source notification infrastructure](https://nicelinks.site/post/64ae9adcb95cf7176299d15f)
+## [Novu - The open-source notification infrastructure](https://site.lovejade.cn/post/64ae9adcb95cf7176299d15f)
 
-**标签**：[`API`](https://nicelinks.site/tags/API) · [`开发者`](https://nicelinks.site/tags/开发者) · [`开源`](https://nicelinks.site/tags/开源)
+**标签**：[`API`](https://site.lovejade.cn/tags/API) · [`开发者`](https://site.lovejade.cn/tags/开发者) · [`开源`](https://site.lovejade.cn/tags/开源)
 
 > The ultimate library for managing multi-channel transactional notifications with a single API.
 
 ![倾城之链 - Novu - The open-source notification infrastructure](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/novu.co.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Novu](https://novu.co/) ，面向开发人员的开源通知基础设施，使用单个 [API](https://nicelinks.site/tags/API) 管理多渠道通知的终极服务。它提供统一的 API，可以轻松地通过多种渠道发送通知，包括应用内、推送、电子邮件、短信和聊天。借助 Novu，您可以创建自定义工作流程并为每个渠道定义条件，确保以最有效的方式传递您的通知。
+**推荐语**：[Novu](https://novu.co/) ，面向开发人员的开源通知基础设施，使用单个 [API](https://site.lovejade.cn/tags/API) 管理多渠道通知的终极服务。它提供统一的 API，可以轻松地通过多种渠道发送通知，包括应用内、推送、电子邮件、短信和聊天。借助 Novu，您可以创建自定义工作流程并为每个渠道定义条件，确保以最有效的方式传递您的通知。
 
 ### Novu 功能特征
 
@@ -111,37 +111,37 @@ Novu 的目标是：帮助开发人员在产品与其用户之间，创建有意
 
 [Novu](https://novu.co/) 是一个开源通知基础设施，专为工程团队构建，帮助他们构建丰富的产品通知体验，而无需不断重新发明轮子。它功能强大、易于使用；您可以使用 `docker-compose` 在本地服务器部署，也可以 Novu 提供的免费托管服务。如果您对 `novu` 感兴趣，可[移步 Github 开源](https://github.com/novuhq/novu)仓库（截止 2023 年 07 月 12 日，已收货 21K+ Star）从而了解更多。
 
-── 出自[倾城之链 - Novu - The open-source notification infrastructure](https://nicelinks.site/post/64ae9adcb95cf7176299d15f)
+── 出自[倾城之链 - Novu - The open-source notification infrastructure](https://site.lovejade.cn/post/64ae9adcb95cf7176299d15f)
 
-## [VS Code Themes](https://nicelinks.site/post/64ae965eb95cf7176299d108)
+## [VS Code Themes](https://site.lovejade.cn/post/64ae965eb95cf7176299d108)
 
-**标签**：[`配色`](https://nicelinks.site/tags/配色) · [`开源`](https://nicelinks.site/tags/开源) · [`程序员`](https://nicelinks.site/tags/程序员)
+**标签**：[`配色`](https://site.lovejade.cn/tags/配色) · [`开源`](https://site.lovejade.cn/tags/开源) · [`程序员`](https://site.lovejade.cn/tags/程序员)
 
 > Search and preview themes for Visual Studio Code. Search and preview themes from the VS Code Marketplace.
 
 ![倾城之链 - VS Code Themes](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/vscodethemes.com.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[VS Code Themes](https://vscodethemes.com/) ，从 VS Code Marketplace 搜索并预览 VS Code 主题，使用 Remix 和 Cloudflare Workers 构建。VS Code Themes 扫描 Visual Studio Marketplace 并维护可搜索的主题数据库。在该网站遇见非常喜欢的主题—— [Andromeda](https://vscodethemes.com/e/eliverlara.andromeda/andromeda?language=javascript) （Dark theme with a taste of the universe |带有宇宙味道的黑暗主题；早先喜欢的主题是： [Dracula](https://nicelinks.site/post/636108c262decd06091f4ab9) ），可以直接通过**网页按钮**拉起 Visual Studio Code 应用程序，从而快速安装主题；该项目在 [Github 仓库开源](https://github.com/vscodethemes/web) ，如果您对其感兴趣，可移步以了解更多。
+**推荐语**：[VS Code Themes](https://vscodethemes.com/) ，从 VS Code Marketplace 搜索并预览 VS Code 主题，使用 Remix 和 Cloudflare Workers 构建。VS Code Themes 扫描 Visual Studio Marketplace 并维护可搜索的主题数据库。在该网站遇见非常喜欢的主题—— [Andromeda](https://vscodethemes.com/e/eliverlara.andromeda/andromeda?language=javascript) （Dark theme with a taste of the universe |带有宇宙味道的黑暗主题；早先喜欢的主题是： [Dracula](https://site.lovejade.cn/post/636108c262decd06091f4ab9) ），可以直接通过**网页按钮**拉起 Visual Studio Code 应用程序，从而快速安装主题；该项目在 [Github 仓库开源](https://github.com/vscodethemes/web) ，如果您对其感兴趣，可移步以了解更多。
 
-── 出自[倾城之链 - VS Code Themes](https://nicelinks.site/post/64ae965eb95cf7176299d108)
+── 出自[倾城之链 - VS Code Themes](https://site.lovejade.cn/post/64ae965eb95cf7176299d108)
 
-## [Bento - A Link in Bio, but Rich and Beautiful.](https://nicelinks.site/post/64a97be5b95cf7176299b2da)
+## [Bento - A Link in Bio, but Rich and Beautiful.](https://site.lovejade.cn/post/64a97be5b95cf7176299b2da)
 
-**标签**：[`个人主页`](https://nicelinks.site/tags/个人主页) · [`工具`](https://nicelinks.site/tags/工具) · [`免费`](https://nicelinks.site/tags/免费)
+**标签**：[`个人主页`](https://site.lovejade.cn/tags/个人主页) · [`工具`](https://site.lovejade.cn/tags/工具) · [`免费`](https://site.lovejade.cn/tags/免费)
 
 > Create a beautiful personal page to show your audience everything you are and create - in one link.
 
 ![倾城之链 - Bento - A Link in Bio, but Rich and Beautiful.](https://nicelinks.oss-cn-shenzhen.aliyuncs.com/bento.me.png?x-oss-process=style/png2jpg)
 
-**推荐语**：[Bento](https://bento.me/) ，一个快速创建 [个人主页](https://nicelinks.site/tags/个人主页) 的 Web 应用，展示您的一切和创造的一切，简介中的链接，丰富又美丽，免费可用，专为创意人士打造。它展示的内容足够丰富，可以是您的视频、播客、音乐、链接、地图、相片、时事通讯、付费产品、日历等等，让您的所有内容都集成到您的个人页面中。 不再将您的内容隐藏在链接后面。
+**推荐语**：[Bento](https://bento.me/) ，一个快速创建 [个人主页](https://site.lovejade.cn/tags/个人主页) 的 Web 应用，展示您的一切和创造的一切，简介中的链接，丰富又美丽，免费可用，专为创意人士打造。它展示的内容足够丰富，可以是您的视频、播客、音乐、链接、地图、相片、时事通讯、付费产品、日历等等，让您的所有内容都集成到您的个人页面中。 不再将您的内容隐藏在链接后面。
 
 有基于 [Bento](https://bento.me/) 创建新的个人主页： [杨轩帅](https://bento.me/nicejade) ；为它提供的人性化体验感到**赞叹**；只需提供用户名，设置邮箱、帐号密码即可开始；填入社交网站、个人链接、相片等，更是体贴异常；就以插入个人链接来说，只需提供域名，其他内容都有服务自动抓取、您只需关注它的外观、位置即可，而且操作极为简单。如果您创造出较多内容，强烈推荐您基于 [Bento](https://bento.me/) 创建您的个人主页，以便其他人快速了解这一切。
 
-── 出自[倾城之链 - Bento - A Link in Bio, but Rich and Beautiful.](https://nicelinks.site/post/64a97be5b95cf7176299b2da)
+── 出自[倾城之链 - Bento - A Link in Bio, but Rich and Beautiful.](https://site.lovejade.cn/post/64a97be5b95cf7176299b2da)
 
-## [Download subtitles from Youtube, Viki, Viu, Kocowa, Wetv and more](https://nicelinks.site/post/64a975beb95cf7176299b2a3)
+## [Download subtitles from Youtube, Viki, Viu, Kocowa, Wetv and more](https://site.lovejade.cn/post/64a975beb95cf7176299b2a3)
 
-**标签**：[`下载`](https://nicelinks.site/tags/下载) · [`资源下载`](https://nicelinks.site/tags/资源下载) · [`工具`](https://nicelinks.site/tags/工具)
+**标签**：[`下载`](https://site.lovejade.cn/tags/下载) · [`资源下载`](https://site.lovejade.cn/tags/资源下载) · [`工具`](https://site.lovejade.cn/tags/工具)
 
 **关键字**：download subtitles, download subtitle, subtitle download srt, subtitles download srt, savesubs, subtitles download, download subtitle cc file, subtitle download,subtitle downloader, youtube subtitle downloader, youtube subtitle extractor, youtube subtitles extractor, youtube subtitles download, download subtitle youtube, download subtitles from youtube, youtube subtitle download, download youtube subtitle, download youtube subtitles, download youtube closed captions, extractor, tv line me, youtube downloader, viki, vimeo, soompitv, vk, ted, viu, dailymotion, ondemandkorea, naver, vlive, kocowa, kcon, drive, downloader, download, playlist, subtitle, subtitles, captions, bilingual, dual subtitles, iqiyi, wetv.vip, iflix, nrk.no, brightcove, erosnow, weserve
 
@@ -157,7 +157,7 @@ Novu 的目标是：帮助开发人员在产品与其用户之间，创建有意
 
 [DownSub](https://downsub.com/) 不会强迫他们的用户下载或安装任何类型的扩展或第三方软件。他们提供在线下载字幕的方法，只需输入视频的 URL 并单击“下载”即可。DownSub 还提供一种更便捷的使用方式：在 URL 之前添加 `subtitle.to/` 并按 Enter。
 
-── 出自[倾城之链 - Download subtitles from Youtube, Viki, Viu, Kocowa, Wetv and more](https://nicelinks.site/post/64a975beb95cf7176299b2a3)
+── 出自[倾城之链 - Download subtitles from Youtube, Viki, Viu, Kocowa, Wetv and more](https://site.lovejade.cn/post/64a975beb95cf7176299b2a3)
 
 对倾城之链感兴趣的朋友，可通过 Web，小程序，快应用等渠道进行访问(后续将支持更多，如 VsCode 插件，Chrome 扩展等)。您有任何问题，欢迎随时向我们反馈（您可以通过官网反馈渠道），🤲 。
 
