@@ -40,8 +40,15 @@
     }
   }
   .secondary {
-    width: 30%;
+    width: 20%;
     @include flex-center(row, flex-end, center);
+  }
+  .recommend {
+    width: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: self-end;
+    justify-content: flex-end;
   }
 }
 
