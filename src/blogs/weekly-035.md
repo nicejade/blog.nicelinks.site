@@ -1,4 +1,4 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
+[倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
@@ -105,7 +105,7 @@ Jenkins
 
 “我也想挣大钱过好日子，但是如果是为了挣大钱过好日子去当编剧，我既挣不来大钱也写不出好剧本。**如果我的能力只能让我穷困潦倒，那穷困潦倒就是我的价值**。”；“只要不是我觉到、悟到的，你给不了我，给了我也拿不住，叶晓明他们就是例子。**只有我自己觉到、悟到的，我才有可能做到，我能做到的才是我的**。”── 豆豆《遥远的救世主》
 
-> [倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+> [倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
 ### 您可能感兴趣的文章
 

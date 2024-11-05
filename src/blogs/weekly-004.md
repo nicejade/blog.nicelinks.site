@@ -1,4 +1,4 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。<br>
+[倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。<br>
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、及博客[晚晴幽草轩](https://www.jeffjade.com)；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
 ## [新趣集 - 一起发现有趣的新产品](https://xinquji.com/?utm_source=nicelinks.site)
@@ -105,7 +105,7 @@ VUE 并没有 Web 版本，有提供 Android、iOS、小程序（没有剪辑功
 
 人生追求的三个最高境界：思想自由、财务自由、时间自由；所谓思想自由，就是独立思考、独立判断，所谓时间自由，就是自由地支配自己的时间。思想自由是财务自由的前提，时间自由则是财务自由的终极目标。一个人所有的时间中，自己自由支配的部分越多，他的人生就越自由。
 
-> [倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+> [倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
 ### 您可能感兴趣的文章
 

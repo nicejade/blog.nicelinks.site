@@ -1,4 +1,4 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
+[倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
@@ -81,7 +81,7 @@
 
 我曾七次鄙视自己的灵魂： 第一次，**当它本可进取时，却故作谦卑**； 第二次，**当它在空虚时，用爱欲来填充**； 第三次，**在困难和容易之间，它选择了容易**； 第四次，**它犯了错，却借由别人也会犯错来宽慰自己**； 第五次，它自由软弱，却把它认为是生命的坚韧； 第六次，**当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副**； 第七次，**它侧身于生活的污泥中，虽不甘心，却又畏首畏尾**。 ── 黎巴嫩裔美国诗人、画家 · 纪伯伦《我曾七次鄙视自己的灵魂》
 
-> [倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+> [倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
 ### 您可能感兴趣的文章
 

@@ -1,4 +1,4 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
+[倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
@@ -176,7 +176,7 @@ Fresh 也没有构建步骤。你写的代码也直接是在服务器上运行�
 
 我现在学会更长远的眼光看待别人；换句话说，当我看到一些事情没有做好时，我的第一反应并不是赶紧去纠正，而是说我们要打造的团队，下个时代要能做成伟大的事业，而不仅仅是下一年；所以我需要做的是帮助别人在失败中汲取教训、学习成长，而不是我直接去解决问题；有时候这会很痛苦，而且我还是直觉第一反应想去立刻亲自解决问题，但是我们需要用更长远的眼光去看待别人。── 史蒂夫 · 乔布斯
 
-> [倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+> [倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
 ### 您可能感兴趣的文章
 

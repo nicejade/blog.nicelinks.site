@@ -1,4 +1,4 @@
-[倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
+[倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界。此周刊，将汇聚过去一周[倾城](https://site.lovejade.cn/?utm_source=weekly)所收录的内容，以飨同好；欢迎推荐或自荐（仅限有独立域名的网站，可以是二级域名）。您如果要了解收录要求，请参见[关于倾城](https://site.lovejade.cn/about?utm_source=weekly)。
 
 **备注**：本周刊**每周五**生成，首发于个人微信公众号[晚晴幽草轩](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MDIwMzM2Mg==&action=getalbum&album_id=1530765143352082433&scene=173&from_msgid=2650641087&from_itemidx=1&count=3#wechat_redirect)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://site.lovejade.cn/post/602d30aad099ff5688618591) 编写，并在 Github 开源：[nicejade/nicelinks-weekly](https://github.com/nicejade/nicelinks-weekly)。
 
@@ -195,7 +195,7 @@ Nomad List 的收益主要来自于会员费。网站内容可供免费浏览，
 
 使人有面前之誉，不若使人无背后之毁；使人有乍交之欢，不若使人无久处之厌。攻人之恶毋太严，要思其堪受；教人以善莫过高，当原其可从。不近人情，举世皆畏途；不察物情，一生俱梦境。── 明代 · 陈继儒《小窗幽记·集醒篇》
 
-> [倾城之链](https://link.niceshare.site/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
+> [倾城之链](https://site.lovejade.cn/)作为一个开放平台，旨在云集全球**优秀网站**，探索互联网中更广阔的世界；在这里，你可以轻松发现、学习、分享更多有用或有趣的事物。
 
 ## 您可能感兴趣的文章
 
